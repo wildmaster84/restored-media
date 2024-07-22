@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<a:feed xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1">
+  <a:entry itemNum="1" xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1">
+    <fullTitle>FIFA 09 Demo</fullTitle>
+    <fullDescription>Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual". Ride the swells as Cody, Lani or any 10 characters from the movie Surf’s Up ™. With sweet moves and cool challenges, it’s a slice of surfing paradise!</fullDescription>
+    <globalOriginalReleaseDate>2010-01-21T00:00:00</globalOriginalReleaseDate>
+    <ratingId>30</ratingId>
+    <ratingDescriptors>
+      <ratingDescriptor level="1.0000">2</ratingDescriptor>
+      <ratingDescriptor level="1.0000">12</ratingDescriptor>
+      <ratingDescriptor level="1.0000">26</ratingDescriptor>
+      <ratingDescriptor level="1.0000">31</ratingDescriptor>
+    </ratingDescriptors>
+    <developerName>EA Canada</developerName>
+    <publisherName>Electronic Arts</publisherName>
+    <gameCapabilities>
+    </gameCapabilities>
+    <images>
+      <image>
+        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4541885C/tile.png</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4541885C/background.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4541885C/boxartlg.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4541885C/banner.png</fileUrl>
+      </image>
+    </images>
+    <slideShows>
+    </slideShows>
+  </a:entry>
+</a:feed>
