@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<a:feed xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1">
+  <a:entry itemNum="1" xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1">
+    <fullTitle>Tomb Raider: Legend Demo</fullTitle>
+    <fullDescription>Lara Is Back! Take Lara back to the Tombs with totally new moves and hi-tech gadgetry in her most explosive adventure ever.</fullDescription>
+    <globalOriginalReleaseDate>2010-04-08T00:00:00</globalOriginalReleaseDate>
+    <ratingId>30</ratingId>
+    <ratingDescriptors>
+      <ratingDescriptor level="1.0000">2</ratingDescriptor>
+      <ratingDescriptor level="1.0000">12</ratingDescriptor>
+      <ratingDescriptor level="1.0000">26</ratingDescriptor>
+      <ratingDescriptor level="1.0000">31</ratingDescriptor>
+    </ratingDescriptors>
+    <developerName>Crystal Dynamics</developerName>
+    <publisherName>Eidos</publisherName>
+    <gameCapabilities>
+    </gameCapabilities>
+    <images>
+      <image>
+        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/534387D8/tile.png</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/534387D8/background.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/534387D8/boxartlg.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/534387D8/banner.png</fileUrl>
+      </image>
+    </images>
+    <slideShows>
+    </slideShows>
+  </a:entry>
+</a:feed>
