@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<a:feed xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1">
+  <a:entry itemNum="1" xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1">
+    <fullTitle>EA SPORTS 2010 FIFA World Cup South Africa™ Demo</fullTitle>
+    <fullDescription>EA SPORTS™ celebrates the single largest sporting event on the planet with the only official and exclusively licensed videogame for the 2010 FIFA World Cup South Africa™. Experience all the emotion and passion of the world’s fiercest national rivalries as you live the dream of competing against friends from around the world for the 2010 FIFA World Cup South Africa™. Take on the challenge of leading your home nation from qualification right through to a virtual re-creation of the final with all the pageantry, drama and excitement of the official tournament.</fullDescription>
+    <globalOriginalReleaseDate>2010-03-29T00:00:00</globalOriginalReleaseDate>
+    <ratingId>30</ratingId>
+    <ratingDescriptors>
+      <ratingDescriptor level="1.0000">2</ratingDescriptor>
+      <ratingDescriptor level="1.0000">12</ratingDescriptor>
+      <ratingDescriptor level="1.0000">26</ratingDescriptor>
+      <ratingDescriptor level="1.0000">31</ratingDescriptor>
+    </ratingDescriptors>
+    <developerName>EA Canada</developerName>
+    <publisherName>Electronic Arts</publisherName>
+    <gameCapabilities>
+    </gameCapabilities>
+    <images>
+      <image>
+        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/454188F6/tile.png</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/454188F6/background.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/454188F6/boxartlg.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/454188F6/banner.png</fileUrl>
+      </image>
+    </images>
+    <slideShows>
+    </slideShows>
+  </a:entry>
+</a:feed>
