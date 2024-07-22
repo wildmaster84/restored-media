@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<a:feed xmlns:a="http://www.w3.org/2005/Atom">
+  <a:entry itemNum="1">
+    <fullTitle>Indie Game</fullTitle>
+    <fullDescription>This game has not been archived.</fullDescription>
+    <globalOriginalReleaseDate>N/AT00:00:00</globalOriginalReleaseDate>
+    <ratingId>30</ratingId>
+    <ratingDescriptors>
+      <ratingDescriptor level="1.0000">2</ratingDescriptor>
+      <ratingDescriptor level="1.0000">12</ratingDescriptor>
+      <ratingDescriptor level="1.0000">26</ratingDescriptor>
+      <ratingDescriptor level="1.0000">31</ratingDescriptor>
+    </ratingDescriptors>
+    <developerName>N/A</developerName>
+    <publisherName>N/A</publisherName>
+    <gameCapabilities>
+      <onlineMultiplayerMin>1</onlineMultiplayerMin>
+      <offlineSystemLinkMin>1</offlineSystemLinkMin>
+      <onlineCoopPlayersMin>1</onlineCoopPlayersMin>
+    </gameCapabilities>
+    <images>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/00000000/tile.png</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/00000000/background.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/00000000/boxartlg.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/00000000/banner.png</fileUrl>
+      </image>
+    </images>
+    <slideShows>
+      <slideshow>
+        <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/00000000/screenlg1.jpg</fileUrl>
+        </image>
+      </slideshow>
+    </slideShows>
+  </a:entry>
+</a:feed>
