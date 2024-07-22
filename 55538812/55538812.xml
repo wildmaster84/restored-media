@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<a:feed xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1">
+  <a:entry itemNum="1" xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1">
+    <fullTitle>Americas Army: True Soldiers Demo</fullTitle>
+    <fullDescription>Play the Xbox 360 debut of the only Official U.S. Army game. America’s Army: True Soldiers - Created by Soldiers, Developed by Gamers, Tested by Heroes. Team up with up to 15 other players to take on the enemy forces that have occupied the Coastal Village in a dynamic Co-Op mission or play an 8 on 8 Squad Engagement match vs. another team of highly trained soldiers. Use the real High-Tech gear that the U.S. Army uses in the field today, equipment such as the Blue Force Tracker or the Raven UAV. Opt-In as a Squad Leader to gain the ability to call in an Artillery barrage or turn the heat up a notch by enabling the ‘True Soldier’ mode.</fullDescription>
+    <globalOriginalReleaseDate>2008-01-01T00:00:00</globalOriginalReleaseDate>
+    <ratingId>30</ratingId>
+    <ratingDescriptors>
+      <ratingDescriptor level="1.0000">2</ratingDescriptor>
+      <ratingDescriptor level="1.0000">12</ratingDescriptor>
+      <ratingDescriptor level="1.0000">26</ratingDescriptor>
+      <ratingDescriptor level="1.0000">31</ratingDescriptor>
+    </ratingDescriptors>
+    <developerName>High Voltage Software</developerName>
+    <publisherName>UbiSoft</publisherName>
+    <gameCapabilities>
+    </gameCapabilities>
+    <images>
+      <image>
+        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/55538812/tile.png</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/55538812/background.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/55538812/boxartlg.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/55538812/banner.png</fileUrl>
+      </image>
+    </images>
+    <slideShows>
+    </slideShows>
+  </a:entry>
+</a:feed>
