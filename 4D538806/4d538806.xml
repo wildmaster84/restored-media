@@ -14,122 +14,87 @@
     <developerName>PHANTAGRAM / Q Entertainment</developerName>
     <publisherName>Microsoft</publisherName>
     <gameCapabilities>
+      <offlineMaxHDTVModeId>1</offlineMaxHDTVModeId>
+      <offlineDolbyDigital>1</offlineDolbyDigital>
+      <onlineLeaderboards>1</onlineLeaderboards>
     </gameCapabilities>
     <images>
-      <image>
-        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/tile.png</fileUrl>
-      </image>
-      <image>
-        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/background.jpg</fileUrl>
-      </image>
-      <image>
-        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/boxartlg.jpg</fileUrl>
-      </image>
-      <image>
-        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/banner.png</fileUrl>
-      </image>
+       <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/tile.png</fileUrl>
+       </image>
+       <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/background.jpg</fileUrl>
+       </image>
+       <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/boxartlg.jpg</fileUrl>
+       </image>
+       <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/banner.png</fileUrl>
+       </image>
     </images>
     <slideShows>
       <slideShow>
         <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/screenlg1.jpg</fileUrl>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/screenlg1.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/screenlg2.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/screenlg2.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/screenlg3.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/screenlg3.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/screenlg4.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/screenlg4.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/screenlg5.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/screenlg5.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/screenlg6.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/screenlg6.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/screenlg7.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/screenlg7.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/screenlg8.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/screenlg8.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/screenlg9.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/screenlg9.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/screenlg10.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/screenlg10.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/screenlg11.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/screenlg11.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/screenlg12.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/screenlg12.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/screenlg13.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/screenlg13.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/screenlg14.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/screenlg14.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/screenlg15.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/screenlg15.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/screenlg16.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/screenlg16.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/screenlg17.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/screenlg17.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/screenlg18.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/screenlg18.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/screenlg19.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/screenlg19.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/4D538806/screenlg20.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D538806/screenlg20.jpg</fileUrl>
         </image>
       </slideShow>
     </slideShows>
-  </a:entry>
+   </a:entry>
 </a:feed>

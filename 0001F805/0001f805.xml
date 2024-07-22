@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<a:feed xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1">
+  <a:entry itemNum="1" xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1">
+    <fullTitle>Full Game - Xbox 360 Beta</fullTitle>
+    <fullDescription>Buy an Xbox 360 with New Xbox Experience Today!</fullDescription>
+    <globalOriginalReleaseDate>2009-09-11T06:47:00</globalOriginalReleaseDate>
+    <ratingId>30</ratingId>
+    <ratingDescriptors>
+      <ratingDescriptor level="1.0000">2</ratingDescriptor>
+      <ratingDescriptor level="1.0000">12</ratingDescriptor>
+      <ratingDescriptor level="1.0000">26</ratingDescriptor>
+      <ratingDescriptor level="1.0000">31</ratingDescriptor>
+    </ratingDescriptors>
+    <developerName>Microsoft Corporation</developerName>
+    <publisherName>Microsoft Corporation</publisherName>
+    <gameCapabilities>
+      <offlineMaxHDTVModeId>1</offlineMaxHDTVModeId>
+      <offlineDolbyDigital>1</offlineDolbyDigital>
+      <onlineLeaderboards>1</onlineLeaderboards>
+    </gameCapabilities>
+    <images>
+       <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/0001F805/tile.png</fileUrl>
+       </image>
+       <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/0001F805/background.jpg</fileUrl>
+       </image>
+       <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/0001F805/boxartlg.jpg</fileUrl>
+       </image>
+       <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/0001F805/banner.png</fileUrl>
+       </image>
+    </images>
+  </a:entry>
+</a:feed>

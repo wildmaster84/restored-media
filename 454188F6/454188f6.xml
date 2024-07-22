@@ -14,22 +14,23 @@
     <developerName>EA Canada</developerName>
     <publisherName>Electronic Arts</publisherName>
     <gameCapabilities>
+      <offlineMaxHDTVModeId>1</offlineMaxHDTVModeId>
+      <offlineDolbyDigital>1</offlineDolbyDigital>
+      <onlineLeaderboards>1</onlineLeaderboards>
     </gameCapabilities>
     <images>
-      <image>
-        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/454188F6/tile.png</fileUrl>
-      </image>
-      <image>
-        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/454188F6/background.jpg</fileUrl>
-      </image>
-      <image>
-        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/454188F6/boxartlg.jpg</fileUrl>
-      </image>
-      <image>
-        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/454188F6/banner.png</fileUrl>
-      </image>
+       <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/454188F6/tile.png</fileUrl>
+       </image>
+       <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/454188F6/background.jpg</fileUrl>
+       </image>
+       <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/454188F6/boxartlg.jpg</fileUrl>
+       </image>
+       <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/454188F6/banner.png</fileUrl>
+       </image>
     </images>
-    <slideShows>
-    </slideShows>
   </a:entry>
 </a:feed>

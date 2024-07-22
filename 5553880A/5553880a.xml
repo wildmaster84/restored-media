@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <a:feed xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1">
-  <a:entry itemNum="1" xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1">
+   <a:entry itemNum="1" xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1">
     <fullTitle>Surf's Up Demo</fullTitle>
     <fullDescription>Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual". Ride the swells as Cody, Lani or any 10 characters from the movie Surf’s Up ™. With sweet moves and cool challenges, it’s a slice of surfing paradise!</fullDescription>
     <globalOriginalReleaseDate>2008-01-01T00:00:00</globalOriginalReleaseDate>
@@ -14,62 +14,51 @@
     <developerName>Ubisoft Montreal</developerName>
     <publisherName>UbiSoft</publisherName>
     <gameCapabilities>
+      <offlineMaxHDTVModeId>1</offlineMaxHDTVModeId>
+      <offlineDolbyDigital>1</offlineDolbyDigital>
+      <onlineLeaderboards>1</onlineLeaderboards>
     </gameCapabilities>
     <images>
-      <image>
-        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/5553880A/tile.png</fileUrl>
-      </image>
-      <image>
-        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/5553880A/background.jpg</fileUrl>
-      </image>
-      <image>
-        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/5553880A/boxartlg.jpg</fileUrl>
-      </image>
-      <image>
-        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/5553880A/banner.png</fileUrl>
-      </image>
+       <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5553880A/tile.png</fileUrl>
+       </image>
+       <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5553880A/background.jpg</fileUrl>
+       </image>
+       <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5553880A/boxartlg.jpg</fileUrl>
+       </image>
+       <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5553880A/banner.png</fileUrl>
+       </image>
     </images>
     <slideShows>
       <slideShow>
         <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/5553880A/screenlg1.jpg</fileUrl>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5553880A/screenlg1.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/5553880A/screenlg2.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5553880A/screenlg2.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/5553880A/screenlg3.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5553880A/screenlg3.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/5553880A/screenlg4.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5553880A/screenlg4.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/5553880A/screenlg5.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5553880A/screenlg5.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/5553880A/screenlg6.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5553880A/screenlg6.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/5553880A/screenlg7.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5553880A/screenlg7.jpg</fileUrl>
         </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/5553880A/screenlg8.jpg</fileUrl>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5553880A/screenlg8.jpg</fileUrl>
         </image>
       </slideShow>
     </slideShows>
-  </a:entry>
+   </a:entry>
 </a:feed>

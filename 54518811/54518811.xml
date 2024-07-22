@@ -3,7 +3,7 @@
   <a:entry itemNum="1" xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1">
     <fullTitle>Conan Demo</fullTitle>
     <fullDescription>This game supports English, French, Italian, German, and Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". If it bleeds, you can kill it. Become Conan the Barbarian, the greatest sword-swinging killing machine ever. Use any weapon and anything else you can find in the deepest combat system of the next generation. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.</fullDescription>
-    <globalOriginalReleaseDate>2010-07-13T00:00:00</globalOriginalReleaseDate>
+    <globalOriginalReleaseDate>2010-07-10T00:00:00</globalOriginalReleaseDate>
     <ratingId>30</ratingId>
     <ratingDescriptors>
       <ratingDescriptor level="1.0000">2</ratingDescriptor>
@@ -14,51 +14,45 @@
     <developerName>Nihilistic Software, Inc.</developerName>
     <publisherName>THQ</publisherName>
     <gameCapabilities>
+      <offlineMaxHDTVModeId>1</offlineMaxHDTVModeId>
+      <offlineDolbyDigital>1</offlineDolbyDigital>
+      <onlineLeaderboards>1</onlineLeaderboards>
     </gameCapabilities>
     <images>
       <image>
-        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/54518811/tile.png</fileUrl>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/54518811/tile.png</fileUrl>
       </image>
       <image>
-        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/54518811/background.jpg</fileUrl>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/54518811/background.jpg</fileUrl>
       </image>
       <image>
-        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/54518811/boxartlg.jpg</fileUrl>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/54518811/boxartlg.jpg</fileUrl>
       </image>
       <image>
-        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/54518811/banner.png</fileUrl>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/54518811/banner.png</fileUrl>
       </image>
     </images>
     <slideShows>
       <slideShow>
         <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/54518811/screenlg1.jpg</fileUrl>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/54518811/screenlg1.jpg</fileUrl>
+        </image>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/54518811/screenlg2.jpg</fileUrl>
+        </image>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/54518811/screenlg3.jpg</fileUrl>
+        </image>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/54518811/screenlg4.jpg</fileUrl>
+        </image>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/54518811/screenlg5.jpg</fileUrl>
+        </image>
+		<image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/54518811/screenlg6.jpg</fileUrl>
         </image>
       </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/54518811/screenlg2.jpg</fileUrl>
-        </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/54518811/screenlg3.jpg</fileUrl>
-        </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/54518811/screenlg4.jpg</fileUrl>
-        </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/54518811/screenlg5.jpg</fileUrl>
-        </image>
-      </slideShow>
-	  <slideShow>
-        <image>
-          <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/54518811/screenlg6.jpg</fileUrl>
-        </image>
-      </slideShow>
+    </slideShows>
   </a:entry>
 </a:feed>

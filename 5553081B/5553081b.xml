@@ -14,37 +14,39 @@
     <developerName>Ubisoft</developerName>
     <publisherName>Ubisoft</publisherName>
     <gameCapabilities>
-      <onlineMultiplayerMin>1</onlineMultiplayerMin>
+      <offlineMaxHDTVModeId>1</offlineMaxHDTVModeId>
+      <offlineDolbyDigital>1</offlineDolbyDigital>
+      <onlineLeaderboards>1</onlineLeaderboards>
     </gameCapabilities>
     <images>
-      <image>
-        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/5553081B/tile.png</fileUrl>
-      </image>
-      <image>
-        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/5553081B/background.jpg</fileUrl>
-      </image>
-      <image>
-        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/5553081B/boxartlg.jpg</fileUrl>
-      </image>
-      <image>
-        <fileUrl>https://api.github.com/repos/wildmaster84/restored-media/5553081B/banner.png</fileUrl>
-      </image>
+       <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5553081B/tile.png</fileUrl>
+       </image>
+       <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5553081B/background.jpg</fileUrl>
+       </image>
+       <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5553081B/boxartlg.jpg</fileUrl>
+       </image>
+       <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5553081B/banner.png</fileUrl>
+       </image>
     </images>
     <slideShows>
       <slideShow>
         <image>
-          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5553081B/screenlg1.jpg</fileUrl>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/54518811/screenlg1.jpg</fileUrl>
         </image>
 		<image>
-          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5553081B/screenlg2.jpg</fileUrl>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/54518811/screenlg2.jpg</fileUrl>
         </image>
 		<image>
-          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5553081B/screenlg3.jpg</fileUrl>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/54518811/screenlg3.jpg</fileUrl>
         </image>
 		<image>
-          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5553081B/screenlg4.jpg</fileUrl>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/54518811/screenlg4.jpg</fileUrl>
         </image>
       </slideShow>
     </slideShows>
-  </a:entry>
+   </a:entry>
 </a:feed>
