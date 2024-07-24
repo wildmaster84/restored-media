@@ -12,7 +12,7 @@ def add_entry_to_xml(file_path, new_entry_data):
     namespaces = {'a': 'http://www.w3.org/2005/Atom', '': 'http://marketplace.xboxlive.com/resource/product/v1'}
 
     # Create a new entry element
-    entry = ET.Element('{http://www.w3.org/2005/Atom}entry', attrib={'itemNum': '1'})
+    entry = ET.Element('{http://www.w3.org/2005/Atom}entry', attrib={'itemNum': '1', 'xmlns:a': namespaces['a'], 'xmlns': namespaces['']})
 
     # Add sub-elements to the new entry
     full_title = ET.SubElement(entry, 'fullTitle')
@@ -78,12 +78,12 @@ def add_entry_to_xml(file_path, new_entry_data):
 
 if __name__ == '__main__':
     
-    file_name = input("Enter the new file name (without .xml extension): ").lower()
-    path = os.path.abspath(os.path.join(os.path.dirname(__file__), f'{file_name}'))
+    file_name = input("Enter the new file name (without .xml extension): ")
+    path = os.path.abspath(os.path.join(os.path.dirname(__file__), f'{file_name.upper()}'))
     os.makedirs(path, exist_ok=True)
     
     # Create the output folder path
-    output_folder = os.path.join(path, f'{file_name}.xml')
+    output_folder = os.path.join(path, f'{file_name.lower()}.xml')
     
     title = input("Enter the new title: ")
     description = input("Enter the new description: ")
@@ -93,7 +93,9 @@ if __name__ == '__main__':
     xboxlive = int(input("Has Xbox Live? ( 1 = Yes | 0 = No): "))
     systemlink = int(input("Has SystemLink? ( 1 = Yes | 0 = No): "))
     coop = int(input("Has Coop? ( 1 = Yes | 0 = No): "))
-    banner = input("Game file icon name? (boxartlg): ")
+    icon = input("Game file icon name? (boxartlg | cbox): ")
+    background = input("Game file background name? (background | cback): ")
+    galleryImg = input("Slideshow image name? (screenlg | sim[exclude the numbers]): ")
     gallery = int(input("How many slideshow images?: "))
     
     capabilities = []
@@ -110,12 +112,15 @@ if __name__ == '__main__':
         
     
     for i in range(gallery):
-        slidshows.append(f"https://raw.githubusercontent.com/wildmaster84/restored-media/main/{file_name.upper()}/screenlg{i + 1}.jpg")
+        if galleryImg == "screenlg":
+            slidshows.append(f"https://raw.githubusercontent.com/wildmaster84/restored-media/main/{file_name.upper()}/screenlg{i + 1}.jpg")
+        else:
+            slidshows.append(f"https://raw.githubusercontent.com/wildmaster84/restored-media/main/{file_name.upper()}/{galleryImg}{i+1:03}.jpg")
     
     images = [
         f"https://raw.githubusercontent.com/wildmaster84/restored-media/main/{file_name.upper()}/tile.png",
-        f"https://raw.githubusercontent.com/wildmaster84/restored-media/main/{file_name.upper()}/background.jpg",
-        f"https://raw.githubusercontent.com/wildmaster84/restored-media/main/{file_name.upper()}/{banner}.jpg",
+        f"https://raw.githubusercontent.com/wildmaster84/restored-media/main/{file_name.upper()}/{background}.jpg",
+        f"https://raw.githubusercontent.com/wildmaster84/restored-media/main/{file_name.upper()}/{icon}.jpg",
         f"https://raw.githubusercontent.com/wildmaster84/restored-media/main/{file_name.upper()}/banner.png"
     ]
     
