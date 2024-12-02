@@ -1,9 +1,10 @@
-<?xml version="1.0" ?>
-<a:feed xmlns:a="http://www.w3.org/2005/Atom">
-  <a:entry itemNum="1">
+<?xml version="1.0" encoding="UTF-8"?>
+<a:feed xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1">
+  <a:entry itemNum="1" xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1">
     <fullTitle>Indie Game</fullTitle>
-    <fullDescription>This game has not been archived.</fullDescription>
-    <globalOriginalReleaseDate>N/AT00:00:00</globalOriginalReleaseDate>
+    <reducedTitle>Indie Game</reducedTitle>
+    <fullDescription>This game has not been archived!</fullDescription>
+    <globalOriginalReleaseDate>1997-01-01T00:00:00</globalOriginalReleaseDate>
     <ratingId>30</ratingId>
     <ratingDescriptors>
       <ratingDescriptor level="1.0000">2</ratingDescriptor>
@@ -14,30 +15,33 @@
     <developerName>N/A</developerName>
     <publisherName>N/A</publisherName>
     <gameCapabilities>
-      <onlineMultiplayerMin>1</onlineMultiplayerMin>
-      <offlineSystemLinkMin>1</offlineSystemLinkMin>
-      <onlineCoopPlayersMin>1</onlineCoopPlayersMin>
+      <offlineMaxHDTVModeId>1</offlineMaxHDTVModeId>
+      <offlineDolbyDigital>1</offlineDolbyDigital>
+      <onlineLeaderboards>1</onlineLeaderboards>
     </gameCapabilities>
     <images>
       <image>
-        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/00000000/tile.png</fileUrl>
+        <fileUrl>http://example.com/tile.png</fileUrl>
       </image>
       <image>
-        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/00000000/background.jpg</fileUrl>
+        <fileUrl>http://example.com/background.jpg</fileUrl>
       </image>
       <image>
-        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/00000000/boxartlg.jpg</fileUrl>
+        <fileUrl>http://example.com/boxartlg.jpg</fileUrl>
       </image>
       <image>
-        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/00000000/banner.png</fileUrl>
+        <fileUrl>http://example.com/banner.png</fileUrl>
+      </image>
+      <image>
+        <fileUrl>http://example.com/boxartsm.jpg</fileUrl>
       </image>
     </images>
     <slideShows>
-      <slideshow>
+      <slideShow>
         <image>
-          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/00000000/screenlg1.jpg</fileUrl>
+          <fileUrl>http://example.com/screenlg1.jpg</fileUrl>
         </image>
-      </slideshow>
+      </slideShow>
     </slideShows>
   </a:entry>
 </a:feed>
