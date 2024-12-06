@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?> <a:feed xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1"><a:author><a:name>Xbox LIVE</a:name></a:author><a:id>http://marketplace.xboxlive.com/resource/product/v1</a:id><a:title>Query Result</a:title><a:updated>2024-09-16 18:06:26Z</a:updated><totalItems>0</totalItems><numItems>0</numItems><locale>en-US</locale></a:feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<a:feed xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1">
+  <a:entry itemNum="1" xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1">
+    <fullTitle>Star Wars: Battlefront III</fullTitle>
+    <reducedTitle>Battlefront III</reducedTitle>
+    <fullDescription>This game does not have a description!</fullDescription>
+    <globalOriginalReleaseDate>1997-01-01T00:00:00</globalOriginalReleaseDate>
+    <ratingId>30</ratingId>
+    <ratingDescriptors>
+      <ratingDescriptor level="1.0000">2</ratingDescriptor>
+      <ratingDescriptor level="1.0000">12</ratingDescriptor>
+      <ratingDescriptor level="1.0000">26</ratingDescriptor>
+      <ratingDescriptor level="1.0000">31</ratingDescriptor>
+    </ratingDescriptors>
+    <developerName>N/A</developerName>
+    <publisherName>N/A</publisherName>
+	<gameCapabilities>
+           <offlinePlayersMin>1</offlinePlayersMin>
+           <offlinePlayersMax>4</offlinePlayersMax>
+           <offlineCoopPlayersMin>2</offlineCoopPlayersMin>
+           <offlineCoopPlayersMax>4</offlineCoopPlayersMax>
+           <offlineMaxHDTVModeId>1</offlineMaxHDTVModeId>
+           <offlineDolbyDigital>1</offlineDolbyDigital>
+           <onlineMultiplayerMin>2</onlineMultiplayerMin>
+           <onlineMultiplayerMax>6</onlineMultiplayerMax>
+           <onlineCoopPlayersMin>2</onlineCoopPlayersMin>
+           <onlineCoopPlayersMax>50</onlineCoopPlayersMax>
+           <onlineContentDownload>1</onlineContentDownload>
+           <onlineLeaderboards>1</onlineLeaderboards>
+           <onlineVoice>1</onlineVoice>
+		   <offlineSystemLinkMin>2</offlineSystemLinkMin>
+           <offlineSystemLinkMax>50</offlineSystemLinkMax>
+       </gameCapabilities>
+    <images>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4C4107D5/tile.png</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4C4107D5/background.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4C4107D5/boxartlg.jpg</fileUrl>
+      </image>
+    </images>
+    <slideShows>
+      <slideShow>
+        <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4C4107D5/screenlg1.jpg</fileUrl>
+        </image>
+      </slideShow>
+    </slideShows>
+  </a:entry>
+</a:feed>
