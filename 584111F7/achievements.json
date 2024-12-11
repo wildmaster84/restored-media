@@ -1,0 +1,3817 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Inventur",
+                    "en-US": "Taking Inventory",
+                    "es-ES": "Haciendo inventario",
+                    "fr-FR": "Faire l'inventaire",
+                    "it-IT": "Nell'inventario",
+                    "ja-JP": "持ち物ゲット",
+                    "ko-KR": "소지품 열기",
+                    "pt-PT": "Abrir o Inventário",
+                    "zh-CHT": "盤點庫存"
+                },
+                "description": {
+                    "de-DE": "Öffne dein Inventar.",
+                    "en-US": "Open your inventory.",
+                    "es-ES": "Has abierto el inventario.",
+                    "fr-FR": "Ouvrir votre inventaire.",
+                    "it-IT": "Apri l'inventario.",
+                    "ja-JP": "持ち物を開いた",
+                    "ko-KR": "소지품을 여십시오.",
+                    "pt-PT": "Abre o teu inventário.",
+                    "zh-CHT": "打開您的物品欄。"
+                },
+                "howto": {
+                    "de-DE": "Öffne dein Inventar.",
+                    "en-US": "Open your inventory.",
+                    "es-ES": "Abre el inventario.",
+                    "fr-FR": "Ouvrir votre inventaire.",
+                    "it-IT": "Apri l'inventario.",
+                    "ja-JP": "持ち物を開こう",
+                    "ko-KR": "소지품을 여십시오.",
+                    "pt-PT": "Abre o teu inventário.",
+                    "zh-CHT": "打開您的物品欄。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Dreimal auf Holz geklopft",
+                    "en-US": "Getting Wood",
+                    "es-ES": "Madera de líder",
+                    "fr-FR": "Coupons du bois",
+                    "it-IT": "Duro come il legno",
+                    "ja-JP": "木を手に入れよう",
+                    "ko-KR": "최초의 나무",
+                    "pt-PT": "Apanhar Madeira",
+                    "zh-CHT": "獲得木頭"
+                },
+                "description": {
+                    "de-DE": "Schlage gegen einen Baum, bis ein Holzblock herausspringt.",
+                    "en-US": "Punch a tree until the block of wood pops out.",
+                    "es-ES": "Le has pegado puñetazos a un árbol hasta que ha aparecido un bloque de madera.",
+                    "fr-FR": "Frapper un arbre jusqu'à ce qu'un bloc de bois apparaisse.",
+                    "it-IT": "Colpisci un albero fino a ottenere un blocco di legno.",
+                    "ja-JP": "木に衝撃を与えて、木のブロックを切り出した",
+                    "ko-KR": "원목 블록이 튀어나올 때까지 나무를 때리십시오.",
+                    "pt-PT": "Golpeia a árvore até que saia um bloco de madeira.",
+                    "zh-CHT": "用手擊打樹木，直到木頭方塊掉出來。"
+                },
+                "howto": {
+                    "de-DE": "Schlage gegen einen Baum, bis ein Holzblock herausspringt.",
+                    "en-US": "Punch a tree until the block of wood pops out.",
+                    "es-ES": "Pégale puñetazos a un árbol hasta que salga el bloque de madera.",
+                    "fr-FR": "Frapper un arbre jusqu'à ce qu'un bloc de bois apparaisse.",
+                    "it-IT": "Colpisci un albero fino a ottenere un blocco di legno.",
+                    "ja-JP": "木に衝撃を与えて、木のブロックを切り出そう",
+                    "ko-KR": "원목 블록이 튀어나올 때까지 나무를 때리십시오.",
+                    "pt-PT": "Golpeia a árvore até que saia um bloco de madeira.",
+                    "zh-CHT": "用手擊打樹木，直到木頭方塊掉出來。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Fortgeschrittenes Handwerk",
+                    "en-US": "Benchmarking",
+                    "es-ES": "Manos a la obra",
+                    "fr-FR": "Au travail !",
+                    "it-IT": "Banco di prova",
+                    "ja-JP": "土台作り",
+                    "ko-KR": "작업대 개시",
+                    "pt-PT": "Mesa de Trabalho construída",
+                    "zh-CHT": "基礎"
+                },
+                "description": {
+                    "de-DE": "Stell aus vier Holzbrettern eine Werkbank her.",
+                    "en-US": "Craft a workbench with four blocks of wooden planks.",
+                    "es-ES": "Has fabricado una mesa de trabajo con cuatro bloques de tablones de madera.",
+                    "fr-FR": "Fabriquer un établi avec quatre blocs de planches en bois.",
+                    "it-IT": "Crea un banco da lavoro con quattro blocchi di assi di legno.",
+                    "ja-JP": "木の板 4 ブロックを材料に、作業台を作ろう",
+                    "ko-KR": "목재 4개로 작업대를 만드십시오.",
+                    "pt-PT": "Cria uma bancada de trabalho com quatro blocos de tábuas de madeira.",
+                    "zh-CHT": "用 4 塊厚板精製出 1 個精製台。"
+                },
+                "howto": {
+                    "de-DE": "Stell aus vier Holzbrettern eine Werkbank her.",
+                    "en-US": "Craft a workbench with four blocks of wooden planks.",
+                    "es-ES": "Fabrica una mesa de trabajo con cuatro bloques de tablones de madera.",
+                    "fr-FR": "Fabriquer un établi avec quatre blocs de planches en bois.",
+                    "it-IT": "Crea un banco da lavoro con quattro blocchi di assi di legno.",
+                    "ja-JP": "木の板 4 ブロックを材料に、作業台を作ろう",
+                    "ko-KR": "목재 4개로 작업대를 만드십시오.",
+                    "pt-PT": "Cria uma bancada de trabalho com quatro blocos de tábuas de madeira.",
+                    "zh-CHT": "用 4 塊厚板精製出 1 個精製台。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Glück Auf!",
+                    "en-US": "Time to Mine!",
+                    "es-ES": "¡Hora de picar!",
+                    "fr-FR": "Bonne pioche !",
+                    "it-IT": "In miniera!",
+                    "ja-JP": "いざ採掘!",
+                    "ko-KR": "채굴 개시!",
+                    "pt-PT": "Hora de Escavar!!",
+                    "zh-CHT": "採礦時間！"
+                },
+                "description": {
+                    "de-DE": "Stell aus Holz und Stöcken eine Spitzhacke her.",
+                    "en-US": "Use planks and sticks to make a pickaxe.",
+                    "es-ES": "Has usado tablones y palos para hacer un pico.",
+                    "fr-FR": "Utiliser des planches et des bâtons pour fabriquer une pioche.",
+                    "it-IT": "Usa assi e bastoni per realizzare una piccozza.",
+                    "ja-JP": "木の板と棒を材料に、ツルハシを作った",
+                    "ko-KR": "목재와 막대를 사용하여 곡괭이를 만드십시오.",
+                    "pt-PT": "Constrói uma picareta com tábuas e paus.",
+                    "zh-CHT": "使用木板及木棍製作出十字鎬。"
+                },
+                "howto": {
+                    "de-DE": "Stell aus Holz und Stöcken eine Spitzhacke her.",
+                    "en-US": "Use planks and sticks to make a pickaxe.",
+                    "es-ES": "Usa tablones y palos para hacer un pico.",
+                    "fr-FR": "Utiliser des planches et des bâtons pour fabriquer une pioche.",
+                    "it-IT": "Usa assi e bastoni per realizzare una piccozza.",
+                    "ja-JP": "木の板と棒を材料に、ツルハシを作ろう",
+                    "ko-KR": "목재와 막대를 사용하여 곡괭이를 만드십시오.",
+                    "pt-PT": "Constrói uma picareta com tábuas e paus.",
+                    "zh-CHT": "使用木板及木棍製作出十字鎬。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Heiße Angelegenheit",
+                    "en-US": "Hot Topic",
+                    "es-ES": "Recién hecho",
+                    "fr-FR": "Au fourneau !",
+                    "it-IT": "Situazione bollente",
+                    "ja-JP": "ホットトピック",
+                    "ko-KR": "화끈한 이야기",
+                    "pt-PT": "Tópico Quente",
+                    "zh-CHT": "『熱』門『焦』點"
+                },
+                "description": {
+                    "de-DE": "Stell aus acht Bruchstein-Blöcken einen Ofen her.",
+                    "en-US": "Construct a furnace out of eight cobblestone blocks.",
+                    "es-ES": "Has construido un horno con ocho bloques de adoquines.",
+                    "fr-FR": "Construire un four à partir de huit blocs de pierre taillée.",
+                    "it-IT": "Costruisci una fornace usando otto blocchi di ciottoli.",
+                    "ja-JP": "8 つの丸石ブロックを材料に、かまどを作った",
+                    "ko-KR": "조약돌 블록 8개로 화로를 만드십시오.",
+                    "pt-PT": "Constrói uma fornalha com oito blocos de pedra arredondada.",
+                    "zh-CHT": "以八個鵝卵石方塊製作出一個熔爐。"
+                },
+                "howto": {
+                    "de-DE": "Stell aus acht Bruchstein-Blöcken einen Ofen her.",
+                    "en-US": "Construct a furnace out of eight cobblestone blocks.",
+                    "es-ES": "Construye un horno con ocho bloques de adoquines.",
+                    "fr-FR": "Construire un four à partir de huit blocs de pierre taillée.",
+                    "it-IT": "Costruisci una fornace usando otto blocchi di ciottoli.",
+                    "ja-JP": "8 つの丸石ブロックを材料に、かまどを作ろう",
+                    "ko-KR": "조약돌 블록 8개로 화로를 만드십시오.",
+                    "pt-PT": "Constrói uma fornalha com oito blocos de pedra arredondada.",
+                    "zh-CHT": "以八個鵝卵石方塊製作出一個熔爐。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "13.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Schmiedekunst",
+                    "en-US": "Acquire Hardware",
+                    "es-ES": "Ponle hierro al asunto",
+                    "fr-FR": "L'âge du fer",
+                    "it-IT": "Ferri del mestiere",
+                    "ja-JP": "メタルに決めろ",
+                    "ko-KR": "최초의 철",
+                    "pt-PT": "Obter Ferramentas",
+                    "zh-CHT": "來硬的"
+                },
+                "description": {
+                    "de-DE": "Schmilz einen Eisenbarren.",
+                    "en-US": "Smelt an iron ingot.",
+                    "es-ES": "Has fundido un lingote de hierro.",
+                    "fr-FR": "Fondre un lingot de fer.",
+                    "it-IT": "Fondi un lingotto di ferro.",
+                    "ja-JP": "鉄の延べ棒を製錬した",
+                    "ko-KR": "철괴를 녹이십시오.",
+                    "pt-PT": "Funde um lingote de ferro.",
+                    "zh-CHT": "熔煉出一個鐵錠塊。"
+                },
+                "howto": {
+                    "de-DE": "Schmilz einen Eisenbarren.",
+                    "en-US": "Smelt an iron ingot.",
+                    "es-ES": "Funde un lingote de hierro.",
+                    "fr-FR": "Fondre un lingot de fer.",
+                    "it-IT": "Fondi un lingotto di ferro.",
+                    "ja-JP": "鉄の延べ棒を製錬しよう",
+                    "ko-KR": "철괴를 녹이십시오.",
+                    "pt-PT": "Funde um lingote de ferro.",
+                    "zh-CHT": "熔煉出一個鐵錠塊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "15.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Fang an zu ackern!",
+                    "en-US": "Time to Farm!",
+                    "es-ES": "¡Hora de cultivar!",
+                    "fr-FR": "Il est temps de cultiver !",
+                    "it-IT": "È ora di coltivare!",
+                    "ja-JP": "いざ農業!",
+                    "ko-KR": "농사 개시!",
+                    "pt-PT": "Hora de Cultivar!",
+                    "zh-CHT": "農耕時間！"
+                },
+                "description": {
+                    "de-DE": "Stell aus Holz und Stöcken eine Hacke her.",
+                    "en-US": "Use planks and sticks to make a hoe.",
+                    "es-ES": "Has usado tablones y palos para fabricar una azada.",
+                    "fr-FR": "Utiliser des planches et des bâtons pour confectionner une houe.",
+                    "it-IT": "Usa assi e bastoni per realizzare una zappa.",
+                    "ja-JP": "木の板と棒を材料に、くわを作った",
+                    "ko-KR": "목재와 막대를 사용하여 괭이를 만드십시오.",
+                    "pt-PT": "Constrói uma enxada com tábuas e paus.",
+                    "zh-CHT": "用木板和木棍來製造鋤頭。"
+                },
+                "howto": {
+                    "de-DE": "Stell aus Holz und Stöcken eine Hacke her.",
+                    "en-US": "Use planks and sticks to make a hoe.",
+                    "es-ES": "Usa tablones y palos para fabricar una azada.",
+                    "fr-FR": "Utiliser des planches et des bâtons pour confectionner une houe.",
+                    "it-IT": "Usa assi e bastoni per realizzare una zappa.",
+                    "ja-JP": "木の板と棒を材料に、くわを作ろう",
+                    "ko-KR": "목재와 막대를 사용하여 괭이를 만드십시오.",
+                    "pt-PT": "Constrói uma enxada com tábuas e paus.",
+                    "zh-CHT": "用木板和木棍來製造鋤頭。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Bäcker",
+                    "en-US": "Bake Bread",
+                    "es-ES": "Con un pan debajo del brazo",
+                    "fr-FR": "Du pain sur la planche",
+                    "it-IT": "Cuoci il pane",
+                    "ja-JP": "パンを焼く",
+                    "ko-KR": "갓 구운 빵",
+                    "pt-PT": "Cozer Pão",
+                    "zh-CHT": "烤麵包"
+                },
+                "description": {
+                    "de-DE": "Backe ein Brot aus Weizen.",
+                    "en-US": "Turn wheat into bread.",
+                    "es-ES": "Has convertido el trigo en pan.",
+                    "fr-FR": "Faire du pain avec du blé.",
+                    "it-IT": "Trasforma il grano in pane.",
+                    "ja-JP": "小麦からパンを作った",
+                    "ko-KR": "밀을 빵으로 바꾸십시오.",
+                    "pt-PT": "Transforma trigo em pão.",
+                    "zh-CHT": "用小麥做出麵包。"
+                },
+                "howto": {
+                    "de-DE": "Backe ein Brot aus Weizen.",
+                    "en-US": "Turn wheat into bread.",
+                    "es-ES": "Convierte el trigo en pan.",
+                    "fr-FR": "Faire du pain avec du blé.",
+                    "it-IT": "Trasforma il grano in pane.",
+                    "ja-JP": "小麦からパンを作ろう",
+                    "ko-KR": "밀을 빵으로 바꾸십시오.",
+                    "pt-PT": "Transforma trigo em pão.",
+                    "zh-CHT": "用小麥做出麵包。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "05.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Lüge",
+                    "en-US": "The Lie",
+                    "es-ES": "La mentira",
+                    "fr-FR": "La cerise sur le gâteau",
+                    "it-IT": "Forno rovente",
+                    "ja-JP": "絵に描いた○○○",
+                    "ko-KR": "The Cake is a Lie",
+                    "pt-PT": "A Mentira",
+                    "zh-CHT": "蛋糕是個謊言"
+                },
+                "description": {
+                    "de-DE": "Backe einen Kuchen aus Weizen, Zucker, Milch und Eiern!",
+                    "en-US": "Bake a cake using wheat, sugar, milk and eggs!",
+                    "es-ES": "¡Has hecho un pastel con trigo, azúcar, leche y huevos!",
+                    "fr-FR": "Préparer un gâteau avec du blé, du sucre, du lait et des œufs.",
+                    "it-IT": "Prepara una torta usando grano, zucchero, latte e uova.",
+                    "ja-JP": "小麦、砂糖、ミルク、タマゴを材料に、ケーキを作った",
+                    "ko-KR": "밀, 설탕, 우유 및 달걀을 사용해서 케이크를 구우십시오.",
+                    "pt-PT": "Faz um bolo com trigo, açúcar, leite e ovos!",
+                    "zh-CHT": "用小麥、砂糖、牛奶和蛋來烘培蛋糕！"
+                },
+                "howto": {
+                    "de-DE": "Backe einen Kuchen aus Weizen, Zucker, Milch und Eiern!",
+                    "en-US": "Bake a cake using wheat, sugar, milk and eggs!",
+                    "es-ES": "¡Haz un pastel con trigo, azúcar, leche y huevos!",
+                    "fr-FR": "Préparer un gâteau avec du blé, du sucre, du lait et des œufs.",
+                    "it-IT": "Prepara una torta usando grano, zucchero, latte e uova.",
+                    "ja-JP": "小麦、砂糖、ミルク、タマゴを材料に、ケーキを作ろう",
+                    "ko-KR": "밀, 설탕, 우유 및 달걀을 사용해서 케이크를 구우십시오.",
+                    "pt-PT": "Faz um bolo com trigo, açúcar, leite e ovos!",
+                    "zh-CHT": "用小麥、砂糖、牛奶和蛋來烘培蛋糕！"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "06.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Technischer Fortschritt",
+                    "en-US": "Getting an Upgrade",
+                    "es-ES": "Consiguiendo una mejora",
+                    "fr-FR": "Qualité supérieure",
+                    "it-IT": "Salto di qualità",
+                    "ja-JP": "アップグレード",
+                    "ko-KR": "업그레이드 개시",
+                    "pt-PT": "Obter uma Atualização",
+                    "zh-CHT": "工具升级"
+                },
+                "description": {
+                    "de-DE": "Stell eine bessere Spitzhacke her.",
+                    "en-US": "Construct a better pickaxe.",
+                    "es-ES": "Construye un pico mejor.",
+                    "fr-FR": "Vous avez confectionné une pioche de meilleure qualité.",
+                    "it-IT": "Costruisci una piccozza migliore.",
+                    "ja-JP": "より質の高いツルハシを作った",
+                    "ko-KR": "상급 곡괭이를 만들었습니다.",
+                    "pt-PT": "Constrói uma picareta melhor.",
+                    "zh-CHT": "建造出更好的十字鎬。"
+                },
+                "howto": {
+                    "de-DE": "Stell eine bessere Spitzhacke her.",
+                    "en-US": "Construct a better pickaxe.",
+                    "es-ES": "Construye un pico mejor.",
+                    "fr-FR": "Confectionnez une pioche de meilleure qualité.",
+                    "it-IT": "Costruisci una piccozza migliore.",
+                    "ja-JP": "より質の高いツルハシを作ろう",
+                    "ko-KR": "상급 곡괭이를 만드십시오.",
+                    "pt-PT": "Constrói uma picareta melhor.",
+                    "zh-CHT": "建造出更好的十字鎬。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "12.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Köstlicher Fisch",
+                    "en-US": "Delicious Fish",
+                    "es-ES": "Pescado delicioso",
+                    "fr-FR": "Un délicieux poisson",
+                    "it-IT": "Pesce delizioso",
+                    "ja-JP": "美味しい魚",
+                    "ko-KR": "둘이 먹다 하나가 죽어도 모를 맛",
+                    "pt-PT": "Peixe Delicioso",
+                    "zh-CHT": "優質魚肉"
+                },
+                "description": {
+                    "de-DE": "Fange und brate einen Fisch!",
+                    "en-US": "Catch and cook a fish!",
+                    "es-ES": "¡Has pescado un pez y lo has cocinado!",
+                    "fr-FR": "Pêcher un poisson et le cuisiner !",
+                    "it-IT": "Pesca e cuoci un pesce!",
+                    "ja-JP": "魚を捕まえて、料理しよう!",
+                    "ko-KR": "생선을 잡아 요리하십시오!",
+                    "pt-PT": "Apanha e cozinha um peixe!",
+                    "zh-CHT": "釣到魚，並烹煮牠！"
+                },
+                "howto": {
+                    "de-DE": "Fange und brate einen Fisch!",
+                    "en-US": "Catch and cook a fish!",
+                    "es-ES": "¡Pesca y cocina un pez!",
+                    "fr-FR": "Pêcher un poisson et le cuisiner !",
+                    "it-IT": "Pesca e cuoci un pesce!",
+                    "ja-JP": "魚を捕まえて、料理しよう!",
+                    "ko-KR": "생선을 잡아 요리하십시오!",
+                    "pt-PT": "Apanha e cozinha um peixe!",
+                    "zh-CHT": "釣到魚，並烹煮牠！"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "14.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Bahn frei!",
+                    "en-US": "On A Rail",
+                    "es-ES": "Todo sobre ruedas",
+                    "fr-FR": "Sur la bonne voie",
+                    "it-IT": "Sui binari",
+                    "ja-JP": "世界のトロッコから",
+                    "ko-KR": "레일 위에서",
+                    "pt-PT": "Num Caminho-de-Ferro",
+                    "zh-CHT": "暢行無阻"
+                },
+                "description": {
+                    "de-DE": "Reise in einer Lore von deinem Ausgangspunkt aus mindestens 500 m immer in eine Richtung.",
+                    "en-US": "Travel by minecart to a point at least 500m in a single direction from where you started.",
+                    "es-ES": "Has viajado en vagoneta al menos 500 m en línea recta desde el punto en el que te encontrabas.",
+                    "fr-FR": "Parcourir au moins 500 m d'affilée en wagonnet dans une même direction.",
+                    "it-IT": "Viaggia in un vagonetto per almeno 500 metri in un'unica direzione dal punto di partenza.",
+                    "ja-JP": "トロッコに乗って、スタート地点から一定方向に 500 メートル以上進んだ",
+                    "ko-KR": "광물 수레를 타고 일직선으로 최소 500미터 이상 이동하십시오.",
+                    "pt-PT": "Viaja pelo menos 500 m de Vagoneta numa única direção a partir do ponto de onde partiste.",
+                    "zh-CHT": "以礦車單向移動至距離出發地點 500 公尺以上的地方。"
+                },
+                "howto": {
+                    "de-DE": "Reise in einer Lore von deinem Ausgangspunkt aus mindestens 500 m immer in eine Richtung.",
+                    "en-US": "Travel by minecart to a point at least 500m in a single direction from where you started.",
+                    "es-ES": "Viaja en vagoneta al menos 500 m en línea recta desde el punto en el que te encuentras.",
+                    "fr-FR": "Parcourir au moins 500 m d'affilée en wagonnet dans une même direction.",
+                    "it-IT": "Viaggia in un vagonetto per almeno 500 metri in un'unica direzione dal punto di partenza.",
+                    "ja-JP": "トロッコに乗って、スタート地点から一定方向に 500 メートル以上進もう",
+                    "ko-KR": "광물 수레를 타고 일직선으로 최소 500미터 이상 이동하십시오.",
+                    "pt-PT": "Viaja pelo menos 500 m de Vagoneta numa única direção a partir do ponto de onde partiste.",
+                    "zh-CHT": "以礦車單向移動至距離出發地點 500 公尺以上的地方。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "16.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "Zu den Waffen!",
+                    "en-US": "Time to Strike!",
+                    "es-ES": "¡Hora de luchar!",
+                    "fr-FR": "À l'attaque !",
+                    "it-IT": "È ora di attaccare!",
+                    "ja-JP": "いざ突撃!",
+                    "ko-KR": "공격 개시!",
+                    "pt-PT": "Hora de Atacar!",
+                    "zh-CHT": "殺戮時間！"
+                },
+                "description": {
+                    "de-DE": "Stell aus Holz und Stöcken ein Schwert her.",
+                    "en-US": "Use planks and sticks to make a sword.",
+                    "es-ES": "Has usado tablones y palos para hacer una espada.",
+                    "fr-FR": "Utiliser des planches et des bâtons pour fabriquer une épée.",
+                    "it-IT": "Usa assi e bastoni per realizzare una spada.",
+                    "ja-JP": "木の板と棒を材料に、剣を作った",
+                    "ko-KR": "목재와 막대를 사용해서 검을 하나 만드십시오.",
+                    "pt-PT": "Constrói uma espada com tábuas e paus.",
+                    "zh-CHT": "用木板和木棍做出一把劍。"
+                },
+                "howto": {
+                    "de-DE": "Stell aus Holz und Stöcken ein Schwert her.",
+                    "en-US": "Use planks and sticks to make a sword.",
+                    "es-ES": "Usa tablones y palos para fabricar una espada.",
+                    "fr-FR": "Utiliser des planches et des bâtons pour fabriquer une épée.",
+                    "it-IT": "Usa assi e bastoni per realizzare una spada.",
+                    "ja-JP": "木の板と棒を材料に、剣を作ろう",
+                    "ko-KR": "목재와 막대를 사용해서 검을 하나 만드십시오.",
+                    "pt-PT": "Constrói uma espada com tábuas e paus.",
+                    "zh-CHT": "用木板和木棍做出一把劍。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "07.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "de-DE": "Monsterjäger",
+                    "en-US": "Monster Hunter",
+                    "es-ES": "Cazamonstruos",
+                    "fr-FR": "Chasseur de monstres",
+                    "it-IT": "Cacciatore di mostri",
+                    "ja-JP": "モンスター退治",
+                    "ko-KR": "몬스터 헌터",
+                    "pt-PT": "Caçador de Monstros",
+                    "zh-CHT": "魔物獵人"
+                },
+                "description": {
+                    "de-DE": "Greif ein Monster an und töte es.",
+                    "en-US": "Attack and destroy a monster.",
+                    "es-ES": "Has atacado y destruido un monstruo.",
+                    "fr-FR": "Attaquer et tuer un monstre.",
+                    "it-IT": "Attacca e sconfiggi un mostro.",
+                    "ja-JP": "モンスターを攻撃して倒した",
+                    "ko-KR": "몬스터 한 마리를 공격해서 처치하십시오.",
+                    "pt-PT": "Ataca e destrói um monstro.",
+                    "zh-CHT": "攻擊並打倒一隻怪物。"
+                },
+                "howto": {
+                    "de-DE": "Greif ein Monster an und töte es.",
+                    "en-US": "Attack and destroy a monster.",
+                    "es-ES": "Ataca y destruye un monstruo.",
+                    "fr-FR": "Attaquer et tuer un monstre.",
+                    "it-IT": "Attacca e sconfiggi un mostro.",
+                    "ja-JP": "モンスターを攻撃して倒そう",
+                    "ko-KR": "몬스터 한 마리를 공격해서 처치하십시오.",
+                    "pt-PT": "Ataca e destrói um monstro.",
+                    "zh-CHT": "攻擊並打倒一隻怪物。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Kuhschubser",
+                    "en-US": "Cow Tipper",
+                    "es-ES": "Chupavacas",
+                    "fr-FR": "Tanneur en devenir",
+                    "it-IT": "Ribalta la mucca",
+                    "ja-JP": "牛転がし",
+                    "ko-KR": "소 도축",
+                    "pt-PT": "Vira-Vacas",
+                    "zh-CHT": "牛不只有牛奶"
+                },
+                "description": {
+                    "de-DE": "Gewinne Leder.",
+                    "en-US": "Harvest some leather.",
+                    "es-ES": "Has conseguido un poco de cuero.",
+                    "fr-FR": "Récupérer du cuir.",
+                    "it-IT": "Procurati del cuoio.",
+                    "ja-JP": "革を手に入れた",
+                    "ko-KR": "가죽을 몇 개 얻으십시오.",
+                    "pt-PT": "Recolhe algum cabedal.",
+                    "zh-CHT": "獲取一些皮革。"
+                },
+                "howto": {
+                    "de-DE": "Gewinne Leder.",
+                    "en-US": "Harvest some leather.",
+                    "es-ES": "Consigue un poco de cuero.",
+                    "fr-FR": "Récupérer du cuir.",
+                    "it-IT": "Procurati del cuoio.",
+                    "ja-JP": "革を手に入れよう",
+                    "ko-KR": "가죽을 몇 개 얻으십시오.",
+                    "pt-PT": "Recolhe algum cabedal.",
+                    "zh-CHT": "獲取一些皮革。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "09.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "Wenn Schweine fliegen",
+                    "en-US": "When Pigs Fly",
+                    "es-ES": "Cuando los cerdos vuelen",
+                    "fr-FR": "Aéro-porc",
+                    "it-IT": "Quando i maiali voleranno",
+                    "ja-JP": "ブタさんの飛ぶ頃に",
+                    "ko-KR": "돼지, 날다",
+                    "pt-PT": "Quando os Porcos Voarem",
+                    "zh-CHT": "等哪天豬會飛了…噢！"
+                },
+                "description": {
+                    "de-DE": "Reite ein Schwein mit einem Sattel, und füg ihm dann während des Reitens Schaden durch Fallen zu.",
+                    "en-US": "Use a saddle to ride a pig, then have the pig get hurt from fall damage while riding it.",
+                    "es-ES": "Has usado una montura para montar en un cerdo y hacer que sufra daño de caída.",
+                    "fr-FR": "Mettre une selle sur un cochon pour monter sur son dos, puis le blesser en le faisant tomber.",
+                    "it-IT": "Usa una sella per cavalcare un maiale, poi causagli dei danni da caduta mentre lo cavalchi.",
+                    "ja-JP": "鞍を使って豚に乗り、高いところから飛び降りて豚に落下ダメージを与えた",
+                    "ko-KR": "안장을 사용해서 돼지에 타고, 그 상태에서 추락하여 돼지가 낙하 피해를 입게 하십시오.",
+                    "pt-PT": "Usa uma sela para montar um porco e faz com que este sofra danos ao cair.",
+                    "zh-CHT": "用鞍騎豬，在騎的過程讓牠摔落受傷。"
+                },
+                "howto": {
+                    "de-DE": "Reite ein Schwein mit einem Sattel, und füg ihm dann während des Reitens Schaden durch Fallen zu.",
+                    "en-US": "Use a saddle to ride a pig, then have the pig get hurt from fall damage while riding it.",
+                    "es-ES": "Usa una montura para montar un cerdo y consigue que el cerdo sufra daños por caída al montarlo.",
+                    "fr-FR": "Mettre une selle sur un cochon pour monter sur son dos, puis le blesser en le faisant tomber.",
+                    "it-IT": "Usa una sella per cavalcare un maiale, poi causagli dei danni da caduta mentre lo cavalchi.",
+                    "ja-JP": "鞍を使って豚に乗り、高いところから飛び降りて豚に落下ダメージを与えよう",
+                    "ko-KR": "안장을 사용해서 돼지에 타고, 그 상태에서 추락하여 돼지가 낙하 피해를 입게 하십시오.",
+                    "pt-PT": "Usa uma sela para montar um porco e faz com que este sofra danos ao cair.",
+                    "zh-CHT": "用鞍騎豬，在騎的過程讓牠摔落受傷。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "10.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "de-DE": "Alphawolf",
+                    "en-US": "Leader Of The Pack",
+                    "es-ES": "Líder de la manada",
+                    "fr-FR": "Chef de meute",
+                    "it-IT": "Capobranco",
+                    "ja-JP": "群れのリーダー",
+                    "ko-KR": "우두머리",
+                    "pt-PT": "Líder do Grupo",
+                    "zh-CHT": "狼群之首"
+                },
+                "description": {
+                    "de-DE": "Freunde dich mit fünf Wölfen an.",
+                    "en-US": "Befriend five wolves.",
+                    "es-ES": "Hazte amigo de cinco lobos.",
+                    "fr-FR": "Apprivoisez cinq loups.",
+                    "it-IT": "Fai amicizia con cinque lupi.",
+                    "ja-JP": "5 匹のオオカミと友達になった",
+                    "ko-KR": "늑대 다섯 마리와 친구가 되었습니다.",
+                    "pt-PT": "Torna-te amigo de cinco lobos.",
+                    "zh-CHT": "和 5 匹狼成為朋友。"
+                },
+                "howto": {
+                    "de-DE": "Freunde dich mit fünf Wölfen an.",
+                    "en-US": "Befriend five wolves.",
+                    "es-ES": "Hazte amigo de cinco lobos.",
+                    "fr-FR": "Apprivoisez cinq loups.",
+                    "it-IT": "Fai amicizia con cinque lupi.",
+                    "ja-JP": "5 匹のオオカミと友達になろう",
+                    "ko-KR": "늑대 다섯 마리와 친구가 되십시오.",
+                    "pt-PT": "Torna-te amigo de cinco lobos.",
+                    "zh-CHT": "和 5 匹狼成為朋友。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "17.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "Bestens ausgerüstet",
+                    "en-US": "MOAR Tools",
+                    "es-ES": "Todas las herramientas",
+                    "fr-FR": "Encooore des outils",
+                    "it-IT": "Attrezzi del mestiere",
+                    "ja-JP": "ツールスミス",
+                    "ko-KR": "다양한 도구",
+                    "pt-PT": "MAIS Ferramentas",
+                    "zh-CHT": "更多工具"
+                },
+                "description": {
+                    "de-DE": "Stell ein Exemplar von jedem Werkzeug her (1 Spitzhacke, 1 Spaten, 1 Axt und 1 Hacke.).",
+                    "en-US": "Construct one type of each tool (one pickaxe, one spade, one axe and one hoe).",
+                    "es-ES": "Has construido una herramienta de cada tipo (un pico, una pala, un hacha y una azada).",
+                    "fr-FR": "Fabriquer un outil de chaque type (une pioche, une pelle, une hache et une houe).",
+                    "it-IT": "Costruisci un attrezzo di ogni tipo (una piccozza, una pala, un'ascia e una zappa).",
+                    "ja-JP": "ツルハシ、シャベル、斧、くわの各種道具を全種類 1 つずつ作った",
+                    "ko-KR": "모든 도구를 한 가지 종류씩 만드십시오(곡괭이 하나, 삽 하나, 도끼 하나, 괭이 하나).",
+                    "pt-PT": "Constrói uma ferramenta de cada tipo (uma picareta, uma espada, um machado e uma enxada).",
+                    "zh-CHT": "每種工具 (十字鎬、鏟子、斧頭和鋤頭) 各建造出一個 。"
+                },
+                "howto": {
+                    "de-DE": "Stell ein Exemplar von jedem Werkzeug her (1 Spitzhacke, 1 Spaten, 1 Axt und 1 Hacke.).",
+                    "en-US": "Construct one type of each tool (one pickaxe, one spade, one axe and one hoe).",
+                    "es-ES": "Construye una herramienta de cada tipo (un pico, una pala, un hacha y una azada).",
+                    "fr-FR": "Fabriquer un outil de chaque type (une pioche, une pelle, une hache et une houe).",
+                    "it-IT": "Costruisci un attrezzo di ogni tipo (una piccozza, una pala, un'ascia e una zappa).",
+                    "ja-JP": "ツルハシ、シャベル、斧、くわの各種道具を全種類 1 つずつ作ろう",
+                    "ko-KR": "모든 도구를 한 가지 종류씩 만드십시오(곡괭이 하나, 삽 하나, 도끼 하나, 괭이 하나).",
+                    "pt-PT": "Constrói uma ferramenta de cada tipo (uma picareta, uma espada, um machado e uma enxada).",
+                    "zh-CHT": "每種工具 (十字鎬、鏟子、斧頭和鋤頭) 各建造出一個 。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "18.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "Feuer frei",
+                    "en-US": "Dispense With This",
+                    "es-ES": "Dispénsame esto",
+                    "fr-FR": "Prodigalité",
+                    "it-IT": "Dispensatore",
+                    "ja-JP": "発射!",
+                    "ko-KR": "디스펜서",
+                    "pt-PT": "Distribui Isto",
+                    "zh-CHT": "一「拋」二淨"
+                },
+                "description": {
+                    "de-DE": "Baue einen Spender.",
+                    "en-US": "Construct a Dispenser.",
+                    "es-ES": "Has construido un dispensador.",
+                    "fr-FR": "Fabriquer un distributeur.",
+                    "it-IT": "Costruisci un distributore.",
+                    "ja-JP": "発射装置を作った",
+                    "ko-KR": "디스펜서를 만드십시오.",
+                    "pt-PT": "Constrói um Distribuidor.",
+                    "zh-CHT": "製造出一台發射器。"
+                },
+                "howto": {
+                    "de-DE": "Baue einen Spender.",
+                    "en-US": "Construct a Dispenser.",
+                    "es-ES": "Construye un dispensador.",
+                    "fr-FR": "Fabriquer un distributeur.",
+                    "it-IT": "Costruisci un distributore.",
+                    "ja-JP": "発射装置を作ろう",
+                    "ko-KR": "디스펜서를 만드십시오.",
+                    "pt-PT": "Constrói um Distribuidor.",
+                    "zh-CHT": "製造出一台發射器。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "19.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "In den Nether",
+                    "en-US": "Into The Nether",
+                    "es-ES": "Al Inframundo",
+                    "fr-FR": "Dans le Nether",
+                    "it-IT": "Nel Nether",
+                    "ja-JP": "いざ暗黒界へ",
+                    "ko-KR": "네더로 고! 고!",
+                    "pt-PT": "Temos de Ir Mais Fundo",
+                    "zh-CHT": "我不入地獄誰入地獄"
+                },
+                "description": {
+                    "de-DE": "Stell ein Netherportal her.",
+                    "en-US": "Construct a Nether Portal.",
+                    "es-ES": "Has construido un portal del Inframundo.",
+                    "fr-FR": "Construire un portail vers le Nether.",
+                    "it-IT": "Costruisci un portale del Nether.",
+                    "ja-JP": "闇のポータルを作った",
+                    "ko-KR": "네더 포탈을 만드십시오.",
+                    "pt-PT": "Constrói um Portal do Submundo.",
+                    "zh-CHT": "製造出地獄入口。"
+                },
+                "howto": {
+                    "de-DE": "Stell ein Netherportal her.",
+                    "en-US": "Construct a Nether Portal.",
+                    "es-ES": "Construye un portal del Inframundo.",
+                    "fr-FR": "Construire un portail vers le Nether.",
+                    "it-IT": "Costruisci un portale del Nether.",
+                    "ja-JP": "闇のポータルを作ろう",
+                    "ko-KR": "네더 포탈을 만드십시오.",
+                    "pt-PT": "Constrói um Portal do Submundo.",
+                    "zh-CHT": "製造出地獄入口。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "20.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "de-DE": "Scharfschützenduell",
+                    "en-US": "Sniper Duel",
+                    "es-ES": "Francocazadores",
+                    "fr-FR": "Duel de snipers",
+                    "it-IT": "Duello tra cecchini",
+                    "ja-JP": "スナイパー対決",
+                    "ko-KR": "저격 대결",
+                    "pt-PT": "Duelo de Atiradores",
+                    "zh-CHT": "狙擊手對決"
+                },
+                "description": {
+                    "de-DE": "Töte ein Skelett mit einem Pfeil aus über 50 Meter Entfernung.",
+                    "en-US": "Kill a Skeleton with an arrow from more than 50 meters.",
+                    "es-ES": "Mata un esqueleto con una flecha a una distancia de más de 50 metros.",
+                    "fr-FR": "Tuer un squelette d'une flèche à plus de 50 mètres.",
+                    "it-IT": "Uccidi uno scheletro con una freccia da una distanza superiore a 50 metri.",
+                    "ja-JP": "50 m 以上離れたところから矢を放ってガイコツを倒そう",
+                    "ko-KR": "50m 이상 거리에서 화살 한 발로 스켈레톤 하나를 처치하십시오.",
+                    "pt-PT": "Mata um Esqueleto com uma flecha disparada a mais de 50 metros.",
+                    "zh-CHT": "使用弓箭射殺距離 50 公尺外的骷髏。"
+                },
+                "howto": {
+                    "de-DE": "Töte ein Skelett mit einem Pfeil aus über 50 Meter Entfernung.",
+                    "en-US": "Kill a Skeleton with an arrow from more than 50 meters.",
+                    "es-ES": "Mata un esqueleto con una flecha a una distancia de más de 50 metros.",
+                    "fr-FR": "Tuer un squelette d'une flèche à plus de 50 mètres.",
+                    "it-IT": "Uccidi uno scheletro con una freccia da una distanza superiore a 50 metri.",
+                    "ja-JP": "50 m 以上離れたところから矢を放ってガイコツを倒そう",
+                    "ko-KR": "50m 이상 거리에서 화살 한 발로 스켈레톤 하나를 처치하십시오.",
+                    "pt-PT": "Mata um Esqueleto com uma flecha disparada a mais de 50 metros.",
+                    "zh-CHT": "使用弓箭射殺距離 50 公尺外的骷髏。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "21.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "DIAMANTEN!",
+                    "en-US": "DIAMONDS!",
+                    "es-ES": "¡DIAMANTES!",
+                    "fr-FR": "DES DIAMANTS !",
+                    "it-IT": "DIAMANTI!",
+                    "ja-JP": "ダイヤモンド!",
+                    "ko-KR": "다이아몬드!",
+                    "pt-PT": "DIAMANTES!",
+                    "zh-CHT": "鑽石！"
+                },
+                "description": {
+                    "de-DE": "Beschaffe mithilfe deiner Eisenwerkzeuge Diamanten.",
+                    "en-US": "Acquire diamonds with your iron tools.",
+                    "es-ES": "Adquiere diamantes con tus herramientas de hierro.",
+                    "fr-FR": "Extraire des diamants avec des outils en fer.",
+                    "it-IT": "Ottieni dei diamanti con i tuoi attrezzi di ferro.",
+                    "ja-JP": "鉄の道具を使ってダイヤモンドをゲットしよう",
+                    "ko-KR": "철제 도구로 다이아몬드를 획득하십시오.",
+                    "pt-PT": "Adquire diamantes com as tuas ferramentas de ferro.",
+                    "zh-CHT": "利用鐵製工具獲取鑽石。"
+                },
+                "howto": {
+                    "de-DE": "Beschaffe mithilfe deiner Eisenwerkzeuge Diamanten.",
+                    "en-US": "Acquire diamonds with your iron tools.",
+                    "es-ES": "Adquiere diamantes con tus herramientas de hierro.",
+                    "fr-FR": "Extraire des diamants avec des outils en fer.",
+                    "it-IT": "Ottieni dei diamanti con i tuoi attrezzi di ferro.",
+                    "ja-JP": "鉄の道具を使ってダイヤモンドをゲットしよう",
+                    "ko-KR": "철제 도구로 다이아몬드를 획득하십시오.",
+                    "pt-PT": "Adquire diamantes com as tuas ferramentas de ferro.",
+                    "zh-CHT": "利用鐵製工具獲取鑽石。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "22.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "Zurück zum Absender",
+                    "en-US": "Return to Sender",
+                    "es-ES": "Su propia medicina",
+                    "fr-FR": "Retour à l'envoyeur",
+                    "it-IT": "Rispedita al mittente",
+                    "ja-JP": "仕返し",
+                    "ko-KR": "전해지지 않은 러브레터",
+                    "pt-PT": "Contra-Ataque",
+                    "zh-CHT": "以牙還牙"
+                },
+                "description": {
+                    "de-DE": "Zerstöre einen Ghast mit einem Feuerball.",
+                    "en-US": "Destroy a Ghast with a fireball.",
+                    "es-ES": "Destruye un Ghast con una bola de fuego.",
+                    "fr-FR": "Détruire un ghast avec une boule de feu.",
+                    "it-IT": "Distruggi un Ghast con una palla di fuoco.",
+                    "ja-JP": "火の玉でガストを倒そう",
+                    "ko-KR": "화염구로 가스트를 파괴하십시오.",
+                    "pt-PT": "Destrói um Ghast com uma bola de fogo.",
+                    "zh-CHT": "以火球將地獄幽靈摧毀。"
+                },
+                "howto": {
+                    "de-DE": "Zerstöre einen Ghast mit einem Feuerball.",
+                    "en-US": "Destroy a Ghast with a fireball.",
+                    "es-ES": "Destruye un Ghast con una bola de fuego.",
+                    "fr-FR": "Détruire un ghast avec une boule de feu.",
+                    "it-IT": "Distruggi un Ghast con una palla di fuoco.",
+                    "ja-JP": "火の玉でガストを倒そう",
+                    "ko-KR": "화염구로 가스트를 파괴하십시오.",
+                    "pt-PT": "Destrói um Ghast com uma bola de fogo.",
+                    "zh-CHT": "以火球將地獄幽靈摧毀。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "23.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Spiel mit dem Feuer",
+                    "en-US": "Into Fire",
+                    "es-ES": "El fuego eterno",
+                    "fr-FR": "Dans le feu de l'action",
+                    "it-IT": "Nel fuoco",
+                    "ja-JP": "炎の中へ",
+                    "ko-KR": "포화 속으로",
+                    "pt-PT": "Em Chamas",
+                    "zh-CHT": "與火共舞"
+                },
+                "description": {
+                    "de-DE": "Erleichtere eine Lohe um ihre Rute.",
+                    "en-US": "Relieve a Blaze of its rod.",
+                    "es-ES": "Libera una llama de su vara.",
+                    "fr-FR": "Prendre son bâton à un blaze.",
+                    "it-IT": "Ottieni una verga da un Blaze.",
+                    "ja-JP": "ロッドからブレイズを解放しよう",
+                    "ko-KR": "블레이즈가 막대를 떨어뜨리게 하십시오.",
+                    "pt-PT": "Tira a varinha a um Blaze.",
+                    "zh-CHT": "從烈焰使者手中獲得烈焰棒。"
+                },
+                "howto": {
+                    "de-DE": "Erleichtere eine Lohe um ihre Rute.",
+                    "en-US": "Relieve a Blaze of its rod.",
+                    "es-ES": "Libera una llama de su vara.",
+                    "fr-FR": "Prendre son bâton à un blaze.",
+                    "it-IT": "Ottieni una verga da un Blaze.",
+                    "ja-JP": "ロッドからブレイズを解放しよう",
+                    "ko-KR": "블레이즈가 막대를 떨어뜨리게 하십시오.",
+                    "pt-PT": "Tira a varinha a um Blaze.",
+                    "zh-CHT": "從烈焰使者手中獲得烈焰棒。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "24.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "Alchemie",
+                    "en-US": "Local Brewery",
+                    "es-ES": "Destilería local",
+                    "fr-FR": "Apprenti chimiste",
+                    "it-IT": "Distilleria artigianale",
+                    "ja-JP": "町の薬屋さん",
+                    "ko-KR": "포션 양조장",
+                    "pt-PT": "Fábrica de Poções Local",
+                    "zh-CHT": "私人釀坊"
+                },
+                "description": {
+                    "de-DE": "Braue einen Trank.",
+                    "en-US": "Brew a potion.",
+                    "es-ES": "Destila una poción.",
+                    "fr-FR": "Concocter une potion.",
+                    "it-IT": "Prepara una pozione.",
+                    "ja-JP": "ポーションを調合しよう",
+                    "ko-KR": "포션을 하나 만드십시오.",
+                    "pt-PT": "Prepara uma poção.",
+                    "zh-CHT": "釀製一瓶藥水。"
+                },
+                "howto": {
+                    "de-DE": "Braue einen Trank.",
+                    "en-US": "Brew a potion.",
+                    "es-ES": "Destila una poción.",
+                    "fr-FR": "Concocter une potion.",
+                    "it-IT": "Prepara una pozione.",
+                    "ja-JP": "ポーションを調合しよう",
+                    "ko-KR": "포션을 하나 만드십시오.",
+                    "pt-PT": "Prepara uma poção.",
+                    "zh-CHT": "釀製一瓶藥水。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "25.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "Das Ende?",
+                    "en-US": "The End?",
+                    "es-ES": "¿The End?",
+                    "fr-FR": "Fin ?",
+                    "it-IT": "The End?",
+                    "ja-JP": "おしまい?",
+                    "ko-KR": "이걸로 끝이야?",
+                    "pt-PT": "O Fim?",
+                    "zh-CHT": "結束了？"
+                },
+                "description": {
+                    "de-DE": "Betritt ein Endportal.",
+                    "en-US": "Enter an End Portal.",
+                    "es-ES": "Entra en un portal de End",
+                    "fr-FR": "Traverser un portail de l'Ender.",
+                    "it-IT": "Entra in un portale dell'End.",
+                    "ja-JP": "エンドポータルに入ろう",
+                    "ko-KR": "엔더 포탈에 들어가십시오.",
+                    "pt-PT": "Entra num Portal do Fim.",
+                    "zh-CHT": "進入終界入口。"
+                },
+                "howto": {
+                    "de-DE": "Betritt ein Endportal.",
+                    "en-US": "Enter an End Portal.",
+                    "es-ES": "Entra en un portal de End",
+                    "fr-FR": "Traverser un portail de l'Ender.",
+                    "it-IT": "Entra in un portale dell'End.",
+                    "ja-JP": "エンドポータルに入ろう",
+                    "ko-KR": "엔더 포탈에 들어가십시오.",
+                    "pt-PT": "Entra num Portal do Fim.",
+                    "zh-CHT": "進入終界入口。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "26.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "Das Ende.",
+                    "en-US": "The End.",
+                    "es-ES": "The End.",
+                    "fr-FR": "Fin.",
+                    "it-IT": "The End",
+                    "ja-JP": "おしまい。",
+                    "ko-KR": "끝이야.",
+                    "pt-PT": "O Fim.",
+                    "zh-CHT": "結束了。"
+                },
+                "description": {
+                    "de-DE": "Töte den Enderdrachen.",
+                    "en-US": "Kill the Enderdragon.",
+                    "es-ES": "Mata al dragón de Ender.",
+                    "fr-FR": "Terrassez le dragon de l'Ender.",
+                    "it-IT": "Uccidi il Drago di Ender.",
+                    "ja-JP": "エンダー ドラゴンを倒そう",
+                    "ko-KR": "Ender 드래곤을 처치하십시오.",
+                    "pt-PT": "Mata o Dragão Ender.",
+                    "zh-CHT": "殺死終界龍。"
+                },
+                "howto": {
+                    "de-DE": "Töte den Enderdrachen.",
+                    "en-US": "Kill the Enderdragon.",
+                    "es-ES": "Mata al dragón de Ender.",
+                    "fr-FR": "Terrassez le dragon de l'Ender.",
+                    "it-IT": "Uccidi il Drago di Ender.",
+                    "ja-JP": "エンダー ドラゴンを倒そう",
+                    "ko-KR": "Ender 드래곤을 처치하십시오.",
+                    "pt-PT": "Mata o Dragão Ender.",
+                    "zh-CHT": "殺死終界龍。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "27.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "Zauberer",
+                    "en-US": "Enchanter",
+                    "es-ES": "Hechicero",
+                    "fr-FR": "Enchanté !",
+                    "it-IT": "Incantatore",
+                    "ja-JP": "エンチャンター",
+                    "ko-KR": "효과부여자",
+                    "pt-PT": "Encantador",
+                    "zh-CHT": "附魔師"
+                },
+                "description": {
+                    "de-DE": "Baue einen Zaubertisch.",
+                    "en-US": "Construct an Enchantment Table.",
+                    "es-ES": "Construye una mesa de encantamientos.",
+                    "fr-FR": "Construire une table d'enchantement.",
+                    "it-IT": "Costruisci un tavolo per incantesimi.",
+                    "ja-JP": "エンチャントテーブルを作ろう",
+                    "ko-KR": "효과부여대를 하나 만드십시오.",
+                    "pt-PT": "Constrói uma Mesa de Encantamentos.",
+                    "zh-CHT": "製作出附魔台。"
+                },
+                "howto": {
+                    "de-DE": "Baue einen Zaubertisch.",
+                    "en-US": "Construct an Enchantment Table.",
+                    "es-ES": "Construye una mesa de encantamientos.",
+                    "fr-FR": "Construire une table d'enchantement.",
+                    "it-IT": "Costruisci un tavolo per incantesimi.",
+                    "ja-JP": "エンチャントテーブルを作ろう",
+                    "ko-KR": "효과부여대를 하나 만드십시오.",
+                    "pt-PT": "Constrói uma Mesa de Encantamentos.",
+                    "zh-CHT": "製作出附魔台。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "28.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Meister des Kampfes",
+                    "en-US": "Overkill",
+                    "es-ES": "Desenfrenado",
+                    "fr-FR": "Massacre",
+                    "it-IT": "Massacro",
+                    "ja-JP": "強力な破壊力",
+                    "ko-KR": "오버킬",
+                    "pt-PT": "Massacre",
+                    "zh-CHT": "太殺了"
+                },
+                "description": {
+                    "de-DE": "Verursache mit einem Schlag neun Herzen Schaden.",
+                    "en-US": "Deal nine hearts of damage in a single hit.",
+                    "es-ES": "Inflige nueve corazones de daño con un solo golpe.",
+                    "fr-FR": "Infligez neuf cœurs de dégâts en un seul coup.",
+                    "it-IT": "Infliggi un danno da nove cuori con un colpo solo.",
+                    "ja-JP": "一叩きで 9 つのハートにダメージを与えよう",
+                    "ko-KR": "한 번 때려서 하트 9개분의 피해를 입히십시오.",
+                    "pt-PT": "Inflige nove corações de dano num só golpe.",
+                    "zh-CHT": "以單一攻擊造成九顆心的傷害。"
+                },
+                "howto": {
+                    "de-DE": "Verursache mit einem Schlag neun Herzen Schaden.",
+                    "en-US": "Deal nine hearts of damage in a single hit.",
+                    "es-ES": "Inflige nueve corazones de daño con un solo golpe.",
+                    "fr-FR": "Infligez neuf cœurs de dégâts en un seul coup.",
+                    "it-IT": "Infliggi un danno da nove cuori con un colpo solo.",
+                    "ja-JP": "一叩きで 9 つのハートにダメージを与えよう",
+                    "ko-KR": "한 번 때려서 하트 9개분의 피해를 입히십시오.",
+                    "pt-PT": "Inflige nove corações de dano num só golpe.",
+                    "zh-CHT": "以單一攻擊造成九顆心的傷害。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "29.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Bibliothekar",
+                    "en-US": "Librarian",
+                    "es-ES": "Bibliotecario",
+                    "fr-FR": "Bibliothécaire",
+                    "it-IT": "Bibliotecario",
+                    "ja-JP": "司書",
+                    "ko-KR": "도서관 사서",
+                    "pt-PT": "Bibliotecário",
+                    "zh-CHT": "圖書館員"
+                },
+                "description": {
+                    "de-DE": "Baue Bücherregale, um deinen Zaubertisch zu verbessern.",
+                    "en-US": "Build some bookshelves to improve your enchantment table.",
+                    "es-ES": "Construye algunas estanterías para mejorar tu mesa de encantamientos.",
+                    "fr-FR": "Construire des bibliothèques pour améliorer votre table d'enchantement.",
+                    "it-IT": "Costruisci degli scaffali per migliorare il tavolo per incantesimi.",
+                    "ja-JP": "本棚を作ってエンチャント テーブルを強化しよう",
+                    "ko-KR": "책장 몇 개를 만들어서 효과부여대를 강화하십시오.",
+                    "pt-PT": "Constrói umas estantes para melhorar a tua mesa de encantamentos.",
+                    "zh-CHT": "製作出一些書架以提升您的附魔台。"
+                },
+                "howto": {
+                    "de-DE": "Baue Bücherregale, um deinen Zaubertisch zu verbessern.",
+                    "en-US": "Build some bookshelves to improve your enchantment table.",
+                    "es-ES": "Construye algunas estanterías para mejorar tu mesa de encantamientos.",
+                    "fr-FR": "Construire des bibliothèques pour améliorer votre table d'enchantement.",
+                    "it-IT": "Costruisci degli scaffali per migliorare il tavolo per incantesimi.",
+                    "ja-JP": "本棚を作ってエンチャント テーブルを強化しよう",
+                    "ko-KR": "책장 몇 개를 만들어서 효과부여대를 강화하십시오.",
+                    "pt-PT": "Constrói umas estantes para melhorar a tua mesa de encantamentos.",
+                    "zh-CHT": "製作出一些書架以提升您的附魔台。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "30.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Abenteurerzeit",
+                    "en-US": "Adventuring Time",
+                    "es-ES": "Hora de aventuras",
+                    "fr-FR": "Partons à l'aventure !",
+                    "it-IT": "Verso l'infinito... e oltre!",
+                    "ja-JP": "冒険の時間",
+                    "ko-KR": "모험의 시간",
+                    "pt-PT": "Tempo de Aventuras",
+                    "zh-CHT": "環遊世界"
+                },
+                "description": {
+                    "de-DE": "Entdecke 17 der 40 verschiedenen Biome.",
+                    "en-US": "Discover 17 of the 40 different biomes.",
+                    "es-ES": "Descubre 17 de los 40 biomas diferentes.",
+                    "fr-FR": "Découvrir 17 des 40 biomes.",
+                    "it-IT": "Scopri 17 dei 40 biomi.",
+                    "ja-JP": "40 種あるバイオームのうち 17 種を見つけよう",
+                    "ko-KR": "40개의 바이옴 중 17군데를 발견하십시오.",
+                    "pt-PT": "Descobre 17 dos 40 biomas distintos.",
+                    "zh-CHT": "完成探索 40 個生態環境中的 17 個。"
+                },
+                "howto": {
+                    "de-DE": "Entdecke 17 der 40 verschiedenen Biome.",
+                    "en-US": "Discover 17 of the 40 different biomes.",
+                    "es-ES": "Descubre 17 de los 40 biomas diferentes.",
+                    "fr-FR": "Découvrir 17 des 40 biomes.",
+                    "it-IT": "Scopri 17 dei 40 biomi.",
+                    "ja-JP": "40 種あるバイオームのうち 17 種を見つけよう",
+                    "ko-KR": "40개의 바이옴 중 17군데를 발견하십시오.",
+                    "pt-PT": "Descobre 17 dos 40 biomas distintos.",
+                    "zh-CHT": "完成探索 40 個生態環境中的 17 個。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "31.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Nachzucht",
+                    "en-US": "Repopulation",
+                    "es-ES": "Repoblación",
+                    "fr-FR": "Repeuplement",
+                    "it-IT": "Ripopolamento",
+                    "ja-JP": "再繁殖",
+                    "ko-KR": "증식",
+                    "pt-PT": "Repovoamento",
+                    "zh-CHT": "增產報國"
+                },
+                "description": {
+                    "de-DE": "Züchte zwei Kühe mit Weizen.",
+                    "en-US": "Breed two cows with wheat.",
+                    "es-ES": "Alimenta dos vacas con trigo para que se reproduzcan.",
+                    "fr-FR": "Faire se reproduire deux vaches avec du blé.",
+                    "it-IT": "Fai riprodurre due mucche con il grano.",
+                    "ja-JP": "小麦を与えて牛を 2 頭繁殖させよう",
+                    "ko-KR": "밀로 소 2마리를 교배시키십시오.",
+                    "pt-PT": "Cria duas vacas com trigo.",
+                    "zh-CHT": "用小麥繁殖出兩頭乳牛。"
+                },
+                "howto": {
+                    "de-DE": "Züchte zwei Kühe mit Weizen.",
+                    "en-US": "Breed two cows with wheat.",
+                    "es-ES": "Alimenta dos vacas con trigo para que se reproduzcan.",
+                    "fr-FR": "Faire se reproduire deux vaches avec du blé.",
+                    "it-IT": "Fai riprodurre due mucche con il grano.",
+                    "ja-JP": "小麦を与えて牛を 2 頭繁殖させよう",
+                    "ko-KR": "밀로 소 2마리를 교배시키십시오.",
+                    "pt-PT": "Cria duas vacas com trigo.",
+                    "zh-CHT": "用小麥繁殖出兩頭乳牛。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "32.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "Diamanten für dich!",
+                    "en-US": "Diamonds to you!",
+                    "es-ES": "¡Diamantes para ti!",
+                    "fr-FR": "Des diamants pour vous !",
+                    "it-IT": "Diamanti a voi!",
+                    "ja-JP": "ダイヤモンドをあなたに!",
+                    "ko-KR": "다이아몬드를 그대에게!",
+                    "pt-PT": "Diamantes para ti!",
+                    "zh-CHT": "送你的鑽石！"
+                },
+                "description": {
+                    "de-DE": "Mit Diamanten nach einem anderen Spieler geworfen.",
+                    "en-US": "Throw diamonds at another player.",
+                    "es-ES": "Lanza diamantes a otro jugador.",
+                    "fr-FR": "Lancez des diamants à un autre joueur.",
+                    "it-IT": "Lancia diamanti a un altro giocatore.",
+                    "ja-JP": "他のプレイヤーにダイヤモンドを投げよう",
+                    "ko-KR": "다른 플레이어에게 다이아몬드를 던지십시오.",
+                    "pt-PT": "Atira diamantes a outro jogador.",
+                    "zh-CHT": "朝其他玩家丟擲鑽石。"
+                },
+                "howto": {
+                    "de-DE": "Mit Diamanten nach einem anderen Spieler geworfen.",
+                    "en-US": "Throw diamonds at another player.",
+                    "es-ES": "Lanza diamantes a otro jugador.",
+                    "fr-FR": "Lancez des diamants à un autre joueur.",
+                    "it-IT": "Lancia diamanti a un altro giocatore.",
+                    "ja-JP": "他のプレイヤーにダイヤモンドを投げよう",
+                    "ko-KR": "다른 플레이어에게 다이아몬드를 던지십시오.",
+                    "pt-PT": "Atira diamantes a outro jogador.",
+                    "zh-CHT": "朝其他玩家丟擲鑽石。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "33.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Schweinefleisch",
+                    "en-US": "Pork Chop",
+                    "es-ES": "¡Qué chuleta!",
+                    "fr-FR": "Côte de porc",
+                    "it-IT": "Costoletta",
+                    "ja-JP": "ポーク チョップ",
+                    "ko-KR": "돼지고기",
+                    "pt-PT": "Costeleta de Porco",
+                    "zh-CHT": "豬肉大餐"
+                },
+                "description": {
+                    "de-DE": "Koche und iss ein Stück Schweinefleisch.",
+                    "en-US": "Cook and eat a pork chop.",
+                    "es-ES": "Cocina una chuleta de cerdo y cómetela.",
+                    "fr-FR": "Faites cuire et mangez une côte de porc.",
+                    "it-IT": "Cucina e mangia una costoletta di maiale.",
+                    "ja-JP": "豚肉を料理して食べよう",
+                    "ko-KR": "돼지고기 하나를 요리해서 먹으십시오.",
+                    "pt-PT": "Cozinha e come uma costeleta de porco.",
+                    "zh-CHT": "烹調並食用豬肉。"
+                },
+                "howto": {
+                    "de-DE": "Koche und iss ein Stück Schweinefleisch.",
+                    "en-US": "Cook and eat a pork chop.",
+                    "es-ES": "Cocina una chuleta de cerdo y cómetela.",
+                    "fr-FR": "Faites cuire et mangez une côte de porc.",
+                    "it-IT": "Cucina e mangia una costoletta di maiale.",
+                    "ja-JP": "豚肉を料理して食べよう",
+                    "ko-KR": "돼지고기 하나를 요리해서 먹으십시오.",
+                    "pt-PT": "Cozinha e come uma costeleta de porco.",
+                    "zh-CHT": "烹調並食用豬肉。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "34.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Wie die Zeit vergeht",
+                    "en-US": "Passing the Time",
+                    "es-ES": "Pasando el tiempo",
+                    "fr-FR": "Passe-temps",
+                    "it-IT": "Passatempo",
+                    "ja-JP": "暇つぶし",
+                    "ko-KR": "세월이 가면",
+                    "pt-PT": "Passar o Tempo",
+                    "zh-CHT": "殺時間"
+                },
+                "description": {
+                    "de-DE": "Spiele 100 Tage lang.",
+                    "en-US": "Play for 100 days.",
+                    "es-ES": "Juega 100 días.",
+                    "fr-FR": "Jouez pendant 100 jours.",
+                    "it-IT": "Gioca per 100 giorni.",
+                    "ja-JP": "100 日間プレイしよう",
+                    "ko-KR": "100일 동안 플레이하십시오.",
+                    "pt-PT": "Joga durante 100 dias.",
+                    "zh-CHT": "遊玩時間達到 100 日。"
+                },
+                "howto": {
+                    "de-DE": "Spiele 100 Tage lang.",
+                    "en-US": "Play for 100 days.",
+                    "es-ES": "Juega 100 días.",
+                    "fr-FR": "Jouez pendant 100 jours.",
+                    "it-IT": "Gioca per 100 giorni.",
+                    "ja-JP": "100 日間プレイしよう",
+                    "ko-KR": "100일 동안 플레이하십시오.",
+                    "pt-PT": "Joga durante 100 dias.",
+                    "zh-CHT": "遊玩時間達到 100 日。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "35.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "Bogenschütze",
+                    "en-US": "Archer",
+                    "es-ES": "Arquero",
+                    "fr-FR": "Archer",
+                    "it-IT": "Arciere",
+                    "ja-JP": "弓兵",
+                    "ko-KR": "궁수",
+                    "pt-PT": "Arqueiro",
+                    "zh-CHT": "射手"
+                },
+                "description": {
+                    "de-DE": "Töte einen Creeper mit Pfeilen.",
+                    "en-US": "Kill a creeper with arrows.",
+                    "es-ES": "Mata un Creeper con flechas.",
+                    "fr-FR": "Tuer un creeper avec des flèches.",
+                    "it-IT": "Uccidi un Creeper con le frecce.",
+                    "ja-JP": "クリーパーを矢で倒そう",
+                    "ko-KR": "화살로 크리퍼를 없애십시오.",
+                    "pt-PT": "Mata um creeper com flechas.",
+                    "zh-CHT": "以弓箭殺死苦力怕。"
+                },
+                "howto": {
+                    "de-DE": "Töte einen Creeper mit Pfeilen.",
+                    "en-US": "Kill a creeper with arrows.",
+                    "es-ES": "Mata un Creeper con flechas.",
+                    "fr-FR": "Tuer un creeper avec des flèches.",
+                    "it-IT": "Uccidi un Creeper con le frecce.",
+                    "ja-JP": "クリーパーを矢で倒そう",
+                    "ko-KR": "화살로 크리퍼를 없애십시오.",
+                    "pt-PT": "Mata um creeper com flechas.",
+                    "zh-CHT": "以弓箭殺死苦力怕。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "36.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Feilscher",
+                    "en-US": "The Haggler",
+                    "es-ES": "Joyero",
+                    "fr-FR": "Marchandage",
+                    "it-IT": "Avido",
+                    "ja-JP": "発掘者",
+                    "ko-KR": "흥정의 달인",
+                    "pt-PT": "O Regateador",
+                    "zh-CHT": "投機客"
+                },
+                "description": {
+                    "de-DE": "30 Smaragde abgebaut oder gekauft.",
+                    "en-US": "Mine or purchase 30 Emeralds.",
+                    "es-ES": "Recoge 30 esmeraldas o cómpralas.",
+                    "fr-FR": "Minez ou achetez 30 émeraudes.",
+                    "it-IT": "Scava o acquista 30 smeraldi.",
+                    "ja-JP": "30 個のエメラルドを集めるか購入しよう",
+                    "ko-KR": "에메랄드를 30개 채굴 또는 구매하십시오.",
+                    "pt-PT": "Extrai ou compra 30 Esmeraldas.",
+                    "zh-CHT": "採挖或購買 30 塊翡翠。"
+                },
+                "howto": {
+                    "de-DE": "30 Smaragde abgebaut oder gekauft.",
+                    "en-US": "Mine or purchase 30 Emeralds.",
+                    "es-ES": "Recoge 30 esmeraldas o cómpralas.",
+                    "fr-FR": "Minez ou achetez 30 émeraudes.",
+                    "it-IT": "Scava o acquista 30 smeraldi.",
+                    "ja-JP": "30 個のエメラルドを集めるか購入しよう",
+                    "ko-KR": "에메랄드를 30개 채굴 또는 구매하십시오.",
+                    "pt-PT": "Extrai ou compra 30 Esmeraldas.",
+                    "zh-CHT": "採挖或購買 30 塊翡翠。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "37.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "de-DE": "Topfbepflanzer",
+                    "en-US": "Pot Planter",
+                    "es-ES": "Macetero",
+                    "fr-FR": "Quel pot !",
+                    "it-IT": "Fiorista",
+                    "ja-JP": "鉢植えガーデナー",
+                    "ko-KR": "멋진 화분",
+                    "pt-PT": "Plantador de Vasos",
+                    "zh-CHT": "蒔花藝草"
+                },
+                "description": {
+                    "de-DE": "Stell einen Blumentopf her und platziere ihn.",
+                    "en-US": "Craft and place a Flower Pot.",
+                    "es-ES": "Crea una maceta y colócala.",
+                    "fr-FR": "Fabriquer et placer un pot de fleurs.",
+                    "it-IT": "Crea e colloca un vaso di fiori.",
+                    "ja-JP": "植木鉢を作って配置しよう",
+                    "ko-KR": "화분을 하나 만들어서 놓으십시오.",
+                    "pt-PT": "Cria e coloca um Vaso de Flores.",
+                    "zh-CHT": "製作並放置一個花盆。"
+                },
+                "howto": {
+                    "de-DE": "Stell einen Blumentopf her und platziere ihn.",
+                    "en-US": "Craft and place a Flower Pot.",
+                    "es-ES": "Crea una maceta y colócala.",
+                    "fr-FR": "Fabriquer et placer un pot de fleurs.",
+                    "it-IT": "Crea e colloca un vaso di fiori.",
+                    "ja-JP": "植木鉢を作って配置しよう",
+                    "ko-KR": "화분을 하나 만들어서 놓으십시오.",
+                    "pt-PT": "Cria e coloca um Vaso de Flores.",
+                    "zh-CHT": "製作並放置一個花盆。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "38.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "Schilderwald",
+                    "en-US": "It's a Sign!",
+                    "es-ES": "¡Es una señal!",
+                    "fr-FR": "Dans le panneau !",
+                    "it-IT": "Segnalazione",
+                    "ja-JP": "看板を作ろう!",
+                    "ko-KR": "표지판!",
+                    "pt-PT": "É um Sinal!",
+                    "zh-CHT": "我的牌子！"
+                },
+                "description": {
+                    "de-DE": "Ein Schild hergestellt und platziert.",
+                    "en-US": "Craft and place a Sign.",
+                    "es-ES": "Crea una señal y colócala.",
+                    "fr-FR": "Fabriquer et placer un panneau.",
+                    "it-IT": "Crea e colloca un cartello.",
+                    "ja-JP": "看板を作って配置しよう",
+                    "ko-KR": "표지판을 하나 만들어서 놓으십시오.",
+                    "pt-PT": "Cria e coloca uma Tabuleta.",
+                    "zh-CHT": "製作並放置一個牌子。"
+                },
+                "howto": {
+                    "de-DE": "Ein Schild hergestellt und platziert.",
+                    "en-US": "Craft and place a Sign.",
+                    "es-ES": "Crea una señal y colócala.",
+                    "fr-FR": "Fabriquer et placer un panneau.",
+                    "it-IT": "Crea e colloca un cartello.",
+                    "ja-JP": "看板を作って配置しよう",
+                    "ko-KR": "표지판을 하나 만들어서 놓으십시오.",
+                    "pt-PT": "Cria e coloca uma Tabuleta.",
+                    "zh-CHT": "製作並放置一個牌子。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "39.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "de-DE": "Starker Magen",
+                    "en-US": "Iron Belly",
+                    "es-ES": "Estómago de acero",
+                    "fr-FR": "Estomac d'acier",
+                    "it-IT": "Stomaco di ferro",
+                    "ja-JP": "強靭なお腹",
+                    "ko-KR": "강철 위장",
+                    "pt-PT": "Barriga de Ferro",
+                    "zh-CHT": "鐵胃"
+                },
+                "description": {
+                    "de-DE": "Halte den Hungertod mit verrottetem Fleisch auf.",
+                    "en-US": "Stop starvation using Rotten Flesh",
+                    "es-ES": "Detén la inanición con carne podrida.",
+                    "fr-FR": "Éviter la famine en utilisant de la chair putréfiée.",
+                    "it-IT": "Combatti la fame usando la carne marcia.",
+                    "ja-JP": "腐肉で飢えをしのごう",
+                    "ko-KR": "썩은 고기로 굶주림을 멈추십시오.",
+                    "pt-PT": "Acaba com a fome usando Carne Podre.",
+                    "zh-CHT": "以腐肉止飢"
+                },
+                "howto": {
+                    "de-DE": "Halte den Hungertod mit verrottetem Fleisch auf.",
+                    "en-US": "Stop starvation using Rotten Flesh",
+                    "es-ES": "Detén la inanición con carne podrida.",
+                    "fr-FR": "Éviter la famine en utilisant de la chair putréfiée.",
+                    "it-IT": "Combatti la fame usando la carne marcia.",
+                    "ja-JP": "腐肉で飢えをしのごう",
+                    "ko-KR": "썩은 고기로 굶주림을 멈추십시오.",
+                    "pt-PT": "Acaba com a fome usando Carne Podre.",
+                    "zh-CHT": "以腐肉止飢"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "40.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "Scher dich zum Schaf",
+                    "en-US": "Have a Shearful Day",
+                    "es-ES": "Recortes",
+                    "fr-FR": "Tonton tondeur",
+                    "it-IT": "Molestatore di pecore",
+                    "ja-JP": "毛刈り日和",
+                    "ko-KR": "양털 날리는 날",
+                    "pt-PT": "Um Dia Lãtástico",
+                    "zh-CHT": "綿毛人生"
+                },
+                "description": {
+                    "de-DE": "Eine Schere verwendet, um Wolle von einem Schaf zu erhalten.",
+                    "en-US": "Use Shears to obtain wool from a sheep.",
+                    "es-ES": "Utiliza unas tijeras para obtener lana de una oveja.",
+                    "fr-FR": "Tondre un mouton avec des cisailles pour obtenir de la laine.",
+                    "it-IT": "Usa le cesoie per ottenere lana da una pecora.",
+                    "ja-JP": "ハサミを使って羊のウールを刈ろう",
+                    "ko-KR": "가위를 사용하여 양에게서 양털을 얻으십시오.",
+                    "pt-PT": "Usa uma Tesoura para tosquiar lã de uma ovelha.",
+                    "zh-CHT": "使用羊毛剪從綿羊身上採集羊毛。"
+                },
+                "howto": {
+                    "de-DE": "Eine Schere verwendet, um Wolle von einem Schaf zu erhalten.",
+                    "en-US": "Use Shears to obtain wool from a sheep.",
+                    "es-ES": "Utiliza unas tijeras para obtener lana de una oveja.",
+                    "fr-FR": "Tondre un mouton avec des cisailles pour obtenir de la laine.",
+                    "it-IT": "Usa le cesoie per ottenere lana da una pecora.",
+                    "ja-JP": "ハサミを使って羊のウールを刈ろう",
+                    "ko-KR": "가위를 사용하여 양에게서 양털을 얻으십시오.",
+                    "pt-PT": "Usa uma Tesoura para tosquiar lã de uma ovelha.",
+                    "zh-CHT": "使用羊毛剪從綿羊身上採集羊毛。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "41.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "Regenbogensammlung",
+                    "en-US": "Rainbow Collection",
+                    "es-ES": "Colección arcoíris",
+                    "fr-FR": "Couleurs de l'arc-en-ciel",
+                    "it-IT": "Collezione arcobaleno",
+                    "ja-JP": "虹色コレクション",
+                    "ko-KR": "형형색색 양털들",
+                    "pt-PT": "Coleção Arco-Íris",
+                    "zh-CHT": "收藏彩虹"
+                },
+                "description": {
+                    "de-DE": "Sammle Wolle in allen 16 Farben.",
+                    "en-US": "Gather all 16 colors of wool.",
+                    "es-ES": "Reúne los 16 colores de lana.",
+                    "fr-FR": "Obtenir les 16 couleurs de laine.",
+                    "it-IT": "Ottieni lana di tutti i 16 colori.",
+                    "ja-JP": "全 16 色のウールを集めよう",
+                    "ko-KR": "16가지 색상의 양털을 모두 모으십시오.",
+                    "pt-PT": "Reúne as 16 cores de lã.",
+                    "zh-CHT": "收集全部 16 種顏色的羊毛。"
+                },
+                "howto": {
+                    "de-DE": "Sammle Wolle in allen 16 Farben.",
+                    "en-US": "Gather all 16 colors of wool.",
+                    "es-ES": "Reúne los 16 colores de lana.",
+                    "fr-FR": "Obtenir les 16 couleurs de laine.",
+                    "it-IT": "Ottieni lana di tutti i 16 colori.",
+                    "ja-JP": "全 16 色のウールを集めよう",
+                    "ko-KR": "16가지 색상의 양털을 모두 모으십시오.",
+                    "pt-PT": "Reúne as 16 cores de lã.",
+                    "zh-CHT": "收集全部 16 種顏色的羊毛。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "42.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "de-DE": "Cool bleiben",
+                    "en-US": "Stayin' Frosty",
+                    "es-ES": "Mantenerse frío",
+                    "fr-FR": "Baignade rafraîchissante",
+                    "it-IT": "Sangue freddo",
+                    "ja-JP": "熱に負けない",
+                    "ko-KR": "이열치열",
+                    "pt-PT": "Mantém-te Cool",
+                    "zh-CHT": "冷水澡"
+                },
+                "description": {
+                    "de-DE": "Schwimme in Lava, während du den Feuerwiderstand-Effekt hast.",
+                    "en-US": "Swim in lava while having the Fire Resistance effect.",
+                    "es-ES": "Nada en lava mientras tienes el efecto resistente al fuego.",
+                    "fr-FR": "Nager dans la lave sous l'effet Résistance au feu.",
+                    "it-IT": "Nuota nella lava mentre l'effetto resistenza al fuoco è attivo.",
+                    "ja-JP": "耐火効果がある間に溶岩の中を泳ごう",
+                    "ko-KR": "화염 저항 효과가 지속되는 동안 용암에서 헤엄치십시오.",
+                    "pt-PT": "Nada em lava enquanto tens o efeito Resistência ao Fogo.",
+                    "zh-CHT": "在抗火效果發揮作用時跳進熔岩游泳。"
+                },
+                "howto": {
+                    "de-DE": "Schwimme in Lava, während du den Feuerwiderstand-Effekt hast.",
+                    "en-US": "Swim in lava while having the Fire Resistance effect.",
+                    "es-ES": "Nada en lava mientras tienes el efecto resistente al fuego.",
+                    "fr-FR": "Nager dans la lave sous l'effet Résistance au feu.",
+                    "it-IT": "Nuota nella lava mentre l'effetto resistenza al fuoco è attivo.",
+                    "ja-JP": "耐火効果がある間に溶岩の中を泳ごう",
+                    "ko-KR": "화염 저항 효과가 지속되는 동안 용암에서 헤엄치십시오.",
+                    "pt-PT": "Nada em lava enquanto tens o efeito Resistência ao Fogo.",
+                    "zh-CHT": "在抗火效果發揮作用時跳進熔岩游泳。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "43.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "Bruchsteinreich",
+                    "en-US": "Chestful of Cobblestone",
+                    "es-ES": "¡Qué montón de adoquines!",
+                    "fr-FR": "Tas de pierre taillée",
+                    "it-IT": "Acciottolato",
+                    "ja-JP": "丸石がいっぱい",
+                    "ko-KR": "조약돌 수집",
+                    "pt-PT": "É Muita Pedra",
+                    "zh-CHT": "鵝卵石滿箱"
+                },
+                "description": {
+                    "de-DE": "Baue 1.728 Bruchsteine ab und lege sie in eine Truhe.",
+                    "en-US": "Mine 1,728 Cobblestone and place it in a chest.",
+                    "es-ES": "Recoge 1728 adoquines y colócalos en un cofre.",
+                    "fr-FR": "Miner 1 728 blocs de pierre taillée et les placer dans un coffre.",
+                    "it-IT": "Scava 1.728 ciottoli e collocali in una cassa.",
+                    "ja-JP": "丸石を 1,728 個集めてチェストに入れよう",
+                    "ko-KR": "조약돌 1,728개를 채굴해 상자에 넣으십시오.",
+                    "pt-PT": "Extrai 1728 unidades de Pedra Arredondada e coloca-as num baú.",
+                    "zh-CHT": "採挖 1728 個鵝卵石並放進置物箱中。"
+                },
+                "howto": {
+                    "de-DE": "Baue 1.728 Bruchsteine ab und lege sie in eine Truhe.",
+                    "en-US": "Mine 1,728 Cobblestone and place it in a chest.",
+                    "es-ES": "Recoge 1728 adoquines y colócalos en un cofre.",
+                    "fr-FR": "Miner 1 728 blocs de pierre taillée et les placer dans un coffre.",
+                    "it-IT": "Scava 1.728 ciottoli e collocali in una cassa.",
+                    "ja-JP": "丸石を 1,728 個集めてチェストに入れよう",
+                    "ko-KR": "조약돌 1,728개를 채굴해 상자에 넣으십시오.",
+                    "pt-PT": "Extrai 1728 unidades de Pedra Arredondada e coloca-as num baú.",
+                    "zh-CHT": "採挖 1728 個鵝卵石並放進置物箱中。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "44.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "Erneuerbare Energie",
+                    "en-US": "Renewable Energy",
+                    "es-ES": "Energía renovable",
+                    "fr-FR": "Énergie renouvelable",
+                    "it-IT": "Energia rinnovabile",
+                    "ja-JP": "再生可能エネルギー",
+                    "ko-KR": "재생에너지",
+                    "pt-PT": "Energia Renovável",
+                    "zh-CHT": "本是同根生"
+                },
+                "description": {
+                    "de-DE": "Verkohle Baumstämme mit Holzkohle, um mehr Holzkohle herzustellen.",
+                    "en-US": "Smelt wood trunks using charcoal to make more charcoal.",
+                    "es-ES": "Transforma troncos de madera con carbón para crear más carbón.",
+                    "fr-FR": "Brûler des troncs d’arbres avec du charbon de bois pour obtenir plus de charbon.",
+                    "it-IT": "Brucia dei tronchi di legno usando la carbonella per produrre altra carbonella.",
+                    "ja-JP": "木炭で木の幹を精錬し、さらに多くの木炭を作ろう",
+                    "ko-KR": "숯으로 나무 둥치를 태워서 숯을 더 많이 만들어내십시오.",
+                    "pt-PT": "Queima troncos de madeira usando carvão vegetal para fazer mais carvão vegetal.",
+                    "zh-CHT": "以木炭來熔煉木幹以獲得更多木炭。"
+                },
+                "howto": {
+                    "de-DE": "Verkohle Baumstämme mit Holzkohle, um mehr Holzkohle herzustellen.",
+                    "en-US": "Smelt wood trunks using charcoal to make more charcoal.",
+                    "es-ES": "Transforma troncos de madera con carbón para crear más carbón.",
+                    "fr-FR": "Brûler des troncs d’arbres avec du charbon de bois pour obtenir plus de charbon.",
+                    "it-IT": "Brucia dei tronchi di legno usando la carbonella per produrre altra carbonella.",
+                    "ja-JP": "木炭で木の幹を精錬し、さらに多くの木炭を作ろう",
+                    "ko-KR": "숯으로 나무 둥치를 태워서 숯을 더 많이 만들어내십시오.",
+                    "pt-PT": "Queima troncos de madeira usando carvão vegetal para fazer mais carvão vegetal.",
+                    "zh-CHT": "以木炭來熔煉木幹以獲得更多木炭。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "45.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "de-DE": "Musik in meinen Ohren",
+                    "en-US": "Music to my Ears",
+                    "es-ES": "Música para los oídos",
+                    "fr-FR": "Toute la musique que j'aime",
+                    "it-IT": "Musica per le mie orecchie",
+                    "ja-JP": "心に響く音",
+                    "ko-KR": "내 귀에 재생장치",
+                    "pt-PT": "Música para os meus Ouvidos",
+                    "zh-CHT": "餘音繞樑"
+                },
+                "description": {
+                    "de-DE": "Spiele eine Schallplatte in einem Plattenspieler ab.",
+                    "en-US": "Play a music disc in a Jukebox.",
+                    "es-ES": "Reproduce un disco de música en un tocadiscos.",
+                    "fr-FR": "Écouter un disque sur un juke-box.",
+                    "it-IT": "Suona un disco in un jukebox.",
+                    "ja-JP": "ジュークボックスで音楽ディスクを聞こう",
+                    "ko-KR": "주크박스로 음악 디스크를 하나 재생하십시오.",
+                    "pt-PT": "Toca um Disco de Música numa Jukebox.",
+                    "zh-CHT": "用點唱機播放唱片。"
+                },
+                "howto": {
+                    "de-DE": "Spiele eine Schallplatte in einem Plattenspieler ab.",
+                    "en-US": "Play a music disc in a Jukebox.",
+                    "es-ES": "Reproduce un disco de música en un tocadiscos.",
+                    "fr-FR": "Écouter un disque sur un juke-box.",
+                    "it-IT": "Suona un disco in un jukebox.",
+                    "ja-JP": "ジュークボックスで音楽ディスクを聞こう",
+                    "ko-KR": "주크박스로 음악 디스크를 하나 재생하십시오.",
+                    "pt-PT": "Toca um Disco de Música numa Jukebox.",
+                    "zh-CHT": "用點唱機播放唱片。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "46.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "de-DE": "Leibwächter",
+                    "en-US": "Body Guard",
+                    "es-ES": "Guardaespaldas",
+                    "fr-FR": "Garde du corps",
+                    "it-IT": "Guardia del corpo",
+                    "ja-JP": "ボディー ガード",
+                    "ko-KR": "보디가드",
+                    "pt-PT": "Guarda Costas",
+                    "zh-CHT": "貼身保鑣"
+                },
+                "description": {
+                    "de-DE": "Erschaffe einen Eisengolem.",
+                    "en-US": "Create an Iron Golem.",
+                    "es-ES": "Crea un gólem de hierro.",
+                    "fr-FR": "Créer un golem de fer.",
+                    "it-IT": "Crea un golem di ferro.",
+                    "ja-JP": "アイアン ゴーレムを作ろう",
+                    "ko-KR": "철 골렘을 하나 만드십시오.",
+                    "pt-PT": "Cria um Golem de Ferro.",
+                    "zh-CHT": "製作出鐵魔像。"
+                },
+                "howto": {
+                    "de-DE": "Erschaffe einen Eisengolem.",
+                    "en-US": "Create an Iron Golem.",
+                    "es-ES": "Crea un gólem de hierro.",
+                    "fr-FR": "Créer un golem de fer.",
+                    "it-IT": "Crea un golem di ferro.",
+                    "ja-JP": "アイアン ゴーレムを作ろう",
+                    "ko-KR": "철 골렘을 하나 만드십시오.",
+                    "pt-PT": "Cria um Golem de Ferro.",
+                    "zh-CHT": "製作出鐵魔像。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "47.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "Eisenmann",
+                    "en-US": "Iron Man",
+                    "es-ES": "Hombre de hierro",
+                    "fr-FR": "Homme de fer",
+                    "it-IT": "Uomo d'acciaio",
+                    "ja-JP": "鉄の男",
+                    "ko-KR": "아이언 맨",
+                    "pt-PT": "Homem de Ferro",
+                    "zh-CHT": "鋼鐵人"
+                },
+                "description": {
+                    "de-DE": "Trage eine komplette Eisenrüstung.",
+                    "en-US": "Wear a full suit of Iron Armour.",
+                    "es-ES": "Lleva una armadura de hierro completa.",
+                    "fr-FR": "Portez une armure de fer complète.",
+                    "it-IT": "Indossa un'armatura di ferro completa.",
+                    "ja-JP": "鉄の全身防具を身に着けよう",
+                    "ko-KR": "철 방어구 세트를 착용하십시오.",
+                    "pt-PT": "Veste uma Armadura de Ferro completa.",
+                    "zh-CHT": "全身裝備鋼鐵護具。"
+                },
+                "howto": {
+                    "de-DE": "Trage eine komplette Eisenrüstung.",
+                    "en-US": "Wear a full suit of Iron Armour.",
+                    "es-ES": "Lleva una armadura de hierro completa.",
+                    "fr-FR": "Portez une armure de fer complète.",
+                    "it-IT": "Indossa un'armatura di ferro completa.",
+                    "ja-JP": "鉄の全身防具を身に着けよう",
+                    "ko-KR": "철 방어구 세트를 착용하십시오.",
+                    "pt-PT": "Veste uma Armadura de Ferro completa.",
+                    "zh-CHT": "全身裝備鋼鐵護具。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "48.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "de-DE": "Zombie-Doktor",
+                    "en-US": "Zombie Doctor",
+                    "es-ES": "Doctor de zombis",
+                    "fr-FR": "Zombiologue",
+                    "it-IT": "Medico degli zombi",
+                    "ja-JP": "ゾンビの医者",
+                    "ko-KR": "좀비 의사",
+                    "pt-PT": "Médico Morto-Vivo",
+                    "zh-CHT": "殭屍科名醫"
+                },
+                "description": {
+                    "de-DE": "Heile einen Zombie-Dorfbewohner.",
+                    "en-US": "Cure a Zombie Villager.",
+                    "es-ES": "Cura a un aldeano zombi.",
+                    "fr-FR": "Guérir un villageois zombie.",
+                    "it-IT": "Cura un abitante zombi.",
+                    "ja-JP": "ゾンビ 村人を治療しよう",
+                    "ko-KR": "좀비 주민 한 명을 치료하십시오.",
+                    "pt-PT": "Cura um Aldeão Morto-Vivo",
+                    "zh-CHT": "治癒一名殭屍村民。"
+                },
+                "howto": {
+                    "de-DE": "Heile einen Zombie-Dorfbewohner.",
+                    "en-US": "Cure a Zombie Villager.",
+                    "es-ES": "Cura a un aldeano zombi.",
+                    "fr-FR": "Guérir un villageois zombie.",
+                    "it-IT": "Cura un abitante zombi.",
+                    "ja-JP": "ゾンビ 村人ビを治療しよう",
+                    "ko-KR": "좀비 주민 한 명을 치료하십시오.",
+                    "pt-PT": "Cura um Aldeão Morto-Vivo",
+                    "zh-CHT": "治癒一名殭屍村民。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "49.png"
+        },
+        "51": {
+            "text": {
+                "name": {
+                    "de-DE": "Löwenbändiger",
+                    "en-US": "Lion Tamer",
+                    "es-ES": "Domador de fieras",
+                    "fr-FR": "Dresseur de lion",
+                    "it-IT": "Domatore",
+                    "ja-JP": "ヤマネコ調教師",
+                    "ko-KR": "용맹한 사육사",
+                    "pt-PT": "Domador",
+                    "zh-CHT": "馴服獅子"
+                },
+                "description": {
+                    "de-DE": "Zähme einen Ozelot.",
+                    "en-US": "Tame an Ocelot.",
+                    "es-ES": "Domestica un ocelote.",
+                    "fr-FR": "Apprivoiser un ocelot.",
+                    "it-IT": "Addomestica un gattopardo.",
+                    "ja-JP": "ヤマネコを手なずけよう",
+                    "ko-KR": "오셀롯을 길들이십시오.",
+                    "pt-PT": "Domestica um Ocelote.",
+                    "zh-CHT": "馴化一隻豹貓。"
+                },
+                "howto": {
+                    "de-DE": "Zähme einen Ozelot.",
+                    "en-US": "Tame an Ocelot.",
+                    "es-ES": "Domestica un ocelote.",
+                    "fr-FR": "Apprivoiser un ocelot.",
+                    "it-IT": "Addomestica un gattopardo.",
+                    "ja-JP": "ヤマネコを手なずけよう",
+                    "ko-KR": "오셀롯을 길들이십시오.",
+                    "pt-PT": "Domestica um Ocelote.",
+                    "zh-CHT": "馴化一隻豹貓。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "50.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Anfang?",
+                    "en-US": "The Beginning?",
+                    "es-ES": "¿El comienzo?",
+                    "fr-FR": "Le commencement ?",
+                    "it-IT": "Inizio",
+                    "ja-JP": "はじまり?",
+                    "ko-KR": "시작이야?",
+                    "pt-PT": "O Princípio?",
+                    "zh-CHT": "一切的開端？"
+                },
+                "description": {
+                    "de-DE": "Spawne den Wither",
+                    "en-US": "Spawn the Wither.",
+                    "es-ES": "Genera al Wither.",
+                    "fr-FR": "Invoquer le wither.",
+                    "it-IT": "Genera il Wither.",
+                    "ja-JP": "ウィザーを出現させる",
+                    "ko-KR": "위더를 생성하세요.",
+                    "pt-PT": "Gera o Wither.",
+                    "zh-CHT": "增生凋靈怪。"
+                },
+                "howto": {
+                    "de-DE": "Spawne den Wither",
+                    "en-US": "Spawn the Wither.",
+                    "es-ES": "Genera al Wither.",
+                    "fr-FR": "Invoquer le wither.",
+                    "it-IT": "Genera il Wither.",
+                    "ja-JP": "ウィザーを出現させる",
+                    "ko-KR": "위더를 생성하세요.",
+                    "pt-PT": "Gera o Wither.",
+                    "zh-CHT": "增生凋靈怪。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "51.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Anfang.",
+                    "en-US": "The Beginning.",
+                    "es-ES": "El comienzo.",
+                    "fr-FR": "Le commencement.",
+                    "it-IT": "Inizio",
+                    "ja-JP": "はじまり。",
+                    "ko-KR": "시작이야.",
+                    "pt-PT": "O Princípio.",
+                    "zh-CHT": "真正的開始。"
+                },
+                "description": {
+                    "de-DE": "Töte den Wither.",
+                    "en-US": "Kill the Wither.",
+                    "es-ES": "Mata al Wither.",
+                    "fr-FR": "Tuer le wither.",
+                    "it-IT": "Uccidi il Wither.",
+                    "ja-JP": "ウィザーを倒そう",
+                    "ko-KR": "위더를 죽이세요.",
+                    "pt-PT": "Mata o Wither.",
+                    "zh-CHT": "殺死凋靈怪。"
+                },
+                "howto": {
+                    "de-DE": "Töte den Wither.",
+                    "en-US": "Kill the Wither.",
+                    "es-ES": "Mata al Wither.",
+                    "fr-FR": "Tuer le wither.",
+                    "it-IT": "Uccidi il Wither.",
+                    "ja-JP": "ウィザーを倒そう",
+                    "ko-KR": "위더를 죽이세요.",
+                    "pt-PT": "Mata o Wither.",
+                    "zh-CHT": "殺死凋靈怪。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "52.png"
+        },
+        "54": {
+            "text": {
+                "name": {
+                    "de-DE": "Leuchtturmwärter",
+                    "en-US": "Beaconator",
+                    "es-ES": "Faroneitor",
+                    "fr-FR": "Phare à On",
+                    "it-IT": "Sia fatta la luce",
+                    "ja-JP": "ビーコン使い",
+                    "ko-KR": "신호기 제작자",
+                    "pt-PT": "Faroleiro",
+                    "zh-CHT": "引導者"
+                },
+                "description": {
+                    "de-DE": "Erstelle ein Leuchtfeuer und versorge es vollständig mit Energie.",
+                    "en-US": "Create and fully power a Beacon.",
+                    "es-ES": "Crea un faro y enciéndelo al máximo.",
+                    "fr-FR": "Créer et alimenter entièrement une balise.",
+                    "it-IT": "Crea e alimenta al massimo un faro.",
+                    "ja-JP": "ビーコンを作ってエネルギーで一杯にしよう",
+                    "ko-KR": "신호기를 제작해 가장 세게 활성화하세요.",
+                    "pt-PT": "Cria e fornece energia a um Farol.",
+                    "zh-CHT": "建立燈塔並充分升級。"
+                },
+                "howto": {
+                    "de-DE": "Erstelle ein Leuchtfeuer und versorge es vollständig mit Energie.",
+                    "en-US": "Create and fully power a Beacon.",
+                    "es-ES": "Crea un faro y enciéndelo al máximo.",
+                    "fr-FR": "Créer et alimenter entièrement une balise.",
+                    "it-IT": "Crea e alimenta al massimo un faro.",
+                    "ja-JP": "ビーコンを作ってエネルギーで一杯にしよう",
+                    "ko-KR": "신호기를 제작해 가장 세게 활성화하세요.",
+                    "pt-PT": "Cria e fornece energia a um Farol.",
+                    "zh-CHT": "建立燈塔並充分升級。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "60",
+            "imageId": "53.png"
+        },
+        "55": {
+            "text": {
+                "name": {
+                    "de-DE": "Übermächtig",
+                    "en-US": "Overpowered",
+                    "es-ES": "Todopoderoso",
+                    "fr-FR": "Surpuissant",
+                    "it-IT": "Un'aura potentissima",
+                    "ja-JP": "圧倒的な力",
+                    "ko-KR": "압도적인 힘",
+                    "pt-PT": "Omnipotente",
+                    "zh-CHT": "太強大"
+                },
+                "description": {
+                    "de-DE": "Iss einen Notch-Apfel.",
+                    "en-US": "Eat a Notch Apple.",
+                    "es-ES": "Come una manzana de notch.",
+                    "fr-FR": "Manger une pomme de Notch.",
+                    "it-IT": "Mangia una mela di Notch.",
+                    "ja-JP": "ノッチりんごを食べよう",
+                    "ko-KR": "노치의 사과를 먹으세요.",
+                    "pt-PT": "Come uma Maçã de Notch.",
+                    "zh-CHT": "吃一個附魔金蘋果。"
+                },
+                "howto": {
+                    "de-DE": "Iss einen Notch-Apfel.",
+                    "en-US": "Eat a Notch Apple.",
+                    "es-ES": "Come una manzana de notch.",
+                    "fr-FR": "Manger une pomme de Notch.",
+                    "it-IT": "Mangia una mela di Notch.",
+                    "ja-JP": "ノッチりんごを食べよう",
+                    "ko-KR": "노치의 사과를 먹으세요.",
+                    "pt-PT": "Come uma Maçã de Notch.",
+                    "zh-CHT": "吃一個附魔金蘋果。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "54.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "de-DE": "Batik-Outfit",
+                    "en-US": "Tie Dye Outfit",
+                    "es-ES": "Conjunto de teñido multicolor",
+                    "fr-FR": "Tenue effet tie and dye",
+                    "it-IT": "Bagno di tintura",
+                    "ja-JP": "タイダイ コスチューム",
+                    "ko-KR": "홀치기 염색 의상",
+                    "pt-PT": "Pinta um Equipamento com cores",
+                    "zh-CHT": "紮染裝"
+                },
+                "description": {
+                    "de-DE": "Färbe alle 4 verschiedenen Teile der Lederrüstung.",
+                    "en-US": "Dye all 4 unique pieces of Leather Armor.",
+                    "es-ES": "Tiñe las 4 piezas únicas de armadura de cuero.",
+                    "fr-FR": "Teindre les 4 pièces d'armure de cuir uniques.",
+                    "it-IT": "Tingi le quattro parti uniche dell'armatura di cuoio.",
+                    "ja-JP": "革の鎧の異なる部分 4 つを染めて色をつけよう",
+                    "ko-KR": "4개 부위 가죽 갑옷을 모두 염색하세요.",
+                    "pt-PT": "Pinta todas as 4 peças exclusivas da Armadura de Cabedal.",
+                    "zh-CHT": "為 4 件獨特的皮護甲染色。"
+                },
+                "howto": {
+                    "de-DE": "Färbe alle 4 verschiedenen Teile der Lederrüstung.",
+                    "en-US": "Dye all 4 unique pieces of Leather Armor.",
+                    "es-ES": "Tiñe las 4 piezas únicas de armadura de cuero.",
+                    "fr-FR": "Teindre les 4 pièces d'armure de cuir uniques.",
+                    "it-IT": "Tingi le quattro parti uniche dell'armatura di cuoio.",
+                    "ja-JP": "革の鎧の異なる部分 4 つを染めて色をつけよう",
+                    "ko-KR": "4개 부위 가죽 갑옷을 모두 염색하세요.",
+                    "pt-PT": "Pinta todas as 4 peças exclusivas da Armadura de Cabedal.",
+                    "zh-CHT": "為 4 件獨特的皮護甲染色。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "55.png"
+        },
+        "63": {
+            "text": {
+                "name": {
+                    "de-DE": "Trampolin",
+                    "en-US": "Trampoline",
+                    "es-ES": "Trampolín",
+                    "fr-FR": "Trampoline",
+                    "it-IT": "Trampolino",
+                    "ja-JP": "トランポリン",
+                    "ko-KR": "트램펄린",
+                    "pt-PT": "Trampolim",
+                    "zh-CHT": "彈簧床"
+                },
+                "description": {
+                    "de-DE": "Lasse 30 Blöcke von einem Schleimblock nach oben prallen.",
+                    "en-US": "Bounce 30 blocks upward off a Slime Block.",
+                    "es-ES": "Haz rebotar 30 bloques hacia arriba desde un bloque de limo.",
+                    "fr-FR": "Faire rebondir 30 blocs au-dessus d'un bloc de slime.",
+                    "it-IT": "Rimbalza a 30 blocchi di altezza da un blocco di gelatina.",
+                    "ja-JP": "スライム ブロックでブロックを30個はね返らせて上向きに飛ばそう",
+                    "ko-KR": "슬라임 블록 위로 블록 30개를 튕겨 올리십시오.",
+                    "pt-PT": "Salta 30 blocos para cima usando um Bloco de Slime.",
+                    "zh-CHT": "從史萊姆方塊向上彈出 30 個方塊。"
+                },
+                "howto": {
+                    "de-DE": "Lasse 30 Blöcke von einem Schleimblock nach oben prallen.",
+                    "en-US": "Bounce 30 blocks upward off a Slime Block.",
+                    "es-ES": "Haz rebotar 30 bloques hacia arriba desde un bloque de limo.",
+                    "fr-FR": "Faire rebondir 30 blocs au-dessus d'un bloc de slime.",
+                    "it-IT": "Rimbalza a 30 blocchi di altezza da un blocco di gelatina.",
+                    "ja-JP": "スライム ブロックでブロックを30個はね返らせて上向きに飛ばそう",
+                    "ko-KR": "슬라임 블록 위로 블록 30개를 튕겨 올리십시오.",
+                    "pt-PT": "Salta 30 blocos para cima usando um Bloco de Slime.",
+                    "zh-CHT": "從史萊姆方塊向上彈出 30 個方塊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "56.png"
+        },
+        "64": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Student ...",
+                    "en-US": "The Student...",
+                    "es-ES": "El alumno...",
+                    "fr-FR": "L'étudiant…",
+                    "it-IT": "Lo studente...",
+                    "ja-JP": "弟子は...",
+                    "ko-KR": "견습생에서...",
+                    "pt-PT": "O Estudante...",
+                    "zh-CHT": "青出於藍..."
+                },
+                "description": {
+                    "de-DE": "Gewinne ein öffentliches Battle-Minigame.",
+                    "en-US": "Win a public Battle mini game.",
+                    "es-ES": "Gana una partida pública del minijuego Batalla.",
+                    "fr-FR": "Remportez un mini jeu Bataille public.",
+                    "it-IT": "Vinci una partita a Battaglia pubblica.",
+                    "ja-JP": "パブリック バトル ミニ ゲームで勝利する",
+                    "ko-KR": "공개 전투 미니 게임에서 1승을 하세요.",
+                    "pt-PT": "Vence um minijogo de Batalha público.",
+                    "zh-CHT": "打贏一次公開的「大亂鬥」迷你遊戲。"
+                },
+                "howto": {
+                    "de-DE": "Gewinne ein öffentliches Battle-Minigame.",
+                    "en-US": "Win a public Battle mini game.",
+                    "es-ES": "Gana una partida pública del minijuego Batalla.",
+                    "fr-FR": "Remportez un mini jeu Bataille public.",
+                    "it-IT": "Vinci una partita a Battaglia pubblica.",
+                    "ja-JP": "パブリック バトル ミニ ゲームで勝利する",
+                    "ko-KR": "공개 전투 미니 게임에서 1승을 하세요.",
+                    "pt-PT": "Vence um minijogo de Batalha público.",
+                    "zh-CHT": "打贏一次公開的「大亂鬥」迷你遊戲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "57.png"
+        },
+        "65": {
+            "text": {
+                "name": {
+                    "de-DE": "...ist zum Meister geworden",
+                    "en-US": "...has become the master",
+                    "es-ES": "...superó al maestro",
+                    "fr-FR": "… est devenu le maître",
+                    "it-IT": "...è diventato il Master",
+                    "ja-JP": "...師を超えた",
+                    "ko-KR": "...마스터가 되다",
+                    "pt-PT": "...tornou-se no Mestre",
+                    "zh-CHT": "...更勝於藍"
+                },
+                "description": {
+                    "de-DE": "Gewinne 3 öffentliche Battle-Minigames in Folge.",
+                    "en-US": "Win 3 public Battle games in a row.",
+                    "es-ES": "Gana 3 partidas públicas consecutivas de Batalla.",
+                    "fr-FR": "Remporter 3 batailles publiques d'un coup.",
+                    "it-IT": "Vinci 3 partite a Battaglia pubbliche di fila.",
+                    "ja-JP": "パブリック バトル ゲームで 3 連勝する",
+                    "ko-KR": "공개 전투 게임에서 3연승을 하세요.",
+                    "pt-PT": "Vence 3 jogos de Batalha consecutivos.",
+                    "zh-CHT": "連續打贏三次公開的「大亂鬥」遊戲。"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 3 öffentliche Battle-Minigames in Folge.",
+                    "en-US": "Win 3 public Battle games in a row.",
+                    "es-ES": "Gana 3 partidas públicas consecutivas de Batalla.",
+                    "fr-FR": "Remporter 3 batailles publiques d'un coup.",
+                    "it-IT": "Vinci 3 partite a Battaglia pubbliche di fila.",
+                    "ja-JP": "パブリック バトル ゲームで 3 連勝する",
+                    "ko-KR": "공개 전투 게임에서 3연승을 하세요.",
+                    "pt-PT": "Vence 3 jogos de Batalha consecutivos.",
+                    "zh-CHT": "連續打贏三次公開的「大亂鬥」遊戲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "60",
+            "imageId": "58.png"
+        },
+        "66": {
+            "text": {
+                "name": {
+                    "de-DE": "Das ist nur ein Kratzer",
+                    "en-US": "'Tis but a scratch",
+                    "es-ES": "Es solo un rasguño",
+                    "fr-FR": "Ce n'est qu'une égratignure",
+                    "it-IT": "È solo un graffio",
+                    "ja-JP": "ただのかすり傷",
+                    "ko-KR": "이 정도 쯤이야",
+                    "pt-PT": "É apenas um arranhão",
+                    "zh-CHT": "不痛不癢"
+                },
+                "description": {
+                    "de-DE": "Erleide in einem öffentlichen Battle-Minigame in einer Runde 100 Schaden.",
+                    "en-US": "Take 100 damage in a round of a public Battle mini game.",
+                    "es-ES": "Recibe 100 puntos de golpe en una ronda de una partida pública del minijuego Batalla.",
+                    "fr-FR": "Subissez 100 dégâts au cours d'une manche du mini jeu Bataille public.",
+                    "it-IT": "Danno 100 in un turno di una partita a Battaglia pubblica.",
+                    "ja-JP": "パブリック バトル ミニ ゲームの 1 ラウンド中に 100 ダメージ受ける",
+                    "ko-KR": "공개 전투 미니 게임에서 한 라운드 동안 100 데미지를 받으세요.",
+                    "pt-PT": "Sofre 100 pontos de dano numa ronda de um minijogo de Batalha público.",
+                    "zh-CHT": "在公開的「大亂鬥」迷你遊戲中，於一回合內承受 100 點傷害。"
+                },
+                "howto": {
+                    "de-DE": "Erleide in einem öffentlichen Battle-Minigame in einer Runde 100 Schaden.",
+                    "en-US": "Take 100 damage in a round of a public Battle mini game.",
+                    "es-ES": "Recibe 100 puntos de golpe en una ronda de una partida pública del minijuego Batalla.",
+                    "fr-FR": "Subissez 100 dégâts au cours d'une manche du mini jeu Bataille public.",
+                    "it-IT": "Danno 100 in un turno di una partita a Battaglia pubblica.",
+                    "ja-JP": "パブリック バトル ミニ ゲームの 1 ラウンド中に 100 ダメージ受ける",
+                    "ko-KR": "공개 전투 미니 게임에서 한 라운드 동안 100 데미지를 받으세요.",
+                    "pt-PT": "Sofre 100 pontos de dano numa ronda de um minijogo de Batalha público.",
+                    "zh-CHT": "在公開的「大亂鬥」迷你遊戲中，於一回合內承受 100 點傷害。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "59.png"
+        },
+        "67": {
+            "text": {
+                "name": {
+                    "de-DE": "Amor",
+                    "en-US": "Cupid",
+                    "es-ES": "Cupido",
+                    "fr-FR": "Cupidon",
+                    "it-IT": "Cupido",
+                    "ja-JP": "キューピッド",
+                    "ko-KR": "큐피드",
+                    "pt-PT": "Cupido",
+                    "zh-CHT": "愛神丘比特"
+                },
+                "description": {
+                    "de-DE": "Töte in einem öffentlichen Battle-Minigame 2 Spieler mit Pfeil und Bogen.",
+                    "en-US": "Kill 2 players in a round of a public Battle mini game using a bow and arrow.",
+                    "es-ES": "Mata a 2 jugadores con un arco y una flecha en una ronda de partida pública del minijuego Batalla.",
+                    "fr-FR": "Tuer 2 joueurs lors d'une manche du mini jeu Bataille public en utilisant un arc.",
+                    "it-IT": "Uccidi 2 giocatori in un turno di una partita pubblica al minigioco Battaglia usando arco e freccia.",
+                    "ja-JP": "パブリック バトル ミニ ゲームの 1 ラウンド中に、弓矢を使ってプレイヤーを 2 人倒す",
+                    "ko-KR": "공개 전투 미니 게임에서 활과 화살을 사용해 한 라운드 동안 플레이어 2명을 처치하십시오.",
+                    "pt-PT": "Mata 2 jogadores numa ronda de um minijogo de Batalha público utilizando um arco e flechas.",
+                    "zh-CHT": "在公開的「大亂鬥」迷你遊戲中，於一回合中使用弓擊殺 2 個玩家。"
+                },
+                "howto": {
+                    "de-DE": "Töte in einem öffentlichen Battle-Minigame 2 Spieler mit Pfeil und Bogen.",
+                    "en-US": "Kill 2 players in a round of a public Battle mini game using a bow and arrow.",
+                    "es-ES": "Mata a 2 jugadores con un arco y una flecha en una ronda de partida pública del minijuego Batalla.",
+                    "fr-FR": "Tuer 2 joueurs lors d'une manche du mini jeu Bataille public en utilisant un arc.",
+                    "it-IT": "Uccidi 2 giocatori in un turno di una partita pubblica al minigioco Battaglia usando arco e freccia.",
+                    "ja-JP": "パブリック バトル ミニ ゲームの 1 ラウンド中に、弓矢を使ってプレイヤーを 2 人倒す",
+                    "ko-KR": "공개 전투 미니 게임에서 활과 화살을 사용해 한 라운드 동안 플레이어 2명을 처치하십시오.",
+                    "pt-PT": "Mata 2 jogadores numa ronda de um minijogo de Batalha público utilizando um arco e flechas.",
+                    "zh-CHT": "在公開的「大亂鬥」迷你遊戲中，於一回合中使用弓擊殺 2 個玩家。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "60.png"
+        },
+        "68": {
+            "text": {
+                "name": {
+                    "de-DE": "Hungerschaden",
+                    "en-US": "Hunger Pain",
+                    "es-ES": "Hambriento",
+                    "fr-FR": "La fin de la faim",
+                    "it-IT": "Morso della fame",
+                    "ja-JP": "お腹ぺこぺこ",
+                    "ko-KR": "헝거 페인",
+                    "pt-PT": "Dor Faminta",
+                    "zh-CHT": "餓到痛"
+                },
+                "description": {
+                    "de-DE": "Töte in einem Battle-Minigame einen Spieler, während du Hunger hast.",
+                    "en-US": "Kill a player while you are starving in a Battle mini game.",
+                    "es-ES": "Mata a un jugador mientras mueres de hambre en un minijuego Batalla.",
+                    "fr-FR": "Tuez un joueur tout en mourant de faim dans le mini jeu Bataille.",
+                    "it-IT": "Uccidi un giocatore mentre muori di fame in una partita a Battaglia.",
+                    "ja-JP": "バトル ミニ ゲームで、空腹状態でプレイヤーを倒す",
+                    "ko-KR": "전투 미니 게임 중 굶주림 상태에서 플레이어를 처치하세요.",
+                    "pt-PT": "Mata um jogador enquanto passas fome num minijogo de Batalha.",
+                    "zh-CHT": "在「大亂鬥」迷你遊戲中，於飢餓狀態下擊殺一個玩家。"
+                },
+                "howto": {
+                    "de-DE": "Töte in einem Battle-Minigame einen Spieler, während du Hunger hast.",
+                    "en-US": "Kill a player while you are starving in a Battle mini game.",
+                    "es-ES": "Mata a un jugador mientras mueres de hambre en un minijuego Batalla.",
+                    "fr-FR": "Tuez un joueur tout en mourant de faim dans le mini jeu Bataille.",
+                    "it-IT": "Uccidi un giocatore mentre muori di fame in una partita a Battaglia.",
+                    "ja-JP": "バトル ミニゲームで、空腹状態でプレイヤーを倒す",
+                    "ko-KR": "전투 미니 게임 중 굶주림 상태에서 플레이어를 처치하세요.",
+                    "pt-PT": "Mata um jogador enquanto passas fome num minijogo de Batalha.",
+                    "zh-CHT": "在「大亂鬥」迷你遊戲中，於飢餓狀態下擊殺一個玩家。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "61.png"
+        },
+        "69": {
+            "text": {
+                "name": {
+                    "de-DE": "Grab!",
+                    "en-US": "Mine!",
+                    "es-ES": "¡Mío!",
+                    "fr-FR": "C'est à moi !",
+                    "it-IT": "Scava!",
+                    "ja-JP": "いざ採掘!",
+                    "ko-KR": "내 거야!",
+                    "pt-PT": "Escava!",
+                    "zh-CHT": "我全拿了！"
+                },
+                "description": {
+                    "de-DE": "In einer Battle-Minigame-Arena in einer Runde alle Truhen geöffnet.",
+                    "en-US": "Open every chest in a Battle mini game arena in one round.",
+                    "es-ES": "Abre todos los cofres en la arena de un minijuego Batalla en una ronda.",
+                    "fr-FR": "Ouvrir chaque coffre d'une arène de mini jeu Bataille, en un tour.",
+                    "it-IT": "Apri tutte le casse nell'arena in un turno di una partita al minigioco Battaglia.",
+                    "ja-JP": "1 ラウンド中にバトル ミニゲーム アリーナにあるすべてのチェストを開ける",
+                    "ko-KR": "전투 미니 게임에서 한 라운드 동안 아레나의 모든 상자를 여세요.",
+                    "pt-PT": "Abre todos os baús numa arena de minijogo de Batalha numa ronda.",
+                    "zh-CHT": "在「大亂鬥」迷你遊戲中，於一回合中開啟競技場內的每一個箱子。"
+                },
+                "howto": {
+                    "de-DE": "In einer Battle-Minigame-Arena in einer Runde alle Truhen geöffnet.",
+                    "en-US": "Open every chest in a Battle mini game arena in one round.",
+                    "es-ES": "Abre todos los cofres en la arena de un minijuego Batalla en una ronda.",
+                    "fr-FR": "Ouvrir chaque coffre d'une arène de mini jeu Bataille, en un tour.",
+                    "it-IT": "Apri tutte le casse nell'arena in un turno di una partita al minigioco Battaglia.",
+                    "ja-JP": "1 ラウンド中にバトル ミニゲーム アリーナにあるすべてのチェストを開ける",
+                    "ko-KR": "전투 미니 게임에서 한 라운드 동안 아레나의 모든 상자를 여세요.",
+                    "pt-PT": "Abre todos os baús numa arena de minijogo de Batalha numa ronda.",
+                    "zh-CHT": "在「大亂鬥」迷你遊戲中，於一回合中開啟競技場內的每一個箱子。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "62.png"
+        },
+        "70": {
+            "text": {
+                "name": {
+                    "de-DE": "Das Ende ... mal wieder ...",
+                    "en-US": "The End... Again...",
+                    "es-ES": "The End... Otra vez...",
+                    "fr-FR": "Fin... bis...",
+                    "it-IT": "The End... Di nuovo...",
+                    "ja-JP": "おしまい... 再び...",
+                    "ko-KR": "또 엔더의... 끝...",
+                    "pt-PT": "O Fim... Outra Vez...",
+                    "zh-CHT": "終界行... 再一次..."
+                },
+                "description": {
+                    "de-DE": "Lass den Enderdrachen erneut erscheinen.",
+                    "en-US": "Respawn the Enderdragon.",
+                    "es-ES": "Regenera al dragón de Ender.",
+                    "fr-FR": "Vous avez fait réapparaître le dragon de l'Ender.",
+                    "it-IT": "Rigenera l'Enderdrago.",
+                    "ja-JP": "エンダー ドラゴンを再出現させた。",
+                    "ko-KR": "엔더 드래곤을 재생성하세요.",
+                    "pt-PT": "Volta a gerar o Dragão de Ender.",
+                    "zh-CHT": "重生終界龍。"
+                },
+                "howto": {
+                    "de-DE": "Lass den Enderdrachen erneut erscheinen.",
+                    "en-US": "Respawn the Enderdragon.",
+                    "es-ES": "Regenera al dragón de Ender.",
+                    "fr-FR": "Faites réapparaître le dragon de l'Ender.",
+                    "it-IT": "Rigenera l'Enderdrago.",
+                    "ja-JP": "エンダー ドラゴンを再出現させる。",
+                    "ko-KR": "엔더 드래곤을 재생성하세요.",
+                    "pt-PT": "Volta a gerar o Dragão de Ender.",
+                    "zh-CHT": "重生終界龍。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "63.png"
+        },
+        "71": {
+            "text": {
+                "name": {
+                    "de-DE": "Frischer Atem",
+                    "en-US": "You Need a Mint",
+                    "es-ES": "Necesitas un chicle de menta",
+                    "fr-FR": "Un p'tit cachou ?",
+                    "it-IT": "Serve una mentina",
+                    "ja-JP": "口臭に気をつけよう",
+                    "ko-KR": "양치 좀 해라",
+                    "pt-PT": "Mau Hálito",
+                    "zh-CHT": "你需要來點薄荷"
+                },
+                "description": {
+                    "de-DE": "Sammle Drachenatem in einer Glasflasche.",
+                    "en-US": "Collect Dragon's Breath in a Glass Bottle.",
+                    "es-ES": "Recolecta aliento de dragón en una botella de cristal.",
+                    "fr-FR": "Vous avez récupéré le souffle du dragon dans une fiole.",
+                    "it-IT": "Raccogli l'alito di drago in un'ampolla di vetro.",
+                    "ja-JP": "ガラスビンにドラゴンの息を集めた。",
+                    "ko-KR": "유리병에 드래곤의 숨결을 담으세요.",
+                    "pt-PT": "Recolhe o Bafo de Dragões numa Garrafa de Vidro.",
+                    "zh-CHT": "將龍的吐息收集到一個玻璃瓶中。"
+                },
+                "howto": {
+                    "de-DE": "Sammle Drachenatem in einer Glasflasche.",
+                    "en-US": "Collect Dragon's Breath in a Glass Bottle.",
+                    "es-ES": "Recolecta aliento de dragón en una botella de cristal.",
+                    "fr-FR": "Récupérez le souffle du dragon dans une fiole.",
+                    "it-IT": "Raccogli l'alito di drago in un'ampolla di vetro.",
+                    "ja-JP": "ガラスビンにドラゴンの息を集める。",
+                    "ko-KR": "유리병에 드래곤의 숨결을 담으세요.",
+                    "pt-PT": "Recolhe o Bafo de Dragões numa Garrafa de Vidro.",
+                    "zh-CHT": "將龍的吐息收集到一個玻璃瓶中。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "64.png"
+        },
+        "72": {
+            "text": {
+                "name": {
+                    "de-DE": "Überschall",
+                    "en-US": "Super Sonic",
+                    "es-ES": "Supersónico",
+                    "fr-FR": "Supersonique",
+                    "it-IT": "Supersonico",
+                    "ja-JP": "超音速",
+                    "ko-KR": "초음파",
+                    "pt-PT": "Supersónico",
+                    "zh-CHT": "超級音速"
+                },
+                "description": {
+                    "de-DE": "Fliege mit Elytren mit mehr als 40 m/s durch einen Spalt, der 1 mal 1 Block misst.",
+                    "en-US": "Use an Elytra to fly through a 1 by 1 gap while moving faster than 40 m/s.",
+                    "es-ES": "Usa élitros para atravesar volando un espacio de 1 por 1 desplazándote a más de 40 m/s.",
+                    "fr-FR": "Vous avez utilisé les élytres pour traverser un interstice de 1x1 en planant à plus de 40 m/s.",
+                    "it-IT": "Usa le elitre per volare oltre un'apertura 1x1 muovendoti più velocemente di 40 m/s.",
+                    "ja-JP": "エリトラを使って 40 m/s 以上の速度で 1 x 1 の隙間を通り過ぎる",
+                    "ko-KR": "딱지날개를 사용해 초당 40m 이상 속도로 비행하면서 1x1 간격을 넘으세요.",
+                    "pt-PT": "Usa as Asas de Élitro para voares por uma fenda de 1 por 1 a mais de 40 metros por segundo.",
+                    "zh-CHT": "使用鞘翅飛過 1 X 1 缺口，移動速度超過每秒 40 公尺。"
+                },
+                "howto": {
+                    "de-DE": "Fliege mit Elytren mit mehr als 40 m/s durch einen Spalt, der 1 mal 1 Block misst.",
+                    "en-US": "Use an Elytra to fly through a 1 by 1 gap while moving faster than 40 m/s.",
+                    "es-ES": "Usa élitros para atravesar volando un espacio de 1 por 1 desplazándote a más de 40 m/s.",
+                    "fr-FR": "Utilisez les élytres pour traverser un interstice de 1x1 en planant à plus de 40 m/s.",
+                    "it-IT": "Usa le elitre per volare oltre un'apertura 1x1 muovendoti più velocemente di 40 m/s.",
+                    "ja-JP": "エリトラを使って 40 m/s 以上の速度で 1 x 1 の隙間を通り過ぎる",
+                    "ko-KR": "딱지날개를 사용해 초당 40m 이상의 속도로 비행하면서 1x1 간격을 넘으세요.",
+                    "pt-PT": "Usa as Asas de Élitro para voares por uma fenda de 1 por 1 a mais de 40 metros por segundo.",
+                    "zh-CHT": "使用鞘翅飛過 1 X 1 缺口，移動速度超過每秒 40 公尺。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "60",
+            "imageId": "65.png"
+        },
+        "73": {
+            "text": {
+                "name": {
+                    "de-DE": "Trockenperiode",
+                    "en-US": "Dry Spell",
+                    "es-ES": "Hechizo de secar",
+                    "fr-FR": "L'éponge cramée",
+                    "it-IT": "Asciugatrice",
+                    "ja-JP": "乾燥期",
+                    "ko-KR": "건조기",
+                    "pt-PT": "Secura",
+                    "zh-CHT": "乾旱期"
+                },
+                "description": {
+                    "de-DE": "Trockne einen Schwamm in einem Ofen.",
+                    "en-US": "Dry a Sponge in a Furnace.",
+                    "es-ES": "Seca una esponja en el horno.",
+                    "fr-FR": "Vous avez fait sécher une éponge dans un four.",
+                    "it-IT": "Asciuga una spugna in una fornace.",
+                    "ja-JP": "スポンジをかまどで乾かした。",
+                    "ko-KR": "화로에서 스펀지를 말리세요.",
+                    "pt-PT": "Seca uma Esponja numa Fornalha.",
+                    "zh-CHT": "用熔爐烤乾海綿。"
+                },
+                "howto": {
+                    "de-DE": "Trockne einen Schwamm in einem Ofen.",
+                    "en-US": "Dry a Sponge in a Furnace.",
+                    "es-ES": "Seca una esponja en el horno.",
+                    "fr-FR": "Séchez une éponge dans un four.",
+                    "it-IT": "Asciuga una spugna in una fornace.",
+                    "ja-JP": "スポンジをかまどで乾かす。",
+                    "ko-KR": "화로에서 스펀지를 말리세요.",
+                    "pt-PT": "Seca uma Esponja numa Fornalha.",
+                    "zh-CHT": "用熔爐烤乾海綿。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "66.png"
+        },
+        "74": {
+            "text": {
+                "name": {
+                    "de-DE": "Freitaucher",
+                    "en-US": "Free Diver",
+                    "es-ES": "Buceo libre",
+                    "fr-FR": "Apnéiste",
+                    "it-IT": "Apnea",
+                    "ja-JP": "人魚",
+                    "ko-KR": "프리 다이버",
+                    "pt-PT": "Mergulho Livre",
+                    "zh-CHT": "自由潛水"
+                },
+                "description": {
+                    "de-DE": "Bleibe 2 Minuten unter Wasser.",
+                    "en-US": "Stay underwater for 2 minutes.",
+                    "es-ES": "Permanece 2 minutos debajo del agua.",
+                    "fr-FR": "Vous êtes resté sous l'eau pendant 2 minutes.",
+                    "it-IT": "Resisti sott'acqua per 2 minuti.",
+                    "ja-JP": "水中に 2 分間潜る",
+                    "ko-KR": "물 속에서 2분 동안 있으세요.",
+                    "pt-PT": "Fica debaixo de água durante 2 minutos.",
+                    "zh-CHT": "保持在水下 2 分鐘。"
+                },
+                "howto": {
+                    "de-DE": "Bleibe 2 Minuten unter Wasser.",
+                    "en-US": "Stay underwater for 2 minutes.",
+                    "es-ES": "Permanece 2 minutos debajo del agua.",
+                    "fr-FR": "Restez sous l'eau pendant 2 minutes.",
+                    "it-IT": "Resisti sott'acqua per 2 minuti.",
+                    "ja-JP": "水中に 2 分間潜る",
+                    "ko-KR": "물 속에서 2분 동안 있으세요.",
+                    "pt-PT": "Fica debaixo de água durante 2 minutos.",
+                    "zh-CHT": "保持在水下 2 分鐘。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "67.png"
+        },
+        "75": {
+            "text": {
+                "name": {
+                    "de-DE": "Superbrennstoff",
+                    "en-US": "Super Fuel",
+                    "es-ES": "Supercombustible",
+                    "fr-FR": "Super combustible",
+                    "it-IT": "Combustibile super",
+                    "ja-JP": "スーパー燃料",
+                    "ko-KR": "슈퍼 연료",
+                    "pt-PT": "Supercombustível",
+                    "zh-CHT": "超級燃料"
+                },
+                "description": {
+                    "de-DE": "Heize einen Ofen mit Lava.",
+                    "en-US": "Power a Furnace with Lava.",
+                    "es-ES": "Haz que el horno funcione con lava.",
+                    "fr-FR": "Vous avez alimenté un four avec de la lave.",
+                    "it-IT": "Alimenta una fornace con la lava.",
+                    "ja-JP": "かまどの燃料に溶岩を使った。",
+                    "ko-KR": "용암을 화로의 연료로 사용하세요.",
+                    "pt-PT": "Alimenta uma Fornalha com Lava.",
+                    "zh-CHT": "用熔岩引燃熔爐。"
+                },
+                "howto": {
+                    "de-DE": "Heize einen Ofen mit Lava.",
+                    "en-US": "Power a Furnace with Lava.",
+                    "es-ES": "Haz que el horno funcione con lava.",
+                    "fr-FR": "Alimentez un four avec de la lave.",
+                    "it-IT": "Alimenta una fornace con la lava.",
+                    "ja-JP": "かまどの燃料に溶岩を使う。",
+                    "ko-KR": "용암을 화로의 연료로 사용하세요.",
+                    "pt-PT": "Alimenta uma Fornalha com Lava.",
+                    "zh-CHT": "用熔岩引燃熔爐。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "68.png"
+        },
+        "77": {
+            "text": {
+                "name": {
+                    "de-DE": "Aufsatteln",
+                    "en-US": "Saddle Up",
+                    "es-ES": "Ensilla",
+                    "fr-FR": "En selle",
+                    "it-IT": "In sella",
+                    "ja-JP": "はいどうどう",
+                    "ko-KR": "안장 준비",
+                    "pt-PT": "Coloca a Sela",
+                    "zh-CHT": "上鞍"
+                },
+                "description": {
+                    "de-DE": "Zähme ein Pferd.",
+                    "en-US": "Tame a Horse.",
+                    "es-ES": "Doma un caballo.",
+                    "fr-FR": "Vous avez dompté un cheval.",
+                    "it-IT": "Doma un cavallo.",
+                    "ja-JP": "馬を手なずけた。",
+                    "ko-KR": "말을 길들이세요.",
+                    "pt-PT": "Domestica um cavalo.",
+                    "zh-CHT": "馴化一匹馬。"
+                },
+                "howto": {
+                    "de-DE": "Zähme ein Pferd.",
+                    "en-US": "Tame a Horse.",
+                    "es-ES": "Doma un caballo.",
+                    "fr-FR": "Domptez un cheval.",
+                    "it-IT": "Doma un cavallo.",
+                    "ja-JP": "馬を手なずける。",
+                    "ko-KR": "말을 길들이세요.",
+                    "pt-PT": "Domestica um cavalo.",
+                    "zh-CHT": "馴化一匹馬。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "69.png"
+        },
+        "78": {
+            "text": {
+                "name": {
+                    "de-DE": "Mit den eigenen Waffen",
+                    "en-US": "Taste of Your Own Medicine",
+                    "es-ES": "Prueba tu propia medicina",
+                    "fr-FR": "La monnaie de sa pièce",
+                    "it-IT": "Il gusto della tua medicina",
+                    "ja-JP": "自業自得",
+                    "ko-KR": "네 약 맛이 어때?",
+                    "pt-PT": "Prova do Teu Remédio",
+                    "zh-CHT": "自食惡果"
+                },
+                "description": {
+                    "de-DE": "Vergifte eine Hexe mit einem Wurf-Trank.",
+                    "en-US": "Poison a Witch with a Splash Potion.",
+                    "es-ES": "Envenena a una bruja con una poción de salpicadura.",
+                    "fr-FR": "Vous avez empoisonné une sorcière avec une potion volatile.",
+                    "it-IT": "Avvelena una strega con una pozione lanciabile.",
+                    "ja-JP": "スプラッシュ ポーションでウィッチに毒を与えた。",
+                    "ko-KR": "투척용 포션으로 마녀를 중독시키세요.",
+                    "pt-PT": "Envenena uma Bruxa com uma Poção com Efeito Prolongado.",
+                    "zh-CHT": "用噴濺藥水對女巫下毒。"
+                },
+                "howto": {
+                    "de-DE": "Vergifte eine Hexe mit einem Wurf-Trank.",
+                    "en-US": "Poison a Witch with a Splash Potion.",
+                    "es-ES": "Envenena a una bruja con una poción de salpicadura.",
+                    "fr-FR": "Empoisonnez une sorcière avec une potion volatile.",
+                    "it-IT": "Avvelena una strega con una pozione lanciabile.",
+                    "ja-JP": "スプラッシュ ポーションでウィッチに毒を与える。",
+                    "ko-KR": "투척용 포션으로 마녀를 중독시키세요.",
+                    "pt-PT": "Envenena uma Bruxa com uma Poção com Efeito Prolongado.",
+                    "zh-CHT": "用噴濺藥水對女巫下毒。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "70.png"
+        },
+        "79": {
+            "text": {
+                "name": {
+                    "de-DE": "Beam mich hoch",
+                    "en-US": "Beam Me Up",
+                    "es-ES": "Transpórtame",
+                    "fr-FR": "Rayon tracteur",
+                    "it-IT": "Teletrasporto",
+                    "ja-JP": "いざテレポート",
+                    "ko-KR": "눈 깜박할 사이",
+                    "pt-PT": "Teletransporta-me",
+                    "zh-CHT": "傳送我上去"
+                },
+                "description": {
+                    "de-DE": "Teleportiere dich durch einen einzelnen Wurf einer Enderperle über mehr als 100 Meter.",
+                    "en-US": "Teleport over 100 meters from a single throw of an Ender Pearl.",
+                    "es-ES": "Teletranspórtate a más de 100 metros con un solo lanzamiento de una perla de Ender.",
+                    "fr-FR": "Vous vous êtes téléporté sur plus de 100 mètres en un seul lancer d'une perle de l'Ender.",
+                    "it-IT": "Teletrasportati di oltre 100 metri con un singolo lancio di una perla di Ender.",
+                    "ja-JP": "エンダーパールを 1 回投げるだけで 100 メートル以上テレポートする",
+                    "ko-KR": "엔더 진주를 한 번 사용해 100미터 이상 순간이동하세요.",
+                    "pt-PT": "Teletransporta-te a mais de 100 metros com um único arremesso de uma Pérola de Ender.",
+                    "zh-CHT": "拋擲一次終界珍珠並傳送超過 100 公尺。"
+                },
+                "howto": {
+                    "de-DE": "Teleportiere dich durch einen einzelnen Wurf einer Enderperle über mehr als 100 Meter.",
+                    "en-US": "Teleport over 100 meters from a single throw of an Ender Pearl.",
+                    "es-ES": "Teletranspórtate a más de 100 metros con un solo lanzamiento de una perla de Ender.",
+                    "fr-FR": "Téléportez-vous sur plus de 100 mètres en un seul lancer d'une perle de l'Ender.",
+                    "it-IT": "Teletrasportati di oltre 100 metri con un singolo lancio di una perla di Ender.",
+                    "ja-JP": "エンダーパールを 1 回投げるだけで 100 メートル以上テレポートする",
+                    "ko-KR": "엔더 진주를 한 번 사용해 100미터 이상 순간이동하세요.",
+                    "pt-PT": "Teletransporta-te a mais de 100 metros com um único arremesso de uma Pérola de Ender.",
+                    "zh-CHT": "拋擲一次終界珍珠並傳送超過 100 公尺。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "71.png"
+        },
+        "80": {
+            "text": {
+                "name": {
+                    "de-DE": "Kartenraum",
+                    "en-US": "Map Room",
+                    "es-ES": "Sala de cartografía",
+                    "fr-FR": "Salle des cartes",
+                    "it-IT": "Sala delle mappe",
+                    "ja-JP": "地図の間",
+                    "ko-KR": "지도실",
+                    "pt-PT": "Sala dos Mapas",
+                    "zh-CHT": "地圖室"
+                },
+                "description": {
+                    "de-DE": "Platziere eine vollständig erkundete Karte in einem Gegenstandsrahmen.",
+                    "en-US": "Place a fully explored Map into an Item Frame.",
+                    "es-ES": "Coloca un mapa totalmente explorado en un marco.",
+                    "fr-FR": "Vous avez mis une carte entièrement explorée dans un cadre.",
+                    "it-IT": "Posiziona una mappa completamente esplorata in un espositore.",
+                    "ja-JP": "完全に探索が完了した地図を額縁に入れた。",
+                    "ko-KR": "탐사가 완료된 지도를 아이템 액자에 넣어 장식하세요.",
+                    "pt-PT": "Coloca um Mapa totalmente explorado numa Moldura para Objetos.",
+                    "zh-CHT": "將一張探索完畢的地圖放入物品框架。"
+                },
+                "howto": {
+                    "de-DE": "Platziere eine vollständig erkundete Karte in einem Gegenstandsrahmen.",
+                    "en-US": "Place a fully explored Map into an Item Frame.",
+                    "es-ES": "Coloca un mapa totalmente explorado en un marco.",
+                    "fr-FR": "Mettez une carte entièrement explorée dans un cadre.",
+                    "it-IT": "Posiziona una mappa completamente esplorata in un espositore.",
+                    "ja-JP": "完全に探索が完了した地図を額縁に入れる。",
+                    "ko-KR": "탐사가 완료된 지도를 아이템 액자에 넣어 장식하세요.",
+                    "pt-PT": "Coloca um Mapa totalmente explorado numa Moldura para Objetos.",
+                    "zh-CHT": "將一張探索完畢的地圖放入物品框架。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "72.png"
+        },
+        "81": {
+            "text": {
+                "name": {
+                    "de-DE": "Gut getarnt",
+                    "en-US": "Camouflage",
+                    "es-ES": "Camuflaje",
+                    "fr-FR": "Camouflage",
+                    "it-IT": "Camuffamento",
+                    "ja-JP": "カモフラージュ",
+                    "ko-KR": "위장",
+                    "pt-PT": "Camuflagem",
+                    "zh-CHT": "偽裝"
+                },
+                "description": {
+                    "de-DE": "Erledige eine Kreatur, während du den gleichen Kopf trägst.",
+                    "en-US": "Kill a Mob while wearing the same type of Mob Head.",
+                    "es-ES": "Mata a una criatura usando su mismo tipo de cabeza.",
+                    "fr-FR": "Vous avez tué une créature en portant une tête de créature du même type.",
+                    "it-IT": "Uccidi una creatura indossando lo stesso tipo di testa.",
+                    "ja-JP": "いずれかのモブの頭部を装備した状態で同族のモブを倒した。",
+                    "ko-KR": "몹 머리를 착용한 상태에서 같은 종류의 몹을 처치하세요.",
+                    "pt-PT": "Mata uma Criatura enquanto usas o mesmo tipo de Cabeça de Criatura.",
+                    "zh-CHT": "殺死與所戴之生物頭顱相同類型的生物。"
+                },
+                "howto": {
+                    "de-DE": "Erledige eine Kreatur, während du den gleichen Kopf trägst.",
+                    "en-US": "Kill a Mob while wearing the same type of Mob Head.",
+                    "es-ES": "Mata a una criatura usando su mismo tipo de cabeza.",
+                    "fr-FR": "Tuez une créature en portant une tête de créature du même type.",
+                    "it-IT": "Uccidi una creatura indossando lo stesso tipo di testa.",
+                    "ja-JP": "いずれかのモブの頭部を装備した状態で同族のモブを倒す。",
+                    "ko-KR": "몹 머리를 착용한 상태에서 같은 종류의 몹을 처치하세요.",
+                    "pt-PT": "Mata uma Criatura enquanto usas o mesmo tipo de Cabeça de Criatura.",
+                    "zh-CHT": "殺死與所戴之生物頭顱相同類型的生物。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "73.png"
+        },
+        "82": {
+            "text": {
+                "name": {
+                    "de-DE": "Von den Toten auferstanden",
+                    "en-US": "Back from the Dead",
+                    "es-ES": "De vuelta de entre los muertos",
+                    "fr-FR": "Ressuscité",
+                    "it-IT": "Ritorno in vita",
+                    "ja-JP": "大逆襲",
+                    "ko-KR": "죽음을 거부하는 저력",
+                    "pt-PT": "Ressurreição",
+                    "zh-CHT": "死而復生"
+                },
+                "description": {
+                    "de-DE": "3 Runden in Folge gewonnen, nachdem einer der Gegner 2 Runden gewonnen hatte.",
+                    "en-US": "Win 3 rounds in a row after one of the opponents has won 2 rounds.",
+                    "es-ES": "Has ganado 3 rondas seguidas después de que uno de tus oponentes hubiera ganado 2 rondas.",
+                    "fr-FR": "Vous avez gagné 3 rounds d'affilée après qu'un adversaire a gagné 2 rounds.",
+                    "it-IT": "3 turni di fila vinti dopo la vittoria di 2 turni da parte di un avversario.",
+                    "ja-JP": "対戦相手が 2 勝した後で 3 連勝した。",
+                    "ko-KR": "상대에게 2 라운드를 내준 후 연속으로 3 라운드를 승리하세요.",
+                    "pt-PT": "Venceste 3 rondas consecutivas após um dos oponentes ter vencido 2 rondas.",
+                    "zh-CHT": "在某個對手贏了 2 回合後連贏 3 回合。"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 3 Runden in Folge, nachdem einer der Gegner 2 Runden gewonnen hat.",
+                    "en-US": "Win 3 rounds in a row after one of the opponents has won 2 rounds.",
+                    "es-ES": "Gana 3 rondas seguidas después de que uno de tus oponentes haya ganado 2 rondas.",
+                    "fr-FR": "Gagnez 3 rounds d'affilée après qu'un adversaire a gagné 2 rounds.",
+                    "it-IT": "Vinci 3 turni di fila dopo la vittoria di 2 turni da parte di un avversario.",
+                    "ja-JP": "対戦相手が 2 勝した後で 3 連勝する。",
+                    "ko-KR": "상대에게 2 라운드를 내준 후 연속으로 3 라운드를 승리하세요.",
+                    "pt-PT": "Vence 3 rondas consecutivas após um dos oponentes ter vencido 2 rondas.",
+                    "zh-CHT": "在某個對手贏了 2 回合後連贏 3 回合。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "74.png"
+        },
+        "83": {
+            "text": {
+                "name": {
+                    "de-DE": "Schnee ohne Bälle",
+                    "en-US": "S-No Throw",
+                    "es-ES": "Lanzamiento de nieve",
+                    "fr-FR": "À la main",
+                    "it-IT": "No lancio palle",
+                    "ja-JP": "雪玉いらず",
+                    "ko-KR": "스NO우 투수",
+                    "pt-PT": "Sem Bolas de Neve!",
+                    "zh-CHT": "無雪之戰"
+                },
+                "description": {
+                    "de-DE": "Eine Schneeball-Runde gewonnen, ohne einen einzigen Schneeball zu werfen.",
+                    "en-US": "Win a single round of Snowball Tumble without throwing any Snowballs.",
+                    "es-ES": "Has ganado una ronda de Tumble de bolas de nieve sin lanzar ni una sola bola de nieve.",
+                    "fr-FR": "Vous avez gagné un round Boule de neige sans utiliser de boules de neige, seulement vos mains.",
+                    "it-IT": "Turno Palla di neve vinto senza tirare neanche una palla di neve.",
+                    "ja-JP": "雪玉転落ゲームで雪玉を 1 つも使わずに 1 ラウンド勝利した。",
+                    "ko-KR": "눈덩이 난타에서 눈덩이를 전혀 사용하지 않고 라운드를 승리하세요.",
+                    "pt-PT": "Venceste uma ronda Minijogo Tumble de Bolas de Neve sem lançar qualquer Bola de Neve.",
+                    "zh-CHT": "在「雪球天搖地動」中贏得一個回合，並完全不使用雪球。"
+                },
+                "howto": {
+                    "de-DE": "Gewinne eine Schneeball-Runde, ohne einen einzigen Schneeball zu werfen.",
+                    "en-US": "Win a single round of Snowball Tumble without throwing any Snowballs.",
+                    "es-ES": "Gana una ronda de Tumble de bolas de nieve sin lanzar ni una sola bola de nieve.",
+                    "fr-FR": "Gagnez un round Boule de neige sans utiliser de boules de neige, seulement vos mains.",
+                    "it-IT": "Vinci un turno Palla di neve senza tirare neanche una palla di neve.",
+                    "ja-JP": "雪玉転落ゲームで雪玉を 1 つも使わずに 1 ラウンド勝利する。",
+                    "ko-KR": "눈덩이 난타에서 눈덩이를 전혀 사용하지 않고 라운드를 승리하세요.",
+                    "pt-PT": "Vence uma ronda Minijogo Tumble de Bolas de Neve sem lançar qualquer Bola de Neve.",
+                    "zh-CHT": "在「雪球天搖地動」中贏得一個回合，並完全不使用雪球。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "75.png"
+        },
+        "84": {
+            "text": {
+                "name": {
+                    "de-DE": "Schneesturm",
+                    "en-US": "Snow Storm",
+                    "es-ES": "Tormenta de nieve",
+                    "fr-FR": "Tempête de neige",
+                    "it-IT": "Tempesta di neve",
+                    "ja-JP": "吹雪",
+                    "ko-KR": "눈보라",
+                    "pt-PT": "Tempestade de Neve",
+                    "zh-CHT": "冰雪風暴"
+                },
+                "description": {
+                    "de-DE": "Triff in einer öffentlichen Runde einen einzelnen Spieler mit 25 Schneebällen.",
+                    "en-US": "Hit a single Player with 25 Snowballs in a single public round.",
+                    "es-ES": "Golpea a un solo jugador con 25 bolas de nieve en una sola ronda pública.",
+                    "fr-FR": "Vous avez frappé un seul joueur avec 25 boules de neige en un round public.",
+                    "it-IT": "Colpisci un solo giocatore con 25 palle di neve durante un singolo turno pubblico.",
+                    "ja-JP": "1 回のパブリック ラウンドで、1 人のプレイヤーに雪玉を 25 個当てる",
+                    "ko-KR": "공개 라운드에서 한 라운드 동안 눈덩이로 같은 플레이어를 25번 맞추세요.",
+                    "pt-PT": "Atinge um único Jogador com 25 Bolas de Neve numa única ronda pública.",
+                    "zh-CHT": "在一局公開回合中，以 25 顆雪球攻擊單一玩家。"
+                },
+                "howto": {
+                    "de-DE": "Triff in einer öffentlichen Runde einen einzelnen Spieler mit 25 Schneebällen.",
+                    "en-US": "Hit a single Player with 25 Snowballs in a single public round.",
+                    "es-ES": "Golpea a un solo jugador con 25 bolas de nieve en una sola ronda pública.",
+                    "fr-FR": "Frappez un seul joueur avec 25 boules de neige en un round public.",
+                    "it-IT": "Colpisci un solo giocatore con 25 palle di neve durante un singolo turno pubblico.",
+                    "ja-JP": "1 回のパブリック ラウンドで、1 人のプレイヤーに雪玉を 25 個当てる",
+                    "ko-KR": "공개 라운드에서 한 라운드 동안 눈덩이로 같은 플레이어를 25번 맞추세요.",
+                    "pt-PT": "Atinge um único Jogador com 25 Bolas de Neve numa única ronda pública.",
+                    "zh-CHT": "在一局公開回合中，以 25 顆雪球攻擊單一玩家。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "76.png"
+        },
+        "85": {
+            "text": {
+                "name": {
+                    "de-DE": "Aus dem Feuer",
+                    "en-US": "Hotshot",
+                    "es-ES": "Tiro caliente",
+                    "fr-FR": "Boulet rouge",
+                    "it-IT": "Fenomeno",
+                    "ja-JP": "巧みな手さばき",
+                    "ko-KR": "핫샷",
+                    "pt-PT": "Neve e Lava",
+                    "zh-CHT": "冰火二重天"
+                },
+                "description": {
+                    "de-DE": "Triff einen Spieler mit einem Schneeball, während du in Lava fällst.",
+                    "en-US": "Hit a Player with a Snowball while falling into the Lava.",
+                    "es-ES": "Golpea a un jugador con una bola de nieve mientras cae en la lava.",
+                    "fr-FR": "Vous avez frappé un joueur avec une boule de neige en tombant dans la lave.",
+                    "it-IT": "Colpisci un giocatore con una palla di neve mentre cade nella lava.",
+                    "ja-JP": "溶岩に落下しながら雪玉をプレイヤーに当てた。",
+                    "ko-KR": "용암으로 떨어지면서 눈덩이를 던져 플레이어를 맞추세요.",
+                    "pt-PT": "Atinge um Jogador com uma Bola de Neve enquanto cai na Lava.",
+                    "zh-CHT": "在掉入熔岩時用雪球擊中一位玩家。"
+                },
+                "howto": {
+                    "de-DE": "Triff einen Spieler mit einem Schneeball, während du in Lava fällst.",
+                    "en-US": "Hit a Player with a Snowball while falling into the Lava.",
+                    "es-ES": "Golpea a un jugador con una bola de nieve mientras cae en la lava.",
+                    "fr-FR": "Frappez un joueur avec une boule de neige en tombant dans la lave.",
+                    "it-IT": "Colpisci un giocatore con una palla di neve mentre cade nella lava.",
+                    "ja-JP": "溶岩に落下しながら雪玉をプレイヤーに当てる。",
+                    "ko-KR": "용암으로 떨어지면서 눈덩이를 던져 플레이어를 맞추세요.",
+                    "pt-PT": "Atinge um Jogador com uma Bola de Neve enquanto cai na Lava.",
+                    "zh-CHT": "在掉入熔岩時用雪球擊中一位玩家。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "77.png"
+        },
+        "86": {
+            "text": {
+                "name": {
+                    "de-DE": "Schneepflug",
+                    "en-US": "Snowplough",
+                    "es-ES": "Quitanieves",
+                    "fr-FR": "Chasse-neige",
+                    "it-IT": "Spazzaneve",
+                    "ja-JP": "雪かき",
+                    "ko-KR": "제설기",
+                    "pt-PT": "Limpa-neves",
+                    "zh-CHT": "砸到冒火"
+                },
+                "description": {
+                    "de-DE": "Schubs drei Spieler mit Schneebällen in Lava.",
+                    "en-US": "Push three Players into Lava using Snowballs.",
+                    "es-ES": "Empuja hacia la lava a tres jugadores utilizando bolas de nieve.",
+                    "fr-FR": "Vous avez poussé trois joueurs dans la lave à l'aide de boules de neige.",
+                    "it-IT": "Spingi tre giocatori nella lava usando le palle di neve.",
+                    "ja-JP": "3 人のプレイヤーを雪玉で溶岩に落とす",
+                    "ko-KR": "눈덩이를 던져 플레이어 3명을 용암 속으로 떨어뜨리세요.",
+                    "pt-PT": "Empurra três Jogadores para a Lava ao arremessar Bolas de Neve.",
+                    "zh-CHT": "用雪球將三個玩家推入熔岩中。"
+                },
+                "howto": {
+                    "de-DE": "Schubs drei Spieler mit Schneebällen in Lava.",
+                    "en-US": "Push three Players into Lava using Snowballs.",
+                    "es-ES": "Empuja hacia la lava a tres jugadores utilizando bolas de nieve.",
+                    "fr-FR": "Poussez trois joueurs dans la lave à l'aide de boules de neige.",
+                    "it-IT": "Spingi tre giocatori nella lava usando le palle di neve.",
+                    "ja-JP": "3 人のプレイヤーを雪玉で溶岩に落とす",
+                    "ko-KR": "눈덩이를 던져 플레이어 3명을 용암 속으로 떨어뜨리세요.",
+                    "pt-PT": "Empurra três Jogadores para a Lava ao arremessar Bolas de Neve.",
+                    "zh-CHT": "用雪球將三個玩家推入熔岩中。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "78.png"
+        },
+        "87": {
+            "text": {
+                "name": {
+                    "de-DE": "Oberherr",
+                    "en-US": "Overlord",
+                    "es-ES": "Eres el amo",
+                    "fr-FR": "Le Maître",
+                    "it-IT": "Supremo",
+                    "ja-JP": "雲の上の人",
+                    "ko-KR": "높으신 몸",
+                    "pt-PT": "O Soberano",
+                    "zh-CHT": "叫我大王"
+                },
+                "description": {
+                    "de-DE": "Bleibe in einer gewonnenen Runde des Tumble-Minigames mit Schneebällen auf der obersten Ebene.",
+                    "en-US": "Stay on the top layer while winning a round in a Snowball Tumble Mini Game.",
+                    "es-ES": "Permanece en la capa superior mientras ganas una ronda del minijuego Tumble de bolas de nieve.",
+                    "fr-FR": "Vous êtes resté sur la couche supérieure en gagnant 1 round dans 1 mini jeu Culbute Boule de neige.",
+                    "it-IT": "Rimani al livello più alto vincendo un turno del minigioco Caduta mortale con palle di neve.",
+                    "ja-JP": "雪玉転落ミニ ゲームで、最も高い足場に留まってラウンドを勝利した。",
+                    "ko-KR": "눈덩이 난타 미니 게임에서 최상층에 있을 때 1 라운드를 승리하세요.",
+                    "pt-PT": "Fica na camada superior enquanto vences uma ronda num Minijogo Tumble de Bolas de Neve.",
+                    "zh-CHT": "在「雪球天搖地動」迷你遊戲中保持在最上層並贏得一個回合。"
+                },
+                "howto": {
+                    "de-DE": "Bleibe in einer gewonnenen Runde des Tumble-Minigames mit Schneebällen auf der obersten Ebene.",
+                    "en-US": "Stay on the top layer while winning a round in a Snowball Tumble Mini Game.",
+                    "es-ES": "Permanece en la capa superior mientras ganas una ronda del minijuego Tumble de bolas de nieve.",
+                    "fr-FR": "Restez sur la couche supérieure en gagnant un round dans un mini jeu Culbute Boule de neige.",
+                    "it-IT": "Rimani al livello più alto vincendo un turno del minigioco Caduta mortale con palle di neve.",
+                    "ja-JP": "雪玉転落ミニ ゲームで、最も高い足場に留まってラウンドを勝利する。",
+                    "ko-KR": "눈덩이 난타 미니 게임에서 최상층에 있을 때 1 라운드를 승리하세요.",
+                    "pt-PT": "Fica na camada superior enquanto vences uma ronda num Minijogo Tumble de Bolas de Neve.",
+                    "zh-CHT": "在「雪球天搖地動」迷你遊戲中保持在最上層並贏得一個回合。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "79.png"
+        },
+        "88": {
+            "text": {
+                "name": {
+                    "de-DE": "Underdog",
+                    "en-US": "Underdog",
+                    "es-ES": "Tienes las de perder",
+                    "fr-FR": "Minable",
+                    "it-IT": "Sfavorito",
+                    "ja-JP": "負け犬",
+                    "ko-KR": "루키",
+                    "pt-PT": "O Inferior",
+                    "zh-CHT": "落水狗"
+                },
+                "description": {
+                    "de-DE": "Gewinne ein Tumble-Minigame mit Schneebällen, während du auf der untersten Ebene bist.",
+                    "en-US": "Win a Tumble game whilst on the lowest layer in a Snowball Tumble Mini Game.",
+                    "es-ES": "Gana una partida de Tumble en la capa inferior en el minijuego Tumble de bolas de nieve.",
+                    "fr-FR": "Vous avez gagné 1 partie dans 1 mini jeu Culbute Boule de neige en restant sur la couche inférieure.",
+                    "it-IT": "Vinci una partita Caduta mortale al liv. più basso di un minigioco Caduta mortale con palle di neve.",
+                    "ja-JP": "雪玉転落ミニ ゲームで、最も低い足場にいる状態でゲームに勝利した。",
+                    "ko-KR": "눈덩이 난타 미니 게임에서 최하층에 있을 때 난타전을 승리하세요.",
+                    "pt-PT": "Vence um jogo Tumble enquanto estás na camada inferior num Minijogo Tumble de Bolas de Neve.",
+                    "zh-CHT": "在「雪球天搖地動」迷你遊戲中，保持在最底層並贏得一局「天搖地動」遊戲。"
+                },
+                "howto": {
+                    "de-DE": "Gewinne ein Tumble-Minigame mit Schneebällen, während du auf der untersten Ebene bist.",
+                    "en-US": "Win a Tumble game whilst on the lowest layer in a Snowball Tumble Mini Game.",
+                    "es-ES": "Gana una partida de Tumble en la capa inferior en el minijuego Tumble de bolas de nieve.",
+                    "fr-FR": "Gagnez une partie dans un mini jeu Culbute Boule de neige en restant sur la couche inférieure.",
+                    "it-IT": "Vinci una partita Caduta mortale al liv. più basso di un minigioco Caduta mortale con palle di neve.",
+                    "ja-JP": "雪玉転落ミニ ゲームで、最も低い足場にいる状態でゲームに勝利する。",
+                    "ko-KR": "눈덩이 난타 미니 게임에서 최하층에 있을 때 난타전을 승리하세요.",
+                    "pt-PT": "Vence um jogo Tumble enquanto estás na camada inferior num Minijogo Tumble de Bolas de Neve.",
+                    "zh-CHT": "在「雪球天搖地動」迷你遊戲中，保持在最底層並贏得一局「天搖地動」遊戲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "80.png"
+        },
+        "93": {
+            "text": {
+                "name": {
+                    "de-DE": "Ins kalte Wasser",
+                    "en-US": "The Deep End",
+                    "es-ES": "El End profundo",
+                    "fr-FR": "La Fin de la Fin",
+                    "it-IT": "Profondo End",
+                    "ja-JP": "地中の果て",
+                    "ko-KR": "깊은 곳의 끝",
+                    "pt-PT": "Nas profundezas",
+                    "zh-CHT": "終界深處"
+                },
+                "description": {
+                    "de-DE": "Besiege einen Wächterältesten.",
+                    "en-US": "Defeat an Elder Guardian.",
+                    "es-ES": "Has derrotado a un Guardián anciano.",
+                    "fr-FR": "Triomphez d'un ancien gardien.",
+                    "it-IT": "Sconfiggi un guardiano antico.",
+                    "ja-JP": "エルダー ガーディアンを倒す",
+                    "ko-KR": "엘더 가디언을 격파하세요.",
+                    "pt-PT": "Derrota um Guardião Ancestral.",
+                    "zh-CHT": "擊敗遠古深海守衛。"
+                },
+                "howto": {
+                    "de-DE": "Besiege einen Wächterältesten.",
+                    "en-US": "Defeat an Elder Guardian.",
+                    "es-ES": "Derrota a un Guardián anciano.",
+                    "fr-FR": "Triomphez d'un ancien gardien.",
+                    "it-IT": "Sconfiggi un guardiano antico.",
+                    "ja-JP": "エルダー ガーディアンを倒す",
+                    "ko-KR": "엘더 가디언을 격파하세요.",
+                    "pt-PT": "Derrota um Guardião Ancestral.",
+                    "zh-CHT": "擊敗遠古深海守衛。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "81.png"
+        },
+        "94": {
+            "text": {
+                "name": {
+                    "de-DE": "Tolle Aussicht hier oben",
+                    "en-US": "Great View From Up Here",
+                    "es-ES": "Qué buena vista hay aquí arriba",
+                    "fr-FR": "Superbe panorama",
+                    "it-IT": "Un magnifico panorama",
+                    "ja-JP": "上からのいい眺め",
+                    "ko-KR": "죽여주는 경치",
+                    "pt-PT": "Que bela vista aqui de cima",
+                    "zh-CHT": "上頭景色真好"
+                },
+                "description": {
+                    "de-DE": "Schwebe vor den Angriffen eines Shulkers 50 Blöcke nach oben.",
+                    "en-US": "Levitate up 50 blocks from the attacks of a Shulker.",
+                    "es-ES": "Has levitado a 50 bloques de altura por los ataques de un Shulker.",
+                    "fr-FR": "Lévitez à 50 blocs de hauteur après l'attaque d'un shulker.",
+                    "it-IT": "Sali all'altezza di 50 blocchi a causa degli attacchi di uno Shulker.",
+                    "ja-JP": "シュルカーの攻撃で 50 ブロックの高さに上昇する",
+                    "ko-KR": "셜커의 공격을 받고 블록 50개 이상 높이로 떠오르세요.",
+                    "pt-PT": "Levita a uma altura de 50 blocos ao aproveitares os ataques de um Shulker.",
+                    "zh-CHT": "從界伏蚌的攻擊中漂浮起 50 個方塊。"
+                },
+                "howto": {
+                    "de-DE": "Schwebe vor den Angriffen eines Shulkers 50 Blöcke nach oben.",
+                    "en-US": "Levitate up 50 blocks from the attacks of a Shulker.",
+                    "es-ES": "Levita a 50 bloques de altura por los ataques de un Shulker.",
+                    "fr-FR": "Lévitez à 50 blocs de hauteur après l'attaque d'un shulker.",
+                    "it-IT": "Sali all'altezza di 50 blocchi a causa degli attacchi di uno Shulker.",
+                    "ja-JP": "シュルカーの攻撃で 50 ブロックの高さに上昇する",
+                    "ko-KR": "셜커의 공격을 받고 블록 50개 이상 높이로 떠오르세요.",
+                    "pt-PT": "Levita a uma altura de 50 blocos ao aproveitares os ataques de um Shulker.",
+                    "zh-CHT": "從界伏蚌的攻擊中漂浮起 50 個方塊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "82.png"
+        },
+        "95": {
+            "text": {
+                "name": {
+                    "de-DE": "Lakenwechsel ",
+                    "en-US": "Change of Sheets ",
+                    "es-ES": "Cambia las sábanas ",
+                    "fr-FR": "Changer les draps ",
+                    "it-IT": "Cambio delle lenzuola ",
+                    "ja-JP": "シーツ替え",
+                    "ko-KR": "침구 갈기 ",
+                    "pt-PT": "Mudança de Lençóis ",
+                    "zh-CHT": "新床單新心情 "
+                },
+                "description": {
+                    "de-DE": "Färbe dein Bett in einer anderen Farbe.",
+                    "en-US": "Dye your bed a different color.",
+                    "es-ES": "Has teñido la cama de otro color.",
+                    "fr-FR": "Changez la couleur de votre lit.",
+                    "it-IT": "Tingi il tuo letto di un altro colore.",
+                    "ja-JP": "ベッドを別の色に染める",
+                    "ko-KR": "침대를 다른 색으로 염색하세요.",
+                    "pt-PT": "Tinge a tua cama com uma cor diferente.",
+                    "zh-CHT": "為床舖染不同顏色。"
+                },
+                "howto": {
+                    "de-DE": "Färbe dein Bett in einer anderen Farbe.",
+                    "en-US": "Dye your bed a different color.",
+                    "es-ES": "Tiñe la cama de otro color.",
+                    "fr-FR": "Changez la couleur de votre lit.",
+                    "it-IT": "Tingi il tuo letto di un altro colore.",
+                    "ja-JP": "ベッドを別の色に染める",
+                    "ko-KR": "침대를 다른 색으로 염색하세요.",
+                    "pt-PT": "Tinge a tua cama com uma cor diferente.",
+                    "zh-CHT": "為床舖染不同顏色。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "83.png"
+        },
+        "97": {
+            "text": {
+                "name": {
+                    "de-DE": "Tod von der Schippe gesprungen",
+                    "en-US": "Cheating Death",
+                    "es-ES": "Engañando a la muerte",
+                    "fr-FR": "Tromper la mort",
+                    "it-IT": "Inganna la morte",
+                    "ja-JP": "九死に一生",
+                    "ko-KR": "부활 전문가",
+                    "pt-PT": "Morte Enganada",
+                    "zh-CHT": "逃過死劫"
+                },
+                "description": {
+                    "de-DE": "Verwende das Totem der Unsterblichkeit, um dem Tod zu entkommen.",
+                    "en-US": "Use the Totem of Undying to cheat death.",
+                    "es-ES": "Has usado el Tótem de los inmortales para engañar a la muerte.",
+                    "fr-FR": "Utilisez un totem d'immortalité pour tromper la mort.",
+                    "it-IT": "Usa il Totem dell'immortalità per ingannare la morte.",
+                    "ja-JP": "不死のトーテムを使って、死をまのがれる",
+                    "ko-KR": "불사의 토템을 사용해 죽음을 모면하세요.",
+                    "pt-PT": "Utiliza o Totem da Imortalidade para enganar a morte.",
+                    "zh-CHT": "使用不死圖騰來死裡逃生。"
+                },
+                "howto": {
+                    "de-DE": "Verwende das Totem der Unsterblichkeit, um dem Tod zu entkommen.",
+                    "en-US": "Use the Totem of Undying to cheat death.",
+                    "es-ES": "Usa el Tótem de los inmortales para engañar a la muerte.",
+                    "fr-FR": "Utilisez un totem d'immortalité pour tromper la mort.",
+                    "it-IT": "Usa il Totem dell'immortalità per ingannare la morte.",
+                    "ja-JP": "不死のトーテムを使って、死をまのがれる",
+                    "ko-KR": "불사의 토템을 사용해 죽음을 모면하세요.",
+                    "pt-PT": "Utiliza o Totem da Imortalidade para enganar a morte.",
+                    "zh-CHT": "使用不死圖騰來死裡逃生。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "84.png"
+        },
+        "98": {
+            "text": {
+                "name": {
+                    "de-DE": "An der Leine",
+                    "en-US": "So I Got That Going For Me...",
+                    "es-ES": "Me va la marcha",
+                    "fr-FR": "Donc j'ai mis ça en marche...",
+                    "it-IT": "Meglio tardi che mai...",
+                    "ja-JP": "やりたいことをやった",
+                    "ko-KR": "성취감은 자기 만족",
+                    "pt-PT": "Para viver um final feliz...",
+                    "zh-CHT": "我成功我驕傲"
+                },
+                "description": {
+                    "de-DE": "Führe eine Karawane mit mindestens 5 Lamas.",
+                    "en-US": "Lead a Caravan containing at least 5 Llamas.",
+                    "es-ES": "Has conducido una caravana que contiene al menos 5 llamas.",
+                    "fr-FR": "Guidez une caravane d'au moins 5 lamas.",
+                    "it-IT": "Guida un caravan contenente almeno 5 lama.",
+                    "ja-JP": "5 頭以上のラマを連れたキャラバンを率いる",
+                    "ko-KR": "5마리 이상의 라마가 포함된 캐러밴을 끌고 이동하세요.",
+                    "pt-PT": "Puxa uma Caravana composta por, pelo menos, 5 Lamas.",
+                    "zh-CHT": "領導至少包含 5 匹羊駝的商隊。"
+                },
+                "howto": {
+                    "de-DE": "Führe eine Karawane mit mindestens 5 Lamas.",
+                    "en-US": "Lead a Caravan containing at least 5 Llamas.",
+                    "es-ES": "Conduce una caravana que contiene al menos 5 llamas.",
+                    "fr-FR": "Guidez une caravane d'au moins 5 lamas.",
+                    "it-IT": "Guida un caravan contenente almeno 5 lama.",
+                    "ja-JP": "5 頭以上のラマを連れたキャラバンを率いる",
+                    "ko-KR": "5마리 이상의 라마가 포함된 캐러밴을 끌고 이동하세요.",
+                    "pt-PT": "Puxa uma Caravana composta por, pelo menos, 5 Lamas.",
+                    "zh-CHT": "領導至少包含 5 匹羊駝的商隊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "85.png"
+        },
+        "99": {
+            "text": {
+                "name": {
+                    "de-DE": "Lass jetzt los ",
+                    "en-US": "Let It Go! ",
+                    "es-ES": "¡Suéltalo! ",
+                    "fr-FR": "Libéré, délivré ",
+                    "it-IT": "Il freddo è casa mia! ",
+                    "ja-JP": "ありの～ままの～!",
+                    "ko-KR": "얼음의 요정! ",
+                    "pt-PT": "Deixa ir! ",
+                    "zh-CHT": "冰雪奇遇"
+                },
+                "description": {
+                    "de-DE": "Laufe über einen tiefen Ozean, indem du das Wasser mit Eisläufer-Stiefeln einfrierst. ",
+                    "en-US": "Walk across the surface of a deep ocean by freezing the water with Frost Walker boots. ",
+                    "es-ES": "Camina por la superficie de un océano congelando el agua con las botas del Caminante helado. ",
+                    "fr-FR": "Marchez à la surface d'un océan profond à l'aide de bottes à Semelles givrantes. ",
+                    "it-IT": "Cammina sulla superficie di un oceano profondo congelando l'acqua con gli stivali di Frost Walker. ",
+                    "ja-JP": "氷渡りのブーツを装備して、水を凍らせて海の上を歩く",
+                    "ko-KR": "차가운 걸음 부츠를 신고 얼어붙은 깊은 바다 표면을 걸어 이동하세요. ",
+                    "pt-PT": "Caminha sobre a superfície de um oceano profundo ao congelar a água com Botas de Congelar Água. ",
+                    "zh-CHT": "穿著冰霜行者的靴子，步行穿越冰凍的深海水面。 "
+                },
+                "howto": {
+                    "de-DE": "Laufe über einen tiefen Ozean, indem du das Wasser mit Eisläufer-Stiefeln einfrierst. ",
+                    "en-US": "Walk across the surface of a deep ocean by freezing the water with Frost Walker boots. ",
+                    "es-ES": "Camina por la superficie de un océano congelando el agua con las botas del Caminante helado. ",
+                    "fr-FR": "Marchez à la surface d'un océan profond à l'aide de bottes à Semelles givrantes. ",
+                    "it-IT": "Cammina sulla superficie di un oceano profondo congelando l'acqua con gli stivali di Frost Walker. ",
+                    "ja-JP": "氷渡りのブーツを装備して、水を凍らせて海の上を歩く",
+                    "ko-KR": "차가운 걸음 부츠를 신고 얼어붙은 깊은 바다 표면을 걸어 이동하세요. ",
+                    "pt-PT": "Caminha sobre a superfície de um oceano profundo ao congelar a água com Botas de Congelar Água. ",
+                    "zh-CHT": "穿著冰霜行者的靴子，步行穿越冰凍的深海水面。 "
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "86.png"
+        },
+        "100": {
+            "text": {
+                "name": {
+                    "de-DE": "Der ist böse",
+                    "en-US": "Feeling Ill",
+                    "es-ES": "Qué mal rollo",
+                    "fr-FR": "Pas bien du tout",
+                    "it-IT": "Sentirsi male",
+                    "ja-JP": "気分が悪い",
+                    "ko-KR": "찜찜한 날",
+                    "pt-PT": "Sinto-me doente",
+                    "zh-CHT": "走路有風"
+                },
+                "description": {
+                    "de-DE": "Besiege einen Magier.",
+                    "en-US": "Defeat an Evoker.",
+                    "es-ES": "Has derrotado a un evocador.",
+                    "fr-FR": "Triomphez d'un Évocateur.",
+                    "it-IT": "Sconfiggi un evocatore.",
+                    "ja-JP": "エヴォーカーを倒す",
+                    "ko-KR": "소환사를 처치하세요.",
+                    "pt-PT": "Derrota um Evocador.",
+                    "zh-CHT": "擊敗一名喚魔者。"
+                },
+                "howto": {
+                    "de-DE": "Besiege einen Magier.",
+                    "en-US": "Defeat an Evoker.",
+                    "es-ES": "Derrota a un evocador.",
+                    "fr-FR": "Triomphez d'un Évocateur.",
+                    "it-IT": "Sconfiggi un evocatore.",
+                    "ja-JP": "エヴォーカーを倒す",
+                    "ko-KR": "소환사를 처치하세요.",
+                    "pt-PT": "Derrota um Evocador.",
+                    "zh-CHT": "擊敗一名喚魔者。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "87.png"
+        },
+        "101": {
+            "text": {
+                "name": {
+                    "de-DE": "Gurkentruppe",
+                    "en-US": "1 Pickle, 2 Pickle, Sea Pickle 4",
+                    "es-ES": "Un escabeche, dos escabeches...",
+                    "fr-FR": "En quatre exemplaires",
+                    "it-IT": "3 cetrioli o 4 cetrioli di mare?",
+                    "ja-JP": "ナマコが 1 つ、2 つ、3 つ、4 つ…",
+                    "ko-KR": "해일, 해이, 그리고 해삼 넷",
+                    "pt-PT": "Pepino-do-Mar 1,2,3,4",
+                    "zh-CHT": "我愛火體蟲"
+                },
+                "description": {
+                    "de-DE": "Platziere vier Seegurken in einem Block.",
+                    "en-US": "Place four Sea Pickles in one block.",
+                    "es-ES": "Coloca cuatro escabeches marinos en un bloque.",
+                    "fr-FR": "Placer quatre concombres de mer sur un bloc.",
+                    "it-IT": "Posiziona quattro cetrioli di mare in un blocco.",
+                    "ja-JP": "1 ブロックの範囲に 4 つのナマコを置く",
+                    "ko-KR": "해삼 네 마리를 블록 한 개에 배치하세요.",
+                    "pt-PT": "Coloca quatro Pepinos-do-Mar num bloco.",
+                    "zh-CHT": "在一個方塊中放置四個火體蟲。"
+                },
+                "howto": {
+                    "de-DE": "Platziere vier Seegurken in einem Block.",
+                    "en-US": "Place four Sea Pickles in one block.",
+                    "es-ES": "Coloca cuatro escabeches marinos en un bloque.",
+                    "fr-FR": "Placer quatre concombres de mer sur un bloc.",
+                    "it-IT": "Posiziona quattro cetrioli di mare in un blocco.",
+                    "ja-JP": "1 ブロックの範囲に 4 つのナマコを置きましょう",
+                    "ko-KR": "해삼 네 마리를 블록 한 개에 배치하세요.",
+                    "pt-PT": "Coloca quatro Pepinos-do-Mar num bloco.",
+                    "zh-CHT": "在一個方塊中放置四個火體蟲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "88.png"
+        },
+        "102": {
+            "text": {
+                "name": {
+                    "de-DE": "Alternativer Brennstoff",
+                    "en-US": "Alternative Fuel",
+                    "es-ES": "Combustible alternativo",
+                    "fr-FR": "Combustible alternatif",
+                    "it-IT": "Combustibile alternativo",
+                    "ja-JP": "代替燃料",
+                    "ko-KR": "대체 연료",
+                    "pt-PT": "Combustível Alternativo",
+                    "zh-CHT": "替代燃料"
+                },
+                "description": {
+                    "de-DE": "Verwendete einen getrockneten Seetangblock als Brennstoff für einen Ofen.",
+                    "en-US": "Use a Dried Kelp block as fuel in a furnace.",
+                    "es-ES": "Utiliza un bloque de alga marina seca como combustible en un horno.",
+                    "fr-FR": "Utiliser un bloc de varech séché en combustible dans un four.",
+                    "it-IT": "Utilizza un Blocco di alga essiccata come combustibile in una Fornace.",
+                    "ja-JP": "かまどの燃料に乾燥昆布ブロックを使う",
+                    "ko-KR": "마른 다시마 블록을 화로에서 연료로 사용하세요.",
+                    "pt-PT": "Usa um bloco de Algas Secas como combustível numa fornalha.",
+                    "zh-CHT": "使用乾大海帶做為熔爐內的燃料。"
+                },
+                "howto": {
+                    "de-DE": "Verwendete einen getrockneten Seetangblock als Brennstoff für einen Ofen.",
+                    "en-US": "Use a Dried Kelp block as fuel in a furnace.",
+                    "es-ES": "Utiliza un bloque de alga marina seca como combustible en un horno.",
+                    "fr-FR": "Utiliser un bloc de varech séché en combustible dans un four.",
+                    "it-IT": "Utilizza un Blocco di alga essiccata come combustibile in una Fornace.",
+                    "ja-JP": "かまどの燃料に乾燥昆布ブロックを使いましょう",
+                    "ko-KR": "마른 다시마 블록을 화로에서 연료로 사용하세요.",
+                    "pt-PT": "Usa um bloco de Algas Secas como combustível numa fornalha.",
+                    "zh-CHT": "使用乾大海帶做為熔爐內的燃料。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "89.png"
+        },
+        "103": {
+            "text": {
+                "name": {
+                    "de-DE": "Mahlstrom",
+                    "en-US": "Moskstraumen",
+                    "es-ES": "Torbellino",
+                    "fr-FR": "Maelstrom",
+                    "it-IT": "Maelstrom",
+                    "ja-JP": "モスケンの渦潮",
+                    "ko-KR": "거대한 소용돌이",
+                    "pt-PT": "Moskstraumen",
+                    "zh-CHT": "默斯肯漩渦"
+                },
+                "description": {
+                    "de-DE": "Aktiviere einen Aquisator.",
+                    "en-US": "Activate a Conduit.",
+                    "es-ES": "Activa un conducto.",
+                    "fr-FR": "Activer un conduit.",
+                    "it-IT": "Attiva un Condotto.",
+                    "ja-JP": "コンジットを起動する",
+                    "ko-KR": "도관을 활성화하세요.",
+                    "pt-PT": "Ativa um Canal.",
+                    "zh-CHT": "啟用一個導管。"
+                },
+                "howto": {
+                    "de-DE": "Aktiviere einen Aquisator.",
+                    "en-US": "Activate a Conduit.",
+                    "es-ES": "Activa un conducto.",
+                    "fr-FR": "Activer un conduit.",
+                    "it-IT": "Attiva un Condotto.",
+                    "ja-JP": "コンジットを起動しましょう",
+                    "ko-KR": "도관을 활성화하세요.",
+                    "pt-PT": "Ativa um Canal.",
+                    "zh-CHT": "啟用一個導管。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "90.png"
+        },
+        "104": {
+            "text": {
+                "name": {
+                    "de-DE": "Gestrandet",
+                    "en-US": "Castaway",
+                    "es-ES": "Náufrago",
+                    "fr-FR": "Naufragé",
+                    "it-IT": "Dieta da naufraghi",
+                    "ja-JP": "漂流者",
+                    "ko-KR": "조난자",
+                    "pt-PT": "Náufrago",
+                    "zh-CHT": "流浪漢"
+                },
+                "description": {
+                    "de-DE": "Iss drei Tage lang nur Seetang.",
+                    "en-US": "Eat nothing but Kelp for 3 days.",
+                    "es-ES": "Come solo alga marina durante 3 días.",
+                    "fr-FR": "Ne manger que du varech pendant 3 jours.",
+                    "it-IT": "Mangia solo Alghe per 3 giorni.",
+                    "ja-JP": "昆布だけを食べて 3 日間過ごす",
+                    "ko-KR": "3일 동안 다시마만 먹어요.",
+                    "pt-PT": "Durante 3 dias come apenas Algas.",
+                    "zh-CHT": "三天只吃大海帶。"
+                },
+                "howto": {
+                    "de-DE": "Iss drei Tage lang nur Seetang.",
+                    "en-US": "Eat nothing but Kelp for 3 days.",
+                    "es-ES": "Come solo alga marina durante 3 días.",
+                    "fr-FR": "Ne manger que du varech pendant 3 jours.",
+                    "it-IT": "Mangia solo Alghe per 3 giorni.",
+                    "ja-JP": "昆布だけを食べて 3 日間過ごしましょう",
+                    "ko-KR": "3일 동안 다시마만 먹어요.",
+                    "pt-PT": "Durante 3 dias come apenas Algas.",
+                    "zh-CHT": "三天只吃大海帶。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "91.png"
+        },
+        "105": {
+            "text": {
+                "name": {
+                    "de-DE": "Bei den Fischen schlafen",
+                    "en-US": "Sleep with the Fishes",
+                    "es-ES": "Dormir con los peces",
+                    "fr-FR": "Dormir avec les poissons",
+                    "it-IT": "In fondo al mar",
+                    "ja-JP": "海の藻屑",
+                    "ko-KR": "물고기와 함께 보내는 밤",
+                    "pt-PT": "Dorme com os Peixes",
+                    "zh-CHT": "與魚共眠"
+                },
+                "description": {
+                    "de-DE": "Bleibe einen Tag lang unter Wasser, ohne einen Trank zu nehmen.",
+                    "en-US": "Stay underwater for one full day without using potions.",
+                    "es-ES": "Permanece bajo el agua un día entero sin usar pociones.",
+                    "fr-FR": "Rester une journée complète sous l'eau sans utiliser de potion.",
+                    "it-IT": "Resta sott'acqua per un giorno intero, senza utilizzare pozioni.",
+                    "ja-JP": "ポーションを使用せずに水中で丸一日過ごす",
+                    "ko-KR": "물 속에서 포션을 사용하지 않고 하루 종일 머무르세요.",
+                    "pt-PT": "Mantem-te debaixo de água durante um dia inteiro sem usar poções.",
+                    "zh-CHT": "不使用藥水在水底停留一整天。"
+                },
+                "howto": {
+                    "de-DE": "Bleibe einen Tag lang unter Wasser, ohne einen Trank zu nehmen.",
+                    "en-US": "Stay underwater for one full day without using potions.",
+                    "es-ES": "Permanece bajo el agua un día entero sin usar pociones.",
+                    "fr-FR": "Rester une journée complète sous l'eau sans utiliser de potion.",
+                    "it-IT": "Resta sott'acqua per un giorno intero, senza utilizzare pozioni.",
+                    "ja-JP": "ポーションを使用せずに水中で丸一日過ごしましょう",
+                    "ko-KR": "물 속에서 포션을 사용하지 않고 하루 종일 머무르세요.",
+                    "pt-PT": "Mantem-te debaixo de água durante um dia inteiro sem usar poções.",
+                    "zh-CHT": "不使用藥水在水底停留一整天。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "92.png"
+        },
+        "107": {
+            "text": {
+                "name": {
+                    "de-DE": "Echoortung",
+                    "en-US": "Echolocation",
+                    "es-ES": "Ecoubicación",
+                    "fr-FR": "Écholocation",
+                    "it-IT": "Ecolocazione",
+                    "ja-JP": "エコーロケーション",
+                    "ko-KR": "초음파 탐지",
+                    "pt-PT": "Ecolocalização",
+                    "zh-CHT": "迴聲定位"
+                },
+                "description": {
+                    "de-DE": "Besteche einen Delfin.",
+                    "en-US": "Bribe a Dolphin.",
+                    "es-ES": "Soborna a un delfín.",
+                    "fr-FR": "Appâter un dauphin.",
+                    "it-IT": "Corrompi un delfino.",
+                    "ja-JP": "イルカに好物をあげる",
+                    "ko-KR": "돌고래를 매수하세요.",
+                    "pt-PT": "Suborna um Golfinho.",
+                    "zh-CHT": "賄賂一頭海豚。"
+                },
+                "howto": {
+                    "de-DE": "Besteche einen Delfin.",
+                    "en-US": "Bribe a Dolphin.",
+                    "es-ES": "Soborna a un delfín.",
+                    "fr-FR": "Appâter un dauphin.",
+                    "it-IT": "Corrompi un delfino.",
+                    "ja-JP": "イルカに好物をあげましょう",
+                    "ko-KR": "돌고래를 매수하세요.",
+                    "pt-PT": "Suborna um Golfinho.",
+                    "zh-CHT": "賄賂一頭海豚。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "93.png"
+        }
+    }
+}

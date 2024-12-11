@@ -1,0 +1,804 @@
+{
+    "properties": {
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000008": {
+            "info": "LOCALE",
+            "method": "last",
+            "statId": 9
+        },
+        "0x1000000A": {
+            "info": "ZOMBIES",
+            "method": "last",
+            "statId": 1
+        },
+        "0x1000000B": {
+            "info": "SKELETONS",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000000C": {
+            "info": "CREEPERS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x1000000D": {
+            "info": "SPIDERS",
+            "method": "last",
+            "statId": 4
+        },
+        "0x1000000E": {
+            "info": "SPIDERJOCKEYS",
+            "method": "last",
+            "statId": 5
+        },
+        "0x1000000F": {
+            "info": "ZOMBIEPIGMEN",
+            "method": "last",
+            "statId": 6
+        },
+        "0x10000010": {
+            "info": "SLIME",
+            "method": "last",
+            "statId": 7
+        },
+        "0x20000009": {
+            "info": "RATING",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000008": {
+            "info": "LOCALE",
+            "method": "last",
+            "statId": 9
+        },
+        "0x1000000A": {
+            "info": "ZOMBIES",
+            "method": "last",
+            "statId": 1
+        },
+        "0x1000000B": {
+            "info": "SKELETONS",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000000C": {
+            "info": "CREEPERS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x1000000D": {
+            "info": "SPIDERS",
+            "method": "last",
+            "statId": 4
+        },
+        "0x1000000E": {
+            "info": "SPIDERJOCKEYS",
+            "method": "last",
+            "statId": 5
+        },
+        "0x1000000F": {
+            "info": "ZOMBIEPIGMEN",
+            "method": "last",
+            "statId": 6
+        },
+        "0x10000010": {
+            "info": "SLIME",
+            "method": "last",
+            "statId": 7
+        },
+        "0x20000009": {
+            "info": "RATING",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000008": {
+            "info": "LOCALE",
+            "method": "last",
+            "statId": 9
+        },
+        "0x1000000A": {
+            "info": "ZOMBIES",
+            "method": "last",
+            "statId": 1
+        },
+        "0x1000000B": {
+            "info": "SKELETONS",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000000C": {
+            "info": "CREEPERS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x1000000D": {
+            "info": "SPIDERS",
+            "method": "last",
+            "statId": 4
+        },
+        "0x1000000E": {
+            "info": "SPIDERJOCKEYS",
+            "method": "last",
+            "statId": 5
+        },
+        "0x1000000F": {
+            "info": "ZOMBIEPIGMEN",
+            "method": "last",
+            "statId": 6
+        },
+        "0x10000010": {
+            "info": "SLIME",
+            "method": "last",
+            "statId": 7
+        },
+        "0x20000009": {
+            "info": "RATING",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000008": {
+            "info": "LOCALE",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000012": {
+            "info": "DIRT",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000013": {
+            "info": "STONE",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000014": {
+            "info": "SAND",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000015": {
+            "info": "COBBLESTONE",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10000016": {
+            "info": "GRAVEL",
+            "method": "last",
+            "statId": 6
+        },
+        "0x10000017": {
+            "info": "CLAY",
+            "method": "last",
+            "statId": 7
+        },
+        "0x10000018": {
+            "info": "OBSIDIAN",
+            "method": "last",
+            "statId": 8
+        },
+        "0x20000009": {
+            "info": "RATING",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000008": {
+            "info": "LOCALE",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000012": {
+            "info": "DIRT",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000013": {
+            "info": "STONE",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000014": {
+            "info": "SAND",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000015": {
+            "info": "COBBLESTONE",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10000016": {
+            "info": "GRAVEL",
+            "method": "last",
+            "statId": 6
+        },
+        "0x10000017": {
+            "info": "CLAY",
+            "method": "last",
+            "statId": 7
+        },
+        "0x10000018": {
+            "info": "OBSIDIAN",
+            "method": "last",
+            "statId": 8
+        },
+        "0x20000009": {
+            "info": "RATING",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000008": {
+            "info": "LOCALE",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000012": {
+            "info": "DIRT",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000013": {
+            "info": "STONE",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000014": {
+            "info": "SAND",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000015": {
+            "info": "COBBLESTONE",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10000016": {
+            "info": "GRAVEL",
+            "method": "last",
+            "statId": 6
+        },
+        "0x10000017": {
+            "info": "CLAY",
+            "method": "last",
+            "statId": 7
+        },
+        "0x10000018": {
+            "info": "OBSIDIAN",
+            "method": "last",
+            "statId": 8
+        },
+        "0x20000009": {
+            "info": "RATING",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000008": {
+            "info": "LOCALE",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000012": {
+            "info": "DIRT",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000013": {
+            "info": "STONE",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000014": {
+            "info": "SAND",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000015": {
+            "info": "COBBLESTONE",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10000016": {
+            "info": "GRAVEL",
+            "method": "last",
+            "statId": 6
+        },
+        "0x10000017": {
+            "info": "CLAY",
+            "method": "last",
+            "statId": 7
+        },
+        "0x10000018": {
+            "info": "OBSIDIAN",
+            "method": "last",
+            "statId": 8
+        },
+        "0x20000009": {
+            "info": "RATING",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000008": {
+            "info": "LOCALE",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000022": {
+            "info": "EGGS",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000023": {
+            "info": "WHEAT",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000024": {
+            "info": "MUSHROOMS",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000025": {
+            "info": "SUGARCANE",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10000026": {
+            "info": "MILK",
+            "method": "last",
+            "statId": 6
+        },
+        "0x10000027": {
+            "info": "PUMPKINS",
+            "method": "last",
+            "statId": 7
+        },
+        "0x20000009": {
+            "info": "RATING",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000008": {
+            "info": "LOCALE",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000022": {
+            "info": "EGGS",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000023": {
+            "info": "WHEAT",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000024": {
+            "info": "MUSHROOMS",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000025": {
+            "info": "SUGARCANE",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10000026": {
+            "info": "MILK",
+            "method": "last",
+            "statId": 6
+        },
+        "0x10000027": {
+            "info": "PUMPKINS",
+            "method": "last",
+            "statId": 7
+        },
+        "0x20000009": {
+            "info": "RATING",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000008": {
+            "info": "LOCALE",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000022": {
+            "info": "EGGS",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000023": {
+            "info": "WHEAT",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000024": {
+            "info": "MUSHROOMS",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000025": {
+            "info": "SUGARCANE",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10000026": {
+            "info": "MILK",
+            "method": "last",
+            "statId": 6
+        },
+        "0x10000027": {
+            "info": "PUMPKINS",
+            "method": "last",
+            "statId": 7
+        },
+        "0x20000009": {
+            "info": "RATING",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000008": {
+            "info": "LOCALE",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000022": {
+            "info": "EGGS",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000023": {
+            "info": "WHEAT",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000024": {
+            "info": "MUSHROOMS",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000025": {
+            "info": "SUGARCANE",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10000026": {
+            "info": "MILK",
+            "method": "last",
+            "statId": 6
+        },
+        "0x10000027": {
+            "info": "PUMPKINS",
+            "method": "last",
+            "statId": 7
+        },
+        "0x20000009": {
+            "info": "RATING",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000008": {
+            "info": "LOCALE",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000028": {
+            "info": "WALKED",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000029": {
+            "info": "SWAM",
+            "method": "last",
+            "statId": 3
+        },
+        "0x1000002A": {
+            "info": "FALLEN",
+            "method": "last",
+            "statId": 4
+        },
+        "0x1000002B": {
+            "info": "CLIMBED",
+            "method": "last",
+            "statId": 5
+        },
+        "0x1000002C": {
+            "info": "MINECART",
+            "method": "last",
+            "statId": 6
+        },
+        "0x1000002D": {
+            "info": "BOAT",
+            "method": "last",
+            "statId": 7
+        },
+        "0x20000009": {
+            "info": "RATING",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000008": {
+            "info": "LOCALE",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000028": {
+            "info": "WALKED",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000029": {
+            "info": "SWAM",
+            "method": "last",
+            "statId": 3
+        },
+        "0x1000002A": {
+            "info": "FALLEN",
+            "method": "last",
+            "statId": 4
+        },
+        "0x1000002B": {
+            "info": "CLIMBED",
+            "method": "last",
+            "statId": 5
+        },
+        "0x1000002C": {
+            "info": "MINECART",
+            "method": "last",
+            "statId": 6
+        },
+        "0x1000002D": {
+            "info": "BOAT",
+            "method": "last",
+            "statId": 7
+        },
+        "0x20000009": {
+            "info": "RATING",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000008": {
+            "info": "LOCALE",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000028": {
+            "info": "WALKED",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000029": {
+            "info": "SWAM",
+            "method": "last",
+            "statId": 3
+        },
+        "0x1000002A": {
+            "info": "FALLEN",
+            "method": "last",
+            "statId": 4
+        },
+        "0x1000002B": {
+            "info": "CLIMBED",
+            "method": "last",
+            "statId": 5
+        },
+        "0x1000002C": {
+            "info": "MINECART",
+            "method": "last",
+            "statId": 6
+        },
+        "0x1000002D": {
+            "info": "BOAT",
+            "method": "last",
+            "statId": 7
+        },
+        "0x20000009": {
+            "info": "RATING",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000008": {
+            "info": "LOCALE",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000028": {
+            "info": "WALKED",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000029": {
+            "info": "SWAM",
+            "method": "last",
+            "statId": 3
+        },
+        "0x1000002A": {
+            "info": "FALLEN",
+            "method": "last",
+            "statId": 4
+        },
+        "0x1000002B": {
+            "info": "CLIMBED",
+            "method": "last",
+            "statId": 5
+        },
+        "0x1000002C": {
+            "info": "MINECART",
+            "method": "last",
+            "statId": 6
+        },
+        "0x1000002D": {
+            "info": "BOAT",
+            "method": "last",
+            "statId": 7
+        },
+        "0x20000009": {
+            "info": "RATING",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000009": {
+            "info": "RATING",
+            "method": "last",
+            "statId": 65534
+        }
+    }
+}
