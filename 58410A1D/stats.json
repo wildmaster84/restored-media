@@ -1,0 +1,224 @@
+{
+    "properties": {
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000005F": {
+            "info": "EuropeScore",
+            "method": "max",
+            "statId": 1
+        },
+        "0x2000005F": {
+            "info": "SortScore",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000005B": {
+            "info": "WinterScore",
+            "method": "max",
+            "statId": 1
+        },
+        "0x2000005B": {
+            "info": "SortScore",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000062": {
+            "info": "SportScore",
+            "method": "max",
+            "statId": 1
+        },
+        "0x20000062": {
+            "info": "SortScore",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000005A": {
+            "info": "USAScore",
+            "method": "max",
+            "statId": 1
+        },
+        "0x2000005A": {
+            "info": "SortScore",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000005D": {
+            "info": "AustraliaScore",
+            "method": "max",
+            "statId": 1
+        },
+        "0x2000005D": {
+            "info": "SortScore",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000061": {
+            "info": "SouthAmScore",
+            "method": "max",
+            "statId": 1
+        },
+        "0x20000061": {
+            "info": "SortScore",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000005E": {
+            "info": "DiscoScore",
+            "method": "max",
+            "statId": 1
+        },
+        "0x2000005E": {
+            "info": "SortScore",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000005C": {
+            "info": "ChinaScore",
+            "method": "max",
+            "statId": 1
+        },
+        "0x2000005C": {
+            "info": "SortScore",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000057": {
+            "info": "ArtScore",
+            "method": "max",
+            "statId": 1
+        },
+        "0x20000057": {
+            "info": "SortScore",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000060": {
+            "info": "RussiaScore",
+            "method": "max",
+            "statId": 1
+        },
+        "0x20000060": {
+            "info": "SortScore",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000059": {
+            "info": "SurvivalScore",
+            "method": "max",
+            "statId": 1
+        },
+        "0x20000059": {
+            "info": "SortScore",
+            "method": "max",
+            "statId": 65534
+        }
+    }
+}

@@ -1,0 +1,1866 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Gefängnisausbruch",
+                    "en-US": "Prison Breakout",
+                    "es-ES": "Huida de prisión",
+                    "fr-FR": "Évasion de la prison",
+                    "it-IT": "Evasione",
+                    "ja-JP": "収容所からの脱出",
+                    "ko-KR": "탈옥",
+                    "zh-CHT": "監獄突圍"
+                },
+                "description": {
+                    "de-DE": "Ausbildungsabschnitt auf beliebiger Schwierigkeitsstufe beendet",
+                    "en-US": "Completed tutorial level on any skill level",
+                    "es-ES": "Nivel de tutorial completado en todos los niveles de habilidades",
+                    "fr-FR": "Niveau de didacticiel terminé pour tous les niveaux",
+                    "it-IT": "Livello esercitazione completato in tutti i livelli abilità",
+                    "ja-JP": "最初のチャプターをクリア (難易度は任意)",
+                    "ko-KR": "어떤 난이도에서든 감옥에서 탈출",
+                    "zh-CHT": "在任意的技巧難度中完成教學關卡"
+                },
+                "howto": {
+                    "de-DE": "Ausbildungsabschnitt auf beliebiger Schwierigkeitsstufe beendet",
+                    "en-US": "Completed tutorial level on any skill level",
+                    "es-ES": "Nivel de tutorial completado en todos los niveles de habilidades",
+                    "fr-FR": "Niveau de didacticiel terminé pour tous les niveaux",
+                    "it-IT": "Livello esercitazione completato in tutti i livelli abilità",
+                    "ja-JP": "最初のチャプターをクリア (難易度は任意)",
+                    "ko-KR": "어떤 난이도에서든 감옥에서 탈출",
+                    "zh-CHT": "在任意的技巧難度中完成教學關卡"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "1. Akt auf \"Lässig\" beendet",
+                    "en-US": "Completed Act 1 on Casual",
+                    "es-ES": "Acto 1 completado en Informal",
+                    "fr-FR": "Acte 1 terminé en Recrue",
+                    "it-IT": "Atto 1 completato in Casuale",
+                    "ja-JP": "Act 1 クリア (Casual)",
+                    "ko-KR": "액트 1을 쉬움으로 완료",
+                    "zh-CHT": "以一般難度完成任務 1"
+                },
+                "description": {
+                    "de-DE": "1. Akt auf Schwierigkeit \"Lässig\" beenden",
+                    "en-US": "Complete Act 1 on Casual Difficulty",
+                    "es-ES": "Acto 1 completado en dificultad Informal",
+                    "fr-FR": "Terminez l'acte 1 en niveau Recrue",
+                    "it-IT": "Completa atto 1 in livello Casuale",
+                    "ja-JP": "難易度 Casual で Act 1 をクリア",
+                    "ko-KR": "액트 1을 난이도 쉬움으로 완료",
+                    "zh-CHT": "以一般難度完成任務 1"
+                },
+                "howto": {
+                    "de-DE": "1. Akt auf Schwierigkeit \"Lässig\" beenden",
+                    "en-US": "Complete Act 1 on Casual Difficulty",
+                    "es-ES": "Acto 1 completado en dificultad Informal",
+                    "fr-FR": "Terminez l'acte 1 en niveau Recrue",
+                    "it-IT": "Completa atto 1 in livello Casuale",
+                    "ja-JP": "難易度 Casual で Act 1 をクリア",
+                    "ko-KR": "액트 1을 난이도 쉬움으로 완료",
+                    "zh-CHT": "以一般難度完成任務 1"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "2. Akt auf \"Lässig\" beendet",
+                    "en-US": "Completed Act 2 on Casual",
+                    "es-ES": "Acto 2 completado en Informal",
+                    "fr-FR": "Acte 2 terminé en Recrue",
+                    "it-IT": "Atto 2 completato in Casuale",
+                    "ja-JP": "Act 2 クリア (Casual)",
+                    "ko-KR": "액트 2를 쉬움으로 완료",
+                    "zh-CHT": "以一般難度完成任務 2"
+                },
+                "description": {
+                    "de-DE": "2. Akt auf Schwierigkeit \"Lässig\" beenden",
+                    "en-US": "Complete Act 2 on Casual Difficulty",
+                    "es-ES": "Acto 2 completado en dificultad Informal",
+                    "fr-FR": "Terminez l'acte 2 en niveau Recrue",
+                    "it-IT": "Completa atto 2 in livello Casuale",
+                    "ja-JP": "難易度 Casual で Act 2 をクリア",
+                    "ko-KR": "액트 2를 난이도 쉬움으로 완료",
+                    "zh-CHT": "以一般難度完成任務 2"
+                },
+                "howto": {
+                    "de-DE": "2. Akt auf Schwierigkeit \"Lässig\" beenden",
+                    "en-US": "Complete Act 2 on Casual Difficulty",
+                    "es-ES": "Acto 2 completado en dificultad Informal",
+                    "fr-FR": "Terminez l'acte 2 en niveau Recrue",
+                    "it-IT": "Completa atto 2 in livello Casuale",
+                    "ja-JP": "難易度 Casual で Act 2 をクリア",
+                    "ko-KR": "액트 2를 난이도 쉬움으로 완료",
+                    "zh-CHT": "以一般難度完成任務 2"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "3. Akt auf \"Lässig\" beendet",
+                    "en-US": "Completed Act 3 on Casual",
+                    "es-ES": "Acto 3 completado en Informal",
+                    "fr-FR": "Acte 3 terminé en Recrue",
+                    "it-IT": "Atto 3 completato in Casuale",
+                    "ja-JP": "Act 3 クリア (Casual)",
+                    "ko-KR": "액트 3을 쉬움으로 완료",
+                    "zh-CHT": "以一般難度完成任務 3"
+                },
+                "description": {
+                    "de-DE": "3. Akt auf Schwierigkeit \"Lässig\" beenden",
+                    "en-US": "Complete Act 3 on Casual Difficulty",
+                    "es-ES": "Acto 3 completado en dificultad Informal",
+                    "fr-FR": "Terminez l'acte 3 en niveau Recrue",
+                    "it-IT": "Completa atto 3 in livello Casuale",
+                    "ja-JP": "難易度 Casual で Act 3 をクリア",
+                    "ko-KR": "액트 3을 난이도 쉬움으로 완료",
+                    "zh-CHT": "以一般難度完成任務 3"
+                },
+                "howto": {
+                    "de-DE": "3. Akt auf Schwierigkeit \"Lässig\" beenden",
+                    "en-US": "Complete Act 3 on Casual Difficulty",
+                    "es-ES": "Acto 3 completado en dificultad Informal",
+                    "fr-FR": "Terminez l'acte 3 en niveau Recrue",
+                    "it-IT": "Completa atto 3 in livello Casuale",
+                    "ja-JP": "難易度 Casual で Act 3 をクリア",
+                    "ko-KR": "액트 3을 난이도 쉬움으로 완료",
+                    "zh-CHT": "以一般難度完成任務 3"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "4. Akt auf \"Lässig\" beendet",
+                    "en-US": "Completed Act 4 on Casual",
+                    "es-ES": "Acto 4 completado en Informal",
+                    "fr-FR": "Acte 4 terminé en Recrue",
+                    "it-IT": "Atto 4 completato in Casuale",
+                    "ja-JP": "Act 4 クリア (Casual)",
+                    "ko-KR": "액트 4를 쉬움으로 완료",
+                    "zh-CHT": "以一般難度完成任務 4"
+                },
+                "description": {
+                    "de-DE": "4. Akt auf Schwierigkeit \"Lässig\" beenden",
+                    "en-US": "Complete Act 4 on Casual Difficulty",
+                    "es-ES": "Acto 4 completado en dificultad Informal",
+                    "fr-FR": "Terminez l'acte 4 en niveau Recrue",
+                    "it-IT": "Completa atto 4 in livello Casuale",
+                    "ja-JP": "難易度 Casual で Act 4 をクリア",
+                    "ko-KR": "액트 4를 난이도 쉬움으로 완료",
+                    "zh-CHT": "以一般難度完成任務 4"
+                },
+                "howto": {
+                    "de-DE": "4. Akt auf Schwierigkeit \"Lässig\" beenden",
+                    "en-US": "Complete Act 4 on Casual Difficulty",
+                    "es-ES": "Acto 4 completado en dificultad Informal",
+                    "fr-FR": "Terminez l'acte 4 en niveau Recrue",
+                    "it-IT": "Completa atto 4 in livello Casuale",
+                    "ja-JP": "難易度 Casual で Act 4 をクリア",
+                    "ko-KR": "액트 4를 난이도 쉬움으로 완료",
+                    "zh-CHT": "以一般難度完成任務 4"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "5. Akt auf \"Lässig\" beendet",
+                    "en-US": "Completed Act 5 on Casual",
+                    "es-ES": "Acto 5 completado en Informal",
+                    "fr-FR": "Acte 5 terminé en Recrue",
+                    "it-IT": "Atto 5 completato in Casuale",
+                    "ja-JP": "Act 5 クリア (Casual)",
+                    "ko-KR": "액트 5를 쉬움으로 완료",
+                    "zh-CHT": "以一般難度完成任務 5"
+                },
+                "description": {
+                    "de-DE": "5. Akt auf Schwierigkeit \"Lässig\" beenden",
+                    "en-US": "Complete Act 5 on Casual Difficulty",
+                    "es-ES": "Acto 5 completado en dificultad Informal",
+                    "fr-FR": "Terminez l'acte 5 en niveau Recrue",
+                    "it-IT": "Completa atto 5 in livello Casuale",
+                    "ja-JP": "難易度 Casual で Act 5 をクリア",
+                    "ko-KR": "액트 5를 난이도 쉬움으로 완료",
+                    "zh-CHT": "以一般難度完成任務 5"
+                },
+                "howto": {
+                    "de-DE": "5. Akt auf Schwierigkeit \"Lässig\" beenden",
+                    "en-US": "Complete Act 5 on Casual Difficulty",
+                    "es-ES": "Acto 5 completado en dificultad Informal",
+                    "fr-FR": "Terminez l'acte 5 en niveau Recrue",
+                    "it-IT": "Completa atto 5 in livello Casuale",
+                    "ja-JP": "難易度 Casual で Act 5 をクリア",
+                    "ko-KR": "액트 5를 난이도 쉬움으로 완료",
+                    "zh-CHT": "以一般難度完成任務 5"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Söldner",
+                    "en-US": "Mercenary",
+                    "es-ES": "Mercenario",
+                    "fr-FR": "Mercenaire",
+                    "it-IT": "Mercernario",
+                    "ja-JP": "傭兵",
+                    "ko-KR": "용병",
+                    "zh-CHT": "傭兵"
+                },
+                "description": {
+                    "de-DE": "Alle Akte auf Schwierigkeit \"Lässig\" beenden",
+                    "en-US": "Complete all acts on Casual Difficulty",
+                    "es-ES": "Complete todos los actos en dificultad Informal",
+                    "fr-FR": "Terminez tous les actes en niveau Recrue",
+                    "it-IT": "Completa tutti gli atti in livello Casuale",
+                    "ja-JP": "難易度 Casual で全 Act をクリア",
+                    "ko-KR": "모든 액트를 난이도 쉬움으로 완료",
+                    "zh-CHT": "以一般難度完成所有任務"
+                },
+                "howto": {
+                    "de-DE": "Alle Akte auf Schwierigkeit \"Lässig\" beenden",
+                    "en-US": "Complete all acts on Casual Difficulty",
+                    "es-ES": "Complete todos los actos en dificultad Informal",
+                    "fr-FR": "Terminez tous les actes en niveau Recrue",
+                    "it-IT": "Completa tutti gli atti in livello Casuale",
+                    "ja-JP": "難易度 Casual で全 Act をクリア",
+                    "ko-KR": "모든 액트를 난이도 쉬움으로 완료",
+                    "zh-CHT": "以一般難度完成所有任務"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "1. Akt auf \"Hardcore\" beendet",
+                    "en-US": "Completed Act 1 on Hardcore",
+                    "es-ES": "Acto 1 completado en Elevada",
+                    "fr-FR": "Acte 1 terminé en Vétéran",
+                    "it-IT": "Atto 1 completato in Difficile",
+                    "ja-JP": "Act 1 クリア (Hardcore)",
+                    "ko-KR": "액트 1을 어려움으로 완료",
+                    "zh-CHT": "以困難難度完成任務 1"
+                },
+                "description": {
+                    "de-DE": "1. Akt auf Schwierigkeit \"Hardcore\" beenden",
+                    "en-US": "Complete Act 1 on Hardcore Difficulty",
+                    "es-ES": "Acto 1 completado en dificultad Elevada",
+                    "fr-FR": "Terminez l'acte 1 en niveau Vétéran",
+                    "it-IT": "Completa atto 1 in livello Difficile",
+                    "ja-JP": "難易度 Hardcore で Act 1 をクリア",
+                    "ko-KR": "액트 1을 난이도 어려움으로 완료",
+                    "zh-CHT": "以困難難度完成任務 1"
+                },
+                "howto": {
+                    "de-DE": "1. Akt auf Schwierigkeit \"Hardcore\" beenden",
+                    "en-US": "Complete Act 1 on Hardcore Difficulty",
+                    "es-ES": "Acto 1 completado en dificultad Elevada",
+                    "fr-FR": "Terminez l'acte 1 en niveau Vétéran",
+                    "it-IT": "Completa atto 1 in livello Difficile",
+                    "ja-JP": "難易度 Hardcore で Act 1 をクリア",
+                    "ko-KR": "액트 1을 난이도 어려움으로 완료",
+                    "zh-CHT": "以困難難度完成任務 1"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "2. Akt auf \"Hardcore\" beendet",
+                    "en-US": "Completed Act 2 on Hardcore",
+                    "es-ES": "Acto 2 completado en Elevada",
+                    "fr-FR": "Acte 2 terminé en Vétéran",
+                    "it-IT": "Atto 2 completato in Difficile",
+                    "ja-JP": "Act 2 クリア (Hardcore)",
+                    "ko-KR": "액트 2를 어려움으로 완료",
+                    "zh-CHT": "以困難難度完成任務 2"
+                },
+                "description": {
+                    "de-DE": "2. Akt auf Schwierigkeit \"Hardcore\" beenden",
+                    "en-US": "Complete Act 2 on Hardcore Difficulty",
+                    "es-ES": "Acto 2 completado en dificultad Elevada",
+                    "fr-FR": "Terminez l'acte 2 en niveau Vétéran",
+                    "it-IT": "Completa atto 2 in livello Difficile",
+                    "ja-JP": "難易度 Hardcore で Act 2 をクリア",
+                    "ko-KR": "액트 2를 난이도 어려움으로 완료",
+                    "zh-CHT": "以困難難度完成任務 2"
+                },
+                "howto": {
+                    "de-DE": "2. Akt auf Schwierigkeit \"Hardcore\" beenden",
+                    "en-US": "Complete Act 2 on Hardcore Difficulty",
+                    "es-ES": "Acto 2 completado en dificultad Elevada",
+                    "fr-FR": "Terminez l'acte 2 en niveau Vétéran",
+                    "it-IT": "Completa atto 2 in livello Difficile",
+                    "ja-JP": "難易度 Hardcore で Act 2 をクリア",
+                    "ko-KR": "액트 2를 난이도 어려움으로 완료",
+                    "zh-CHT": "以困難難度完成任務 2"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "3. Akt auf \"Hardcore\" beendet",
+                    "en-US": "Completed Act 3 on Hardcore",
+                    "es-ES": "Acto 3 completado en Elevada",
+                    "fr-FR": "Acte 3 terminé en Vétéran",
+                    "it-IT": "Atto 3 completato in Difficile",
+                    "ja-JP": "Act 3 クリア (Hardcore)",
+                    "ko-KR": "액트 3을 어려움으로 완료",
+                    "zh-CHT": "以困難難度完成任務 3"
+                },
+                "description": {
+                    "de-DE": "3. Akt auf Schwierigkeit \"Hardcore\" beenden",
+                    "en-US": "Complete Act 3 on Hardcore Difficulty",
+                    "es-ES": "Acto 3 completado en dificultad Elevada",
+                    "fr-FR": "Terminez l'acte 3 en niveau Vétéran",
+                    "it-IT": "Completa atto 3 in livello Difficile",
+                    "ja-JP": "難易度 Hardcore で Act 3 をクリア",
+                    "ko-KR": "액트 3을 난이도 어려움으로 완료",
+                    "zh-CHT": "以困難難度完成任務 3"
+                },
+                "howto": {
+                    "de-DE": "3. Akt auf Schwierigkeit \"Hardcore\" beenden",
+                    "en-US": "Complete Act 3 on Hardcore Difficulty",
+                    "es-ES": "Acto 3 completado en dificultad Elevada",
+                    "fr-FR": "Terminez l'acte 3 en niveau Vétéran",
+                    "it-IT": "Completa atto 3 in livello Difficile",
+                    "ja-JP": "難易度 Hardcore で Act 3 をクリア",
+                    "ko-KR": "액트 3을 난이도 어려움으로 완료",
+                    "zh-CHT": "以困難難度完成任務 3"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "4. Akt auf \"Hardcore\" beendet",
+                    "en-US": "Completed Act 4 on Hardcore",
+                    "es-ES": "Acto 4 completado en Elevada",
+                    "fr-FR": "Acte 4 terminé en Vétéran",
+                    "it-IT": "Atto 4 completato in Difficile",
+                    "ja-JP": "Act 4 クリア (Hardcore)",
+                    "ko-KR": "액트 4를 어려움으로 완료",
+                    "zh-CHT": "以困難難度完成任務 4"
+                },
+                "description": {
+                    "de-DE": "4. Akt auf Schwierigkeit \"Hardcore\" beenden",
+                    "en-US": "Complete Act 4 on Hardcore Difficulty",
+                    "es-ES": "Acto 4 completado en dificultad Elevada",
+                    "fr-FR": "Terminez l'acte 4 en niveau Vétéran",
+                    "it-IT": "Completa atto 4 in livello Difficile",
+                    "ja-JP": "難易度 Hardcore で Act 4 をクリア",
+                    "ko-KR": "액트 4를 난이도 어려움으로 완료",
+                    "zh-CHT": "以困難難度完成任務 4"
+                },
+                "howto": {
+                    "de-DE": "4. Akt auf Schwierigkeit \"Hardcore\" beenden",
+                    "en-US": "Complete Act 4 on Hardcore Difficulty",
+                    "es-ES": "Acto 4 completado en dificultad Elevada",
+                    "fr-FR": "Terminez l'acte 4 en niveau Vétéran",
+                    "it-IT": "Completa atto 4 in livello Difficile",
+                    "ja-JP": "難易度 Hardcore で Act 4 をクリア",
+                    "ko-KR": "액트 4를 난이도 어려움으로 완료",
+                    "zh-CHT": "以困難難度完成任務 4"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "5. Akt auf \"Hardcore\" beendet",
+                    "en-US": "Completed Act 5 on Hardcore",
+                    "es-ES": "Acto 5 completado en Elevada",
+                    "fr-FR": "Acte 5 terminé en Vétéran",
+                    "it-IT": "Atto 5 completato in Difficile",
+                    "ja-JP": "Act 5 クリア (Hardcore)",
+                    "ko-KR": "액트 5를 어려움으로 완료",
+                    "zh-CHT": "以困難難度完成任務 5"
+                },
+                "description": {
+                    "de-DE": "5. Akt auf Schwierigkeit \"Hardcore\" beenden",
+                    "en-US": "Complete Act 5 on Hardcore Difficulty",
+                    "es-ES": "Acto 5 completado en dificultad Elevada",
+                    "fr-FR": "Terminez l'acte 5 en niveau Vétéran",
+                    "it-IT": "Completa atto 5 in livello Difficile",
+                    "ja-JP": "難易度 Hardcore で Act 5 をクリア",
+                    "ko-KR": "액트 5를 난이도 어려움으로 완료",
+                    "zh-CHT": "以困難難度完成任務 5"
+                },
+                "howto": {
+                    "de-DE": "5. Akt auf Schwierigkeit \"Hardcore\" beenden",
+                    "en-US": "Complete Act 5 on Hardcore Difficulty",
+                    "es-ES": "Acto 5 completado en dificultad Elevada",
+                    "fr-FR": "Terminez l'acte 5 en niveau Vétéran",
+                    "it-IT": "Completa atto 5 in livello Difficile",
+                    "ja-JP": "難易度 Hardcore で Act 5 をクリア",
+                    "ko-KR": "액트 5를 난이도 어려움으로 완료",
+                    "zh-CHT": "以困難難度完成任務 5"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "12.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "Soldat",
+                    "en-US": "Soldier",
+                    "es-ES": "Soldado",
+                    "fr-FR": "Soldat",
+                    "it-IT": "Soldato",
+                    "ja-JP": "ソルジャー",
+                    "ko-KR": "정규군",
+                    "zh-CHT": "精銳戰士"
+                },
+                "description": {
+                    "de-DE": "Alle Akte auf Schwierigkeit \"Hardcore\" beenden",
+                    "en-US": "Complete all acts on Hardcore Difficulty",
+                    "es-ES": "Complete todos los actos en dificultad Elevada",
+                    "fr-FR": "Terminez tous les actes en niveau Vétéran",
+                    "it-IT": "Completa tutti gli atti in livello Difficile",
+                    "ja-JP": "難易度 Hardcore で全 Act をクリア",
+                    "ko-KR": "모든 액트를 난이도 어려움으로 완료",
+                    "zh-CHT": "以困難難度完成所有任務"
+                },
+                "howto": {
+                    "de-DE": "Alle Akte auf Schwierigkeit \"Hardcore\" beenden",
+                    "en-US": "Complete all acts on Hardcore Difficulty",
+                    "es-ES": "Complete todos los actos en dificultad Elevada",
+                    "fr-FR": "Terminez tous les actes en niveau Vétéran",
+                    "it-IT": "Completa tutti gli atti in livello Difficile",
+                    "ja-JP": "難易度 Hardcore で全 Act をクリア",
+                    "ko-KR": "모든 액트를 난이도 어려움으로 완료",
+                    "zh-CHT": "以困難難度完成所有任務"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "13.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "1. Akt auf \"Wahnsinnig\" beendet",
+                    "en-US": "Completed Act 1 on Insane",
+                    "es-ES": "Acto 1 completado en Locura",
+                    "fr-FR": "Acte 1 terminé en Dément",
+                    "it-IT": "Atto 1 completato in Folle",
+                    "ja-JP": "Act 1 クリア (Insane)",
+                    "ko-KR": "액트 1을 매우 어려움으로 완료",
+                    "zh-CHT": "以瘋狂難度完成任務 1"
+                },
+                "description": {
+                    "de-DE": "1. Akt auf Schwierigkeit \"Wahnsinnig\" beenden",
+                    "en-US": "Complete Act 1 on Insane Difficulty",
+                    "es-ES": "Acto 1 completado en dificultad Locura",
+                    "fr-FR": "Terminez l'acte 1 en niveau Dément",
+                    "it-IT": "Completa atto 1 in livello Folle",
+                    "ja-JP": "難易度 Insane で Act 1 をクリア",
+                    "ko-KR": "액트 1을 난이도 매우 어려움으로 완료",
+                    "zh-CHT": "以瘋狂難度完成任務 1"
+                },
+                "howto": {
+                    "de-DE": "1. Akt auf Schwierigkeit \"Wahnsinnig\" beenden",
+                    "en-US": "Complete Act 1 on Insane Difficulty",
+                    "es-ES": "Acto 1 completado en dificultad Locura",
+                    "fr-FR": "Terminez l'acte 1 en niveau Dément",
+                    "it-IT": "Completa atto 1 in livello Folle",
+                    "ja-JP": "難易度 Insane で Act 1 をクリア",
+                    "ko-KR": "액트 1을 난이도 매우 어려움으로 완료",
+                    "zh-CHT": "以瘋狂難度完成任務 1"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "30",
+            "imageId": "14.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "de-DE": "2. Akt auf \"Wahnsinnig\" beendet",
+                    "en-US": "Completed Act 2 on Insane",
+                    "es-ES": "Acto 2 completado en Locura",
+                    "fr-FR": "Acte 2 terminé en Dément",
+                    "it-IT": "Atto 2 completato in Folle",
+                    "ja-JP": "Act 2 クリア (Insane)",
+                    "ko-KR": "액트 2를 매우 어려움으로 완료",
+                    "zh-CHT": "以瘋狂難度完成任務 2"
+                },
+                "description": {
+                    "de-DE": "2. Akt auf Schwierigkeit \"Wahnsinnig\" beenden",
+                    "en-US": "Complete Act 2 on Insane Difficulty",
+                    "es-ES": "Acto 2 completado en dificultad Locura",
+                    "fr-FR": "Terminez l'acte 2 en niveau Dément",
+                    "it-IT": "Completa atto 2 in livello Folle",
+                    "ja-JP": "難易度 Insane で Act 2 をクリア",
+                    "ko-KR": "액트 2를 난이도 매우 어려움으로 완료",
+                    "zh-CHT": "以瘋狂難度完成任務 2"
+                },
+                "howto": {
+                    "de-DE": "2. Akt auf Schwierigkeit \"Wahnsinnig\" beenden",
+                    "en-US": "Complete Act 2 on Insane Difficulty",
+                    "es-ES": "Acto 2 completado en dificultad Locura",
+                    "fr-FR": "Terminez l'acte 2 en niveau Dément",
+                    "it-IT": "Completa atto 2 in livello Folle",
+                    "ja-JP": "難易度 Insane で Act 2 をクリア",
+                    "ko-KR": "액트 2를 난이도 매우 어려움으로 완료",
+                    "zh-CHT": "以瘋狂難度完成任務 2"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "30",
+            "imageId": "15.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "3. Akt auf \"Wahnsinnig\" beendet",
+                    "en-US": "Completed Act 3 on Insane",
+                    "es-ES": "Acto 3 completado en Locura",
+                    "fr-FR": "Acte 3 terminé en Dément",
+                    "it-IT": "Atto 3 completato in Folle",
+                    "ja-JP": "Act 3 クリア (Insane)",
+                    "ko-KR": "액트 3을 매우 어려움으로 완료",
+                    "zh-CHT": "以瘋狂難度完成任務 3"
+                },
+                "description": {
+                    "de-DE": "3. Akt auf Schwierigkeit \"Wahnsinnig\" beenden",
+                    "en-US": "Complete Act 3 on Insane Difficulty",
+                    "es-ES": "Acto 3 completado en dificultad Locura",
+                    "fr-FR": "Terminez l'acte 3 en niveau Dément",
+                    "it-IT": "Completa atto 3 in livello Folle",
+                    "ja-JP": "難易度 Insane で Act 3 をクリア",
+                    "ko-KR": "액트 3을 난이도 매우 어려움으로 완료",
+                    "zh-CHT": "以瘋狂難度完成任務 3"
+                },
+                "howto": {
+                    "de-DE": "3. Akt auf Schwierigkeit \"Wahnsinnig\" beenden",
+                    "en-US": "Complete Act 3 on Insane Difficulty",
+                    "es-ES": "Acto 3 completado en dificultad Locura",
+                    "fr-FR": "Terminez l'acte 3 en niveau Dément",
+                    "it-IT": "Completa atto 3 in livello Folle",
+                    "ja-JP": "難易度 Insane で Act 3 をクリア",
+                    "ko-KR": "액트 3을 난이도 매우 어려움으로 완료",
+                    "zh-CHT": "以瘋狂難度完成任務 3"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "30",
+            "imageId": "16.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "4. Akt auf \"Wahnsinnig\" beendet",
+                    "en-US": "Completed Act 4 on Insane",
+                    "es-ES": "Acto 4 completado en Locura",
+                    "fr-FR": "Acte 4 terminé en Dément",
+                    "it-IT": "Atto 4 completato in Folle",
+                    "ja-JP": "Act 4 クリア (Insane)",
+                    "ko-KR": "액트 4를 매우 어려움으로 완료",
+                    "zh-CHT": "以瘋狂難度完成任務 4"
+                },
+                "description": {
+                    "de-DE": "4. Akt auf Schwierigkeit \"Wahnsinnig\" beenden",
+                    "en-US": "Complete Act 4 on Insane Difficulty",
+                    "es-ES": "Acto 4 completado en dificultad Locura",
+                    "fr-FR": "Terminez l'acte 4 en niveau Dément",
+                    "it-IT": "Completa atto 4 in livello Folle",
+                    "ja-JP": "難易度 Insane で Act 4 をクリア",
+                    "ko-KR": "액트 4를 난이도 매우 어려움으로 완료",
+                    "zh-CHT": "以瘋狂難度完成任務 4"
+                },
+                "howto": {
+                    "de-DE": "4. Akt auf Schwierigkeit \"Wahnsinnig\" beenden",
+                    "en-US": "Complete Act 4 on Insane Difficulty",
+                    "es-ES": "Acto 4 completado en dificultad Locura",
+                    "fr-FR": "Terminez l'acte 4 en niveau Dément",
+                    "it-IT": "Completa atto 4 in livello Folle",
+                    "ja-JP": "難易度 Insane で Act 4 をクリア",
+                    "ko-KR": "액트 4를 난이도 매우 어려움으로 완료",
+                    "zh-CHT": "以瘋狂難度完成任務 4"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "30",
+            "imageId": "17.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "de-DE": "5. Akt auf \"Wahnsinnig\" beendet",
+                    "en-US": "Completed Act 5 on Insane",
+                    "es-ES": "Acto 5 completado en Locura",
+                    "fr-FR": "Acte 5 terminé en Dément",
+                    "it-IT": "Atto 5 completato in Folle",
+                    "ja-JP": "Act 5 クリア (Insane)",
+                    "ko-KR": "액트 5를 매우 어려움으로 완료",
+                    "zh-CHT": "以瘋狂難度完成任務 5"
+                },
+                "description": {
+                    "de-DE": "5. Akt auf Schwierigkeit \"Wahnsinnig\" beenden",
+                    "en-US": "Complete Act 5 on Insane Difficulty",
+                    "es-ES": "Acto 5 completado en dificultad Locura",
+                    "fr-FR": "Terminez l'acte 5 en niveau Dément",
+                    "it-IT": "Completa atto 5 in livello Folle",
+                    "ja-JP": "難易度 Insane で Act 5 をクリア",
+                    "ko-KR": "액트 5를 난이도 매우 어려움으로 완료",
+                    "zh-CHT": "以瘋狂難度完成任務 5"
+                },
+                "howto": {
+                    "de-DE": "5. Akt auf Schwierigkeit \"Wahnsinnig\" beenden",
+                    "en-US": "Complete Act 5 on Insane Difficulty",
+                    "es-ES": "Acto 5 completado en dificultad Locura",
+                    "fr-FR": "Terminez l'acte 5 en niveau Dément",
+                    "it-IT": "Completa atto 5 in livello Folle",
+                    "ja-JP": "難易度 Insane で Act 5 をクリア",
+                    "ko-KR": "액트 5를 난이도 매우 어려움으로 완료",
+                    "zh-CHT": "以瘋狂難度完成任務 5"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "30",
+            "imageId": "18.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "Kommando",
+                    "en-US": "Commando",
+                    "es-ES": "Comando",
+                    "fr-FR": "Commando",
+                    "it-IT": "Commando",
+                    "ja-JP": "コマンドー",
+                    "ko-KR": "특수부대",
+                    "zh-CHT": "突擊精英"
+                },
+                "description": {
+                    "de-DE": "Alle Akte auf Schwierigkeit \"Wahnsinnig\" beenden",
+                    "en-US": "Complete all acts on Insane Difficulty",
+                    "es-ES": "Complete todos los actos en dificultad Locura",
+                    "fr-FR": "Terminez tous les actes en niveau Dément",
+                    "it-IT": "Completa tutti gli atti in livello Folle",
+                    "ja-JP": "難易度 Insane で全 Act をクリア",
+                    "ko-KR": "모든 액트를 난이도 매우 어려움으로 완료",
+                    "zh-CHT": "以瘋狂難度完成所有任務"
+                },
+                "howto": {
+                    "de-DE": "Alle Akte auf Schwierigkeit \"Wahnsinnig\" beenden",
+                    "en-US": "Complete all acts on Insane Difficulty",
+                    "es-ES": "Complete todos los actos en dificultad Locura",
+                    "fr-FR": "Terminez tous les actes en niveau Dément",
+                    "it-IT": "Completa tutti gli atti in livello Folle",
+                    "ja-JP": "難易度 Insane で全 Act をクリア",
+                    "ko-KR": "모든 액트를 난이도 매우 어려움으로 완료",
+                    "zh-CHT": "以瘋狂難度完成所有任務"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "30",
+            "imageId": "19.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "Denkwürdige Zeit",
+                    "en-US": "Time to Remember",
+                    "es-ES": "Momento para recordar",
+                    "fr-FR": "L'heure du souvenir",
+                    "it-IT": "A futura memoria",
+                    "ja-JP": "遺品",
+                    "ko-KR": "추모",
+                    "zh-CHT": "光榮時刻的回憶"
+                },
+                "description": {
+                    "de-DE": "Ein Drittel der KOR-Marken sammeln (Schwierigkeit egal)",
+                    "en-US": "Recover one-third of the COG tags (on any difficulty)",
+                    "es-ES": "Recupere un tercio de las placas de identificación de CGO (en cualquier dificultad)",
+                    "fr-FR": "Récupérez un tiers des plaques CGU (quelle que soit la difficulté)",
+                    "it-IT": "Recupera un terzo delle piastrine COG (qualsiasi difficoltà)",
+                    "ja-JP": "全 COG タグの 1/3 を回収 (難易度は任意)",
+                    "ko-KR": "COG 인식표의 3분의 1을 모음 (난이도 상관 없음)",
+                    "zh-CHT": "找回三分之一的戰士兵籍牌 (任何難度)"
+                },
+                "howto": {
+                    "de-DE": "Ein Drittel der KOR-Marken sammeln (Schwierigkeit egal)",
+                    "en-US": "Recover one-third of the COG tags (on any difficulty)",
+                    "es-ES": "Recupere un tercio de las placas de identificación de CGO (en cualquier dificultad)",
+                    "fr-FR": "Récupérez un tiers des plaques CGU (quelle que soit la difficulté)",
+                    "it-IT": "Recupera un terzo delle piastrine COG (qualsiasi difficoltà)",
+                    "ja-JP": "全 COG タグの 1/3 を回収 (難易度は任意)",
+                    "ko-KR": "COG 인식표의 3분의 1을 모음 (난이도 상관 없음)",
+                    "zh-CHT": "找回三分之一的戰士兵籍牌 (任何難度)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "20.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "Ehrensache",
+                    "en-US": "Honor-Bound",
+                    "es-ES": "Obligación",
+                    "fr-FR": "Frères d'armes",
+                    "it-IT": "Patto d'onore",
+                    "ja-JP": "哀惜",
+                    "ko-KR": "명예를 위해서",
+                    "zh-CHT": "戰士的榮耀"
+                },
+                "description": {
+                    "de-DE": "Zwei Drittel der KOR-Marken sammeln (Schwierigkeit egal)",
+                    "en-US": "Recover two-thirds of the COG tags (on any difficulty)",
+                    "es-ES": "Recupere dos tercios de las placas de identificación de CGO (en cualquier dificultad)",
+                    "fr-FR": "Récupérez les deux tiers des plaques CGU (quelle que soit la difficulté)",
+                    "it-IT": "Recupera due terzi delle piastrine COG (qualsiasi difficoltà)",
+                    "ja-JP": "全 COG タグの 2/3 を回収 (難易度は任意)",
+                    "ko-KR": "COG 인식표의 3분의 2를 모음 (난이도 상관 없음)",
+                    "zh-CHT": "找回三分之二的戰士兵籍牌 (任何難度)"
+                },
+                "howto": {
+                    "de-DE": "Zwei Drittel der KOR-Marken sammeln (Schwierigkeit egal)",
+                    "en-US": "Recover two-thirds of the COG tags (on any difficulty)",
+                    "es-ES": "Recupere dos tercios de las placas de identificación de CGO (en cualquier dificultad)",
+                    "fr-FR": "Récupérez les deux tiers des plaques CGU (quelle que soit la difficulté)",
+                    "it-IT": "Recupera due terzi delle piastrine COG (qualsiasi difficoltà)",
+                    "ja-JP": "全 COG タグの 2/3 を回収 (難易度は任意)",
+                    "ko-KR": "COG 인식표의 3분의 2를 모음 (난이도 상관 없음)",
+                    "zh-CHT": "找回三分之二的戰士兵籍牌 (任何難度)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "21.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "de-DE": "Für die Gefallenen",
+                    "en-US": "For the Fallen",
+                    "es-ES": "Por los caídos",
+                    "fr-FR": "Honneur aux morts",
+                    "it-IT": "Per i caduti",
+                    "ja-JP": "追悼",
+                    "ko-KR": "전몰자를 위해서",
+                    "zh-CHT": "獻給陣亡將士"
+                },
+                "description": {
+                    "de-DE": "Alle KOR-Marken sammeln (Schwierigkeit egal)",
+                    "en-US": "Recover all of the COG tags (on any difficulty)",
+                    "es-ES": "Recupere todas las placas de identificación de CGO (en cualquier dificultad)",
+                    "fr-FR": "Récupérez toutes les plaques CGU (quelle que soit la difficulté)",
+                    "it-IT": "Recupera tutte le piastrine COG (qualsiasi difficoltà)",
+                    "ja-JP": "全 COG タグを回収 (難易度は任意)",
+                    "ko-KR": "COG 인식표를 모두 모음 (난이도 상관 없음)",
+                    "zh-CHT": "找回所有的戰士兵籍牌 (任何難度)"
+                },
+                "howto": {
+                    "de-DE": "Alle KOR-Marken sammeln (Schwierigkeit egal)",
+                    "en-US": "Recover all of the COG tags (on any difficulty)",
+                    "es-ES": "Recupere todas las placas de identificación de CGO (en cualquier dificultad)",
+                    "fr-FR": "Récupérez toutes les plaques CGU (quelle que soit la difficulté)",
+                    "it-IT": "Recupera tutte le piastrine COG (qualsiasi difficoltà)",
+                    "ja-JP": "全 COG タグを回収 (難易度は任意)",
+                    "ko-KR": "COG 인식표를 모두 모음 (난이도 상관 없음)",
+                    "zh-CHT": "找回所有的戰士兵籍牌 (任何難度)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "22.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "Ich liebe dich wie ein LKW",
+                    "en-US": "My Love for You Is Like a Truck",
+                    "es-ES": "Mi amor por ti es inmenso",
+                    "fr-FR": "Je t'aime comme un camion",
+                    "it-IT": "Il mio amore è a prova di bomba",
+                    "ja-JP": "ベルセルク ハンター",
+                    "ko-KR": "너를 향한 나의 사랑은 트럭과 같지",
+                    "zh-CHT": "狂暴女獸人剋星"
+                },
+                "description": {
+                    "de-DE": "Berserkerin auf Schwierigkeit \"Hardcore\" besiegen",
+                    "en-US": "Defeat a Berserker on Hardcore Difficulty",
+                    "es-ES": "Derrote a una Berserker en el nivel de dificultad Elevada",
+                    "fr-FR": "Battez une berseker en niveau Vétéran",
+                    "it-IT": "Sconfiggi un Berserker in livello Difficile",
+                    "ja-JP": "難易度 Hardcore でベルセルクを撃破",
+                    "ko-KR": "난이도 어려움에서 버서커를 죽임",
+                    "zh-CHT": "在瘋狂的難度下擊敗狂暴女獸人"
+                },
+                "howto": {
+                    "de-DE": "Berserkerin auf Schwierigkeit \"Hardcore\" besiegen",
+                    "en-US": "Defeat a Berserker on Hardcore Difficulty",
+                    "es-ES": "Derrote a una Berserker en el nivel de dificultad Elevada",
+                    "fr-FR": "Battez une berseker en niveau Vétéran",
+                    "it-IT": "Sconfiggi un Berserker in livello Difficile",
+                    "ja-JP": "難易度 Hardcore でベルセルクを撃破",
+                    "ko-KR": "난이도 어려움에서 버서커를 죽임",
+                    "zh-CHT": "在瘋狂的難度下擊敗狂暴女獸人"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "23.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "Gebrochene Finger",
+                    "en-US": "Broken Fingers",
+                    "es-ES": "Dedos rotos",
+                    "fr-FR": "Doigts cassés",
+                    "it-IT": "Dita rotte",
+                    "ja-JP": "コープサー ハンター",
+                    "ko-KR": "부러진 손가락",
+                    "zh-CHT": "潛地獸獵人"
+                },
+                "description": {
+                    "de-DE": "Corpser auf Schwierigkeit \"Hardcore\" besiegen",
+                    "en-US": "Defeat a Corpser on Hardcore Difficulty",
+                    "es-ES": "Derrote a un Corpser en el nivel de dificultad Elevada",
+                    "fr-FR": "Battez un corpser en niveau Vétéran",
+                    "it-IT": "Sconfiggi un Corpser in livello Difficile",
+                    "ja-JP": "難易度 Hardcore でコープサーを撃破",
+                    "ko-KR": "난이도 어려움에서 콥서를 죽임",
+                    "zh-CHT": "在困難的難度下擊敗潛地獸"
+                },
+                "howto": {
+                    "de-DE": "Corpser auf Schwierigkeit \"Hardcore\" besiegen",
+                    "en-US": "Defeat a Corpser on Hardcore Difficulty",
+                    "es-ES": "Derrote a un Corpser en el nivel de dificultad Elevada",
+                    "fr-FR": "Battez un corpser en niveau Vétéran",
+                    "it-IT": "Sconfiggi un Corpser in livello Difficile",
+                    "ja-JP": "難易度 Hardcore でコープサーを撃破",
+                    "ko-KR": "난이도 어려움에서 콥서를 죽임",
+                    "zh-CHT": "在困難的難度下擊敗潛地獸"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "24.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Am besten kalt servieren",
+                    "en-US": "A Dish Best Served Cold",
+                    "es-ES": "Plato que se sirve mejor frío",
+                    "fr-FR": "Rira bien qui rira le dernier",
+                    "it-IT": "Un piatto servito freddo",
+                    "ja-JP": "冷血",
+                    "ko-KR": "차가울 때 드세요",
+                    "zh-CHT": "蘭姆將軍的剋星"
+                },
+                "description": {
+                    "de-DE": "General RAAM auf Schwierigkeit \"Hardcore\" besiegen",
+                    "en-US": "Defeat General RAAM on Hardcore Difficulty",
+                    "es-ES": "Derrote al general RAAM en el nivel de dificultad Elevada",
+                    "fr-FR": "Battez le Général RAAM en niveau Vétéran",
+                    "it-IT": "Sconfiggi il Generale RAAM in livello Difficile",
+                    "ja-JP": "難易度 Hardcore でラーム将軍を撃破",
+                    "ko-KR": "난이도 어려움에서 라암 장군을 죽임",
+                    "zh-CHT": "在困難的難度下擊敗蘭姆將軍"
+                },
+                "howto": {
+                    "de-DE": "General RAAM auf Schwierigkeit \"Hardcore\" besiegen",
+                    "en-US": "Defeat General RAAM on Hardcore Difficulty",
+                    "es-ES": "Derrote al general RAAM en el nivel de dificultad Elevada",
+                    "fr-FR": "Battez le Général RAAM en niveau Vétéran",
+                    "it-IT": "Sconfiggi il Generale RAAM in livello Difficile",
+                    "ja-JP": "難易度 Hardcore でラーム将軍を撃破",
+                    "ko-KR": "난이도 어려움에서 라암 장군을 죽임",
+                    "zh-CHT": "在困難的難度下擊敗蘭姆將軍"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "25.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "Zen und die Kunst des Nachladens",
+                    "en-US": "Zen and the Art of Reloading",
+                    "es-ES": "Zen y el arte de recargar",
+                    "fr-FR": "L'art du rechargement zen",
+                    "it-IT": "Lo zen e l'arte di ricaricare",
+                    "ja-JP": "リロードの極意",
+                    "ko-KR": "도의 경지에 오른 재장전",
+                    "zh-CHT": "裝填好手"
+                },
+                "description": {
+                    "de-DE": "25 mal \"Aktives Nachladen\" (Schwierigkeit egal)",
+                    "en-US": "Perform 25 perfect active reloads (on any difficulty)",
+                    "es-ES": "Realice 25 recargas activas perfectas (en cualquier dificultad)",
+                    "fr-FR": "Effectuez 25 rechargements éclairs parfaits (quelle que soit la difficulté)",
+                    "it-IT": "Esegui 25 ricariche attive (qualsiasi difficoltà)",
+                    "ja-JP": "アクティブ リロードでパーフェクトを 25 回達成 (難易度は任意)",
+                    "ko-KR": "25번의 빠른 재장전을 수행 (난이도 상관 없음)",
+                    "zh-CHT": "完成 25 次完美的主動裝填彈藥動作 (任何難度)"
+                },
+                "howto": {
+                    "de-DE": "25 mal \"Aktives Nachladen\" (Schwierigkeit egal)",
+                    "en-US": "Perform 25 perfect active reloads (on any difficulty)",
+                    "es-ES": "Realice 25 recargas activas perfectas (en cualquier dificultad)",
+                    "fr-FR": "Effectuez 25 rechargements éclairs parfaits (quelle que soit la difficulté)",
+                    "it-IT": "Esegui 25 ricariche attive (qualsiasi difficoltà)",
+                    "ja-JP": "アクティブ リロードでパーフェクトを 25 回達成 (難易度は任意)",
+                    "ko-KR": "25번의 빠른 재장전을 수행 (난이도 상관 없음)",
+                    "zh-CHT": "完成 25 次完美的主動裝填彈藥動作 (任何難度)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "26.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "Zen und die Kunst Teil 2",
+                    "en-US": "Zen and the Art Part 2",
+                    "es-ES": "Zen y el arte de recargar (2)",
+                    "fr-FR": "L'art zen partie 2",
+                    "it-IT": "Lo zen e l'arte, il ritorno",
+                    "ja-JP": "リロードの極意 2",
+                    "ko-KR": "신의 경지에 오른 재장전",
+                    "zh-CHT": "裝填高手"
+                },
+                "description": {
+                    "de-DE": "25 mal \"Aktives Nachladen\" nacheinander (Schwierigkeit egal)",
+                    "en-US": "Perform 5 perfect active reloads in a row (on any difficulty)",
+                    "es-ES": "Realice 5 recargas activas perfectas seguidas (en cualquier dificultad)",
+                    "fr-FR": "Effectuez 5 rechargements éclairs parfaits de suite (quelle que soit la difficulté)",
+                    "it-IT": "Esegui 5 ricariche attive perfette consecutivamente (qualsiasi difficoltà)",
+                    "ja-JP": "アクティブ リロードでパーフェクトを 5 回連続で達成 (難易度は任意)",
+                    "ko-KR": "5번의 빠른 재장전을 연속으로 수행 (난이도 상관 없음)",
+                    "zh-CHT": "連續完成 5 次完美的主動裝填彈藥動作 (任何難度)"
+                },
+                "howto": {
+                    "de-DE": "25 mal \"Aktives Nachladen\" nacheinander (Schwierigkeit egal)",
+                    "en-US": "Perform 5 perfect active reloads in a row (on any difficulty)",
+                    "es-ES": "Realice 5 recargas activas perfectas seguidas (en cualquier dificultad)",
+                    "fr-FR": "Effectuez 5 rechargements éclairs parfaits de suite (quelle que soit la difficulté)",
+                    "it-IT": "Esegui 5 ricariche attive perfette consecutivamente (qualsiasi difficoltà)",
+                    "ja-JP": "アクティブ リロードでパーフェクトを 5 回連続で達成 (難易度は任意)",
+                    "ko-KR": "5번의 빠른 재장전을 연속으로 수행 (난이도 상관 없음)",
+                    "zh-CHT": "連續完成 5 次完美的主動裝填彈藥動作 (任何難度)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "27.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "Drei auf einen Streich",
+                    "en-US": "Clusterluck",
+                    "es-ES": "Suerte en grupo",
+                    "fr-FR": "Tir groupé",
+                    "it-IT": "Mucchio selvaggio",
+                    "ja-JP": "大量殺りく",
+                    "ko-KR": "운 좋은 날",
+                    "zh-CHT": "運氣勳章"
+                },
+                "description": {
+                    "de-DE": "10 mal 3 Feinde gleichzeitig eliminieren (Schwierigkeit egal)",
+                    "en-US": "Kill 3 enemies at once 10 different times (on any difficulty)",
+                    "es-ES": "Mate a 3 enemigos de una vez en 10 ocasiones diferentes (en cualquier dificultad)",
+                    "fr-FR": "Tuez 10 fois 3 ennemis d'un coup (quelle que soit la difficulté)",
+                    "it-IT": "Uccidi 3 nemici contemporaneamente per 10 volte (qualsiasi difficoltà)",
+                    "ja-JP": "同時に 3 人の敵を倒すトリプルキルを 10 回達成 (難易度は任意)",
+                    "ko-KR": "한 번에 3명을 죽이는 공격을 10번 수행함 (난이도 상관 없음)",
+                    "zh-CHT": "在 10 個不同的時間點裡，一次擊斃 3 個敵人 (任何難度)"
+                },
+                "howto": {
+                    "de-DE": "10 mal 3 Feinde gleichzeitig eliminieren (Schwierigkeit egal)",
+                    "en-US": "Kill 3 enemies at once 10 different times (on any difficulty)",
+                    "es-ES": "Mate a 3 enemigos de una vez en 10 ocasiones diferentes (en cualquier dificultad)",
+                    "fr-FR": "Tuez 10 fois 3 ennemis d'un coup (quelle que soit la difficulté)",
+                    "it-IT": "Uccidi 3 nemici contemporaneamente per 10 volte (qualsiasi difficoltà)",
+                    "ja-JP": "同時に 3 人の敵を倒すトリプルキルを 10 回達成 (難易度は任意)",
+                    "ko-KR": "한 번에 3명을 죽이는 공격을 10번 수행함 (난이도 상관 없음)",
+                    "zh-CHT": "在 10 個不同的時間點裡，一次擊斃 3 個敵人 (任何難度)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "28.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "Eine Reihe von Röhren",
+                    "en-US": "A Series of Tubes",
+                    "es-ES": "Una serie de tubos",
+                    "fr-FR": "Une série de tubes",
+                    "it-IT": "Serie di tubi",
+                    "ja-JP": "歴戦の猛者",
+                    "ko-KR": "계속되는 전장",
+                    "zh-CHT": "超級主持人"
+                },
+                "description": {
+                    "de-DE": "50 Ranglisten-Spiele austragen und beenden",
+                    "en-US": "Host and complete 50 ranked matches",
+                    "es-ES": "Sea el anfitrión de 50 partidas igualadas y complételas",
+                    "fr-FR": "Hébergez et terminez 50 parties avec classement",
+                    "it-IT": "Ospita e completa 50 partite classificate",
+                    "ja-JP": "ランク マッチを 50 回ホストして最後までプレイ",
+                    "ko-KR": "50번의 랭킹 매치를 호스트",
+                    "zh-CHT": "主持並完成 50 個等級配對"
+                },
+                "howto": {
+                    "de-DE": "50 Ranglisten-Spiele austragen und beenden",
+                    "en-US": "Host and complete 50 ranked matches",
+                    "es-ES": "Sea el anfitrión de 50 partidas igualadas y complételas",
+                    "fr-FR": "Hébergez et terminez 50 parties avec classement",
+                    "it-IT": "Ospita e completa 50 partite classificate",
+                    "ja-JP": "ランク マッチを 50 回ホストして最後までプレイ",
+                    "ko-KR": "50번의 랭킹 매치를 호스트",
+                    "zh-CHT": "主持並完成 50 個等級配對"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "29.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Ver-Dom-t neugierig",
+                    "en-US": "Dom-curious",
+                    "es-ES": "Curioso de Dom",
+                    "fr-FR": "Dom-mage",
+                    "it-IT": "Cugino Dom",
+                    "ja-JP": "ドム ビギナー",
+                    "ko-KR": "초보 도미닉",
+                    "zh-CHT": "新兵戰士"
+                },
+                "description": {
+                    "de-DE": "1 Co-op-Kapitel als Dominic Santiago beenden (Schwierigkeit egal)",
+                    "en-US": "Complete 1 co-op chapter as Dominic Santiago on any difficulty",
+                    "es-ES": "Complete 1 capítulo cooperativo en el papel de Dominic Santiago en cualquier dificultad",
+                    "fr-FR": "Terminez 1 chapitre en co-op en tant que Dominic Santiago (quelle que soit la difficulté)",
+                    "it-IT": "Completa un capitolo co-op come Dominic Santiago in qualsiasi difficoltà",
+                    "ja-JP": "ドミニク サンチャゴとして協力プレイの 1 チャプターをクリア (難易度は任意)",
+                    "ko-KR": "협동 게임에서 도미닉 산티아고로 한 개의 챕터를 완료 (난이도 상관 없음)",
+                    "zh-CHT": "以多明尼克聖提亞哥，完成 1 個任一難度的合作遊戲章節"
+                },
+                "howto": {
+                    "de-DE": "1 Co-op-Kapitel als Dominic Santiago beenden (Schwierigkeit egal)",
+                    "en-US": "Complete 1 co-op chapter as Dominic Santiago on any difficulty",
+                    "es-ES": "Complete 1 capítulo cooperativo en el papel de Dominic Santiago en cualquier dificultad",
+                    "fr-FR": "Terminez 1 chapitre en co-op en tant que Dominic Santiago (quelle que soit la difficulté)",
+                    "it-IT": "Completa un capitolo co-op come Dominic Santiago in qualsiasi difficoltà",
+                    "ja-JP": "ドミニク サンチャゴとして協力プレイの 1 チャプターをクリア (難易度は任意)",
+                    "ko-KR": "협동 게임에서 도미닉 산티아고로 한 개의 챕터를 완료 (난이도 상관 없음)",
+                    "zh-CHT": "以多明尼克聖提亞哥，完成 1 個任一難度的合作遊戲章節"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "30.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Domination",
+                    "en-US": "Domination",
+                    "es-ES": "Dominación",
+                    "fr-FR": "Domination",
+                    "it-IT": "Dominazione",
+                    "ja-JP": "ドム エリート",
+                    "ko-KR": "고수 도미닉",
+                    "zh-CHT": "最佳隊友"
+                },
+                "description": {
+                    "de-DE": "10 verschiedene Co-op-Kapitel als Dominic Santiago beenden (Schwierigkeit egal)",
+                    "en-US": "Complete 10 different co-op chapters as Dominic Santiago on any difficulty",
+                    "es-ES": "Complete 10 capítulos cooperativos en el papel de Dominic Santiago en cualquier dificultad",
+                    "fr-FR": "Terminez 10 chapitres différents en co-op en tant que Dominic Santiago (peu importe la difficulté)",
+                    "it-IT": "Completa dieci capitoli co-op come Dominic Santiago in qualsiasi difficoltà",
+                    "ja-JP": "ドミニク サンチャゴとして協力プレイの 10 チャプターをクリア (難易度は任意)",
+                    "ko-KR": "협동 게임에서 도미닉 산티아고로 10개의 챕터를 완료 (난이도 상관 없음)",
+                    "zh-CHT": "以多明尼克聖提亞哥，完成 10 個任一難度的合作遊戲章節"
+                },
+                "howto": {
+                    "de-DE": "10 verschiedene Co-op-Kapitel als Dominic Santiago beenden (Schwierigkeit egal)",
+                    "en-US": "Complete 10 different co-op chapters as Dominic Santiago on any difficulty",
+                    "es-ES": "Complete 10 capítulos cooperativos en el papel de Dominic Santiago en cualquier dificultad",
+                    "fr-FR": "Terminez 10 chapitres différents en co-op en tant que Dominic Santiago (peu importe la difficulté)",
+                    "it-IT": "Completa dieci capitoli co-op come Dominic Santiago in qualsiasi difficoltà",
+                    "ja-JP": "ドミニク サンチャゴとして協力プレイの 10 チャプターをクリア (難易度は任意)",
+                    "ko-KR": "협동 게임에서 도미닉 산티아고로 10개의 챕터를 완료 (난이도 상관 없음)",
+                    "zh-CHT": "以多明尼克聖提亞哥，完成 10 個任一難度的合作遊戲章節"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "31.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Dom, ich kann nicht ohne dich",
+                    "en-US": "I Can't Quit You Dom",
+                    "es-ES": "No puedo dejarte, Dom",
+                    "fr-FR": "À la vie, à la mort, Dom",
+                    "it-IT": "Non mollare, Dom",
+                    "ja-JP": "ドム マスター",
+                    "ko-KR": "널 떠날 수 없어, 도미닉",
+                    "zh-CHT": "完美團隊"
+                },
+                "description": {
+                    "de-DE": "Alle Akte in Co-op als Dominic Santiago beenden (Schwierigkeit egal)",
+                    "en-US": "Complete all acts in co-op as Dominic Santiago on any difficulty",
+                    "es-ES": "Como Dominic Santiago, complete todos los actos del modo cooperativo en cualquier dificultad.",
+                    "fr-FR": "Terminez tous les actes en co-op en tant que Dominic Santiago (quelle que soit la difficulté)",
+                    "it-IT": "Completa tutti gli atti in modalità co-op come Dominic Santiago in qualsiasi difficoltà",
+                    "ja-JP": "ドミニク サンチャゴとして協力プレイの全 Act をクリア (難易度は任意)",
+                    "ko-KR": "협동 게임에서 도미닉 산티아고로 모든 챕터를 완료 (난이도 상관 없음)",
+                    "zh-CHT": "扮演多姆，在任一難度裡完成多人遊戲的所有任務"
+                },
+                "howto": {
+                    "de-DE": "Alle Akte in Co-op als Dominic Santiago beenden (Schwierigkeit egal)",
+                    "en-US": "Complete all acts in co-op as Dominic Santiago on any difficulty",
+                    "es-ES": "Como Dominic Santiago, complete todos los actos del modo cooperativo en cualquier dificultad.",
+                    "fr-FR": "Terminez tous les actes en co-op en tant que Dominic Santiago (quelle que soit la difficulté)",
+                    "it-IT": "Completa tutti gli atti in modalità co-op come Dominic Santiago in qualsiasi difficoltà",
+                    "ja-JP": "ドミニク サンチャゴとして協力プレイの全 Act をクリア (難易度は任意)",
+                    "ko-KR": "협동 게임에서 도미닉 산티아고로 모든 챕터를 완료 (난이도 상관 없음)",
+                    "zh-CHT": "扮演多姆，在任一難度裡完成多人遊戲的所有任務"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "32.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Du darfst nicht sterben",
+                    "en-US": "Don't You Die On Me",
+                    "es-ES": "No mueras por mí",
+                    "fr-FR": "Accroche-toi, petit",
+                    "it-IT": "Prometti di non morire",
+                    "ja-JP": "ライフ セイバー",
+                    "ko-KR": "날 놔두고 죽지 마",
+                    "zh-CHT": "隊友救星"
+                },
+                "description": {
+                    "de-DE": "100 Kameraden in Ranglisten-Spielen beleben",
+                    "en-US": "Revive 100 teammates in ranked matches",
+                    "es-ES": "Reanime a 100 compañeros en partidas igualadas",
+                    "fr-FR": "Réanimez 100 co-équipiers lors de parties avec classement",
+                    "it-IT": "Rianima 100 compagni di squadra in partite classificate",
+                    "ja-JP": "ランク マッチで味方回復を 100 回達成",
+                    "ko-KR": "랭킹 매치에서 100명의 동료를 회복시킴",
+                    "zh-CHT": "在等級配對中喚醒 100 名隊友"
+                },
+                "howto": {
+                    "de-DE": "100 Kameraden in Ranglisten-Spielen beleben",
+                    "en-US": "Revive 100 teammates in ranked matches",
+                    "es-ES": "Reanime a 100 compañeros en partidas igualadas",
+                    "fr-FR": "Réanimez 100 co-équipiers lors de parties avec classement",
+                    "it-IT": "Rianima 100 compagni di squadra in partite classificate",
+                    "ja-JP": "ランク マッチで味方回復を 100 回達成",
+                    "ko-KR": "랭킹 매치에서 100명의 동료를 회복시킴",
+                    "zh-CHT": "在等級配對中喚醒 100 名隊友"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "33.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "Auf den Boden und bumm!",
+                    "en-US": "Fall Down Go Boom",
+                    "es-ES": "Cae y explota",
+                    "fr-FR": "On s'éclate à la grenade",
+                    "it-IT": "Boom Boom",
+                    "ja-JP": "ブーム マスター",
+                    "ko-KR": "붐샷 마니아",
+                    "zh-CHT": "榴彈高手"
+                },
+                "description": {
+                    "de-DE": "100 Feinde in Ranglisten-Spielen mit Boomshot eliminieren",
+                    "en-US": "Kill 100 enemies in ranked matches with the Boomshot",
+                    "es-ES": "Mate a 100 enemigos en partidas igualadas con el lanzagranadas triple",
+                    "fr-FR": "Tuez 100 ennemis avec le lance-grenades lors de parties avec classement",
+                    "it-IT": "Uccidi 100 nemici con il Boomshot in partite classificate",
+                    "ja-JP": "ランク マッチでブームショットにより 100 キル達成",
+                    "ko-KR": "랭킹 매치에서 붐샷으로 100명의 적을 사살",
+                    "zh-CHT": "以榴彈發射器在等級配對中消滅 100 名敵人"
+                },
+                "howto": {
+                    "de-DE": "100 Feinde in Ranglisten-Spielen mit Boomshot eliminieren",
+                    "en-US": "Kill 100 enemies in ranked matches with the Boomshot",
+                    "es-ES": "Mate a 100 enemigos en partidas igualadas con el lanzagranadas triple",
+                    "fr-FR": "Tuez 100 ennemis avec le lance-grenades lors de parties avec classement",
+                    "it-IT": "Uccidi 100 nemici con il Boomshot in partite classificate",
+                    "ja-JP": "ランク マッチでブームショットにより 100 キル達成",
+                    "ko-KR": "랭킹 매치에서 붐샷으로 100명의 적을 사살",
+                    "zh-CHT": "以榴彈發射器在等級配對中消滅 100 名敵人"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "34.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Pistolero",
+                    "en-US": "Pistolero",
+                    "es-ES": "Pistolero",
+                    "fr-FR": "Roi de la gâchette",
+                    "it-IT": "Pistolero",
+                    "ja-JP": "ピストル マスター",
+                    "ko-KR": "볼톡 피스톨 마니아",
+                    "zh-CHT": "快槍手"
+                },
+                "description": {
+                    "de-DE": "100 Feinde in Ranglisten-Spielen mit Pistole eliminieren",
+                    "en-US": "Kill 100 enemies in ranked matches with a pistol",
+                    "es-ES": "Mate a 100 enemigos en partidas igualadas con una pistola",
+                    "fr-FR": "Tuez 100 ennemis avec un pistolet lors de parties avec classement",
+                    "it-IT": "Uccidi 100 nemici con una pistola in partite classificate",
+                    "ja-JP": "ランク マッチでピストルにより 100 キル達成",
+                    "ko-KR": "랭킹 매치에서 볼톡 피스톨로 100명의 적을 사살",
+                    "zh-CHT": "以手槍在等級配對中消滅 100 名敵人"
+                },
+                "howto": {
+                    "de-DE": "100 Feinde in Ranglisten-Spielen mit Pistole eliminieren",
+                    "en-US": "Kill 100 enemies in ranked matches with a pistol",
+                    "es-ES": "Mate a 100 enemigos en partidas igualadas con una pistola",
+                    "fr-FR": "Tuez 100 ennemis avec un pistolet lors de parties avec classement",
+                    "it-IT": "Uccidi 100 nemici con una pistola in partite classificate",
+                    "ja-JP": "ランク マッチでピストルにより 100 キル達成",
+                    "ko-KR": "랭킹 매치에서 볼톡 피스톨로 100명의 적을 사살",
+                    "zh-CHT": "以手槍在等級配對中消滅 100 名敵人"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "35.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Ins Schwarze getroffen",
+                    "en-US": "The Nuge",
+                    "es-ES": "El golpe",
+                    "fr-FR": "Carreau en plein cœur",
+                    "it-IT": "Colpo secco",
+                    "ja-JP": "ハンター",
+                    "ko-KR": "토크 보우 마니아",
+                    "zh-CHT": "神射手"
+                },
+                "description": {
+                    "de-DE": "100 Feinde in Ranglisten-Spielen mit Arkon-Bogen eliminieren",
+                    "en-US": "Kill 100 enemies in ranked matches with the Torque Bow",
+                    "es-ES": "Mate a 100 enemigos en partidas igualadas con el arco explosivo",
+                    "fr-FR": "Tuez 100 ennemis avec l'arbalète à tension lors de parties avec classement",
+                    "it-IT": "Uccidi 100 nemici con l'arco Torque in partite classificate",
+                    "ja-JP": "ランク マッチでトルクボウにより 100 キル達成",
+                    "ko-KR": "랭킹 매치에서 토크 보우로 100명의 적을 사살",
+                    "zh-CHT": "以機械弓在等級配對中消滅 100 名敵人"
+                },
+                "howto": {
+                    "de-DE": "100 Feinde in Ranglisten-Spielen mit Arkon-Bogen eliminieren",
+                    "en-US": "Kill 100 enemies in ranked matches with the Torque Bow",
+                    "es-ES": "Mate a 100 enemigos en partidas igualadas con el arco explosivo",
+                    "fr-FR": "Tuez 100 ennemis avec l'arbalète à tension lors de parties avec classement",
+                    "it-IT": "Uccidi 100 nemici con l'arco Torque in partite classificate",
+                    "ja-JP": "ランク マッチでトルクボウにより 100 キル達成",
+                    "ko-KR": "랭킹 매치에서 토크 보우로 100명의 적을 사살",
+                    "zh-CHT": "以機械弓在等級配對中消滅 100 名敵人"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "36.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "Mit scharfem Auge",
+                    "en-US": "I Spy with My Little Eye",
+                    "es-ES": "Espío con mi pequeño ojo",
+                    "fr-FR": "Un œil de loin",
+                    "it-IT": "È inutile che ti nascondi",
+                    "ja-JP": "エリート スナイパー",
+                    "ko-KR": "롱샷 마니아",
+                    "zh-CHT": "冷靜狙擊手"
+                },
+                "description": {
+                    "de-DE": "100 Feinde in Ranglisten-Spielen mit Fernschussgewehr eliminieren",
+                    "en-US": "Kill 100 enemies in ranked matches with the Longshot",
+                    "es-ES": "Mate a 100 enemigos en partidas igualadas con el largo alcance",
+                    "fr-FR": "Tuez 100 ennemis avec le fusil à lunette lors de parties avec classement",
+                    "it-IT": "Uccidi 100 nemici con il fucile a distanza in partite classificate",
+                    "ja-JP": "ランク マッチでロングショットライフルにより 100 キル達成",
+                    "ko-KR": "랭킹 매치에서 롱샷 라이플로 100명의 적을 사살",
+                    "zh-CHT": "以狙擊槍在等級配對中消滅 100 名敵人"
+                },
+                "howto": {
+                    "de-DE": "100 Feinde in Ranglisten-Spielen mit Fernschussgewehr eliminieren",
+                    "en-US": "Kill 100 enemies in ranked matches with the Longshot",
+                    "es-ES": "Mate a 100 enemigos en partidas igualadas con el largo alcance",
+                    "fr-FR": "Tuez 100 ennemis avec le fusil à lunette lors de parties avec classement",
+                    "it-IT": "Uccidi 100 nemici con il fucile a distanza in partite classificate",
+                    "ja-JP": "ランク マッチでロングショットライフルにより 100 キル達成",
+                    "ko-KR": "랭킹 매치에서 롱샷 라이플로 100명의 적을 사살",
+                    "zh-CHT": "以狙擊槍在等級配對中消滅 100 名敵人"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "37.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "de-DE": "Tu ihnen nicht weh",
+                    "en-US": "Don't Hurt 'Em",
+                    "es-ES": "No les hagas daño",
+                    "fr-FR": "Ça va faire mal",
+                    "it-IT": "Non fargli male",
+                    "ja-JP": "ビームの嵐",
+                    "ko-KR": "해머 오브 던 마니아",
+                    "zh-CHT": "黎明之鎚高手"
+                },
+                "description": {
+                    "de-DE": "100 Feinde in Ranglisten-Spielen mit Hammer der Morgenröte eliminieren",
+                    "en-US": "Kill 100 enemies in ranked matches with the Hammer of Dawn",
+                    "es-ES": "Mate a 100 enemigos en partidas igualadas con el Martillo del alba",
+                    "fr-FR": "Tuez 100 ennemis avec le Rayon de l'Aube lors de parties avec classement",
+                    "it-IT": "Uccidi 100 nemici con il Martello dell'Alba in partite classificate",
+                    "ja-JP": "ランク マッチでドーンハンマーにより 100 キル達成",
+                    "ko-KR": "랭킹 매치에서 해머 오브 던으로 100명의 적을 사살",
+                    "zh-CHT": "以黎明之鎚在等級配對中消滅 100 名敵人"
+                },
+                "howto": {
+                    "de-DE": "100 Feinde in Ranglisten-Spielen mit Hammer der Morgenröte eliminieren",
+                    "en-US": "Kill 100 enemies in ranked matches with the Hammer of Dawn",
+                    "es-ES": "Mate a 100 enemigos en partidas igualadas con el Martillo del alba",
+                    "fr-FR": "Tuez 100 ennemis avec le Rayon de l'Aube lors de parties avec classement",
+                    "it-IT": "Uccidi 100 nemici con il Martello dell'Alba in partite classificate",
+                    "ja-JP": "ランク マッチでドーンハンマーにより 100 キル達成",
+                    "ko-KR": "랭킹 매치에서 해머 오브 던으로 100명의 적을 사살",
+                    "zh-CHT": "以黎明之鎚在等級配對中消滅 100 名敵人"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "38.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein wahres Gemetzel",
+                    "en-US": "It's a Massacre",
+                    "es-ES": "Es una masacre",
+                    "fr-FR": "La loi du bûcheron",
+                    "it-IT": "È un massacro",
+                    "ja-JP": "大虐殺",
+                    "ko-KR": "전기톱 마니아",
+                    "zh-CHT": "鏈鋸狂"
+                },
+                "description": {
+                    "de-DE": "100 Feinde in Ranglisten-Spielen mit Kettensäge eliminieren",
+                    "en-US": "Kill 100 enemies in ranked matches with the Chainsaw",
+                    "es-ES": "Mate a 100 enemigos en partidas igualadas con la motosierra",
+                    "fr-FR": "Tuez 100 ennemis avec la tronçonneuse lors de parties avec classement",
+                    "it-IT": "Uccidi 100 nemici con la motosega in partite classificate",
+                    "ja-JP": "ランク マッチで 100 チェーンソー キル達成",
+                    "ko-KR": "랭킹 매치에서 전기톱으로 100명의 적을 사살",
+                    "zh-CHT": "以鏈鋸在等級配對中消滅 100 名敵人"
+                },
+                "howto": {
+                    "de-DE": "100 Feinde in Ranglisten-Spielen mit Kettensäge eliminieren",
+                    "en-US": "Kill 100 enemies in ranked matches with the Chainsaw",
+                    "es-ES": "Mate a 100 enemigos en partidas igualadas con la motosierra",
+                    "fr-FR": "Tuez 100 ennemis avec la tronçonneuse lors de parties avec classement",
+                    "it-IT": "Uccidi 100 nemici con la motosega in partite classificate",
+                    "ja-JP": "ランク マッチで 100 チェーンソー キル達成",
+                    "ko-KR": "랭킹 매치에서 전기톱으로 100명의 적을 사살",
+                    "zh-CHT": "以鏈鋸在等級配對中消滅 100 名敵人"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "39.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Klatsche",
+                    "en-US": "Curb Appeal",
+                    "es-ES": "Llamada de freno",
+                    "fr-FR": "L'appel du pied",
+                    "it-IT": "A rotta di collo",
+                    "ja-JP": "殺人キック",
+                    "ko-KR": "발로 찍기 마니아",
+                    "zh-CHT": "全力壓制"
+                },
+                "description": {
+                    "de-DE": "100 Feinde in Ranglisten-Spielen durch Aufklatschen eliminieren",
+                    "en-US": "Kill 100 enemies in ranked matches with the curb stomp",
+                    "es-ES": "Mate a 100 enemigos en partidas igualadas con el golpe de freno",
+                    "fr-FR": "Tuez 100 ennemis avec un brise-crâne lors de parties avec classement",
+                    "it-IT": "Uccidi 100 nemici con collo spezzato in partite classificate",
+                    "ja-JP": "ランク マッチで 100 ストンプ キル達成",
+                    "ko-KR": "랭킹 매치에서 발로 찍기로 100명의 적을 사살",
+                    "zh-CHT": "以終結一擊在等級配對中消滅 100 名敵人"
+                },
+                "howto": {
+                    "de-DE": "100 Feinde in Ranglisten-Spielen durch Aufklatschen eliminieren",
+                    "en-US": "Kill 100 enemies in ranked matches with the curb stomp",
+                    "es-ES": "Mate a 100 enemigos en partidas igualadas con el golpe de freno",
+                    "fr-FR": "Tuez 100 ennemis avec un brise-crâne lors de parties avec classement",
+                    "it-IT": "Uccidi 100 nemici con collo spezzato in partite classificate",
+                    "ja-JP": "ランク マッチで 100 ストンプ キル達成",
+                    "ko-KR": "랭킹 매치에서 발로 찍기로 100명의 적을 사살",
+                    "zh-CHT": "以終結一擊在等級配對中消滅 100 名敵人"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "40.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "de-DE": "Kopfzerbrechen",
+                    "en-US": "Capital Punishment",
+                    "es-ES": "Castigo capital",
+                    "fr-FR": "Peine capitale",
+                    "it-IT": "Pena capitale",
+                    "ja-JP": "極刑",
+                    "ko-KR": "처형 마니아",
+                    "zh-CHT": "冷酷殺手"
+                },
+                "description": {
+                    "de-DE": "100 Feinde in Ranglisten-Spielen durch Aufklatschen eliminieren",
+                    "en-US": "Kill 100 enemies in ranked matches with an execution",
+                    "es-ES": "Mate a 100 enemigos en partidas igualadas con una ejecución",
+                    "fr-FR": "Tuez 100 ennemis avec une exécution lors de parties avec classement",
+                    "it-IT": "Uccidi 100 nemici con esecuzione in partite classificate",
+                    "ja-JP": "ランク マッチで処刑により 100 キル達成",
+                    "ko-KR": "랭킹 매치에서 처형으로 100명의 적을 사살",
+                    "zh-CHT": "以處決方式在等級配對中消滅 100 名敵人"
+                },
+                "howto": {
+                    "de-DE": "100 Feinde in Ranglisten-Spielen durch Aufklatschen eliminieren",
+                    "en-US": "Kill 100 enemies in ranked matches with an execution",
+                    "es-ES": "Mate a 100 enemigos en partidas igualadas con una ejecución",
+                    "fr-FR": "Tuez 100 ennemis avec une exécution lors de parties avec classement",
+                    "it-IT": "Uccidi 100 nemici con esecuzione in partite classificate",
+                    "ja-JP": "ランク マッチで処刑により 100 キル達成",
+                    "ko-KR": "랭킹 매치에서 처형으로 100명의 적을 사살",
+                    "zh-CHT": "以處決方式在等級配對中消滅 100 名敵人"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "41.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "Eine Spinne?",
+                    "en-US": "Is It a Spider",
+                    "es-ES": "¿Es una araña?",
+                    "fr-FR": "Tiens, une araignée",
+                    "it-IT": "Fuochi d'artificio",
+                    "ja-JP": "爆破班",
+                    "ko-KR": "수류탄 부착 마니아",
+                    "zh-CHT": "手榴彈高手"
+                },
+                "description": {
+                    "de-DE": "100 Feinde in Ranglisten-Spielen durch Granaten eliminieren",
+                    "en-US": "Kill 100 enemies in ranked matches with grenade tag",
+                    "es-ES": "Mate a 100 enemigos en partidas igualadas en ataques con granada",
+                    "fr-FR": "Tuez 100 ennemis avec une grenade en co-op lors de parties avec classement",
+                    "it-IT": "Uccidi 100 nemici con granate in partite classificate",
+                    "ja-JP": "ランク マッチで相手にグレネードを仕掛けて 100 キル達成",
+                    "ko-KR": "랭킹 매치에서 수류탄 부착으로 100명의 적을 사살",
+                    "zh-CHT": "以手榴彈在等級配對中消滅 100 名敵人"
+                },
+                "howto": {
+                    "de-DE": "100 Feinde in Ranglisten-Spielen durch Granaten eliminieren",
+                    "en-US": "Kill 100 enemies in ranked matches with grenade tag",
+                    "es-ES": "Mate a 100 enemigos en partidas igualadas en ataques con granada",
+                    "fr-FR": "Tuez 100 ennemis avec une grenade en co-op lors de parties avec classement",
+                    "it-IT": "Uccidi 100 nemici con granate in partite classificate",
+                    "ja-JP": "ランク マッチで相手にグレネードを仕掛けて 100 キル達成",
+                    "ko-KR": "랭킹 매치에서 수류탄 부착으로 100명의 적을 사살",
+                    "zh-CHT": "以手榴彈在等級配對中消滅 100 名敵人"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "42.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "de-DE": "Der goldene Schuss",
+                    "en-US": "The Money Shot",
+                    "es-ES": "El disparo de dinero",
+                    "fr-FR": "En plein dans le mille",
+                    "it-IT": "Colpo da maestro",
+                    "ja-JP": "マネー ショット",
+                    "ko-KR": "헤드샷 마니아",
+                    "zh-CHT": "致命一擊"
+                },
+                "description": {
+                    "de-DE": "100 Feinde in Ranglisten-Spielen per Kopfschuss eliminieren",
+                    "en-US": "Kill 100 enemies in ranked matches with a headshot",
+                    "es-ES": "Mate a 100 enemigos en partidas igualadas con tiros a la cabeza",
+                    "fr-FR": "Tuez 100 ennemis avec un tir à la tête lors de parties avec classement",
+                    "it-IT": "Uccidi 100 nemici con un colpo alla testa in partite classificate",
+                    "ja-JP": "ランク マッチで 100 ヘッドショット達成",
+                    "ko-KR": "랭킹 매치에서 헤드샷으로 100명을 사살",
+                    "zh-CHT": "以爆頭的方式在等級配對中消滅 100 名敵人"
+                },
+                "howto": {
+                    "de-DE": "100 Feinde in Ranglisten-Spielen per Kopfschuss eliminieren",
+                    "en-US": "Kill 100 enemies in ranked matches with a headshot",
+                    "es-ES": "Mate a 100 enemigos en partidas igualadas con tiros a la cabeza",
+                    "fr-FR": "Tuez 100 ennemis avec un tir à la tête lors de parties avec classement",
+                    "it-IT": "Uccidi 100 nemici con un colpo alla testa in partite classificate",
+                    "ja-JP": "ランク マッチで 100 ヘッドショット達成",
+                    "ko-KR": "랭킹 매치에서 헤드샷으로 100명을 사살",
+                    "zh-CHT": "以爆頭的方式在等級配對中消滅 100 名敵人"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "43.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "Vergiss nie das erste Mal",
+                    "en-US": "Always Remember Your First",
+                    "es-ES": "Recuerde siempre el primero",
+                    "fr-FR": "Mémorable première fois",
+                    "it-IT": "Tutto come fosse la prima volta",
+                    "ja-JP": "デビュー戦",
+                    "ko-KR": "제일 먼저 널 기억하지",
+                    "zh-CHT": "對戰達人"
+                },
+                "description": {
+                    "de-DE": "Ein Versus-Ranglisten-Spiel beenden",
+                    "en-US": "Finish playing a versus ranked match",
+                    "es-ES": "Deje de jugar una partida igualada en Enfrentamiento",
+                    "fr-FR": "Finissez une partie avec classement en mode bataille",
+                    "it-IT": "Termina una partita classificata Versus",
+                    "ja-JP": "ランク マッチで対戦モードを最後までプレイ",
+                    "ko-KR": "랭킹 매치 플레이하기",
+                    "zh-CHT": "完成等級配對的對戰模式"
+                },
+                "howto": {
+                    "de-DE": "Ein Versus-Ranglisten-Spiel beenden",
+                    "en-US": "Finish playing a versus ranked match",
+                    "es-ES": "Deje de jugar una partida igualada en Enfrentamiento",
+                    "fr-FR": "Finissez une partie avec classement en mode bataille",
+                    "it-IT": "Termina una partita classificata Versus",
+                    "ja-JP": "ランク マッチで対戦モードを最後までプレイ",
+                    "ko-KR": "랭킹 매치 플레이하기",
+                    "zh-CHT": "完成等級配對的對戰模式"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "44.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "Nur kein Hass",
+                    "en-US": "Don't Hate the Player",
+                    "es-ES": "No odie al jugador",
+                    "fr-FR": "Respectez le joueur",
+                    "it-IT": "L'abito non fa il giocatore",
+                    "ja-JP": "ポイント ゲッター",
+                    "ko-KR": "날 미워하지 마",
+                    "zh-CHT": "天生好手"
+                },
+                "description": {
+                    "de-DE": "Beende ein Ranglisten-Spiel mit der höchsten Punktzahl",
+                    "en-US": "Finish with the highest points in a ranked match",
+                    "es-ES": "Termine con los puntos más altos en una partida igualada",
+                    "fr-FR": "Obtenez le meilleur score à la fin d'une partie avec classement",
+                    "it-IT": "Termina con il punteggio più elevato una partita classificata",
+                    "ja-JP": "ランク マッチで最高ポイントを獲得",
+                    "ko-KR": "랭킹 매치에서 가장 높은 점수 받기",
+                    "zh-CHT": "在等級配對中拿下最高的分數"
+                },
+                "howto": {
+                    "de-DE": "Beende ein Ranglisten-Spiel mit der höchsten Punktzahl",
+                    "en-US": "Finish with the highest points in a ranked match",
+                    "es-ES": "Termine con los puntos más altos en una partida igualada",
+                    "fr-FR": "Obtenez le meilleur score à la fin d'une partie avec classement",
+                    "it-IT": "Termina con il punteggio più elevato una partita classificata",
+                    "ja-JP": "ランク マッチで最高ポイントを獲得",
+                    "ko-KR": "랭킹 매치에서 가장 높은 점수 받기",
+                    "zh-CHT": "在等級配對中拿下最高的分數"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "45.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "de-DE": "Durchmischen",
+                    "en-US": "Mix It Up",
+                    "es-ES": "Mezcla",
+                    "fr-FR": "Un savant mélange",
+                    "it-IT": "Compilation",
+                    "ja-JP": "ミックス マッチ",
+                    "ko-KR": "멀티플레이어",
+                    "zh-CHT": "混戰高手"
+                },
+                "description": {
+                    "de-DE": "In jeder Versus-Spielart ein Ranglisten-Spiel gewinnen",
+                    "en-US": "Win a ranked match in every versus game type",
+                    "es-ES": "Gane una partida igualada en cada tipo de juego Enfrentamiento",
+                    "fr-FR": "Gagnez une partie avec classement dans tous les types de partie bataille",
+                    "it-IT": "Vinci una partita classificata in ogni modalità Versus",
+                    "ja-JP": "ランク マッチで対戦モードの全ゲームタイプ勝利",
+                    "ko-KR": "랭킹 매치에서 모든 종류 게임를 한 번씩 승리",
+                    "zh-CHT": "在每種對戰模式的遊戲類型中贏得等級配對"
+                },
+                "howto": {
+                    "de-DE": "In jeder Versus-Spielart ein Ranglisten-Spiel gewinnen",
+                    "en-US": "Win a ranked match in every versus game type",
+                    "es-ES": "Gane una partida igualada en cada tipo de juego Enfrentamiento",
+                    "fr-FR": "Gagnez une partie avec classement dans tous les types de partie bataille",
+                    "it-IT": "Vinci una partita classificata in ogni modalità Versus",
+                    "ja-JP": "ランク マッチで対戦モードの全ゲームタイプ勝利",
+                    "ko-KR": "랭킹 매치에서 모든 종류 게임를 한 번씩 승리",
+                    "zh-CHT": "在每種對戰模式的遊戲類型中贏得等級配對"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "46.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "de-DE": "Einmal um die Welt",
+                    "en-US": "Around the World",
+                    "es-ES": "Alrededor del mundo",
+                    "fr-FR": "Autour du monde",
+                    "it-IT": "Giro del mondo",
+                    "ja-JP": "全マップ制覇",
+                    "ko-KR": "세계 정복",
+                    "zh-CHT": "全能戰士"
+                },
+                "description": {
+                    "de-DE": "In jeder Versus-Karte ein Ranglisten-Spiel gewinnen",
+                    "en-US": "Win a ranked match on every versus map",
+                    "es-ES": "Gane una partida igualada en cada mapa de Enfrentamiento",
+                    "fr-FR": "Gagnez une partie avec classement sur chaque carte bataille",
+                    "it-IT": "Vinci una partita classificata in ogni mappa Versus",
+                    "ja-JP": "ランク マッチの対戦モードで全マップ勝利",
+                    "ko-KR": "랭킹 매치의 모든 맵에서 한 번씩 승리",
+                    "zh-CHT": "在每種對戰模式的地圖中贏得等級配對"
+                },
+                "howto": {
+                    "de-DE": "In jeder Versus-Karte ein Ranglisten-Spiel gewinnen",
+                    "en-US": "Win a ranked match on every versus map",
+                    "es-ES": "Gane una partida igualada en cada mapa de Enfrentamiento",
+                    "fr-FR": "Gagnez une partie avec classement sur chaque carte bataille",
+                    "it-IT": "Vinci una partita classificata in ogni mappa Versus",
+                    "ja-JP": "ランク マッチの対戦モードで全マップ勝利",
+                    "ko-KR": "랭킹 매치의 모든 맵에서 한 번씩 승리",
+                    "zh-CHT": "在每種對戰模式的地圖中贏得等級配對"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "47.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "Ihr habt keine Chance",
+                    "en-US": "Can't Touch Me",
+                    "es-ES": "No puede tocarme",
+                    "fr-FR": "Intouchable",
+                    "it-IT": "Intoccabile",
+                    "ja-JP": "無敵",
+                    "ko-KR": "언터쳐블",
+                    "zh-CHT": "唯我獨尊"
+                },
+                "description": {
+                    "de-DE": "10 Ranglisten-Spiele hintereinander gewinnen, ohne eine Runde zu verlieren",
+                    "en-US": "Win 10 ranked matches without losing a round",
+                    "es-ES": "Gane 10 partidas igualadas sin perder una ronda",
+                    "fr-FR": "Gagnez 10 parties avec classement sans perdre une seule manche",
+                    "it-IT": "Vinci 10 partite classificate senza perdere un turno",
+                    "ja-JP": "ランク マッチで 1 ラウンドも落とさずに 10 勝達成",
+                    "ko-KR": "랭킹 매치에서 연속으로 10번 승리",
+                    "zh-CHT": "連續贏得 10 場等級配對，並且沒有輸掉任一回合"
+                },
+                "howto": {
+                    "de-DE": "10 Ranglisten-Spiele hintereinander gewinnen, ohne eine Runde zu verlieren",
+                    "en-US": "Win 10 ranked matches without losing a round",
+                    "es-ES": "Gane 10 partidas igualadas sin perder una ronda",
+                    "fr-FR": "Gagnez 10 parties avec classement sans perdre une seule manche",
+                    "it-IT": "Vinci 10 partite classificate senza perdere un turno",
+                    "ja-JP": "ランク マッチで 1 ラウンドも落とさずに 10 勝達成",
+                    "ko-KR": "랭킹 매치에서 연속으로 10번 승리",
+                    "zh-CHT": "連續贏得 10 場等級配對，並且沒有輸掉任一回合"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "48.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "de-DE": "Mal im Ernst ...",
+                    "en-US": "Seriously ...",
+                    "es-ES": "En serio ...",
+                    "fr-FR": "Franchement...",
+                    "it-IT": "Gioco duro...",
+                    "ja-JP": "真剣勝負",
+                    "ko-KR": "전쟁의 신",
+                    "zh-CHT": "瘋狂殺手"
+                },
+                "description": {
+                    "de-DE": "10.000 Gegner in Versus-Ranglisten-Spiel eliminieren",
+                    "en-US": "Kill 10,000 people in versus ranked match total",
+                    "es-ES": "Mate a 10.000 personas en una partida igualada en Enfrentamiento total",
+                    "fr-FR": "Tuez 10 000 personnes en tout lors de vos parties avec classement en mode bataille",
+                    "it-IT": "Uccidi 10.000 nemici nel totale di partita classificata Versus",
+                    "ja-JP": "ランク マッチの対戦モードで合計 10,000 キル達成",
+                    "ko-KR": "랭킹 매치에서 총 1만 명을 사살",
+                    "zh-CHT": "在對戰模式等級配對裡殺敵數達到 10,000 人"
+                },
+                "howto": {
+                    "de-DE": "10.000 Gegner in Versus-Ranglisten-Spiel eliminieren",
+                    "en-US": "Kill 10,000 people in versus ranked match total",
+                    "es-ES": "Mate a 10.000 personas en una partida igualada en Enfrentamiento total",
+                    "fr-FR": "Tuez 10 000 personnes en tout lors de vos parties avec classement en mode bataille",
+                    "it-IT": "Uccidi 10.000 nemici nel totale di partita classificata Versus",
+                    "ja-JP": "ランク マッチの対戦モードで合計 10,000 キル達成",
+                    "ko-KR": "랭킹 매치에서 총 1만 명을 사살",
+                    "zh-CHT": "在對戰模式等級配對裡殺敵數達到 10,000 人"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "49.png"
+        }
+    }
+}

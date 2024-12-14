@@ -1,0 +1,388 @@
+{
+    "Achievements": {
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Elhorn Tourist",
+                    "en-US": "Elhorn Tourist",
+                    "es-ES": "Turista de Elhorn",
+                    "fr-FR": "Touriste d'Elhorn",
+                    "it-IT": "Turista a Elhorn",
+                    "ja-JP": "エレホーン・ツアー参加者"
+                },
+                "description": {
+                    "de-DE": "Alle Phasen komplett",
+                    "en-US": "Completed all stages",
+                    "es-ES": "Se han completado todas las fases",
+                    "fr-FR": "Tous les niveaux ont été complétés",
+                    "it-IT": "Tutti i livelli completati",
+                    "ja-JP": "全ステージクリア"
+                },
+                "howto": {
+                    "de-DE": "Alle Phasen komplett",
+                    "en-US": "Completed all stages",
+                    "es-ES": "Se han completado todas las fases",
+                    "fr-FR": "Tous les niveaux ont été complétés",
+                    "it-IT": "Tutti i livelli completati",
+                    "ja-JP": "全ステージクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "01.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Zephyrus' Retter ",
+                    "en-US": "Zephyrus Saviour",
+                    "es-ES": "Salvador de Zephyrus",
+                    "fr-FR": "Le Sauveur de Zephyrus",
+                    "it-IT": "Salvatore di Zephyrus",
+                    "ja-JP": "ゼピュロスの救世主"
+                },
+                "description": {
+                    "de-DE": "Arcade Modus - normal - komplett",
+                    "en-US": "Completed Arcade Mode on Normal",
+                    "es-ES": "Arcade ha sido completado en modo Normal",
+                    "fr-FR": "Mode arcade Normal complété",
+                    "it-IT": "Modalità Arcade Normale completata",
+                    "ja-JP": "アーケードモードを難易度ノーマルでクリア"
+                },
+                "howto": {
+                    "de-DE": "Arcade Modus - normal - komplett",
+                    "en-US": "Completed Arcade Mode on Normal",
+                    "es-ES": "Arcade ha sido completado en modo Normal",
+                    "fr-FR": "Mode arcade Normal complété",
+                    "it-IT": "Modalità Arcade Normale completata",
+                    "ja-JP": "アーケードモードを難易度ノーマルでクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "35",
+            "imageId": "02.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Schänder von Devotinos",
+                    "en-US": "Devotindos Defiler",
+                    "es-ES": "Profanador de Devotindos",
+                    "fr-FR": "Envahisseur Devotindos",
+                    "it-IT": "Contaminatore di Devotindos",
+                    "ja-JP": "デボチンドスの討伐者"
+                },
+                "description": {
+                    "de-DE": "Arcade Modus - schwer - komplett",
+                    "en-US": "Completed Arcade Mode on Hard in a Single Playthrough",
+                    "es-ES": "Arcade ha sido completado en modo Difícil",
+                    "fr-FR": "Mode arcade Difficile complété",
+                    "it-IT": "Modalità Arcade Difficile completata",
+                    "ja-JP": "アーケードモードを難易度ハードでクリア"
+                },
+                "howto": {
+                    "de-DE": "Arcade Modus - schwer - komplett",
+                    "en-US": "Completed Arcade Mode on Hard in a Single Playthrough",
+                    "es-ES": "Arcade ha sido completado en modo Difícil",
+                    "fr-FR": "Mode arcade Difficile complété",
+                    "it-IT": "Modalità Arcade Difficile completata",
+                    "ja-JP": "アーケードモードを難易度ハードでクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "03.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Legendäres Opossum",
+                    "en-US": "Legendary Possum",
+                    "es-ES": "Zarigüeya legendaria",
+                    "fr-FR": "Légendaire opossum",
+                    "it-IT": "Opossum leggendario",
+                    "ja-JP": "伝説のフクロネズミ"
+                },
+                "description": {
+                    "de-DE": "Gold Sparkster Modus komplett",
+                    "en-US": "Completed Gold Sparkster Mode",
+                    "es-ES": "Modo Sparkster Dorado ha sido completado",
+                    "fr-FR": "Mode Gold Sparkster complété",
+                    "it-IT": "Modalità Sparkster Oro completata",
+                    "ja-JP": "ゴールド・スパークスターモードをクリア"
+                },
+                "howto": {
+                    "de-DE": "Gold Sparkster Modus komplett",
+                    "en-US": "Completed Gold Sparkster Mode",
+                    "es-ES": "Modo Sparkster Dorado ha sido completado",
+                    "fr-FR": "Mode Gold Sparkster complété",
+                    "it-IT": "Modalità Sparkster Oro completata",
+                    "ja-JP": "ゴールド・スパークスターモードをクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "04.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Ungeduldiger Held",
+                    "en-US": "Impatient Hero",
+                    "es-ES": "Héroe impaciente",
+                    "fr-FR": "Héros impatient",
+                    "it-IT": "Eroe impaziente",
+                    "ja-JP": "せっかちなヒーロー"
+                },
+                "description": {
+                    "de-DE": "Alle Phasen komplett unter Durchschnitts-Zeit.",
+                    "en-US": "Completed all stages below par time",
+                    "es-ES": "Todas las fases han sido terminadas por debajo del tiempo",
+                    "fr-FR": "Tous les niveaux ont été complétés en-dessous du temps de référence",
+                    "it-IT": "Tutti i livelli completati sotto il tempo stabilito",
+                    "ja-JP": "全てのステージをターゲットタイムより早くクリア"
+                },
+                "howto": {
+                    "de-DE": "Alle Phasen komplett unter Durchschnitts-Zeit",
+                    "en-US": "Completed all stages below par time",
+                    "es-ES": "Todas las fases han sido terminadas por debajo del tiempo",
+                    "fr-FR": "Tous les niveaux ont été complétés en-dessous du temps de référence",
+                    "it-IT": "Tutti i livelli completati sotto il tempo stabilito",
+                    "ja-JP": "全てのステージをターゲットタイムより早くクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "05.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Spark Dog Millionär",
+                    "en-US": "Spark Dog Millionaire",
+                    "es-ES": "Spark Dog Millonario",
+                    "fr-FR": "Spark Dog Millionnaire",
+                    "it-IT": "Spark cane milionario",
+                    "ja-JP": "スパークドッグ・ミリオネア"
+                },
+                "description": {
+                    "de-DE": "Arkade Modus komplett, 1.000.000 Punkte oder mehr",
+                    "en-US": "Completed Arcade Mode scoring 1,000,000 or more",
+                    "es-ES": "Modo Arcade ha sido completado con una puntuación de 1.000.000 o más",
+                    "fr-FR": "Mode arcade complété avec un score supérieur ou égal à 1 000 000",
+                    "it-IT": "Modalità Arcade completata totalizzando almeno 1.000.000",
+                    "ja-JP": "アーケードモードをスコア1,000,000以上でクリア"
+                },
+                "howto": {
+                    "de-DE": "Arkade Modus komplett, 1.000.000 Punkte oder mehr",
+                    "en-US": "Completed Arcade Mode scoring 1,000,000 or more",
+                    "es-ES": "Modo Arcade ha sido completado con una puntuación de 1.000.000 o más",
+                    "fr-FR": "Mode arcade complété avec un score supérieur ou égal à 1 000 000",
+                    "it-IT": "Modalità Arcade completata totalizzando almeno 1.000.000",
+                    "ja-JP": "アーケードモードをスコア1,000,000以上でクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "06.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Respektabler Renner",
+                    "en-US": "Redoubtable Runner",
+                    "es-ES": "Corredor formidable",
+                    "fr-FR": "Coureur redoutable",
+                    "it-IT": "Temibile corridore",
+                    "ja-JP": "恐るべきランナー"
+                },
+                "description": {
+                    "de-DE": "Arkade Modus - schwer - komplett in 60 Minuten.",
+                    "en-US": "Completed Arcade Mode on Hard within 60 minutes",
+                    "es-ES": "Se ha completado en 60 minutos el Modo Arcade en Difícil.",
+                    "fr-FR": "Mode arcade Difficile complété en moins de 60 minutes",
+                    "it-IT": "Modalità Arcade Difficile completata entro 60 minuti",
+                    "ja-JP": "アーケードモードを難易度ハードで60分以内にクリア"
+                },
+                "howto": {
+                    "de-DE": "Arkade Modus - schwer - komplett in 60 Minuten.",
+                    "en-US": "Completed Arcade Mode on Hard within 60 minutes",
+                    "es-ES": "Se ha completado en 60 minutos el Modo Arcade en Difícil.",
+                    "fr-FR": "Mode arcade Difficile complété en moins de 60 minutes",
+                    "it-IT": "Modalità Arcade Difficile completata entro 60 minuti",
+                    "ja-JP": "アーケードモードを難易度ハードで60分以内にクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "07.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Wilder Flieger",
+                    "en-US": "Ferocious Flier",
+                    "es-ES": "Aviador feroz",
+                    "fr-FR": "Pilote féroce",
+                    "it-IT": "Aviatore feroce",
+                    "ja-JP": "空飛ぶ猛攻撃"
+                },
+                "description": {
+                    "de-DE": "1.2 komplett, alle Feinde geschlagen",
+                    "en-US": "Completed 1.2 having defeated all enemies",
+                    "es-ES": "1.2 ha sido completado tras derrotar a todos los enemigos. ",
+                    "fr-FR": "Monde 1 Niveau 2 complété en détruisant tous les ennemis",
+                    "it-IT": "1.2 completato dopo aver battuto tutti i nemici",
+                    "ja-JP": "ステージ1-2で全ての敵を倒してクリア"
+                },
+                "howto": {
+                    "de-DE": "1.2 komplett, alle Feinde geschlagen",
+                    "en-US": "Completed 1.2 having defeated all enemies",
+                    "es-ES": "1.2 ha sido completado tras derrotar a todos los enemigos. ",
+                    "fr-FR": "Monde 1 Niveau 2 complété en détruisant tous les ennemis",
+                    "it-IT": "1.2 completato dopo aver battuto tutti i nemici",
+                    "ja-JP": "ステージ1-2で全ての敵を倒してクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "08.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Wolf Geniesser",
+                    "en-US": "Wolf Connoisseur",
+                    "es-ES": "Entendido Wolf",
+                    "fr-FR": "Expert en Loups",
+                    "it-IT": "Lupo esperto",
+                    "ja-JP": "狼鑑定士"
+                },
+                "description": {
+                    "de-DE": "2.1 komplett, alle Pickups gesammelt",
+                    "en-US": "Completed 2.1 having collected all pickups",
+                    "es-ES": "2.1 ha sido completado tras reunir todos los objetos de recogida ",
+                    "fr-FR": "Monde 2 Niveau 1 complété en ramassant tous les objets",
+                    "it-IT": "2.1 completato dopo aver collezionato tutti gli oggetti da raccolta",
+                    "ja-JP": "ステージ2-1で全てのアイテムを取ってクリア"
+                },
+                "howto": {
+                    "de-DE": "2.1 komplett, alle Pickups gesammelt",
+                    "en-US": "Completed 2.1 having collected all pickups",
+                    "es-ES": "2.1 ha sido completado tras reunir todos los objetos de recogida ",
+                    "fr-FR": "Monde 2 Niveau 1 complété en ramassant tous les objets",
+                    "it-IT": "2.1 completato dopo aver collezionato tutti gli oggetti da raccolta",
+                    "ja-JP": "ステージ2-1で全てのアイテムを取ってクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Geschickter Ritter",
+                    "en-US": "Nimble Knight",
+                    "es-ES": "Knight ágil",
+                    "fr-FR": "Chevalier agile",
+                    "it-IT": "Cavaliere agile",
+                    "ja-JP": "身軽でナイト"
+                },
+                "description": {
+                    "de-DE": "3.2 komplett ohne Schaden",
+                    "en-US": "Completed 3.2 without taking damage",
+                    "es-ES": "3.2 ha sido completado sin recibir daño",
+                    "fr-FR": "Monde 3 Niveau 2 complété sans être blessé",
+                    "it-IT": "3.2 completato senza aver ricevuto danno",
+                    "ja-JP": "ステージ3-2でダメージを受けずにクリア"
+                },
+                "howto": {
+                    "de-DE": "3.2 komplett ohne Schaden",
+                    "en-US": "Completed 3.2 without taking damage",
+                    "es-ES": "3.2 ha sido completado sin recibir daño",
+                    "fr-FR": "Monde 3 Niveau 2 complété sans être blessé",
+                    "it-IT": "3.2 completato senza aver ricevuto danno",
+                    "ja-JP": "ステージ3-2でダメージを受けずにクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "10.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Burst Freunde",
+                    "en-US": "Burst Friends",
+                    "es-ES": "Amigos con explosivos",
+                    "fr-FR": "Compagnons des fusées",
+                    "it-IT": "Amici esplosivi",
+                    "ja-JP": "バーストの輪"
+                },
+                "description": {
+                    "de-DE": "Schlage 5 Feinde mit einer Rocket Burst oder Drill Attacke.",
+                    "en-US": "Defeat 5 enemies in a single Rocket Burst or Drill attack",
+                    "es-ES": "Derrotar 5 enemigos con una sola Explosión de cohete o Perforadora explosiva",
+                    "fr-FR": "Vaincre 5 ennemis d'un seul coup grâce à la Fusée ou à la Turbo fusée",
+                    "it-IT": "Sconfiggi 5 nemici in un singolo Razzo esplosivo o attacco a Trivella",
+                    "ja-JP": "1回のロケットバーストまたはドリルで5体の敵を倒す"
+                },
+                "howto": {
+                    "de-DE": "Schlage 5 Feinde mit einer Rocket Burst oder Drill Attacke.",
+                    "en-US": "Defeat 5 enemies in a single Rocket Burst or Drill attack",
+                    "es-ES": "Derrotar 5 enemigos con una sola Explosión de cohete o Perforadora explosiva",
+                    "fr-FR": "Vaincre 5 ennemis d'un seul coup grâce à la Fusée ou à la Turbo fusée",
+                    "it-IT": "Sconfiggi 5 nemici in un singolo Razzo esplosivo o attacco a Trivella",
+                    "ja-JP": "1回のロケットバーストまたはドリルで5体の敵を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "11.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "Waldland Rausschmeisser",
+                    "en-US": "Woodland Bouncer",
+                    "es-ES": "Gorila del bosque",
+                    "fr-FR": "Seigneur du rebond",
+                    "it-IT": "Rimbalzatore della foresta",
+                    "ja-JP": "森の用心棒"
+                },
+                "description": {
+                    "de-DE": "Schlage 3 Feinde mit einem reflektierten Projektil",
+                    "en-US": "Defeat 3 enemies with a single reflected projectile",
+                    "es-ES": "Derrotar 3 enemigos con un sólo proyectil reflejado",
+                    "fr-FR": "Vaincre 3 ennemis avec un seul projectile réverbéré",
+                    "it-IT": "Sconfiggi 3 nemici con un singolo proiettile riflesso",
+                    "ja-JP": "1つの爆弾を跳ね返して3体の敵を倒す"
+                },
+                "howto": {
+                    "de-DE": "Schlage 3 Feinde mit einem reflektierten Projektil",
+                    "en-US": "Defeat 3 enemies with a single reflected projectile",
+                    "es-ES": "Derrotar 3 enemigos con un sólo proyectil reflejado",
+                    "fr-FR": "Vaincre 3 ennemis avec un seul projectile réverbéré",
+                    "it-IT": "Sconfiggi 3 nemici con un singolo proiettile riflesso",
+                    "ja-JP": "1つの爆弾を跳ね返して3体の敵を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "12.png"
+        }
+    }
+}

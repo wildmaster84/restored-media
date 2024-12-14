@@ -1,0 +1,1251 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "en-US": "Coming in Hot",
+                    "de-DE": "Mit quietschenden Reifen",
+                    "it-IT": "Atmosfera bollente",
+                    "fr-FR": "Chaud devant",
+                    "es-ES": "Calentito"
+                },
+                "description": {
+                    "en-US": "On day 1 of the Watchdogs job, don't let the cops shoot and destroy the escape vehicle.",
+                    "de-DE": "Lasse an Tag 1 des Wachhunde-Jobs die Bullen nicht schießen und das Fluchtfahrzeug zerstören.",
+                    "it-IT": "Nel giorno 1 del lavoro Cani da guardia, evita che i poliziotti sparino al veicolo di fuga.",
+                    "fr-FR": "À la 1re journée de Chien de garde, empêchez les flics de tirer sur le fourgon et de le détruire.",
+                    "es-ES": "El día 1 de Vigilante, no dejes que la poli dispare y destruya el vehículo de huida."
+                },
+                "howto": {
+                    "en-US": "On day 1 of the Watchdogs job, don't let the cops shoot and destroy the escape vehicle.",
+                    "de-DE": "Lasse an Tag 1 des Wachhunde-Jobs die Bullen nicht schießen und das Fluchtfahrzeug zerstören.",
+                    "it-IT": "Nel giorno 1 del lavoro Cani da guardia, evita che i poliziotti sparino al veicolo di fuga.",
+                    "fr-FR": "À la 1re journée de Chien de garde, empêchez les flics de tirer sur le fourgon et de le détruire.",
+                    "es-ES": "El día 1 de Vigilante, no dejes que la poli dispare y destruya el vehículo de huida."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "en-US": "Fish A.I.",
+                    "de-DE": "Fisch-KI",
+                    "it-IT": "Intelligenza con le branchie",
+                    "fr-FR": "IA de poisson",
+                    "es-ES": "IA de pez"
+                },
+                "description": {
+                    "en-US": "On day 2 of the Watchdogs job, throw a loot bag into the sea, hoping fish move away as it gets near.",
+                    "de-DE": "Wirf am 2 Tag des Wachhunde-Jobs eine Beutetasche ins Meer, damit die Fische davonschwimmen.",
+                    "it-IT": "Nel giorno 2 del lavoro Cani da guardia, getta in mare un borsone e spera che non attiri i pesci.",
+                    "fr-FR": "À la 2e journée de Chien de garde, jetez un sac à la mer pour tenter d'effrayer les poissons.",
+                    "es-ES": "En el día 2 de Vigilante, lanza una bolsa de botín al mar para que los peces se alejen al acercarse."
+                },
+                "howto": {
+                    "en-US": "On day 2 of the Watchdogs job, throw a loot bag into the sea, hoping fish move away as it gets near.",
+                    "de-DE": "Wirf am 2 Tag des Wachhunde-Jobs eine Beutetasche ins Meer, damit die Fische davonschwimmen.",
+                    "it-IT": "Nel giorno 2 del lavoro Cani da guardia, getta in mare un borsone e spera che non attiri i pesci.",
+                    "fr-FR": "À la 2e journée de Chien de garde, jetez un sac à la mer pour tenter d'effrayer les poissons.",
+                    "es-ES": "En el día 2 de Vigilante, lanza una bolsa de botín al mar para que los peces se alejen al acercarse."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "en-US": "Guessing Game",
+                    "de-DE": "Ratespiel",
+                    "it-IT": "Indovina indovinello",
+                    "fr-FR": "Devinettes",
+                    "es-ES": "Adivinanzas"
+                },
+                "description": {
+                    "en-US": "On day 2 of the Firestarter job, complete the heist in stealth without hacking the computer.",
+                    "de-DE": "Schließe an Tag 2 des Brandstifter-Jobs den Raum mit Stealth ab, ohne den Computer zu hacken.",
+                    "it-IT": "Nel giorno 2 del lavoro Piromane, completa il colpo con circospezione senza manomettere il computer.",
+                    "fr-FR": "À la 2e journée de Pyromane, terminez le casse furtivement sans pirater l'ordinateur.",
+                    "es-ES": "El día 2 de Pirómano, completa el escenario en sigilo sin piratear el ordenador."
+                },
+                "howto": {
+                    "en-US": "On day 2 of the Firestarter job, complete the heist in stealth without hacking the computer.",
+                    "de-DE": "Schließe an Tag 2 des Brandstifter-Jobs den Raum mit Stealth ab, ohne den Computer zu hacken.",
+                    "it-IT": "Nel giorno 2 del lavoro Piromane, completa il colpo con circospezione senza manomettere il computer.",
+                    "fr-FR": "À la 2e journée de Pyromane, terminez le casse furtivement sans pirater l'ordinateur.",
+                    "es-ES": "El día 2 de Pirómano, completa el escenario en sigilo sin piratear el ordenador."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "40",
+            "imageId": "03.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "en-US": "The First Line",
+                    "de-DE": "Die erste Linie",
+                    "it-IT": "Prima linea",
+                    "fr-FR": "Première ligne",
+                    "es-ES": "Primera línea"
+                },
+                "description": {
+                    "en-US": "On day 3 of the Firestarter job, find the rare hockey poster of the OVERKILL hockey team.",
+                    "de-DE": "Finde an Tag 3 des Brandstifter-Jobs das seltene Eishockey-Poster des OVERKILL-Eishockey-Teams.",
+                    "it-IT": "Nel giorno 3 del lavoro Piromane, trova il poster raro della squadra di hockey OVERKILL.",
+                    "fr-FR": "À la 3e journée de Pyromane, trouvez le poster de l'équipe de hockey OVERKILL.",
+                    "es-ES": "El día 3 de Pirómano, encuentra el póster del equipo de hockey OVERKILL."
+                },
+                "howto": {
+                    "en-US": "On day 3 of the Firestarter job, find the rare hockey poster of the OVERKILL hockey team.",
+                    "de-DE": "Finde an Tag 3 des Brandstifter-Jobs das seltene Eishockey-Poster des OVERKILL-Eishockey-Teams.",
+                    "it-IT": "Nel giorno 3 del lavoro Piromane, trova il poster raro della squadra di hockey OVERKILL.",
+                    "fr-FR": "À la 3e journée de Pyromane, trouvez le poster de l'équipe de hockey OVERKILL.",
+                    "es-ES": "El día 3 de Pirómano, encuentra el póster del equipo de hockey OVERKILL."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "04.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "en-US": "F in Chemistry",
+                    "de-DE": "Eine 6 in Chemie",
+                    "it-IT": "Zero in chimica",
+                    "fr-FR": "0 en chimie",
+                    "es-ES": "Negado químico"
+                },
+                "description": {
+                    "en-US": "On day 1 of the Rat job, blow up the lab.",
+                    "de-DE": "Jage am ersten Tag des Ratten-Jobs das Labor in die Luft.",
+                    "it-IT": "Nel giorno 1 del lavoro La spia, fai esplodere il laboratorio.",
+                    "fr-FR": "À la 1e journée de Balance, explosez le labo.",
+                    "es-ES": "Revienta el laboratorio el día 1 de Rata."
+                },
+                "howto": {
+                    "en-US": "On day 1 of the Rat job, blow up the lab.",
+                    "de-DE": "Jage am ersten Tag des Ratten-Jobs das Labor in die Luft.",
+                    "it-IT": "Nel giorno 1 del lavoro La spia, fai esplodere il laboratorio.",
+                    "fr-FR": "À la 1e journée de Balance, explosez le labo.",
+                    "es-ES": "Revienta el laboratorio el día 1 de Rata."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "en-US": "Caribbean Pirate",
+                    "de-DE": "Pirat der Karibik",
+                    "it-IT": "Pirata dei Caraibi",
+                    "fr-FR": "Pirate des Caraïbes",
+                    "es-ES": "Pirata del Caribe"
+                },
+                "description": {
+                    "en-US": "On day 2 of the Rat job, bring additional meth bags to the trade, but steal your payment instead.",
+                    "de-DE": "Bringe an Tag 2 des Ratten-Jobs zusätzliche Meth-Beutel mit zum Deal, aber stiehl deine Bezahlung.",
+                    "it-IT": "Nel giorno 2 del lavoro La spia, porta più borsoni di metanfetamina allo scambio, ma ruba i soldi.",
+                    "fr-FR": "À la 2e journée de Balance, apportez des sacs d'amphet' supplémentaires, mais volez votre paiement.",
+                    "es-ES": "El día 2 del curro Rata, comercia con varias bolsas de cristal adicionales, pero roba tu pago."
+                },
+                "howto": {
+                    "en-US": "On day 2 of the Rat job, bring additional meth bags to the trade, but steal your payment instead.",
+                    "de-DE": "Bringe an Tag 2 des Ratten-Jobs zusätzliche Meth-Beutel mit zum Deal, aber stiehl deine Bezahlung.",
+                    "it-IT": "Nel giorno 2 del lavoro La spia, porta più borsoni di metanfetamina allo scambio, ma ruba i soldi.",
+                    "fr-FR": "À la 2e journée de Balance, apportez des sacs d'amphet' supplémentaires, mais volez votre paiement.",
+                    "es-ES": "El día 2 del curro Rata, comercia con varias bolsas de cristal adicionales, pero roba tu pago."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "06.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "en-US": "Short Fuse",
+                    "de-DE": "Kurze Lunte",
+                    "it-IT": "Pericolo d'esplosione",
+                    "fr-FR": "Court-circuit",
+                    "es-ES": "A lo loco"
+                },
+                "description": {
+                    "en-US": "On day 3 of the Rat job, get away with 7 bags without defusing any bombs.",
+                    "de-DE": "Mache dich an Tag 3 des Ratten-Jobs mit 7 Säcken davon, ohne eine Bombe zu entschärfen.",
+                    "it-IT": "Nel giorno 3 del lavoro La spia, vattene portando via 7 borsoni senza disinnescare nessuna bomba.",
+                    "fr-FR": "À la 3e journée de Balance, prenez 7 sacs sans désamorcer de bombe.",
+                    "es-ES": "El día 3 de Rata, lárgate con 7 bolsas sin desactivar ninguna bomba."
+                },
+                "howto": {
+                    "en-US": "On day 3 of the Rat job, get away with 7 bags without defusing any bombs.",
+                    "de-DE": "Mache dich an Tag 3 des Ratten-Jobs mit 7 Säcken davon, ohne eine Bombe zu entschärfen.",
+                    "it-IT": "Nel giorno 3 del lavoro La spia, vattene portando via 7 borsoni senza disinnescare nessuna bomba.",
+                    "fr-FR": "À la 3e journée de Balance, prenez 7 sacs sans désamorcer de bombe.",
+                    "es-ES": "El día 3 de Rata, lárgate con 7 bolsas sin desactivar ninguna bomba."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "07.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "en-US": "Painting Yourself Into a Corner",
+                    "de-DE": "Selbst in die Ecke gemalt",
+                    "it-IT": "Appassionato di pittura",
+                    "fr-FR": "Perdu dans les détails",
+                    "es-ES": "Píntate en una esquina"
+                },
+                "description": {
+                    "en-US": "On day 1 of the Framing Frame job, steal all sold paintings without being seen.",
+                    "de-DE": "Stiehl an Tag 1 des Bilderrahmen-Jobs alle verkauften Gemälde, ohne gesehen zu werden.",
+                    "it-IT": "Nel giorno 1 del lavoro Cornice a incastro, ruba tutti i dipinti venduti senza farti vedere.",
+                    "fr-FR": "À la 1e journée de Collectionneur, volez tous les tableaux vendus sans être vu.",
+                    "es-ES": "El día 1 de Artimaña, roba todos los cuadros vendidos sin que te vean."
+                },
+                "howto": {
+                    "en-US": "On day 1 of the Framing Frame job, steal all sold paintings without being seen.",
+                    "de-DE": "Stiehl an Tag 1 des Bilderrahmen-Jobs alle verkauften Gemälde, ohne gesehen zu werden.",
+                    "it-IT": "Nel giorno 1 del lavoro Cornice a incastro, ruba tutti i dipinti venduti senza farti vedere.",
+                    "fr-FR": "À la 1e journée de Collectionneur, volez tous les tableaux vendus sans être vu.",
+                    "es-ES": "El día 1 de Artimaña, roba todos los cuadros vendidos sin que te vean."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "40",
+            "imageId": "08.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "en-US": "Big Deal",
+                    "de-DE": "Big Deal",
+                    "it-IT": "Bell'affare",
+                    "fr-FR": "Business",
+                    "es-ES": "Ofertaza"
+                },
+                "description": {
+                    "en-US": "On day 2 of the Framing Frame job, trade 9 paintings.",
+                    "de-DE": "Verticke an Tag 2 des Bilderrahmen-Jobs 9 Gemälde.",
+                    "it-IT": "Nel giorno 2 del lavoro Cornice a incastro, scambia 9 dipinti.",
+                    "fr-FR": "À la 2e journée de Collectionneur, échangez 9 tableaux.",
+                    "es-ES": "El día 2 del curro Artimaña, comercia con 9 cuadros."
+                },
+                "howto": {
+                    "en-US": "On day 2 of the Framing Frame job, trade 9 paintings.",
+                    "de-DE": "Verticke an Tag 2 des Bilderrahmen-Jobs 9 Gemälde.",
+                    "it-IT": "Nel giorno 2 del lavoro Cornice a incastro, scambia 9 dipinti.",
+                    "fr-FR": "À la 2e journée de Collectionneur, échangez 9 tableaux.",
+                    "es-ES": "El día 2 del curro Artimaña, comercia con 9 cuadros."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "en-US": "I Wasn't Even There!",
+                    "de-DE": "Ich war nicht mal dabei!",
+                    "it-IT": "Ma non ero nemmeno lì!",
+                    "fr-FR": "Je n'y étais même pas !",
+                    "es-ES": "¡No estaba allí!"
+                },
+                "description": {
+                    "en-US": "On day 3 of the Framing Frame job, send the gold by zip-line without ever tripping the alarm.",
+                    "de-DE": "Stiehl an Tag 3 des Bilderrahmen-Jobs das Gold und entkomme per Seilrutsche, ohne Alarm auszulösen.",
+                    "it-IT": "Nel giorno 3 del lavoro Cornice a incastro, ruba l'oro con la teleferica senza che l'allarme scatti.",
+                    "fr-FR": "À la 3e journée de Collectionneur, envoyez l'or par tyrolienne sans déclencher l'alarme.",
+                    "es-ES": "El día 3 de Artimaña, manda el oro por tirolina sin hacer sonar la alarma."
+                },
+                "howto": {
+                    "en-US": "On day 3 of the Framing Frame job, send the gold by zip-line without ever tripping the alarm.",
+                    "de-DE": "Stiehl an Tag 3 des Bilderrahmen-Jobs das Gold und entkomme per Seilrutsche, ohne Alarm auszulösen.",
+                    "it-IT": "Nel giorno 3 del lavoro Cornice a incastro, ruba l'oro con la teleferica senza che l'allarme scatti.",
+                    "fr-FR": "À la 3e journée de Collectionneur, envoyez l'or par tyrolienne sans déclencher l'alarme.",
+                    "es-ES": "El día 3 de Artimaña, manda el oro por tirolina sin hacer sonar la alarma."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "40",
+            "imageId": "10.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "en-US": "Smooth Criminal",
+                    "de-DE": "Smooth Criminal",
+                    "it-IT": "Criminale felpato",
+                    "fr-FR": "Criminel élégant",
+                    "es-ES": "Criminal sigiloso"
+                },
+                "description": {
+                    "en-US": "Reach reputation level 25.",
+                    "de-DE": "Erreiche Ruf-Level 25.",
+                    "it-IT": "Raggiungi il livello di reputazione 25.",
+                    "fr-FR": "Atteignez une réputation de 25.",
+                    "es-ES": "Alcanza el nivel de reputación 25."
+                },
+                "howto": {
+                    "en-US": "Reach reputation level 25.",
+                    "de-DE": "Erreiche Ruf-Level 25.",
+                    "it-IT": "Raggiungi il livello di reputazione 25.",
+                    "fr-FR": "Atteignez une réputation de 25.",
+                    "es-ES": "Alcanza el nivel de reputación 25."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "11.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "en-US": "Career Criminal",
+                    "de-DE": "Berufsverbrecher",
+                    "it-IT": "Criminale di carriera",
+                    "fr-FR": "Criminel de carrière",
+                    "es-ES": "Gran criminal"
+                },
+                "description": {
+                    "en-US": "Reach reputation level 75.",
+                    "de-DE": "Erreiche Ruf-Level 75.",
+                    "it-IT": "Raggiungi il livello di reputazione 75.",
+                    "fr-FR": "Atteignez une réputation de 75.",
+                    "es-ES": "Alcanza el nivel de reputación 75."
+                },
+                "howto": {
+                    "en-US": "Reach reputation level 75.",
+                    "de-DE": "Erreiche Ruf-Level 75.",
+                    "it-IT": "Raggiungi il livello di reputazione 75.",
+                    "fr-FR": "Atteignez une réputation de 75.",
+                    "es-ES": "Alcanza el nivel de reputación 75."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "12.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "en-US": "I got it, I got It!",
+                    "de-DE": "Ich hab's, ich hab's!",
+                    "it-IT": "Preso, preso!",
+                    "fr-FR": "C'est sous contrôle !",
+                    "es-ES": "¡Coge una bolsa!"
+                },
+                "description": {
+                    "en-US": "Catch a bag mid-air.",
+                    "de-DE": "Fange eine Tasche aus der Luft.",
+                    "it-IT": "Prendi un borsone a mezz'aria.",
+                    "fr-FR": "Attrapez un sac en vol.",
+                    "es-ES": "Coge una bolsa en el aire."
+                },
+                "howto": {
+                    "en-US": "Catch a bag mid-air.",
+                    "de-DE": "Fange eine Tasche aus der Luft.",
+                    "it-IT": "Prendi un borsone a mezz'aria.",
+                    "fr-FR": "Attrapez un sac en vol.",
+                    "es-ES": "Coge una bolsa en el aire."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "13.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "en-US": "I Knew What I Did Was Wrong",
+                    "de-DE": "Was ich getan habe, war falsch",
+                    "it-IT": "Sapevo di fare la cosa errata",
+                    "fr-FR": "Je n'ai pas été sage",
+                    "es-ES": "Sabía que estaba mal"
+                },
+                "description": {
+                    "en-US": "On day 1 of the Big Oil job, enter the basement, open the ATM machines and take the loot.",
+                    "de-DE": "Betritt an Tag 1 des Big Oil-Jobs den Keller und knacke die Geldautomaten.",
+                    "it-IT": "Nel giorno 1 del lavoro Big Oil, vai nel seminterrato e apri i distributori automatici di contante.",
+                    "fr-FR": "À la 1e journée de Big Oil, ouvrez les distributeurs au sous-sol",
+                    "es-ES": "El día 1 de Big Oil, entra en el sótano y abre los cajeros automáticos."
+                },
+                "howto": {
+                    "en-US": "On day 1 of the Big Oil job, enter the basement, open the ATM machines and take the loot.",
+                    "de-DE": "Betritt an Tag 1 des Big Oil-Jobs den Keller und knacke die Geldautomaten.",
+                    "it-IT": "Nel giorno 1 del lavoro Big Oil, vai nel seminterrato e apri i distributori automatici di contante.",
+                    "fr-FR": "À la 1e journée de Big Oil, ouvrez les distributeurs au sous-sol",
+                    "es-ES": "El día 1 de Big Oil, entra en el sótano y abre los cajeros automáticos."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "14.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "en-US": "Doctor Fantastic",
+                    "de-DE": "Doctor Fantastic",
+                    "it-IT": "Dottore fantastico",
+                    "fr-FR": "Doc Fantastique",
+                    "es-ES": "Dr. Fantástico"
+                },
+                "description": {
+                    "en-US": "On day 2 of the Big Oil job, complete the heist with the first engine being correct.",
+                    "de-DE": "Schließe Tag 2 des Big Oil-Jobs ab, indem du beim ersten Mal auf die richtige Maschine tippst.",
+                    "it-IT": "Nel giorno 2 del lavoro Big Oil, completa il colpo individuando il motore giusto al primo tentativo.",
+                    "fr-FR": "À la 2e journée de Big Oil, trouvez le moteur au premier essai.",
+                    "es-ES": "En el día 2 de Big Oil, completa el escenario siendo el primer motor correcto."
+                },
+                "howto": {
+                    "en-US": "On day 2 of the Big Oil job, complete the heist with the first engine being correct.",
+                    "de-DE": "Schließe Tag 2 des Big Oil-Jobs ab, indem du beim ersten Mal auf die richtige Maschine tippst.",
+                    "it-IT": "Nel giorno 2 del lavoro Big Oil, completa il colpo individuando il motore giusto al primo tentativo.",
+                    "fr-FR": "À la 2e journée de Big Oil, trouvez le moteur au premier essai.",
+                    "es-ES": "En el día 2 de Big Oil, completa el escenario siendo el primer motor correcto."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "15.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "en-US": "Diamonds are Forever",
+                    "de-DE": "Diamanten sind unvergänglich",
+                    "it-IT": "I diamanti sono per sempre",
+                    "fr-FR": "Les diamants sont éternels",
+                    "es-ES": "Diamantes eternos"
+                },
+                "description": {
+                    "en-US": "In the Jewelry store job, steal and secure 4 bags without the escape car leaving the first time.",
+                    "de-DE": "Stiehl beim Juwelierraub 4 Säcke, ohne dass der Fluchtwagen zwischendurch abhaut.",
+                    "it-IT": "Nel lavoro Gioielleria, ruba 4 borsoni senza che la macchina per la fuga parta la prima volta.",
+                    "fr-FR": "Dans Bijouterie, volez 4 sacs avant que la voiture de fuite ne parte.",
+                    "es-ES": "En el trabajo de Joyería, roba 4 bolsas sin que el coche se marche la primera vez."
+                },
+                "howto": {
+                    "en-US": "In the Jewelry store job, steal and secure 4 bags without the escape car leaving the first time.",
+                    "de-DE": "Stiehl beim Juwelierraub 4 Säcke, ohne dass der Fluchtwagen zwischendurch abhaut.",
+                    "it-IT": "Nel lavoro Gioielleria, ruba 4 borsoni senza che la macchina per la fuga parta la prima volta.",
+                    "fr-FR": "Dans Bijouterie, volez 4 sacs avant que la voiture de fuite ne parte.",
+                    "es-ES": "En el trabajo de Joyería, roba 4 bolsas sin que el coche se marche la primera vez."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "16.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "en-US": "Let's do Th...",
+                    "de-DE": "Dann mal lo ...",
+                    "it-IT": "Facciamolo...",
+                    "fr-FR": "Allons-y...",
+                    "es-ES": "Hagámosl..."
+                },
+                "description": {
+                    "en-US": "In the Ukranian job, complete the heist within 35 seconds.",
+                    "de-DE": "Beende den Raub beim ukrainischen Job innerhalb von 35 Sekunden.",
+                    "it-IT": "In Lavoro all'ucraina, completa il colpo in non più di 35 secondi.",
+                    "fr-FR": "Dans À l'ukrainienne, compléter le braquage en 35 secondes.",
+                    "es-ES": "En Ucraniano, completa el escenario en menos de 35 s."
+                },
+                "howto": {
+                    "en-US": "In the Ukranian job, complete the heist within 35 seconds.",
+                    "de-DE": "Beende den Raub beim ukrainischen Job innerhalb von 35 Sekunden.",
+                    "it-IT": "In Lavoro all'ucraina, completa il colpo in non più di 35 secondi.",
+                    "fr-FR": "Dans À l'ukrainienne, compléter le braquage en 35 secondes.",
+                    "es-ES": "En Ucraniano, completa el escenario en menos de 35 s."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "17.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "en-US": "Yeah he's a Gold Digger",
+                    "de-DE": "Ja, er ist ein Goldgräber",
+                    "it-IT": "Corsa all'oro",
+                    "fr-FR": "Un vrai chercheur d'or",
+                    "es-ES": "Sí, le gusta el oro"
+                },
+                "description": {
+                    "en-US": "In the Four Stores job, find a gold bar in a safe.",
+                    "de-DE": "Finde beim Vier-Läden-Job einen Goldbarren im Safe.",
+                    "it-IT": "Nel lavoro Quattro negozi, trova un lingotto d'oro in una cassaforte.",
+                    "fr-FR": "Dans 4 magasins, trouvez le lingot dans un coffre.",
+                    "es-ES": "En 4 tiendas , encuentra un lingote en una caja."
+                },
+                "howto": {
+                    "en-US": "In the Four Stores job, find a gold bar in a safe.",
+                    "de-DE": "Finde beim Vier-Läden-Job einen Goldbarren im Safe.",
+                    "it-IT": "Nel lavoro Quattro negozi, trova un lingotto d'oro in una cassaforte.",
+                    "fr-FR": "Dans 4 magasins, trouvez le lingot dans un coffre.",
+                    "es-ES": "En 4 tiendas , encuentra un lingote en una caja."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "18.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "en-US": "I'm Going All-in!",
+                    "de-DE": "Ich setze alles auf eine Karte",
+                    "it-IT": "Punto tutto!",
+                    "fr-FR": "Je mets le paquet !",
+                    "es-ES": "A por todas"
+                },
+                "description": {
+                    "en-US": "In the Nightclub job, put a bag filled with money on the poker table.",
+                    "de-DE": "Knalle beim Nachtclub-Job einen Sack voll Geld auf den Pokertisch.",
+                    "it-IT": "Nel lavoro Night club, metti un borsone pieno di denaro sul tavolo del poker.",
+                    "fr-FR": "Dans Boîte de nuit, misez un sac rempli d'argent au poker.",
+                    "es-ES": "En el Club, pon una bolsa llena de pasta en la mesa de póker."
+                },
+                "howto": {
+                    "en-US": "In the Nightclub job, put a bag filled with money on the poker table.",
+                    "de-DE": "Knalle beim Nachtclub-Job einen Sack voll Geld auf den Pokertisch.",
+                    "it-IT": "Nel lavoro Night club, metti un borsone pieno di denaro sul tavolo del poker.",
+                    "fr-FR": "Dans Boîte de nuit, misez un sac rempli d'argent au poker.",
+                    "es-ES": "En el Club, pon una bolsa llena de pasta en la mesa de póker."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "19.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "en-US": "Shoot the Glass!",
+                    "de-DE": "Fensterschütze",
+                    "it-IT": "Spara alle finestre!",
+                    "fr-FR": "On vise les vitres !",
+                    "es-ES": "Limpiaventanas"
+                },
+                "description": {
+                    "en-US": "In the Mallcrasher job, destroy all windows in the mall.",
+                    "de-DE": "Zerstöre beim Einkaufszentrum-Job alle Fenster im Einkaufszentrum.",
+                    "it-IT": "Nel lavoro Azione al centro commerciale, distruggi tutte le finestre del centro commerciale.",
+                    "fr-FR": "Dans Vandale, détruisez toutes les vitres de la galerie.",
+                    "es-ES": "En Destrozando, rompe todas las ventanas del centro. "
+                },
+                "howto": {
+                    "en-US": "In the Mallcrasher job, destroy all windows in the mall.",
+                    "de-DE": "Zerstöre beim Einkaufszentrum-Job alle Fenster im Einkaufszentrum.",
+                    "it-IT": "Nel lavoro Azione al centro commerciale, distruggi tutte le finestre del centro commerciale.",
+                    "fr-FR": "Dans Vandale, détruisez toutes les vitres de la galerie.",
+                    "es-ES": "En Destrozando, rompe todas las ventanas del centro. "
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "20.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "en-US": "Lord of War",
+                    "de-DE": "Kriegsherr",
+                    "it-IT": "Signore della guerra",
+                    "fr-FR": "Seigneur de guerre",
+                    "es-ES": "Genghis Khan"
+                },
+                "description": {
+                    "en-US": "On day 1 of the Firestarter job, steal all the weapons from the hangar.",
+                    "de-DE": "Stiehl an Tag 1 des Brandstifter-Jobs alle Waffen aus dem Hangar.",
+                    "it-IT": "Nel giorno 1 del lavoro Piromane, ruba tutte le armi dall'hangar.",
+                    "fr-FR": "À la 1e journée de Pyromane, volez toutes les armes du hangar.",
+                    "es-ES": "El día 1 de Pirómano, roba todas las armas del hangar."
+                },
+                "howto": {
+                    "en-US": "On day 1 of the Firestarter job, steal all the weapons from the hangar.",
+                    "de-DE": "Stiehl an Tag 1 des Brandstifter-Jobs alle Waffen aus dem Hangar.",
+                    "it-IT": "Nel giorno 1 del lavoro Piromane, ruba tutte le armi dall'hangar.",
+                    "fr-FR": "À la 1e journée de Pyromane, volez toutes les armes du hangar.",
+                    "es-ES": "El día 1 de Pirómano, roba todas las armas del hangar."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "21.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "en-US": "King of the Hill",
+                    "de-DE": "King of the Hill",
+                    "it-IT": "Re della collina",
+                    "fr-FR": "Roi de la colline",
+                    "es-ES": "Rey de la colina"
+                },
+                "description": {
+                    "en-US": "In the Park escape, ensure that no law enforcement enters the park before the escape van arrives.",
+                    "de-DE": "Sorge dafür, dass bei der Park-Flucht keine copsden Park betreten, bevor der Transporter eintrifft.",
+                    "it-IT": "In Fuga dal parco, evita che i tutori della legge entrino nel parco prima dell'arrivo del furgone.",
+                    "fr-FR": "Dans Évasion: parc, assurez-vous qu'aucun policier ne soit dans le parc avant le fourgon.",
+                    "es-ES": "En Huida del parque, consigue que ningún agente entre en el parque antes de que llegue la furgo."
+                },
+                "howto": {
+                    "en-US": "In the Park escape, ensure that no law enforcement enters the park before the escape van arrives.",
+                    "de-DE": "Sorge dafür, dass bei der Park-Flucht keine cops den Park betreten, bevor der Transporter eintrifft.",
+                    "it-IT": "In Fuga dal parco, evita che i tutori della legge entrino nel parco prima dell'arrivo del furgone.",
+                    "fr-FR": "Dans Évasion: parc, assurez-vous qu'aucun policier ne soit dans le parc avant le fourgon.",
+                    "es-ES": "En Huida del parque, consigue que ningún agente entre en el parque antes de que llegue la furgo."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "22.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "en-US": "You Shall not Pass!",
+                    "de-DE": "Lass dich nicht überführen!",
+                    "it-IT": "Non passerai!",
+                    "fr-FR": "Vous ne passerez pas !",
+                    "es-ES": "¡No pasarás!"
+                },
+                "description": {
+                    "en-US": "In the Overpass escape, don't let the cops set foot on the bridge before you can escape.",
+                    "de-DE": "Lass die Bullen bei der Flucht über die Überführung keinen Fuß auf die Brücke setzen.",
+                    "it-IT": "In Fuga dal viadotto, evita che i poliziotti mettano piede sul ponte prima della tua fuga.",
+                    "fr-FR": "Dans Évasion: viaduc, empêchez les flics d'atteindre le pont avant de vous échapper.",
+                    "es-ES": "En Huida del paso elevado, no dejes que la poli entre en el puente antes de huir."
+                },
+                "howto": {
+                    "en-US": "In the Overpass escape, don't let the cops set foot on the bridge before you can escape.",
+                    "de-DE": "Lass die Bullen bei der Flucht über die Überführung keinen Fuß auf die Brücke setzen.",
+                    "it-IT": "In Fuga dal viadotto, evita che i poliziotti mettano piede sul ponte prima della tua fuga.",
+                    "fr-FR": "Dans Évasion: viaduc, empêchez les flics d'atteindre le pont avant de vous échapper.",
+                    "es-ES": "En Huida del paso elevado, no dejes que la poli entre en el puente antes de huir."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "23.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "en-US": "Cappuccino to go, Please",
+                    "de-DE": "Cappucino zum Mitnehmen, bitte.",
+                    "it-IT": "Un cappuccino con molta schiuma",
+                    "fr-FR": "Cappucino à emporter",
+                    "es-ES": "Cappucino para llevar"
+                },
+                "description": {
+                    "en-US": "In the Cafe escape, secure all loot and escape within 30 seconds of the escape van arriving.",
+                    "de-DE": "Sichere bei der Café-Flucht alle Beute und entkomme innerhalb von 30 Sek. nach Ankunft des Fluchtw.",
+                    "it-IT": "In Fuga dal locale, prendi tutto il bottino e scappa entro 30 secondi dall'arrivo del furgone.",
+                    "fr-FR": "Dans Évasion: café, récupérez le butin dans les 30 sec. qui suivent l'arrivée du fourgon.",
+                    "es-ES": "En la Huida del café, asegura todo el botín y escapa en 30 s desde que llegue la furgoneta."
+                },
+                "howto": {
+                    "en-US": "In the Cafe escape, secure all loot and escape within 30 seconds of the escape van arriving.",
+                    "de-DE": "Sichere bei der Café-Flucht alle Beute und entkomme innerhalb von 30 Sek. nach Ankunft des Fluchtw.",
+                    "it-IT": "In Fuga dal locale, prendi tutto il bottino e scappa entro 30 secondi dall'arrivo del furgone.",
+                    "fr-FR": "Dans Évasion: café, récupérez le butin dans les 30 sec. qui suivent l'arrivée du fourgon.",
+                    "es-ES": "En la Huida del café, asegura todo el botín y escapa en 30 s desde que llegue la furgoneta."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "24.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "en-US": "Bullet Dodger",
+                    "de-DE": "Kugelausweicher",
+                    "it-IT": "Pioggia di proiettili",
+                    "fr-FR": "Esquive",
+                    "es-ES": "Esquiva-balas"
+                },
+                "description": {
+                    "en-US": "In the Street escape, complete the escape without killing any enemy snipers.",
+                    "de-DE": "Beende die Straßenflucht, ohne gegnerische Scharfschützen zu töten.",
+                    "it-IT": "In Fuga dalla strada, scappa senza eliminare nessun cecchino nemico.",
+                    "fr-FR": "Dans Évasion: rue, fuyez sans tuer les snipers ennemis.",
+                    "es-ES": "En Huida de calle, completa la huida sin matar a ningún francotirador rival."
+                },
+                "howto": {
+                    "en-US": "In the Street escape, complete the escape without killing any enemy snipers.",
+                    "de-DE": "Beende die Straßenflucht, ohne gegnerische Scharfschützen zu töten.",
+                    "it-IT": "In Fuga dalla strada, scappa senza eliminare nessun cecchino nemico.",
+                    "fr-FR": "Dans Évasion: rue, fuyez sans tuer les snipers ennemis.",
+                    "es-ES": "En Huida de calle, completa la huida sin matar a ningún francotirador rival."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "40",
+            "imageId": "25.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "en-US": "They see me Baggin', They Hatin'",
+                    "de-DE": "Mit Sack und Pack",
+                    "it-IT": "Dicono che rubo le borse",
+                    "fr-FR": "Dans le sac",
+                    "es-ES": "Soy el amo del embolse"
+                },
+                "description": {
+                    "en-US": "On the Garage escape, get away with 8 bags.",
+                    "de-DE": "Mach dich bei der Garagen-Flucht mit 8 Säcken davon.",
+                    "it-IT": "In Fuga dal garage, vattene con 8 borsoni.",
+                    "fr-FR": "Lors de l'évasion du garage, fuyez avec 8 sacs.",
+                    "es-ES": "En Huida garaje, lárgate con 8 bolsas."
+                },
+                "howto": {
+                    "en-US": "On the Garage escape, get away with 8 bags.",
+                    "de-DE": "Mach dich bei der Garagen-Flucht mit 8 Säcken davon.",
+                    "it-IT": "In Fuga dal garage, vattene con 8 borsoni.",
+                    "fr-FR": "Lors de l'évasion du garage, fuyez avec 8 sacs.",
+                    "es-ES": "En Huida garaje, lárgate con 8 bolsas."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "26.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "en-US": "Tip the Scales",
+                    "de-DE": "Verändere das Gleichgewicht",
+                    "it-IT": "Luogo segreto",
+                    "fr-FR": "Pencher la balance",
+                    "es-ES": "Una propina"
+                },
+                "description": {
+                    "en-US": "In the safe house, find the hidden basement.",
+                    "de-DE": "Finde im Versteckt den verborgenen Keller.",
+                    "it-IT": "Trova il seminterrato nascosto nel covo segreto.",
+                    "fr-FR": "Trouvez le sous-sol caché de la Planque.",
+                    "es-ES": "En el refugio, encuentra el sótano oculto."
+                },
+                "howto": {
+                    "en-US": "In the safe house, find the hidden basement.",
+                    "de-DE": "Finde im Versteckt den verborgenen Keller.",
+                    "it-IT": "Trova il seminterrato nascosto nel covo segreto.",
+                    "fr-FR": "Trouvez le sous-sol caché de la Planque.",
+                    "es-ES": "En el refugio, encuentra el sótano oculto."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "27.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "en-US": "I'm a Healer-Tank-Damage-Dealer",
+                    "de-DE": "Heiler-Tank-Damage-Dealer",
+                    "it-IT": "Curo, resisto e faccio danni",
+                    "fr-FR": "Guérisseur-tank-damage-dealer",
+                    "es-ES": "Curo, resisto y hago daño"
+                },
+                "description": {
+                    "en-US": "Spend 10 skill points in each skill tree.",
+                    "de-DE": "Verwende 10 Fertigkeitspunkte auf jeden Fertigkeitenbaum.",
+                    "it-IT": "Spendi 10 punti abilità in ciascun albero delle abilità.",
+                    "fr-FR": "Dépensez 10 points de compétence dans chaque arbre de compétence.",
+                    "es-ES": "Invierte 10 puntos en cada árbol de habilidad."
+                },
+                "howto": {
+                    "en-US": "Spend 10 skill points in each skill tree.",
+                    "de-DE": "Verwende 10 Fertigkeitspunkte auf jeden Fertigkeitenbaum.",
+                    "it-IT": "Spendi 10 punti abilità in ciascun albero delle abilità.",
+                    "fr-FR": "Dépensez 10 points de compétence dans chaque arbre de compétence.",
+                    "es-ES": "Invierte 10 puntos en cada árbol de habilidad."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "28.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "en-US": "Man of Iron",
+                    "de-DE": "Eisenmann",
+                    "it-IT": "Uomo di ferro",
+                    "fr-FR": "Homme de fer",
+                    "es-ES": "De hierro"
+                },
+                "description": {
+                    "en-US": "Equip the Improved Combined Tactical Vest.",
+                    "de-DE": "Rüste dich mit der verbesserten kombinierten taktischen Weste aus.",
+                    "it-IT": "Indossa il gilet tattico combinato potenziato.",
+                    "fr-FR": "Équipez le gilet tactique polyvalent amélioré.",
+                    "es-ES": "Usa el chaleco táctico mejorado."
+                },
+                "howto": {
+                    "en-US": "Equip the Improved Combined Tactical Vest.",
+                    "de-DE": "Rüste dich mit der verbesserten kombinierten taktischen Weste aus.",
+                    "it-IT": "Indossa il gilet tattico combinato potenziato.",
+                    "fr-FR": "Équipez le gilet tactique polyvalent amélioré.",
+                    "es-ES": "Usa el chaleco táctico mejorado."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "40",
+            "imageId": "29.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "en-US": "Going Places",
+                    "de-DE": "Auf dem Weg nach oben",
+                    "it-IT": "Cifra tonda",
+                    "fr-FR": "Vous irez loin",
+                    "es-ES": "De paseo"
+                },
+                "description": {
+                    "en-US": "Gain $1.000.000 in total spendable cash.",
+                    "de-DE": "Gewinne $1.000.000, die du ausgeben kannst.",
+                    "it-IT": "Ottieni 1.000.000 $ di denaro da spendere.",
+                    "fr-FR": "Gagnez 1 000 000 $ en cash à dépenser.",
+                    "es-ES": "Gana un total de 1.000.000 $ en dinero para gastar."
+                },
+                "howto": {
+                    "en-US": "Gain $1.000.000 in total spendable cash.",
+                    "de-DE": "Gewinne $1.000.000, die du ausgeben kannst.",
+                    "it-IT": "Ottieni 1.000.000 $ di denaro da spendere.",
+                    "fr-FR": "Gagnez 1 000 000 $ en cash à dépenser.",
+                    "es-ES": "Gana un total de 1.000.000 $ en dinero para gastar."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "30.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "en-US": "No Turning Back",
+                    "de-DE": "Kein Zurück",
+                    "it-IT": "Ora non si torna più indietro",
+                    "fr-FR": "Non-retour",
+                    "es-ES": "Sin vuelta atrás"
+                },
+                "description": {
+                    "en-US": "Complete your first job.",
+                    "de-DE": "Beende deinen ersten Job.",
+                    "it-IT": "Completa il tuo primo lavoro.",
+                    "fr-FR": "Terminez votre 1er contrat.",
+                    "es-ES": "Completa tu 1er trabajo."
+                },
+                "howto": {
+                    "en-US": "Complete your first job.",
+                    "de-DE": "Beende deinen ersten Job.",
+                    "it-IT": "Completa il tuo primo lavoro.",
+                    "fr-FR": "Terminez votre 1er contrat.",
+                    "es-ES": "Completa tu 1er trabajo."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "31.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "en-US": "Spend Money to Make Money",
+                    "de-DE": "Geld ausgeben, um Geld zu machen",
+                    "it-IT": "Spendi e guadagna",
+                    "fr-FR": "Il faut dépenser pour gagner",
+                    "es-ES": "Invierte para ganar dinero"
+                },
+                "description": {
+                    "en-US": "Spend $1.000.000 in total cash.",
+                    "de-DE": "Gib insgesamt $1.000.000 aus.",
+                    "it-IT": "Spendi 1.000.000 $ in totale.",
+                    "fr-FR": "Dépensez 1 000 000 $ en cash.",
+                    "es-ES": "Gasta un total de 1.000.000 $."
+                },
+                "howto": {
+                    "en-US": "Spend $1.000.000 in total cash.",
+                    "de-DE": "Gib insgesamt $1.000.000 aus.",
+                    "it-IT": "Spendi 1.000.000 $ in totale.",
+                    "fr-FR": "Dépensez 1 000 000 $ en cash.",
+                    "es-ES": "Gasta un total de 1.000.000 $."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "32.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "en-US": "You Gotta Start Somewhere",
+                    "de-DE": "Irgendwo muss man ja anfangen",
+                    "it-IT": "Chi ben comincia...",
+                    "fr-FR": "Il faut bien commencer",
+                    "es-ES": "Por algún lado se empieza"
+                },
+                "description": {
+                    "en-US": "Reach reputation level 5.",
+                    "de-DE": "Erreiche Ruf-Level 5.",
+                    "it-IT": "Raggiungi il livello di reputazione 5.",
+                    "fr-FR": "Atteignez une réputation de 5.",
+                    "es-ES": "Llega a nivel de repu. 5."
+                },
+                "howto": {
+                    "en-US": "Reach reputation level 5.",
+                    "de-DE": "Erreiche Ruf-Level 5.",
+                    "it-IT": "Raggiungi il livello di reputazione 5.",
+                    "fr-FR": "Atteignez une réputation de 5.",
+                    "es-ES": "Llega a nivel de repu. 5."
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "10",
+            "imageId": "33.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "en-US": "Guilty of Crime",
+                    "de-DE": "Eines Verbrechens schuldig",
+                    "it-IT": "Colpevole dei reati",
+                    "fr-FR": "Coupable",
+                    "es-ES": "Culpable"
+                },
+                "description": {
+                    "en-US": "Reach reputation level 10.",
+                    "de-DE": "Erreiche Ruf-Level 10.",
+                    "it-IT": "Raggiungi il livello di reputazione 10.",
+                    "fr-FR": "Atteignez une réputation de 10.",
+                    "es-ES": "Llega a nivel de repu. 10."
+                },
+                "howto": {
+                    "en-US": "Reach reputation level 10.",
+                    "de-DE": "Erreiche Ruf-Level 10.",
+                    "it-IT": "Raggiungi il livello di reputazione 10.",
+                    "fr-FR": "Atteignez une réputation de 10.",
+                    "es-ES": "Llega a nivel de repu. 10."
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "34.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "en-US": "Armed and Dangerous",
+                    "de-DE": "Bewaffnet und gefährlich",
+                    "it-IT": "Armato e pericoloso",
+                    "fr-FR": "Armé et dangereux",
+                    "es-ES": "Armado y peligroso"
+                },
+                "description": {
+                    "en-US": "Reach reputation level 50.",
+                    "de-DE": "Erreiche Ruf-Level 50.",
+                    "it-IT": "Raggiungi il livello di reputazione 50.",
+                    "fr-FR": "Atteignez une réputation de 50.",
+                    "es-ES": "Llega a nivel de repu. 50."
+                },
+                "howto": {
+                    "en-US": "Reach reputation level 50.",
+                    "de-DE": "Erreiche Ruf-Level 50.",
+                    "it-IT": "Raggiungi il livello di reputazione 50.",
+                    "fr-FR": "Atteignez une réputation de 50.",
+                    "es-ES": "Llega a nivel de repu. 50."
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "40",
+            "imageId": "35.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "en-US": "Most Wanted",
+                    "de-DE": "Meistgesucht",
+                    "it-IT": "Ricercatissimo",
+                    "fr-FR": "Ennemi no1",
+                    "es-ES": "Más buscado"
+                },
+                "description": {
+                    "en-US": "Reach reputation level 100.",
+                    "de-DE": "Erreiche Ruf-Level 100.",
+                    "it-IT": "Raggiungi il livello di reputazione 100.",
+                    "fr-FR": "Atteignez une réputation de 100.",
+                    "es-ES": "Llega a nivel de repu. 100."
+                },
+                "howto": {
+                    "en-US": "Reach reputation level 100.",
+                    "de-DE": "Erreiche Ruf-Level 100.",
+                    "it-IT": "Raggiungi il livello di reputazione 100.",
+                    "fr-FR": "Atteignez une réputation de 100.",
+                    "es-ES": "Llega a nivel de repu. 100."
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "50",
+            "imageId": "36.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "en-US": "Fully Loaded",
+                    "de-DE": "Vollgeladen",
+                    "it-IT": "Bello carico",
+                    "fr-FR": "Fin prêt",
+                    "es-ES": "A tope"
+                },
+                "description": {
+                    "en-US": "Own 9 weapons.",
+                    "de-DE": "Besitze 9 Waffen.",
+                    "it-IT": "Arriva a possedere 9 armi.",
+                    "fr-FR": "Avoir 9 armes.",
+                    "es-ES": "Posee 9 armas."
+                },
+                "howto": {
+                    "en-US": "Own 9 weapons.",
+                    "de-DE": "Besitze 9 Waffen.",
+                    "it-IT": "Arriva a possedere 9 armi.",
+                    "fr-FR": "Avoir 9 armes.",
+                    "es-ES": "Posee 9 armas."
+                }
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "10",
+            "imageId": "37.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "en-US": "Weapon Collector",
+                    "de-DE": "Waffennarr",
+                    "it-IT": "Collezionista d'armi",
+                    "fr-FR": "Collection d'armes",
+                    "es-ES": "Coleccionista"
+                },
+                "description": {
+                    "en-US": "Own 18 weapons.",
+                    "de-DE": "Besitze 18 Waffen.",
+                    "it-IT": "Arriva a possedere 18 armi.",
+                    "fr-FR": "Avoir 18 armes.",
+                    "es-ES": "Ten 18 armas."
+                },
+                "howto": {
+                    "en-US": "Own 18 weapons.",
+                    "de-DE": "Besitze 18 Waffen.",
+                    "it-IT": "Arriva a possedere 18 armi.",
+                    "fr-FR": "Avoir 18 armes.",
+                    "es-ES": "Ten 18 armas."
+                }
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "20",
+            "imageId": "38.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "en-US": "No one Cared who I Was...",
+                    "de-DE": "Ich war Luft ...",
+                    "it-IT": "A nessuno interessava chi ero...",
+                    "fr-FR": "Personne ne sait qui je suis",
+                    "es-ES": "¿Qué más da quién fuese...?"
+                },
+                "description": {
+                    "en-US": "Until I put on the mask.",
+                    "de-DE": "Bis ich die Maske aufsetze.",
+                    "it-IT": "Finché non ho indossato la maschera.",
+                    "fr-FR": "Jusqu'à ce que je mette le masque.",
+                    "es-ES": "Hasta que ponga la máscara."
+                },
+                "howto": {
+                    "en-US": "Until I put on the mask.",
+                    "de-DE": "Bis ich die Maske aufsetze.",
+                    "it-IT": "Finché non ho indossato la maschera.",
+                    "fr-FR": "Jusqu'à ce que je mette le masque.",
+                    "es-ES": "Hasta que ponga la máscara."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "39.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "en-US": "Masked Villain",
+                    "de-DE": "Maskierter Bösewicht",
+                    "it-IT": "Criminale mascherato",
+                    "fr-FR": "Méchant masqué",
+                    "es-ES": "Malo enmasca."
+                },
+                "description": {
+                    "en-US": "Modify a mask for the first time.",
+                    "de-DE": "Modifiziere deine erste Maske.",
+                    "it-IT": "Modifica una maschera per la prima volta.",
+                    "fr-FR": "Modifiez un masque pour la première fois.",
+                    "es-ES": "Modifica tu primera máscara."
+                },
+                "howto": {
+                    "en-US": "Modify a mask for the first time.",
+                    "de-DE": "Modifiziere deine erste Maske.",
+                    "it-IT": "Modifica una maschera per la prima volta.",
+                    "fr-FR": "Modifiez un masque pour la première fois.",
+                    "es-ES": "Modifica tu primera máscara."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "40.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "en-US": "Armed to the Teeth",
+                    "de-DE": "Bis an die Zähne bewaffnet.",
+                    "it-IT": "Armato fino ai denti",
+                    "fr-FR": "Jusqu'aux dents",
+                    "es-ES": "Hasta los dientes"
+                },
+                "description": {
+                    "en-US": "Modify a weapon for the first time.",
+                    "de-DE": "Modifiziere deine erste Waffe.",
+                    "it-IT": "Modifica un'arma per la prima volta.",
+                    "fr-FR": "Modifiez une arme pour la première fois.",
+                    "es-ES": "Modifica tu primera arma."
+                },
+                "howto": {
+                    "en-US": "Modify a weapon for the first time.",
+                    "de-DE": "Modifiziere deine erste Waffe.",
+                    "it-IT": "Modifica un'arma per la prima volta.",
+                    "fr-FR": "Modifiez une arme pour la première fois.",
+                    "es-ES": "Modifica tu primera arma."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "41.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "en-US": "Would you Like Your Receipt?",
+                    "de-DE": "Brauchen Sie eine Quittung?",
+                    "it-IT": "Garantita due anni",
+                    "fr-FR": "Vous voulez le reçu avec ?",
+                    "es-ES": "¿Quieres recibo?"
+                },
+                "description": {
+                    "en-US": "Buy a weapon for the first time.",
+                    "de-DE": "Kaufe deine erste Waffe.",
+                    "it-IT": "Compra un'arma per la prima volta.",
+                    "fr-FR": "Achetez une arme pour la première fois.",
+                    "es-ES": "Compra tu primera arma."
+                },
+                "howto": {
+                    "en-US": "Buy a weapon for the first time.",
+                    "de-DE": "Kaufe deine erste Waffe.",
+                    "it-IT": "Compra un'arma per la prima volta.",
+                    "fr-FR": "Achetez une arme pour la première fois.",
+                    "es-ES": "Compra tu primera arma."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "42.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "en-US": "How do you Like me Now?",
+                    "de-DE": "Und, gefalle ich dir?",
+                    "it-IT": "Come sto?",
+                    "fr-FR": "Ça vous plait ?",
+                    "es-ES": "¿Qué me dices ahora?"
+                },
+                "description": {
+                    "en-US": "Equip an armor for the first time.",
+                    "de-DE": "Rüste das erste Mal eine Panzerung aus.",
+                    "it-IT": "Indossa un'armatura per la prima volta.",
+                    "fr-FR": "Équipez une armure pour la 1e fois.",
+                    "es-ES": "Ponte blindaje por primera vez."
+                },
+                "howto": {
+                    "en-US": "Equip an armor for the first time.",
+                    "de-DE": "Rüste das erste Mal eine Panzerung aus.",
+                    "it-IT": "Indossa un'armatura per la prima volta.",
+                    "fr-FR": "Équipez une armure pour la 1e fois.",
+                    "es-ES": "Ponte blindaje por primera vez."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "43.png"
+        }
+    }
+}

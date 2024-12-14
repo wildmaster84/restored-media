@@ -1,0 +1,2824 @@
+{
+    "Achievements": {
+        "155": {
+            "text": {
+                "name": {
+                    "de-DE": "Willkommen beim Horizon",
+                    "en-US": "Welcome to Horizon",
+                    "es-ES": "Bienvenido a Horizon",
+                    "fr-FR": "Bienvenue à Horizon.",
+                    "it-IT": "Benvenuto in Horizon",
+                    "ja-JP": "Horizon へようこそ",
+                    "ko-KR": "Horizon에 오신 것을 환영합니다.",
+                    "pl-PL": "Witamy na festiwalu Horizon",
+                    "ru-RU": "Добро пожаловать на Horizon!",
+                    "zh-CHT": "歡迎來到 Horizon",
+                    "pt-PT": "Bem-Vindo Ao Horizon"
+                },
+                "description": {
+                    "de-DE": "Sie sind beim Horizon-Festival angekommen und wollen loslegen.",
+                    "en-US": "You arrived at Horizon Festival raring to go.",
+                    "es-ES": "Has llegado al bullicioso festival Horizon.",
+                    "fr-FR": "Vous êtes arrivé au festival Horizon et avez hâte de commencer.",
+                    "it-IT": "Sei arrivato al Festival Horizon, pronto all'azione.",
+                    "ja-JP": "Horizon フェスティバルに着いた、早くレースに出たい!",
+                    "ko-KR": "Horizon 페스티벌에 도착했습니다.",
+                    "pl-PL": "Udało Ci się dotrzeć na festiwal Horizon. Czas stanąć do walki!",
+                    "ru-RU": "Вы прибыли на фестиваль Horizon и готовы к бою.",
+                    "zh-CHT": "你抵達了 Horizon 嘉年華，準備好好玩一場。",
+                    "pt-PT": "Você chegou ao Festival Horizon correndo."
+                },
+                "howto": {
+                    "de-DE": "Kommen Sie beim Horizon-Festival an.",
+                    "en-US": "Arrive at the Horizon Festival.",
+                    "es-ES": "Llega al festival Horizon.",
+                    "fr-FR": "Rendez-vous au festival Horizon.",
+                    "it-IT": "Arriva al Festival Horizon.",
+                    "ja-JP": "Horizon フェスティバル会場へ着く",
+                    "ko-KR": "Horizon 페스티벌에 도착하십시오.",
+                    "pl-PL": "Dojedź na festiwal.",
+                    "ru-RU": "Прибыть на фестиваль Horizon.",
+                    "zh-CHT": "抵達 Horizon 嘉年華。",
+                    "pt-PT": "Chegue ao Festival Horizon."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "156": {
+            "text": {
+                "name": {
+                    "de-DE": "Kleine Spritztour",
+                    "en-US": "Take Her for a Spin!",
+                    "es-ES": "¡Sácalo a pasear!",
+                    "fr-FR": "En route !",
+                    "it-IT": "Fatti un giro!",
+                    "ja-JP": "クルマに乗ろう!",
+                    "ko-KR": "어디 한번 굴려볼까!",
+                    "pl-PL": "Pierwsza przejażdżka",
+                    "ru-RU": "Тачку на прогулку!",
+                    "zh-CHT": "風中綺緣！",
+                    "pt-PT": "Leve Para Uma Volta!"
+                },
+                "description": {
+                    "de-DE": "Sie haben im Autosalon ein Auto erworben. Jetzt können Sie eine Runde drehen!",
+                    "en-US": "You bought a car from the Autoshow. Now take her for a spin!",
+                    "es-ES": "Has comprado un coche de la feria del automóvil. ¡Sácalo a pasear!",
+                    "fr-FR": "Vous avez acheté une voiture au salon auto. Maintenant, en route !",
+                    "it-IT": "Hai comprato un'auto all'Autosalone. Ora fatti un giro!",
+                    "ja-JP": "オートショーでクルマを買った。早速ドライブしよう!",
+                    "ko-KR": "오토쇼에서 자동차를 구매했습니다. 도로에서 신나게 밟아보십시오!",
+                    "pl-PL": "Udało Ci się zakupić wóz w salonie samochodowym. Czas go przetestować!",
+                    "ru-RU": "Вы купили машину на автосалоне. А ездить кто будет?",
+                    "zh-CHT": "您剛從汽車展售中心買了一輛車。趕緊和愛車去兜兜吧！",
+                    "pt-PT": "Você comprou um carro na Feira de Carros. Agora leve-o para uma volta!"
+                },
+                "howto": {
+                    "de-DE": "Kaufen Sie im Autosalon des Festivals ein Auto.",
+                    "en-US": "Buy a car from the Festival Autoshow.",
+                    "es-ES": "Compra un coche en la feria del automóvil.",
+                    "fr-FR": "Achetez une voiture au salon auto du festival.",
+                    "it-IT": "Compra un'auto dall'Autosalone del Festival.",
+                    "ja-JP": "フェスティバルのオートショーでクルマを購入する",
+                    "ko-KR": "페스티벌 오토쇼에서 자동차를 구매하십시오.",
+                    "pl-PL": "Kup wóz w salonie samochodowym na festiwalu.",
+                    "ru-RU": "Купить машину на Автосалоне фестиваля.",
+                    "zh-CHT": "在嘉年華汽車展售中心買一輛車。",
+                    "pt-PT": "Compre um carro na Feira de Carros do Festival."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "02.png"
+        },
+        "157": {
+            "text": {
+                "name": {
+                    "de-DE": "... und im Ziel!",
+                    "en-US": "...and across the line!",
+                    "es-ES": "¡Y bandera a cuadros!",
+                    "fr-FR": "... et il franchit la ligne !",
+                    "it-IT": "E taglia il traguardo!",
+                    "ja-JP": "ラインをわたって!",
+                    "ko-KR": "...골인!",
+                    "pl-PL": "...i meta!",
+                    "ru-RU": "...На финишной черте!",
+                    "zh-CHT": "…衝過終點線！",
+                    "pt-PT": "...E Cruzou A Linha De Chegada!"
+                },
+                "description": {
+                    "de-DE": "Sie sind in Ihrem ersten Horizon-Rennen angetreten.",
+                    "en-US": "You competed in your first race at Horizon.",
+                    "es-ES": "Has completado tu primera carrera en Horizon.",
+                    "fr-FR": "Vous avez participé à votre première course à Horizon.",
+                    "it-IT": "Hai completato la tua prima gara di Horizon.",
+                    "ja-JP": "Horizon の最初のレースに参加した",
+                    "ko-KR": "Horizon에서 처음으로 레이스를 완주했습니다.",
+                    "pl-PL": "Udało Ci się ukończyć pierwszy wyścig na festiwalu Horizon.",
+                    "ru-RU": "Вы закончили первую гонку на фестивале.",
+                    "zh-CHT": "您在 Horizon 完成了第一場比賽。.",
+                    "pt-PT": "Você completou a sua primeira corrida em Horizon."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie Ihr erstes Einzelspieler-Rennen.",
+                    "en-US": "Finish your first race in Single Player.",
+                    "es-ES": "Acaba tu primera carrera en el modo de un jugador.",
+                    "fr-FR": "Terminez votre première course en solo.",
+                    "it-IT": "Concludi la tua prima gara in modalità giocatore singolo.",
+                    "ja-JP": "Horizon の最初のレースを完走する",
+                    "ko-KR": "싱글 플레이 첫 레이스를 완주하십시오.",
+                    "pl-PL": "Ukończ pierwszy wyścig w trybie jednego gracza.",
+                    "ru-RU": "Закончить первую гонку в режиме одиночной игры.",
+                    "zh-CHT": "在單人模式完成您的第一場比賽。",
+                    "pt-PT": "Termine a sua primeira corrida no Modo Um Jogador."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "158": {
+            "text": {
+                "name": {
+                    "de-DE": "Erster!",
+                    "en-US": "First!",
+                    "es-ES": "¡Primera!",
+                    "fr-FR": "Premier !",
+                    "it-IT": "Primo!",
+                    "ja-JP": "俺が 1 位だ!",
+                    "ko-KR": "1등이다!",
+                    "pl-PL": "Pierwsze miejsce!",
+                    "ru-RU": "Первый...!",
+                    "zh-CHT": "叫我第一名！",
+                    "pt-PT": "Primeiro!"
+                },
+                "description": {
+                    "de-DE": "Sie haben Ihr erstes Horizon-Rennen gewonnen.",
+                    "en-US": "You won your first race at Horizon.",
+                    "es-ES": "Has ganado tu primera carrera en Horizon.",
+                    "fr-FR": "Vous avez remporté votre première course à Horizon.",
+                    "it-IT": "Hai vinto la tua prima gara di Horizon.",
+                    "ja-JP": "Horizon のレースに初めて勝利した",
+                    "ko-KR": "Horizon에서 처음으로 승리했습니다.",
+                    "pl-PL": "Udało Ci się wygrac pierwszy wyścig na festiwalu Horizon.",
+                    "ru-RU": "Вы выиграли первую гонку на фестивале.",
+                    "zh-CHT": "您在 Horizon 拿下了第一個冠軍。",
+                    "pt-PT": "Você venceu sua primeira corrida no Horizon."
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie Ihr erstes Einzelspieler-Rennen.",
+                    "en-US": "Win a race for the first time in Single Player.",
+                    "es-ES": "Gana una carrera por primera vez en el modo de un jugador.",
+                    "fr-FR": "Remportez votre première course en solo.",
+                    "it-IT": "Vinci una gara per la prima volta in modalità giocatore singolo.",
+                    "ja-JP": "Horizon のレースに初めて勝利する",
+                    "ko-KR": "싱글 플레이에서 레이스 첫 승을 거두십시오.",
+                    "pl-PL": "Wygraj po raz pierwszy w wyścigu w trybie jednego gracza.",
+                    "ru-RU": "Выиграть первую гонку в режиме одиночной игры.",
+                    "zh-CHT": "在單人模式中拿下您的第一個冠軍。",
+                    "pt-PT": "Vença uma corrida pela primeira vez no Modo Um Jogador."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "04.png"
+        },
+        "159": {
+            "text": {
+                "name": {
+                    "de-DE": "Rutschige Geschichte",
+                    "en-US": "Born Slippy",
+                    "es-ES": "Derrapar es lo mío",
+                    "fr-FR": "Terrain glissant",
+                    "it-IT": "Lotta nel fango",
+                    "ja-JP": "ボーン スリッピー",
+                    "ko-KR": "날쌘돌이",
+                    "pl-PL": "Na co mi przyczepność?",
+                    "ru-RU": "Борьба в грязи",
+                    "zh-CHT": "滑不溜丟",
+                    "pt-PT": "Escorregadio"
+                },
+                "description": {
+                    "de-DE": "Sie haben Ihr erstes Mischbelag- oder Staubpistenrennen gewonnen.",
+                    "en-US": "You've won your first Mixed-Surface or Dirt Race.",
+                    "es-ES": "Has ganado tu primera carrera de superficie mixta o barro.",
+                    "fr-FR": "Vous avez remporté votre première course sur surface mixte ou sur terre.",
+                    "it-IT": "Hai vinto la tua prima gara sul fondo misto o sterrato.",
+                    "ja-JP": "ミックスまたはダート レースに勝利した",
+                    "ko-KR": "혼합형 노면 또는 더트 레이스에서 첫 승리를 거두었습니다.",
+                    "pl-PL": "Udało Ci się wygrać wyścig na zróżnicowanej nawierzchni lub na szutrze.",
+                    "ru-RU": "Вы выиграли первую гонку на трассе с различным покрытием или на бездорожье.",
+                    "zh-CHT": "您在混合式平面道路賽或越野賽中贏得了勝利。",
+                    "pt-PT": "Você venceu sua primeira Corrida de Terra Batida ou de Superfície Mista."
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie ein Mischbelag- oder ein Staubpistenrennen.",
+                    "en-US": "Win a Mixed-Surface or Dirt Race.",
+                    "es-ES": "Gana una carrera de superficie mixta o barro.",
+                    "fr-FR": "Remportez une course sur surface mixte ou sur terre.",
+                    "it-IT": "Vinci una gara su fondo misto o sterrato.",
+                    "ja-JP": "ミックスまたはダート レースに勝利する",
+                    "ko-KR": "혼합형 노면 또는 더트 레이스에서 승리하십시오.",
+                    "pl-PL": "Wygraj wyścig na zróżnicowanej nawierzchni lub na szutrze.",
+                    "ru-RU": "Выиграть гонку на трассе с различным покрытием или на бездорожье.",
+                    "zh-CHT": "在混合式平面道路賽或越野賽中贏得勝利。",
+                    "pt-PT": "Vença uma Corrida de Terra Batida ou de Superfície Mista."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "160": {
+            "text": {
+                "name": {
+                    "de-DE": "Teufelskerl",
+                    "en-US": "WARNING!!! DANGER TO MANIFOLD",
+                    "es-ES": "¡PRECAUCIÓN! RIESGO DE ROTURA",
+                    "fr-FR": "ALERTE !!! COLLECTEUR EN DANGER",
+                    "it-IT": "ATTENZIONE! TEMPERATURA CRITICA",
+                    "ja-JP": "警告! マニホールドが危ない!",
+                    "ko-KR": "경고! 매니폴드 상태 위험!",
+                    "pl-PL": "UWAGA! OBRYWA SIĘ ZAWIESZENIE",
+                    "ru-RU": "ВНИМАНИЕ! КОЛЛЕКТОР В ОПАСНОСТИ",
+                    "zh-CHT": "警告！對歧管有害！",
+                    "pt-PT": "AVISO!!! PERIGO PARA MUITOS"
+                },
+                "description": {
+                    "de-DE": "Sie haben 10 Straßenrennen gewonnen. Ali wäre begeistert.",
+                    "en-US": "You've won 10 Street Races. Ali would be proud.",
+                    "es-ES": "Has ganado 10 carreras callejeras. Ali estará orgulloso.",
+                    "fr-FR": "Vous avez remporté 10 courses de rue. Ali va être fier.",
+                    "it-IT": "Hai vinto 10 Gare clandestine. Ali sarebbe fiero di te.",
+                    "ja-JP": "10 のストリート レースに勝利した",
+                    "ko-KR": "길거리 레이스에서 10번 승리했습니다. 알리가 자랑스럽게 여기겠군요.",
+                    "pl-PL": "Udało Ci się wygrać 10 wyścigów ulicznych. Ali pewnie jest z Ciebie dumny.",
+                    "ru-RU": "Вы выиграли 10 уличных гонок. Али может вами гордиться.",
+                    "zh-CHT": "您已贏得十場街頭競賽，阿里會以您為榮。",
+                    "pt-PT": "Você venceu 10 Corridas de Rua. Ali ficaria orgulhoso."
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie 10 Straßenrennen.",
+                    "en-US": "Win 10 Street Races.",
+                    "es-ES": "Gana 10 carreras callejeras.",
+                    "fr-FR": "Remportez 10 courses de rue.",
+                    "it-IT": "Vinci 10 Gare clandestine.",
+                    "ja-JP": "10 のストリート レースに勝利する",
+                    "ko-KR": "길거리 레이스에서 10번 승리하십시오.",
+                    "pl-PL": "Wygraj w 10 wyścigach ulicznych.",
+                    "ru-RU": "Выиграть 10 уличных гонок.",
+                    "zh-CHT": "在十場街頭競賽中獲勝。",
+                    "pt-PT": "Vença 10 Corridas de Rua."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "06.png"
+        },
+        "161": {
+            "text": {
+                "name": {
+                    "de-DE": "#SIEG!",
+                    "en-US": "#WINNING!",
+                    "es-ES": "#VICTORIA",
+                    "fr-FR": "#VAINQUEUR !",
+                    "it-IT": "#VITTORIA!",
+                    "ja-JP": "勝利!",
+                    "ko-KR": "승리!",
+                    "pl-PL": "MOJE!",
+                    "ru-RU": "#Победа!",
+                    "zh-CHT": "領先！",
+                    "pt-PT": "#VENCENDO!"
+                },
+                "description": {
+                    "de-DE": "Sie haben 10 Festivalrennen dominiert.",
+                    "en-US": "You've dominated 10 Festival Races.",
+                    "es-ES": "Has dominado en 10 carreras de festival.",
+                    "fr-FR": "Vous avez remporté 10 courses de festival !",
+                    "it-IT": "Hai dominato 10 Gare Festival.",
+                    "ja-JP": "10 のフェスティバル レースに勝利した",
+                    "ko-KR": "페스티벌 레이스에서 10번 승리했습니다.",
+                    "pl-PL": "Udało Ci się zdominować 10 wyścigów podczas festiwalu.",
+                    "ru-RU": "Вы выиграли 10 фестивальных гонок.",
+                    "zh-CHT": "您在十場嘉年華競賽中獲得壓倒性的勝利。",
+                    "pt-PT": "Você dominou 10 Corridas do Festival."
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie 10 Festivalrennen.",
+                    "en-US": "Win 10 Festival Races.",
+                    "es-ES": "Gana 10 carreras de festival.",
+                    "fr-FR": "Remportez 10 courses de festival.",
+                    "it-IT": "Vinci 10 Gare Festival.",
+                    "ja-JP": "10 のフェスティバル レースに勝利する",
+                    "ko-KR": "페스티벌 레이스에서 10번 승리하십시오.",
+                    "pl-PL": "Wygraj w 10 wyścigach podczas festiwalu.",
+                    "ru-RU": "Выиграть 10 фестивальных гонок.",
+                    "zh-CHT": "贏十場嘉年華比賽。",
+                    "pt-PT": "Vença 10 Corridas do Festival."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "07.png"
+        },
+        "162": {
+            "text": {
+                "name": {
+                    "de-DE": "Gefährliche Begegnungen",
+                    "en-US": "Close Encounters",
+                    "es-ES": "Encuentros cercanos",
+                    "fr-FR": "Rencontres",
+                    "it-IT": "Incontri ravvicinati",
+                    "ja-JP": "接近戦",
+                    "ko-KR": "아슬아슬한 경주",
+                    "pl-PL": "Na szybkiego",
+                    "ru-RU": "Близкие контакты",
+                    "zh-CHT": "勝敗交鋒",
+                    "pt-PT": "Contatos Imediatos"
+                },
+                "description": {
+                    "de-DE": "Sie haben 10 Festival-Rennfahrer herausgefordert und sofort geschlagen.",
+                    "en-US": "You've challenged and beaten 10 festival racers on the spot.",
+                    "es-ES": "Has desafiado y vencido a 10 corredores del festival en el acto.",
+                    "fr-FR": "Vous avez défié et battu 10 pilotes de festival.",
+                    "it-IT": "Hai sfidato e stracciato 10 corridori del Festival.",
+                    "ja-JP": "フリー走行チャレンジで 10 人のフェスティバル レーサーに勝利した",
+                    "ko-KR": "레이스에서 페스티벌 레이서 10명에게 도전하여 승리했습니다.",
+                    "pl-PL": "Po rzuceniu wyzwania udało Ci się pokonać 10 napotkanych kierowców.",
+                    "ru-RU": "Вы вызвали на поединок и победили 10 фестивальных гонщиков.",
+                    "zh-CHT": "您已對十名車手下戰書並贏過他們。",
+                    "pt-PT": "Você desafiou e venceu 10 corredores do festival na hora."
+                },
+                "howto": {
+                    "de-DE": "Schlagen Sie 10 Festival-Rennfahrer, die Sie zu einem Rennen herausgefordert haben.",
+                    "en-US": "Beat 10 Festival Racers after challenging them to a race.",
+                    "es-ES": "Vence a 10 corredores del festival después de desafiarlos a una carrera.",
+                    "fr-FR": "Battez 10 pilotes de festival après les avoir défiés.",
+                    "it-IT": "Batti 10 corridori del Festival dopo averli sfidati in una gara.",
+                    "ja-JP": "フリー走行チャレンジで 10 人のフェスティバル レーサーに勝利する",
+                    "ko-KR": "레이스에서 페스티벌 레이서 10명에게 도전하여 승리하십시오.",
+                    "pl-PL": "Pokonaj 10 kierowców na festiwalu po rzuceniu im wyzwania.",
+                    "ru-RU": "Победить 10 фестивальных гонщиков, вызвав их на поединок.",
+                    "zh-CHT": "對 10 名嘉年華車手下戰書並贏過他們。",
+                    "pt-PT": "Derrote 10 Pilotos do Festival após desafiá-los para uma corrida."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "164": {
+            "text": {
+                "name": {
+                    "de-DE": "Gesetzesbrecher",
+                    "en-US": "Lawbreaker",
+                    "es-ES": "Infractor",
+                    "fr-FR": "Hors-la-loi",
+                    "it-IT": "Trasgressore",
+                    "ja-JP": "ロウ ブレイカー",
+                    "ko-KR": "범법자",
+                    "pl-PL": "Na bakier z prawem",
+                    "ru-RU": "Нарушитель",
+                    "zh-CHT": "違法煞星",
+                    "pt-PT": "Fora-da-Lei"
+                },
+                "description": {
+                    "de-DE": "Sie sind an 5 Blitzern und 5 Geschwindigkeitszonen vorbeigerast.",
+                    "en-US": "You blasted past 5 speed traps and 5 speed zones.",
+                    "es-ES": "Has superado 5 radares de velocidad y 5 zonas de velocidad.",
+                    "fr-FR": "Vous avez déclenché 5 radars et 5 zones de vitesse.",
+                    "it-IT": "Sei sfrecciato attraverso 5 Aree di misurazione e 5 zone velocità.",
+                    "ja-JP": "5 つのスピード トラップと 5 つのスピード ゾーンを疾走した",
+                    "ko-KR": "스피드 트랩 5곳과 일반 스피드 존 5곳을 돌파했습니다.",
+                    "pl-PL": "Udało Ci się zdobyć rekordy dla 5 radarów i 5 stref średniej prędkości.",
+                    "ru-RU": "Вы побили рекорды в 5 зонах средней скорости и 5 зонах максимальной скорости.",
+                    "zh-CHT": "您已經在五個測速照相區和五個測速區間展現驚人速度。",
+                    "pt-PT": "Você passou do limite em 5 radares e 5 zonas de velocidade."
+                },
+                "howto": {
+                    "de-DE": "Stellen Sie bei 5 Blitzern und 5 durchschnittl. Geschwindigkeitszonen eine Geschwindigkeit auf.",
+                    "en-US": "Set a speed on 5 speed traps and 5 average speed zones.",
+                    "es-ES": "Establece una velocidad en 5 radares de velocidad y 5 zonas de velocidad.",
+                    "fr-FR": "Déclenchez 5 radars et 5 zones de vitesse.",
+                    "it-IT": "Stabilisci una velocità in 5 Aree di misurazione e 5 Zone a velocità media.",
+                    "ja-JP": "5 つのスピード トラップと 5 つのスピード ゾーンで記録を作る",
+                    "ko-KR": "스피드 트랩 5곳과 일반 스피드 존 5곳을 돌파하십시오.",
+                    "pl-PL": "Ustal rekord na 5 radarach i w 5 strefach prędkości.",
+                    "ru-RU": "Установить рекорд в 5 зонах средней скорости и в 5 зонах максимальной скорости.",
+                    "zh-CHT": "在五個測速照相區和五個測速區間展現過人速度。",
+                    "pt-PT": "Atinja a velocidade necessária em 5 radares e 5 zonas de velocidade média."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "165": {
+            "text": {
+                "name": {
+                    "de-DE": "Vendetta",
+                    "en-US": "Vendetta",
+                    "es-ES": "Venganza",
+                    "fr-FR": "Vendetta",
+                    "it-IT": "Vendetta",
+                    "ja-JP": "縄張り争い",
+                    "ko-KR": "앙갚음",
+                    "pl-PL": "Zemsta",
+                    "ru-RU": "Вендетта",
+                    "zh-CHT": "勝利怪客",
+                    "pt-PT": "Vingança"
+                },
+                "description": {
+                    "de-DE": "Sie haben in 10 Veranstaltungen die Zeit eines Rivalen geschlagen.",
+                    "en-US": "You've beaten a Rival time in 10 events.",
+                    "es-ES": "Has superado el tiempo del rival en 10 eventos.",
+                    "fr-FR": "Vous avez battu le temps d'un rival dans 10 épreuves.",
+                    "it-IT": "Hai battuto il tempo di un rivale in 10 eventi.",
+                    "ja-JP": "イベントで 10 回ライバルの記録に勝利した",
+                    "ko-KR": "10개의 이벤트에서 라이벌을 제압했습니다.",
+                    "pl-PL": "Udało Ci się pokonać rywali w 10 zawodach.",
+                    "ru-RU": "Вы побили рекорды соперников в 10 гонках.",
+                    "zh-CHT": "您已在十場比賽中打敗勁敵。",
+                    "pt-PT": "Você bateu o tempo de um Rival em 10 eventos."
+                },
+                "howto": {
+                    "de-DE": "Schlagen Sie in 10 Veranstaltungen Rivalen.",
+                    "en-US": "Beat Rivals in 10 events.",
+                    "es-ES": "Vence a los rivales en 10 eventos.",
+                    "fr-FR": "Battez vos rivaux dans 10 épreuves.",
+                    "it-IT": "Batti i rivali in 10 eventi.",
+                    "ja-JP": "イベントで 10 回ライバルの記録に勝利する",
+                    "ko-KR": "10개의 이벤트에서 라이벌을 제압하십시오.",
+                    "pl-PL": "Pokonaj rywali w 10 zawodach.",
+                    "ru-RU": "Победить соперников в 10 гонках.",
+                    "zh-CHT": "在十場比賽中打敗勁敵。",
+                    "pt-PT": "Derrote Rivais em 10 eventos."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "10.png"
+        },
+        "166": {
+            "text": {
+                "name": {
+                    "de-DE": "Kenne ich alles!",
+                    "en-US": "Been There, Done That!",
+                    "es-ES": "¡Hecho!",
+                    "fr-FR": "Ça, c'est fait, ça aussi !",
+                    "it-IT": "Già visto, già fatto!",
+                    "ja-JP": "すべて経験済み!",
+                    "ko-KR": "왔노라, 해냈노라!",
+                    "pl-PL": "To by było wszystko!",
+                    "ru-RU": "Я там был, привез магнитик",
+                    "zh-CHT": "我來故我在！",
+                    "pt-PT": "Já Conheço Tudo Isso"
+                },
+                "description": {
+                    "de-DE": "Sie haben alle Einrichtungen beim Horizon-Festival aufgesucht.",
+                    "en-US": "You've fully explored the Horizon Festival Loop.",
+                    "es-ES": "Has explorado por completo el circuito cerrado del festival Horizon.",
+                    "fr-FR": "Vous avez exploré tout le festival Horizon.",
+                    "it-IT": "Hai esplorato l'intero anello del Festival Horizon.",
+                    "ja-JP": "すべての Horizon フェスティバル ループに参加した",
+                    "ko-KR": "Horizon 페스티벌 루프를 모두 둘러보았습니다.",
+                    "pl-PL": "Udało Ci się w pełni poznać tereny festiwalu Horizon.",
+                    "ru-RU": "Вы исследовали все, что было можно на этом фестивале.",
+                    "zh-CHT": "您已經在 Horizon 嘉年華逛了一圈。",
+                    "pt-PT": "Você explorou tudo no Circuito do Festival Horizon."
+                },
+                "howto": {
+                    "de-DE": "Besuchen Sie beim Festival Lackiererei, Autosalon, Auto-Club, Marktplatz, Rennzentrale u. Werkstatt.",
+                    "en-US": "Visit the Paint Shop, Autoshow, Car Club, Marketplace, Race Central, and Workshop at the Festival.",
+                    "es-ES": "Visita el taller de pintura, el garaje, la feria, el club, el bazar y la central de carreras.",
+                    "fr-FR": "Allez à l'atelier de peinture, au salon et au club auto, au Marché, à la direction et au garage.",
+                    "it-IT": "Visita Centro verniciatura, Autosalone, Club, Marketplace, Direzione corse e Garage del Festival.",
+                    "ja-JP": "フェスティバルにあるペイント ショップ、オートショー、クラブ、マーケットプレース、レース セントラル、ダクのガレージを訪問する",
+                    "ko-KR": "페스티벌에서 페인트샵, 모토쇼, 자동차 클럽, 마켓플레이스, 레이스 센트럴, 닥의 차고를 방문하십시오.",
+                    "pl-PL": "Odwiedź Lakiernię, Salon samochodowy, Klub samochodowy, Rynek, Centralę wyścigów oraz Warsztat.",
+                    "ru-RU": "Посетить Покрасочный салон, Автосалон, Автомобильный клуб, Магазин, Гоночный центр и Автосервис.",
+                    "zh-CHT": "在嘉年華中造訪彩繪塗裝商店、汽車展售中心、賽車俱樂部、賣場、賽車中心，以及達克車庫。",
+                    "pt-PT": "Visite a Oficina de Pintura, a Feira de Carros, o Marketplace, a Central de Corrida e a Oficina."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "167": {
+            "text": {
+                "name": {
+                    "de-DE": "Schicke Lackierung",
+                    "en-US": "Rave Paint",
+                    "es-ES": "Pintura famosa",
+                    "fr-FR": "Peintre en herbe",
+                    "it-IT": "Colori di guerra",
+                    "ja-JP": "イカしたペイント",
+                    "ko-KR": "열정의 색",
+                    "pl-PL": "Radosna twórczość",
+                    "ru-RU": "Маляр",
+                    "zh-CHT": "彩繪獎",
+                    "pt-PT": "Pintura Bem Louca"
+                },
+                "description": {
+                    "de-DE": "Sie haben eine Lackierung erstellt und Ihr Auto sieht KLASSE aus!",
+                    "en-US": "You created a paintjob and your ride is looking SWEET!",
+                    "es-ES": "Has creado una pintura de coche, ¡y tu vehículo ha quedado perfecto!",
+                    "fr-FR": "Vous avez créé une peinture et votre voiture a l'air COOL !",
+                    "it-IT": "Hai creato una verniciatura e la tua auto è STUPENDA!",
+                    "ja-JP": "ペイント ジョブを行ってクルマが格好良くなった!",
+                    "ko-KR": "도색 작업을 통해 차를 더 멋지게 바꾸었습니다!",
+                    "pl-PL": "Udało Ci się przygotować wzorzec lakierowania i to WYPAŚNY!",
+                    "ru-RU": "Вы создали модель покраски, и теперь ваша машина выглядит СУПЕРСКИ!",
+                    "zh-CHT": "您建立了一組車輛塗裝，您的愛車看起來真棒！",
+                    "pt-PT": "Você criou uma pintura, e o seu carro tá MANEIRO!"
+                },
+                "howto": {
+                    "de-DE": "Erstellen Sie eine Lackierung und speichern Sie sie.",
+                    "en-US": "Create and save a Paint Job.",
+                    "es-ES": "Crea y guarda una pintura de coche.",
+                    "fr-FR": "Créez et sauvegardez une livrée.",
+                    "it-IT": "Crea e salva una Verniciatura.",
+                    "ja-JP": "ペイント ジョブを行って保存する",
+                    "ko-KR": "도색 작업을 진행하고 저장하십시오.",
+                    "pl-PL": "Utwórz i zapisz wzorzec lakierowania.",
+                    "ru-RU": "Создать и сохранить модель покраски.",
+                    "zh-CHT": "建立並儲存一組車輛塗裝。",
+                    "pt-PT": "Crie e salve uma Pintura."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "12.png"
+        },
+        "168": {
+            "text": {
+                "name": {
+                    "de-DE": "Schnäppchen",
+                    "en-US": "Wheelin' 'n Dealin'",
+                    "es-ES": "Controlando al volante",
+                    "fr-FR": "Apprenti vendeur",
+                    "it-IT": "Le legge del mercato",
+                    "ja-JP": "飛び込み営業",
+                    "ko-KR": "돌고 도는 돈",
+                    "pl-PL": "Handel obwoźny",
+                    "ru-RU": "Ловкий делец",
+                    "zh-CHT": "玩「美」手段",
+                    "pt-PT": "Dirigindo e Negociando"
+                },
+                "description": {
+                    "de-DE": "Sie haben etwas über den Designshop verkauft. TSCHA-TSCHING!",
+                    "en-US": "You sold something via your Storefront. KERCHING!",
+                    "es-ES": "Has vendido algo expuesto en el escaparate. ¡Dinero!",
+                    "fr-FR": "Vous avez vendu quelque chose dans la vitrine de livrée. JACKPOT !",
+                    "it-IT": "Hai venduto qualcosa attraverso la vetrina. Ding-ding!",
+                    "ja-JP": "ストアフロントで売却成功!",
+                    "ko-KR": "디자인 상점에서 판매 실적을 올렸습니다. 횡재했군요!",
+                    "pl-PL": "Udało Ci się sprzedać coś w witrynie. A kasa ląduje w kieszeni!",
+                    "ru-RU": "Вы продали свое творение при помощи выставки. УРА!",
+                    "zh-CHT": "您在虛擬商店賣出了一些東西。謝謝光臨！",
+                    "pt-PT": "Você vendeu alguma coisa pela sua Vitrine. KA-CHING!"
+                },
+                "howto": {
+                    "de-DE": "Verkaufen Sie über den Designshop ein Design oder eine Mustergruppe.",
+                    "en-US": "Sell a design or vinyl group via the Design Storefront.",
+                    "es-ES": "Vende un diseño o un grupo de vinilos en el escaparate de diseños.",
+                    "fr-FR": "Vendez une livrée ou un groupe de vinyles dans la vitrine de livrées.",
+                    "it-IT": "Vendi un design o gruppo vinili attraverso la vetrina design.",
+                    "ja-JP": "デザイン ストアフロントを通してデザインやバイナル グループを売却する",
+                    "ko-KR": "디자인 상점에서 디자인 또는 비닐 그룹을 판매하십시오.",
+                    "pl-PL": "Sprzedaj projekt lub grupę motywów graficznych za pomocą witryny projektów.",
+                    "ru-RU": "Продать дизайн или группу винилов через выставку дизайнов.",
+                    "zh-CHT": "在設計虛擬商店賣出一組設計或是彩繪紋飾群組。",
+                    "pt-PT": "Venda um design ou grupo de vinil na Vitrine de Designs."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "13.png"
+        },
+        "169": {
+            "text": {
+                "name": {
+                    "de-DE": "Für immer Forza",
+                    "en-US": "May The Forza Be With You",
+                    "es-ES": "Que la Forza te acompañe",
+                    "fr-FR": "Que la Forza soit avec vous !",
+                    "it-IT": "Che Forza sia con te",
+                    "ja-JP": "Forza と共にあれ",
+                    "ko-KR": "Forza가 그대와 함께하길",
+                    "pl-PL": "Niech Forza Będzie Z Tobą!",
+                    "ru-RU": "Да пребудет с тобой Forza",
+                    "zh-CHT": "願 Forza 與你同在",
+                    "pt-PT": "Que O Forza Esteja Com Você"
+                },
+                "description": {
+                    "de-DE": "Sie haben kostenlose Fahrzeuge erhalten, weil Sie ein treuer Forza-Fan sind!",
+                    "en-US": "You received free cars for being a loyal Forza fan!",
+                    "es-ES": "¡Has recibido coches gratuitos por ser fan leal de Forza!",
+                    "fr-FR": "Vous avez reçu des voitures gratuites en étant un fidèle de Forza !",
+                    "it-IT": "La tua lealtà alla serie di Forza ti ha valso delle auto gratis!",
+                    "ja-JP": "Forza の熱烈なファンとして認められ、クルマを受け取った!",
+                    "ko-KR": "Forza의 팬에게 증정되는 무료 자동차를 받았습니다!",
+                    "pl-PL": "Udało Ci się zdobyć samochody za bycie wiernym serii gier Forza!",
+                    "ru-RU": "Вы получили бесплатные машины за свою преданность Forza!",
+                    "zh-CHT": "身為 Forza 忠實粉絲的您獲得了免費車輛！",
+                    "pt-PT": "Você recebeu carros gratuitos por ser um fã fiel de Forza!"
+                },
+                "howto": {
+                    "de-DE": "Erhalten Sie Forza-Treuefahrzeuge.",
+                    "en-US": "Receive your Forza loyalty cars.",
+                    "es-ES": "Recibe los coches de fidelidad de Forza.",
+                    "fr-FR": "Recevez vos voitures de fidélité Forza.",
+                    "it-IT": "Ricevi le tue auto fedeltà di Forza.",
+                    "ja-JP": "Forza ロイヤリティ カーを受け取る",
+                    "ko-KR": "FORZA 로열티 자동차를 받으십시오.",
+                    "pl-PL": "Zdobądź samochody w programie lojalnościowym Forza.",
+                    "ru-RU": "Получить машины за верность Forza.",
+                    "zh-CHT": "取得您的 Forza 忠誠獎。",
+                    "pt-PT": "Receba os seus carros de fidelidade Forza."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "14.png"
+        },
+        "170": {
+            "text": {
+                "name": {
+                    "de-DE": "Gern gesehener Gast",
+                    "en-US": "One to Watch",
+                    "es-ES": "A la vista",
+                    "fr-FR": "A surveiller",
+                    "it-IT": "Da tenere d'occhio",
+                    "ja-JP": "注目レーサー",
+                    "ko-KR": "주목할 이름",
+                    "pl-PL": "Czarny koń",
+                    "ru-RU": "Дебютант",
+                    "zh-CHT": "值得期待",
+                    "pt-PT": "Atenção Nesse Cara"
+                },
+                "description": {
+                    "de-DE": "Sie sind der 200-beliebteste Horizon-Fahrer.",
+                    "en-US": "You're the 200th most popular driver at Horizon.",
+                    "es-ES": "Eres el conductor más popular número 200 de Horizon.",
+                    "fr-FR": "Vous êtes le 200e pilote le plus populaire d'Horizon.",
+                    "it-IT": "Sei il 200° pilota più popolare di Horizon.",
+                    "ja-JP": "人気レベルランキングで 200 位以内に入った",
+                    "ko-KR": "Horizon에서 200번째로 유명한 운전자가 되었습니다.",
+                    "pl-PL": "Udało Ci się zdobyć pozycję nr 200 na tablicy popularności.",
+                    "ru-RU": "Вы 200-й по популярности гонщик на фестивале.",
+                    "zh-CHT": "您已登上人氣排行的第 200 名。",
+                    "pt-PT": "Você é o 200º piloto mais popular no Horizon."
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie in der Beliebtheitsrangliste Platz 200.",
+                    "en-US": "Get to 200th Position on the popularity chart.",
+                    "es-ES": "Alcanza la posición 200 en la tabla de popularidad.",
+                    "fr-FR": "Atteignez la 200e position dans le classement de popularité.",
+                    "it-IT": "Raggiungi la 200º posizione nella classifica di popolarità.",
+                    "ja-JP": "人気レベルランキングで 200 位以内に入る",
+                    "ko-KR": "인지도 차트 200위에 진입하십시오.",
+                    "pl-PL": "Zdobądź pozycję nr 200 na tablicy popularności.",
+                    "ru-RU": "Занять 200-е место в хит-параде популярности.",
+                    "zh-CHT": "登上人氣排行的第 200 名。",
+                    "pt-PT": "Chegue à 200ª posição no gráfico de popularidade."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "15.png"
+        },
+        "171": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein aufsteigender Stern",
+                    "en-US": "The Next Big Thing",
+                    "es-ES": "Pasos de gigante",
+                    "fr-FR": "Un avenir prometteur",
+                    "it-IT": "Una promessa",
+                    "ja-JP": "将来有望",
+                    "ko-KR": "예비 유명인",
+                    "pl-PL": "Groźny rywal",
+                    "ru-RU": "Грандиозные планы",
+                    "zh-CHT": "精彩可期",
+                    "pt-PT": "A Próxima Sensação"
+                },
+                "description": {
+                    "de-DE": "Sie sind der 100-beliebteste Horizon-Fahrer.",
+                    "en-US": "You're the 100th most popular driver at Horizon.",
+                    "es-ES": "Eres el conductor más popular número 100 de Horizon.",
+                    "fr-FR": "Vous êtes le 100e pilote le plus populaire d'Horizon.",
+                    "it-IT": "Sei il 100° pilota più popolare di Horizon.",
+                    "ja-JP": "人気レベルランキングで 100 位以内に入った",
+                    "ko-KR": "Horizon에서 100번째로 유명한 운전자가 되었습니다.",
+                    "pl-PL": "Udało Ci się zdobyć pozycję nr 100 na tablicy popularności.",
+                    "ru-RU": "Вы сотый по популярности гонщик на фестивале.",
+                    "zh-CHT": "您已登上人氣排行的第 100 名。",
+                    "pt-PT": "Você é o 100º piloto mais popular no Horizon."
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie in der Beliebtheitsrangliste Platz 100.",
+                    "en-US": "Get to 100th Position on the popularity chart.",
+                    "es-ES": "Alcanza la posición 100 en la tabla de popularidad.",
+                    "fr-FR": "Atteignez la 100e position dans le classement de popularité.",
+                    "it-IT": "Raggiungi la 100º posizione nella classifica di popolarità.",
+                    "ja-JP": "人気レベルランキングで 100 位以内に入る",
+                    "ko-KR": "인지도 차트 100위에 진입하십시오.",
+                    "pl-PL": "Zdobądź pozycję nr 100 na tablicy popularności.",
+                    "ru-RU": "Занять 100-е место в хит-параде популярности.",
+                    "zh-CHT": "登上人氣排行的第 100 名。",
+                    "pt-PT": "Chegue à 100ª posição no gráfico de popularidade."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "16.png"
+        },
+        "172": {
+            "text": {
+                "name": {
+                    "de-DE": "Fast berühmt",
+                    "en-US": "Almost Famous",
+                    "es-ES": "Casi celebridad",
+                    "fr-FR": "Presque célèbre",
+                    "it-IT": "Quasi famoso",
+                    "ja-JP": "もう少しで人気者",
+                    "ko-KR": "차세대 거물",
+                    "pl-PL": "Prawie gwiazda",
+                    "ru-RU": "Почти знаменит",
+                    "zh-CHT": "人人稱道",
+                    "pt-PT": "Quase Famoso"
+                },
+                "description": {
+                    "de-DE": "Sie sind der 50-beliebteste Horizon-Fahrer.",
+                    "en-US": "You're the 50th most popular driver at Horizon.",
+                    "es-ES": "Eres el conductor más popular número 50 de Horizon.",
+                    "fr-FR": "Vous êtes le 50e pilote le plus populaire d'Horizon.",
+                    "it-IT": "Sei il 50° pilota più popolare di Horizon.",
+                    "ja-JP": "人気レベルランキングで 50 位以内に入った",
+                    "ko-KR": "Horizon에서 50번째로 유명한 운전자가 되었습니다.",
+                    "pl-PL": "Udało Ci się zdobyć pozycję nr 50 na tablicy popularności.",
+                    "ru-RU": "Вы пятидесятый по популярности гонщик на фестивале",
+                    "zh-CHT": "您已登上人氣排行的第 50 名。",
+                    "pt-PT": "Você é o 50º piloto mais popular no Horizon."
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie in der Beliebtheitsrangliste Platz 50.",
+                    "en-US": "Get to 50th Position on the popularity chart.",
+                    "es-ES": "Alcanza la posición 50 en la tabla de popularidad.",
+                    "fr-FR": "Atteignez la 50e position dans le classement de popularité.",
+                    "it-IT": "Raggiungi la 50º posizione nella classifica di popolarità.",
+                    "ja-JP": "人気レベルランキングで 50 位以内に入る",
+                    "ko-KR": "인지도 차트 50위에 진입하십시오.",
+                    "pl-PL": "Zdobądź pozycję nr 50 na tablicy popularności.",
+                    "ru-RU": "Занять 50-е место в хит-параде популярности.",
+                    "zh-CHT": "登上人氣排行的第 50 名。",
+                    "pt-PT": "Chegue à 50ª posição no gráfico de popularidade."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "17.png"
+        },
+        "173": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein echter Star",
+                    "en-US": "Killer Skills",
+                    "es-ES": "Dotes de genio",
+                    "fr-FR": "Prouesses notables",
+                    "it-IT": "Talento straordinario",
+                    "ja-JP": "凄腕",
+                    "ko-KR": "끝내주는 기술",
+                    "pl-PL": "Wyjątkowy talent",
+                    "ru-RU": "Близко к успеху",
+                    "zh-CHT": "殺手級技術",
+                    "pt-PT": "Habilidades Matadoras"
+                },
+                "description": {
+                    "de-DE": "Sie sind der zehntbeliebteste Horizon-Fahrer.",
+                    "en-US": "You're the 10th most popular driver at Horizon.",
+                    "es-ES": "Eres el conductor más popular número 10 de Horizon.",
+                    "fr-FR": "Vous êtes le 10e pilote le plus populaire d'Horizon.",
+                    "it-IT": "Sei il 10° pilota più popolare di Horizon.",
+                    "ja-JP": "人気レベルランキングで 10 位以内に入った",
+                    "ko-KR": "Horizon에서 10번째로 유명한 운전자가 되었습니다.",
+                    "pl-PL": "Udało Ci się zdobyć pozycję nr 10 na tablicy popularności.",
+                    "ru-RU": "Вы десятый по популярности гонщик на фестивале.",
+                    "zh-CHT": "您已登上人氣排行的第 10 名。",
+                    "pt-PT": "Você é o 10º piloto mais popular no Horizon."
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie in der Beliebtheitsrangliste Platz 10.",
+                    "en-US": "Get to 10th Position on the popularity chart.",
+                    "es-ES": "Alcanza la posición 10 en la tabla de popularidad.",
+                    "fr-FR": "Atteignez la 10e position dans le classement de popularité.",
+                    "it-IT": "Raggiungi la 10º posizione nella classifica di popolarità.",
+                    "ja-JP": "人気レベルランキングで 10 位以内に入る",
+                    "ko-KR": "인지도 차트 10위에 진입하십시오.",
+                    "pl-PL": "Zdobądź pozycję nr 10 na tablicy popularności.",
+                    "ru-RU": "Попасть на 10-е место в хит-параде популярности.",
+                    "zh-CHT": "登上人氣排行的第 10 名。",
+                    "pt-PT": "Chegue à 10ª posição no gráfico de popularidade."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "18.png"
+        },
+        "174": {
+            "text": {
+                "name": {
+                    "de-DE": "Weltberühmt",
+                    "en-US": "Notorious",
+                    "es-ES": "Notorio",
+                    "fr-FR": "Célèbre",
+                    "it-IT": "Celebrità",
+                    "ja-JP": "危険な有名人",
+                    "ko-KR": "빛나는 그 이름",
+                    "pl-PL": "Gwiazda",
+                    "ru-RU": "Звездная болезнь",
+                    "zh-CHT": "震古鑠今",
+                    "pt-PT": "Notório"
+                },
+                "description": {
+                    "de-DE": "Sie sind der beliebteste Horizon-Fahrer.",
+                    "en-US": "You're the most popular driver at Horizon.",
+                    "es-ES": "Eres el conductor más popular de Horizon.",
+                    "fr-FR": "Vous êtes le pilote le plus populaire d'Horizon.",
+                    "it-IT": "Sei il pilota più popolare di Horizon.",
+                    "ja-JP": "人気レベルランキングで 1 位になった",
+                    "ko-KR": "Horizon에서 가장 유명한 운전자가 되었습니다.",
+                    "pl-PL": "Udało Ci się zdobyć najwyższą pozycję na tablicy popularności.",
+                    "ru-RU": "Вы самый популярный гонщик на фестивале.",
+                    "zh-CHT": "您已是 Horizon 中的人氣王。",
+                    "pt-PT": "Você é o piloto mais popular no Horizon."
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie in der Beliebtheitsrangliste den ersten Platz.",
+                    "en-US": "Get to 1st Position on the popularity chart.",
+                    "es-ES": "Alcanza la posición 1 en la tabla de popularidad.",
+                    "fr-FR": "Atteignez la 1e position dans le classement de popularité.",
+                    "it-IT": "Raggiungi la 1º posizione nella classifica di popolarità.",
+                    "ja-JP": "人気レベルランキングで 1 位になる",
+                    "ko-KR": "인지도 차트 1위에 오르십시오.",
+                    "pl-PL": "Zdobądź pozycję nr 1 na tablicy popularności.",
+                    "ru-RU": "Попасть на первое место в хит-параде популярности.",
+                    "zh-CHT": "登上人氣排行的第 1 名。",
+                    "pt-PT": "Chegue à 1ª posição no gráfico de popularidade."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "19.png"
+        },
+        "175": {
+            "text": {
+                "name": {
+                    "de-DE": "Armschmuck",
+                    "en-US": "A Wristed Development",
+                    "es-ES": "Avances muñequeros",
+                    "fr-FR": "À la force du poignet",
+                    "it-IT": "Passa col giallo",
+                    "ja-JP": "リストバンド獲得",
+                    "ko-KR": "손목 밴드의 발전",
+                    "pl-PL": "O co chodzi z tymi opaskami?",
+                    "ru-RU": "Желтопузый",
+                    "zh-CHT": "增長見識",
+                    "pt-PT": "A Evolução das Pulseiras"
+                },
+                "description": {
+                    "de-DE": "Sie haben sich das gelbe Armband gesichert.",
+                    "en-US": "You received your Yellow Wristband.",
+                    "es-ES": "Has recibido la muñequera amarilla.",
+                    "fr-FR": "Vous avez reçu votre bracelet jaune.",
+                    "it-IT": "Hai ricevuto il bracciale giallo.",
+                    "ja-JP": "イエロー リストバンドを受け取った",
+                    "ko-KR": "옐로 손목 밴드를 받았습니다.",
+                    "pl-PL": "Udało Ci się zdobyć żółtą opaskę na nadgarstek.",
+                    "ru-RU": "Вы получили желтый браслет.",
+                    "zh-CHT": "您獲得了黃色腕帶。",
+                    "pt-PT": "Você recebeu a sua Pulseira Amarela."
+                },
+                "howto": {
+                    "de-DE": "Sichern Sie sich das gelbe Armband.",
+                    "en-US": "Receive the Yellow Wristband.",
+                    "es-ES": "Recibe la muñequera amarilla.",
+                    "fr-FR": "Recevez le bracelet jaune.",
+                    "it-IT": "Ricevi il bracciale giallo.",
+                    "ja-JP": "イエロー リストバンドを受け取る",
+                    "ko-KR": "옐로 손목 밴드를 받으십시오.",
+                    "pl-PL": "Zdobądź żółtą opaskę na nadgarstek.",
+                    "ru-RU": "Получить желтый браслет.",
+                    "zh-CHT": "獲得黃色腕帶。",
+                    "pt-PT": "Receba a Pulseira Amarela."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "20.png"
+        },
+        "176": {
+            "text": {
+                "name": {
+                    "de-DE": "Im grünen Bereich",
+                    "en-US": "Going Green",
+                    "es-ES": "Verde que te quiero verde",
+                    "fr-FR": "Mise au vert",
+                    "it-IT": "Svolta verde",
+                    "ja-JP": "グリーンになる",
+                    "ko-KR": "친환경 밴드",
+                    "pl-PL": "Zielono mi",
+                    "ru-RU": "Зеленей зеленого",
+                    "zh-CHT": "初試啼聲",
+                    "pt-PT": "Ficando Verde"
+                },
+                "description": {
+                    "de-DE": "Sie haben sich das grüne Armband gesichert.",
+                    "en-US": "You received your Green Wristband.",
+                    "es-ES": "Has recibido la muñequera verde.",
+                    "fr-FR": "Vous avez reçu votre bracelet vert.",
+                    "it-IT": "Hai ricevuto il bracciale verde.",
+                    "ja-JP": "グリーン リストバンドを受け取った",
+                    "ko-KR": "그린 손목 밴드를 받았습니다.",
+                    "pl-PL": "Udało Ci się zdobyć zieloną opaskę na nadgarstek.",
+                    "ru-RU": "Вы получили зеленый браслет.",
+                    "zh-CHT": "您獲得了綠色腕帶。",
+                    "pt-PT": "Você recebeu a sua Pulseira Verde."
+                },
+                "howto": {
+                    "de-DE": "Sichern Sie sich das grüne Armband.",
+                    "en-US": "Receive the Green Wristband.",
+                    "es-ES": "Recibe la muñequera verde.",
+                    "fr-FR": "Recevez le bracelet vert.",
+                    "it-IT": "Ricevi il bracciale verde.",
+                    "ja-JP": "グリーン リストバンドを受け取る",
+                    "ko-KR": "그린 손목 밴드를 받으십시오.",
+                    "pl-PL": "Zdobądź zieloną opaskę na nadgarstek.",
+                    "ru-RU": "Получить зеленый браслет.",
+                    "zh-CHT": "獲得綠色腕帶。",
+                    "pt-PT": "Receba a Pulseira Verde."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "21.png"
+        },
+        "177": {
+            "text": {
+                "name": {
+                    "de-DE": "Fahrt ins Blaue",
+                    "en-US": "Out of the Blue",
+                    "es-ES": "Sangre azul",
+                    "fr-FR": "Tombé du ciel",
+                    "it-IT": "Dipinto di blu",
+                    "ja-JP": "突然のブルー",
+                    "ko-KR": "푸릇푸릇",
+                    "pl-PL": "Szafirowy błękit",
+                    "ru-RU": "Глубокое синее море",
+                    "zh-CHT": "出人意料",
+                    "pt-PT": "Tudo Azul"
+                },
+                "description": {
+                    "de-DE": "Sie haben sich das blaue Armband gesichert.",
+                    "en-US": "You received your Blue Wristband.",
+                    "es-ES": "Has recibido la muñequera azul.",
+                    "fr-FR": "Vous avez reçu votre bracelet bleu.",
+                    "it-IT": "Hai ricevuto il bracciale blu.",
+                    "ja-JP": "ブルー リストバンドを受け取った",
+                    "ko-KR": "블루 손목 밴드를 받았습니다.",
+                    "pl-PL": "Udało Ci się zdobyć niebieską opaskę na nadgarstek.",
+                    "ru-RU": "Вы получили синий повязку.",
+                    "zh-CHT": "您獲得了藍色腕帶。",
+                    "pt-PT": "Você recebeu a sua Pulseira Azul."
+                },
+                "howto": {
+                    "de-DE": "Sichern Sie sich das blaue Armband.",
+                    "en-US": "Receive the Blue Wristband.",
+                    "es-ES": "Recibe la muñequera azul.",
+                    "fr-FR": "Recevez le bracelet bleu.",
+                    "it-IT": "Ricevi il bracciale blu.",
+                    "ja-JP": "ブルー リストバンドを受け取る",
+                    "ko-KR": "블루 손목 밴드를 받으십시오.",
+                    "pl-PL": "Zdobądź niebieską opaskę na nadgarstek.",
+                    "ru-RU": "Получить синий браслет.",
+                    "zh-CHT": "獲得藍色腕帶。",
+                    "pt-PT": "Receba a Pulseira Azul."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "22.png"
+        },
+        "178": {
+            "text": {
+                "name": {
+                    "de-DE": "Pinke, Pinke",
+                    "en-US": "Racing for Pinks",
+                    "es-ES": "Una rosa sin espinas",
+                    "fr-FR": "La vie en rose",
+                    "it-IT": "Rosa senza spine",
+                    "ja-JP": "ピンクのためにレース",
+                    "ko-KR": "핑크빛 트랙",
+                    "pl-PL": "Różowy? Serio?",
+                    "ru-RU": "Гламурные гонки",
+                    "zh-CHT": "命中注定得到你",
+                    "pt-PT": "Rosa Sem Espinhos"
+                },
+                "description": {
+                    "de-DE": "Sie haben sich das rosa Armband gesichert.",
+                    "en-US": "You received your Pink Wristband.",
+                    "es-ES": "Has recibido la muñequera rosa.",
+                    "fr-FR": "Vous avez reçu votre bracelet rose.",
+                    "it-IT": "Hai ricevuto il bracciale rosa.",
+                    "ja-JP": "ピンク リストバンドを受け取った",
+                    "ko-KR": "핑크 손목 밴드를 받았습니다.",
+                    "pl-PL": "Udało Ci się zdobyć różową opaskę na nadgarstek.",
+                    "ru-RU": "Вы получили розовый браслет.",
+                    "zh-CHT": "您獲得了粉紅腕帶。",
+                    "pt-PT": "Você recebeu a sua Pulseira Rosa."
+                },
+                "howto": {
+                    "de-DE": "Sichern Sie sich das rosa Armband.",
+                    "en-US": "Receive the Pink Wristband.",
+                    "es-ES": "Recibe la muñequera rosa.",
+                    "fr-FR": "Recevez le bracelet rose.",
+                    "it-IT": "Ricevi il bracciale rosa.",
+                    "ja-JP": "ピンク リストバンドを受け取る",
+                    "ko-KR": "핑크 손목 밴드를 받으십시오.",
+                    "pl-PL": "Zdobądź różową opaskę na nadgarstek.",
+                    "ru-RU": "Получить розовый браслет.",
+                    "zh-CHT": "獲得粉紅腕帶。",
+                    "pt-PT": "Receba a Pulseira Rosa."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "35",
+            "imageId": "23.png"
+        },
+        "179": {
+            "text": {
+                "name": {
+                    "de-DE": "Frisch gepresst",
+                    "en-US": "Freshly Squeezed",
+                    "es-ES": "Recién exprimida",
+                    "fr-FR": "100 % pur jus",
+                    "it-IT": "Spremuta fresca",
+                    "ja-JP": "しぼりたて",
+                    "ko-KR": "갓 짜낸 신선함",
+                    "pl-PL": "Niczym świeżo wyciśnięty sok",
+                    "ru-RU": "Оранжевое небо",
+                    "zh-CHT": "就像現榨的新鮮果汁",
+                    "pt-PT": "Espremido na Hora"
+                },
+                "description": {
+                    "de-DE": "Sie haben sich das orangefarbene Armband gesichert.",
+                    "en-US": "You received your Orange Wristband.",
+                    "es-ES": "Has recibido una muñequera naranja.",
+                    "fr-FR": "Vous avez reçu votre bracelet orange.",
+                    "it-IT": "Hai ricevuto il bracciale arancione.",
+                    "ja-JP": "オレンジ リストバンドを受け取った",
+                    "ko-KR": "오렌지 손목 밴드를 받았습니다.",
+                    "pl-PL": "Udało Ci się zdobyć pomarańczową opaskę na nadgarstek.",
+                    "ru-RU": "Вы получили оранжевый браслет.",
+                    "zh-CHT": "您獲得了橙色腕帶。",
+                    "pt-PT": "Você recebeu a sua Pulseira Laranja."
+                },
+                "howto": {
+                    "de-DE": "Sichern Sie sich das orangefarbene Armband.",
+                    "en-US": "Receive the Orange Wristband.",
+                    "es-ES": "Recibe la muñequera naranja.",
+                    "fr-FR": "Recevez le bracelet orange.",
+                    "it-IT": "Ricevi il bracciale arancione.",
+                    "ja-JP": "オレンジ リストバンドを受け取る",
+                    "ko-KR": "오렌지 손목 밴드를 받으십시오.",
+                    "pl-PL": "Zdobądź pomarańczową opaskę na nadgarstek.",
+                    "ru-RU": "Получить оранжевый браслет.",
+                    "zh-CHT": "獲得橙色腕帶。",
+                    "pt-PT": "Receba a Pulseira Laranja."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "24.png"
+        },
+        "180": {
+            "text": {
+                "name": {
+                    "de-DE": "Lila-lu",
+                    "en-US": "Purple Reign",
+                    "es-ES": "Te has puesto morado",
+                    "fr-FR": "Touche de violet",
+                    "it-IT": "Asso del violante",
+                    "ja-JP": "パープル大流行",
+                    "ko-KR": "보라색의 위엄",
+                    "pl-PL": "Ultrafiolet...tyko bez ultra",
+                    "ru-RU": "Сиреневенький",
+                    "zh-CHT": "紫色奇蹟",
+                    "pt-PT": "Chuva Púrpura"
+                },
+                "description": {
+                    "de-DE": "Sie haben sich das lila Armband gesichert.",
+                    "en-US": "You received your Purple Wristband.",
+                    "es-ES": "Has recibido la muñequera morada.",
+                    "fr-FR": "Vous avez reçu votre bracelet violet.",
+                    "it-IT": "Hai ricevuto il bracciale viola.",
+                    "ja-JP": "パープル リストバンドを受け取った",
+                    "ko-KR": "퍼플 손목 밴드를 받았습니다.",
+                    "pl-PL": "Udało Ci się zdobyć fioletową opaskę na nadgarstek.",
+                    "ru-RU": "Вы получили фиолетовый браслет.",
+                    "zh-CHT": "您獲得了紫色腕帶。",
+                    "pt-PT": "Você recebeu a sua Pulseira Púrpura."
+                },
+                "howto": {
+                    "de-DE": "Sichern Sie sich das lila Armband.",
+                    "en-US": "Receive the Purple Wristband.",
+                    "es-ES": "Recibe la muñequera morada.",
+                    "fr-FR": "Recevez le bracelet violet.",
+                    "it-IT": "Ricevi il bracciale viola.",
+                    "ja-JP": "パープル リストバンドを受け取る",
+                    "ko-KR": "퍼플 손목 밴드를 받으십시오.",
+                    "pl-PL": "Zdobądź fioletową opaskę na nadgarstek.",
+                    "ru-RU": "Получить фиолетовый браслет.",
+                    "zh-CHT": "獲得紫色腕帶。",
+                    "pt-PT": "Receba a Pulseira Púrpura."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "45",
+            "imageId": "25.png"
+        },
+        "181": {
+            "text": {
+                "name": {
+                    "de-DE": "Goldjunge",
+                    "en-US": "Golden Boy",
+                    "es-ES": "Es oro todo lo que reluce",
+                    "fr-FR": "De l'or en barre",
+                    "it-IT": "Golden Boy",
+                    "ja-JP": "ゴールデン ボーイ",
+                    "ko-KR": "황금빛 소년",
+                    "pl-PL": "Wszystko złoto...",
+                    "ru-RU": "Золотой ребенок",
+                    "zh-CHT": "小卒金閃閃",
+                    "pt-PT": "Garoto Dourado"
+                },
+                "description": {
+                    "de-DE": "Sie haben sich das goldene Armband gesichert.",
+                    "en-US": "You received the Golden Wristband.",
+                    "es-ES": "Has recibido la muñequera dorada.",
+                    "fr-FR": "Vous avez reçu votre bracelet or.",
+                    "it-IT": "Hai ricevuto il bracciale oro.",
+                    "ja-JP": "ゴールド リストバンドを受け取った",
+                    "ko-KR": "골드 손목 밴드를 받았습니다.",
+                    "pl-PL": "Udało Ci się zdobyć złotą opaskę na nadgarstek.",
+                    "ru-RU": "Вы получили золотой браслет.",
+                    "zh-CHT": "您獲得了金色腕帶。",
+                    "pt-PT": "Você recebeu a Pulseira Dourada."
+                },
+                "howto": {
+                    "de-DE": "Sichern Sie sich das goldene Armband.",
+                    "en-US": "Receive the Golden Wristband.",
+                    "es-ES": "Recibe la muñequera dorada.",
+                    "fr-FR": "Recevez le bracelet or.",
+                    "it-IT": "Ricevi il bracciale oro.",
+                    "ja-JP": "ゴールド リストバンドを受け取る",
+                    "ko-KR": "골드 손목 밴드를 받으십시오.",
+                    "pl-PL": "Zdobądź złotą opaskę na nadgarstek.",
+                    "ru-RU": "Получить золотой браслет.",
+                    "zh-CHT": "獲得金色腕帶。",
+                    "pt-PT": "Receba a Pulseira Dourada."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "26.png"
+        },
+        "182": {
+            "text": {
+                "name": {
+                    "de-DE": "Darius wer?",
+                    "en-US": "Darius Who?",
+                    "es-ES": "Darius... ¿qué?",
+                    "fr-FR": "Darius qui ?",
+                    "it-IT": "Darius chi?",
+                    "ja-JP": "ダリウスって誰?",
+                    "ko-KR": "다리우스... 누구라고?",
+                    "pl-PL": "Jaki Darius?",
+                    "ru-RU": "Какой-такой Дарий?",
+                    "zh-CHT": "達瑞斯是誰？",
+                    "pt-PT": "Darius? Que Darius?"
+                },
+                "description": {
+                    "de-DE": "Sie haben Darius Flynt dominiert und sind Champion des Horizon-Festivals.",
+                    "en-US": "You owned Darius Flynt and became the Horizon Festival champion.",
+                    "es-ES": "Has superado a Darius Flynt y te has convertido en campeón del festival Horizon.",
+                    "fr-FR": "Vous avez battu Darius Flynt et êtes devenu le champion du festival Horizon.",
+                    "it-IT": "Hai travolto Darius Flynt, diventando il campione del Festival Horizon.",
+                    "ja-JP": "ダリウス・フリントに勝ち、Horizon フェスティバルのチャンピオンとなった",
+                    "ko-KR": "다리우스 플린트를 꺾고 Horizon 페스티벌 챔피언이 되었습니다.",
+                    "pl-PL": "Udało Ci się pokonać Dariusa Flynta i zdobyć tyuł mistrza festiwalu Horizon.",
+                    "ru-RU": "Вы победили Дария Флинта и стали чемпионом фестиваля Horizon.",
+                    "zh-CHT": "你擊敗了達瑞斯，成為 Horizon 嘉年華的冠軍。",
+                    "pt-PT": "Você acabou com Darius Flynt e se tornou o campeão do Festival Horizon."
+                },
+                "howto": {
+                    "de-DE": "Werden Sie Champion des Horizon-Festivals.",
+                    "en-US": "Become the champion of the Horizon Festival.",
+                    "es-ES": "Conviértete en campeón del festival Horizon.",
+                    "fr-FR": "Devenez le champion du festival Horizon.",
+                    "it-IT": "Diventa il campione del Festival Horizon.",
+                    "ja-JP": "ダリウス・フリントに勝ち、Horizon フェスティバルのチャンピオンになる",
+                    "ko-KR": "Horizon 페스티벌 챔피언이 되십시오.",
+                    "pl-PL": "Zdobądź tyłu mistrza festiwalu Horizon.",
+                    "ru-RU": "Станьте чемпионом фестиваля Horizon.",
+                    "zh-CHT": "成為 Horizon 嘉年華的冠軍。",
+                    "pt-PT": "Torne-se o campeão do Festival Horizon."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "100",
+            "imageId": "27.png"
+        },
+        "183": {
+            "text": {
+                "name": {
+                    "de-DE": "Schwierige Kiste",
+                    "en-US": "Hard Driving",
+                    "es-ES": "Conducción difícil",
+                    "fr-FR": "Pilotage difficile",
+                    "it-IT": "Guida difficile",
+                    "ja-JP": "難関ドライビング",
+                    "ko-KR": "고난도 운전",
+                    "pl-PL": "Nie jest łatwo",
+                    "ru-RU": "Тяжело в учении",
+                    "zh-CHT": "硬派風格",
+                    "pt-PT": "Direção Complicada"
+                },
+                "description": {
+                    "de-DE": "Sie sind mit schwerem Schwierigkeitsgrad Erster geworden? Super.",
+                    "en-US": "You finished in first place on HARD? Nice.",
+                    "es-ES": "¿Has terminado en primera posición en difícil? Bien.",
+                    "fr-FR": "Vous avez terminé premier en DIFFICILE ? Joli.",
+                    "it-IT": "Sei arrivato in prima posizione al livello difficile? Grande!",
+                    "ja-JP": "ハード モードで 1 位? すごいな",
+                    "ko-KR": "어려움 난이도 레이스에서 1위를 했군요? 대단합니다.",
+                    "pl-PL": "Udało Ci się wygrać na poziomie Trudny? Nieźle!",
+                    "ru-RU": "Первое место на тяжелом уровне? Круто.",
+                    "zh-CHT": "您跑完了第一場困難的比賽？好極了。",
+                    "pt-PT": "Você terminou em primeiro lugar no DIFÍCIL? Legal."
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie ein Rennen mit schwerem Schwierigkeitsgrad.",
+                    "en-US": "Win a race on the Hard difficulty setting.",
+                    "es-ES": "Gana una carrera con la configuración difícil.",
+                    "fr-FR": "Remportez une course en mode difficile.",
+                    "it-IT": "Vinci una gara al livello difficile.",
+                    "ja-JP": "難易度ハードでレースに勝利する",
+                    "ko-KR": "어려움 난이도 레이스에서 승리하십시오.",
+                    "pl-PL": "Wygraj wyścig na poziomie Trudny.",
+                    "ru-RU": "Выиграть гонку на тяжелом уровне сложности.",
+                    "zh-CHT": "在 [困難] 難度設定下贏得一場比賽。",
+                    "pt-PT": "Vença uma corrida na dificuldade Difícil."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "28.png"
+        },
+        "184": {
+            "text": {
+                "name": {
+                    "de-DE": "Auftrag ausgeführt",
+                    "en-US": "Gettin' It Done",
+                    "es-ES": "Misión cumplida",
+                    "fr-FR": "Festivalier",
+                    "it-IT": "Missione compiuta",
+                    "ja-JP": "任務完了",
+                    "ko-KR": "완전 정복",
+                    "pl-PL": "Kawał dobrej roboty",
+                    "ru-RU": "Выполнить на все сто",
+                    "zh-CHT": "搞定",
+                    "pt-PT": "Resolvendo a Parada"
+                },
+                "description": {
+                    "de-DE": "Sie haben jede einzelne Festivalveranstaltung gerockt.",
+                    "en-US": "You rocked every single Festival Event.",
+                    "es-ES": "Has sobresalido en todos los eventos de festival.",
+                    "fr-FR": "Vous avez remporté toutes les épreuves de festival.",
+                    "it-IT": "Hai stracciato ogni evento del Festival.",
+                    "ja-JP": "すべてのフェスティバル イベントに勝利した",
+                    "ko-KR": "페스티벌 레이스를 완전 제패했습니다.",
+                    "pl-PL": "Udało Ci się wygrać we wszystkich zawodach na festiwalu.",
+                    "ru-RU": "Вы выиграли все фестивальные гонки.",
+                    "zh-CHT": "您已在每一場嘉年華活動中展現過人實力。",
+                    "pt-PT": "Você detonou cada um dos Eventos do Festival."
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie alle Festivalrennen.",
+                    "en-US": "Win all Festival Races.",
+                    "es-ES": "Gana todas las carreras de festival.",
+                    "fr-FR": "Remportez toutes les courses de festival.",
+                    "it-IT": "Vinci tutte le Gare Festival.",
+                    "ja-JP": "すべてのフェスティバルのレースに勝利する",
+                    "ko-KR": "모든 페스티벌 레이스에서 승리하십시오.",
+                    "pl-PL": "Wygraj we wszystkich wyścigach podczas festiwalu.",
+                    "ru-RU": "Выиграть все фестивальные гонки.",
+                    "zh-CHT": "在所有遊戲中的嘉年華活動中獲勝。",
+                    "pt-PT": "Vença todas as Corridas do Festival."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "29.png"
+        },
+        "185": {
+            "text": {
+                "name": {
+                    "de-DE": "Win Diesel",
+                    "en-US": "Win Diesel",
+                    "es-ES": "Diésel en la calle",
+                    "fr-FR": "Pilote de rue",
+                    "it-IT": "Re della strada",
+                    "ja-JP": "Diesel 獲得",
+                    "ko-KR": "승리의 디젤",
+                    "pl-PL": "Prawie Vin Diesel",
+                    "ru-RU": "Лютый Уин Дизель",
+                    "zh-CHT": "超世紀車手",
+                    "pt-PT": "Vencedor E Furioso"
+                },
+                "description": {
+                    "de-DE": "Sie haben die Konkurrenz hinter sich gelassen und alle Straßenrennen gewonnen.",
+                    "en-US": "You cruised past the competition and won every Street Race.",
+                    "es-ES": "Has superado a los competidores y ganado todas las carreras callejeras.",
+                    "fr-FR": "Vous avez dominé vos adversaires et remporté toutes les courses de rue.",
+                    "it-IT": "Hai travolto gli avversari, vincendo ogni Gara clandestina.",
+                    "ja-JP": "すべてのストリート レースに勝利した",
+                    "ko-KR": "모든 길거리 레이스에 참가하여 승리를 거두었습니다.",
+                    "pl-PL": "Udało Ci się pokonać konkurencję we wszystkich wyścigach ulicznych.",
+                    "ru-RU": "Вы обошли всех и выиграли все уличные гонки.",
+                    "zh-CHT": "您完成比賽，並在所有的街頭競賽中獲勝。",
+                    "pt-PT": "Você deixou os competidores para trás e venceu todas as Corridas de Rua."
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie alle Straßenrennen.",
+                    "en-US": "Win all Street Races.",
+                    "es-ES": "Gana todas las carreras callejeras.",
+                    "fr-FR": "Remportez toutes les courses de rue.",
+                    "it-IT": "Vinci tutte le Gare clandestine.",
+                    "ja-JP": "すべてのストリート レースに勝利する",
+                    "ko-KR": "모든 길거리 레이스에서 승리하십시오.",
+                    "pl-PL": "Wygraj we wszystkich wyścigach ulicznych.",
+                    "ru-RU": "Выиграть все уличные гонки",
+                    "zh-CHT": "在所有街頭競賽中獲勝。",
+                    "pt-PT": "Vença todas as Corridas de Rua."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "30.png"
+        },
+        "186": {
+            "text": {
+                "name": {
+                    "de-DE": "Exhibitionist",
+                    "en-US": "Exhibitionist",
+                    "es-ES": "Exhibicionista",
+                    "fr-FR": "Rassembleur",
+                    "it-IT": "Esibizionista",
+                    "ja-JP": "エキシビジョン スペシャリスト",
+                    "ko-KR": "과시주의자",
+                    "pl-PL": "Mistrz pokazów",
+                    "ru-RU": "Позер",
+                    "zh-CHT": "展示高手",
+                    "pt-PT": "Exibicionista"
+                },
+                "description": {
+                    "de-DE": "Sie haben jede Schaurennen-Veranstaltung im Spiel gewonnen.",
+                    "en-US": "You've won every Showcase Event in the game.",
+                    "es-ES": "Has ganado todos los eventos de exhibición del juego.",
+                    "fr-FR": "Vous avez remporté tous les rassemblements du jeu.",
+                    "it-IT": "Hai vinto ogni Esibizione nel gioco.",
+                    "ja-JP": "すべてのショーケース イベントに勝利した",
+                    "ko-KR": "게임 내의 모든 쇼케이스 이벤트에서 승리했습니다.",
+                    "pl-PL": "Udało Ci się wygrać w we wszystkich zawodach pokazowych.",
+                    "ru-RU": "Вы прошли все испытания в игре.",
+                    "zh-CHT": "在所有遊戲中的展示活動中獲勝。",
+                    "pt-PT": "Você venceu todos os Eventos de Exibição no jogo."
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie jede Schaurennen-Veranstaltung.",
+                    "en-US": "Win every Showcase Event.",
+                    "es-ES": "Gana todos los eventos de exhibición.",
+                    "fr-FR": "Remportez tous les rassemblements.",
+                    "it-IT": "Vinci ogni Esibizione.",
+                    "ja-JP": "すべてのショーケース イベントに勝利する",
+                    "ko-KR": "모든 쇼케이스 이벤트에서 승리하십시오.",
+                    "pl-PL": "Wygraj we wszystkich zawodach pokazowych.",
+                    "ru-RU": "Пройти все испытания.",
+                    "zh-CHT": "贏得每一場展示活動。",
+                    "pt-PT": "Vença todos os Eventos de Exibição."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "31.png"
+        },
+        "187": {
+            "text": {
+                "name": {
+                    "de-DE": "Dominanz!",
+                    "en-US": "Domination!",
+                    "es-ES": "¡Dominación!",
+                    "fr-FR": "Domination !",
+                    "it-IT": "Dominatore!",
+                    "ja-JP": "圧倒的!",
+                    "ko-KR": "지배자!",
+                    "pl-PL": "Dominacja!",
+                    "ru-RU": "Полная доминация",
+                    "zh-CHT": "車神！",
+                    "pt-PT": "Dominação!"
+                },
+                "description": {
+                    "de-DE": "Sie haben alle Horizon Stars nach Hause geschickt.",
+                    "en-US": "You've sent every Horizon Star packin'.",
+                    "es-ES": "Has vencido a todos las estrellas de Horizon.",
+                    "fr-FR": "Vous avez envoyé valser toutes les stars d'Horizon.",
+                    "it-IT": "Hai stracciato ogni Star di Horizon.",
+                    "ja-JP": "すべてのスター ショーダウンに勝利した",
+                    "ko-KR": "별들의 전쟁 운전자들을 모두 눌러버렸습니다.",
+                    "pl-PL": "Udało Ci się roznieść wszystkie gwiazdy festiwalu Horizon.",
+                    "ru-RU": "Вы выиграли все гонки со звездами.",
+                    "zh-CHT": "你已經讓 Horizon 的明星們吃盡苦頭。",
+                    "pt-PT": "Você mandou todas as Estrelas do Horizon para casa."
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie alle Star-Showdown-Rennen.",
+                    "en-US": "Win every Star Showdown race.",
+                    "es-ES": "Gana todas las carreras de exhibición de estrellas.",
+                    "fr-FR": "Remportez tous les affrontements de stars.",
+                    "it-IT": "Vinci ogni gara Scontro star.",
+                    "ja-JP": "すべてのスター ショーダウンに勝利する",
+                    "ko-KR": "모든 별들의 전쟁 레이스에서 승리하십시오.",
+                    "pl-PL": "Wygraj wszystkie pojedynki gwiazd.",
+                    "ru-RU": "Выиграть все гонки со звездами.",
+                    "zh-CHT": "在每場明星對決賽中獲勝。",
+                    "pt-PT": "Vença todas as corridas Showndown de Estrelas."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "32.png"
+        },
+        "188": {
+            "text": {
+                "name": {
+                    "de-DE": "Dauerbrenner",
+                    "en-US": "All Your Race Are Belong to Us",
+                    "es-ES": "Todo o nada",
+                    "fr-FR": "Le pilote contre-attaque",
+                    "it-IT": "Il mondo è mio!",
+                    "ja-JP": "すべてのレースは俺たちのもの",
+                    "ko-KR": "모든 레이스는 내 손바닥 안에",
+                    "pl-PL": "Wszystko w jednym palcu",
+                    "ru-RU": "Все ваши гонка принадлежать нам",
+                    "zh-CHT": "手到擒來",
+                    "pt-PT": "Todas As Suas Corrida É Nossa"
+                },
+                "description": {
+                    "de-DE": "Sie haben jedes einzelne Rennen im Spiel gewonnen!",
+                    "en-US": "You've won every single race in the game!",
+                    "es-ES": "¡Has ganado todas las carreras del juego!",
+                    "fr-FR": "Vous avez remporté toutes les courses du jeu !",
+                    "it-IT": "Hai vinto ogni Gara singola del gioco!",
+                    "ja-JP": "すべてのレースに勝利した!",
+                    "ko-KR": "게임 내의 모든 레이스에서 승리했습니다!",
+                    "pl-PL": "Udało Ci się wygrać w we wszystkich wyścigach w grze!",
+                    "ru-RU": "Вы выиграли все гонки в игре.",
+                    "zh-CHT": "你贏得了遊戲中的每一場比賽！",
+                    "pt-PT": "Você venceu todas as corridas do jogo!"
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie alle Festivalrennen, Straßenrennen, Schaurennen und Star-Showdown-Rennen.",
+                    "en-US": "Win every Festival Race, Street Race, Showcase, and Star Showdown.",
+                    "es-ES": "Gana todas las carreras de festival, callejeras, de exhibición y de exhibición de estrellas.",
+                    "fr-FR": "Remportez toutes les courses de festival, de rue, les rassemblements et les affrontements de stars.",
+                    "it-IT": "Vinci ogni gara Festival, Gara clandestina, Esibizione e Scontro star.",
+                    "ja-JP": "すべてのフェスティバル レース、ストリート レース、ショーケース、スター ショーダウンに勝利する",
+                    "ko-KR": "모든 페스티벌 레이스, 길거리 레이스, 쇼케이스, 별들의 전쟁에서 승리하십시오.",
+                    "pl-PL": "Wygraj we wszystkich wyścigach festiwalu, wyścigach ulicznych, pokazowych oraz pojedynkach gwiazd.",
+                    "ru-RU": "Выиграть все фестивальные, уличные гонки, гонки со звездами и пройти все испытания.",
+                    "zh-CHT": "在所有嘉年華活動、街頭競賽、展示活動，以及明星對決賽中獲勝。",
+                    "pt-PT": "Vença todas as Corridas do Festival, Corridas de Rua, Exibições e Showdowns de Estrelas."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "33.png"
+        },
+        "189": {
+            "text": {
+                "name": {
+                    "de-DE": "Stuntman",
+                    "en-US": "Stuntman",
+                    "es-ES": "Especialista",
+                    "fr-FR": "Cascadeur",
+                    "it-IT": "Stuntman",
+                    "ja-JP": "スタントマン",
+                    "ko-KR": "스턴트맨",
+                    "pl-PL": "Kaskader",
+                    "ru-RU": "Каскадер",
+                    "zh-CHT": "任務俠",
+                    "pt-PT": "Acrobata"
+                },
+                "description": {
+                    "de-DE": "Sie haben alle Horizon-Außenposten-PR-Stunts abgeschlossen.",
+                    "en-US": "You've completed every Horizon Outpost PR Stunt.",
+                    "es-ES": "Has completado todas las promociones comerciales de avanzada de Horizon.",
+                    "fr-FR": "Vous avez terminé tous les coups de pub des avant-postes Horizon.",
+                    "it-IT": "Hai completato ogni Stunt PR delle postazioni di Horizon.",
+                    "ja-JP": "すべての Horizon アウトポスト PR スタントをクリアした",
+                    "ko-KR": "모든 Horizon 아웃포스트 미션을 완료했습니다.",
+                    "pl-PL": "Udało Ci się ukończyć wszystkie pokazy umiejętności na przystankach Horizon.",
+                    "ru-RU": "Вы завершили все PR-акции в представительствах фестиваля.",
+                    "zh-CHT": "您已完成了每一個 Horizon 哨點炫技任務。",
+                    "pt-PT": "Você completou todas as Jogadas Publicitárias dos Postos Horizon."
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie alle Horizon-Außenposten-PR-Stunts ab.",
+                    "en-US": "Complete every Horizon Outpost PR Stunt.",
+                    "es-ES": "Completa todas las promociones comerciales de avanzada de Horizon.",
+                    "fr-FR": "Terminez tous les coups de pub des avant-postes Horizon.",
+                    "it-IT": "Completa ogni Stunt PR delle postazioni di Horizon.",
+                    "ja-JP": "すべての Horizon アウトポスト PR スタントをクリアする",
+                    "ko-KR": "모든 Horizon 아웃포스트 미션을 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie pokazy umiejętności na przystankach Horizon.",
+                    "ru-RU": "Завершить все PR-акции в представительствах фестиваля.",
+                    "zh-CHT": "完成每一個 Horizon 哨點炫技任務。",
+                    "pt-PT": "Complete todas as Jogadas Publicitárias dos Postos Horizon."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "34.png"
+        },
+        "190": {
+            "text": {
+                "name": {
+                    "de-DE": "Respekt!",
+                    "en-US": "Kudos to You",
+                    "es-ES": "Gloria",
+                    "fr-FR": "Gloire à vous",
+                    "it-IT": "Complimentoni",
+                    "ja-JP": "名声は思いのまま",
+                    "ko-KR": "잘했어!",
+                    "pl-PL": "Jest klasa, jest kasa!",
+                    "ru-RU": "Лучиков успеха вам!",
+                    "zh-CHT": "嘖嘖讚嘆",
+                    "pt-PT": "Parabéns Para Você"
+                },
+                "description": {
+                    "de-DE": "Sie haben 5 Sponsorenherausforderungen abgeschlossen.",
+                    "en-US": "You've completed 5 Sponsorship challenges.",
+                    "es-ES": "Has completado 5 desafíos de patrocinador.",
+                    "fr-FR": "Vous avez terminé 5 défis sponsor.",
+                    "it-IT": "Hai completato 5 Sfide sponsor.",
+                    "ja-JP": "5 種類のスポンサーシップ チャレンジをクリアした",
+                    "ko-KR": "스폰서 도전을 5번 완료했습니다.",
+                    "pl-PL": "Udało Ci się ukończyć 5 wzywań organizowanych przez sponsorów.",
+                    "ru-RU": "Вы закончили 5 спонсорских соревнований.",
+                    "zh-CHT": "您已完成了五次贊助商挑戰。",
+                    "pt-PT": "Você completou 5 Desafios de Patrocinadores."
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie 5 Sponsorenherausforderungen ab.",
+                    "en-US": "Complete 5 Sponsorship Challenges.",
+                    "es-ES": "Completa 5 desafíos de patrocinador.",
+                    "fr-FR": "Terminez 5 défis sponsor.",
+                    "it-IT": "Completa 5 Sfide sponsor.",
+                    "ja-JP": "5 種類のスポンサーシップ チャレンジをクリアする",
+                    "ko-KR": "스폰서 도전을 5번 완료하십시오.",
+                    "pl-PL": "Ukończ 5 wyzwań organizowanych przez sponsorów.",
+                    "ru-RU": "Завершить 5 спонсорских испытаний.",
+                    "zh-CHT": "完成五次贊助商挑戰。",
+                    "pt-PT": "Complete 5 Desafios de Patrocinadores."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "35.png"
+        },
+        "191": {
+            "text": {
+                "name": {
+                    "de-DE": "Geschäftemacher",
+                    "en-US": "Sellout",
+                    "es-ES": "Éxito de taquilla",
+                    "fr-FR": "Vendu",
+                    "it-IT": "Venduto",
+                    "ja-JP": "この世の全て",
+                    "ko-KR": "잘나가는 레이서",
+                    "pl-PL": "Sprzedawczyk",
+                    "ru-RU": "Нарасхват",
+                    "zh-CHT": "銷售一空",
+                    "pt-PT": "Vendido Ao Sistema"
+                },
+                "description": {
+                    "de-DE": "20 Sponsorenherausforderungen? Jetzt sind Sie beliebt und reich!",
+                    "en-US": "20 Sponsorship Challenges? Now you're popular and rich!",
+                    "es-ES": "¿20 desafíos de patrocinador? ¡Ya eres rico y famoso!",
+                    "fr-FR": "20 défis sponsor ? Vous voilà riche et célèbre !",
+                    "it-IT": "20 Sfide Sponsor? Ora sei ricco E popolare!",
+                    "ja-JP": "20 種類のスポンサーシップ チャレンジをクリア。富と名声を得た!",
+                    "ko-KR": "스폰서 도전을 20번이나? 인기도 얻고 돈도 벌었겠군요!",
+                    "pl-PL": "20 ukończonych wyzwań sponsorów? No to gratulacje sławy i pieniędzy!",
+                    "ru-RU": "20 спонсорских испытаний? Теперь вы богаты и знамениты!",
+                    "zh-CHT": "您已完成了二十次贊助商挑戰。",
+                    "pt-PT": "20 Desafios de Patrocinadores? Agora você é popular e rico!"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie 20 Sponsorenherausforderungen ab.",
+                    "en-US": "Complete 20 Sponsorship Challenges.",
+                    "es-ES": "Completa 20 desafíos de patrocinador.",
+                    "fr-FR": "Terminez 20 défis sponsor.",
+                    "it-IT": "Completa 20 Sfide sponsor.",
+                    "ja-JP": "20 種類のスポンサーシップ チャレンジをクリアする",
+                    "ko-KR": "스폰서 도전을 20번 완료하십시오.",
+                    "pl-PL": "Ukończ 20 wyzwań organizowanych przez sponsorów.",
+                    "ru-RU": "Завершить 20 спонсорских соревнований.",
+                    "zh-CHT": "完成二十次贊助商挑戰。",
+                    "pt-PT": "Complete 20 Desafios de Patrocinadores."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "36.png"
+        },
+        "192": {
+            "text": {
+                "name": {
+                    "de-DE": "Gesucht, gefunden",
+                    "en-US": "Barn This Way",
+                    "es-ES": "Yo te adopto",
+                    "fr-FR": "Chasseur de trésor",
+                    "it-IT": "Gemme preziose",
+                    "ja-JP": "バーン ディス ウェイ",
+                    "ko-KR": "낡은 차고 뒤지기",
+                    "pl-PL": "Kto szuka ten znajdzie",
+                    "ru-RU": "Вин-раритеты",
+                    "zh-CHT": "天生如此",
+                    "pt-PT": "Nascido Para Encontrar"
+                },
+                "description": {
+                    "de-DE": "Sie haben Ihren ersten Scheunenfund entdeckt.",
+                    "en-US": "You found your first barn find.",
+                    "es-ES": "Has encontrado tu primer coche abandonado.",
+                    "fr-FR": "Vous avez découvert votre premier trésor de grange.",
+                    "it-IT": "Hai trovato il tuo primo gioiello dimenticato.",
+                    "ja-JP": "最初の掘り出し物を発見した",
+                    "ko-KR": "숨겨진 클래식 자동차를 처음으로 발견했습니다.",
+                    "pl-PL": "Udało Ci się znaleźć pierwszy zapomniany wóz.",
+                    "ru-RU": "Вы нашли первый раритет.",
+                    "zh-CHT": "您找到了第一座車房。",
+                    "pt-PT": "Você encontrou seu primeiro carro em celeiro."
+                },
+                "howto": {
+                    "de-DE": "Entdecken Sie einen Scheunenfund.",
+                    "en-US": "Discover a barn find.",
+                    "es-ES": "Descubre un coche abandonado.",
+                    "fr-FR": "Découvrez un trésor de grange.",
+                    "it-IT": "Scopri un gioiello dimenticato.",
+                    "ja-JP": "掘り出し物を発見する",
+                    "ko-KR": "숨겨진 클래식 자동차를 발견하십시오.",
+                    "pl-PL": "Znajdź zapomniany wóz.",
+                    "ru-RU": "Найдите раритет.",
+                    "zh-CHT": "找到一座車房。",
+                    "pt-PT": "Encontre um carro em um celeiro."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "37.png"
+        },
+        "193": {
+            "text": {
+                "name": {
+                    "de-DE": "Schnäppchenjäger",
+                    "en-US": "Bargain Shopper",
+                    "es-ES": "Buscadescuentos",
+                    "fr-FR": "Casseur de prix",
+                    "it-IT": "Scontatissimo",
+                    "ja-JP": "バーゲン狙い撃ち",
+                    "ko-KR": "할인 구매자",
+                    "pl-PL": "Łowca okazji",
+                    "ru-RU": "Сезон скидок",
+                    "zh-CHT": "我買最便宜",
+                    "pt-PT": "Em Busca de Pechinchas"
+                },
+                "description": {
+                    "de-DE": "Sie haben einen schönen Rabatt eingetütet.",
+                    "en-US": "You bagged yourself a nice discount.",
+                    "es-ES": "Te has hecho con un buen descuento.",
+                    "fr-FR": "Vous avez obtenu une bonne remise.",
+                    "it-IT": "Hai ottenuto un bello sconto.",
+                    "ja-JP": "ディスカウント価格で取引した",
+                    "ko-KR": "할인 혜택을 두둑하게 챙겼습니다.",
+                    "pl-PL": "Udało Ci się skorzystać z niezłej okazji rabatowej.",
+                    "ru-RU": "Вы обеспечили себя приличной скидкой.",
+                    "zh-CHT": "因為漂亮的折扣，您省下了大把銀子。",
+                    "pt-PT": "Você embolsou um belo desconto."
+                },
+                "howto": {
+                    "de-DE": "Sammeln Sie 10 Rabatt-Schilder.",
+                    "en-US": "Collect 10 discount signs.",
+                    "es-ES": "Reúne 10 carteles de descuento.",
+                    "fr-FR": "Obtenez 10 panneaux de remises.",
+                    "it-IT": "Raccogli 10 insegne sconti.",
+                    "ja-JP": "ディスカウント サインを 10 個破壊する",
+                    "ko-KR": "할인 표지판 10개를 모으십시오.",
+                    "pl-PL": "Zbierz 10 znaków rabatowych.",
+                    "ru-RU": "Собрать 10 скидочных знаков",
+                    "zh-CHT": "拿下十組折扣標誌。",
+                    "pt-PT": "Destrua 10 placas de desconto."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "38.png"
+        },
+        "194": {
+            "text": {
+                "name": {
+                    "de-DE": "Schlussverkauf",
+                    "en-US": "Black Friday",
+                    "es-ES": "Viernes negro",
+                    "fr-FR": "Vendredi noir",
+                    "it-IT": "Shopping compulsivo",
+                    "ja-JP": "ブラック フライデイ",
+                    "ko-KR": "무료로 드려요!",
+                    "pl-PL": "Szaleństwo zakupów",
+                    "ru-RU": "Распродажа",
+                    "zh-CHT": "黑色星期五",
+                    "pt-PT": "Comprador Compulsivo"
+                },
+                "description": {
+                    "de-DE": "Bezahlen Sie niemals für ein Upgrade!",
+                    "en-US": "Never pay for an upgrade again!",
+                    "es-ES": "¡No pagues nunca más por una mejora!",
+                    "fr-FR": "Ne payez plus aucune amélioration !",
+                    "it-IT": "Non pagare mai più per un potenziamento!",
+                    "ja-JP": "生涯アップグレード無料!",
+                    "ko-KR": "다시는 업그레이드에 돈을 쓰지 마십시오!",
+                    "pl-PL": "Nie musisz już płacić za modernizację silnika!",
+                    "ru-RU": "Больше за модификации платить не надо.",
+                    "zh-CHT": "別再為升級花錢了！",
+                    "pt-PT": "Nunca pague por um aprimoramento novamente!"
+                },
+                "howto": {
+                    "de-DE": "Sammeln Sie alle Rabatt-Schilder.",
+                    "en-US": "Collect all of the discount signs.",
+                    "es-ES": "Reúne todos los carteles de descuento.",
+                    "fr-FR": "Obtenez tous les panneaux de remise.",
+                    "it-IT": "Raccogli tutte le insegne sconti.",
+                    "ja-JP": "すべてのディスカウント サインを集める",
+                    "ko-KR": "할인 표지판을 모두 모으십시오.",
+                    "pl-PL": "Zbierz wszystkie znaki rabatowe.",
+                    "ru-RU": "Собрать все скидочные знаки.",
+                    "zh-CHT": "蒐集所有折扣標誌。",
+                    "pt-PT": "Colete todas as placas de desconto."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "39.png"
+        },
+        "195": {
+            "text": {
+                "name": {
+                    "de-DE": "Autotour",
+                    "en-US": "Road Trip",
+                    "es-ES": "Viaje por carretera",
+                    "fr-FR": "Road trip",
+                    "it-IT": "Atlante vivente",
+                    "ja-JP": "ロード トリップ",
+                    "ko-KR": "도로 여행",
+                    "pl-PL": "Wycieczka!",
+                    "ru-RU": "Большие гонки",
+                    "zh-CHT": "自己玩到底",
+                    "pt-PT": "Na Estrada"
+                },
+                "description": {
+                    "de-DE": "Sie sind auf allen Straßen im gesamten Spiel gefahren.",
+                    "en-US": "You've driven along every road in the entire game.",
+                    "es-ES": "Has conducido por todas las carreteras del juego.",
+                    "fr-FR": "Vous avez emprunté toutes les routes du jeu.",
+                    "it-IT": "Hai guidato lungo tutte le strade del gioco.",
+                    "ja-JP": "すべてのコースをドライブした",
+                    "ko-KR": "게임 내의 모든 도로에서 주행했습니다.",
+                    "pl-PL": "Udało Ci się przejechać każdą drogą w grze.",
+                    "ru-RU": "Вы проехались во всем дорогам, которые нашлись в этой игре.",
+                    "zh-CHT": "您獨自在遊戲中開車，行駛所有路線。",
+                    "pt-PT": "Você dirigiu por todas as estradas do jogo inteiro."
+                },
+                "howto": {
+                    "de-DE": "Fahren Sie auf allen Straßen im Spiel.",
+                    "en-US": "Drive along all of the roads in the game.",
+                    "es-ES": "Conduce por todas las carreteras del juego.",
+                    "fr-FR": "Empruntez toutes les routes du jeu.",
+                    "it-IT": "Guida lungo tutte le strade del gioco.",
+                    "ja-JP": "すべてのコースをドライブする",
+                    "ko-KR": "게임 내의 모든 도로에서 주행하십시오.",
+                    "pl-PL": "Przejedź się każdą drogą w grze.",
+                    "ru-RU": "Прокатиться по всем дорогам в игре.",
+                    "zh-CHT": "獨自在遊戲中開車，行駛所有路線。",
+                    "pt-PT": "Dirija por todas as estradas do jogo."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "40.png"
+        },
+        "196": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein Anfänger",
+                    "en-US": "Still a Noob...",
+                    "es-ES": "Aún inexperto...",
+                    "fr-FR": "Toujours un débutant...",
+                    "it-IT": "Ancora niubbo...",
+                    "ja-JP": "まだまだルーキー",
+                    "ko-KR": "아직도 풋내기야...",
+                    "pl-PL": "Nadal szczawik...",
+                    "ru-RU": "И все равно любитель...",
+                    "zh-CHT": "還是嫩腳…",
+                    "pt-PT": "Ainda Um Novato..."
+                },
+                "description": {
+                    "de-DE": "10 Online-Rennen absolviert ... Nicht schlecht!",
+                    "en-US": "10 online races complete… not bad!",
+                    "es-ES": "10 carreras en línea completadas... ¡Nada mal!",
+                    "fr-FR": "10 courses en ligne terminées... Pas mal !",
+                    "it-IT": "10 gare online completate... non male!",
+                    "ja-JP": "オンライン レースを 10 回クリア。悪くないね!",
+                    "ko-KR": "온라인 레이스를 10회 완료했습니다. 제법이군요!",
+                    "pl-PL": "Udało Ci się ukończyć 10 wyścigów online... No, nieźle!",
+                    "ru-RU": "Закончено 10 гонок в сети... Ну, неплохо.",
+                    "zh-CHT": "完成了十場連線模式比賽…不錯嘛！",
+                    "pt-PT": "10 corridas online completadas... Nada mal!"
+                },
+                "howto": {
+                    "de-DE": "Absolvieren Sie 10 Online-Rennen.",
+                    "en-US": "Complete 10 online races.",
+                    "es-ES": "Completa 10 carreras en línea.",
+                    "fr-FR": "Terminez 10 courses en ligne.",
+                    "it-IT": "Completa 10 gare online.",
+                    "ja-JP": "オンライン レースを 10 回クリアする",
+                    "ko-KR": "온라인 레이스를 10회 완료하십시오.",
+                    "pl-PL": "Ukończ 10 wyścigów online.",
+                    "ru-RU": "Завершить 10 гонок в сети.",
+                    "zh-CHT": "在連線模式中完成十場比賽。",
+                    "pt-PT": "Complete 10 corridas online."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "41.png"
+        },
+        "197": {
+            "text": {
+                "name": {
+                    "de-DE": "Kein Anfänger mehr",
+                    "en-US": "Noob No More",
+                    "es-ES": "Nada de inexperto",
+                    "fr-FR": "Plus vraiment un débutant...",
+                    "it-IT": "Non più niubbo",
+                    "ja-JP": "ルーキーにさよならを",
+                    "ko-KR": "초보 탈출",
+                    "pl-PL": "Już nie szczawik",
+                    "ru-RU": "Ладно, уже профи",
+                    "zh-CHT": "初露鋒芒",
+                    "pt-PT": "Não Mais Um Novato"
+                },
+                "description": {
+                    "de-DE": "Sie haben 25 Online-Rennen absolviert ... Wahnsinn!",
+                    "en-US": "25 online races complete… awesome!",
+                    "es-ES": "25 carreras en línea completadas... ¡Impresionante!",
+                    "fr-FR": "25 courses en ligne terminées... Génial !",
+                    "it-IT": "25 gare online completate... non male!",
+                    "ja-JP": "オンライン レースを 25 回クリア。すごい!",
+                    "ko-KR": "온라인 레이스를 25회 완료했습니다. 굉장하군요!",
+                    "pl-PL": "Udało Ci się ukończyć 25 wyścigów online. Świetna robota!",
+                    "ru-RU": "Закончено 25 гонок в сети... здорово!",
+                    "zh-CHT": "完成了二十五場連線模式比賽…讚喔！",
+                    "pt-PT": "25 corridas online completadas... Fantástico!"
+                },
+                "howto": {
+                    "de-DE": "Absolvieren Sie 25 Online-Rennen.",
+                    "en-US": "Complete 25 online races.",
+                    "es-ES": "Completa 25 carreras en línea.",
+                    "fr-FR": "Terminez 25 courses en ligne.",
+                    "it-IT": "Completa 25 gare online.",
+                    "ja-JP": "オンライン レースを 25 回クリアする",
+                    "ko-KR": "온라인 레이스를 25회 완료하십시오.",
+                    "pl-PL": "Ukończ 25 wyścigów online.",
+                    "ru-RU": "Завершить 25 гонок в сети.",
+                    "zh-CHT": "在連線模式中完成二十五場比賽。",
+                    "pt-PT": "Complete 25 corridas online."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "42.png"
+        },
+        "198": {
+            "text": {
+                "name": {
+                    "de-DE": "Playground-Spiele",
+                    "en-US": "Playground Games",
+                    "es-ES": "Partidas Playground",
+                    "fr-FR": "Parties \"Playground\"",
+                    "it-IT": "Partite Playground",
+                    "ja-JP": "プレイグラウンド ゲーム",
+                    "ko-KR": "경기장 게임",
+                    "pl-PL": "Gry Playground",
+                    "ru-RU": "Игровая площадка",
+                    "zh-CHT": "遊樂場精選遊戲",
+                    "pt-PT": "Jogos de Playground"
+                },
+                "description": {
+                    "de-DE": "Sie haben alle Playground-Spieltypen absolviert. Hat das nicht Spaß gemacht?!",
+                    "en-US": "You completed each of the Playground game types. How fun was that?",
+                    "es-ES": "Has completado todos los tipos de juego de Playground. Divertido, ¿no?",
+                    "fr-FR": "Vous avez terminé chacun des types de parties \"Playground\". C'était marrant, non ?",
+                    "it-IT": "Hai completato tutte le modalità di gioco in Playground. Ti sei divertito?",
+                    "ja-JP": "すべてのプレイグラウンド ゲームをクリアした。楽しめたかな?",
+                    "ko-KR": "경기장 게임을 종류별로 완료했습니다. 즐거우셨나요?",
+                    "pl-PL": "Udało Ci się ukoczyć grę Playground każdego typu. Ubaw po pachy, co nie?",
+                    "ru-RU": "Вы прошли все игры на игровой площадке. Понравилось?",
+                    "zh-CHT": "您完成了遊樂場類型的遊戲。好不好玩？",
+                    "pt-PT": "Você completou todos os tipos de jogo de Playground. Foi divertido?"
+                },
+                "howto": {
+                    "de-DE": "Absolvieren Sie ein Spiel in ''Infiziert'', ''König'' und ''Katz und Maus''.",
+                    "en-US": "Complete a game of Infected, King, and Cat and Mouse.",
+                    "es-ES": "Completa un juego de Infectado, Rey y Gato y ratón.",
+                    "fr-FR": "Terminez une partie d'infection, de roi et du chat et de la souris.",
+                    "it-IT": "Completa una partita di Infezione, Re e Gatto con il topo.",
+                    "ja-JP": "感染者、キング、キャット & マウスをプレイする",
+                    "ko-KR": "감염, 왕, 고양이와 쥐 게임을 완료하십시오.",
+                    "pl-PL": "Ukończ grę w trybie zakażenia, króla lub kotka i myszki.",
+                    "ru-RU": "Закончить следующие игры: ''Зараженный'', ''Король'' и ''Кошки-мышки''.",
+                    "zh-CHT": "各完成一場感染、皇位爭霸，以及追逐賽。",
+                    "pt-PT": "Complete uma partida de Infectado, Rei ou Gato e Rato."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "43.png"
+        },
+        "199": {
+            "text": {
+                "name": {
+                    "de-DE": "Schaukel und Karussell",
+                    "en-US": "Swings and Roundabouts",
+                    "es-ES": "Columpios y tiovivos",
+                    "fr-FR": "L'essentiel est de participer",
+                    "it-IT": "Parchi giochi",
+                    "ja-JP": "流れと交差点",
+                    "ko-KR": "흔들고 돌려라",
+                    "pl-PL": "Zjeżdzalnie i karuzele",
+                    "ru-RU": "Игры на свежем воздухе",
+                    "zh-CHT": "有得必有失",
+                    "pt-PT": "Balanços e Carrosséis"
+                },
+                "description": {
+                    "de-DE": "Sie haben drei von jedem Playground-Spieltyp absolviert.",
+                    "en-US": "You've completed 3 of each Playground game types.",
+                    "es-ES": "Has completado 3 partidas de cada tipo de juego de Playground.",
+                    "fr-FR": "Vous avez terminé chacun des types de parties playground 3 fois.",
+                    "it-IT": "Hai completato 3 volte ciascuna modalità Area di gioco.",
+                    "ja-JP": "すべてのプレイグラウンド ゲームを 3 回ずつプレイした",
+                    "ko-KR": "경기장 게임을 종류별로 3번씩 완료했습니다.",
+                    "pl-PL": "Udało Ci się ukończyć 3 gry każdego typu na Placu zabaw.",
+                    "ru-RU": "Вы закончили по 3 игры каждого типа.",
+                    "zh-CHT": "您各完成了三場遊樂場類型的遊戲。",
+                    "pt-PT": "Você completou 3 partidas de cada um dos tipos de jogo de Playground."
+                },
+                "howto": {
+                    "de-DE": "Absolvieren Sie je drei Spiele in ''Infiziert'', ''König'' und ''Katz und Maus''.",
+                    "en-US": "Complete 3 games each of Infected, King, and Cat and Mouse.",
+                    "es-ES": "Completa 3 juegos de Infectado, Rey y Gato y ratón.",
+                    "fr-FR": "Vous avez terminé chacun des types de parties \"Playground\" 3 fois.",
+                    "it-IT": "Completa 3 partite di Infezione, Re e Gatto con il topo.",
+                    "ja-JP": "すべての感染者、キング、キャット & マウスを 3 回ずつプレイする",
+                    "ko-KR": "감염, 왕, 고양이와 쥐 게임을 3번씩 완료하십시오.",
+                    "pl-PL": "Ukończ 3 gry w trybie zakażenia, króla lub kotka i myszki.",
+                    "ru-RU": "Завершить по 3 игры ''Зараженный'', ''Король'' и ''Кошки-мышки''.",
+                    "zh-CHT": "各完成三場感染、皇位爭霸，以及追逐賽。",
+                    "pt-PT": "Complete 3 partidas cada de Infectado, Rei e Gato e Rato."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "44.png"
+        },
+        "200": {
+            "text": {
+                "name": {
+                    "de-DE": "On Tour",
+                    "en-US": "Cruise Club",
+                    "es-ES": "Club de patrulla",
+                    "fr-FR": "Pilote de croisière",
+                    "it-IT": "Club dei viaggiatori",
+                    "ja-JP": "クルーズ クラブ",
+                    "ko-KR": "크루즈 클럽",
+                    "pl-PL": "Na co komu trasa",
+                    "ru-RU": "Клуб по интересам",
+                    "zh-CHT": "漫遊俱樂部",
+                    "pt-PT": "Clube do Passeio"
+                },
+                "description": {
+                    "de-DE": "Sie haben 10 ''Freie Fahrt''-Koop-Herausforderungen abgeschlossen.",
+                    "en-US": "You've completed 10 free roam challenges online.",
+                    "es-ES": "Has completado 10 desafíos cooperativos de conducción libre.",
+                    "fr-FR": "Vous avez terminé 10 balades libres en ligne.",
+                    "it-IT": "Hai completato 10 Sfide Co-op in Viaggio libero online.",
+                    "ja-JP": "オンライン フリー走行チャレンジを 10 回クリアした",
+                    "ko-KR": "온라인 자유 주행 도전을 10회 완료했습니다.",
+                    "pl-PL": "Udało Ci się ukończyć 10 wyzwań we WSPÓLNYCH WYZWANIACH w trybie online.",
+                    "ru-RU": "Вы завершили 10 свободных заездов в сети.",
+                    "zh-CHT": "您已在連線模式中完成了十場漫遊挑戰。",
+                    "pt-PT": "Você completou 10 desafios cooperativos no passeio livre online."
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie 10 ''Freie Fahrt''-Koop-Herausforderungen ab.",
+                    "en-US": "Complete 10 Online Free Roam Challenges.",
+                    "es-ES": "Completa 10 desafíos cooperativos de conducción libre.",
+                    "fr-FR": "Terminez 10 balades libres en ligne.",
+                    "it-IT": "Completa 10 Sfide Co-op in Viaggio libero online.",
+                    "ja-JP": "オンライン フリー走行チャレンジを 10 回クリアする",
+                    "ko-KR": "온라인 자유 주행 도전을 10회 완료하십시오.",
+                    "pl-PL": "Ukończ 10 wyzwań we WSPÓLNYCH WZWANIACH w trybie online.",
+                    "ru-RU": "Завершить 10 свободных заездов в сети.",
+                    "zh-CHT": "在連線模式中完成十場漫遊挑戰。",
+                    "pt-PT": "Complete 10 Desafios cooperativos no Passeio Livre Online."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "45.png"
+        },
+        "201": {
+            "text": {
+                "name": {
+                    "de-DE": "Dong!",
+                    "en-US": "Ding!",
+                    "es-ES": "¡Ding!",
+                    "fr-FR": "Ding !",
+                    "it-IT": "Ding!",
+                    "ja-JP": "鐘が鳴る!",
+                    "ko-KR": "딩동댕!",
+                    "pl-PL": "No proszę!",
+                    "ru-RU": "Дзынь!",
+                    "zh-CHT": "升級啦！",
+                    "pt-PT": "Ding!"
+                },
+                "description": {
+                    "de-DE": "Sie haben Online-Level 5 erreicht.",
+                    "en-US": "You got to Level 5 online.",
+                    "es-ES": "Has alcanzado el nivel 5 en línea.",
+                    "fr-FR": "Vous avez atteint le niveau en ligne 5.",
+                    "it-IT": "Hai raggiunto il livello online 5.",
+                    "ja-JP": "オンライン レベル 5 になった",
+                    "ko-KR": "온라인에서 5레벨을 달성했습니다.",
+                    "pl-PL": "Udało Ci się zdobyć 5 poziom w trybie online.",
+                    "ru-RU": "Вы получили 5-й уровень в сети.",
+                    "zh-CHT": "您在連線模式中升到五級。",
+                    "pt-PT": "Você chegou ao Nível 5 online."
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie Online-Level 5.",
+                    "en-US": "Reach Online Level 5.",
+                    "es-ES": "Alcanza el nivel 5 en línea.",
+                    "fr-FR": "Atteignez le niveau en ligne 5.",
+                    "it-IT": "Raggiungi il livello online 5.",
+                    "ja-JP": "オンライン レベル 5 へ到達する",
+                    "ko-KR": "온라인에서 5레벨을 달성하십시오.",
+                    "pl-PL": "Zdobądź 5 poziom w trybie online.",
+                    "ru-RU": "Достигнуть уровня 5 в сети.",
+                    "zh-CHT": "在連線模式中升到五級。",
+                    "pt-PT": "Chegue ao Nível 5 online."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "46.png"
+        },
+        "202": {
+            "text": {
+                "name": {
+                    "de-DE": "Ich und meine EP",
+                    "en-US": "Just Me and the XP",
+                    "es-ES": "Esto es experiencia",
+                    "fr-FR": "L'XP, c'est mon affaire !",
+                    "it-IT": "Io e i miei PE",
+                    "ja-JP": "私と経験値",
+                    "ko-KR": "믿을 것은 나와 경험뿐",
+                    "pl-PL": "Liczy się doświadczenie",
+                    "ru-RU": "Я и мой бесценный опыт",
+                    "zh-CHT": "XP 與我",
+                    "pt-PT": "Só Eu E O XP"
+                },
+                "description": {
+                    "de-DE": "Sie haben Online-Level 25 erreicht. Haben Sie schon ein Auto gewonnen?",
+                    "en-US": "You've reached level 25 online. Did you win a car yet?",
+                    "es-ES": "Has alcanzado el nivel 25 en línea. ¿Has ganado ya un coche?",
+                    "fr-FR": "Vous avez atteint le niveau en ligne 25. Vous avez déjà remporté une voiture ?",
+                    "it-IT": "Hai raggiunto il livello online 25. Hai già vinto un'auto?",
+                    "ja-JP": "オンライン レベル 25 になった。クルマを獲得したかな?",
+                    "ko-KR": "온라인에서 25레벨을 달성했습니다. 아직 차를 못 받았나요?",
+                    "pl-PL": "Udało Ci się zdobyć 25 poziom w trybie online. A udało Ci się wygrać wóz?",
+                    "ru-RU": "Вы получили 25-й уровень в сети. А машину еще не выиграли?",
+                    "zh-CHT": "您已經二十五級了，贏過一台車了沒？",
+                    "pt-PT": "Você chegou ao Nível 25 online. Já ganhou um carro?"
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie Online-Level 25.",
+                    "en-US": "Reach Online Level 25.",
+                    "es-ES": "Alcanza el nivel 25 en línea.",
+                    "fr-FR": "Atteignez le niveau en ligne 25.",
+                    "it-IT": "Raggiungi il livello online 25.",
+                    "ja-JP": "オンライン レベル 25 に到達する",
+                    "ko-KR": "온라인에서 25레벨을 달성하십시오.",
+                    "pl-PL": "Zdobądź 25 poziom w trybie online.",
+                    "ru-RU": "Достигнуть уровня 25 в сети.",
+                    "zh-CHT": "在連線模式中升到二十五級。",
+                    "pt-PT": "Chegue ao Nível 25 online."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "47.png"
+        },
+        "203": {
+            "text": {
+                "name": {
+                    "de-DE": "HEY!",
+                    "en-US": "OMG",
+                    "es-ES": "No me lo creo",
+                    "fr-FR": "PAS MAL !",
+                    "it-IT": "BENE!",
+                    "ja-JP": "オーマイゴッド",
+                    "ko-KR": "세상에!",
+                    "pl-PL": "Że jak?",
+                    "ru-RU": "Подфартило!",
+                    "zh-CHT": "天啊！",
+                    "pt-PT": "AH MEU DEUS"
+                },
+                "description": {
+                    "de-DE": "Sie haben Ihr erstes Online-Auto gewonnen.",
+                    "en-US": "You won your first car online.",
+                    "es-ES": "Has ganado tu primer coche en línea.",
+                    "fr-FR": "Vous avez remporté votre première voiture en ligne.",
+                    "it-IT": "Hai vinto la tua prima auto online.",
+                    "ja-JP": "オンラインで初めてクルマを勝ち取った",
+                    "ko-KR": "온라인에서 처음으로 자동차를 받았습니다.",
+                    "pl-PL": "Udało Ci się wygrać pierwszy samochód w trybie online.",
+                    "ru-RU": "Вы выиграли первую машину в сети.",
+                    "zh-CHT": "你在連線模式中贏得了第一輛車。",
+                    "pt-PT": "Você ganhou o seu primeiro carro online."
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie ein Auto, indem Sie online im Level aufsteigen.",
+                    "en-US": "Win a car from leveling up online.",
+                    "es-ES": "Gana un coche por subir de nivel en línea.",
+                    "fr-FR": "Remportez une voiture en montant en niveau en ligne.",
+                    "it-IT": "Vinci un'auto salendo di livello online.",
+                    "ja-JP": "オンラインでレベルを上げてクルマを勝ち取る",
+                    "ko-KR": "온라인에서 레벨을 올려 자동차를 받으십시오.",
+                    "pl-PL": "Zdobądź samochód za zdobycie wyższego poziomu w trybie online.",
+                    "ru-RU": "Выиграть машину после получения нового уровня.",
+                    "zh-CHT": "在連線模式中，因為升級而獲得一輛車。",
+                    "pt-PT": "Ganhe um carro subindo de nível online."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "48.png"
+        },
+        "204": {
+            "text": {
+                "name": {
+                    "de-DE": "WOW!",
+                    "en-US": "ZOMG!",
+                    "es-ES": "¡Ahí va!",
+                    "fr-FR": "SUPER !",
+                    "it-IT": "OTTIMO!",
+                    "ja-JP": "すごオーマイゴッド!",
+                    "ko-KR": "이런 세상에!",
+                    "pl-PL": "Wow!",
+                    "ru-RU": "Большой куш",
+                    "zh-CHT": "傑克，這真是太神奇了！",
+                    "pt-PT": "AH MEU DEUS DO CÉU!"
+                },
+                "description": {
+                    "de-DE": "Sie haben drei Online-Autos gewonnen.",
+                    "en-US": "You've won 3 cars online.",
+                    "es-ES": "Has ganado 3 coches en línea.",
+                    "fr-FR": "Vous avez remporté 3 voitures en ligne.",
+                    "it-IT": "Hai vinto 3 auto online.",
+                    "ja-JP": "オンラインで 3 台のクルマを勝ち取った",
+                    "ko-KR": "온라인에서 자동차 3대를 받았습니다.",
+                    "pl-PL": "Udało Ci się wygrać 3 samochody w trybie online.",
+                    "ru-RU": "Вы выиграли 3 машины в сети.",
+                    "zh-CHT": "你已經在連線模式中贏得了三輛車。",
+                    "pt-PT": "Você ganhou 3 carros online."
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie drei Autos, indem Sie online im Level aufsteigen.",
+                    "en-US": "Win 3 cars from leveling up online.",
+                    "es-ES": "Gana 3 coches por subir de nivel en línea.",
+                    "fr-FR": "Remportez 3 voitures en montant en niveau en ligne.",
+                    "it-IT": "Vinci 3 auto salendo di livello online.",
+                    "ja-JP": "オンラインでレベルを上げて 3 台のクルマを勝ち取る",
+                    "ko-KR": "온라인에서 레벨을 올려 자동차 3대를 받으십시오.",
+                    "pl-PL": "Zdobądź 3 samochody przez zdobywanie wyższego poziomu w trybie online.",
+                    "ru-RU": "Выиграть 3 машины после получения нового уровня.",
+                    "zh-CHT": "在連線模式中，因為升級而獲得三輛車。",
+                    "pt-PT": "Ganhe 3 carros subindo de nível online."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "49.png"
+        },
+        "205": {
+            "text": {
+                "name": {
+                    "de-DE": "BOAH!",
+                    "en-US": "OMGWT*BBQ!?",
+                    "es-ES": "Masivo",
+                    "fr-FR": "EXCELLENT !",
+                    "it-IT": "FANTASTICO!",
+                    "ja-JP": "オーマイゴッド WTF!? BBQ!?",
+                    "ko-KR": "하느님 맙소사, 이런 세상에!",
+                    "pl-PL": "ALE WYPAS!!!",
+                    "ru-RU": "Джек-пот",
+                    "zh-CHT": "一點也沒錯，珍妮佛！",
+                    "pt-PT": "AH MEU DEUS O QUE ACONTECEU!?"
+                },
+                "description": {
+                    "de-DE": "Sie haben echt Glück gehabt und fünf Online-Autos gewonnen.",
+                    "en-US": "You got seriously lucky and won 5 cars online.",
+                    "es-ES": "Has tenido mucha suerte y has ganado 5 coches en línea.",
+                    "fr-FR": "Vous avez eu beaucoup de chance et avez remporté 5 voitures en ligne.",
+                    "it-IT": "Hai avuto una fortuna sfacciata e hai vinto 5 auto online.",
+                    "ja-JP": "オンラインで強運に恵まれて 5 台のクルマを勝ち取った",
+                    "ko-KR": "엄청난 행운에 힘입어 온라인에서 자동차 5대를 받았습니다.",
+                    "pl-PL": "Masz nie lada szczęście — udało Ci się wygrać 5 samochodów w trybie online.",
+                    "ru-RU": "Вам очень повезло, вы выиграли 5 машин в сети.",
+                    "zh-CHT": "你在連線模式中贏得五了輛車，運氣真是好得不得了。",
+                    "pt-PT": "Você teve sorte pra valer e ganhou 5 carros online."
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie fünf Autos, indem Sie online im Level aufsteigen.",
+                    "en-US": "Win 5 cars from leveling online.",
+                    "es-ES": "Gana 5 coches por subir de nivel en línea.",
+                    "fr-FR": "Remportez 5 voitures en montant en niveau en ligne.",
+                    "it-IT": "Vinci 5 auto salendo di livello online.",
+                    "ja-JP": "オンラインで 5 台のクルマを勝ち取る",
+                    "ko-KR": "온라인에서 레벨을 올려 자동차 5대를 받으십시오.",
+                    "pl-PL": "Zdobądź 5 samochodów przez zdobywanie wyższego poziomu w trybie online.",
+                    "ru-RU": "Выиграть 5 машин после получения нового уровня.",
+                    "zh-CHT": "在連線模式中，因為升級而獲得五輛車。",
+                    "pt-PT": "Ganhe 5 carros subindo de nível online."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "50.png"
+        },
+        "206": {
+            "text": {
+                "name": {
+                    "de-DE": "Eine ganz spezielle Etappe",
+                    "en-US": "Now that's a Special Stage",
+                    "es-ES": "Eso sí que es una etapa especial",
+                    "fr-FR": "Ça c'est une spéciale",
+                    "it-IT": "Una prova davvero speciale",
+                    "ja-JP": "スペシャル ステージ",
+                    "ko-KR": "스페셜 스테이지",
+                    "pl-PL": "Etap specjalny — nie ma co",
+                    "ru-RU": "Особый этап",
+                    "zh-CHT": "特別的舞台",
+                    "pt-PT": "Taí um Estágio Especial"
+                },
+                "description": {
+                    "de-DE": "Sie haben Ihre erste Etappe bei Horizon Rally beendet.",
+                    "en-US": "You completed your first Horizon Rally stage.",
+                    "es-ES": "Has completado tu primera etapa de Horizon Rally.",
+                    "fr-FR": "Vous avez terminé votre première spéciale d'Horizon Rally.",
+                    "it-IT": "Hai completato la tua prima prova di Horizon Rally.",
+                    "ja-JP": "最初の Horizon ラリー ステージをクリアした",
+                    "ko-KR": "첫 번째 랠리 스테이지를 완료했습니다.",
+                    "pl-PL": "Udało ci się ukończyć swój pierwszy etap Horizon Rally.",
+                    "ru-RU": "Вы завершили первый этап Horizon Rally.",
+                    "zh-CHT": "您已完成第一個 Horizon 拉力賽關卡。",
+                    "pt-PT": "Você completou seu primeiro estágio do Horizon Rally."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie Ihre erste Etappe bei Horizon Rally.",
+                    "en-US": "Complete your first Horizon Rally stage.",
+                    "es-ES": "Completa tu primera etapa de Horizon Rally.",
+                    "fr-FR": "Terminez votre première spéciale d'Horizon Rally.",
+                    "it-IT": "Completa la tua prima prova di Horizon Rally.",
+                    "ja-JP": "最初の Horizon ラリー ステージをクリアしよう",
+                    "ko-KR": "첫 번째 랠리 스테이지를 완료하십시오.",
+                    "pl-PL": "Ukończ swój pierwszy etap Horizon Rally.",
+                    "ru-RU": "Завершить первый этап Horizon Rally.",
+                    "zh-CHT": "完成第一個 Horizon 拉力賽關卡。",
+                    "pt-PT": "Complete seu primeiro estágio do Horizon Rally."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "51.png"
+        },
+        "207": {
+            "text": {
+                "name": {
+                    "de-DE": "Mit Schlamm und Ruhm bedeckt",
+                    "en-US": "Covered in Mud and Glory",
+                    "es-ES": "Cubierto de barro y gloria",
+                    "fr-FR": "Couvert de gloire et de boue",
+                    "it-IT": "Dal fango alla gloria",
+                    "ja-JP": "泥と栄光にまみれた",
+                    "ko-KR": "진흙과 영광으로 뒤덮여",
+                    "pl-PL": "W błocie i chwale",
+                    "ru-RU": "Триумф в грязи",
+                    "zh-CHT": "大放光明",
+                    "pt-PT": "Coberto de Lama e Glória"
+                },
+                "description": {
+                    "de-DE": "Sie haben Ihre allererste Rallye in Horizon Rally gewonnen.",
+                    "en-US": "You won your very first Horizon Rally.",
+                    "es-ES": "Has ganado tu primer rally en Horizon Rally.",
+                    "fr-FR": "Vous avez remporté votre premier rallye Horizon Rally.",
+                    "it-IT": "Hai vinto il tuo primo rally di Horizon Rally.",
+                    "ja-JP": "最初の Horizon ラリーに勝利した",
+                    "ko-KR": "Horizon 랠리에서 처음으로 승리했습니다.",
+                    "pl-PL": "Udało ci się wygrać swój pierwszy rajd Horizon Rally.",
+                    "ru-RU": "Вы выиграли первое Horizon Rally.",
+                    "zh-CHT": "您已贏得第一場 Horizon 拉力賽。",
+                    "pt-PT": "Você venceu seu primeiro Horizon Rally."
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie eine Rallye in Horizon Rally.",
+                    "en-US": "Win a Horizon Rally.",
+                    "es-ES": "Gana un rally en Horizon Rally.",
+                    "fr-FR": "Remportez un rallye Horizon Rally.",
+                    "it-IT": "Vinci un rally di Horizon Rally.",
+                    "ja-JP": "Horizon ラリーで勝利しよう",
+                    "ko-KR": "Horizon 랠리에서 승리하십시오.",
+                    "pl-PL": "Wygraj rajd Horizon Rally.",
+                    "ru-RU": "Выиграть Horizon Rally.",
+                    "zh-CHT": "贏得一場 Horizon 拉力賽。",
+                    "pt-PT": "Vença um Horizon Rally."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "52.png"
+        },
+        "208": {
+            "text": {
+                "name": {
+                    "de-DE": "Auf zum ersten Drift",
+                    "en-US": "Take her for a Power Slide",
+                    "es-ES": "Márcate un buen derrape",
+                    "fr-FR": "L'emmener valser",
+                    "it-IT": "Primo appuntamento",
+                    "ja-JP": "パワー スライドで試運転しよう",
+                    "ko-KR": "파워 슬라이드로의 초대",
+                    "pl-PL": "Ostra jazda próbna",
+                    "ru-RU": "Тачка для бездорожья",
+                    "zh-CHT": "連袂出擊",
+                    "pt-PT": "Leva pra Derrapar"
+                },
+                "description": {
+                    "de-DE": "Sie haben Ihr erstes Auto für Horizon Rally erhalten.",
+                    "en-US": "You obtained your first Horizon Rally car.",
+                    "es-ES": "Has conseguido tu primer coche de Horizon Rally.",
+                    "fr-FR": "Vous avez obtenu votre première voiture Horizon Rally.",
+                    "it-IT": "Hai ottenuto la tua prima auto di Horizon Rally.",
+                    "ja-JP": "最初の Horizon ラリー カーを所有した",
+                    "ko-KR": "첫 번째 Horizon 랠리 자동차를 획득했습니다.",
+                    "pl-PL": "Udało ci się zdobyć swój pierwszy samochód z Horizon Rally.",
+                    "ru-RU": "Вы получили свой первый автомобиль для Horizon Rally.",
+                    "zh-CHT": "您已獲得第一輛 Horizon 拉力賽車。",
+                    "pt-PT": "Você obteve seu primeiro carro do Horizon Rally."
+                },
+                "howto": {
+                    "de-DE": "Erhalten Sie Ihr erstes Horizon Rally-Auto.",
+                    "en-US": "Obtain your first Horizon Rally car.",
+                    "es-ES": "Consigue tu primer coche de Horizon Rally.",
+                    "fr-FR": "Obtenez votre première voiture Horizon Rally.",
+                    "it-IT": "Ottieni la tua prima auto di Horizon Rally.",
+                    "ja-JP": "最初の Horizon ラリー カーを所有しよう",
+                    "ko-KR": "첫 번째 Horizon 랠리 자동차를 획득하십시오.",
+                    "pl-PL": "Zdobądź swój pierwszy samochód z Horizon Rally.",
+                    "ru-RU": "Получите свой первый автомобиль для Horizon Rally.",
+                    "zh-CHT": "獲得第一輛 Horizon 拉力賽車。",
+                    "pt-PT": "Obtenha seu primeiro carro do Horizon Rally."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "53.png"
+        },
+        "209": {
+            "text": {
+                "name": {
+                    "de-DE": "Horizon Rally-Champion",
+                    "en-US": "Horizon Rally Champion",
+                    "es-ES": "Campeón de Horizon Rally",
+                    "fr-FR": "Champion Horizon Rally",
+                    "it-IT": "Campione di Horizon Rally",
+                    "ja-JP": "Horizon ラリー チャンピオン",
+                    "ko-KR": "Horizon 랠리 챔피언",
+                    "pl-PL": "Mistrz Horizon Rally",
+                    "ru-RU": "Чемпион Horizon Rally",
+                    "zh-CHT": "領先群雄",
+                    "pt-PT": "Campeão do Horizon Rally"
+                },
+                "description": {
+                    "de-DE": "Sie sind Horizon Rally-Champion geworden.",
+                    "en-US": "You became the Horizon Rally Champion.",
+                    "es-ES": "Te has convertido en el campeón de Horizon Rally.",
+                    "fr-FR": "Vous êtes devenu le champion Horizon Rally.",
+                    "it-IT": "Sei diventato il campione di Horizon Rally.",
+                    "ja-JP": "Horizon ラリー チャンピオンになった",
+                    "ko-KR": "Horizon 랠리 챔피언이 되었습니다.",
+                    "pl-PL": "Udało ci się zdobyć tytuł mistrza Horizon Rally.",
+                    "ru-RU": "Вы стали чемпионом Horizon Rally.",
+                    "zh-CHT": "您已成為 Horizon 拉力賽冠軍。",
+                    "pt-PT": "Você se tornou o Campeão do Horizon Rally."
+                },
+                "howto": {
+                    "de-DE": "Werden Sie Horizon Rally-Champion.",
+                    "en-US": "Become the Horizon Rally Champion.",
+                    "es-ES": "Conviértete en el campeón de Horizon Rally.",
+                    "fr-FR": "Devenez le champion Horizon Rally.",
+                    "it-IT": "Diventa il campione di Horizon Rally.",
+                    "ja-JP": "Horizon ラリー チャンピオンになろう",
+                    "ko-KR": "Horizon 랠리 챔피언이 되십시오.",
+                    "pl-PL": "Zostań mistrzem Horizon Rally.",
+                    "ru-RU": "Станьте чемпионом Horizon Rally.",
+                    "zh-CHT": "成為 Horizon 拉力賽冠軍。",
+                    "pt-PT": "Torne-se o Campeão do Horizon Rally."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "75",
+            "imageId": "54.png"
+        },
+        "210": {
+            "text": {
+                "name": {
+                    "de-DE": "Schwierigeres Fahren",
+                    "en-US": "Harder Driving",
+                    "es-ES": "Conducción difícil",
+                    "fr-FR": "Pilotage très difficile",
+                    "it-IT": "Guerriero della strada",
+                    "ja-JP": "ハード ドライビング",
+                    "ko-KR": "고난이도 운전",
+                    "pl-PL": "Trudniejsza jazda",
+                    "ru-RU": "Вождение более высокого уровня",
+                    "zh-CHT": "硬底子",
+                    "pt-PT": "Direção Mais Difícil"
+                },
+                "description": {
+                    "de-DE": "Rallye-Etappe mit schwerer Gegnerschwierigkeit ohne Automatikschaltung oder Fahrlinie gewonnen.",
+                    "en-US": "Won a Rally stage on Hard opponent difficulty without using automatic shifting or the Driving Line.",
+                    "es-ES": "Has ganado una etapa de rally en difícil sin usar cambio de marchas automático ni trazado óptimo.",
+                    "fr-FR": "Spéciale remportée contre des adversaires difficiles sans changement de vitesses auto/trajectoire.",
+                    "it-IT": "Vinta una prova al livello di difficoltà avversari difficile senza cambio automatico né traiettoria.",
+                    "ja-JP": "オートマチックとドライビング ラインを使わずにレベル HARD の対戦相手にラリー ステージで勝利した",
+                    "ko-KR": "자동 변속과 주행선을 사용하지 않고 경쟁 상대 난이도를 어려움으로 설정하여 랠리 스테이지에서 승리했습니다.",
+                    "pl-PL": "Wygrano etap rajdu na poz. trudności przeciwników Trudny bez automatycznej skrzyni i toru jazdy.",
+                    "ru-RU": "Вы выиграли этап у соперника на сложном уровне без автоматической к/п и траектории движения.",
+                    "zh-CHT": "您沒有使用自動換檔和駕駛路線功能就在對手為困難難度的拉力賽關卡中獲勝了。",
+                    "pt-PT": "Venceu um estágio do Rally com oponentes Difíceis sem usar transmissão automática ou o traçado."
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie eine Rallye-Etappe mit schwerer Gegnerschwierigkeit ohne Automatik oder Fahrlinie.",
+                    "en-US": "Win a Rally stage on Hard opponent difficulty without using automatic shifting or the Driving Line.",
+                    "es-ES": "Gana una etapa de rally en difícil sin usar el cambio de marchas automático ni el trazado óptimo.",
+                    "fr-FR": "Gagnez une spéciale contre des adversaires difficiles sans changement de vitesses auto/trajectoire.",
+                    "it-IT": "Vinci una prova al livello di difficoltà avversari difficile senza cambio automatico né traiettoria.",
+                    "ja-JP": "オートマチックとドライビング ラインを使わずにレベル HARD の対戦相手にラリー ステージで勝利しよう",
+                    "ko-KR": "자동 변속과 주행선을 사용하지 않고 경쟁 상대 난이도를 어려움으로 설정하여 랠리 스테이지에서 승리하십시오.",
+                    "pl-PL": "Wygraj etap rajdu na poz. trudności przeciwników Trudny bez automatycznej skrzyni i toru jazdy.",
+                    "ru-RU": "Выиграйте этап у соперника на сложном уровне без автоматической к/п или траектории движения.",
+                    "zh-CHT": "不使用自動換檔和駕駛路線功能並在困難對手難度的拉力賽關卡中獲勝。",
+                    "pt-PT": "Vença um estágio do Rally com oponentes Difíceis sem usar transmissão automática ou o traçado."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "55.png"
+        },
+        "211": {
+            "text": {
+                "name": {
+                    "de-DE": "Lufthoheit",
+                    "en-US": "Mile High Club",
+                    "es-ES": "El club de la milla",
+                    "fr-FR": "Fou volant",
+                    "it-IT": "Miglia di volo",
+                    "ja-JP": "マイル ハイ クラブ",
+                    "ko-KR": "고도 1마일 클럽",
+                    "pl-PL": "Klub wysokich lotów",
+                    "ru-RU": "Клуб \"Седьмое небо\"",
+                    "zh-CHT": "魚躍龍門",
+                    "pt-PT": "Clube da Milhagem Aérea"
+                },
+                "description": {
+                    "de-DE": "Sie sind in Horizon Rally-Veranstaltungen über eine Gesamtdistanz von 1609 Metern gesprungen.",
+                    "en-US": "You got a total of 1609 metres of air in Horizon Rally events.",
+                    "es-ES": "Has conseguido un total de 1.609 metros de distancia en el aire en eventos de Horizon Rally.",
+                    "fr-FR": "Vous avez cumulé 1609 mètres en l'air dans les épreuves d'Horizon Rally.",
+                    "it-IT": "Hai totalizzato 1609 metri in salto negli eventi di Horizon Rally.",
+                    "ja-JP": "Horizon ラリー イベントで合計 1609 メートルのエアーを達成した",
+                    "ko-KR": "Horizon 랠리 이벤트에서 총 1609미터의 비행거리를 달성했습니다.",
+                    "pl-PL": "Udało ci się pokonać łącznie 1609 metrów w powietrzu w zawodach Horizon Rally.",
+                    "ru-RU": "Вы пролетели в общей сложности 1609 метров во время Horizon Rally.",
+                    "zh-CHT": "您已在 Horizon 拉力賽中達成 1609 公尺的總跳躍高度。",
+                    "pt-PT": "Você obteve um total de 1609 metros de voo em eventos do Horizon Rally."
+                },
+                "howto": {
+                    "de-DE": "Springen Sie in Horizon Rally-Veranstaltungen über eine Gesamtdistanz von 1609 Metern.",
+                    "en-US": "Get a total of 1609 metres of air in Horizon Rally events.",
+                    "es-ES": "Consigue un total de 1.609 metros de distancia en el aire en eventos de Horizon Rally.",
+                    "fr-FR": "Cumulez 1609 mètres en l'air dans les épreuves d'Horizon Rally.",
+                    "it-IT": "Totalizza 1609 metri in salto negli eventi di Horizon Rally.",
+                    "ja-JP": "Horizon ラリー イベントで合計 1609 メートルのエアーを達成しよう",
+                    "ko-KR": "Horizon 랠리 이벤트에서 총 1609미터의 비행거리를 달성하십시오.",
+                    "pl-PL": "Pokonaj łącznie 1609 metrów w powietrzu w zawodach Horizon Rally.",
+                    "ru-RU": "Пролетите в общей сложности 1609 метров во время Horizon Rally.",
+                    "zh-CHT": "在 Horizon 拉力賽中達成 1609 公尺的總跳躍高度。",
+                    "pt-PT": "Obtenha um total de 1609 metros de voo em eventos do Horizon Rally."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "56.png"
+        },
+        "212": {
+            "text": {
+                "name": {
+                    "de-DE": "Rallye-Rivalen",
+                    "en-US": "Rally Rivals",
+                    "es-ES": "Rivales del rally",
+                    "fr-FR": "Rivaux de rallye",
+                    "it-IT": "Rivali rally",
+                    "ja-JP": "ラリー ライバル",
+                    "ko-KR": "랠리 라이벌",
+                    "pl-PL": "Rajdowa rywalizacja",
+                    "ru-RU": "Соперники по ралли",
+                    "zh-CHT": "拉力勁敵",
+                    "pt-PT": "Rivais do Rally"
+                },
+                "description": {
+                    "de-DE": "Sie haben 5 Horizon Rally-Veranstaltungen im Rivalen-Modus beendet.",
+                    "en-US": "You completed 5 Horizon Rally events in Rivals mode.",
+                    "es-ES": "Has completado 5 eventos de Horizon Rally en el modo Rivales.",
+                    "fr-FR": "Vous avez terminé 5 épreuves d'Horizon Rally en mode Rivaux.",
+                    "it-IT": "Hai completato 5 eventi di Horizon Rally in modalità Rivali.",
+                    "ja-JP": "ライバル モードで Horizon ラリーのイベントを5つクリアした",
+                    "ko-KR": "라이벌 모드에서 5개의 Horizon 랠리 이벤트를 완료했습니다.",
+                    "pl-PL": "Udało ci się ukończyć 5 zawodów Horizon Rally w trybie rywali.",
+                    "ru-RU": "Вы прошли 5 заездов Horizon Rally в режиме Соперников.",
+                    "zh-CHT": "您已在勁敵賽模式中完成五場 Horizon 拉力賽。",
+                    "pt-PT": "Você completou 5 eventos do Horizon Rally no modo Rivais."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie 5 Horizon Rally-Veranstaltungen im Rivalen-Modus.",
+                    "en-US": "Complete 5 Horizon Rally events in Rivals mode.",
+                    "es-ES": "Completa 5 eventos de Horizon Rally en el modo Rivales.",
+                    "fr-FR": "Terminez 5 épreuves d'Horizon Rally en mode Rivaux.",
+                    "it-IT": "Completa 5 eventi di Horizon Rally in modalità Rivali.",
+                    "ja-JP": "ライバル モードで Horizon ラリーのイベントを5つクリアしよう",
+                    "ko-KR": "라이벌 모드에서 5개의 Horizon 랠리 이벤트를 완료하십시오.",
+                    "pl-PL": "Ukończ 5 zawodów Horizon Rally w trybie rywali.",
+                    "ru-RU": "Пройти 5 заездов Horizon Rally в режиме Соперников.",
+                    "zh-CHT": "在勁敵賽模式中完成五場 Horizon 拉力賽。",
+                    "pt-PT": "Complete 5 eventos do Horizon Rally no modo Rivais."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "57.png"
+        },
+        "213": {
+            "text": {
+                "name": {
+                    "de-DE": "Online-Meister",
+                    "en-US": "Ghostbuster",
+                    "es-ES": "Cazafantasmas",
+                    "fr-FR": "Chasseur de fantômes",
+                    "it-IT": "Acchiappafantasmi",
+                    "ja-JP": "ゴーストバスター",
+                    "ko-KR": "고스트버스터",
+                    "pl-PL": "Pogromca duchów",
+                    "ru-RU": "Охотник за привидениями",
+                    "zh-CHT": "車手剋星",
+                    "pt-PT": "Caça-Fantasmas"
+                },
+                "description": {
+                    "de-DE": "Sie haben 10 Horizon Rally-Etappen in Online-Mehrspieler-Spielen gewonnen.",
+                    "en-US": "You won 10 Horizon Rally stages in online multiplayer.",
+                    "es-ES": "Has ganado 10 etapas de Horizon Rally en el modo multijugador en línea.",
+                    "fr-FR": "Vous avez remporté 10 spéciales d'Horizon Rally en multijoueur en ligne.",
+                    "it-IT": "Hai vinto 10 prove di Horizon Rally in multigiocatore online.",
+                    "ja-JP": "オンライン マルチプレイ モードにおいて Horizon ラリーのステージで10回勝利した",
+                    "ko-KR": "온라인 멀티 플레이에서 10개의 Horizon 랠리 스테이지를 승리했습니다.",
+                    "pl-PL": "Udało ci się wygrać 10 etapów Horizon Rally w trybie online dla wielu graczy.",
+                    "ru-RU": "Вы прошли 10 этапов Horizon Rally в сетевом режиме.",
+                    "zh-CHT": "您已在多人線上模式的 Horizon 拉力賽關卡中獲得 10 場勝利。",
+                    "pt-PT": "Você venceu 10 estágios do Horizon Rally no modo multijogador online."
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie 10 Horizon Rally-Etappen in Online-Mehrspieler-Spielen.",
+                    "en-US": "Win 10 Horizon Rally stages in online multiplayer.",
+                    "es-ES": "Gana 10 etapas de Horizon Rally en el modo multijugador en línea.",
+                    "fr-FR": "Remportez 10 spéciales d'Horizon Rally en multijoueur en ligne.",
+                    "it-IT": "Vinci 10 prove di Horizon Rally in multigiocatore online.",
+                    "ja-JP": "オンライン マルチプレイ モードにおいて Horizon ラリーのステージで10回勝利しよう",
+                    "ko-KR": "온라인 멀티 플레이에서 10개의 Horizon 랠리 스테이지 승리하십시오.",
+                    "pl-PL": "Wygraj 10 etapów Horizon Rally w trybie online dla wielu graczy.",
+                    "ru-RU": "Пройти 10 этапов Horizon Rally в сетевом режиме.",
+                    "zh-CHT": "在多人線上模式的 Horizon 拉力賽關卡中獲得 10 場勝利。",
+                    "pt-PT": "Vença 10 estágios do Horizon Rally no modo multijogador online."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "58.png"
+        },
+        "214": {
+            "text": {
+                "name": {
+                    "de-DE": "Tadelloser Sieg",
+                    "en-US": "Flawless Victory",
+                    "es-ES": "Victoria perfecta",
+                    "fr-FR": "Victoire parfaite",
+                    "it-IT": "Vittoria impeccabile",
+                    "ja-JP": "完璧な勝利",
+                    "ko-KR": "완벽한 승리",
+                    "pl-PL": "Bezbłędne zwycięstwo",
+                    "ru-RU": "Полная победа",
+                    "zh-CHT": "無可挑剔",
+                    "pt-PT": "Vitória Impecável"
+                },
+                "description": {
+                    "de-DE": "Horizon Rally-Etappe gewonnen, ohne einen Unfall zu bauen oder \"Zurückspulen\" einzusetzen.",
+                    "en-US": "You won a Horizon Rally stage without crashing or using rewind.",
+                    "es-ES": "Has ganado una etapa de Horizon Rally sin chocarte ni rebobinar.",
+                    "fr-FR": "Vous avez remporté une spéciale d'Horizon Rally sans rien percuter et sans utiliser Rembobiner.",
+                    "it-IT": "Hai vinto un rally di Horizon Rally senza mai urtare né riavvolgere.",
+                    "ja-JP": "Horizon ラリー ステージを無傷かつリワインドせずにクリアした",
+                    "ko-KR": "Horizon 랠리 스테이지를 되돌리거나 충돌하지 않고 승리했습니다.",
+                    "pl-PL": "Udało ci się wygrać etap Horizon Rally bez stłuczki i korzystania z funkcji przewijania.",
+                    "ru-RU": "Вы прошли этап Horizon Rally без столкновений и перемотки.",
+                    "zh-CHT": "您沒有撞車也沒有使用倒轉功能就在一場 Horizon 拉力賽關卡中獲勝了。",
+                    "pt-PT": "Você venceu um estágio do Horizon Rally sem bater e sem usar retroceder."
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie eine Horizon Rally-Etappe, ohne einen Unfall zu bauen oder \"Zurückspulen\" einzusetzen.",
+                    "en-US": "Win a Horizon Rally stage without crashing or using rewind.",
+                    "es-ES": "Gana una etapa de Horizon Rally sin chocarte ni rebobinar.",
+                    "fr-FR": "Remportez une spéciale d'Horizon Rally sans rien percuter et sans utiliser Rembobiner.",
+                    "it-IT": "Vinci un rally di Horizon Rally senza mai urtare né riavvolgere.",
+                    "ja-JP": "Horizon ラリー ステージを無傷かつリワインドせずにクリアしよう",
+                    "ko-KR": "Horizon 랠리 스테이지를 되돌리거나 충돌하지 않고 승리하십시오.",
+                    "pl-PL": "Wygraj etap Horizon Rally bez stłuczki i korzystania z opcji przewijania.",
+                    "ru-RU": "Пройти этап Horizon Rally без столкновений и перемотки.",
+                    "zh-CHT": "不撞車也不使用倒轉功能並在一場 Horizon 拉力賽關卡中獲勝。",
+                    "pt-PT": "Vença um estágio do Horizon Rally sem bater e sem usar retroceder."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "59.png"
+        },
+        "215": {
+            "text": {
+                "name": {
+                    "de-DE": "Gib mir fünf!",
+                    "en-US": "High Five!",
+                    "es-ES": "¡Choca esos cinco!",
+                    "fr-FR": "Tape-m'en cinq !",
+                    "it-IT": "Batti il cinque!",
+                    "ja-JP": "ハイ ファイブ!",
+                    "ko-KR": "합쳐서 다섯대",
+                    "pl-PL": "Przybij piątkę!",
+                    "ru-RU": "Есть!",
+                    "zh-CHT": "超級車主！",
+                    "pt-PT": "Cinco!"
+                },
+                "description": {
+                    "de-DE": "Sie haben alle fünf Horizon Rally-Autos erworben.",
+                    "en-US": "You purchased all five Horizon Rally cars.",
+                    "es-ES": "Has comprado los cinco coches de Horizon Rally.",
+                    "fr-FR": "Vous avez acheté les cinq voitures d'Horizon Rally.",
+                    "it-IT": "Hai acquistato tutte le cinque auto di Horizon Rally.",
+                    "ja-JP": "Horizon ラリー カーを5台全て購入した",
+                    "ko-KR": "총 5대의 Horizon 랠리 자동차를 구입했습니다.",
+                    "pl-PL": "Udało ci się zakupić wszystkie pięć samochodów z Horizon Rally.",
+                    "ru-RU": "Вы купили все пять машин для Horizon Rally.",
+                    "zh-CHT": "您已購買了五輛 Horizon 拉力賽車。",
+                    "pt-PT": "Você comprou todos os cinco carros do Horizon Rally."
+                },
+                "howto": {
+                    "de-DE": "Erwerben Sie alle fünf Horizon Rally-Autos.",
+                    "en-US": "Purchase all five Horizon Rally cars.",
+                    "es-ES": "Compra los cinco coches de Horizon Rally.",
+                    "fr-FR": "Achetez les cinq voitures d'Horizon Rally.",
+                    "it-IT": "Acquista le cinque auto di Horizon Rally.",
+                    "ja-JP": "Horizon ラリー カーを5台全て購入しよう",
+                    "ko-KR": "총 5대의 Horizon 랠리 자동차를 구입하십시오.",
+                    "pl-PL": "Kup wszystkie pięć samochodów z Horizon Rally.",
+                    "ru-RU": "Купить все пять машин для Horizon Rally.",
+                    "zh-CHT": "購買五輛 Horizon 拉力賽車。",
+                    "pt-PT": "Compre todos os cinco carros do Horizon Rally."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "60.png"
+        }
+    }
+}

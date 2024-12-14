@@ -1,0 +1,316 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "en-US": "Perfect Match",
+                    "ja-JP": "完全試合",
+                    "ko-KR": "완전 시합(퍼펙트게임)",
+                    "zh-CHT": "完勝"
+                },
+                "description": {
+                    "en-US": "Get a Perfect (no damage win) in a match.\n\n",
+                    "ja-JP": "１試合パーフェクト（ノーダメージ勝利）達成。",
+                    "ko-KR": "1시합 퍼펙트(노데미지 승리) 달성.",
+                    "zh-CHT": "取得１場比賽的完全勝利（無損傷勝利）。\n\n"
+                },
+                "howto": {
+                    "en-US": "Get a Perfect (no damage win) in a match.",
+                    "ja-JP": "１試合パーフェクト（ノーダメージ勝利）達成。",
+                    "ko-KR": "1시합 퍼펙트(노데미지 승리) 달성.",
+                    "zh-CHT": "取得１場比賽的完全勝利（無損傷勝利）。\n\n"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "en-US": "Champion\n\n",
+                    "ja-JP": "チャンピオン",
+                    "ko-KR": "챔피온",
+                    "zh-CHT": "冠軍\n\n"
+                },
+                "description": {
+                    "en-US": "Finish the game (can continue).",
+                    "ja-JP": "ゲームクリア（コンティニュー可）。",
+                    "ko-KR": "게임 클리어（계속 가능）.",
+                    "zh-CHT": "完成游戲（可續關）。\n\n\n\n\n\n"
+                },
+                "howto": {
+                    "en-US": "Finish the game (can continue).",
+                    "ja-JP": "ゲームクリア（コンティニュー可）。\n\n",
+                    "ko-KR": "게임 클리어（계속 가능）.",
+                    "zh-CHT": "完成游戲（可續關）。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "en-US": "Best NeoGeo Warrior",
+                    "ja-JP": "ネオジオ最強の戦士",
+                    "ko-KR": "네오지오 최강의 전사",
+                    "zh-CHT": "NeoGeo之最強戰士\n\n"
+                },
+                "description": {
+                    "en-US": "Finish the game (can't lose one round, can't continue).",
+                    "ja-JP": "ゲームクリア（ノーミスクリア、コンティニュー不可）。",
+                    "ko-KR": "게임 클리어（노 미스 클리어, 계속 불가）.",
+                    "zh-CHT": "完成游戲（1局都不輸，不能續關）。"
+                },
+                "howto": {
+                    "en-US": "Finish the game (can't lose one round, can't continue).",
+                    "ja-JP": "ゲームクリア（ノーミスクリア、コンティニュー不可）。",
+                    "ko-KR": "게임 클리어（노 미스 클리어, 계속 불가）.",
+                    "zh-CHT": "完成游戲（1局都不輸，不能續關）。\n\n"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "en-US": "Speed Hunter",
+                    "ja-JP": "スピードハンター",
+                    "ko-KR": "스피드 헌터\n\n",
+                    "zh-CHT": "速度獵人\n\n"
+                },
+                "description": {
+                    "en-US": "Pass level within 30 timecounts（Story Mode, Default Setting only）.",
+                    "ja-JP": "1試合を30カウント以内にクリア（STORY MODE デフォルト設定限定）。",
+                    "ko-KR": "1시합을 30 카운트 안에 클리어 (STORY MODE, 기본 설정에 한정함).",
+                    "zh-CHT": "於30倒計時內過關1場比賽（只限定STORY MODE及默認設定）。"
+                },
+                "howto": {
+                    "en-US": "Pass level within 30 timecounts（Story Mode, Default Setting only）.",
+                    "ja-JP": "1試合を30カウント以内にクリア（STORY MODE デフォルト設定限定）。",
+                    "ko-KR": "1시합을 30 카운트 안에 클리어 (STORY MODE, 기본 설정에 한정함).",
+                    "zh-CHT": "於30倒計時內過關1場比賽（只限定STORY MODE及默認設定）。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "en-US": "Smash MIZUCHI",
+                    "ja-JP": "ミズチ攻略",
+                    "ko-KR": "MIZUCHI 공략",
+                    "zh-CHT": "攻克MIZUCHI"
+                },
+                "description": {
+                    "en-US": "Defeat MIZUCHI（Story Mode, Default Setting only）.",
+                    "ja-JP": "ミズチを倒せ（STORY MODE デフォルト設定限定）。",
+                    "ko-KR": "MIZUCHI를 물리쳐라!\n\n(STORY MODE, 기본 설정에 한정함).",
+                    "zh-CHT": "打倒MIZUCHI（只限定STORY MODE及默認設定）。"
+                },
+                "howto": {
+                    "en-US": "Defeat MIZUCHI（Story Mode, Default Setting only）.",
+                    "ja-JP": "ミズチを倒せ（STORY MODE デフォルト設定限定）。",
+                    "ko-KR": "MIZUCHI를 물리쳐라!\n\n(STORY MODE, 기본 설정에 한정함).",
+                    "zh-CHT": "打倒MIZUCHI（只限定STORY MODE及默認設定）。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "en-US": "Break KING LION",
+                    "ja-JP": "真獅子王突破",
+                    "ko-KR": "KING LION 돌파",
+                    "zh-CHT": "突破KING LION\n\n"
+                },
+                "description": {
+                    "en-US": "Defeat KING LION（Story Mode, Default Setting only）.",
+                    "ja-JP": "真獅子王を倒せ（STORY MODE デフォルト設定限定）。",
+                    "ko-KR": "KING LION을 물리쳐라!\n\n(STORY MODE, 기본 설정에 한정함).",
+                    "zh-CHT": "打倒KING LION（只限定STORY MODE及默認設定）。"
+                },
+                "howto": {
+                    "en-US": "Defeat KING LION（Story Mode, Default Setting only）.",
+                    "ja-JP": "真獅子王を倒せ（STORY MODE デフォルト設定限定）。",
+                    "ko-KR": "KING LION을 물리쳐라!\n\n(STORY MODE, 기본 설정에 한정함).\n\n",
+                    "zh-CHT": "打倒KING LION（只限定STORY MODE及默認設定）。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "en-US": "Defeat NEO-DIO",
+                    "ja-JP": "NEO-DIO撃破",
+                    "ko-KR": "NEO-DIO 격파",
+                    "zh-CHT": "擊破NEO-DIO"
+                },
+                "description": {
+                    "en-US": "Defeat NEO-DIO（Story Mode, Default Setting only）.",
+                    "ja-JP": "NEO-DIOを倒せ（STORY MODE デフォルト設定限定）。",
+                    "ko-KR": "NEO-DIO를 물리쳐라! \n\n(STORY MODE, 기본 설정에 한정함).",
+                    "zh-CHT": "打倒NEO-DIO（只限定STORY MODE及默認設定）。"
+                },
+                "howto": {
+                    "en-US": "Defeat NEO-DIO（Story Mode, Default Setting only）.",
+                    "ja-JP": "NEO-DIOを倒せ（STORY MODE デフォルト設定限定）。",
+                    "ko-KR": "NEO-DIO를 물리쳐라! \n\n(STORY MODE, 기본 설정에 한정함).",
+                    "zh-CHT": "打倒NEO-DIO（只限定STORY MODE及默認設定）。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "en-US": "Crush GOODMAN\n\n",
+                    "ja-JP": "グッドマン粉砕",
+                    "ko-KR": "GOODMAN 분쇄",
+                    "zh-CHT": "粉碎GOODMAN\n\n"
+                },
+                "description": {
+                    "en-US": "Defeat GOODMAN（Story Mode, Default Setting only）.",
+                    "ja-JP": "グッドマンを倒せ（STORY MODE デフォルト設定限定）。",
+                    "ko-KR": "GOODMAN을 물리쳐라! \n\n(STORY MODE, 기본 설정에 한정함).",
+                    "zh-CHT": "打倒GOODMAN（只限定STORY MODE及默認設定）。"
+                },
+                "howto": {
+                    "en-US": "Defeat GOODMAN（Story Mode, Default Setting only）.",
+                    "ja-JP": "グッドマンを倒せ（STORY MODE デフォルト設定限定）。",
+                    "ko-KR": "GOODMAN을 물리쳐라! \n\n(STORY MODE, 기본 설정에 한정함).",
+                    "zh-CHT": "打倒GOODMAN（只限定STORY MODE及默認設定）。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "en-US": "Survivor",
+                    "ja-JP": "サバイバー",
+                    "ko-KR": "서바이버",
+                    "zh-CHT": "生存者\n\n"
+                },
+                "description": {
+                    "en-US": "Get 15 wins or more in Survival Mode.",
+                    "ja-JP": "SURVIVAL MODEで15勝以上達成。",
+                    "ko-KR": "SURVIVAL MODE에서 15연승 이상 달성.",
+                    "zh-CHT": "於SURVIVAL MODE中取得15勝以上。\n\n\n\n"
+                },
+                "howto": {
+                    "en-US": "Get 15 wins or more in Survival Mode.",
+                    "ja-JP": "SURVIVAL MODEで15勝以上達成。",
+                    "ko-KR": "SURVIVAL MODE에서 15연승 이상 달성.\n\n",
+                    "zh-CHT": "於SURVIVAL MODE中取得15勝以上。\n\n"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "en-US": "A/D Assault Maniac",
+                    "ja-JP": "A・Dアサルトマニア",
+                    "ko-KR": "A·D Assault 마니아",
+                    "zh-CHT": "A/D突擊狂\n\n"
+                },
+                "description": {
+                    "en-US": "Use all A/D Assault attacks（Story Mode, Default Setting only）.",
+                    "ja-JP": "全てのA・Dアサルトを使用（STORY MODE デフォルト設定限定）。",
+                    "ko-KR": "모든 A·D Assault를 사용하라! \n\n(STORY MODE, 기본 설정에 한정함).",
+                    "zh-CHT": "使用全部的A/D突擊（只限定STORY MODE及默認設定）。\n\n"
+                },
+                "howto": {
+                    "en-US": "Use all A/D Assault attacks（Story Mode, Default Setting only）.",
+                    "ja-JP": "全てのA・Dアサルトを使用（STORY MODE デフォルト設定限定）。",
+                    "ko-KR": "모든 A·D Assault를 사용하라! \n\n(STORY MODE, 기본 설정에 한정함).",
+                    "zh-CHT": "使用全部的A/D突擊（只限定STORY MODE及默認設定）。\n\n"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "en-US": "NeoGeo Lover",
+                    "ja-JP": "ネオジオファン",
+                    "ko-KR": "네오지오 마니아",
+                    "zh-CHT": "NeoGeo迷\n\n"
+                },
+                "description": {
+                    "en-US": "Achieve 10 wins in Xbox LIVE fight（Only in RANKED MATCH）",
+                    "ja-JP": "Xbox LIVE対戦にて10勝(ランク マッチのみ）。",
+                    "ko-KR": "Xbox LIVE대전에서 10승(랭킹 매치에만 해당).\n\n",
+                    "zh-CHT": "Xbox LIVE對戰達成10勝（僅等級配對）。\n\n"
+                },
+                "howto": {
+                    "en-US": "Achieve 10 wins in Xbox LIVE fight（Only in RANKED MATCH）",
+                    "ja-JP": "Xbox LIVE対戦にて10勝(ランク マッチのみ）。",
+                    "ko-KR": "Xbox LIVE대전에서 10승(랭킹 매치에만 해당).\n\n",
+                    "zh-CHT": "Xbox LIVE對戰達成10勝（僅等級配對）。\n\n"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "en-US": "Mr.NeoGeo",
+                    "ja-JP": "Mr.ネオジオ",
+                    "ko-KR": "Mr.네오지오\n\n",
+                    "zh-CHT": "Mr.NeoGeo\n\n"
+                },
+                "description": {
+                    "en-US": "Achieve 25 wins in Xbox LIVE fight（Only in RANKED MATCH）",
+                    "ja-JP": "Xbox LIVE対戦にて25勝(ランク マッチのみ）。",
+                    "ko-KR": "Xbox LIVE대전에서 25승(랭킹 매치에만 해당).\n\n\n\n",
+                    "zh-CHT": "Xbox LIVE對戰達成25勝（僅等級配對）。\n\n"
+                },
+                "howto": {
+                    "en-US": "Achieve 25 wins in Xbox LIVE fight（Only in RANKED MATCH）",
+                    "ja-JP": "Xbox LIVE対戦にて25勝(ランク マッチのみ）。",
+                    "ko-KR": "Xbox LIVE대전에서 25승(랭킹 매치에만 해당).",
+                    "zh-CHT": "Xbox LIVE對戰達成25勝（僅等級配對）。\n\n"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "12.png"
+        }
+    }
+}

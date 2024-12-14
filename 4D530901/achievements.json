@@ -1,0 +1,2132 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Mein erstes Design",
+                    "en-US": "My First Theme",
+                    "es-ES": "Mi primer tema",
+                    "fr-FR": "Mon premier thème",
+                    "it-IT": "Il mio primo tema",
+                    "ja-JP": "ファースト テーマ",
+                    "ko-KR": "내 첫 번째 테마",
+                    "zh-CHT": "我的第一個主題"
+                },
+                "description": {
+                    "de-DE": "Design in der Spielhalle angebracht\n\n",
+                    "en-US": "Placed a Theme in your arcade\n\n",
+                    "es-ES": "Colocaste un tema en tu salón recreativo.\n\n",
+                    "fr-FR": "Un thème placé dans votre salle d'arcade\n\n",
+                    "it-IT": "Hai posizionato un tema nella tua sala giochi\n\n",
+                    "ja-JP": "アーケードにテーマを配置\n\n",
+                    "ko-KR": "오락실 한 곳을 테마로 꾸몄습니다.",
+                    "zh-CHT": "已在遊樂場佈置 1 個主題"
+                },
+                "howto": {
+                    "de-DE": "Design in der Spielhalle anbringen",
+                    "en-US": "Place a Theme in your arcade",
+                    "es-ES": "Coloca un tema en tu salón recreativo.",
+                    "fr-FR": "Placer un thème dans votre salle d'arcade",
+                    "it-IT": "Posiziona un tema nella tua sala giochi",
+                    "ja-JP": "アーケードにテーマを配置する",
+                    "ko-KR": "오락실 한 곳을 테마로 꾸미십시오.",
+                    "zh-CHT": "在遊樂場佈置 1 個主題"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Designfüller",
+                    "en-US": "Theme Filler",
+                    "es-ES": "Llenatemas",
+                    "fr-FR": "Remplisseur de thèmes",
+                    "it-IT": "Tematizzatore",
+                    "ja-JP": "テーマ中級者",
+                    "ko-KR": "테마 광",
+                    "zh-CHT": "主題佈置高手"
+                },
+                "description": {
+                    "de-DE": "5 einmalige Designs in deiner Spielhalle platziert",
+                    "en-US": "Placed 5 unique Themes in your arcade",
+                    "es-ES": "Colocaste 5 temas únicos en tu salón recreativo.",
+                    "fr-FR": "5 thèmes uniques placés dans votre salle d'arcade",
+                    "it-IT": "Hai posizionato 5 temi originali nella tua sala giochi",
+                    "ja-JP": "アーケード内に 5 つの違うテーマを配置",
+                    "ko-KR": "오락실 5곳을 각기 다른 테마로 꾸몄습니다.",
+                    "zh-CHT": "已在遊樂場佈置 5 個獨特的主題"
+                },
+                "howto": {
+                    "de-DE": "Platziere 5 einmalige Designs in deiner Spielhalle",
+                    "en-US": "Place 5 unique Themes in your arcade",
+                    "es-ES": "Coloca 5 temas únicos en tu salón recreativo.",
+                    "fr-FR": "Placer 5 thèmes uniques dans votre salle d'arcade",
+                    "it-IT": "Posiziona 5 temi originali nella tua sala giochi",
+                    "ja-JP": "アーケード内に 5 つの違うテーマを配置する",
+                    "ko-KR": "오락실 5곳을 각기 다른 테마로 꾸미십시오.",
+                    "zh-CHT": "在遊樂場佈置 5 個獨特的主題"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Schicke Spielhalle",
+                    "en-US": "Fancy Arcade",
+                    "es-ES": "Salón recreativo moderno",
+                    "fr-FR": "Arcade classe",
+                    "it-IT": "Sala giochi estrosa",
+                    "ja-JP": "ファンシー アーケード",
+                    "ko-KR": "화려한 공간",
+                    "zh-CHT": "花俏遊樂場"
+                },
+                "description": {
+                    "de-DE": "Eine gesamte Spielhalle mit einmaligen Designs geschmückt",
+                    "en-US": "Themed an entire arcade with unique Themes",
+                    "es-ES": "Decoraste un salón recreativo entero con temas únicos.",
+                    "fr-FR": "Toute une salle d'arcade décorée avec des thèmes uniques",
+                    "it-IT": "Hai ambientato una sala giochi soltanto con temi originali",
+                    "ja-JP": "すべてのルームに別のテーマを使って、アーケード全体にテーマを適用",
+                    "ko-KR": "오락실 전체를 각기 다른 테마로 꾸몄습니다.",
+                    "zh-CHT": "已用獨特的主題佈置一整個遊樂場"
+                },
+                "howto": {
+                    "de-DE": "Schmücke eine gesamte Spielhalle mit einmaligen Designs",
+                    "en-US": "Theme an entire arcade with unique Themes",
+                    "es-ES": "Decora un salón recreativo entero con temas únicos.",
+                    "fr-FR": "Décorer toute une salle d'arcade avec des thèmes uniques",
+                    "it-IT": "Ambienta una sala giochi soltanto con temi originali",
+                    "ja-JP": "すべてのルームに別のテーマを使って、アーケード全体にテーマを適用する",
+                    "ko-KR": "오락실 전체를 각기 다른 테마로 꾸미십시오.",
+                    "zh-CHT": "用獨特的主題佈置一整個遊樂場"
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "20",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Mein erstes Maskottchen",
+                    "en-US": "My First Mascot",
+                    "es-ES": "Mi primera mascota",
+                    "fr-FR": "Ma première mascotte",
+                    "it-IT": "La mia prima mascotte",
+                    "ja-JP": "ファースト マスコット",
+                    "ko-KR": "내 첫 번째 마스코트",
+                    "zh-CHT": "我的第一個吉祥物"
+                },
+                "description": {
+                    "de-DE": "1 Maskottchen in deiner Spielhalle aktiviert\n\n",
+                    "en-US": "Activated 1 Mascot in your arcade\n\n",
+                    "es-ES": "Activaste una mascota en tu salón recreativo.\n\n",
+                    "fr-FR": "1 mascotte activée dans votre salle d'arcade",
+                    "it-IT": "Hai attivato una mascotte nella tua sala giochi\n\n",
+                    "ja-JP": "アーケードでマスコットを 1 体アクティブ化\n\n",
+                    "ko-KR": "오락실에 마스코트를 1개 사용했습니다.\n\n",
+                    "zh-CHT": "已在遊樂場啟用 1 個吉祥物\n\n"
+                },
+                "howto": {
+                    "de-DE": "Aktiviere ein Maskottchen in deiner Spielhalle",
+                    "en-US": "Activate a Mascot in your arcade",
+                    "es-ES": "Activa una mascota en tu salón recreativo.",
+                    "fr-FR": "Placer une mascotte dans votre salle d'arcade",
+                    "it-IT": "Attiva una mascotte nella tua sala giochi",
+                    "ja-JP": "アーケードでマスコットを 1 体アクティブにする",
+                    "ko-KR": "오락실에 마스코트를 1개 사용하십시오.",
+                    "zh-CHT": "在遊樂場啟用 1 個吉祥物"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "04.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Meine erste Deko",
+                    "en-US": "My First Decoration",
+                    "es-ES": "Mi primer objeto decorativo",
+                    "fr-FR": "Ma première décoration",
+                    "it-IT": "Il mio primo pezzo d'arredamento",
+                    "ja-JP": "ファースト デコレーション",
+                    "ko-KR": "내 첫 번째 장식",
+                    "zh-CHT": "我的第一個裝飾"
+                },
+                "description": {
+                    "de-DE": "Eine Deko in deiner Spielhalle platziert",
+                    "en-US": "Placed 1 Decoration in your arcade",
+                    "es-ES": "Colocaste un objeto decorativo en tu salón recreativo.",
+                    "fr-FR": "1 décoration placée dans votre salle d'arcade",
+                    "it-IT": "Hai posizionato un pezzo di arredamento nella tua sala giochi",
+                    "ja-JP": "アーケードにデコレーションを 1 個配置",
+                    "ko-KR": "오락실에 장식을 1개 배치했습니다.",
+                    "zh-CHT": "已在遊樂場佈置 1 個裝飾"
+                },
+                "howto": {
+                    "de-DE": "Platziere eine Deko in deiner Spielhalle",
+                    "en-US": "Place a Decoration in your arcade",
+                    "es-ES": "Coloca un objeto decorativo en tu salón recreativo.",
+                    "fr-FR": "Placer une décoration dans votre salle d'arcade",
+                    "it-IT": "Posiziona una pezzo di arredamento nella tua sala giochi",
+                    "ja-JP": "アーケードにデコレーションを 1 個配置する",
+                    "ko-KR": "오락실에 장식을 1개 배치하십시오.",
+                    "zh-CHT": "在遊樂場佈置 1 個裝飾"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "05.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Dekowahnsinn",
+                    "en-US": "Proptastic",
+                    "es-ES": "Respetable",
+                    "fr-FR": "Fou des accessoires",
+                    "it-IT": "Mobilastico",
+                    "ja-JP": "デコレーション入門",
+                    "ko-KR": "멋진 장식",
+                    "zh-CHT": "裝飾狂熱"
+                },
+                "description": {
+                    "de-DE": "5 Spielhallen-Dekos in deiner Spielhalle platziert",
+                    "en-US": "Placed 5 arcade Decorations in your arcade",
+                    "es-ES": "Colocaste 5 objetos decorativos en tu salón recreativo.",
+                    "fr-FR": "5 décorations placées dans votre salle d'arcade",
+                    "it-IT": "Hai posizionato 5 mobili arcade nella tua sala giochi",
+                    "ja-JP": "アーケードにデコレーションを 5 個配置",
+                    "ko-KR": "오락실에 장식을 5개 배치했습니다.",
+                    "zh-CHT": "已在遊樂場佈置 5 個遊樂場裝飾"
+                },
+                "howto": {
+                    "de-DE": "Platziere 5 Spielhallen-Dekos in deiner Spielhalle",
+                    "en-US": "Place 5 arcade Decorations in your arcade",
+                    "es-ES": "Coloca 5 objetos decorativos en tu salón recreativo.",
+                    "fr-FR": "Placer 5 décorations dans votre salle d'arcade",
+                    "it-IT": "Posiziona 5 pezzi di arredamento nella tua sala giochi",
+                    "ja-JP": "アーケードにデコレーションを 5 個配置する",
+                    "ko-KR": "오락실에 장식을 5개 배치하십시오.",
+                    "zh-CHT": "在遊樂場佈置 5 個遊樂場裝飾"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "06.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Mein erstes Spiel\n\n",
+                    "en-US": "My First Game\n\n",
+                    "es-ES": "Mi primer juego\n\n",
+                    "fr-FR": "Mon premier jeu\n\n",
+                    "it-IT": "Il mio primo gioco\n\n",
+                    "ja-JP": "ファースト ゲーム\n\n",
+                    "ko-KR": "내 첫 번째 게임",
+                    "zh-CHT": "我的第一個遊戲\n\n"
+                },
+                "description": {
+                    "de-DE": "1 Spielautomaten in deiner Spielhalle aufgestellt",
+                    "en-US": "Placed a Game Cabinet in your arcade",
+                    "es-ES": "Colocaste una máquina recreativa en tu salón recreativo.",
+                    "fr-FR": "Une borne d'arcade placée dans votre salle",
+                    "it-IT": "Hai posizionato un mobile per videogiochi nella tua sala giochi",
+                    "ja-JP": "アーケードにゲーム機を 1 台配置",
+                    "ko-KR": "오락실에 게임 캐비닛을 1개 배치했습니다.",
+                    "zh-CHT": "已在遊樂場放置 1 個遊戲機台"
+                },
+                "howto": {
+                    "de-DE": "Platziere einen Spielautomaten in deiner Spielhalle",
+                    "en-US": "Place a Game Cabinet in your arcade",
+                    "es-ES": "Coloca una máquina recreativa en tu salón recreativo.",
+                    "fr-FR": "Placer une borne de jeu dans votre salle d'arcade",
+                    "it-IT": "Posiziona un mobile per videogiochi nella tua sala giochi",
+                    "ja-JP": "アーケードにゲーム機を 1 台配置する",
+                    "ko-KR": "오락실에 게임 캐비닛을 1개 배치하십시오.",
+                    "zh-CHT": "在遊樂場放置 1 個遊戲機台"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "07.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Besucher",
+                    "en-US": "The Visitor",
+                    "es-ES": "El visitante",
+                    "fr-FR": "Le visiteur",
+                    "it-IT": "Il visitatore",
+                    "ja-JP": "ビジター",
+                    "ko-KR": "방문자",
+                    "zh-CHT": "觀光客"
+                },
+                "description": {
+                    "de-DE": "Spielhalle eines Freundes besucht",
+                    "en-US": "Visited a Friend's arcade",
+                    "es-ES": "Visitaste el salón recreativo de un amigo.",
+                    "fr-FR": "Vous avez visité la salle d'arcade d'un ami",
+                    "it-IT": "Hai visitato la sala giochi di un amico",
+                    "ja-JP": "フレンドのアーケードを訪問",
+                    "ko-KR": "친구의 오락실을 방문했습니다.",
+                    "zh-CHT": "已拜訪好友的遊樂場"
+                },
+                "howto": {
+                    "de-DE": "Besuche die Spielhalle eines Freundes",
+                    "en-US": "Visit a Friend's arcade",
+                    "es-ES": "Visita el salón recreativo de un amigo.",
+                    "fr-FR": "Se rendre dans la salle d'arcade d'un ami",
+                    "it-IT": "Visita la sala giochi di un amico",
+                    "ja-JP": "フレンドのアーケードを訪問する",
+                    "ko-KR": "친구의 오락실을 방문하십시오.",
+                    "zh-CHT": "拜訪好友的遊樂場"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "08.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "de-DE": "Ich will es sehen",
+                    "en-US": "Show Me!",
+                    "es-ES": "¡Enséñame!",
+                    "fr-FR": "Montre-moi !",
+                    "it-IT": "Fammi vedere!",
+                    "ja-JP": "LIVE アーケード訪問",
+                    "ko-KR": "구경꾼",
+                    "zh-CHT": "觀看遊戲展示"
+                },
+                "description": {
+                    "de-DE": "Präs.-Spielhalle besucht",
+                    "en-US": "Visited the Showcase Arcade",
+                    "es-ES": "Visitaste la vitrina del salón recreativo.",
+                    "fr-FR": "Salle d'expo visitée",
+                    "it-IT": "Hai visitato la sala giochi dimostrativa",
+                    "ja-JP": "ショーケース アーケードを訪問",
+                    "ko-KR": "전시장을 방문했습니다.",
+                    "zh-CHT": "已拜訪電玩展示中心"
+                },
+                "howto": {
+                    "de-DE": "Besuche die Präs.-Spielh.",
+                    "en-US": "Visit the Showcase Arcade",
+                    "es-ES": "Visita la vitrina del salón recreativo.",
+                    "fr-FR": "Visiter la salle d'expo",
+                    "it-IT": "Visita la sala giochi dimostrativa",
+                    "ja-JP": "ショーケース アーケードを訪問する",
+                    "ko-KR": "전시장을 방문하십시오.",
+                    "zh-CHT": "拜訪電玩展示中心"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "09.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Spieler",
+                    "en-US": "The Player",
+                    "es-ES": "El jugador",
+                    "fr-FR": "Le joueur",
+                    "it-IT": "Il giocatore",
+                    "ja-JP": "プレイヤー",
+                    "ko-KR": "플레이어",
+                    "zh-CHT": "捧場玩家"
+                },
+                "description": {
+                    "de-DE": "Am Spielautomaten eines Freundes gespielt",
+                    "en-US": "Played a Friend's Game Cabinet",
+                    "es-ES": "Jugaste en la máquina recreativa de un amigo.",
+                    "fr-FR": "Vous avez joué sur une borne d'un ami",
+                    "it-IT": "Hai giocato con il videogioco di un tuo amico",
+                    "ja-JP": "フレンドのゲーム機をプレイ",
+                    "ko-KR": "친구의 게임 캐비닛을 플레이했습니다.",
+                    "zh-CHT": "已玩過好友的遊戲機台"
+                },
+                "howto": {
+                    "de-DE": "Spiele mit dem Spielautomaten eines Freundes",
+                    "en-US": "Play a Friend's Game Cabinet",
+                    "es-ES": "Juega en la máquina recreativa de un amigo.",
+                    "fr-FR": "Jouer à l'une des bornes d'arcade d'un ami",
+                    "it-IT": "Gioca un gioco di un amico",
+                    "ja-JP": "フレンドのゲーム機をプレイする",
+                    "ko-KR": "친구의 게임 캐비닛에서 게임을 플레이하십시오.",
+                    "zh-CHT": "玩好友的遊戲機台"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "10.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "Raumfüller",
+                    "en-US": "Room Filler",
+                    "es-ES": "Llenahabitaciones",
+                    "fr-FR": "Chauffeur de salle",
+                    "it-IT": "Riempitore di stanze",
+                    "ja-JP": "1 ルーム完成",
+                    "ko-KR": "오락실",
+                    "zh-CHT": "房間佈置高手"
+                },
+                "description": {
+                    "de-DE": "Einen Raum in deiner Spielhalle gefüllt",
+                    "en-US": "Filled a Room in your arcade",
+                    "es-ES": "Llenaste una habitación en tu salón recreativo.",
+                    "fr-FR": "Une salle remplie dans votre salle d'arcade",
+                    "it-IT": "Hai riempito una stanza della tua sala giochi",
+                    "ja-JP": "アーケードで 1 つのルームのスロットをすべて埋める",
+                    "ko-KR": "오락실에서 방 하나를 전부 채웠습니다.",
+                    "zh-CHT": "已在遊樂場裡佈置 1 個房間"
+                },
+                "howto": {
+                    "de-DE": "Fülle einen gesamten Raum",
+                    "en-US": "Fill an entire room",
+                    "es-ES": "Llena una habitación entera.",
+                    "fr-FR": "Remplir toute une salle",
+                    "it-IT": "Riempi una stanza",
+                    "ja-JP": "1 ルームのすべてのスロットを埋める",
+                    "ko-KR": "오락실에서 방 하나를 전부 채우십시오.",
+                    "zh-CHT": "佈置一整個房間"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "11.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "de-DE": "Mein erster Sieg",
+                    "en-US": "My First Win",
+                    "es-ES": "Mi primera victoria",
+                    "fr-FR": "Ma première victoire",
+                    "it-IT": "La mia prima vittoria",
+                    "ja-JP": "ファースト ウィン",
+                    "ko-KR": "내 첫 번째 승리",
+                    "zh-CHT": "我的第一場勝利"
+                },
+                "description": {
+                    "de-DE": "Herausforderung gewonnen!",
+                    "en-US": "Won a Challenge!",
+                    "es-ES": "¡Ganaste un desafío!",
+                    "fr-FR": "Vous avez remporté un défi !",
+                    "it-IT": "Hai vinto una sfida!",
+                    "ja-JP": "チャレンジに勝利!",
+                    "ko-KR": "챌린지에서 승리했습니다!",
+                    "zh-CHT": "已贏得 1 次挑戰！"
+                },
+                "howto": {
+                    "de-DE": "Gewinne eine Herausforderung",
+                    "en-US": "Win a Challenge",
+                    "es-ES": "Gana un desafío.",
+                    "fr-FR": "Gagner un défi",
+                    "it-IT": "Vinci una sfida",
+                    "ja-JP": "チャレンジに勝利する",
+                    "ko-KR": "챌린지에서 승리하십시오.",
+                    "zh-CHT": "贏得 1 次挑戰"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "12.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "Meine erste Herausforderung",
+                    "en-US": "My First Challenge",
+                    "es-ES": "Mi primer desafío",
+                    "fr-FR": "Mon premier défi",
+                    "it-IT": "La mia prima sfida",
+                    "ja-JP": "ファースト チャレンジ",
+                    "ko-KR": "내 첫 번째 챌린지",
+                    "zh-CHT": "我的第一個挑戰"
+                },
+                "description": {
+                    "de-DE": "Herausforderung verschickt!",
+                    "en-US": "Sent a Challenge!",
+                    "es-ES": "¡Enviaste un desafío!",
+                    "fr-FR": "Vous avez envoyé un défi !",
+                    "it-IT": "Hai inviato una sfida!",
+                    "ja-JP": "チャレンジを送信!",
+                    "ko-KR": "챌린지를 보냈습니다!",
+                    "zh-CHT": "已送出 1 個挑戰邀請！"
+                },
+                "howto": {
+                    "de-DE": "Verschicke eine Herausforderung",
+                    "en-US": "Send a Challenge",
+                    "es-ES": "Envía un desafío.",
+                    "fr-FR": "Envoyer un défi",
+                    "it-IT": "Invia una sfida",
+                    "ja-JP": "チャレンジを送信する",
+                    "ko-KR": "챌린지를 보내십시오.",
+                    "zh-CHT": "送出 1 個挑戰邀請"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "13.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "Spieler der Herausforderungen",
+                    "en-US": "Challenge Chief",
+                    "es-ES": "Jefe de los desafíos",
+                    "fr-FR": "Spécialiste du défi",
+                    "it-IT": "Capo sfida",
+                    "ja-JP": "チャレンジ チーフ",
+                    "ko-KR": "챌린지의 지배자",
+                    "zh-CHT": "挑戰高手"
+                },
+                "description": {
+                    "de-DE": "10 Herausforderungen gewonnen!",
+                    "en-US": "Won 10 Challenges!",
+                    "es-ES": "¡Ganaste 10 desafíos!",
+                    "fr-FR": "10 défis remportés !",
+                    "it-IT": "Hai vinto 10 sfide!",
+                    "ja-JP": "10 個のチャレンジに勝利!",
+                    "ko-KR": "10번의 챌린지에서 승리했습니다!",
+                    "zh-CHT": "已贏得 10 次挑戰！"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 10 Herausforderungen",
+                    "en-US": "Win 10 Challenges",
+                    "es-ES": "Gana 10 desafíos.",
+                    "fr-FR": "Gagner 10 défis",
+                    "it-IT": "Vinci 10 sfide",
+                    "ja-JP": "10 個のチャレンジに勝利する",
+                    "ko-KR": "10번의 챌린지에서 승리하십시오.",
+                    "zh-CHT": "贏得 10 次挑戰"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "14.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "Meister der Herausforderungen",
+                    "en-US": "Challenge Master",
+                    "es-ES": "Maestro de los desafíos",
+                    "fr-FR": "Maître du défi",
+                    "it-IT": "Maestro delle sfide",
+                    "ja-JP": "チャレンジ マスター",
+                    "ko-KR": "챌린지의 대가",
+                    "zh-CHT": "挑戰大師"
+                },
+                "description": {
+                    "de-DE": "20 Herausforderungen gewonnen!",
+                    "en-US": "Won 20 Challenges!",
+                    "es-ES": "¡Ganaste 20 desafíos!",
+                    "fr-FR": "20 défis remportés !",
+                    "it-IT": "Hai vinto 20 sfide!",
+                    "ja-JP": "20 個のチャレンジに勝利!",
+                    "ko-KR": "20번의 챌린지에서 승리했습니다!",
+                    "zh-CHT": "已贏得 20 次挑戰！"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 20 Herausforderungen",
+                    "en-US": "Win 20 Challenges",
+                    "es-ES": "Gana 20 desafíos.",
+                    "fr-FR": "Gagner 20 défis",
+                    "it-IT": "Vinci 20 sfide",
+                    "ja-JP": "20 個のチャレンジに勝利する",
+                    "ko-KR": "20번의 챌린지에서 승리하십시오.",
+                    "zh-CHT": "贏得 20 次挑戰"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "15.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "de-DE": "Zu cool für den eigenen Score",
+                    "en-US": "Too Cool for my Score",
+                    "es-ES": "Muy molón para mi puntuación",
+                    "fr-FR": "Trop cool pour mon score",
+                    "it-IT": "Troppo cool per il mio punteggio",
+                    "ja-JP": "ニュー スコア",
+                    "ko-KR": "기록 경신 멋쟁이",
+                    "zh-CHT": "自我超越"
+                },
+                "description": {
+                    "de-DE": "Deinen eigenen Highscore in einem Spiel geschlagen und dabei cool ausgesehen!",
+                    "en-US": "Beaten your own High Score in a game, while looking cool!",
+                    "es-ES": "¡Superaste tu propia puntuación alta en un juego sin perder el buen aspecto!",
+                    "fr-FR": "Vous avez battu votre propre High Score avec la classe atomique !",
+                    "it-IT": "Hai battuto il tuo record in un gioco, e sei cool!",
+                    "ja-JP": "ゲームで自分のハイ スコア記録を更新!",
+                    "ko-KR": "자신의 최고 점수를 멋지게 넘어섰습니다!",
+                    "zh-CHT": "已瀟灑地擊敗自己在某個遊戲中的最高分！"
+                },
+                "howto": {
+                    "de-DE": "Überbiete deinen eigenen Highscore in einem Spiel",
+                    "en-US": "Beat your own High Score in a game",
+                    "es-ES": "Supera tu propia puntuación alta en un juego.",
+                    "fr-FR": "Battre votre propre High Score à un jeu",
+                    "it-IT": "Batti il tuo record in un gioco",
+                    "ja-JP": "いずれかのゲームで自分のハイ スコア記録を更新する",
+                    "ko-KR": "한 게임에서 자신이 세운 최고 기록을 경신하십시오.",
+                    "zh-CHT": "擊敗自己在某個遊戲中的最高分"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "16.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "Blasen auf den Blasen",
+                    "en-US": "My Blisters have Blisters!",
+                    "es-ES": "¡Tengo ampollas en las ampollas!",
+                    "fr-FR": "Mes ampoules ont des ampoules !",
+                    "it-IT": "Ho le vesciche alle vesciche!",
+                    "ja-JP": "ファースト アワー",
+                    "ko-KR": "물집 터진 손발",
+                    "zh-CHT": "欲罷不能！"
+                },
+                "description": {
+                    "de-DE": "1 Stunde lang am Stück in ein einziges Spiel vertieft",
+                    "en-US": "Played a single game for 1 hour continuously",
+                    "es-ES": "Jugaste a un solo juego durante una hora seguida.",
+                    "fr-FR": "Vous avez joué à un même jeu pendant 1 heure d'affilée",
+                    "it-IT": "Hai giocato a un gioco per 1 ora consecutiva",
+                    "ja-JP": "同じゲームを 1 時間連続でプレイ",
+                    "ko-KR": "싱글 게임을 연속으로 1시간 플레이했습니다.",
+                    "zh-CHT": "已連續玩 1 個遊戲 1 小時"
+                },
+                "howto": {
+                    "de-DE": "Spiele ein Spiel für mindestens 1 Stunde ohne Pause",
+                    "en-US": "Play a game for 1 hour continuously",
+                    "es-ES": "Juega a un solo juego durante una hora seguida.",
+                    "fr-FR": "Jouer à un jeu pendant 1 heure sans s'arrêter",
+                    "it-IT": "Gioca a un gioco per 1 ora consecutiva",
+                    "ja-JP": "同じゲームを 1 時間連続でプレイする",
+                    "ko-KR": "1시간 동안 계속 게임을 플레이하십시오.",
+                    "zh-CHT": "連續玩 1 個遊戲 1 小時"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "17.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "Arcadejunkie",
+                    "en-US": "Arcade Junkie",
+                    "es-ES": "Yonqui de salones recreativos",
+                    "fr-FR": "Drogué de l'arcade",
+                    "it-IT": "Giocatore incallito",
+                    "ja-JP": "アーケード ジャンキー",
+                    "ko-KR": "오락실 팬",
+                    "zh-CHT": "大型機台遊戲愛好狂"
+                },
+                "description": {
+                    "de-DE": "4 Stunden in der Spielhalle mit Spielen verbracht",
+                    "en-US": "Spent 4 hours in your arcade playing games",
+                    "es-ES": "Pasaste 4 horas jugando en tu salón recreativo.",
+                    "fr-FR": "4 heures passées à jouer dans votre salle d'arcade",
+                    "it-IT": "Hai passato 4 ore a giocare nella tua sala giochi",
+                    "ja-JP": "アーケードでゲームをプレイして 4 時間経過",
+                    "ko-KR": "자신의 오락실에서 4시간 동안 게임을 플레이했습니다.",
+                    "zh-CHT": "已在自己的遊樂場裡，花了 4 小時玩遊戲"
+                },
+                "howto": {
+                    "de-DE": "Verbringe insgesamt 4 Stunden mit Spielen in deiner Spielhalle",
+                    "en-US": "Spend 4 hours total playing games in your arcade",
+                    "es-ES": "Pasa 4 horas en total jugando en tu salón recreativo.",
+                    "fr-FR": "Passer 4 heures au total à jouer dans votre salle d'arcade",
+                    "it-IT": "Passa 4 ore a giocare nella tua sala giochi",
+                    "ja-JP": "アーケードでゲームを合計 4 時間プレイする",
+                    "ko-KR": "자신의 오락실에서 4시간 동안 게임을 플레이하십시오.",
+                    "zh-CHT": "在自己的遊樂場中，總共花 4 小時玩遊戲"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "18.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Retro-Freak",
+                    "en-US": "Retro Addict",
+                    "es-ES": "Adicto al retro",
+                    "fr-FR": "Accro au rétro",
+                    "it-IT": "Vittima del retrò",
+                    "ja-JP": "レトロ中毒",
+                    "ko-KR": "고전 게임 마니아",
+                    "zh-CHT": "復刻版遊戲愛好狂"
+                },
+                "description": {
+                    "de-DE": "8 Stunden in der Spielhalle mit Spielen verbracht",
+                    "en-US": "Spent 8 hours in your arcade playing games",
+                    "es-ES": "Pasaste 8 horas jugando en tu salón recreativo.",
+                    "fr-FR": "8 heures passées à jouer dans votre salle d'arcade",
+                    "it-IT": "Hai passato 8 ore a giocare nella tua sala giochi",
+                    "ja-JP": "アーケードでゲームをプレイして 8 時間経過",
+                    "ko-KR": "자신의 오락실에서 8시간 동안 게임을 플레이했습니다.",
+                    "zh-CHT": "已在自己的遊樂場裡，花了 8 小時玩遊戲"
+                },
+                "howto": {
+                    "de-DE": "Verbringe insgesamt 8 Stunden mit Spielen in deiner Spielhalle",
+                    "en-US": "Spend 8 hours total playing games in your arcade",
+                    "es-ES": "Pasa 8 horas en total jugando en tu salón recreativo.",
+                    "fr-FR": "Passer 8 heures au total à jouer dans votre salle d'arcade",
+                    "it-IT": "Passa 8 ore a giocare nella tua sala giochi",
+                    "ja-JP": "アーケードでゲームを合計 8 時間プレイする",
+                    "ko-KR": "자신의 오락실에서 8시간 동안 게임을 플레이하십시오.",
+                    "zh-CHT": "在自己的遊樂場中，總共花 8 小時玩遊戲"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "19.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "Zeit für ein Nickerchen",
+                    "en-US": "Go to Sleep",
+                    "es-ES": "A dormir",
+                    "fr-FR": "Au dodo",
+                    "it-IT": "Vai a dormire",
+                    "ja-JP": "グッド ナイト",
+                    "ko-KR": "고만 좀 자라",
+                    "zh-CHT": "不眠不休"
+                },
+                "description": {
+                    "de-DE": "16 Stunden in der Spielhalle mit Spielen verbracht",
+                    "en-US": "Spent 16 hours in your arcade playing games",
+                    "es-ES": "Pasaste 16 horas jugando en tu salón recreativo.",
+                    "fr-FR": "16 heures passées à jouer dans votre salle d'arcade",
+                    "it-IT": "Hai passato 16 ore a giocare nella tua sala giochi",
+                    "ja-JP": "アーケードでゲームをプレイして 16 時間経過",
+                    "ko-KR": "자신의 오락실에서 16시간 동안 게임을 플레이했습니다.",
+                    "zh-CHT": "已在自己的遊樂場裡，花了 16 小時玩遊戲"
+                },
+                "howto": {
+                    "de-DE": "Verbringe insgesamt 16 Stunden mit Spielen in deiner Spielhalle",
+                    "en-US": "Spend 16 hours total playing games in your arcade",
+                    "es-ES": "Pasa 16 horas en total jugando en tu salón recreativo.",
+                    "fr-FR": "Passer 16 heures au total à jouer dans votre salle d'arcade",
+                    "it-IT": "Passa 16 ore a giocare nella tua sala giochi",
+                    "ja-JP": "アーケードでゲームを合計 16 時間プレイする",
+                    "ko-KR": "자신의 오락실에서 16시간 동안 게임을 플레이하십시오.",
+                    "zh-CHT": "在自己的遊樂場中，總共花 16 小時玩遊戲"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "20.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "Maschine, nicht Mensch",
+                    "en-US": "Machine not Man",
+                    "es-ES": "Máquina, no humano",
+                    "fr-FR": "Plus rien d'humain",
+                    "it-IT": "Disumano",
+                    "ja-JP": "メカ人間",
+                    "ko-KR": "인간인가, 기계인가",
+                    "zh-CHT": "機器般的行為"
+                },
+                "description": {
+                    "de-DE": "24 Stunden in der Spielhalle mit Spielen verbracht",
+                    "en-US": "Spent 24 Hours in your arcade playing games",
+                    "es-ES": "Pasaste 24 horas jugando en tu salón recreativo.",
+                    "fr-FR": "24 heures passées à jouer dans votre salle d'arcade",
+                    "it-IT": "Hai passato 24 ore a giocare nella tua sala giochi",
+                    "ja-JP": "アーケードでゲームをプレイして 24 時間経過",
+                    "ko-KR": "자신의 오락실에서 24시간 동안 게임을 플레이했습니다.",
+                    "zh-CHT": "已在自己的遊樂場裡，花了 24 小時玩遊戲"
+                },
+                "howto": {
+                    "de-DE": "Verbringe insgesamt 24 Stunden mit Spielen in deiner Spielhalle",
+                    "en-US": "Spend 24 hours total playing games in your arcade",
+                    "es-ES": "Pasa 24 horas en total jugando en tu salón recreativo.",
+                    "fr-FR": "Passer 24 heures au total à jouer dans votre salle d'arcade",
+                    "it-IT": "Passa 24 ore a giocare nella tua sala giochi",
+                    "ja-JP": "アーケードでゲームを合計 24 時間プレイする",
+                    "ko-KR": "자신의 오락실에서 24시간 동안 게임을 플레이하십시오.",
+                    "zh-CHT": "在自己的遊樂場中，總共花 24 小時玩遊戲"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "21.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "Streichhölzer in den Augen",
+                    "en-US": "Matchstick Eyes",
+                    "es-ES": "Ojos ardientes",
+                    "fr-FR": "Les yeux qui papillonnent",
+                    "it-IT": "Occhi a fiammifero",
+                    "ja-JP": "やりこみプレイヤー",
+                    "ko-KR": "눈 아파 죽겠네",
+                    "zh-CHT": "用火柴棒撐開雙眼"
+                },
+                "description": {
+                    "de-DE": "Insgesamt 36 Stunden mit Spielen in deiner Spielhalle verbracht",
+                    "en-US": "Spent 36 hours total playing games in your arcade",
+                    "es-ES": "Pasaste 36 horas en total jugando a juegos en tu salón recreativo.",
+                    "fr-FR": "36 heures passées à jouer dans votre salle d'arcade",
+                    "it-IT": "Hai passato 36 ore in totale a giocare nella tua sala giochi",
+                    "ja-JP": "アーケードでゲームを合計 36 時間プレイする",
+                    "ko-KR": "자신의 오락실에서 36시간 동안 게임을 플레이했습니다.",
+                    "zh-CHT": "已在自己的遊樂場中，總共花 36 小時玩遊戲"
+                },
+                "howto": {
+                    "de-DE": "Verbringe insgesamt 36 Stunden mit Spielen in deiner Spielhalle",
+                    "en-US": "Spend 36 hours total playing games in your arcade",
+                    "es-ES": "Pasa 36 horas en total jugando a juegos en tu salón recreativo.",
+                    "fr-FR": "Passer 36 heures au total à jouer dans votre salle d'arcade",
+                    "it-IT": "Trascorri 36 ore in totale a giocare nella tua sala giochi",
+                    "ja-JP": "アーケードでゲームを合計 36 時間プレイする",
+                    "ko-KR": "자신의 오락실에서 36시간 동안 게임을 플레이하십시오.",
+                    "zh-CHT": "在自己的遊樂場中，總共花 36 小時玩遊戲"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "22.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "Meine erste Medaille",
+                    "en-US": "My First Medal",
+                    "es-ES": "Mi primera medalla",
+                    "fr-FR": "Ma première médaille",
+                    "it-IT": "La mia prima medaglia",
+                    "ja-JP": "ファースト メダル",
+                    "ko-KR": "내 첫 번째 메달",
+                    "zh-CHT": "我的第一面獎牌"
+                },
+                "description": {
+                    "de-DE": "Deine erste Medaille gewonnen!",
+                    "en-US": "Won your first Medal!",
+                    "es-ES": "¡Ganaste tu primera medalla!",
+                    "fr-FR": "Vous avez gagné votre première médaille !",
+                    "it-IT": "Hai vinto la tua prima medaglia!",
+                    "ja-JP": "初めてのメダルを獲得!",
+                    "ko-KR": "첫 번째 메달을 획득했습니다!",
+                    "zh-CHT": "已獲得第一面獎牌！"
+                },
+                "howto": {
+                    "de-DE": "Gewinne deine erste Medaille",
+                    "en-US": "Win your first Medal",
+                    "es-ES": "Gana tu primera medalla.",
+                    "fr-FR": "Obtenir votre première médaille",
+                    "it-IT": "Vinci la tua prima medaglia",
+                    "ja-JP": "初めてのメダルを獲得する",
+                    "ko-KR": "첫 번째 메달을 획득하십시오.",
+                    "zh-CHT": "獲得第一面獎牌！"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "23.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Medaillensortiment",
+                    "en-US": "Medal Variety",
+                    "es-ES": "Variedad de medallas",
+                    "fr-FR": "Variété de médailles",
+                    "it-IT": "Varietà di medaglie",
+                    "ja-JP": "バラエティ メダル",
+                    "ko-KR": "다양한 메달",
+                    "zh-CHT": "多樣獎牌"
+                },
+                "description": {
+                    "de-DE": "Eine Medaille von jedem Typ gewonnen (Punkteknacker, Überlebenskämpfer, Zeitverschwender)",
+                    "en-US": "Won a Medal of each type (Point Buster, Survivalist, Time Spender)",
+                    "es-ES": "Ganaste una medalla de cada tipo (Acaparador de puntos, Superviviente y Duromuchotiempo).",
+                    "fr-FR": "1 médaille de chaque type gagnée (Chasseur de points, Survivant, Maître du temps libre)",
+                    "it-IT": "Hai vinto una medaglia di ogni tipo (Performance, Perseveranza, Costanza)",
+                    "ja-JP": "各カテゴリーにつき 1 個ずつメダルを獲得 (ポイント バスター、サバイバー、タイム スペンダー)",
+                    "ko-KR": "각 종류의 메달을 하나씩 획득했습니다(점수 경신 메달, 생존자 메달, 최장 시간 메달).",
+                    "zh-CHT": "每種獎牌已各獲得 1 面 (也就是 1 面得分高手、1 面生存專家以及 1 面時光揮霍家)。"
+                },
+                "howto": {
+                    "de-DE": "Gewinne eine Medaille von jedem Typ (Punkteknacker, Überlebenskämpfer, Zeitverschwender)",
+                    "en-US": "Win a Medal of each Type (Point Buster, Survivalist, Time Spender)",
+                    "es-ES": "Gana una medalla de cada tipo (Acaparador de puntos, Superviviente, Duromuchotiempo).",
+                    "fr-FR": "Gagner 1 médaille de chaque type (Chasseur de points, Survivant, Maître du temps libre)",
+                    "it-IT": "Vinci una medaglia di ogni tipo (Performance, Perseveranza, Costanza)",
+                    "ja-JP": "各カテゴリーにつき 1 個ずつメダルを獲得する (ポイント バスター、サバイバー、タイム スペンダー)",
+                    "ko-KR": "각 종류의 메달을 하나씩 획득하십시오(점수 경신 메달, 생존자 메달, 최장 시간 메달).",
+                    "zh-CHT": "每種獎牌各獲得 1 面 (也就是 1 面得分高手、1 面生存專家以及 1 面時光揮霍家)。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "24.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Doppelter Ärger",
+                    "en-US": "Double Trouble",
+                    "es-ES": "El doble de difícil",
+                    "fr-FR": "Double victoire",
+                    "it-IT": "Doppi guai",
+                    "ja-JP": "ダブル トラブル",
+                    "ko-KR": "행복 두 배",
+                    "zh-CHT": "兩兩成雙"
+                },
+                "description": {
+                    "de-DE": "2 Medaillen von jedem Typ gewonnen (2x Punkteknacker, 2x Überlebenskämpfer, 2x Zeitverschwender)",
+                    "en-US": "Won 2 Medals of each type (2x Point Buster, 2x Survivalist, 2x Time Spender)",
+                    "es-ES": "Ganaste dos medallas de cada (2 de Acaparador de puntos, 2 de Superviviente y 2 de Duromuchotiempo).",
+                    "fr-FR": "2 médailles de chaque type gagnées (2x Chasseur de points, 2x Survivant, 2x Maître du temps libre)",
+                    "it-IT": "Hai vinto 2 medaglie di ogni tipo (2x  Performance, 2x Perseveranza, 2x Costanza)",
+                    "ja-JP": "各カテゴリーにつき 2 個ずつメダルを獲得 (2x ポイント バスター、2x サバイバー、2x タイム スペンダー)",
+                    "ko-KR": "메달을 종류별로 2개씩 획득했습니다(점수 경신 메달 2개, 생존자 메달 2개, 최장 시간 메달 2개).",
+                    "zh-CHT": "每種獎牌已各獲得 2 面 (也就是 2 面得分高手、2 面生存專家以及 2 面時光揮霍家)。"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 2 Medaillen von jedem Typ (2x Punkteknacker, 2x Überlebenskämpfer, 2x Zeitverschwender)",
+                    "en-US": "Win 2 Medals of each type (2x Point Buster, 2x Survivalist, 2x Time Spender)",
+                    "es-ES": "Gana 2 medallas de cada tipo (2 de Acaparador de puntos, 2 de Superviviente, 2 de Duromuchotiempo).",
+                    "fr-FR": "Gagner 2 médailles de chaque type (2x Chasseur de points, 2x Survivant, 2x Maître du temps libre)",
+                    "it-IT": "Vinci 2 medaglie di ogni tipo (2x Performance, 2x Perseveranza, 2x Costanza)",
+                    "ja-JP": "各カテゴリーにつき 2 個ずつメダルを獲得する (2x ポイント バスター、2x サバイバー、2x タイム スペンダー)",
+                    "ko-KR": "메달을 종류별로 2개씩 획득하십시오(점수 경신 메달 2개, 생존자 메달 2개, 최장 시간 메달 2개).",
+                    "zh-CHT": "每種獎牌各獲得 2 面 (也就是 2 面得分高手、2 面生存專家以及 2 面時光揮霍家)。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "25.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Medaillensammler",
+                    "en-US": "Medal Collector",
+                    "es-ES": "Coleccionista de medallas",
+                    "fr-FR": "Collectionneur de médailles",
+                    "it-IT": "Collezionista di medaglie",
+                    "ja-JP": "メダル コレクター",
+                    "ko-KR": "메달 수집가",
+                    "zh-CHT": "獎牌收藏家"
+                },
+                "description": {
+                    "de-DE": "3 Med. gewonnen",
+                    "en-US": "Won 3 Medals",
+                    "es-ES": "Ganaste 3 medallas.",
+                    "fr-FR": "3 médailles gagnées",
+                    "it-IT": "Hai vinto 3 medaglie",
+                    "ja-JP": "メダルを 3 個獲得",
+                    "ko-KR": "메달을 3개 획득했습니다.",
+                    "zh-CHT": "已獲得 3 面獎牌"
+                },
+                "howto": {
+                    "de-DE": "Ziel: 3 Med.",
+                    "en-US": "Win 3 Medals",
+                    "es-ES": "Gana 3 medallas.",
+                    "fr-FR": "Gagner 3 médailles",
+                    "it-IT": "Vinci 3 medaglie",
+                    "ja-JP": "メダルを 3 個獲得する",
+                    "ko-KR": "메달을 3개 획득하십시오.",
+                    "zh-CHT": "獲得 3 面獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "26.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Talent für die 80er",
+                    "en-US": "80s Skilled",
+                    "es-ES": "Con talento para los 80",
+                    "fr-FR": "Maître des années 80",
+                    "it-IT": "Talento anni 80",
+                    "ja-JP": "80 年代スキル マスター",
+                    "ko-KR": "80년대 스타일",
+                    "zh-CHT": "80 年代遊戲高手"
+                },
+                "description": {
+                    "de-DE": "6 Med. gewonnen",
+                    "en-US": "Won 6 Medals",
+                    "es-ES": "Ganaste 6 medallas.",
+                    "fr-FR": "6 médailles gagnées",
+                    "it-IT": "Hai vinto 6 medaglie",
+                    "ja-JP": "メダルを 6 個獲得",
+                    "ko-KR": "메달을 6개 획득했습니다.",
+                    "zh-CHT": "已獲得 6 面獎牌"
+                },
+                "howto": {
+                    "de-DE": "Ziel: 6 Med.",
+                    "en-US": "Win 6 Medals",
+                    "es-ES": "Gana 6 medallas.",
+                    "fr-FR": "Gagner 6 médailles",
+                    "it-IT": "Vinci 6 medaglie",
+                    "ja-JP": "メダルを 6 個獲得する",
+                    "ko-KR": "메달을 6개 획득하십시오.",
+                    "zh-CHT": "獲得 6 面獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "27.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "Spielmeister",
+                    "en-US": "Game Beater",
+                    "es-ES": "Hacha en los juegos",
+                    "fr-FR": "Plus fort que le jeu",
+                    "it-IT": "Smanettone",
+                    "ja-JP": "ゲーム マスター",
+                    "ko-KR": "게임 파괴자",
+                    "zh-CHT": "遊戲達人"
+                },
+                "description": {
+                    "de-DE": "9 Med. gewonnen",
+                    "en-US": "Won 9 Medals",
+                    "es-ES": "Ganaste 9 medallas.",
+                    "fr-FR": "9 médailles gagnées",
+                    "it-IT": "Hai vinto 9 medaglie",
+                    "ja-JP": "メダルを 9 個獲得",
+                    "ko-KR": "메달을 9개 획득했습니다.",
+                    "zh-CHT": "已獲得 9 面獎牌"
+                },
+                "howto": {
+                    "de-DE": "Ziel: 9 Med.",
+                    "en-US": "Win 9 Medals",
+                    "es-ES": "Gana 9 medallas.",
+                    "fr-FR": "Gagner 9 médailles",
+                    "it-IT": "Vinci 9 medaglie",
+                    "ja-JP": "メダルを 9 個獲得する",
+                    "ko-KR": "메달을 9개 획득하십시오.",
+                    "zh-CHT": "獲得 9 面獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "28.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Arcadeprofi",
+                    "en-US": "Arcade Hustler",
+                    "es-ES": "Estafador de salón recreativo",
+                    "fr-FR": "Pro de l'arcade",
+                    "it-IT": "Professionista",
+                    "ja-JP": "アーケード ハスラー",
+                    "ko-KR": "오락실의 무법자",
+                    "zh-CHT": "電玩高手"
+                },
+                "description": {
+                    "de-DE": "12 Med. gewonnen",
+                    "en-US": "Won 12 Medals",
+                    "es-ES": "Ganaste 12 medallas.",
+                    "fr-FR": "12 médailles gagnées",
+                    "it-IT": "Hai vinto 12 medaglie",
+                    "ja-JP": "メダルを 12 個獲得",
+                    "ko-KR": "메달을 12개 획득했습니다.",
+                    "zh-CHT": "已獲得 12 面獎牌"
+                },
+                "howto": {
+                    "de-DE": "Ziel: 12 Med.",
+                    "en-US": "Win 12 Medals",
+                    "es-ES": "Gana 12 medallas.",
+                    "fr-FR": "Gagner 12 médailles",
+                    "it-IT": "Vinci 12 medaglie",
+                    "ja-JP": "メダルを 12 個獲得する",
+                    "ko-KR": "메달을 12개 획득하십시오.",
+                    "zh-CHT": "獲得 12 面獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "29.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Retroexperte",
+                    "en-US": "Retro Expert",
+                    "es-ES": "Experto retro",
+                    "fr-FR": "Expert en jeux rétro",
+                    "it-IT": "Esperto di retrò",
+                    "ja-JP": "レトロ エキスパート",
+                    "ko-KR": "고전 게임의 고수",
+                    "zh-CHT": "復刻版遊戲專家"
+                },
+                "description": {
+                    "de-DE": "15 Med. gewonnen",
+                    "en-US": "Won 15 Medals",
+                    "es-ES": "Ganaste 15 medallas.",
+                    "fr-FR": "15 médailles gagnées",
+                    "it-IT": "Hai vinto 15 medaglie",
+                    "ja-JP": "メダルを 15 個獲得",
+                    "ko-KR": "메달을 15개 획득했습니다.",
+                    "zh-CHT": "已獲得 15 面獎牌"
+                },
+                "howto": {
+                    "de-DE": "Ziel: 15 Med.",
+                    "en-US": "Win 15 Medals",
+                    "es-ES": "Gana 15 medallas.",
+                    "fr-FR": "Gagner 15 médailles",
+                    "it-IT": "Vinci 15 medaglie",
+                    "ja-JP": "メダルを 15 個獲得する",
+                    "ko-KR": "메달을 15개 획득하십시오.",
+                    "zh-CHT": "獲得 15 面獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "30.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "Old School-Meister",
+                    "en-US": "The New Old Schooler",
+                    "es-ES": "El nuevo de la vieja escuela",
+                    "fr-FR": "Le nouveau classique",
+                    "it-IT": "Il nuovo eroe vecchia scuola",
+                    "ja-JP": "ニュー トラディショナル",
+                    "ko-KR": "새로운 멋쟁이",
+                    "zh-CHT": "新世代復刻版遊戲玩家"
+                },
+                "description": {
+                    "de-DE": "18 Med. gewonnen",
+                    "en-US": "Won 18 Medals",
+                    "es-ES": "Ganaste 18 medallas.",
+                    "fr-FR": "19 médailles gagnées",
+                    "it-IT": "Hai vinto 18 medaglie",
+                    "ja-JP": "メダルを 18 個獲得",
+                    "ko-KR": "메달을 18개 획득했습니다.",
+                    "zh-CHT": "已獲得 18 面獎牌"
+                },
+                "howto": {
+                    "de-DE": "Ziel: 18 Med.",
+                    "en-US": "Win 18 Medals",
+                    "es-ES": "Gana 18 medallas.",
+                    "fr-FR": "Gagner 18 médailles",
+                    "it-IT": "Vinci 18 medaglie",
+                    "ja-JP": "メダルを 18 個獲得する",
+                    "ko-KR": "메달을 18개 획득하십시오.",
+                    "zh-CHT": "獲得 18 面獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "31.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "de-DE": "Medaillenfreak",
+                    "en-US": "Medal Enthusiast",
+                    "es-ES": "Entusiasta de las medallas",
+                    "fr-FR": "Fan de médailles",
+                    "it-IT": "Assetato di medaglie",
+                    "ja-JP": "メダル マニア",
+                    "ko-KR": "메달광",
+                    "zh-CHT": "獎牌收集狂"
+                },
+                "description": {
+                    "de-DE": "21 Med. gewonnen",
+                    "en-US": "Won 21 Medals",
+                    "es-ES": "Ganaste 21 medallas.",
+                    "fr-FR": "21 médailles gagnées",
+                    "it-IT": "Hai vinto 21 medaglie",
+                    "ja-JP": "メダルを 21 個獲得",
+                    "ko-KR": "메달을 21개 획득했습니다.",
+                    "zh-CHT": "已獲得 21 面獎牌"
+                },
+                "howto": {
+                    "de-DE": "Ziel: 21 Med.",
+                    "en-US": "Win 21 Medals",
+                    "es-ES": "Gana 21 medallas.",
+                    "fr-FR": "Gagner 21 médailles",
+                    "it-IT": "Vinci 21 medaglie",
+                    "ja-JP": "メダルを 21 個獲得する",
+                    "ko-KR": "메달을 21개 획득하십시오.",
+                    "zh-CHT": "獲得 21 面獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "32.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "de-DE": "Arcadewolf",
+                    "en-US": "Arcade Shark",
+                    "es-ES": "Tiburón de salones recreativos",
+                    "fr-FR": "Requin de l'arcade",
+                    "it-IT": "Lo squalo",
+                    "ja-JP": "アーケード荒らし",
+                    "ko-KR": "오락실의 욕심쟁이",
+                    "zh-CHT": "大型機台遊戲高手"
+                },
+                "description": {
+                    "de-DE": "24 Med. gewonnen",
+                    "en-US": "Won 24 Medals",
+                    "es-ES": "Ganaste 24 medallas.",
+                    "fr-FR": "24 médailles gagnées",
+                    "it-IT": "Hai vinto 24 medaglie",
+                    "ja-JP": "メダルを 24 個獲得",
+                    "ko-KR": "메달을 24개 획득했습니다.",
+                    "zh-CHT": "已獲得 24 面獎牌"
+                },
+                "howto": {
+                    "de-DE": "Ziel: 24 Med.",
+                    "en-US": "Win 24 Medals",
+                    "es-ES": "Gana 24 medallas.",
+                    "fr-FR": "Gagner 24 médailles",
+                    "it-IT": "Vinci 24 medaglie",
+                    "ja-JP": "メダルを 24 個獲得する",
+                    "ko-KR": "메달을 24개 획득하십시오.",
+                    "zh-CHT": "獲得 24 面獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "33.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "Ohnegleichen",
+                    "en-US": "Can't Touch This!",
+                    "es-ES": "¡No estás a mi nivel!",
+                    "fr-FR": "Personne ne peut me battre !",
+                    "it-IT": "Non toccare!",
+                    "ja-JP": "スペシャル メダリスト",
+                    "ko-KR": "괴물급 플레이어",
+                    "zh-CHT": "無與倫比"
+                },
+                "description": {
+                    "de-DE": "27 Med. gewonnen",
+                    "en-US": "Won 27 Medals",
+                    "es-ES": "Ganaste 27 medallas.",
+                    "fr-FR": "27 médailles gagnées",
+                    "it-IT": "Hai vinto 27 medaglie",
+                    "ja-JP": "メダルを 27 個獲得",
+                    "ko-KR": "메달을 27개 획득했습니다.",
+                    "zh-CHT": "已獲得 27 面獎牌"
+                },
+                "howto": {
+                    "de-DE": "Ziel: 27 Med.",
+                    "en-US": "Win 27 Medals",
+                    "es-ES": "Gana 27 medallas.",
+                    "fr-FR": "Gagner 27 médailles",
+                    "it-IT": "Vinci 27 medaglie",
+                    "ja-JP": "メダルを 27 個獲得する",
+                    "ko-KR": "메달을 27개 획득하십시오.",
+                    "zh-CHT": "獲得 27 面獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "34.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "de-DE": "Retromeister",
+                    "en-US": "Retro Master",
+                    "es-ES": "Maestro retro",
+                    "fr-FR": "Maître des jeux rétro",
+                    "it-IT": "Maestro retrò",
+                    "ja-JP": "レトロ マスター",
+                    "ko-KR": "고전 게임의 달인",
+                    "zh-CHT": "復刻版遊戲大師"
+                },
+                "description": {
+                    "de-DE": "30 Med. gewonnen",
+                    "en-US": "Won 30 Medals",
+                    "es-ES": "Ganaste 30 medallas.",
+                    "fr-FR": "30 médailles gagnées",
+                    "it-IT": "Hai vinto 30 medaglie",
+                    "ja-JP": "メダルを 30 個獲得",
+                    "ko-KR": "메달을 30개 획득했습니다.",
+                    "zh-CHT": "已獲得 30 面獎牌"
+                },
+                "howto": {
+                    "de-DE": "Ziel: 30 Med.",
+                    "en-US": "Win 30 Medals",
+                    "es-ES": "Gana 30 medallas.",
+                    "fr-FR": "Gagner 30 médailles",
+                    "it-IT": "Vinci 30 medaglie",
+                    "ja-JP": "メダルを 30 個獲得する",
+                    "ko-KR": "메달을 30개 획득하십시오.",
+                    "zh-CHT": "獲得 30 面獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "35.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "Hochbegabt",
+                    "en-US": "Check My Skillz",
+                    "es-ES": "¡Mira lo que puedo hacer!",
+                    "fr-FR": "Je suis le meilleur",
+                    "it-IT": "Scusate se è poco",
+                    "ja-JP": "スキル マスター",
+                    "ko-KR": "기술자",
+                    "zh-CHT": "技巧高超"
+                },
+                "description": {
+                    "de-DE": "33 Med. gewonnen",
+                    "en-US": "Won 33 Medals",
+                    "es-ES": "Ganaste 33 medallas.",
+                    "fr-FR": "33 médailles gagnées",
+                    "it-IT": "Hai vinto 33 medaglie",
+                    "ja-JP": "メダルを 33 個獲得",
+                    "ko-KR": "메달을 33개 획득했습니다.",
+                    "zh-CHT": "已獲得 33 面獎牌"
+                },
+                "howto": {
+                    "de-DE": "Ziel: 33 Med.",
+                    "en-US": "Win 33 Medals",
+                    "es-ES": "Gana 33 medallas.",
+                    "fr-FR": "Gagner 33 médailles",
+                    "it-IT": "Vinci 33 medaglie",
+                    "ja-JP": "メダルを 33 個獲得する",
+                    "ko-KR": "메달을 33개 획득하십시오.",
+                    "zh-CHT": "獲得 33 面獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "36.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "Geprägt",
+                    "en-US": "Minted",
+                    "es-ES": "Creador de medallas",
+                    "fr-FR": "Gros dossier",
+                    "it-IT": "Coniato",
+                    "ja-JP": "メダリスト",
+                    "ko-KR": "메달 마니아",
+                    "zh-CHT": "大富翁"
+                },
+                "description": {
+                    "de-DE": "36 Medaillen gewonnen",
+                    "en-US": "Won 36 Medals",
+                    "es-ES": "Ganaste 36 medallas.",
+                    "fr-FR": "36 médailles gagnées",
+                    "it-IT": "Hai vinto 36 medaglie",
+                    "ja-JP": "メダルを 36 個獲得",
+                    "ko-KR": "메달을 36개 획득했습니다.",
+                    "zh-CHT": "已獲得 36 面獎牌"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 36 Medaillen",
+                    "en-US": "Win 36 Medals",
+                    "es-ES": "Gana 36 medallas.",
+                    "fr-FR": "Gagner 36 médailles",
+                    "it-IT": "Vinci 36 medaglie",
+                    "ja-JP": "メダルを 36 個獲得する",
+                    "ko-KR": "메달을 36개 획득하십시오.",
+                    "zh-CHT": "獲得 36 面獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "37.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "de-DE": "Medaillenbehängt",
+                    "en-US": "Medaltastic",
+                    "es-ES": "Medallístico",
+                    "fr-FR": "Médailles en stock",
+                    "it-IT": "Medagliastico",
+                    "ja-JP": "メダル リッチ プレイヤー",
+                    "ko-KR": "메달의 신",
+                    "zh-CHT": "獎牌狂熱"
+                },
+                "description": {
+                    "de-DE": "39 Medaillen gewonnen",
+                    "en-US": "Won 39 Medals",
+                    "es-ES": "Ganaste 39 medallas.",
+                    "fr-FR": "39 médailles gagnées",
+                    "it-IT": "Hai vinto 39 medaglie",
+                    "ja-JP": "メダルを 39 個獲得",
+                    "ko-KR": "메달을 39개 획득했습니다.",
+                    "zh-CHT": "已獲得 39 面獎牌"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 39 Medaillen",
+                    "en-US": "Win 39 Medals",
+                    "es-ES": "Gana 39 medallas.",
+                    "fr-FR": "Gagner 39 médailles",
+                    "it-IT": "Vinci 39 medaglie",
+                    "ja-JP": "メダルを 39 個獲得する",
+                    "ko-KR": "메달을 39개 획득하십시오.",
+                    "zh-CHT": "獲得 39 面獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "38.png"
+        },
+        "51": {
+            "text": {
+                "name": {
+                    "de-DE": "Unglaublich gut",
+                    "en-US": "Fly Skillz",
+                    "es-ES": "Habilidades de vuelo",
+                    "fr-FR": "SkillZ de ouf",
+                    "it-IT": "Talento in volo",
+                    "ja-JP": "スーパー メダリスト",
+                    "ko-KR": "대단한 기술",
+                    "zh-CHT": "獎牌達人"
+                },
+                "description": {
+                    "de-DE": "42 Medaillen gewonnen",
+                    "en-US": "Won 42 Medals",
+                    "es-ES": "Ganaste 42 medallas.",
+                    "fr-FR": "42 médailles gagnées",
+                    "it-IT": "Hai vinto 42 medaglie",
+                    "ja-JP": "メダルを 42 個獲得",
+                    "ko-KR": "메달을 42개 획득했습니다.",
+                    "zh-CHT": "已獲得 42 面獎牌"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 42 Medaillen",
+                    "en-US": "Win 42 Medals",
+                    "es-ES": "Gana 42 medallas.",
+                    "fr-FR": "Gagner 42 médailles",
+                    "it-IT": "Vinci 42 medaglie",
+                    "ja-JP": "メダルを 42 個獲得する",
+                    "ko-KR": "메달을 42개 획득하십시오.",
+                    "zh-CHT": "獲得 42 面獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "39.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "de-DE": "Medaillenliebhaber",
+                    "en-US": "Medal Masher",
+                    "es-ES": "Destrozamedallas",
+                    "fr-FR": "Engrangeur de médailles",
+                    "it-IT": "Schiaccia-medaglie",
+                    "ja-JP": "メダル ハンター",
+                    "ko-KR": "메달 멋쟁이",
+                    "zh-CHT": "獎牌大贏家"
+                },
+                "description": {
+                    "de-DE": "45 Medaillen gewonnen",
+                    "en-US": "Won 45 Medals",
+                    "es-ES": "Ganaste 45 medallas.",
+                    "fr-FR": "45 médailles gagnées",
+                    "it-IT": "Hai vinto 45 medaglie",
+                    "ja-JP": "メダルを 45 個獲得",
+                    "ko-KR": "메달을 45개 획득했습니다.",
+                    "zh-CHT": "已獲得 45 面獎牌"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 45 Medaillen",
+                    "en-US": "Win 45 Medals",
+                    "es-ES": "Gana 45 medallas.",
+                    "fr-FR": "Gagner 45 médailles",
+                    "it-IT": "Vinci 45 medaglie",
+                    "ja-JP": "メダルを 45 個獲得する",
+                    "ko-KR": "메달을 45개 획득하십시오.",
+                    "zh-CHT": "獲得 45 面獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "40.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "de-DE": "Glanz und Gloria",
+                    "en-US": "I Like Shiny Things",
+                    "es-ES": "Me gustan las cosas brillantes",
+                    "fr-FR": "J'aime les choses qui brillent",
+                    "it-IT": "Adoro gli oggetti luccicanti",
+                    "ja-JP": "グレート メダリスト",
+                    "ko-KR": "반짝이 수집광",
+                    "zh-CHT": "獎牌閃耀星"
+                },
+                "description": {
+                    "de-DE": "48 Med. gewonnen",
+                    "en-US": "Won 48 Medals",
+                    "es-ES": "Ganaste 48 medallas.",
+                    "fr-FR": "48 médailles gagnées",
+                    "it-IT": "Hai vinto 48 medaglie",
+                    "ja-JP": "メダルを 48 個獲得",
+                    "ko-KR": "메달을 48개 획득했습니다.",
+                    "zh-CHT": "已獲得 48 面獎牌"
+                },
+                "howto": {
+                    "de-DE": "Ziel: 48 Med.",
+                    "en-US": "Win 48 Medals",
+                    "es-ES": "Gana 48 medallas.",
+                    "fr-FR": "Gagner 48 médailles",
+                    "it-IT": "Vinci 48 medaglie",
+                    "ja-JP": "メダルを 48 個獲得する",
+                    "ko-KR": "메달을 48개 획득하십시오.",
+                    "zh-CHT": "獲得 48 面獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "35",
+            "imageId": "41.png"
+        },
+        "54": {
+            "text": {
+                "name": {
+                    "de-DE": "Aufgestiegen!",
+                    "en-US": "Level Up!",
+                    "es-ES": "¡Subes de nivel!",
+                    "fr-FR": "Niveau supplémentaire !",
+                    "it-IT": "Si sale di livello!",
+                    "ja-JP": "レベル アップ!",
+                    "ko-KR": "레벨 업!",
+                    "zh-CHT": "升級囉！"
+                },
+                "description": {
+                    "de-DE": "Level 2 erreicht",
+                    "en-US": "Reached Level 2",
+                    "es-ES": "Alcanzaste el nivel 2.",
+                    "fr-FR": "Niveau 2 atteint",
+                    "it-IT": "Hai raggiunto il livello 2",
+                    "ja-JP": "レベル 2 に到達",
+                    "ko-KR": "2레벨을 달성했습니다.",
+                    "zh-CHT": "已達到等級 2"
+                },
+                "howto": {
+                    "de-DE": "Erreiche Level 2",
+                    "en-US": "Reach Level 2",
+                    "es-ES": "Alcanza el nivel 2.",
+                    "fr-FR": "Atteindre le niveau 2",
+                    "it-IT": "Raggiungi il livello 2",
+                    "ja-JP": "レベル 2 に到達する",
+                    "ko-KR": "2레벨을 달성하십시오.",
+                    "zh-CHT": "達到等級 2"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "42.png"
+        },
+        "55": {
+            "text": {
+                "name": {
+                    "de-DE": "Level 5!",
+                    "en-US": "Level 5!",
+                    "es-ES": "¡Nivel 5!",
+                    "fr-FR": "Niveau 5 !",
+                    "it-IT": "Livello 5!",
+                    "ja-JP": "レベル 5!",
+                    "ko-KR": "레벨 5!",
+                    "zh-CHT": "等級 5 囉！"
+                },
+                "description": {
+                    "de-DE": "Level 5 erreicht",
+                    "en-US": "Reached Level 5",
+                    "es-ES": "Alcanzaste el nivel 5.",
+                    "fr-FR": "Niveau 5 atteint",
+                    "it-IT": "Hai raggiunto il livello 5",
+                    "ja-JP": "レベル 5 に到達",
+                    "ko-KR": "5레벨을 달성했습니다.",
+                    "zh-CHT": "已達到等級 5"
+                },
+                "howto": {
+                    "de-DE": "Erreiche Level 5",
+                    "en-US": "Reach Level 5",
+                    "es-ES": "Alcanza el nivel 5.",
+                    "fr-FR": "Atteindre le niveau 5",
+                    "it-IT": "Raggiungi il livello 5",
+                    "ja-JP": "レベル 5 に到達する",
+                    "ko-KR": "5레벨을 달성하십시오.",
+                    "zh-CHT": "達到等級 5"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "43.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "de-DE": "Level 8!",
+                    "en-US": "Level 8!",
+                    "es-ES": "¡Nivel 8!",
+                    "fr-FR": "Niveau 8 !",
+                    "it-IT": "Livello 8!",
+                    "ja-JP": "レベル 8!",
+                    "ko-KR": "레벨 8!",
+                    "zh-CHT": "等級 8 囉！"
+                },
+                "description": {
+                    "de-DE": "Level 8 erreicht",
+                    "en-US": "Reached Level 8",
+                    "es-ES": "Alcanzaste el nivel 8.",
+                    "fr-FR": "Niveau 8 atteint",
+                    "it-IT": "Hai raggiunto il livello 8",
+                    "ja-JP": "レベル 8 に到達",
+                    "ko-KR": "8레벨을 달성했습니다.",
+                    "zh-CHT": "已達到等級 8"
+                },
+                "howto": {
+                    "de-DE": "Erreiche Level 8",
+                    "en-US": "Reach Level 8",
+                    "es-ES": "Alcanza el nivel 8.",
+                    "fr-FR": "Atteindre le niveau 8",
+                    "it-IT": "Raggiungi il livello 8",
+                    "ja-JP": "レベル 8 に到達する",
+                    "ko-KR": "8레벨을 달성하십시오.",
+                    "zh-CHT": "達到等級 8"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "44.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "de-DE": "Level 11!",
+                    "en-US": "Level 11!",
+                    "es-ES": "¡Nivel 11!",
+                    "fr-FR": "Niveau 11 !",
+                    "it-IT": "Livello 11!",
+                    "ja-JP": "レベル 11!",
+                    "ko-KR": "레벨 11!",
+                    "zh-CHT": "等級 11 囉！"
+                },
+                "description": {
+                    "de-DE": "Level 11 erreicht",
+                    "en-US": "Reached Level 11",
+                    "es-ES": "Alcanzaste el nivel 11.",
+                    "fr-FR": "Niveau 11 atteint",
+                    "it-IT": "Hai raggiunto il livello 11",
+                    "ja-JP": "レベル 11 に到達",
+                    "ko-KR": "11레벨을 달성했습니다.",
+                    "zh-CHT": "已達到等級 11"
+                },
+                "howto": {
+                    "de-DE": "Erreiche Level 11",
+                    "en-US": "Reach Level 11",
+                    "es-ES": "Alcanza el nivel 11.",
+                    "fr-FR": "Atteindre le niveau 11",
+                    "it-IT": "Raggiungi il livello 11",
+                    "ja-JP": "レベル 11 に到達する",
+                    "ko-KR": "11레벨을 달성하십시오.",
+                    "zh-CHT": "達到等級 11"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "45.png"
+        },
+        "58": {
+            "text": {
+                "name": {
+                    "de-DE": "Level 14!",
+                    "en-US": "Level 14!",
+                    "es-ES": "¡Nivel 14!",
+                    "fr-FR": "Niveau 14 !",
+                    "it-IT": "Livello 14!",
+                    "ja-JP": "レベル 14!",
+                    "ko-KR": "레벨 14!",
+                    "zh-CHT": "等級 14 囉！"
+                },
+                "description": {
+                    "de-DE": "Level 14 erreicht",
+                    "en-US": "Reached Level 14",
+                    "es-ES": "Alcanzaste el nivel 14.",
+                    "fr-FR": "Niveau 14 atteint",
+                    "it-IT": "Hai raggiunto il livello 14",
+                    "ja-JP": "レベル 14 に到達",
+                    "ko-KR": "14레벨을 달성했습니다.",
+                    "zh-CHT": "已達到等級 14"
+                },
+                "howto": {
+                    "de-DE": "Erreiche Level 14",
+                    "en-US": "Reach Level 14",
+                    "es-ES": "Alcanza el nivel 14.",
+                    "fr-FR": "Atteindre le niveau 14",
+                    "it-IT": "Raggiungi il livello 14",
+                    "ja-JP": "レベル 14 に到達する",
+                    "ko-KR": "14레벨을 달성하십시오.",
+                    "zh-CHT": "達到等級 14"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "46.png"
+        },
+        "59": {
+            "text": {
+                "name": {
+                    "de-DE": "Level 17!",
+                    "en-US": "Level 17!",
+                    "es-ES": "¡Nivel 17!",
+                    "fr-FR": "Niveau 17 !",
+                    "it-IT": "Livello 17!",
+                    "ja-JP": "レベル 17!",
+                    "ko-KR": "레벨 17!",
+                    "zh-CHT": "等級 17 囉！"
+                },
+                "description": {
+                    "de-DE": "Level 17 erreicht",
+                    "en-US": "Reached Level 17",
+                    "es-ES": "Alcanzaste el nivel 17.",
+                    "fr-FR": "Niveau 17 atteint",
+                    "it-IT": "Hai raggiunto il livello 17",
+                    "ja-JP": "レベル 17 に到達",
+                    "ko-KR": "17레벨을 달성했습니다.",
+                    "zh-CHT": "已達到等級 17"
+                },
+                "howto": {
+                    "de-DE": "Erreiche Level 17",
+                    "en-US": "Reach Level 17",
+                    "es-ES": "Alcanza el nivel 17.",
+                    "fr-FR": "Atteindre le niveau 17",
+                    "it-IT": "Raggiungi il livello 17",
+                    "ja-JP": "レベル 17 に到達する",
+                    "ko-KR": "17레벨을 달성하십시오.",
+                    "zh-CHT": "達到等級 17"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "47.png"
+        },
+        "60": {
+            "text": {
+                "name": {
+                    "de-DE": "Level 20!",
+                    "en-US": "Level 20!",
+                    "es-ES": "¡Nivel 20!",
+                    "fr-FR": "Niveau 20 !",
+                    "it-IT": "Livello 20!",
+                    "ja-JP": "レベル 20!",
+                    "ko-KR": "레벨 20!",
+                    "zh-CHT": "等級 20 囉！"
+                },
+                "description": {
+                    "de-DE": "Level 20 erreicht",
+                    "en-US": "Reached Level 20",
+                    "es-ES": "Alcanzaste el nivel 20.",
+                    "fr-FR": "Niveau 20 atteint",
+                    "it-IT": "Hai raggiunto il livello 20",
+                    "ja-JP": "レベル 20 に到達",
+                    "ko-KR": "20레벨을 달성했습니다.",
+                    "zh-CHT": "已達到等級 20"
+                },
+                "howto": {
+                    "de-DE": "Erreiche Level 20",
+                    "en-US": "Reach Level 20",
+                    "es-ES": "Alcanza el nivel 20.",
+                    "fr-FR": "Atteindre le niveau 20",
+                    "it-IT": "Raggiungi il livello 20",
+                    "ja-JP": "レベル 20 に到達する",
+                    "ko-KR": "20레벨을 달성하십시오.",
+                    "zh-CHT": "達到等級 20"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "48.png"
+        },
+        "61": {
+            "text": {
+                "name": {
+                    "de-DE": "Medaillenjäger",
+                    "en-US": "Medal Smasher",
+                    "es-ES": "Casanova de las medallas",
+                    "fr-FR": "Spécialiste des médailles",
+                    "it-IT": "Plurimedagliato",
+                    "ja-JP": "メダル スマッシャー",
+                    "ko-KR": "메달 파괴자",
+                    "zh-CHT": "獎牌高手"
+                },
+                "description": {
+                    "de-DE": "10 Medaillen jeder Art gewonnen",
+                    "en-US": "Won 10 Medals of each type",
+                    "es-ES": "Ganaste 10 medallas de cada tipo.",
+                    "fr-FR": "A gagné 10 médailles de chaque type",
+                    "it-IT": "Hai vinto 10 medaglie di ogni tipo",
+                    "ja-JP": "各カテゴリーにつき 10 個ずつメダルを獲得",
+                    "ko-KR": "각 종류의 메달을 10개씩 획득했습니다.",
+                    "zh-CHT": "每種獎牌已各獲得 10 面"
+                },
+                "howto": {
+                    "de-DE": "10 Medaillen jeder Art gewinnen",
+                    "en-US": "Win 10 Medals of each type",
+                    "es-ES": "Gana 10 medallas de cada tipo.",
+                    "fr-FR": "Gagner 10 médailles de chaque type",
+                    "it-IT": "Vinci 10 medaglie di ogni tipo",
+                    "ja-JP": "各カテゴリーにつき 10 個ずつメダルを獲得する",
+                    "ko-KR": "각 종류의 메달을 10개씩 획득하십시오.",
+                    "zh-CHT": "每種獎牌各獲得 10 面"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "49.png"
+        },
+        "62": {
+            "text": {
+                "name": {
+                    "de-DE": "Medaillenjunkie",
+                    "en-US": "Medal Mad",
+                    "es-ES": "Demencia por las medallas",
+                    "fr-FR": "Fou des médailles",
+                    "it-IT": "Medaglie a go-go",
+                    "ja-JP": "メダル マスター",
+                    "ko-KR": "메달 마니아",
+                    "zh-CHT": "獎牌狂人"
+                },
+                "description": {
+                    "de-DE": "20 Medaillen jeder Art gewonnen",
+                    "en-US": "Won 20 Medals of each type",
+                    "es-ES": "Ganaste 20 medallas de cada tipo.",
+                    "fr-FR": "A gagné 20 médailles de chaque type",
+                    "it-IT": "Hai vinto 20 medaglie di ogni tipo",
+                    "ja-JP": "各カテゴリーにつき 20 個ずつメダルを獲得",
+                    "ko-KR": "각 종류의 메달을 20개씩 획득했습니다.",
+                    "zh-CHT": "每種獎牌已各獲得 20 面"
+                },
+                "howto": {
+                    "de-DE": "20 Medaillen jeder Art gewinnen",
+                    "en-US": "Win 20 Medals of each type",
+                    "es-ES": "Gana 20 medallas de cada tipo.",
+                    "fr-FR": "Gagner 20 médailles de chaque type",
+                    "it-IT": "Vinci 20 medaglie di ogni tipo",
+                    "ja-JP": "各カテゴリーにつき 20 個ずつメダルを獲得する",
+                    "ko-KR": "각 종류의 메달을 20개씩 획득하십시오.",
+                    "zh-CHT": "每種獎牌各獲得 20 面"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "50.png"
+        },
+        "63": {
+            "text": {
+                "name": {
+                    "de-DE": "Punkteknacker",
+                    "en-US": "Point Buster",
+                    "es-ES": "Acaparador de puntos",
+                    "fr-FR": "Chasseur de points",
+                    "it-IT": "Performance",
+                    "ja-JP": "ポイント バスター",
+                    "ko-KR": "점수 사냥꾼",
+                    "zh-CHT": "得分高手"
+                },
+                "description": {
+                    "de-DE": "5 Punkteknacker-Medaillen gewonnen",
+                    "en-US": "Won 5 Point Buster Medals",
+                    "es-ES": "Ganaste 5 medallas de Acaparador de puntos.",
+                    "fr-FR": "A gagné 5 médailles Chasseur de points",
+                    "it-IT": "Hai vinto 5 medaglie Performance",
+                    "ja-JP": "ポイント バスター メダルを 5 個獲得",
+                    "ko-KR": "점수 경신 메달을 5개 획득했습니다.",
+                    "zh-CHT": "已獲得 5 面得分高手獎牌"
+                },
+                "howto": {
+                    "de-DE": "5 Punkteknacker-Medaillen gewinnen",
+                    "en-US": "Win 5 Point Buster Medals",
+                    "es-ES": "Gana 5 medallas de Acaparador de puntos.",
+                    "fr-FR": "Gagner 5 médailles Chasseur de points",
+                    "it-IT": "Vinci 5 medaglie Performance",
+                    "ja-JP": "ポイント バスター メダルを 5 個獲得する",
+                    "ko-KR": "점수 경신 메달을 5개 획득하십시오.",
+                    "zh-CHT": "獲得 5 面得分高手獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "51.png"
+        },
+        "64": {
+            "text": {
+                "name": {
+                    "de-DE": "Punktefresser",
+                    "en-US": "Point Slammer",
+                    "es-ES": "Asaltador de puntos",
+                    "fr-FR": "Attrapeur de points",
+                    "it-IT": "Macinarecord",
+                    "ja-JP": "ポイント スラム",
+                    "ko-KR": "점수 수집가",
+                    "zh-CHT": "得分狂人"
+                },
+                "description": {
+                    "de-DE": "10 Punkteknacker-Medaillen gewonnen",
+                    "en-US": "Won 10 Point Buster Medals",
+                    "es-ES": "Ganaste 10 medallas de Acaparador de puntos.",
+                    "fr-FR": "A gagné 10 médailles Chasseur de points",
+                    "it-IT": "Hai vinto 10 medaglie Performance",
+                    "ja-JP": "ポイント バスター メダルを 10 個獲得",
+                    "ko-KR": "점수 경신 메달을 10개 획득했습니다.",
+                    "zh-CHT": "已獲得 10 面得分高手獎牌"
+                },
+                "howto": {
+                    "de-DE": "10 Punkteknacker-Medaillen gewinnen",
+                    "en-US": "Win 10 Point Buster Medals",
+                    "es-ES": "Gana 10 medallas de Acaparador de puntos.",
+                    "fr-FR": "Gagner 10 médailles Chasseur de points",
+                    "it-IT": "Vinci 10 medaglie Performance",
+                    "ja-JP": "ポイント バスター メダルを 10 個獲得する",
+                    "ko-KR": "점수 경신 메달을 10개 획득하십시오.",
+                    "zh-CHT": "獲得 10 面得分高手獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "52.png"
+        },
+        "65": {
+            "text": {
+                "name": {
+                    "de-DE": "Überlebenskämpfer",
+                    "en-US": "Survivalist",
+                    "es-ES": "Superviviente",
+                    "fr-FR": "Survivant",
+                    "it-IT": "Perseveranza",
+                    "ja-JP": "サバイバー",
+                    "ko-KR": "생존자",
+                    "zh-CHT": "生存專家"
+                },
+                "description": {
+                    "de-DE": "5 Überlebenskämpfer-Medaillen gewonnen",
+                    "en-US": "Won 5 Survivalist Medals",
+                    "es-ES": "Ganaste 5 medallas de Superviviente.",
+                    "fr-FR": "A gagné 5 médailles Survivant",
+                    "it-IT": "Hai vinto 5 medaglie Perseveranza",
+                    "ja-JP": "サバイバー メダルを 5 個獲得",
+                    "ko-KR": "생존 메달을 5개 획득했습니다.",
+                    "zh-CHT": "已獲得 5 面生存專家獎牌"
+                },
+                "howto": {
+                    "de-DE": "5 Überlebenskämpfer-Medaillen gewinnen",
+                    "en-US": "Win 5 Survivalist Medals",
+                    "es-ES": "Gana 5 medallas de Superviviente.",
+                    "fr-FR": "Gagner 5 médailles Survivant",
+                    "it-IT": "Vinci 5 medaglie Perseveranza",
+                    "ja-JP": "サバイバー メダルを 5 個獲得する",
+                    "ko-KR": "생존 메달을 5개 획득하십시오.",
+                    "zh-CHT": "獲得 5 面生存專家獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "53.png"
+        },
+        "66": {
+            "text": {
+                "name": {
+                    "de-DE": "Nur der Beste überlebt",
+                    "en-US": "Survival of the Fittest",
+                    "es-ES": "Supervivencia de los más aptos",
+                    "fr-FR": "La loi du plus fort",
+                    "it-IT": "Chi la dura la vince",
+                    "ja-JP": "スペシャル サバイバー",
+                    "ko-KR": "끈질긴 생존자",
+                    "zh-CHT": "適者生存"
+                },
+                "description": {
+                    "de-DE": "10 Überlebenskämpfer-Medaillen gewonnen",
+                    "en-US": "Won 10 Survivalist Medals",
+                    "es-ES": "Ganaste 10 medallas de Superviviente.",
+                    "fr-FR": "A gagné 10 médailles Survivant",
+                    "it-IT": "Hai vinto 10 medaglie Perseveranza",
+                    "ja-JP": "サバイバー メダルを 10 個獲得",
+                    "ko-KR": "생존 메달을 10개 획득했습니다.",
+                    "zh-CHT": "已獲得 10 面生存專家獎牌"
+                },
+                "howto": {
+                    "de-DE": "10 Überlebenskämpfer-Medaillen gewinnen",
+                    "en-US": "Win 10 Survivalist Medals",
+                    "es-ES": "Gana 10 medallas de Superviviente.",
+                    "fr-FR": "Gagner 10 médailles Survivant",
+                    "it-IT": "Vinci 10 medaglie Perseveranza",
+                    "ja-JP": "サバイバー メダルを 10 個獲得する",
+                    "ko-KR": "생존 메달을 10개 획득하십시오.",
+                    "zh-CHT": "獲得 10 面生存專家獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "54.png"
+        },
+        "67": {
+            "text": {
+                "name": {
+                    "de-DE": "Zeitverschwender",
+                    "en-US": "Time Spender",
+                    "es-ES": "Duromuchotiempo",
+                    "fr-FR": "Maître du temps libre",
+                    "it-IT": "Costanza",
+                    "ja-JP": "タイム スペンダー",
+                    "ko-KR": "시간을 달리는 자",
+                    "zh-CHT": "時光揮霍家"
+                },
+                "description": {
+                    "de-DE": "5 Zeitverschwender-Medaillen gewonnen",
+                    "en-US": "Won 5 Time Spender Medals",
+                    "es-ES": "Ganaste 5 medallas de Duromuchotiempo.",
+                    "fr-FR": "A gagné 5 médailles Maître du temps libre",
+                    "it-IT": "Hai vinto 5 medaglie Costanza",
+                    "ja-JP": "タイム スペンダー メダルを 5 個獲得",
+                    "ko-KR": "최장 시간 메달을 5개 획득했습니다.",
+                    "zh-CHT": "已獲得 5 面時光揮霍家獎牌"
+                },
+                "howto": {
+                    "de-DE": "5 Zeitverschwender-Medaillen gewinnen",
+                    "en-US": "Win 5 Time Spender Medals",
+                    "es-ES": "Gana 5 medallas de Duromuchotiempo.",
+                    "fr-FR": "Gagner 5 médailles Maître du temps libre",
+                    "it-IT": "Vinci 5 medaglie Costanza",
+                    "ja-JP": "タイム スペンダー メダルを 5 個獲得する",
+                    "ko-KR": "최장 시간 메달을 5개 획득하십시오.",
+                    "zh-CHT": "獲得 5 面時光揮霍家獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "55.png"
+        },
+        "68": {
+            "text": {
+                "name": {
+                    "de-DE": "Jenseits von Zeit und Raum",
+                    "en-US": "Time Crazy",
+                    "es-ES": "Loco por el tiempo",
+                    "fr-FR": "Temps libre en folie",
+                    "it-IT": "Non mollare mai",
+                    "ja-JP": "タイム クレイジー",
+                    "ko-KR": "시간을 초월한 자",
+                    "zh-CHT": "時光狂人"
+                },
+                "description": {
+                    "de-DE": "10 Zeitverschwender-Medaillen gewonnen",
+                    "en-US": "Won 10 Time Spender Medals",
+                    "es-ES": "Ganaste 10 medallas de Duromuchotiempo.",
+                    "fr-FR": "A gagné 10 médailles Maître du temps libre",
+                    "it-IT": "Hai vinto 10 medaglie Costanza",
+                    "ja-JP": "タイム スペンダー メダルを 10 個獲得",
+                    "ko-KR": "최장 시간 메달을 10개 획득했습니다.",
+                    "zh-CHT": "已獲得 10 面時光揮霍家獎牌"
+                },
+                "howto": {
+                    "de-DE": "10 Zeitverschwender-Medaillen gewinnen",
+                    "en-US": "Win 10 Time Spender Medals",
+                    "es-ES": "Gana 10 medallas de Duromuchotiempo.",
+                    "fr-FR": "Gagner 10 médailles Maître du temps libre",
+                    "it-IT": "Vinci 10 medaglie Costanza",
+                    "ja-JP": "タイム スペンダー メダルを 10 個獲得する",
+                    "ko-KR": "최장 시간 메달을 10개 획득하십시오.",
+                    "zh-CHT": "獲得 10 面時光揮霍家獎牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "56.png"
+        }
+    }
+}

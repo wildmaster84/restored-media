@@ -1,0 +1,7204 @@
+{
+    "properties": {
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x200000A6": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x100000A8": {
+            "info": "Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x100000A7": {
+            "info": "Points",
+            "method": "last",
+            "statId": 2
+        },
+        "0x100000A9": {
+            "info": "VehicleId",
+            "method": "last",
+            "statId": 3
+        },
+        "0x100000AA": {
+            "info": "Type",
+            "method": "last",
+            "statId": 4
+        },
+        "0x100000AB": {
+            "info": "HasGhost",
+            "method": "last",
+            "statId": 5
+        }
+    }
+}

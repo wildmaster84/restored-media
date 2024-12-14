@@ -1,0 +1,496 @@
+{
+    "Achievements": {
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Eins pro Farbe",
+                    "en-US": "One Of Each",
+                    "es-ES": "Uno de cada",
+                    "fr-FR": "Les deux font la paire",
+                    "it-IT": "Uno di ognuno",
+                    "ja-JP": "ひとりずつ",
+                    "ko-KR": "한 개씩",
+                    "pt-PT": "Um de Cada",
+                    "zh-CHT": "五顏六色"
+                },
+                "description": {
+                    "de-DE": "Ein Safka von jeder Farbe gesammelt",
+                    "en-US": "Collected one safka of each color",
+                    "es-ES": "Conseguiste un safka de cada color",
+                    "fr-FR": "Un safka de chaque couleur trouvé",
+                    "it-IT": "Raccolto un safka di ciascun colore",
+                    "ja-JP": "全色の safka を集めた",
+                    "ko-KR": "각 색상의 사프카 하나씩 모음",
+                    "pt-PT": "Apanhaste um safka de cada cor",
+                    "zh-CHT": "已收集各顏色的一隻 safka"
+                },
+                "howto": {
+                    "de-DE": "Sammle ein Safka von jeder Farbe",
+                    "en-US": "Collect one safka of each color",
+                    "es-ES": "Consigue un safka de cada color",
+                    "fr-FR": "Trouver un safka de chaque couleur",
+                    "it-IT": "Raccogli un safka di ciascun colore",
+                    "ja-JP": "全色の safka を集める",
+                    "ko-KR": "각 색상의 사프카 하나씩 모으기",
+                    "pt-PT": "Apanha um safka de cada cor",
+                    "zh-CHT": "收集各顏色的一隻 safka"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "01.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Musiker",
+                    "en-US": "The Musician",
+                    "es-ES": "El músico",
+                    "fr-FR": "Le musicien",
+                    "it-IT": "Il musicista",
+                    "ja-JP": "ミュージシャン",
+                    "ko-KR": "음악가",
+                    "pt-PT": "O Músico",
+                    "zh-CHT": "音樂家"
+                },
+                "description": {
+                    "de-DE": "Das Soloinstrument zur Titelmusik im Hauptmenü gespielt",
+                    "en-US": "Played the solo instrument to the music theme in the main menu",
+                    "es-ES": "Tocaste un solo de instrumento siguiendo el tema del menú principal.",
+                    "fr-FR": "Un thème musical joué en solo dans le menu principal avec l'instrument de musique",
+                    "it-IT": "Eseguito l'assolo del tema musicale nel menu principale",
+                    "ja-JP": "メイン メニューでカーソル音を利用してテーマ曲を演奏した",
+                    "ko-KR": "메인 메뉴에서 배경 음악과 같은 리듬으로 선택 커서를 이용해서 연주함",
+                    "pt-PT": "Tocaste a música do menu principal com o instrumento",
+                    "zh-CHT": "已在主畫面配合背景音樂上下移動選項一起演奏樂曲"
+                },
+                "howto": {
+                    "de-DE": "Spiele das Soloinstrument zur Titelmusik im Hauptmenü",
+                    "en-US": "Play the solo instrument to the music theme in the main menu",
+                    "es-ES": "Toca un solo de instrumento siguiendo el tema del menú principal.",
+                    "fr-FR": "Jouer en solo le thème musical dans le menu principal avec l'instrument de musique",
+                    "it-IT": "Esegui l'assolo del tema musicale nel menu principale",
+                    "ja-JP": "メイン メニューでカーソル音を利用してテーマ曲を演奏する",
+                    "ko-KR": "메인 메뉴에서 배경 음악과 같은 리듬으로 선택 커서를 이용해서 연주하기",
+                    "pt-PT": "Toca a música do menu principal com o instrumento",
+                    "zh-CHT": "在主畫面配合背景音樂上下移動選項一起演奏樂曲"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "02.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Irgendjemand Tee?",
+                    "en-US": "Anyone For Tea?",
+                    "es-ES": "¿Quién quiere té?",
+                    "fr-FR": "Qui veut du thé ?",
+                    "it-IT": "Una tazza di tè?",
+                    "ja-JP": "お茶でもいかが?",
+                    "ko-KR": "차 마실 사람?",
+                    "pt-PT": "Alguém Quer um Chá?",
+                    "zh-CHT": "喝杯茶？"
+                },
+                "description": {
+                    "de-DE": "Kapitel 2 erreicht",
+                    "en-US": "Advanced to chapter 2",
+                    "es-ES": "Avanzaste hasta el capítulo 2.",
+                    "fr-FR": "Arrivé au chapitre 2",
+                    "it-IT": "Raggiunto il capitolo 2",
+                    "ja-JP": "チャプター 2 へ進んだ",
+                    "ko-KR": "2장으로 진행",
+                    "pt-PT": "Avançaste até ao capítulo 2",
+                    "zh-CHT": "已前進到第 2 章"
+                },
+                "howto": {
+                    "de-DE": "Erreiche Kapitel 2",
+                    "en-US": "Get to chapter 2",
+                    "es-ES": "Llega al capítulo 2.",
+                    "fr-FR": "Atteindre le chapitre 2",
+                    "it-IT": "Raggiungi il capitolo 2",
+                    "ja-JP": "チャプター 2 へ進む",
+                    "ko-KR": "2장으로 이동",
+                    "pt-PT": "Vai até ao capítulo 2",
+                    "zh-CHT": "前進到第 2 章"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "03.png"
+        },
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Schüler",
+                    "en-US": "The Student",
+                    "es-ES": "El estudiante",
+                    "fr-FR": "L'étudiant",
+                    "it-IT": "Lo studente",
+                    "ja-JP": "勉強熱心",
+                    "ko-KR": "학생",
+                    "pt-PT": "O Estudante",
+                    "zh-CHT": "模範生"
+                },
+                "description": {
+                    "de-DE": "Tutorial abgeschlossen",
+                    "en-US": "Completed the tutorial",
+                    "es-ES": "Completaste el tutorial.",
+                    "fr-FR": "Vous avez terminé le didacticiel",
+                    "it-IT": "Tutorial completato",
+                    "ja-JP": "チュートリアルを完了した",
+                    "ko-KR": "튜토리얼을 완료했습니다.",
+                    "pt-PT": "Acabaste o tutorial",
+                    "zh-CHT": "已上完教學課程"
+                },
+                "howto": {
+                    "de-DE": "Absolviere das Tutorial.",
+                    "en-US": "Complete the tutorial",
+                    "es-ES": "Completa el tutorial.",
+                    "fr-FR": "Terminer le didacticiel",
+                    "it-IT": "Completa il tutorial",
+                    "ja-JP": "チュートリアルを完了する",
+                    "ko-KR": "튜토리얼을 완료하십시오.",
+                    "pt-PT": "Conclui o tutorial",
+                    "zh-CHT": "上完教學課程"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "04.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Müffelmasse",
+                    "en-US": "Smelly Jelly",
+                    "es-ES": "Gelatina olorosa",
+                    "fr-FR": "Gelée abjecte",
+                    "it-IT": "Gelatina puzzolente",
+                    "ja-JP": "クサいゼリー",
+                    "ko-KR": "냄새나는 젤리",
+                    "pt-PT": "Gelatina Malcheirosa",
+                    "zh-CHT": "臭臭果凍"
+                },
+                "description": {
+                    "de-DE": "Kapitel 4 erreicht",
+                    "en-US": "Advanced to chapter 4",
+                    "es-ES": "Avanzaste hasta el capítulo 4.",
+                    "fr-FR": "Arrivé au chapitre 4",
+                    "it-IT": "Raggiunto il capitolo 4",
+                    "ja-JP": "チャプター 4 へ進んだ",
+                    "ko-KR": "4장으로 진행",
+                    "pt-PT": "Avançaste até ao capítulo 4",
+                    "zh-CHT": "已前進到第 4 章"
+                },
+                "howto": {
+                    "de-DE": "Erreiche Kapitel 4",
+                    "en-US": "Get to chapter 4",
+                    "es-ES": "Llega al capítulo 4.",
+                    "fr-FR": "Atteindre le chapitre 4",
+                    "it-IT": "Raggiungi il capitolo 4",
+                    "ja-JP": "チャプター 4 へ進む",
+                    "ko-KR": "4장으로 이동",
+                    "pt-PT": "Avança até ao capítulo 4",
+                    "zh-CHT": "前進到第 4 章"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "05.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Auf dem besten Weg",
+                    "en-US": "Halfway There",
+                    "es-ES": "A mitad de camino",
+                    "fr-FR": "On y est presque",
+                    "it-IT": "A metà strada",
+                    "ja-JP": "道なかば",
+                    "ko-KR": "절반 도달",
+                    "pt-PT": "A Meio Caminho",
+                    "zh-CHT": "路途中點"
+                },
+                "description": {
+                    "de-DE": "Kapitel 3 erreicht",
+                    "en-US": "Advanced to chapter 3",
+                    "es-ES": "Llegaste al capítulo 3",
+                    "fr-FR": "Chapitre 3 atteint",
+                    "it-IT": "Raggiunto il capitolo 3",
+                    "ja-JP": "チャプター 3 へ進んだ",
+                    "ko-KR": "3장으로 넘어감",
+                    "pt-PT": "Avançaste até ao capítulo 3",
+                    "zh-CHT": "已前進到第 3 章"
+                },
+                "howto": {
+                    "de-DE": "Erreiche Kapitel 3",
+                    "en-US": "Get to chapter 3",
+                    "es-ES": "Llega al capítulo 3",
+                    "fr-FR": "Atteindre le chapitre 3",
+                    "it-IT": "Raggiungi il capitolo 3",
+                    "ja-JP": "チャプター 3 へ進む",
+                    "ko-KR": "3장으로 넘어가기",
+                    "pt-PT": "Avança até ao capítulo 3",
+                    "zh-CHT": "前進到第 3 章"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "06.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Mischer",
+                    "en-US": "The Shuffler",
+                    "es-ES": "El barajador",
+                    "fr-FR": "Grand brassage",
+                    "it-IT": "Re dello shuffle",
+                    "ja-JP": "シャッフラー",
+                    "ko-KR": "떠돌이",
+                    "pt-PT": "O Rei do Shuffle",
+                    "zh-CHT": "Shuffle 玩家"
+                },
+                "description": {
+                    "de-DE": "500 Punkte oder mehr im Minispiel \"ilomilo shuffle\" erhalten",
+                    "en-US": "Got a score of 500 points or more in the ilomilo shuffle minigame",
+                    "es-ES": "Conseguiste 500 puntos o más en el minijuego de ilomilo Shuffle.",
+                    "fr-FR": "Au moins 500 points marqués dans le mini-jeu brassage d'ilomilo",
+                    "it-IT": "Totalizzati almeno 500 punti nel minigioco ilomilo shuffle",
+                    "ja-JP": "“ilomilo シャッフル” のミニゲームで 500 ポイント以上のスコアを獲得した",
+                    "ko-KR": "아일로마일로 셔플 미니게임에서 500점 이상 얻음",
+                    "pt-PT": "Obtiveste uma pontuação de 500 pontos ou mais no mini-jogo ilomilo shuffle",
+                    "zh-CHT": "已在 ilomilo shuffle 小遊戲中贏得 500 分或更多分數"
+                },
+                "howto": {
+                    "de-DE": "Erhalte 500 Punkte oder mehr im Minispiel \"ilomilo shuffle\"",
+                    "en-US": "Get a score of 500 points or more in the ilomilo shuffle minigame",
+                    "es-ES": "Consigue 500 puntos o más en el minijuego de ilomilo Shuffle.",
+                    "fr-FR": "Marquer au moins 500 points dans le mini-jeu brassage d'ilomilo",
+                    "it-IT": "Totalizza almeno 500 punti nel minigioco ilomilo shuffle",
+                    "ja-JP": "“ilomilo シャッフル” のミニゲームで 500 ポイント以上のスコアを獲得する",
+                    "ko-KR": "아일로마일로 셔플 미니게임에서 500점 이상 얻기",
+                    "pt-PT": "Obtém uma pontuação de 500 pontos ou mais no mini-jogo ilomilo shuffle",
+                    "zh-CHT": "在 ilomilo shuffle 小遊戲中贏得 500 分或更多分數"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Jäger",
+                    "en-US": "The Hunter",
+                    "es-ES": "El cazador",
+                    "fr-FR": "Le chasseur",
+                    "it-IT": "Il cacciatore",
+                    "ja-JP": "ハンター",
+                    "ko-KR": "사냥꾼",
+                    "pt-PT": "O Caçador",
+                    "zh-CHT": "獵人"
+                },
+                "description": {
+                    "de-DE": "Alle Bonuslevel abgeschlossen",
+                    "en-US": "Completed all bonus levels",
+                    "es-ES": "Completaste todos los niveles de bonificación.",
+                    "fr-FR": "Tous les niveaux bonus terminés",
+                    "it-IT": "Completati tutti i livelli bonus",
+                    "ja-JP": "すべてのボーナス レベルをクリアした",
+                    "ko-KR": "모든 보너스 퍼즐을 완료했습니다.",
+                    "pt-PT": "Completaste todos os níveis de bónus",
+                    "zh-CHT": "已通過所有的獎勵關卡"
+                },
+                "howto": {
+                    "de-DE": "Schließe alle Bonuslevel ab",
+                    "en-US": "Complete all bonus levels",
+                    "es-ES": "Completa todos los niveles de bonificación.",
+                    "fr-FR": "Terminer tous les niveaux bonus",
+                    "it-IT": "Completa tutti i livelli bonus",
+                    "ja-JP": "すべてのボーナス レベルをクリアする",
+                    "ko-KR": "모든 보너스 퍼즐을 완료하십시오.",
+                    "pt-PT": "Completa todos os níveis de bónus",
+                    "zh-CHT": "通過所有的獎勵關卡"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Du stehst im Weg",
+                    "en-US": "You’re In The Way",
+                    "es-ES": "Vas por buen camino",
+                    "fr-FR": "Tu me bloques le chemin",
+                    "it-IT": "Levati di mezzo",
+                    "ja-JP": "じゃまモノ",
+                    "ko-KR": "걸림돌 제거",
+                    "pt-PT": "Estás no Bom Caminho",
+                    "zh-CHT": "別擋路！"
+                },
+                "description": {
+                    "de-DE": "Einen Schnapper besiegt und im selben Zug einen Level beendet",
+                    "en-US": "Defeated a Nabber in the same move as you completed a level",
+                    "es-ES": "Derrotaste a un Nabber en el mismo movimiento mientras completabas un nivel.",
+                    "fr-FR": "Un fripon battu en terminant un niveau",
+                    "it-IT": "Sconfitto lo Sgraffignatore e completato il livello con la stessa mossa",
+                    "ja-JP": "鳥かごクンを捕まえると同時にレベルをクリアした",
+                    "ko-KR": "퍼즐을 완료하는 동시에 우리 크리처를 무찌름",
+                    "pt-PT": "Derrotaste um Surripiador na mesma acção em que completaste um nível",
+                    "zh-CHT": "已在過完一個關卡時打敗同一行動中的搶 safka 怪"
+                },
+                "howto": {
+                    "de-DE": "Besiege einen Schnapper und beende im selben Zug einen Level",
+                    "en-US": "Defeat a Nabber in the same move as you complete a level",
+                    "es-ES": "Derrota a un Nabber en el mismo movimiento mientras completas un nivel.",
+                    "fr-FR": "Battre un fripon en terminant un niveau",
+                    "it-IT": "Sconfiggi lo Sgraffignatore e completa il livello con la stessa mossa",
+                    "ja-JP": "鳥かごクンを捕まえると同時にレベルをクリアする",
+                    "ko-KR": "퍼즐을 완료하는 동시에 우리 크리처를 무찌르기",
+                    "pt-PT": "Derrota um Surripiador na mesma acção em que completas um nível",
+                    "zh-CHT": "過完一個關卡時打敗同一行動中的搶 safka 怪"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Endlich zusammen",
+                    "en-US": "Finally Together",
+                    "es-ES": "Finalmente juntos",
+                    "fr-FR": "Enfin réunis",
+                    "it-IT": "Finalmente insieme",
+                    "ja-JP": "やっと会えたね",
+                    "ko-KR": "드디어 함께",
+                    "pt-PT": "Finalmente Juntos",
+                    "zh-CHT": "終於在一起"
+                },
+                "description": {
+                    "de-DE": "Das Spiel abgeschlossen",
+                    "en-US": "Completed the game",
+                    "es-ES": "Completaste el juego.",
+                    "fr-FR": "Jeu terminé",
+                    "it-IT": "Completato il gioco",
+                    "ja-JP": "ゲームをクリアした",
+                    "ko-KR": "게임 완료함",
+                    "pt-PT": "Acabaste o jogo",
+                    "zh-CHT": "已完成遊戲"
+                },
+                "howto": {
+                    "de-DE": "Schließe das Spiel ab",
+                    "en-US": "Complete the game",
+                    "es-ES": "Completa el juego.",
+                    "fr-FR": "Terminer le jeu",
+                    "it-IT": "Completa il gioco",
+                    "ja-JP": "ゲームをクリアする",
+                    "ko-KR": "게임 완료하기",
+                    "pt-PT": "Acaba o jogo",
+                    "zh-CHT": "完成遊戲"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Treffen",
+                    "en-US": "Meet Up",
+                    "es-ES": "Encuentro",
+                    "fr-FR": "se retrouver",
+                    "it-IT": "incontra",
+                    "ja-JP": "再会",
+                    "ko-KR": "만남",
+                    "pt-PT": "encontro",
+                    "zh-CHT": "會合"
+                },
+                "description": {
+                    "de-DE": "Einen Level abgeschlossen",
+                    "en-US": "Completed a level",
+                    "es-ES": "Completaste un nivel.",
+                    "fr-FR": "Un niveau terminé",
+                    "it-IT": "Completato un livello",
+                    "ja-JP": "レベルをクリアした",
+                    "ko-KR": "퍼즐을 완료했습니다.",
+                    "pt-PT": "Completaste um nível",
+                    "zh-CHT": "已通過一個關卡"
+                },
+                "howto": {
+                    "de-DE": "Schließe einen Level ab",
+                    "en-US": "Complete a level",
+                    "es-ES": "Completa un nivel.",
+                    "fr-FR": "Terminer un niveau",
+                    "it-IT": "Completa un livello",
+                    "ja-JP": "レベルをクリアする",
+                    "ko-KR": "퍼즐을 완료하십시오.",
+                    "pt-PT": "Completa um nível",
+                    "zh-CHT": "通過一個關卡"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Eijäger",
+                    "en-US": "The Egg Hunters",
+                    "es-ES": "Los cazadores de huevos",
+                    "fr-FR": "La chasse aux œufs",
+                    "it-IT": "Cacciatore di uova",
+                    "ja-JP": "エッグ ハンター",
+                    "ko-KR": "알 사냥꾼",
+                    "pt-PT": "Os Caçadores de Ovos",
+                    "zh-CHT": "找蛋玩家"
+                },
+                "description": {
+                    "de-DE": "Im Koop-Modus geholfen, alle 10 schwebenden Eier mit der Fliege zu finden",
+                    "en-US": "Helped find all 10 floating eggs with the fly while playing cooperatively",
+                    "es-ES": "Ayudaste a encontrar los 10 huevos flotantes con la mosca jugando en modo cooperativo.",
+                    "fr-FR": "Vous avez aidé à trouver les 10 œufs flottants avec la mouche en mode coopératif",
+                    "it-IT": "Hai aiutato il tuo compagno a trovare le 10 uova galleggianti con la mosca in modalità cooperativa",
+                    "ja-JP": "協力プレイで、ハエを使って宙に浮いた 10 個の卵をすべて見つけた",
+                    "ko-KR": "멀티 플레이 중에 파리로 10개의 떠다니는 알을 모두 찾도록 도와줌",
+                    "pt-PT": "Ajudaste a encontrar os 10 ovos flutuantes com a mosca enquanto jogavas em modo coop",
+                    "zh-CHT": "已在合作遊戲中以蒼蠅幫助找到全部 10 顆飄浮雞蛋"
+                },
+                "howto": {
+                    "de-DE": "Hilf im Koop-Modus dabei, alle 10 schwebenden Eier mit der Fliege zu finden",
+                    "en-US": "Help find all 10 floating eggs with the fly while playing cooperatively",
+                    "es-ES": "Ayuda a encontrar los 10 huevos flotantes con la mosca jugando en modo cooperativo.",
+                    "fr-FR": "Aider à trouver les 10 œufs flottants avec la mouche en mode coopératif",
+                    "it-IT": "Aiuta il tuo compagno a trovare le 10 uova galleggianti con la mosca in modalità cooperativa",
+                    "ja-JP": "協力プレイで、ハエを使って宙に浮いた 10 個の卵をすべて見つける",
+                    "ko-KR": "멀티 플레이 중에 파리로 10개의 떠다니는 알을 모두 찾도록 도와주기",
+                    "pt-PT": "Ajuda a encontrar os 10 ovos flutuantes com a mosca enquanto jogas em modo coop",
+                    "zh-CHT": "在合作遊戲中以蒼蠅幫助找到全部 10 顆飄浮雞蛋"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "12.png"
+        }
+    }
+}

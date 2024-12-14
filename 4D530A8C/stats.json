@@ -1,0 +1,19 @@
+{
+    "properties": {
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000007": {
+            "info": "SCORE_COLUMN_FOO",
+            "method": "min",
+            "statId": 65534
+        }
+    }
+}

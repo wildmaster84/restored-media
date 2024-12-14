@@ -1,0 +1,819 @@
+{
+    "properties": {
+        "0x20000009": {
+            "info": "Rating",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000000A": {
+            "info": "SCORE",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000B": {
+            "info": "KILLS",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000000C": {
+            "info": "DEATHS",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000000D": {
+            "info": "ASSISTS",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000000E": {
+            "info": "SUICIDES",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x1000000F": {
+            "info": "TIME PLAYED",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000018": {
+            "info": "TEA BAGS",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10000010": {
+            "info": "KILLING SPREES",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x10000011": {
+            "info": "DOMINATING",
+            "method": "sum",
+            "statId": 9
+        },
+        "0x10000012": {
+            "info": "UNSTOPPABLE",
+            "method": "sum",
+            "statId": 10
+        },
+        "0x10000013": {
+            "info": "GODLIKE",
+            "method": "sum",
+            "statId": 11
+        },
+        "0x10000014": {
+            "info": "DOUBLE KILL",
+            "method": "sum",
+            "statId": 12
+        },
+        "0x10000015": {
+            "info": "TRIPLE KILL",
+            "method": "sum",
+            "statId": 13
+        },
+        "0x10000016": {
+            "info": "OVERKILL",
+            "method": "sum",
+            "statId": 14
+        },
+        "0x10000017": {
+            "info": "MONSTER KILL",
+            "method": "sum",
+            "statId": 15
+        },
+        "0x20000009": {
+            "info": "Rating",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000000C": {
+            "info": "DEATHS",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000000B": {
+            "info": "KILLS",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000000F": {
+            "info": "TOTAL TIME PLAYED",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000077": {
+            "info": "Player Level",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000009": {
+            "info": "Rating",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000705": {
+            "info": "TIME PLAYED",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10000700": {
+            "info": "WINS FIRST",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000701": {
+            "info": "WINS SECOND",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000702": {
+            "info": "WINS THIRD",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000703": {
+            "info": "KILLS",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000704": {
+            "info": "DEATHS",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000009": {
+            "info": "Rating",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000100": {
+            "info": "WINS",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000101": {
+            "info": "LOSSES",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000102": {
+            "info": "KILLS",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000103": {
+            "info": "DEATHS",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000104": {
+            "info": "TIME PLAYED",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000009": {
+            "info": "Rating",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000200": {
+            "info": "WINS",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000201": {
+            "info": "LOSSES",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000202": {
+            "info": "CAPTURES",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000203": {
+            "info": "SAVES",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000204": {
+            "info": "PICKUPS",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000205": {
+            "info": "CARRIER KILLS",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10000206": {
+            "info": "CARRIER DEATHS",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x10000207": {
+            "info": "TIME PLAYED",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000009": {
+            "info": "Rating",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000300": {
+            "info": "WINS",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000301": {
+            "info": "LOSSES",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000302": {
+            "info": "TAKE OVERS",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000303": {
+            "info": "SUCCESSFUL HACKS",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000304": {
+            "info": "FAILED MINIGAMES",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000305": {
+            "info": "ASSISTS",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10000306": {
+            "info": "ATTACKS",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x10000307": {
+            "info": "DEFENDS",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x10000308": {
+            "info": "TIME PLAYED",
+            "method": "sum",
+            "statId": 9
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000009": {
+            "info": "Rating",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000400": {
+            "info": "WINS",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000401": {
+            "info": "LOSSES",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000402": {
+            "info": "CARRIER KILLS",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000403": {
+            "info": "BOMBS PLANTED",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000404": {
+            "info": "BOMBS DEFUSED",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000405": {
+            "info": "BOMBS EXPLODED",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10000406": {
+            "info": "TIME PLAYED",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000009": {
+            "info": "Rating",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000600": {
+            "info": "WINS FIRST",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000601": {
+            "info": "WINS SECOND",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000602": {
+            "info": "WINS THIRD",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000603": {
+            "info": "KILLS",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000604": {
+            "info": "DEATHS",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000605": {
+            "info": "TIME PLAYED",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000009": {
+            "info": "Rating",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000500": {
+            "info": "WINS",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000501": {
+            "info": "LOSSES",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000502": {
+            "info": "KILLS",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000503": {
+            "info": "DEATHS",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000504": {
+            "info": "TIME PLAYED",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000009": {
+            "info": "Rating",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000800": {
+            "info": "KILLS",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000801": {
+            "info": "DEATHS",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000802": {
+            "info": "WINS",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000803": {
+            "info": "FAILS",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000804": {
+            "info": "BEST IN SQUAD",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000805": {
+            "info": "EASY WIN",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10000806": {
+            "info": "MEDIUM WIN",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x10000807": {
+            "info": "HARD WIN",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x10000808": {
+            "info": "HACK WIN",
+            "method": "sum",
+            "statId": 9
+        },
+        "0x10000809": {
+            "info": "HACK FAIL",
+            "method": "sum",
+            "statId": 10
+        },
+        "0x1000080A": {
+            "info": "1 PLAYER",
+            "method": "sum",
+            "statId": 11
+        },
+        "0x1000080B": {
+            "info": "2 PLAYER",
+            "method": "sum",
+            "statId": 12
+        },
+        "0x1000080C": {
+            "info": "3 PLAYER",
+            "method": "sum",
+            "statId": 13
+        },
+        "0x1000080D": {
+            "info": "4 PLAYER",
+            "method": "sum",
+            "statId": 14
+        },
+        "0x1000080E": {
+            "info": "TIME PLAYED",
+            "method": "sum",
+            "statId": 15
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000009": {
+            "info": "Rating",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10001000": {
+            "info": "SMG_KILLS",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10001001": {
+            "info": "SMG DEATHS",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10001002": {
+            "info": "SMG HEADSHOTS",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10001003": {
+            "info": "SMG ROUNDS FIRED",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10001004": {
+            "info": "SMG ROUNDS HIT",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10001010": {
+            "info": "ASSAULT KILLS",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10001011": {
+            "info": "ASSAULT DEATHS",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x10001012": {
+            "info": "ASSAULT HEADSHOTS",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x10001013": {
+            "info": "ASSAULT ROUNDS FIRED",
+            "method": "sum",
+            "statId": 9
+        },
+        "0x10001014": {
+            "info": "ASSAULT ROUNDS HIT",
+            "method": "sum",
+            "statId": 10
+        },
+        "0x10001020": {
+            "info": "SNIPER KILLS",
+            "method": "sum",
+            "statId": 11
+        },
+        "0x10001021": {
+            "info": "SNIPER DEATHS",
+            "method": "sum",
+            "statId": 12
+        },
+        "0x10001022": {
+            "info": "SNIPER HEADSHOTS",
+            "method": "sum",
+            "statId": 13
+        },
+        "0x10001023": {
+            "info": "SNIPER ROUNDS FIRED",
+            "method": "sum",
+            "statId": 14
+        },
+        "0x10001024": {
+            "info": "SNIPER ROUNDS HIT",
+            "method": "sum",
+            "statId": 15
+        },
+        "0x10001040": {
+            "info": "BKT KILLS",
+            "method": "sum",
+            "statId": 16
+        },
+        "0x10001041": {
+            "info": "BKT DEATHS",
+            "method": "sum",
+            "statId": 17
+        },
+        "0x10001042": {
+            "info": "BKT HEADSHOTS",
+            "method": "sum",
+            "statId": 18
+        },
+        "0x10001043": {
+            "info": "BKT ROUNDS FIRED",
+            "method": "sum",
+            "statId": 19
+        },
+        "0x10001044": {
+            "info": "BKT ROUNDS HIT",
+            "method": "sum",
+            "statId": 20
+        },
+        "0x10001050": {
+            "info": "9MM KILLS",
+            "method": "sum",
+            "statId": 21
+        },
+        "0x10001051": {
+            "info": "9MM DEATHS",
+            "method": "sum",
+            "statId": 22
+        },
+        "0x10001052": {
+            "info": "9MM HEADSHOTS",
+            "method": "sum",
+            "statId": 23
+        },
+        "0x10001053": {
+            "info": "9MM ROUNDS FIRED",
+            "method": "sum",
+            "statId": 24
+        },
+        "0x10001054": {
+            "info": "9MM ROUNDS HIT",
+            "method": "sum",
+            "statId": 25
+        },
+        "0x10001060": {
+            "info": "45 KILLS",
+            "method": "sum",
+            "statId": 26
+        },
+        "0x10001061": {
+            "info": "45 DEATHS",
+            "method": "sum",
+            "statId": 27
+        },
+        "0x10001062": {
+            "info": "45 HEADSHOTS",
+            "method": "sum",
+            "statId": 28
+        },
+        "0x10001063": {
+            "info": "45 ROUNDS FIRED",
+            "method": "sum",
+            "statId": 29
+        },
+        "0x10001064": {
+            "info": "45 ROUNDS HIT",
+            "method": "sum",
+            "statId": 30
+        },
+        "0x10001070": {
+            "info": "REVOLVER KILLS",
+            "method": "sum",
+            "statId": 31
+        },
+        "0x10001071": {
+            "info": "REVOLVER DEATHS",
+            "method": "sum",
+            "statId": 32
+        },
+        "0x10001072": {
+            "info": "REVOLVER HEADSHOTS",
+            "method": "sum",
+            "statId": 33
+        },
+        "0x10001073": {
+            "info": "REVOLVER ROUNDS FIRED",
+            "method": "sum",
+            "statId": 34
+        },
+        "0x10001074": {
+            "info": "REVOLVER ROUNDS HIT",
+            "method": "sum",
+            "statId": 35
+        },
+        "0x10001080": {
+            "info": "FRAGS THROWN",
+            "method": "sum",
+            "statId": 36
+        },
+        "0x10001081": {
+            "info": "FRAG KILLS",
+            "method": "sum",
+            "statId": 37
+        },
+        "0x10001082": {
+            "info": "EMP THROWN",
+            "method": "sum",
+            "statId": 38
+        },
+        "0x10001083": {
+            "info": "EMP KILLS",
+            "method": "sum",
+            "statId": 39
+        },
+        "0x10001084": {
+            "info": "DIGI THROWN",
+            "method": "sum",
+            "statId": 40
+        },
+        "0x10001085": {
+            "info": "DIGI KILLS",
+            "method": "sum",
+            "statId": 41
+        },
+        "0x10001086": {
+            "info": "PROXIMITY THROWN",
+            "method": "sum",
+            "statId": 42
+        },
+        "0x10001087": {
+            "info": "PROXIMITY KILLS",
+            "method": "sum",
+            "statId": 43
+        },
+        "0x10001088": {
+            "info": "MELEE KILLS",
+            "method": "sum",
+            "statId": 44
+        },
+        "0x10001089": {
+            "info": "MELEE ATTEMPTS",
+            "method": "sum",
+            "statId": 45
+        },
+        "0x10001030": {
+            "info": "SHOTGUN KILLS",
+            "method": "sum",
+            "statId": 46
+        },
+        "0x10001031": {
+            "info": "SHOTGUN DEATHS",
+            "method": "sum",
+            "statId": 47
+        },
+        "0x10001032": {
+            "info": "SHOTGUN HEADSHOTS",
+            "method": "sum",
+            "statId": 48
+        },
+        "0x10001033": {
+            "info": "SHOTGUN ROUNDS FIRED",
+            "method": "sum",
+            "statId": 49
+        },
+        "0x10001034": {
+            "info": "SHOTGUN ROUNDS HIT",
+            "method": "sum",
+            "statId": 50
+        }
+    }
+}

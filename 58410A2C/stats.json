@@ -1,0 +1,94 @@
+{
+    "properties": {
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x30000003": {
+            "info": "Money",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "KO Count",
+            "method": "last",
+            "statId": 2
+        },
+        "0x20000005": {
+            "info": "Score",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000000A": {
+            "info": "ArcadeItem",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000004": {
+            "info": "KO Count",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Difficult Level",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000006": {
+            "info": "Time",
+            "method": "last",
+            "statId": 4
+        },
+        "0x20000005": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000004": {
+            "info": "KO Count",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Difficult Level",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000006": {
+            "info": "Time",
+            "method": "last",
+            "statId": 4
+        },
+        "0x20000005": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        }
+    }
+}

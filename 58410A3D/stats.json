@@ -1,0 +1,1809 @@
+{
+    "properties": {
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "LifetimeKills",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "LifetimeDeaths",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10000012": {
+            "info": "LifetimeEarnings",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10000011": {
+            "info": "LifetimeWins",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000010": {
+            "info": "BestRounds",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000010": {
+            "info": "BestRounds",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000010": {
+            "info": "BestRounds",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000010": {
+            "info": "BestRounds",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000010": {
+            "info": "BestRounds",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000010": {
+            "info": "BestRounds",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000010": {
+            "info": "BestRounds",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000010": {
+            "info": "BestRounds",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000010": {
+            "info": "BestRounds",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000010": {
+            "info": "BestRounds",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000010": {
+            "info": "BestRounds",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000010": {
+            "info": "BestRounds",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000010": {
+            "info": "BestRounds",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000010": {
+            "info": "BestRounds",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "LifetimeEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000A": {
+            "info": "BestGameEarnings",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000001": {
+            "info": "WeeklyEarnings",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000013": {
+            "info": "WeeklyKills",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "RankOn",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000014": {
+            "info": "WeeklyWins",
+            "method": "sum",
+            "statId": 1
+        }
+    }
+}

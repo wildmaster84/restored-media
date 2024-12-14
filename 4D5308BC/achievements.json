@@ -1,0 +1,2644 @@
+{
+    "Achievements": {
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Erste Hürde",
+                    "en-US": "First Hurdle",
+                    "es-ES": "Primer obstáculo",
+                    "fr-FR": "Premier obstacle",
+                    "it-IT": "Primo ostacolo",
+                    "ja-JP": "最初のハードル",
+                    "ko-KR": "첫 번째 관문",
+                    "pl-PL": "Pierwsze kroki",
+                    "ru-RU": "Первое испытание",
+                    "zh-CHT": "首次考驗"
+                },
+                "description": {
+                    "de-DE": "Sie haben die Agentendiagnose überlebt.",
+                    "en-US": "You survived Agent Diagnostics.",
+                    "es-ES": "Has sobrevivido al entrenamiento.",
+                    "fr-FR": "Programmes d'évaluation pour Agent réussis.",
+                    "it-IT": "Sei sopravvissuto alla diagnostica Agenti.",
+                    "ja-JP": "エージェント診断プログラムに合格した",
+                    "ko-KR": "요원 훈련 과정을 마쳤습니다.",
+                    "pl-PL": "Przetrwano program diagnostyczny dla Agentów.",
+                    "ru-RU": "Вы прошли диагностику агентов.",
+                    "zh-CHT": "你成功通過探員評斷程序。"
+                },
+                "howto": {
+                    "de-DE": "Überleben Sie die Agentendiagnose, um in Pacific City eingesetzt werden zu dürfen.",
+                    "en-US": "Survive Agent Diagnostics and earn deployment into Pacific City.",
+                    "es-ES": "Sobrevive al entrenamiento y consigue entrar en Pacific City.",
+                    "fr-FR": "Survivre aux programmes d'évaluation pour Agent et obtenir votre déploiement à Pacific City.",
+                    "it-IT": "Sopravvivi alla diagnostica Agenti e fatti inviare a Pacific City.",
+                    "ja-JP": "エージェント診断プログラムに合格し、パシフィック シティへと出動する",
+                    "ko-KR": "요원 훈련 과정을 통과하여 퍼시픽 시티에 배치받으십시오.",
+                    "pl-PL": "Przejdź program diagnostyczny dla Agentów i udowodnij, że jesteś gotów wyruszyć do Pacific City.",
+                    "ru-RU": "Пройти диагностику и заработать право десантироваться в Пасифик-Сити.",
+                    "zh-CHT": "設法通過探員評斷程序，並贏得進入太平洋市的許可。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "01.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Verbindung herstellen",
+                    "en-US": "Get Connected",
+                    "es-ES": "Conéctate",
+                    "fr-FR": "Connexion",
+                    "it-IT": "Connettiti",
+                    "ja-JP": "ユニット起動",
+                    "ko-KR": "연결",
+                    "pl-PL": "Nawiązano połączenie",
+                    "ru-RU": "Активация",
+                    "zh-CHT": "連上系統"
+                },
+                "description": {
+                    "de-DE": "Sie haben eine Absorptionseinheit aktiviert.",
+                    "en-US": "You activated an Absorption Unit.",
+                    "es-ES": "Has activado una unidad de absorción.",
+                    "fr-FR": "Une Unité d'absorption activée.",
+                    "it-IT": "Hai attivato un'Unità di Assorbimento.",
+                    "ja-JP": "吸収ユニットを起動した",
+                    "ko-KR": "흡수 장치를 한 개 활성화했습니다.",
+                    "pl-PL": "Uruchomiono Jednostkę absorpcyjną.",
+                    "ru-RU": "Вы активировали блок поглощения.",
+                    "zh-CHT": "你成功啟動 1 個能量波裝置。"
+                },
+                "howto": {
+                    "de-DE": "Finden und aktivieren Sie eine Absorptionseinheit - allein oder mit einem anderen Agenten.",
+                    "en-US": "Locate and activate an Absorption Unit, alone or with another Agent.",
+                    "es-ES": "Ubica y activa una unidad de absorción, solo o con otro agente.",
+                    "fr-FR": "Trouver et activer une Unité d'absorption, seul ou avec un autre Agent.",
+                    "it-IT": "Trova e attiva un'Unità di Assorbimento, da solo o con un altro Agente.",
+                    "ja-JP": "単独または他のエージェントと協力して、吸収ユニットを起動する",
+                    "ko-KR": "흡수 장치를 찾아 활성화하십시오. 혼자 또는 다른 요원과 함께 수행하십시오.",
+                    "pl-PL": "Znajdź i uruchom Jednostkę absorpcyjną - samemu lub z pomocą innego Agenta.",
+                    "ru-RU": "Найти и активировать блок поглощения - в одиночку или с другим агентом.",
+                    "zh-CHT": "獨自一人或與其他探員合作，尋找並啟動 1 個能量波裝置。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "02.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Angeschlossen",
+                    "en-US": "Plugged In",
+                    "es-ES": "Enchufado",
+                    "fr-FR": "Connecté",
+                    "it-IT": "Inserito",
+                    "ja-JP": "プラグ イン",
+                    "ko-KR": "접속",
+                    "pl-PL": "Podłączony",
+                    "ru-RU": "Тотальная активация",
+                    "zh-CHT": "全面連線"
+                },
+                "description": {
+                    "de-DE": "Sie haben alle Absorptionseinheiten in Pacific City aktiviert.",
+                    "en-US": "You activated every Absorption Unit in Pacific City.",
+                    "es-ES": "Has activado todas las unidades de absorción de Pacific City.",
+                    "fr-FR": "Toutes les Unités d'absorption de Pacific City activées.",
+                    "it-IT": "Hai attivato tutte le Unità di Assorbimento di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべての吸収ユニットを起動した",
+                    "ko-KR": "퍼시픽 시티의 모든 흡수 장치를 활성화했습니다.",
+                    "pl-PL": "Uruchomiono wszystkie Jednostki absorpcyjne w Pacific City.",
+                    "ru-RU": "Вы активировали все блоки поглощения в Пасифик-Сити.",
+                    "zh-CHT": "你成功啟動太平洋市內的所有能量波裝置。"
+                },
+                "howto": {
+                    "de-DE": "Aktivieren Sie alle Absorptionseinheiten in Pacific City - allein oder mit einem anderen Agenten.",
+                    "en-US": "Locate and activate every Absorption Unit in Pacific City, alone or with another Agent.",
+                    "es-ES": "Ubica y activa todas las unidades de absorción en Pacific City, solo o con otro agente.",
+                    "fr-FR": "Trouver et activer toutes les Unités d'absorption de Pacific City, seul ou avec un autre Agent.",
+                    "it-IT": "Trova e attiva tutte le Unità di Assorbimento di Pacific City, da solo o con un altro Agente.",
+                    "ja-JP": "単独または他のエージェントと協力して、パシフィック シティ内のすべての吸収ユニットを起動する",
+                    "ko-KR": "퍼시픽 시티의 모든 흡수 장치를 찾아 활성화하십시오. 혼자 또는 다른 요원과 함께 수행하십시오.",
+                    "pl-PL": "Znajdź i uruchom wszystkie Jednostki absorpcyjne - samemu lub z pomocą innego Agenta.",
+                    "ru-RU": "Найти и активировать все блоки поглощения в Пасифик-Сити - в одиночку или с другим агентом.",
+                    "zh-CHT": "獨自一人或與其他探員合作，尋找並啟動太平洋市中的所有能量波裝置。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "03.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Der große Knall",
+                    "en-US": "Big Bang",
+                    "es-ES": "Big Bang",
+                    "fr-FR": "Big Bang",
+                    "it-IT": "Big Bang",
+                    "ja-JP": "ビッグ バン",
+                    "ko-KR": "대폭발",
+                    "pl-PL": "Wielki wybuch",
+                    "ru-RU": "Большой Бум",
+                    "zh-CHT": "大爆炸"
+                },
+                "description": {
+                    "de-DE": "Sie haben erfolgreich eine Strahlenkanone gezündet.",
+                    "en-US": "You successfully detonated a Beacon.",
+                    "es-ES": "Has detonado una torre de luz.",
+                    "fr-FR": "Une Balise déclenchée.",
+                    "it-IT": "Sei riuscito a far detonare un Faro.",
+                    "ja-JP": "ビーコンを起爆した",
+                    "ko-KR": "비콘 하나를 성공적으로 폭파했습니다.",
+                    "pl-PL": "Zdetonowano Latarnię.",
+                    "ru-RU": "Вы успешно запустили маяк.",
+                    "zh-CHT": "你成功觸發 1 個能量球。"
+                },
+                "howto": {
+                    "de-DE": "Überwachen Sie Einsatz und Zündung einer Strahlenkanone - allein oder mit einem anderen Agenten.",
+                    "en-US": "Oversee the deployment and successful detonation of a Beacon, alone or with another Agent.",
+                    "es-ES": "Supervisa la entrega y detonación de una torre de luz, solo o con otro agente.",
+                    "fr-FR": "Organiser le déploiement et la mise à feu d'une Balise, seul ou avec un autre Agent.",
+                    "it-IT": "Organizza il posizionamento e la detonazione di un Faro, da solo o con un altro Agente.",
+                    "ja-JP": "単独または他のエージェントと協力して、ビーコンを設置し、起爆する",
+                    "ko-KR": "비콘을 설치한 뒤 폭파하십시오. 혼자 또는 다른 요원과 함께 수행하십시오.",
+                    "pl-PL": "Doprowadź do rozłożenia i detonacji Latarni - samemu lub z pomocą innego Agenta.",
+                    "ru-RU": "Организовать установку и активацию маяка - в одиночку или с другим агентом.",
+                    "zh-CHT": "獨自一人或與其他探員合作，監督 1 個能量球的部署作業，並成功觸發該能量球。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "04.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "Retter von Hope Springs",
+                    "en-US": "Hope Springs Savior",
+                    "es-ES": "Salvador de Hope Springs",
+                    "fr-FR": "Sauveur de Hope Springs",
+                    "it-IT": "L'eroe di Hope Springs",
+                    "ja-JP": "ホープ スプリングの英雄",
+                    "ko-KR": "호프 스프링스의 구세주",
+                    "pl-PL": "Zbawca Hope Springs",
+                    "ru-RU": "Спаситель Хоуп Стрингз",
+                    "zh-CHT": "荒漠南島救星"
+                },
+                "description": {
+                    "de-DE": "Sie haben jede Strahlenkanone in Hope Springs gezündet.",
+                    "en-US": "You detonated every Beacon in Hope Springs.",
+                    "es-ES": "Has detonado todas las torres de luz de Hope Springs.",
+                    "fr-FR": "Toutes les Balises de Hope Springs déclenchées.",
+                    "it-IT": "Hai detonato tutti i Fari di Hope Springs.",
+                    "ja-JP": "ホープ スプリング内のすべてのビーコンを起爆した",
+                    "ko-KR": "호프 스프링스의 모든 비콘을 폭파했습니다.",
+                    "pl-PL": "Zdetonowano wszystkie Latarnie w Hope Springs.",
+                    "ru-RU": "Вы активировали все маяки в Хоуп Спрингз.",
+                    "zh-CHT": "你成功觸發荒漠南島的所有能量球。"
+                },
+                "howto": {
+                    "de-DE": "Zünden Sie alle Strahlenkanonen in Hope Springs - allein oder mit einem anderen Agenten.",
+                    "en-US": "Detonate every Beacon in Hope Springs, alone or with another Agent.",
+                    "es-ES": "Detona todas las torres de luz de Hope Springs, solo o con otro agente.",
+                    "fr-FR": "Déclencher toutes les Balises de Hope Springs, seul ou avec un autre Agent.",
+                    "it-IT": "Fai detonare tutti i Fari di Hope Springs, da solo o con un altro Agente.",
+                    "ja-JP": "単独または他のエージェントと協力して、ホープ スプリング内のすべてのビーコンを起爆する",
+                    "ko-KR": "호프 스프링스의 모든 비콘을 폭파하십시오. 혼자 또는 다른 요원과 함께 수행하십시오.",
+                    "pl-PL": "Zdetonuj wszystkie Latarnie w Hope Springs - samemu lub z pomocą innego Agenta.",
+                    "ru-RU": "Активировать все маяки Хоуп Спрингз - в одиночку или с другим агентом.",
+                    "zh-CHT": "獨自一人或與其他探員合作，觸發荒漠南島的所有能量球。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "05.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "Retter von Green Bay",
+                    "en-US": "Green Bay Savior",
+                    "es-ES": "Salvador de Green Bay",
+                    "fr-FR": "Sauveur de Green Bay",
+                    "it-IT": "L'eroe di Green Bay",
+                    "ja-JP": "グリーン ベイの英雄",
+                    "ko-KR": "그린 베이의 구세주",
+                    "pl-PL": "Zbawca Green Bay",
+                    "ru-RU": "Спаситель Грин Бэй",
+                    "zh-CHT": "黑灘南島救星"
+                },
+                "description": {
+                    "de-DE": "Sie haben jede Strahlenkanone in Green Bay gezündet.",
+                    "en-US": "You detonated every Beacon in Green Bay.",
+                    "es-ES": "Has detonado todas las torres de luz de Green Bay.",
+                    "fr-FR": "Toutes les Balises de Green Bay déclenchées.",
+                    "it-IT": "Hai detonato tutti i Fari di Green Bay.",
+                    "ja-JP": "グリーン ベイ内のすべてのビーコンを起爆した",
+                    "ko-KR": "그린 베이의 모든 비콘을 폭파했습니다.",
+                    "pl-PL": "Zdetonowano wszystkie Latarnie w Green Bay.",
+                    "ru-RU": "Вы активировали все маяки в Грин Бэй.",
+                    "zh-CHT": "你成功觸發黑灘南島的所有能量球。"
+                },
+                "howto": {
+                    "de-DE": "Zünden Sie alle Strahlenkanonen in Green Bay - allein oder mit einem anderen Agenten.",
+                    "en-US": "Detonate every Beacon in Green Bay, alone or with another Agent.",
+                    "es-ES": "Detona todas las torres de luz de Green Bay, solo o con otro agente.",
+                    "fr-FR": "Déclencher toutes les Balises de Green Bay, seul ou avec un autre Agent.",
+                    "it-IT": "Fai detonare tutti i Fari di Green Bay, da solo o con un altro Agente.",
+                    "ja-JP": "単独または他のエージェントと協力して、グリーン ベイ内のすべてのビーコンを起爆する",
+                    "ko-KR": "그린 베이의 모든 비콘을 폭파하십시오. 혼자 또는 다른 요원과 함께 수행하십시오.",
+                    "pl-PL": "Zdetonuj wszystkie Latarnie w Green Bay - samemu lub z pomocą innego Agenta.",
+                    "ru-RU": "Активировать все маяки Грин Бэй - в одиночку или с другим агентом.",
+                    "zh-CHT": "獨自一人或與其他探員合作，觸發黑灘南島的所有能量球。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "06.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "de-DE": "Retter von Unity Heights",
+                    "en-US": "Unity Heights Savior",
+                    "es-ES": "Salvador de Unity Heights",
+                    "fr-FR": "Sauveur de Unity Heights",
+                    "it-IT": "L'eroe di Unity Heights",
+                    "ja-JP": "ユニティ ハイツの英雄",
+                    "ko-KR": "유니티 하이츠의 구세주",
+                    "pl-PL": "Zbawca Unity Heights",
+                    "ru-RU": "Спаситель Юнити Хайтс",
+                    "zh-CHT": "迴廊救星"
+                },
+                "description": {
+                    "de-DE": "Sie haben alle Strahlenkanonen in Unity Heights gezündet.",
+                    "en-US": "You detonated every Beacon in Unity Heights.",
+                    "es-ES": "Has detonado todas las torres de luz de Unity Heights.",
+                    "fr-FR": "Toutes les Balises d'Unity Heights déclenchées.",
+                    "it-IT": "Hai detonato tutti i Fari di Unity Heights.",
+                    "ja-JP": "ユニティ ハイツ内のすべてのビーコンを起爆した",
+                    "ko-KR": "유니티 하이츠의 모든 비콘을 폭파했습니다.",
+                    "pl-PL": "Zdetonowano wszystkie Latarnie w Unity Heights.",
+                    "ru-RU": "Вы активировали все маяки в Юнити Хайтс.",
+                    "zh-CHT": "你成功觸發迴廊的所有能量球。"
+                },
+                "howto": {
+                    "de-DE": "Zünden Sie alle Strahlenkanonen in Unity Heights - allein oder mit einem anderen Agenten.",
+                    "en-US": "Detonate every Beacon in Unity Heights, alone or with another Agent.",
+                    "es-ES": "Detona todas las torres de luz de Unity Heights, solo o con otro agente.",
+                    "fr-FR": "Déclencher toutes les Balises de Unity Heights, seul ou avec un autre Agent.",
+                    "it-IT": "Fai detonare tutti i Fari di Unity Heights, da solo o con un altro Agente.",
+                    "ja-JP": "単独または他のエージェントと協力して、ユニティ ハイツ内のすべてのビーコンを起爆する",
+                    "ko-KR": "유니티 하이츠의 모든 비콘을 폭파하십시오. 혼자 또는 다른 요원과 함께 수행하십시오.",
+                    "pl-PL": "Zdetonuj wszystkie Latarnie w Unity Heights - samemu lub z pomocą innego Agenta.",
+                    "ru-RU": "Активировать все маяки Юнити Хайтс - в одиночку или с другим агентом.",
+                    "zh-CHT": "獨自一人或與其他探員合作，觸發迴廊的所有能量球。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "07.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Erleuchter",
+                    "en-US": "Light Bringer",
+                    "es-ES": "El portador de la luz",
+                    "fr-FR": "Et la lumière fut",
+                    "it-IT": "Portatore di luce",
+                    "ja-JP": "光をもたらす者",
+                    "ko-KR": "불꽃놀이",
+                    "pl-PL": "Kaganek zagłady",
+                    "ru-RU": "Носитель Света",
+                    "zh-CHT": "光明使者"
+                },
+                "description": {
+                    "de-DE": "Sie haben alle Strahlenkanonen in Pacific City gezündet.",
+                    "en-US": "You detonated every Beacon in Pacific City.",
+                    "es-ES": "Has detonado todas las torres de luz de Pacific City.",
+                    "fr-FR": "Toutes les Balises de Pacific City déclenchées.",
+                    "it-IT": "Hai detonato tutti i Fari di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべてのビーコンを起爆した",
+                    "ko-KR": "퍼시픽 시티의 모든 비콘을 폭파했습니다.",
+                    "pl-PL": "Zdetonowano wszystkie Latarnie w Pacific City.",
+                    "ru-RU": "Вы активировали все маяки в Пасифик-Сити.",
+                    "zh-CHT": "你成功觸發太平洋市的所有能量球。"
+                },
+                "howto": {
+                    "de-DE": "Zünden Sie alle Strahlenkanonen in Pacific City - allein oder mit einem anderen Agenten.",
+                    "en-US": "Detonate every Beacon in Pacific City, alone or with another Agent.",
+                    "es-ES": "Detona todas las torres de luz de Pacific City, solo o con otro agente.",
+                    "fr-FR": "Déclencher toutes les Balises de Pacific City, seul ou avec un autre Agent.",
+                    "it-IT": "Fai detonare tutti i Fari di Pacific City, da solo o con un altro Agente.",
+                    "ja-JP": "単独または他のエージェントと協力して、パシフィック シティ内のすべてのビーコンを起爆する",
+                    "ko-KR": "퍼시픽 시티의 모든 비콘을 폭파하십시오. 혼자 또는 다른 요원과 함께 수행하십시오.",
+                    "pl-PL": "Zdetonuj wszystkie Latarnie w Pacific City - samemu lub z pomocą innego Agenta.",
+                    "ru-RU": "Активировать все маяки Пасифик-Сити - в одиночку или с другим агентом.",
+                    "zh-CHT": "獨自一人或與其他探員合作，觸發太平洋市內的所有能量球。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "de-DE": "Alles unter Kontrolle",
+                    "en-US": "All Under Control",
+                    "es-ES": "Todo bajo control",
+                    "fr-FR": "Tout est sous contrôle",
+                    "it-IT": "Tutto sotto controllo",
+                    "ja-JP": "制圧",
+                    "ko-KR": "접수 완료",
+                    "pl-PL": "Wszystko pod kontrolą",
+                    "ru-RU": "Точка, точка, точка",
+                    "zh-CHT": "全面掌控"
+                },
+                "description": {
+                    "de-DE": "Sie haben eine Cell-Festung wieder unter die Kontrolle der Agency gebracht.",
+                    "en-US": "You brought a Cell Stronghold back under Agency control.",
+                    "es-ES": "Has devuelto el control de una fortaleza de la Célula a La Agencia.",
+                    "fr-FR": "Un repaire de la Cellule reconquis pour l'Agence.",
+                    "it-IT": "Hai restituito all'Agenzia il controllo di un presidio della Cellula.",
+                    "ja-JP": "セルの基地をエージェンシーの支配下に置いた",
+                    "ko-KR": "셀 본거지 한곳의 통제권을 경찰 연합에 넘겼습니다.",
+                    "pl-PL": "Przejęto fortecę Ogniwa na rzecz Agencji.",
+                    "ru-RU": "Вы захватили для Агентства бастион Сети.",
+                    "zh-CHT": "你讓維安總部重新控制 1 個賽爾集團基地。"
+                },
+                "howto": {
+                    "de-DE": "Sichern Sie alle taktischen Punkte in einer Cell-Festung - allein oder mit einem anderen Agenten.",
+                    "en-US": "Secure all Tactical Locations within one Cell stronghold, alone or with another Agent.",
+                    "es-ES": "Asegura todas las posiciones tácticas dentro de una fortaleza de la Célula, solo o con otro agente.",
+                    "fr-FR": "Sécuriser chaque emplacement tactique dans un repaire de la Cellule, seul ou avec un autre Agent.",
+                    "it-IT": "Conquista tutte le posizioni tattiche in un presidio della Cellula, da solo o con un altro Agente.",
+                    "ja-JP": "単独または他のエージェントと協力して、セルの基地内 (任意の 1 か所) にある戦略拠点をすべて制圧する",
+                    "ko-KR": "셀 본거지 한곳의 모든 전술 지점을 확보하십시오. 혼자 또는 다른 요원과 함께 수행하십시오.",
+                    "pl-PL": "Przejmij wszystkie pozycje strategiczne w jednej z fortec Ogniwa - samemu lub z innym Agentem.",
+                    "ru-RU": "Захватить все стратегические точки в одном бастионе Сети - в одиночку или с другим агентом.",
+                    "zh-CHT": "獨自一人或與其他探員合作，佔領 1 個賽爾集團基地內的所有戰術據點。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "Punkt, Punkt, Punkt",
+                    "en-US": "Location, Location, Location",
+                    "es-ES": "Ubicar y reubicar",
+                    "fr-FR": "L'un après l'autre",
+                    "it-IT": "Posizione, posizione, posizione",
+                    "ja-JP": "すべてを支配下に",
+                    "ko-KR": "전술 지점 확보",
+                    "pl-PL": "Liczy się pozycja",
+                    "ru-RU": "Тотальный контроль",
+                    "zh-CHT": "關鍵地點"
+                },
+                "description": {
+                    "de-DE": "Sie haben alle taktischen Punkte in Pacific City unter die Kontrolle der Agency gebracht.",
+                    "en-US": "You brought every Tactical Location in Pacific City under Agency Control.",
+                    "es-ES": "Has recuperado el control de todas las posiciones tácticas de Pacific City.",
+                    "fr-FR": "Tous les emplacements tactiques de Pacific City placés sous le contrôle de l'Agence.",
+                    "it-IT": "Hai riportato sotto il controllo dell'Agenzia tutte le posizioni tattiche di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべての戦略拠点をエージェンシーの支配下に置いた",
+                    "ko-KR": "퍼시픽 시티의 모든 전술 지점을 확보하여 통제권을 경찰 연합에 넘겼습니다.",
+                    "pl-PL": "Przejęto wszystkie pozycje strategiczne w Pacific City na rzecz Agencji.",
+                    "ru-RU": "Вы захватили все стратегические точки в Пасифик-Сити.",
+                    "zh-CHT": "你成功讓太平洋市內的所有戰術據點，重新回到維安總部的控制下。"
+                },
+                "howto": {
+                    "de-DE": "Sichern Sie der Agency alle taktischen Punkte in Pacific City, allein oder mit anderen Agenten.",
+                    "en-US": "Secure every Tactical Location in Pacific City for the Agency, alone or with another Agent.",
+                    "es-ES": "Asegura todas las posiciones tácticas de Pacific City para la Agencia, solo o con otro agente.",
+                    "fr-FR": "Sécuriser chaque emplacement tactique de Pacific City pour l'Agence, seul ou avec un autre Agent.",
+                    "it-IT": "Conquista tutte le posizioni tattiche di Pacific City per l'Agenzia, da solo o con un altro Agente.",
+                    "ja-JP": "単独または他のエージェントと協力して、パシフィック シティ内のすべての戦略拠点を制圧する",
+                    "ko-KR": "퍼시픽 시티의 모든 전술 지점을 확보하십시오. 혼자 또는 다른 요원과 함께 수행하십시오.",
+                    "pl-PL": "Przejmij dla Agencji wszystkie pozycje strategiczne w Pacific City - samemu lub z innym Agentem.",
+                    "ru-RU": "Захватить все стратегические точки в Пасифик-Сити - в одиночку или с другим агентом.",
+                    "zh-CHT": "獨自一人或與其他探員合作，佔領太平洋市內的所有戰術據點。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "10.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "Kammerjäger",
+                    "en-US": "Pest Control",
+                    "es-ES": "Control de plagas",
+                    "fr-FR": "Dératisation",
+                    "it-IT": "Disinfestazione",
+                    "ja-JP": "害虫駆除",
+                    "ko-KR": "괴물 소굴 습격",
+                    "pl-PL": "Zwalczanie szkodników",
+                    "ru-RU": "Чистильщик",
+                    "zh-CHT": "災害控制"
+                },
+                "description": {
+                    "de-DE": "Sie haben eine Freak-Bresche geschlossen.",
+                    "en-US": "You closed a Freak Breach.",
+                    "es-ES": "Has cerrado una grieta de Monstruos.",
+                    "fr-FR": "Une brèche Freak scellée.",
+                    "it-IT": "Hai chiuso una breccia dei Freak.",
+                    "ja-JP": "フリーク ホールを封鎖した",
+                    "ko-KR": "괴물 소굴 한 곳을 봉쇄했습니다.",
+                    "pl-PL": "Zamknięto wyłom Pokrak.",
+                    "ru-RU": "Вы закрыли брешь уродов.",
+                    "zh-CHT": "你成功關閉畸怪裂口。"
+                },
+                "howto": {
+                    "de-DE": "Säubern und schließen Sie eine Freak-Bresche - allein oder mit einem anderen Agenten.",
+                    "en-US": "Clear out and close down a Freak Breach, alone or with another Agent.",
+                    "es-ES": "Limpia y cierra una grieta de Monstruos, solo o con otro agente.",
+                    "fr-FR": "Nettoyer et sceller une brèche Freak, seul ou avec un autre Agent.",
+                    "it-IT": "Sgombra e chiudi una breccia dei Freak, da solo o con un altro Agente.",
+                    "ja-JP": "単独または他のエージェントと協力して、フリーク ホールを一掃し、封鎖する",
+                    "ko-KR": "괴물 소굴 한 곳을 봉쇄하십시오. 혼자 또는 다른 요원과 함께 수행하십시오.",
+                    "pl-PL": "Oczyść i zamknij wyłom Pokrak - samemu lub z pomocą innego Agenta.",
+                    "ru-RU": "Зачистить от уродов и закрыть одну брешь - в одиночку или с другим агентом.",
+                    "zh-CHT": "獨自一人或與其他探員合作，清除並關閉 1 個畸怪巢穴。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Schließer",
+                    "en-US": "The Closer",
+                    "es-ES": "El cerrajero",
+                    "fr-FR": "Bouche-trous",
+                    "it-IT": "Sigillatore",
+                    "ja-JP": "完全封鎖",
+                    "ko-KR": "괴물 소탕",
+                    "pl-PL": "Sprawa zamknięta",
+                    "ru-RU": "Глобальная дезинфекция",
+                    "zh-CHT": "全面關閉"
+                },
+                "description": {
+                    "de-DE": "Sie haben alle Freak-Breschen in Pacific City geschlossen.",
+                    "en-US": "You closed every Freak Breach in Pacific City.",
+                    "es-ES": "Has cerrado todas las grietas de Monstruos de Pacific City.",
+                    "fr-FR": "Toutes les brèches Freaks de Pacific City scellées.",
+                    "it-IT": "Hai chiuso tutte le brecce dei Freak di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべてのフリーク ホールを封鎖した",
+                    "ko-KR": "퍼시픽 시티의 모든 괴물 소굴을 봉쇄했습니다.",
+                    "pl-PL": "Zamknięto wszystkie wyłomy Pokrak w Pacific City.",
+                    "ru-RU": "Вы закрыли все бреши уродов в Пасифик-Сити.",
+                    "zh-CHT": "你成功關閉太平洋市內的所有畸怪裂口。"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie alle Freak-Breschen in Pacific City - allein oder mit einem anderen Agenten.",
+                    "en-US": "Close down every Freak Breach in Pacific City, alone or with another Agent.",
+                    "es-ES": "Cierra todas las grietas de Monstruos de Pacific City, solo o con otro agente.",
+                    "fr-FR": "Sceller toutes les brèches Freaks de Pacific City, seul ou avec un autre Agent.",
+                    "it-IT": "Chiudi tutte le brecce Freak di Pacific City, da solo o con un altro Agente.",
+                    "ja-JP": "単独または他のエージェントと協力して、パシフィック シティ内のすべてのフリーク ホールを封鎖する",
+                    "ko-KR": "퍼시픽 시티의 모든 괴물 소굴을 봉쇄하십시오. 혼자 또는 다른 요원과 함께 수행하십시오.",
+                    "pl-PL": "Zamknij wszystkie wyłomy Pokrak w Pacific City - samemu lub z pomocą innego Agenta.",
+                    "ru-RU": "Зачистить от уродов и закрыть все бреши Пасифик-Сити - в одиночку или с другим агентом.",
+                    "zh-CHT": "獨自一人或與其他探員合作，關閉太平洋市內的所有畸怪巢穴。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "12.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "de-DE": "Turm-Power",
+                    "en-US": "Tower Power",
+                    "es-ES": "El poder de la torre",
+                    "fr-FR": "Tous à la Tour",
+                    "it-IT": "Potere alla Torre",
+                    "ja-JP": "タワーの力",
+                    "ko-KR": "타워 파워",
+                    "pl-PL": "Na szczycie",
+                    "ru-RU": "Власть Башни",
+                    "zh-CHT": "高塔威力"
+                },
+                "description": {
+                    "de-DE": "Sie haben die Agency-Turm-Strahlenkanone gezündet.",
+                    "en-US": "You detonated the Agency Tower Beacon.",
+                    "es-ES": "Has detonado la torre de luz de la Torre de La Agencia.",
+                    "fr-FR": "Balise de la Tour de l'Agence déclenchée.",
+                    "it-IT": "Hai detonato il Faro della Torre dell'Agenzia.",
+                    "ja-JP": "エージェンシー タワーのビーコンを起爆した",
+                    "ko-KR": "경찰 연합 타워의 비콘을 폭파했습니다.",
+                    "pl-PL": "Zdetonowano Latarnię w siedzibie Agencji.",
+                    "ru-RU": "Вы активировали маяк в башне Агентства.",
+                    "zh-CHT": "你成功觸發維安總部高塔能量球。"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie die finale Phase von Projekt Sunburst am Agency-Turm ab - allein oder mit anderen.",
+                    "en-US": "Complete the final phase of Project Sunburst at Agency Tower, alone or with another Agent.",
+                    "es-ES": "Completa la fase final del proyecto Sunburst en la Torre de La Agencia, solo o con otro agente.",
+                    "fr-FR": "Terminer la phase finale du Projet Sunburst à la Tour de l'Agence, seul ou avec un autre Agent.",
+                    "it-IT": "Completa la fine del progetto Sunburst presso la Torre dell'Agenzia, da solo o con un altro Agente.",
+                    "ja-JP": "単独または他のエージェントと協力して、エージェンシー タワーで、サンバースト計画の最終工程を実行する",
+                    "ko-KR": "경찰 연합 타워에서 선버스트 작전의 최종 단계를 완료하십시오. 혼자 또는 다른 요원과 함께 수행하십시오.",
+                    "pl-PL": "Uruchom ostatnie ogniwo Promieni Obronnych w siedzibie Agencji - samemu lub z pomocą innego Agenta.",
+                    "ru-RU": "Завершить проект \"Протуберанец\" в башне Агентства - в одиночку или с другим агентом.",
+                    "zh-CHT": "獨自一人或與其他探員合作，在維安總部高塔完成烈日計畫的最終階段任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "13.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "Bücherwurm",
+                    "en-US": "Tellin' Stories",
+                    "es-ES": "Cuentacuentos",
+                    "fr-FR": "Cher journal",
+                    "it-IT": "Cantastorie",
+                    "ja-JP": "証言",
+                    "ko-KR": "음성 일지",
+                    "pl-PL": "Opowiastki",
+                    "ru-RU": "Небылицы",
+                    "zh-CHT": "說故事時間"
+                },
+                "description": {
+                    "de-DE": "Sie haben sich ein Audio-Log angehört.",
+                    "en-US": "You listened to an Audio Log.",
+                    "es-ES": "Has escuchado un registro sonoro.",
+                    "fr-FR": "Un Journal audio écouté.",
+                    "it-IT": "Hai ascoltato un registro audio.",
+                    "ja-JP": "オーディオ ログを聞いた",
+                    "ko-KR": "음성 일지를 하나 들었습니다.",
+                    "pl-PL": "Przesłuchano notatkę dźwiękową.",
+                    "ru-RU": "Вы прослушали аудиозапись.",
+                    "zh-CHT": "你聆聽了 1 則語音記錄。"
+                },
+                "howto": {
+                    "de-DE": "Sammeln Sie ein Audio-Log ein und hören Sie es sich an.",
+                    "en-US": "Collect and listen to an Audio Log.",
+                    "es-ES": "Recoge y escucha un registro sonoro.",
+                    "fr-FR": "Trouver et écouter un Journal audio.",
+                    "it-IT": "Raccogli e ascolta un registro audio.",
+                    "ja-JP": "オーディオ ログを入手して聞く",
+                    "ko-KR": "음성 일지 파일을 하나 찾아 들으십시오.",
+                    "pl-PL": "Znajdź i przesłuchaj notatkę dźwiękową.",
+                    "ru-RU": "Найти и прослушать аудиозапись.",
+                    "zh-CHT": "收集並聆聽 1 個語音記錄。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "14.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "Bücher geschlossen",
+                    "en-US": "Closed Book",
+                    "es-ES": "Libro cerrado",
+                    "fr-FR": "Chapitre clos",
+                    "it-IT": "Libro chiuso",
+                    "ja-JP": "隠されたストーリー",
+                    "ko-KR": "비밀",
+                    "pl-PL": "Od deski do deski",
+                    "ru-RU": "В курсе событий",
+                    "zh-CHT": "故事終章"
+                },
+                "description": {
+                    "de-DE": "Sie haben sich jedes verfügbare Audio-Log angehört.",
+                    "en-US": "You listened to every available Audio Log.",
+                    "es-ES": "Has escuchado todos los registros sonoros disponibles.",
+                    "fr-FR": "Tous les Journaux audio écoutés.",
+                    "it-IT": "Hai ascoltato tutti i registri audio disponibili.",
+                    "ja-JP": "すべてのオーディオ ログを聞いた",
+                    "ko-KR": "퍼시픽 시티의 모든 음성 일지를 들었습니다.",
+                    "pl-PL": "Przesłuchano każdą notatkę dźwiękową.",
+                    "ru-RU": "Вы прослушали все доступные аудиозаписи.",
+                    "zh-CHT": "你聆聽了每則語音記錄。"
+                },
+                "howto": {
+                    "de-DE": "Sammeln Sie alle Audio-Logs in Pacific City ein und hören Sie sich diese an.",
+                    "en-US": "Collect and listen to every Audio Log in Pacific City.",
+                    "es-ES": "Recoge y escucha todos los registros sonoros de Pacific City.",
+                    "fr-FR": "Trouver et écouter tous les Journaux audio de Pacific City.",
+                    "it-IT": "Raccogli e ascolta tutti i registri audio di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のオーディオ ログをすべて収集し、聞く",
+                    "ko-KR": "퍼시픽 시티의 모든 음성 일지를 찾아 들으십시오.",
+                    "pl-PL": "Znajdź i przesłuchaj wszystkie notatki dźwiękowe w Pacific City.",
+                    "ru-RU": "Найти и прослушать все аудиозаписи в Пасифик-Сити.",
+                    "zh-CHT": "收集並聆聽太平洋市內的所有語音記錄。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "15.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Wer suchet, der findet",
+                    "en-US": "In Plain Sight",
+                    "es-ES": "A simple vista",
+                    "fr-FR": "Devant vos yeux",
+                    "it-IT": "Visibile",
+                    "ja-JP": "ありふれた風景の中に",
+                    "ko-KR": "숨겨진 오브",
+                    "pl-PL": "Na wierzchu",
+                    "ru-RU": "На видном месте",
+                    "zh-CHT": "就在眼前"
+                },
+                "description": {
+                    "de-DE": "Sie haben eine versteckte Kugel eingesammelt.",
+                    "en-US": "You collected a Hidden Orb.",
+                    "es-ES": "Has recogido un orbe oculto.",
+                    "fr-FR": "Un Orbe caché attrapé.",
+                    "it-IT": "Hai raccolto una sfera nascosta.",
+                    "ja-JP": "シークレット オーブを手に入れた",
+                    "ko-KR": "숨겨진 오브를 획득했습니다.",
+                    "pl-PL": "Zebrano ukrytą kulę.",
+                    "ru-RU": "Вы нашли спрятанную сферу.",
+                    "zh-CHT": "你成功收集 1 個隱藏球。"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie eine versteckte Kugel und sammeln Sie sie ein.",
+                    "en-US": "Find and collect a Hidden Orb.",
+                    "es-ES": "Encuentra y recoge un orbe oculto.",
+                    "fr-FR": "Trouver et attraper un Orbe caché.",
+                    "it-IT": "Trova e raccogli una sfera nascosta.",
+                    "ja-JP": "シークレット オーブを手に入れる",
+                    "ko-KR": "숨겨진 오브를 한 개 획득하십시오.",
+                    "pl-PL": "Znajdź i zbierz ukrytą kulę.",
+                    "ru-RU": "Найти и подобрать спрятанную сферу.",
+                    "zh-CHT": "尋找並收集 1 個隱藏球。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "16.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "Sechster Sinn",
+                    "en-US": "Sixth Sense",
+                    "es-ES": "Sexto sentido",
+                    "fr-FR": "Sixième sens",
+                    "it-IT": "Sesto senso",
+                    "ja-JP": "第六感",
+                    "ko-KR": "식스 센스",
+                    "pl-PL": "Szósty zmysł",
+                    "ru-RU": "Шестое чувство",
+                    "zh-CHT": "第六感"
+                },
+                "description": {
+                    "de-DE": "Sie haben alle versteckten Kugeln in Pacific City eingesammelt.",
+                    "en-US": "You collected every Hidden Orb in Pacific City.",
+                    "es-ES": "Has recogido todos los orbes ocultos de Pacific City.",
+                    "fr-FR": "Tous les Orbes cachés de Pacific City attrapés.",
+                    "it-IT": "Hai raccolto tutte le sfere nascoste di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべてのシークレット オーブを手に入れた",
+                    "ko-KR": "퍼시픽 시티에 숨겨진 오브를 모두 획득했습니다.",
+                    "pl-PL": "Zebrano wszystkie ukryte kule w Pacific City.",
+                    "ru-RU": "Вы собрали все спрятанные сферы в Пасифик-Сити.",
+                    "zh-CHT": "你成功收集太平洋市內的所有隱藏球。"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie alle versteckten Kugeln in Pacific City und sammeln Sie sie ein.",
+                    "en-US": "Find and collect every Hidden Orb in Pacific City.",
+                    "es-ES": "Encuentra y recoge todos los orbes ocultos en Pacific City.",
+                    "fr-FR": "Trouver et attraper tous les Orbes cachés de Pacific City.",
+                    "it-IT": "Trova e raccogli tutte le sfere nascoste di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべてのシークレット オーブを手に入れる",
+                    "ko-KR": "퍼시픽 시티에 숨겨진 오브를 모두 획득하십시오.",
+                    "pl-PL": "Znajdź i zbierz wszystkie ukryte kule w Pacific City.",
+                    "ru-RU": "Найти и подобрать все спрятанные сферы в Пасифик-Сити.",
+                    "zh-CHT": "尋找並收集太平洋市內的所有隱藏球。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "17.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "Erste Leitersprosse",
+                    "en-US": "First Rung of the Ladder",
+                    "es-ES": "Primer peldaño",
+                    "fr-FR": "Chaton",
+                    "it-IT": "Il primo piolo della scala",
+                    "ja-JP": "初めの一歩",
+                    "ko-KR": "첫 번째 계단",
+                    "pl-PL": "Pierwszy szczebel",
+                    "ru-RU": "Без страховки",
+                    "zh-CHT": "第一步"
+                },
+                "description": {
+                    "de-DE": "Sie haben eine Flinkheitskugel eingesammelt.",
+                    "en-US": "You collected an Agility Orb.",
+                    "es-ES": "Has recogido un orbe de agilidad.",
+                    "fr-FR": "Un Orbe d'agilité attrapé.",
+                    "it-IT": "Hai raccolto una sfera agilità.",
+                    "ja-JP": "アジリティ オーブを手に入れた",
+                    "ko-KR": "이동 능력 오브를 한 개 획득했습니다.",
+                    "pl-PL": "Zebrano kulę zwinności.",
+                    "ru-RU": "Вы нашли сферу ловкости.",
+                    "zh-CHT": "你成功收集 1 個敏捷球。"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie eine Flinkheitskugel und sammeln Sie sie ein",
+                    "en-US": "Find and collect an Agility Orb.",
+                    "es-ES": "Encuentra y recoge un orbe de agilidad.",
+                    "fr-FR": "Trouver et attraper un Orbe d'agilité.",
+                    "it-IT": "Trova e raccogli una sfera agilità.",
+                    "ja-JP": "アジリティ オーブを手に入れる",
+                    "ko-KR": "이동 능력 오브를 한 개 획득하십시오.",
+                    "pl-PL": "Znajdź i zbierz kulę zwinności.",
+                    "ru-RU": "Найти и подобрать сферу ловкости.",
+                    "zh-CHT": "尋找並收集 1 個敏捷球。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "18.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "König der Welt",
+                    "en-US": "King of the World",
+                    "es-ES": "Rey del mundo",
+                    "fr-FR": "Roi des félins",
+                    "it-IT": "Capo del mondo",
+                    "ja-JP": "世界の王者",
+                    "ko-KR": "세상의 왕",
+                    "pl-PL": "Władca świata",
+                    "ru-RU": "Тарзан",
+                    "zh-CHT": "世界之王"
+                },
+                "description": {
+                    "de-DE": "Sie haben alle Flinkheitskugeln in Pacific City eingesammelt.",
+                    "en-US": "You collected every Agility Orb in Pacific City.",
+                    "es-ES": "Has recogido todos los orbes de agilidad de Pacific City.",
+                    "fr-FR": "Tous les Orbes d'agilité de Pacific City attrapés.",
+                    "it-IT": "Hai raccolto tutte le sfere agilità di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべてのアジリティ オーブを手に入れた",
+                    "ko-KR": "퍼시픽 시티의 모든 이동 능력 오브를 획득했습니다.",
+                    "pl-PL": "Zebrano wszystkie kule zwinności w Pacific City.",
+                    "ru-RU": "Вы собрали все сферы ловкости в Пасифик-Сити.",
+                    "zh-CHT": "你成功收集太平洋市內的所有敏捷球。"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie alle Flinkheitskugeln in Pacific City und sammeln Sie sie ein.",
+                    "en-US": "Find and collect every Agility Orb in Pacific City.",
+                    "es-ES": "Encuentra y recoge todos los orbes de agilidad en Pacific City.",
+                    "fr-FR": "Trouver et attraper tous les Orbes d'agilité.",
+                    "it-IT": "Trova e raccogli tutte le sfere agilità di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべてのアジリティ オーブを手に入れる",
+                    "ko-KR": "퍼시픽 시티의 모든 이동 능력 오브를 획득하십시오.",
+                    "pl-PL": "Znajdź i zbierz wszystkie kule zwinności w Pacific City.",
+                    "ru-RU": "Собрать все сферы ловкости в Пасифик-Сити.",
+                    "zh-CHT": "尋找並收集太平洋市內的所有敏捷球。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "19.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "Ins Netz gegangen",
+                    "en-US": "In the Net",
+                    "es-ES": "En la red",
+                    "fr-FR": "Dans le sac",
+                    "it-IT": "In trappola",
+                    "ja-JP": "捕獲",
+                    "ko-KR": "움직이는 오브",
+                    "pl-PL": "Dały się złapać",
+                    "ru-RU": "На лету",
+                    "zh-CHT": "網中之魚"
+                },
+                "description": {
+                    "de-DE": "Sie haben eine Überläuferkugel gefangen.",
+                    "en-US": "You caught a Renegade Orb.",
+                    "es-ES": "Has cazado un orbe renegado.",
+                    "fr-FR": "Un Orbe instable attrapé.",
+                    "it-IT": "Hai raccolto una sfera ribelle.",
+                    "ja-JP": "高速オーブを手に入れた",
+                    "ko-KR": "무빙 오브를 한 개 획득했습니다.",
+                    "pl-PL": "Złapano uciekającą kulę.",
+                    "ru-RU": "Вы поймали ренегат-сферу.",
+                    "zh-CHT": "你成功抓到 1 個躍動球。"
+                },
+                "howto": {
+                    "de-DE": "Fangen Sie eine Flinkheits- oder eine Fahrkunst-Überläuferkugel.",
+                    "en-US": "Catch an Agility Renegade Orb or Driving Renegade Orb.",
+                    "es-ES": "Caza un orbe de agilidad renegado o un orbe de conducción renegado.",
+                    "fr-FR": "Attraper un Orbe instable d'agilité ou un Orbe instable de pilotage.",
+                    "it-IT": "Prendi una sfera agilità ribelle o una sfera guida ribelle.",
+                    "ja-JP": "高速アジリティ オーブまたは高速ドライブ オーブを手に入れる",
+                    "ko-KR": "이동 능력 무빙 오브 또는 운전 기술 무빙 오브를 한 개 획득하십시오.",
+                    "pl-PL": "Złap uciekającą kulę zwinności lub uciekającą kulę prowadzenia.",
+                    "ru-RU": "Поймать ренегат-сферу ловкости или вождения.",
+                    "zh-CHT": "抓到 1 個躍動敏捷球或躍動駕車球。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "20.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Überläufer",
+                    "en-US": "Renegade Runner",
+                    "es-ES": "Corredor renegado",
+                    "fr-FR": "Agile un jour tu seras",
+                    "it-IT": "Corridore ribelle",
+                    "ja-JP": "高速ランナー",
+                    "ko-KR": "도망치는 이동 능력 오브",
+                    "pl-PL": "Bieg po zdrowie",
+                    "ru-RU": "Ренегат-бегун",
+                    "zh-CHT": "躍動強者"
+                },
+                "description": {
+                    "de-DE": "Sie haben alle Flinkheits-Überläuferkugeln in Pacific City eingesammelt.",
+                    "en-US": "You collected every Renegade Agility Orb in Pacific City.",
+                    "es-ES": "Has recogido todos los orbes de agilidad renegados en Pacific City.",
+                    "fr-FR": "Tous les Orbes instables d'agilité de Pacific City attrapés.",
+                    "it-IT": "Hai raccolto tutte le sfere agilità ribelli di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべての高速アジリティ オーブを手に入れた",
+                    "ko-KR": "퍼시픽 시티의 모든 이동 능력 무빙 오브를 획득했습니다.",
+                    "pl-PL": "Zebrano wszystkie uciekające kule zwinności w Pacific City.",
+                    "ru-RU": "Вы собрали все ренегат-сферы ловкости в Пасифик-Сити.",
+                    "zh-CHT": "你成功收集太平洋市內的所有躍動敏捷球。"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie alle Flinkheits-Überläuferkugeln in Pacific City und sammeln Sie sie ein.",
+                    "en-US": "Find and collect every Renegade Agility Orb in Pacific City.",
+                    "es-ES": "Encuentra y recoge todos los orbes de agilidad renegados en Pacific City.",
+                    "fr-FR": "Trouver et attraper tous les Orbes instables d'agilité de Pacific City.",
+                    "it-IT": "Trova e raccogli tutte le sfere agilità ribelli di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべての高速アジリティ オーブを手に入れる",
+                    "ko-KR": "퍼시픽 시티의 모든 이동 능력 무빙 오브를 획득하십시오.",
+                    "pl-PL": "Znajdź i zbierz wszystkie uciekające kule zwinności w Pacific City.",
+                    "ru-RU": "Собрать все ренегат-сферы ловкости в Пасифик-Сити.",
+                    "zh-CHT": "尋找並收集太平洋市內的所有躍動敏捷球。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "21.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Überfahrer",
+                    "en-US": "Renegade Racer",
+                    "es-ES": "Conductor renegado",
+                    "fr-FR": "Pilote un jour tu seras",
+                    "it-IT": "Pilota ribelle",
+                    "ja-JP": "高速レーサー",
+                    "ko-KR": "도망치는 운전 기술 오브",
+                    "pl-PL": "Jazda bez trzymanki",
+                    "ru-RU": "Ренегат-гонщик",
+                    "zh-CHT": "躍動高手"
+                },
+                "description": {
+                    "de-DE": "Sie haben alle Fahrkunst-Überläuferkugeln in Pacific City eingesammelt.",
+                    "en-US": "You collected every Renegade Driving Orb in Pacific City.",
+                    "es-ES": "Has recogido todos los orbes de conducción renegados en Pacific City.",
+                    "fr-FR": "Tous les Orbes instables de pilotage de Pacific City attrapés.",
+                    "it-IT": "Hai raccolto tutte le sfere guida ribelli di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべての高速ドライブ オーブを手に入れた",
+                    "ko-KR": "퍼시픽 시티의 모든 운전 기술 무빙 오브를 획득했습니다.",
+                    "pl-PL": "Zebrano wszystkie uciekające kule prowadzenia w Pacific City.",
+                    "ru-RU": "Вы собрали все ренегат-сферы вождения в Пасифик-Сити.",
+                    "zh-CHT": "你成功收集太平洋市內的所有躍動駕車球。"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie alle Fahrkunst-Überläuferkugeln in Pacific City und sammeln Sie sie ein.",
+                    "en-US": "Find and collect every Renegade Driving Orb in Pacific City.",
+                    "es-ES": "Encuentra y recoge todos los orbes de conducción renegados en Pacific City.",
+                    "fr-FR": "Trouver et attraper tous les Orbes instables de pilotage de Pacific City.",
+                    "it-IT": "Trova e raccogli tutte le sfere guida ribelli di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべての高速ドライブ オーブを手に入れる",
+                    "ko-KR": "퍼시픽 시티의 모든 운전 기술 무빙 오브를 획득하십시오.",
+                    "pl-PL": "Znajdź i zbierz wszystkie uciekające kule prowadzenia w Pacific City.",
+                    "ru-RU": "Собрать все ренегат-сферы вождения в Пасифик-Сити.",
+                    "zh-CHT": "尋找並收集太平洋市內的所有躍動駕車球。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "22.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Heizer",
+                    "en-US": "Speed Demon",
+                    "es-ES": "Loco de la velocidad",
+                    "fr-FR": "Coureur né",
+                    "it-IT": "Mago della velocità",
+                    "ja-JP": "スピード マニア",
+                    "ko-KR": "스피드광",
+                    "pl-PL": "Demon prędkości",
+                    "ru-RU": "Демон скорости",
+                    "zh-CHT": "速度高手"
+                },
+                "description": {
+                    "de-DE": "Sie haben ein Dach- oder Straßenrennen absolviert.",
+                    "en-US": "You completed a Road or Rooftop Race.",
+                    "es-ES": "Has completado una Carrera en carretera o de azotea.",
+                    "fr-FR": "Une course sur route ou sur toits terminée.",
+                    "it-IT": "Hai completato una gara su strada o sui tetti.",
+                    "ja-JP": "ロード レースまたはルーフトップ レースを完走した",
+                    "ko-KR": "도로 경주 또는 옥상 경주를 하나 완료했습니다.",
+                    "pl-PL": "Ukończono wyścig uliczny lub wyścig po dachach.",
+                    "ru-RU": "Вы победили в уличных гонках или гонках по крышам.",
+                    "zh-CHT": "你成功完成 1 個駕車挑戰賽或屋頂挑戰賽。"
+                },
+                "howto": {
+                    "de-DE": "Absolvieren Sie ein Dach- oder Straßenrennen.",
+                    "en-US": "Complete a Road or Rooftop Race.",
+                    "es-ES": "Completa una Carrera en carretera o de azotea.",
+                    "fr-FR": "Terminer une course sur route ou une course sur les toits.",
+                    "it-IT": "Completa una gara su strada o sui tetti.",
+                    "ja-JP": "ロード レースまたはルーフトップ レースを完走する",
+                    "ko-KR": "도로 경주 또는 옥상 경주를 하나 완료하십시오.",
+                    "pl-PL": "Ukończ wyścig uliczny lub wyścig po dachach.",
+                    "ru-RU": "Выиграть уличные гонки или гонки по крышам.",
+                    "zh-CHT": "完成 1 個駕車挑戰賽或屋頂挑戰賽。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "23.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Straßenraser",
+                    "en-US": "Street Racer",
+                    "es-ES": "Corredor de las calles",
+                    "fr-FR": "Pilote de F1",
+                    "it-IT": "Pilota da corsa",
+                    "ja-JP": "ストリート レーサー",
+                    "ko-KR": "거리의 레이서",
+                    "pl-PL": "Zawodowy kierowca",
+                    "ru-RU": "Уличный гонщик",
+                    "zh-CHT": "街道高手"
+                },
+                "description": {
+                    "de-DE": "Sie haben alle Straßenrennen in Pacific City absolviert.",
+                    "en-US": "You completed every Road Race in Pacific City.",
+                    "es-ES": "Has completado todas las Carreras en carretera en Pacific City.",
+                    "fr-FR": "Toutes les courses sur route de Pacific City terminées.",
+                    "it-IT": "Hai completato tutte le gare su strada di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべてのロード レースを完走した",
+                    "ko-KR": "퍼시픽 시티의 모든 도로 경주를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie wyścigi uliczne w Pacific City.",
+                    "ru-RU": "Вы выиграли все уличные гонки в Пасифик-Сити.",
+                    "zh-CHT": "你成功完成太平洋市內的所有駕車挑戰賽。"
+                },
+                "howto": {
+                    "de-DE": "Absolvieren Sie alle Straßenrennen in Pacific City.",
+                    "en-US": "Complete every Road Race in Pacific City.",
+                    "es-ES": "Completa todas las Carreras en carretera en Pacific City.",
+                    "fr-FR": "Terminer toutes les courses sur route de Pacific City.",
+                    "it-IT": "Completa tutte le gare su strada di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべてのロード レースを完走する",
+                    "ko-KR": "퍼시픽 시티의 모든 도로 경주를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie wyścigi uliczne w Pacific City.",
+                    "ru-RU": "Выиграть все уличные гонки в Пасифик-Сити.",
+                    "zh-CHT": "完成太平洋市內的所有駕車挑戰賽。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "24.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "Dachraser",
+                    "en-US": "Rooftop Racer",
+                    "es-ES": "Corredor de azoteas",
+                    "fr-FR": "Surfeur de cimes",
+                    "it-IT": "Corridore sui tetti",
+                    "ja-JP": "ルーフトップ レーサー",
+                    "ko-KR": "옥상 경주왕",
+                    "pl-PL": "Dachoskoczek",
+                    "ru-RU": "Гонщик по крышам",
+                    "zh-CHT": "屋頂高手"
+                },
+                "description": {
+                    "de-DE": "Sie haben alle Dachrennen in Pacific City absolviert.",
+                    "en-US": "You completed every Rooftop Race in Pacific City.",
+                    "es-ES": "Has completado todas las Carreras de azotea de Pacific City.",
+                    "fr-FR": "Toutes les courses sur les toits de Pacific City terminées.",
+                    "it-IT": "Hai completato tutte le gare sui tetti di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべてのルーフトップ レースを完走した",
+                    "ko-KR": "퍼시픽 시티의 모든 옥상 경주를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie wyścigi po dachach w Pacific City.",
+                    "ru-RU": "Вы выиграли все гонки по крышам в Пасифик-Сити.",
+                    "zh-CHT": "你成功完成太平洋市內的所有屋頂挑戰賽。"
+                },
+                "howto": {
+                    "de-DE": "Absolvieren Sie alle Dachrennen in Pacific City.",
+                    "en-US": "Complete every Rooftop Race in Pacific City.",
+                    "es-ES": "Completa todas las Carreras de azotea en Pacific City.",
+                    "fr-FR": "Terminer toutes les courses sur les toits de Pacific City.",
+                    "it-IT": "Completa tutte le gare su tetti di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべてのルーフトップ レースを完走する",
+                    "ko-KR": "퍼시픽 시티의 모든 옥상 경주를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie wyścigi po dachach w Pacific City.",
+                    "ru-RU": "Выиграть все гонки по крышам в Пасифик-Сити.",
+                    "zh-CHT": "完成太平洋市內的所有屋頂挑戰賽。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "25.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Wingsuit-Raser",
+                    "en-US": "Wingsuit Racer",
+                    "es-ES": "Corredor aéreo",
+                    "fr-FR": "Haute voltige",
+                    "it-IT": "Asso della Tuta Alare",
+                    "ja-JP": "ウィングスーツ レーサー",
+                    "ko-KR": "윙슈트 레이서",
+                    "pl-PL": "Uskrzydlony",
+                    "ru-RU": "Рожденный для полета",
+                    "zh-CHT": "滑翔翼高手"
+                },
+                "description": {
+                    "de-DE": "Sie sind durch alle Wingsuit-Stuntringe in Pacific City geglitten.",
+                    "en-US": "You glided through every Wingsuit Stunt Ring in Pacific City.",
+                    "es-ES": "Has planeado por todos los Anillos de acrobacia de traje de vuelo de Pacific City.",
+                    "fr-FR": "Tous les anneaux de voltige en combinaison aéroportée de Pacific City franchis.",
+                    "it-IT": "Hai volato in tutti i circuiti acrobatici per Tuta Alare di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべてのウィングスーツ スタント リングをくぐった",
+                    "ko-KR": "퍼시픽 시티의 모든 윙슈트 스턴트 링을 통과했습니다.",
+                    "pl-PL": "Przeszybowano przez wszystkie kręgi aerokaskadera w Pacific City.",
+                    "ru-RU": "Вы прошли все кольца аэрокаскадеров в Пасифик-Сити.",
+                    "zh-CHT": "你成功滑翔過太平洋市內的所有滑翔翼特技圈。"
+                },
+                "howto": {
+                    "de-DE": "Gleiten Sie durch alle Wingsuit-Stuntringe in Pacific City.",
+                    "en-US": "Glide through every Wingsuit Stunt Ring in Pacific City.",
+                    "es-ES": "Planea a través de todos los Anillos de acrobacia de traje de vuelo en Pacific City.",
+                    "fr-FR": "Franchir tous les anneaux de voltige en combinaison aéroportée de Pacific City.",
+                    "it-IT": "Vola in tutti i circuiti acrobatici per Tuta Alare di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべてのウィングスーツ スタント リングをくぐる",
+                    "ko-KR": "퍼시픽 시티의 모든 윙슈트 스턴트 링을 통과하십시오.",
+                    "pl-PL": "Przeszybuj przez wszystkie kręgi aerokaskadera w Pacific City.",
+                    "ru-RU": "Пройти все кольца аэрокаскадеров в Пасифик-Сити.",
+                    "zh-CHT": "滑翔過太平洋市內的所有滑翔翼特技圈。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "26.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Stuntman",
+                    "en-US": "Stuntman",
+                    "es-ES": "Acróbata",
+                    "fr-FR": "Cascadeur",
+                    "it-IT": "Stuntman",
+                    "ja-JP": "スタントマン",
+                    "ko-KR": "스턴트맨",
+                    "pl-PL": "Kaskader",
+                    "ru-RU": "Трюкач",
+                    "zh-CHT": "特技高手"
+                },
+                "description": {
+                    "de-DE": "Sie sind mit einem Fahrzeug durch alle Fahrzeug-Stuntringe in Pacific City gesprungen.",
+                    "en-US": "You jumped a vehicle through every Vehicle Stunt Ring in Pacific City.",
+                    "es-ES": "Has saltado en un vehículo por todos los Anillos de acrobacia de Pacific City.",
+                    "fr-FR": "Tous les anneaux de voltige mécanique de Pacific City franchis au volant d'un véhicule.",
+                    "it-IT": "Hai portato un veicolo in tutti i circuiti acrobatici di Pacific City.",
+                    "ja-JP": "車に乗って、パシフィック シティ内のすべてのビークル スタント リングをくぐった",
+                    "ko-KR": "퍼시픽 시티의 모든 차량 스턴트 링을 통과했습니다.",
+                    "pl-PL": "Przeskoczono przez wszystkie kręgi autokaskadera w Pacific City.",
+                    "ru-RU": "Вы прошли все кольца автокаскадеров в Пасифик-Сити.",
+                    "zh-CHT": "你成功駕駛車輛跳過太平洋市內的所有車輛特技圈。"
+                },
+                "howto": {
+                    "de-DE": "Springen Sie mit einem Fahrzeug durch alle Fahrzeug-Stuntringe in Pacific City.",
+                    "en-US": "Jump a vehicle through every Vehicle Stunt Ring in Pacific City.",
+                    "es-ES": "Salta con un vehículo a través de todos los Anillos de acrobacia de vehículos en Pacific City.",
+                    "fr-FR": "Franchir tous les anneaux de voltige mécanique de Pacific City au volant d'un véhicule.",
+                    "it-IT": "Fai saltare un veicolo in tutti i circuiti acrobatici di Pacific City.",
+                    "ja-JP": "車に乗って、パシフィック シティ内のすべてのビークル スタント リングをくぐる",
+                    "ko-KR": "퍼시픽 시티의 모든 차량 스턴트 링을 통과하십시오.",
+                    "pl-PL": "Przeskocz pojazdem przez wszystkie kręgi autokaskadera w Pacific City.",
+                    "ru-RU": "Пройти все кольца автокаскадеров в Пасифик-Сити.",
+                    "zh-CHT": "駕駛車輛跳過太平洋市內的所有車輛特技圈。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "27.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "Online oder Offline",
+                    "en-US": "LIVE and Let LIVE",
+                    "es-ES": "LIVE y más LIVE",
+                    "fr-FR": "Tous en ligne !",
+                    "it-IT": "Online",
+                    "ja-JP": "LIVE 魂",
+                    "ko-KR": "라이브를 라이브로",
+                    "pl-PL": "LIVE is LIVE",
+                    "ru-RU": "LIVE как LIVE",
+                    "zh-CHT": "LIVE 精神永存"
+                },
+                "description": {
+                    "de-DE": "Sie haben alle Onlinekugeln in Pacific City eingesammelt.",
+                    "en-US": "You collected every Online Orb in Pacific City.",
+                    "es-ES": "Has recogido todos los orbes en línea de Pacific City.",
+                    "fr-FR": "Tous les Orbes réseau de Pacific City attrapés.",
+                    "it-IT": "Hai raccolto tutte le sfere online di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべてのオンライン オーブを手に入れた",
+                    "ko-KR": "퍼시픽 시티의 모든 온라인 오브를 획득했습니다.",
+                    "pl-PL": "Zebrano wszystkie kule sieciowe w Pacific City.",
+                    "ru-RU": "Вы собрали все виртосферы в Пасифик-Сити.",
+                    "zh-CHT": "你成功收集太平洋市內的所有 LIVE 球。"
+                },
+                "howto": {
+                    "de-DE": "Sammeln Sie alle Onlinekugeln in Pacific City ein.",
+                    "en-US": "Collect every Online Orb in Pacific City.",
+                    "es-ES": "Recoge todos los orbes en línea en Pacific City.",
+                    "fr-FR": "Attraper tous les Orbes réseau de Pacific City.",
+                    "it-IT": "Raccogli tutte le sfere online di Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべてのオンライン オーブを手に入れる",
+                    "ko-KR": "퍼시픽 시티의 모든 온라인 오브를 획득하십시오.",
+                    "pl-PL": "Zbierz wszystkie kule sieciowe w Pacific City.",
+                    "ru-RU": "Собрать все виртосферы в Пасифик-Сити.",
+                    "zh-CHT": "收集太平洋市內的所有 LIVE 球。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "28.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "de-DE": "Wer ist der Beste?",
+                    "en-US": "Who's the Daddy?",
+                    "es-ES": "¿Quién es tu papi?",
+                    "fr-FR": "C'est qui le plus fort ?",
+                    "it-IT": "Chi è al top?",
+                    "ja-JP": "頂点",
+                    "ko-KR": "최강의 요원",
+                    "pl-PL": "Kto jest mistrzem?",
+                    "ru-RU": "Кто здесь главный?",
+                    "zh-CHT": "超越巔峰"
+                },
+                "description": {
+                    "de-DE": "Sie haben in jeder Fertigkeit Stufe 5 erreicht.",
+                    "en-US": "You reached level 5 on all skills.",
+                    "es-ES": "Has alcanzado el nivel 5 en todas las habilidades.",
+                    "fr-FR": "Niveau 5 obtenu pour chacune des compétences.",
+                    "it-IT": "Hai raggiunto il livello 5 in tutte le abilità.",
+                    "ja-JP": "すべてのスキルがレベル 5 に到達した",
+                    "ko-KR": "모든 기술 레벨이 최고치에 도달했습니다.",
+                    "pl-PL": "Uzyskano 5. poziom we wszystkich umiejętnościach.",
+                    "ru-RU": "Вы развили все навыки до 5 уровня.",
+                    "zh-CHT": "你成功將每項技巧都發展到等級 5。"
+                },
+                "howto": {
+                    "de-DE": "Entwickeln Sie all Ihre Fertigkeiten bis zur maximalen Stufe.",
+                    "en-US": "Develop each of your skills to their maximum levels.",
+                    "es-ES": "Desarrolla todas tus habilidades a sus niveles máximos.",
+                    "fr-FR": "Développer chacune de vos compétences jusqu'à leur niveau maximum.",
+                    "it-IT": "Porta tutte le tue abilità ai massimi livelli.",
+                    "ja-JP": "すべてのスキルを最大限までレベル アップさせる",
+                    "ko-KR": "모든 기술을 최고 레벨까지 향상시키십시오.",
+                    "pl-PL": "Rozwiń wszystkie umiejętności do najwyższego poziomu.",
+                    "ru-RU": "Развить все свои навыки до максимального уровня.",
+                    "zh-CHT": "將每項技巧都發展到極限。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "29.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "de-DE": "König aller Kugeln",
+                    "en-US": "Solid Block of Orbsome",
+                    "es-ES": "Monumento al orbe",
+                    "fr-FR": "Tiens, voilà mes Orbes",
+                    "it-IT": "Sferamania",
+                    "ja-JP": "オーブの神",
+                    "ko-KR": "오브 매니아",
+                    "pl-PL": "Prawdziwy kulomiot",
+                    "ru-RU": "Коллекционер",
+                    "zh-CHT": "光球收藏家"
+                },
+                "description": {
+                    "de-DE": "Sie haben alle sammelbaren Kugeln in Pacific City gefunden.",
+                    "en-US": "You got every collectible Orb in Pacific City.",
+                    "es-ES": "Has recogido todos los orbes de Pacific City.",
+                    "fr-FR": "Tous les Orbes de Pacific City attrapés.",
+                    "it-IT": "Hai raccolto tutte le sfere di Pacific City.",
+                    "ja-JP": "パシフィック シティ内の収集可能なオーブをすべて手に入れた",
+                    "ko-KR": "퍼시픽 시티의 오브를 모두 획득했습니다.",
+                    "pl-PL": "Zebrano wszystkie kule w Pacific City.",
+                    "ru-RU": "Вы собрали все возможные сферы в Пасифик-Сити.",
+                    "zh-CHT": "你成功收集太平洋市內的所有光球。"
+                },
+                "howto": {
+                    "de-DE": "Finden und sammeln Sie alle Flinkheits-, Überläufer-, Online- und versteckte Kugeln in Pacific City.",
+                    "en-US": "Find and collect every Agility, Hidden, Renegade, and Online Orb in Pacific City.",
+                    "es-ES": "Encuentra y recoge todos los orbes de agilidad, ocultos, renegados y en línea de Pacific City.",
+                    "fr-FR": "Trouver et attraper tous les Orbes d'agilité, cachés, instables et réseau de Pacific City.",
+                    "it-IT": "Trova e raccogli tutte le sfere agilità, nascoste, ribelli e online di Pacific City.",
+                    "ja-JP": "パシフィック シティ内の各オーブ (アジリティ、シークレット、高速、オンライン) をすべて手に入れる",
+                    "ko-KR": "퍼시픽 시티의 이동 능력 오브, 숨겨진 오브, 무빙 오브, 온라인 오브를 모두 획득하십시오.",
+                    "pl-PL": "Znajdź i zbierz wszystkie kule zwinności, ukryte, uciekające i sieciowe w Pacific City.",
+                    "ru-RU": "Собрать все сферы в Пасифик-Сити: спрятанные, ловкости, вождения, ренегат- и виртосферы.",
+                    "zh-CHT": "尋找並收集太平洋市內的所有敏捷球、隱藏球、躍動球及 LIVE 球。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "30.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "Tausendsassa",
+                    "en-US": "Jack of all Trades",
+                    "es-ES": "Aprendiz de mucho",
+                    "fr-FR": "Touche-à-tout",
+                    "it-IT": "Tuttofare",
+                    "ja-JP": "多芸多才",
+                    "ko-KR": "만물박사",
+                    "pl-PL": "Wszechstronny",
+                    "ru-RU": "На все руки мастер",
+                    "zh-CHT": "萬事通"
+                },
+                "description": {
+                    "de-DE": "Sie haben von allen Einsatzzieltypen in Pacific City einen abgeschlossen.",
+                    "en-US": "You completed one of every objective type in Pacific City.",
+                    "es-ES": "Has completado un objetivo de cada tipo en Pacific City.",
+                    "fr-FR": "Un objectif de chaque type dans Pacific City rempli.",
+                    "it-IT": "Hai completato un obiettivo di ogni tipo a Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべてのミッションを、それぞれ最低 1 回は完了した",
+                    "ko-KR": "퍼시픽 시티의 모든 종류의 임무를 한가지씩 완료했습니다.",
+                    "pl-PL": "Ukończono po jednym zadaniu każdego typu.",
+                    "ru-RU": "Вы выполнили по одному заданию каждого типа в Пасифик-Сити.",
+                    "zh-CHT": "你成功在太平洋市的各種任務目標類型中，都完成過一次。"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie von jedem Einsatzzieltyp in Pacific City einen ab.",
+                    "en-US": "Complete one of every objective type in Pacific City.",
+                    "es-ES": "Completa un objetivo de cada tipo en Pacific City.",
+                    "fr-FR": "Remplir un objectif de chaque type dans Pacific City.",
+                    "it-IT": "Completa un obiettivo di ogni tipo a Pacific City.",
+                    "ja-JP": "パシフィック シティ内のすべてのミッションを、それぞれ最低 1 回は完了する",
+                    "ko-KR": "퍼시픽 시티의 모든 종류의 임무를 한가지씩 완료하십시오.",
+                    "pl-PL": "Ukończ po jednym zadaniu każdego typu.",
+                    "ru-RU": "Выполнить по одному заданию каждого типа в Пасифик-Сити.",
+                    "zh-CHT": "在太平洋市的各種任務目標類型中，都成功地完成過一次。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "31.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "Schornsteinfeger",
+                    "en-US": "Pebble Dash",
+                    "es-ES": "Salto mortal",
+                    "fr-FR": "Saut de l'ange",
+                    "it-IT": "Lancio nel vuoto",
+                    "ja-JP": "フリースロー",
+                    "ko-KR": "멋진 뜀박질",
+                    "pl-PL": "Skok na główkę",
+                    "ru-RU": "Прыжок в ад",
+                    "zh-CHT": "高空墜落"
+                },
+                "description": {
+                    "de-DE": "Sie haben einen gewaltigen Sprung in eine Kloake überlebt.",
+                    "en-US": "You survived a massive drop into a toilet.",
+                    "es-ES": "Has sobrevivido a una caída bestial en un baño.",
+                    "fr-FR": "Énorme chute dans les toilettes réussie.",
+                    "it-IT": "Sei sopravvissuto a una caduta pazzesca dentro un gabinetto.",
+                    "ja-JP": "大ジャンプに成功し、無事生き延びた",
+                    "ko-KR": "경찰 연합 타워 꼭대기의 점프에서 살아남았습니다.",
+                    "pl-PL": "Przetrwano groźny upadek w szambo.",
+                    "ru-RU": "Вы пережили мега-падение в сортир.",
+                    "zh-CHT": "你從高空墜入馬桶，並成功地活了下來。"
+                },
+                "howto": {
+                    "de-DE": "Springen Sie von der Spitze des Agency-Turms in den Schornstein - und überleben Sie es.",
+                    "en-US": "From the top of full-height Agency Tower, leap into the chimney stack and live to tell the tale.",
+                    "es-ES": "Desde lo alto de la Torre de La Agencia, salta a la chimenea y vive para contarlo.",
+                    "fr-FR": "Du sommet de la Tour de l'Agence, sauter dans la cheminée et survivre pour raconter votre exploit.",
+                    "it-IT": "Gettati nel fumaiolo della Torre dell'Agenzia ad altezza piena e sopravvivi.",
+                    "ja-JP": "エージェンシー タワーの頂上から煙突の中に飛び込み、生還を果たす",
+                    "ko-KR": "경찰 연합 타워 꼭대기에서 굴뚝으로 뛰어내려 살아남으십시오.",
+                    "pl-PL": "Zeskocz ze szczytu siedziby Agencji w komin - i przeżyj.",
+                    "ru-RU": "С самой верхушки отстроенной башни Агентства спрыгнуть в дымовую трубу и выжить.",
+                    "zh-CHT": "從完工的維安總部高塔頂端跳進煙囪裡，而且要設法活下來。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "32.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "de-DE": "Stadtgleiter",
+                    "en-US": "City Glider",
+                    "es-ES": "Planeador de la ciudad",
+                    "fr-FR": "Le tour des îles",
+                    "it-IT": "Volo sulla città",
+                    "ja-JP": "シティ グライダー",
+                    "ko-KR": "도시의 비행사",
+                    "pl-PL": "Szybowiec",
+                    "ru-RU": "Полет над городом",
+                    "zh-CHT": "城市滑翔高手"
+                },
+                "description": {
+                    "de-DE": "Sie sind mit dem Wingsuit über Pacific City geflogen.",
+                    "en-US": "You flew across Pacific City using the Wingsuit.",
+                    "es-ES": "Has volado por Pacific City con el traje de vuelo.",
+                    "fr-FR": "Pacific City survolée avec votre combinaison aéroportée.",
+                    "it-IT": "Hai sorvolato Pacific City utilizzando la Tuta Alare.",
+                    "ja-JP": "ウィングスーツを着てパシフィック シティ中を滑空した",
+                    "ko-KR": "윙슈트를 사용해서 퍼시픽 시티의 모든 섬 위를 비행했습니다.",
+                    "pl-PL": "Przeszybowano przez całe Pacific City na Skrzydłach.",
+                    "ru-RU": "Вы пролетели над Пасифик-Сити в аэрокостюме.",
+                    "zh-CHT": "你成功使用滑翔翼飛越太平洋市。"
+                },
+                "howto": {
+                    "de-DE": "Gleiten Sie mit dem Wingsuit über alle Inseln von Pacific City, ohne den Boden zu berühren.",
+                    "en-US": "Wingsuit glide through the airspace of all islands in Pacific City without touching down.",
+                    "es-ES": "Con el traje de vuelo, planea por cada una de las islas de Pacific City sin aterrizar.",
+                    "fr-FR": "Voler en combinaison aéroportée au-dessus de toutes les îles de Pacific City sans toucher terre.",
+                    "it-IT": "Con la Tuta Alare, attraversa lo spazio aereo di tutte le isole di Pacific City senza atterrare.",
+                    "ja-JP": "パシフィック シティ内にあるすべての島の上空を、ウィングスーツで地面に接触することなく滑空する",
+                    "ko-KR": "윙슈트를 사용해서 한 번도 착지하지 않고 퍼시픽 시티의 모든 섬 위를 비행하십시오.",
+                    "pl-PL": "Przeszybuj za pomocą Skrzydeł nad każdą wyspą z kolei bez lądowania.",
+                    "ru-RU": "Пролететь в аэрокостюме над всеми островами Пасифи-Сити, ни разу не коснувшись земли.",
+                    "zh-CHT": "利用滑翔翼在沒有落地的情況下，滑過太平洋市內的所有島嶼上空。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "33.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "Squad-Stadtgleiter",
+                    "en-US": "Squad City Glider",
+                    "es-ES": "Planeador en equipo",
+                    "fr-FR": "Le tour-opérateur des îles",
+                    "it-IT": "Volo di squadra",
+                    "ja-JP": "シティ グライダー部隊",
+                    "ko-KR": "창공 속으로",
+                    "pl-PL": "Szybowanie synchroniczne",
+                    "ru-RU": "Летучий отряд",
+                    "zh-CHT": "城市滑翔小隊"
+                },
+                "description": {
+                    "de-DE": "Ihr Team aus gleitenden Agenten ist über Pacific City geflogen.",
+                    "en-US": "Your team of gliding Agents flew across Pacific City.",
+                    "es-ES": "Tu equipo de agentes voladores ha sobrevolado Pacific City.",
+                    "fr-FR": "Pacific City survolée avec votre équipe d'Agents.",
+                    "it-IT": "La tua squadra di Agenti volanti ha sorvolato Pacific City.",
+                    "ja-JP": "チームを組んでパシフィック シティ中を滑空した",
+                    "ko-KR": "다른 요원 세 명과 함께 퍼시픽 시티의 모든 섬 위를 비행했습니다.",
+                    "pl-PL": "Drużyna Agentów przeszybowała przez Pacific City.",
+                    "ru-RU": "Ваша команда летучих агентов пролетела над Пасифик-Сити.",
+                    "zh-CHT": "你的滑翔探員團隊成功飛越太平洋市。"
+                },
+                "howto": {
+                    "de-DE": "4 Agenten müssen max. 30 Sek. nach dem Anführer mit Wingsuits über alle Pacific-City-Inseln gleiten.",
+                    "en-US": "4 Agents must wingsuit-glide through the airspace of all city islands within 30 seconds of leader.",
+                    "es-ES": "4 agentes planean a travéz del espacio aereo de cada isla a menos de 30 segundos del líder.",
+                    "fr-FR": "Voler au-dessus de chaque île dans une équipe de 4 Agents, à 30 secondes d'écart max du leader. ",
+                    "it-IT": "4 Agenti devono sorvolare in Tuta Alare le isole di Pacific City, entro 30 sec. dal primo.",
+                    "ja-JP": "4 人一組になり、すべての島の上空をウィングスーツで飛ぶ (先頭から 30 秒以内に飛び終わること)",
+                    "ko-KR": "다른 요원 세 명과 함께 퍼시픽 시티의 모든 섬 위를 윙슈트로 비행하십시오. 첫 번째 요원이 출발하고 나서 30초 이내에 완료해야 합니다.",
+                    "pl-PL": "Przeszybuj czteroosobowym oddziałem nad wszystkimi wyspami w odległości 30 s od dowódcy.",
+                    "ru-RU": "4 агента должны пролететь над всеми островами, отстав от лидера не более, чем на 30 секунд.",
+                    "zh-CHT": "4 位探員利用滑翔翼滑過太平洋市的所有島嶼內上空，而且和領先探員的時間差必須在 30 秒鐘內。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "34.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "Flaschenöffner",
+                    "en-US": "Open up a Can",
+                    "es-ES": "Abrelatas",
+                    "fr-FR": "À votre santé",
+                    "it-IT": "Apri un barattolo",
+                    "ja-JP": "タンク爆破",
+                    "ko-KR": "캔 폭발",
+                    "pl-PL": "Przepełny kanister",
+                    "ru-RU": "Факел",
+                    "zh-CHT": "開罐死神"
+                },
+                "description": {
+                    "de-DE": "Sie haben 5 Gegner mit einer einzigen explodierenden Gasflasche erledigt.",
+                    "en-US": "You killed 5 enemies with a single gas cylinder.",
+                    "es-ES": "Has matado a 5 enemigos con un cilindro de gas.",
+                    "fr-FR": "5 ennemis tués avec une seule bouteille de gaz.",
+                    "it-IT": "Hai ucciso 5 nemici con una sola bombola di gas.",
+                    "ja-JP": "1 つの燃料タンクで 5 人の敵を倒した",
+                    "ko-KR": "가스통 한 개로 적 5명을 죽였습니다.",
+                    "pl-PL": "Zabito pięciu wrogów za pomocą jednego kanistra z benzyną.",
+                    "ru-RU": "Вы убили 5 противников одним выстрелом в бензобак.",
+                    "zh-CHT": "你成功用 1 個瓦斯罐殺死 5 個敵人。"
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie 5 Gegner mit einer einzigen explodierenden Gasflasche.",
+                    "en-US": "Kill 5 enemies with a single gas cylinder.",
+                    "es-ES": "Acaba con 5 enemigos con un solo cilindro de gas.",
+                    "fr-FR": "Tuer 5 ennemis avec une seule bouteille de gaz.",
+                    "it-IT": "Uccidi 5 nemici con una sola bombola di gas.",
+                    "ja-JP": "1 つの燃料タンクで 5 人の敵を倒す",
+                    "ko-KR": "한 개의 가스통을 이용해 적 5명을 죽이십시오.",
+                    "pl-PL": "Zabij pięciu wrogów, wysadzając jeden zbiornik z benzyną.",
+                    "ru-RU": "Убить 5 противников одним попаданием в бензобак.",
+                    "zh-CHT": "用 1 個瓦斯罐殺死 5 個敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "35.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "Fang das Fahrzeug",
+                    "en-US": "Co-op Keepy-Up",
+                    "es-ES": "Mantén la cooperación",
+                    "fr-FR": "Badminton Coop",
+                    "it-IT": "Palleggio in cooperazione",
+                    "ja-JP": "お手玉",
+                    "ko-KR": "패스 패스 패스",
+                    "pl-PL": "Siatkóweczka",
+                    "ru-RU": "Группа жонглеров",
+                    "zh-CHT": "合作傳車"
+                },
+                "description": {
+                    "de-DE": "Sie und andere Agenten haben dreimal ein Fahrzeug mit dem UV-Schrotgewehr in der Luft gehalten.",
+                    "en-US": "You completed 3 Co-op keepy-ups.",
+                    "es-ES": "Has completado 3 maniobras cooperativas.",
+                    "fr-FR": "Partie de Badminton Coop réussie.",
+                    "it-IT": "Hai completato 3 palleggi in cooperazione.",
+                    "ja-JP": "車を 3 回パスし合った",
+                    "ko-KR": "차량 패스를 완료했습니다.",
+                    "pl-PL": "Trzykrotnie odbito pojazd między Agentami.",
+                    "ru-RU": "Вы выполнили тройную переброску.",
+                    "zh-CHT": "你成功完成 3 次合作傳車。"
+                },
+                "howto": {
+                    "de-DE": "Geben Sie ein Fahrzeug mit UV-Schrotgewehren 3x unter Agenten weiter, ohne den Boden zu berühren.",
+                    "en-US": "Pass a vehicle back and forth between Agents 3x using UV shotguns. Vehicle must not hit the ground.",
+                    "es-ES": "Pasa un vehículo entre agentes, 3 veces, usando escopetas UV. No dejes que toque el suelo.",
+                    "fr-FR": "Avec des fusils à pompe UV, passer un véhicule 3 fois entre Agents sans qu'il ne touche le sol.",
+                    "it-IT": "Passa un veicolo tra Agenti 3 volte usando doppiette UV. Il veicolo non deve toccare terra.",
+                    "ja-JP": "UV ショットガンを使い、エージェント同士で車を 3 回パスし合う (車が地面に接触すると無効)",
+                    "ko-KR": "UV 샷건으로 요원들과 함께 차량 한 대를 세 번 패스하십시오. 차량이 바닥에 떨어지면 안 됩니다.",
+                    "pl-PL": "3x przerzuć pojazd między Agentami za pomocą broni ultrafioletowej. Pojazd nie może dotknąć ziemi.",
+                    "ru-RU": "Перебросить машину (не опуская на землю) от одного агента другому 3 раза с помощью УФ-дробовиков.",
+                    "zh-CHT": "用紫外線霰彈槍將 1 輛車在不同探員間來回傳遞 3 次，而且車輛不能落地。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "36.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "de-DE": "Yippee-Kai-Yay",
+                    "en-US": "Yippee-Kai-Yay",
+                    "es-ES": "¡Yupi!",
+                    "fr-FR": "Yippee-Kaï-Yay",
+                    "it-IT": "Yee-ha",
+                    "ja-JP": "突撃",
+                    "ko-KR": "다이하드",
+                    "pl-PL": "Szklana pułapka",
+                    "ru-RU": "Йо-хо-хо",
+                    "zh-CHT": "飛車高手"
+                },
+                "description": {
+                    "de-DE": "Sie sind mit einem Agency-SUV in einen fliegenden Helikopter gesprungen.",
+                    "en-US": "You smashed an Agency SUV into a flying chopper.",
+                    "es-ES": "Has estrellado el todoterreno de La Agencia contra un helicóptero en vuelo.",
+                    "fr-FR": "Un 4x4 de l'Agence écrasé dans un hélicoptère en plein vol.",
+                    "it-IT": "Hai sfondato un elicottero in volo con un SUV dell'Agenzia.",
+                    "ja-JP": "エージェント SUV で飛行中のヘリコプターに突っ込んだ",
+                    "ko-KR": "경찰 연합 SUV를 타고 비행 중인 헬리콥터로 뛰어들었습니다.",
+                    "pl-PL": "Rozbito SUVa Agencji o lecący helikopter.",
+                    "ru-RU": "Вы врезались на суперджипе в летящий вертолет Агентства.",
+                    "zh-CHT": "你成功讓維安總部運動休旅車撞上在空中的直昇機。"
+                },
+                "howto": {
+                    "de-DE": "Fahren Sie mit einem Agency-SUV in einen fliegenden Helikopter.",
+                    "en-US": "Drive an Agency SUV into an airborne helicopter.",
+                    "es-ES": "Estrella el todoterreno de La Agencia contra un helicóptero en vuelo.",
+                    "fr-FR": "Piloter un 4x4 de l'Agence dans un hélicoptère en plein vol.",
+                    "it-IT": "Conduci un SUV dell'Agenzia fino a fargli colpire un elicottero in volo.",
+                    "ja-JP": "エージェント SUV で飛行中のヘリコプターに突っ込む",
+                    "ko-KR": "경찰 연합 SUV를 타고 비행 중인 헬리콥터로 뛰어드십시오.",
+                    "pl-PL": "Wjedź SUVem Agencji w znajdujący się w powietrzu śmigłowiec.",
+                    "ru-RU": "Прыгнуть на суперджипе Агентства и врезаться в летящий вертолет.",
+                    "zh-CHT": "駕駛維安總部運動休旅車，撞上在空中的直昇機。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "37.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "de-DE": "Volltreffer!",
+                    "en-US": "Strike!",
+                    "es-ES": "¡Strike!",
+                    "fr-FR": "Strike !",
+                    "it-IT": "Strike!",
+                    "ja-JP": "ストライク",
+                    "ko-KR": "스트라이크!",
+                    "pl-PL": "Ostry palant",
+                    "ru-RU": "Страйк!",
+                    "zh-CHT": "正中紅心"
+                },
+                "description": {
+                    "de-DE": "Sie haben 25 Freaks durch Werfen von Objekten erledigt.",
+                    "en-US": "You killed 25 Freaks with thrown objects.",
+                    "es-ES": "Has matado a 25 Monstruos con objetos arrojados.",
+                    "fr-FR": "25 Freaks tués avec des objets ou véhicules.",
+                    "it-IT": "Hai ucciso 25 Freak con il lancio di oggetti.",
+                    "ja-JP": "物や車を投げてフリークを 25 体倒した",
+                    "ko-KR": "물건이나 차량을 던져서 괴물 25마리를 처치했습니다.",
+                    "pl-PL": "Zabito 25 Pokrak przy pomocy miotanych przedmiotów.",
+                    "ru-RU": "Вы убили 25 уродов, швыряя в них что попало.",
+                    "zh-CHT": "你成功用投擲物品殺死 25 個畸怪。"
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie 25 Freaks durch Werfen von Objekten oder Fahrzeugen.",
+                    "en-US": "Kill 25 Freaks with thrown objects or vehicles.",
+                    "es-ES": "Mata a 25 Monstruos con objetos o vehículos arrojados.",
+                    "fr-FR": "Tuer 25 Freaks en jetant des objets ou véhicules.",
+                    "it-IT": "Uccidi 25 Freak lanciandogli degli oggetti o dei veicoli.",
+                    "ja-JP": "物や車を投げてフリークを 25 体倒す",
+                    "ko-KR": "물건이나 차량을 던져서 괴물 25마리를 처치하십시오.",
+                    "pl-PL": "Zabij 25 Pokrak rzucając w nie przedmiotami lub pojazdami.",
+                    "ru-RU": "Убить 25 уродов, швыряя в них машины и другие объекты.",
+                    "zh-CHT": "投擲物品或車輛來殺死 25 個畸怪。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "38.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "de-DE": "Siegesrolle",
+                    "en-US": "Victory Roll",
+                    "es-ES": "Rodando hacia la victoria",
+                    "fr-FR": "Tu me fais tourner la tête",
+                    "it-IT": "Tonneau della vittoria",
+                    "ja-JP": "回転技",
+                    "ko-KR": "회전 비행",
+                    "pl-PL": "Niezła beka",
+                    "ru-RU": "Вверх тормашками",
+                    "zh-CHT": "勝利翻滾"
+                },
+                "description": {
+                    "de-DE": "Sie haben einen Gegner mit einer festen Fahrzeugwaffe erledigt, während Sie kopfüber flogen.",
+                    "en-US": "You killed an enemy with a vehicle-mounted turreted weapon while airborne and upside down.",
+                    "es-ES": "Has matado a un enemigo desde la torreta de un vehículo, desde el aire y bocabajo.",
+                    "fr-FR": "Un ennemi tué avec l'arme montée d'un véhicule, en plein vol et à l'envers.",
+                    "it-IT": "Hai ucciso un nemico con un'arma montata su un veicolo, mentre eri in volo e a testa in giù.",
+                    "ja-JP": "空中で逆さまになりながら、車載タレットで敵を倒した",
+                    "ko-KR": "공중에서 거꾸로 비행하며 장착된 무기로 적 한 명을 죽였습니다.",
+                    "pl-PL": "Zabito wroga bronią zamontowaną na pojeździe szybując w powietrzu do góry kołami.",
+                    "ru-RU": "Вы убили врага из турельного орудия, вися в воздухе вверх ногами.",
+                    "zh-CHT": "你成功讓車輛在空中且上下顛倒時，用砲塔武器殺死 1 個敵人！"
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie im Kopfüberflug allein oder mit anderen einen Gegner mit einer festen Fahrzeugwaffe!",
+                    "en-US": "Alone or with another Agent, kill an enemy with a mounted turret while airborne and upside-down!",
+                    "es-ES": "Mata a un enemigo con una torreta montada, desde el aire y bocabajo, solo o con otro agente.",
+                    "fr-FR": "En l'air et à l'envers, tuer un ennemi avec l'arme montée d'un véhicule, seul ou avec un Agent !",
+                    "it-IT": "Da solo o con un altro Agente, uccidi un nemico da una torretta mentre sei in volo e sottosopra!",
+                    "ja-JP": "単独または他のエージェントと協力して、空中で逆さまになりながら、車載タレットで敵を倒す",
+                    "ko-KR": "공중에서 거꾸로 비행하며 장착된 무기로 적 한 명을 죽이십시오. 혼자 또는 다른 요원과 함께 수행하십시오.",
+                    "pl-PL": "Zabij wroga bronią zamontowaną na pojeździe, lecąc do góry kołami (samemu lub z kolegą).",
+                    "ru-RU": "Убить врага из турельного орудия, вися в воздухе вверх ногами - в одиночку или с другим агентом!",
+                    "zh-CHT": "獨自一人或與其他探員合作，讓車輛在空中且上下顛倒時，用砲塔武器殺死 1 個敵人！"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "39.png"
+        },
+        "55": {
+            "text": {
+                "name": {
+                    "de-DE": "Serientäter",
+                    "en-US": "Mosh Pit",
+                    "es-ES": "Masacre",
+                    "fr-FR": "Travail à la chaîne",
+                    "it-IT": "Pogo",
+                    "ja-JP": "モッシュ ピット",
+                    "ko-KR": "격투의 달인",
+                    "pl-PL": "Pogo",
+                    "ru-RU": "Слэм",
+                    "zh-CHT": "近戰高手"
+                },
+                "description": {
+                    "de-DE": "Sie haben 20 Mann-gegen-Mann-Angriffe hintereinander ausgeführt, ohne zu verfehlen",
+                    "en-US": "You chained 20 hand-to-hand attacks without missing.",
+                    "es-ES": "Has encadenado 20 ataques cuerpo a cuerpo sin fallar.",
+                    "fr-FR": "20 attaques corps à corps enchaînées.",
+                    "it-IT": "Hai combinato 20 attacchi corpo a corpo senza sbagliare.",
+                    "ja-JP": "ミスすることなく、近接攻撃を 20 回連続で行った",
+                    "ko-KR": "20연타를 성공했습니다.",
+                    "pl-PL": "Wykonano nieprzerwaną serię 20 trafionych ciosów w walce wręcz.",
+                    "ru-RU": "Вы провели 20 рукопашных атак подряд.",
+                    "zh-CHT": "你成功連續使出 20 次近戰攻擊，而且每次都擊中敵人。"
+                },
+                "howto": {
+                    "de-DE": "Reihen Sie 20 erfolgreiche Angriffe Mann-gegen-Mann aneinander. Zeit zwischen Angriffen < 3 Sek.",
+                    "en-US": "Land 20 successful hand-to-hand attacks in a chain (under 3 seconds between attacks).",
+                    "es-ES": "Completa con éxito 20 ataques cuerpo a cuerpo en cadena. Tienes 3 segundos entre cada ataque.",
+                    "fr-FR": "Enchaîner 20 attaques corps à corps réussies, avec moins de 3 secondes entre les attaques.",
+                    "it-IT": "Sferra una catena di 20 attacchi corpo a corpo con meno di 3 secondi tra un attacco e l'altro.",
+                    "ja-JP": "次の攻撃までの間を 3 秒以上空けずに、20 回連続で近接攻撃を成功させる",
+                    "ko-KR": "20연타 공격에 성공하십시오. 3초 이내에 다음 공격을 성공시켜야 연타로 인정됩니다.",
+                    "pl-PL": "Zadaj 20 skutecznych ciosów w walce wręcz pod rząd, z przerwami między atakami poniżej 3 sekund.",
+                    "ru-RU": "Провести серию из 20 успешных рукопашных атак с перерывом между атаками не более 3 секунд.",
+                    "zh-CHT": "連續使出 20 次成功的近戰攻擊，且每次攻擊時間差必須在 3 秒鐘內。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "40.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "de-DE": "Mini-Meister",
+                    "en-US": "Scarface",
+                    "es-ES": "Scarface",
+                    "fr-FR": "Scarface",
+                    "it-IT": "Scarface",
+                    "ja-JP": "スカーフェイス",
+                    "ko-KR": "영웅본색",
+                    "pl-PL": "Człowiek z blizną",
+                    "ru-RU": "Лицо со шрамом",
+                    "zh-CHT": "疤面煞星"
+                },
+                "description": {
+                    "de-DE": "Sie haben binnen 10 Sekunden 20 Gegner mit der Minigun ausgeschaltet.",
+                    "en-US": "You used the minigun to kill 20 enemies in a 10-second period.",
+                    "es-ES": "Has usado la ametralladora Gatling para matar a 20 enemigos en 10 segundos.",
+                    "fr-FR": "Minigun utilisé pour tuer 20 ennemis en dix secondes.",
+                    "it-IT": "Hai usato la mitraglietta per uccidere 20 nemici in dieci secondi.",
+                    "ja-JP": "タレットを使い、10 秒間で敵を 20 人倒した",
+                    "ko-KR": "10초 동안 포탑 기관총으로 적 킬 수 20을 달성했습니다.",
+                    "pl-PL": "Zabito 20 wrogów w dziesięć sekund przy pomocy działka automatycznego.",
+                    "ru-RU": "Вы убили миниганом 20 противников за 10 секунд.",
+                    "zh-CHT": "你成功在 10 秒內用機槍殺死 20 個敵人。"
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie mit der Minigun binnen 10 Sekunden 20 Gegner.\n\n",
+                    "en-US": "Use the minigun to amass 20 enemy kills in a 10-second period.\n\n",
+                    "es-ES": "Usa la ametralladora Gatling para matar a 20 enemigos en 10 segundos.\n\n",
+                    "fr-FR": "Utiliser le minigun pour tuer 20 ennemis en dix secondes.\n\n",
+                    "it-IT": "Usa la mitraglietta per effettuare 20 uccisioni di nemici in dieci secondi.\n\n",
+                    "ja-JP": "タレットを使い、10 秒間で敵を 20 人倒す",
+                    "ko-KR": "10초 동안 포탑 기관총으로 적 킬 수 20을 달성하십시오.\n\n",
+                    "pl-PL": "Zabij 20 wrogów w ciągu 10 sekund przy pomocy działka automatycznego.\n\n",
+                    "ru-RU": "Из минигана убить 20 врагов за 10 секунд.\n\n",
+                    "zh-CHT": "用機槍在 10 秒殺死 20 個敵人。\n\n"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "41.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "de-DE": "Zero-Faktor",
+                    "en-US": "Zero Factor",
+                    "es-ES": "Factor cero",
+                    "fr-FR": "Écran total",
+                    "it-IT": "Fattore Zero",
+                    "ja-JP": "ゼロ ファクター",
+                    "ko-KR": "괴물 분해",
+                    "pl-PL": "Faktor Zero",
+                    "ru-RU": "Нулевой коэффициент",
+                    "zh-CHT": "光明化身"
+                },
+                "description": {
+                    "de-DE": "Sie haben binnen 10 Sekunden 20 Freaks mit einer UV-Waffe erledigt.",
+                    "en-US": "You used a UV weapon to kill 20 Freaks in a 10-second period.",
+                    "es-ES": "Has usado un arma UV para matar a 20 Monstruos en 10 segundos.",
+                    "fr-FR": "Une arme UV utilisée pour tuer 20 Freaks en dix secondes.",
+                    "it-IT": "Hai usato un'arma UV per uccidere 20 Freak in dieci secondi.",
+                    "ja-JP": "UV 兵器を使って 10 秒間でフリークを 20 体倒した",
+                    "ko-KR": "10초 동안 UV 계열 무기로 괴물 킬 수 20을 달성했습니다.",
+                    "pl-PL": "Zabito 20 pokrak w dziesięć sekund przy pomocy broni ultrafioletowej.",
+                    "ru-RU": "Вы убили 20 уродов с помощью ультрафиолета за 10 секунд.",
+                    "zh-CHT": "你成功用紫外線武器在 10 秒殺死 20 個畸怪。"
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie mit einer UV-Waffe binnen 10 Sekunden 20 Freaks.",
+                    "en-US": "Use a UV weapon to amass 20 Freak kills in a 10-second period.",
+                    "es-ES": "Usa un arma UV para matar 20 Monstruos en menos de 10 segundos.",
+                    "fr-FR": "Utiliser une arme UV pour tuer 20 Freaks en dix secondes.",
+                    "it-IT": "Usa un'arma UV per effettuare 20 uccisioni di Freak in dieci secondi.",
+                    "ja-JP": "UV 兵器を使い、10 秒間でフリークを 20 体倒す",
+                    "ko-KR": "10초 동안 UV 계열 무기로 괴물 킬 수 20을 달성하십시오.",
+                    "pl-PL": "Zabij 20 Pokrak w ciągu 10 sekund przy pomocy broni ultrafioletowej.",
+                    "ru-RU": "С помощью ультрафиолета убить 20 уродов за 10 секунд.",
+                    "zh-CHT": "用紫外線武器在 10 秒殺死 20 個畸怪。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "42.png"
+        },
+        "58": {
+            "text": {
+                "name": {
+                    "de-DE": "Straßenfeger",
+                    "en-US": "Street Sweeper",
+                    "es-ES": "Barrendero",
+                    "fr-FR": "Dérapage contrôlé",
+                    "it-IT": "Netturbino",
+                    "ja-JP": "街の掃除屋",
+                    "ko-KR": "거리의 청소부",
+                    "pl-PL": "Zamiatanie ulic",
+                    "ru-RU": "Смерть за рулем",
+                    "zh-CHT": "清道專家"
+                },
+                "description": {
+                    "de-DE": "Sie haben 5 Gegner mit einem einzigen Power Slide erledigt.",
+                    "en-US": "You killed 5 enemies with a single power slide.",
+                    "es-ES": "Has matado a 5 enemigos con un solo derrape.",
+                    "fr-FR": "5 ennemis tués avec un dérapage.",
+                    "it-IT": "Hai ucciso 5 nemici con un una sola sbandata.",
+                    "ja-JP": "1 回のパワー スライドで敵を 5 人倒した",
+                    "ko-KR": "한 번의 파워 슬라이드로 적 5명을 죽였습니다.",
+                    "pl-PL": "Zdjęto pięciu wrogów jednym driftem.",
+                    "ru-RU": "Вы убили пять противников одним дрифтом.",
+                    "zh-CHT": "你成功用 1 次高速滑移甩尾殺死 5 個敵人。"
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie 5 Gegner mit einem einzigen Power Slide, während Sie in einem Fahrzeug fahren.",
+                    "en-US": "While driving a vehicle, kill 5 enemies in a single power slide.",
+                    "es-ES": "Desde un vehículo, mata a 5 enemigos en un solo derrape.",
+                    "fr-FR": "Au volant d'un véhicule, tuer 5 ennemis en un seul dérapage.",
+                    "it-IT": "Alla guida di un veicolo, uccidi 5 nemici con una sola sterzata.",
+                    "ja-JP": "車を運転しながら、1 回のパワー スライドで敵を 5 人倒す",
+                    "ko-KR": "운전을 하며 파워 슬라이드 한 번으로 적 5명을 죽이십시오.",
+                    "pl-PL": "Zdejmij pięciu wrogów jednym driftem.",
+                    "ru-RU": "За рулем убить 5 противников одним дрифтом.",
+                    "zh-CHT": "駕駛車輛時，用 1 次高速滑移甩尾殺死 5 個敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "43.png"
+        },
+        "61": {
+            "text": {
+                "name": {
+                    "de-DE": "Nadelkissen",
+                    "en-US": "Pin Cushion",
+                    "es-ES": "Muñeco de vudú",
+                    "fr-FR": "Serial empaleur",
+                    "it-IT": "Puntaspilli",
+                    "ja-JP": "ピン クッション",
+                    "ko-KR": "핀 쿠션",
+                    "pl-PL": "Ćwieki",
+                    "ru-RU": "Подушка для булавок",
+                    "zh-CHT": "釘刺高手"
+                },
+                "description": {
+                    "de-DE": "Sie haben 5 Gegner an ein Fahrzeug getackert.",
+                    "en-US": "You harpooned 5 enemies to a vehicle.",
+                    "es-ES": "Has ensartado a 5 enemigos en un vehículo.",
+                    "fr-FR": "5 ennemis harponnés sur un véhicule.",
+                    "it-IT": "Hai arpionato 5 nemici a un veicolo.",
+                    "ja-JP": "1 台の車に 5 人の敵を串刺しにした",
+                    "ko-KR": "하푼 총으로 차량 한 대에 적 5명을 꽂았습니다.",
+                    "pl-PL": "Przybito pięciu wrogów do pojazdu za pomocą harpunów.",
+                    "ru-RU": "Вы пригвоздили 5 противников к машине.",
+                    "zh-CHT": "你成功用魚叉槍把 5 個敵人釘在 1 輛車上。"
+                },
+                "howto": {
+                    "de-DE": "Tackern Sie mit dem Harpunengewehr 5 Gegner an einem einzigen Fahrzeug fest.",
+                    "en-US": "Use the Harpoon Gun to pin 5 enemies to a single vehicle.",
+                    "es-ES": "Usa el arpón para ensartar a 5 enemigos en un mismo vehículo.",
+                    "fr-FR": "Utiliser le harpon pour empaler 5 ennemis sur un seul véhicule.",
+                    "it-IT": "Usa l'arpione per fissare 5 nemici a un solo veicolo.",
+                    "ja-JP": "ハープーンを使い、1 台の車に 5 人の敵を串刺しにする",
+                    "ko-KR": "하푼 총으로 차량 한 대에 적 5명을 꽂으십시오.",
+                    "pl-PL": "Przybij pięciu wrogów do jednego pojazdu za pomocą wyrzutni harpunów.",
+                    "ru-RU": "С помощью гарпунной пушки пригвоздить 5 противников к одной машине.",
+                    "zh-CHT": "使用魚叉槍將 5 個敵人釘在 1 輛車上。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "44.png"
+        },
+        "64": {
+            "text": {
+                "name": {
+                    "de-DE": "Bombermann",
+                    "en-US": "Bomberman",
+                    "es-ES": "Bombardero",
+                    "fr-FR": "Bomberman",
+                    "it-IT": "Bombarolo",
+                    "ja-JP": "爆破魔",
+                    "ko-KR": "불장난",
+                    "pl-PL": "Unabomber",
+                    "ru-RU": "Взрывотехник",
+                    "zh-CHT": "轟炸高手"
+                },
+                "description": {
+                    "de-DE": "Sie haben binnen 60 Sekunden 30 Explosionen verursacht.",
+                    "en-US": "You caused 30 explosions in 60 seconds.",
+                    "es-ES": "Has causado 30 explosiones en 60 segundos.",
+                    "fr-FR": "30 explosions provoquées en 60 secondes.",
+                    "it-IT": "Hai causato 30 esplosioni in 60 secondi.",
+                    "ja-JP": "60 秒以内に 30 回の爆発を起こした",
+                    "ko-KR": "60초 동안 30회의 폭발을 일으켰습니다.",
+                    "pl-PL": "Wywołano 30 eksplozji w 60 sekund.",
+                    "ru-RU": "Вы устроили 30 взрывов за 60 секунд.",
+                    "zh-CHT": "你成功在 60 秒內產生 30 次爆炸。"
+                },
+                "howto": {
+                    "de-DE": "Verursachen Sie binnen 60 Sekunden 30 Explosionen.",
+                    "en-US": "Create 30 explosions in 60 seconds.",
+                    "es-ES": "Provoca 30 explosiones en 60 segundos.",
+                    "fr-FR": "Provoquer 30 explosions en 60 secondes.",
+                    "it-IT": "Crea 30 esplosioni in 60 secondi.",
+                    "ja-JP": "60 秒以内に 30 回爆発を起こす",
+                    "ko-KR": "60초 동안 30회의 폭발을 일으키십시오.",
+                    "pl-PL": "Wywołaj 30 eksplozji w 60 sekund.",
+                    "ru-RU": "Произвести 30 взрывов за 60 секунд.",
+                    "zh-CHT": "在 60 秒內產生 30 次爆炸。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "45.png"
+        },
+        "66": {
+            "text": {
+                "name": {
+                    "de-DE": "25 Wege zu sterben",
+                    "en-US": "25 Ways to Die",
+                    "es-ES": "25 maneras de morir",
+                    "fr-FR": "25 façons de mourir",
+                    "it-IT": "25 modi di morire",
+                    "ja-JP": "自滅への道",
+                    "ko-KR": "죽거나 혹은 나쁘거나",
+                    "pl-PL": "25 smaków śmierci",
+                    "ru-RU": "25 смертей",
+                    "zh-CHT": "25 種死亡方式"
+                },
+                "description": {
+                    "de-DE": "Sie haben sich selbst 25 Mal auf einzigartigste Weise eliminiert.",
+                    "en-US": "Succeed in killing yourself 25 unique ways.",
+                    "es-ES": "Has conseguido eliminarte a ti mismo de 25 formas diferentes.",
+                    "fr-FR": "25 manières uniques de vous suicider trouvées.",
+                    "it-IT": "Suicidati 25 volte usando ogni volta un metodo diverso.",
+                    "ja-JP": "25 種類の方法で自らの命を絶った",
+                    "ko-KR": "25가지 다른 방법으로 스스로 죽기에 성공했습니다.",
+                    "pl-PL": "Zabij się na 25 różnych sposobów.",
+                    "ru-RU": "Вы успешно покончили с собой 25 разными способами.",
+                    "zh-CHT": "你成功以 25 種不同的方式殺死自己。"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie 25 unterschiedliche Arten, wie Sie Ihren geklonten Körper eliminieren können.",
+                    "en-US": "Find 25 unique ways to destroy your cloned body.",
+                    "es-ES": "Encuentra 25 maneras distintas de destruir tu cuerpo clonado.",
+                    "fr-FR": "Trouver 25 façons uniques de détruire votre corps cloné.",
+                    "it-IT": "Trova 25 modi diversi di distruggere il tuo corpo clonato.",
+                    "ja-JP": "25 種類の方法で自らの命を絶つ",
+                    "ko-KR": "스스로 죽는 25가지 방법을 찾으십시오.",
+                    "pl-PL": "Zniszcz swoje sklonowane ciało na 25 różnych sposobów.",
+                    "ru-RU": "Найти 25 разных способов убить себя.",
+                    "zh-CHT": "尋找 25 種不同的方式來殺死自己。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "46.png"
+        },
+        "67": {
+            "text": {
+                "name": {
+                    "de-DE": "Autosprung",
+                    "en-US": "Car Jump",
+                    "es-ES": "Salto entre coches",
+                    "fr-FR": "Saute-bagnoles",
+                    "it-IT": "Saltamacchina",
+                    "ja-JP": "カー ジャンプ",
+                    "ko-KR": "액션 히어로",
+                    "pl-PL": "Skakanie po samochodach",
+                    "ru-RU": "Автопрыжок",
+                    "zh-CHT": "跳車高手"
+                },
+                "description": {
+                    "de-DE": "Sie sind von einem schnell fahrenden Fahrzeug zu einem anderen gesprungen.",
+                    "en-US": "You leapt from one fast-moving vehicle to another.",
+                    "es-ES": "Has saltado de un vehículo en movimiento a otro.",
+                    "fr-FR": "Un saut d'un véhicule en mouvement à un autre réussi.",
+                    "it-IT": "Ti sei lanciato da un veicolo in corsa a un'altro.",
+                    "ja-JP": "高速移動中の車から車へ飛び移った",
+                    "ko-KR": "빠르게 달리는 차량에서 다른 차량으로 뛰어들었습니다.",
+                    "pl-PL": "Wykonano skok z jednego szybko jadącego pojazdu na drugi.",
+                    "ru-RU": "Вы перепрыгнули из одной быстро движущейся машины в другую.",
+                    "zh-CHT": "你成功從一輛快速奔馳的車輛，跳到另一輛快速奔馳的車上。"
+                },
+                "howto": {
+                    "de-DE": "Springen Sie von einem fahrenden Fahrzeug zum nächsten.",
+                    "en-US": "Leap from one fast-moving vehicle to another.",
+                    "es-ES": "Salta de un vehículo en movimiento a otro.",
+                    "fr-FR": "Sauter d'un véhicule à pleine vitesse à un autre.",
+                    "it-IT": "Salta da un veicolo in corsa a un altro.",
+                    "ja-JP": "高速移動中の車から車へと飛び移る",
+                    "ko-KR": "빠르게 달리는 차량에서 다른 차량으로 뛰어드십시오.",
+                    "pl-PL": "Przeskocz z jednego szybko jadącego pojazdu na drugi.",
+                    "ru-RU": "Перепрыгнуть из одной движущейся машины в другую.",
+                    "zh-CHT": "從一輛快速奔馳的車輛，跳到另一輛快速奔馳的車上。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "47.png"
+        },
+        "68": {
+            "text": {
+                "name": {
+                    "de-DE": "Plattmacher",
+                    "en-US": "Chopper Stomper",
+                    "es-ES": "Pisoteador",
+                    "fr-FR": "Hélicop-terre",
+                    "it-IT": "Salto col botto",
+                    "ja-JP": "ヘリからの破壊者",
+                    "ko-KR": "공중 습격",
+                    "pl-PL": "Z górki na pazurki",
+                    "ru-RU": "Громовой десант",
+                    "zh-CHT": "直昇機重擊高手"
+                },
+                "description": {
+                    "de-DE": "Sie haben einen tödlichen Bodenangriff aus einem fliegenden Helikopter ausgeführt.",
+                    "en-US": "You launched a deadly Ground Strike from an airborne helicopter.",
+                    "es-ES": "Has conseguido un ataque terrestre letal desde un helicóptero en vuelo.",
+                    "fr-FR": "Une onde de choc réussie d'un hélicoptère de l'Agence en vol.",
+                    "it-IT": "Hai lanciato un attacco a terra letale da un elicottero in volo.",
+                    "ja-JP": "飛行中のヘリコプターから、強烈なグラウンド ストライクを放った",
+                    "ko-KR": "비행 중인 경찰 연합 헬리콥터에서 뛰어내려 지면강타로 적을 처치했습니다.",
+                    "pl-PL": "Wykonano śmiercionośny atak z wyskoku z lecącego śmigłowca.",
+                    "ru-RU": "Вы применили смертоносный \"громовой удар\", выпрыгнув из вертолета.",
+                    "zh-CHT": "你成功從空中的直昇機躍下，並使出致命的地面重擊。"
+                },
+                "howto": {
+                    "de-DE": "Springen Sie von einem Agency-Helikopter und erledigen Sie mit einem Bodenangriff mind. 1 Gegner.",
+                    "en-US": "Leap from an airborne Agency helicopter and, using a Ground Strike, kill at least one enemy.",
+                    "es-ES": "Salta de un helicóptero de La Agencia y mata a un enemigo usando un golpe terrestre.",
+                    "fr-FR": "Sauter d'un hélicoptère de l'Agence en vol, et tuer au moins un ennemi avec une onde de choc.",
+                    "it-IT": "Gettati da un elicottero dell'Agenzia e, utilizzando un attacco a terra, uccidi almeno un nemico.",
+                    "ja-JP": "飛行中のエージェント ヘリコプターから飛び降り、グラウンド ストライクで最低 1 人の敵を倒す",
+                    "ko-KR": "비행 중인 경찰 연합 헬리콥터에서 뛰어 내려 지면강타로 적을 처치하십시오.",
+                    "pl-PL": "Wyskocz z lecącego śmigłowca Agencji i zabij co najmniej jednego wroga atakiem z wyskoku.",
+                    "ru-RU": "Выпрыгнуть из летящего вертолета Агентства и убить хотя бы 1 врага \"громовым ударом\".",
+                    "zh-CHT": "從空中的維安總部直昇機跳下，並使出地面重擊殺死至少 1 個敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "48.png"
+        },
+        "71": {
+            "text": {
+                "name": {
+                    "de-DE": "Party-Bus",
+                    "en-US": "Party Bus",
+                    "es-ES": "Autobús de fiesta",
+                    "fr-FR": "Bus pour la gloire",
+                    "it-IT": "Autobus Party",
+                    "ja-JP": "パーティー バス",
+                    "ko-KR": "전투 트럭",
+                    "pl-PL": "Jedziemy na imprezę",
+                    "ru-RU": "Боевой автобус",
+                    "zh-CHT": "公車派對"
+                },
+                "description": {
+                    "de-DE": "Sie sind mit vier Agenten mit einem Kampfbus durch einen Fahrzeug-Stuntring gesprungen.",
+                    "en-US": "You jumped four Agents on a Battle Bus through a Vehicle Stunt Ring.",
+                    "es-ES": "Has hecho que cuatro agentes salten por un Anillo de acrobacia en un autobús de batalla.",
+                    "fr-FR": "Un anneau de voltige mécanique franchi dans un bus de combat avec 4 Agents.",
+                    "it-IT": "Con quattro Agenti hai attraversato un circuito acrobatico su un bus da battaglia.",
+                    "ja-JP": "エージェント 4 人でバトル バスに乗り、ビークル スタント リングをくぐった",
+                    "ko-KR": "네 명의 요원을 태운 전투 트럭으로 차량 스턴트 링을 통과했습니다.",
+                    "pl-PL": "Czterech Agentów przeskoczyło autobusem bojowym przez krąg autokaskadera.",
+                    "ru-RU": "Вы с 4 агентами на агитавтобусе прошли кольцо автокаскадеров.",
+                    "zh-CHT": "你成功讓載著 4 位探員的戰鬥公車，跳過 1 個車輛特技圈。"
+                },
+                "howto": {
+                    "de-DE": "4 Agenten (1 Fahrer, 3 Schützen) müssen mit einem Kampfbus durch einen Fahrzeug-Stuntring springen.",
+                    "en-US": "Four Agents (one driver and three gunners) must jump through a Vehicle Stunt Ring on a Battle Bus.",
+                    "es-ES": "Haz que cuatro agentes salten por un Anillo de acrobacia en un autobús de batalla.",
+                    "fr-FR": "Franchir un anneau de voltige mécanique dans un bus de combat avec 4 Agents (1 pilote, 3 tireurs).",
+                    "it-IT": "4 Agenti (1 pilota e 3 artiglieri) devono correre in un circuito acrobatico con un bus da battaglia.",
+                    "ja-JP": "エージェント 4 人 (運転手 1 人、狙撃手 3 人) でバトル バスに乗り、ビークル スタント リングをくぐる",
+                    "ko-KR": "네 명의 요원(운전수 1, 사수 3)을 태운 전투 트럭으로 차량 스턴트 링을 통과하십시오.",
+                    "pl-PL": "Przeskocz autobusem bojowym obsadzonym czterema Agentami przez krąg autokaskadera.",
+                    "ru-RU": "4 агента (водитель и 3 стрелка) должны на агитавтобусе пройти кольцо автокаскадеров.",
+                    "zh-CHT": "讓載著 4 位探員 (1 位駕駛與 3 位槍手) 的戰鬥公車，跳過 1 個車輛特技圈。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "49.png"
+        },
+        "74": {
+            "text": {
+                "name": {
+                    "de-DE": "Dampframmer",
+                    "en-US": "Pile Driver",
+                    "es-ES": "Martillo neumático",
+                    "fr-FR": "Cinq de choc",
+                    "it-IT": "Piantapalo",
+                    "ja-JP": "パイル ドライバー",
+                    "ko-KR": "폭풍같은 일격",
+                    "pl-PL": "Kafar",
+                    "ru-RU": "Одним махом",
+                    "zh-CHT": "重擊駕駛"
+                },
+                "description": {
+                    "de-DE": "Sie haben 5 Gegner mit einem einzigen Bodenangriff erledigt.",
+                    "en-US": "You killed 5 enemies with a single Ground Strike.",
+                    "es-ES": "Has matado a 5 enemigos con un solo ataque terrestre.",
+                    "fr-FR": "5 ennemis tués avec une onde de choc.",
+                    "it-IT": "Hai ucciso 5 nemici con un solo attacco a terra.",
+                    "ja-JP": "1 回のグラウンド ストライクで 5 人の敵を倒した",
+                    "ko-KR": "한 번의 지면강타로 적 5명을 죽였습니다.",
+                    "pl-PL": "Zabito pięciu wrogów jednym atakiem z wyskoku.",
+                    "ru-RU": "Вы убили 5 противников одним \"громовым ударом\".",
+                    "zh-CHT": "你成功用 1 次地面重擊殺死 5 個敵人。"
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie 5 Gegner mit einem einzigen Bodenangriff.",
+                    "en-US": "Kill 5 enemies with a single Ground Strike.",
+                    "es-ES": "Mata a 5 enemigos con un solo ataque terrestre.",
+                    "fr-FR": "Tuer 5 ennemis avec une seule onde de choc.",
+                    "it-IT": "Uccidi 5 nemici con un solo attacco a terra.",
+                    "ja-JP": "1 回のグラウンド ストライクで 5 人の敵を倒す",
+                    "ko-KR": "한 번의 지면강타로 적 5명을 죽이십시오.",
+                    "pl-PL": "Zabij pięciu wrogów jednym atakiem z wyskoku.",
+                    "ru-RU": "Убить 5 противников одним \"громовым ударом\".",
+                    "zh-CHT": "用 1 次地面重擊殺死 5 個敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "50.png"
+        },
+        "80": {
+            "text": {
+                "name": {
+                    "de-DE": "Keulenflug",
+                    "en-US": "Mile High Club",
+                    "es-ES": "Relaciones aéreas",
+                    "fr-FR": "Effet massue",
+                    "it-IT": "Salto con mazza",
+                    "ja-JP": "マイル ハイ クラブ",
+                    "ko-KR": "마일 하이 클럽",
+                    "pl-PL": "Pałka zapałka",
+                    "ru-RU": "Летучая бита",
+                    "zh-CHT": "雲霄棒"
+                },
+                "description": {
+                    "de-DE": "Sie sind aus großer Höhe runtergesprungen und haben mindestens einen Feind mit der Keule erschlagen.",
+                    "en-US": "You used a club and boosted to smash at least one enemy from up high.",
+                    "es-ES": "Has usado un palo y te has lanzado contra al menos un enemigo desde arriba.",
+                    "fr-FR": "Vous avez utilisé une massue et activé vos propulseurs pour vous abattre sur au moins un ennemi.",
+                    "it-IT": "Hai usato una mazza e hai dato una spinta in aria per frantumare dall'alto almeno un nemico.",
+                    "ja-JP": "こん棒を使い、上空まで上がって少なくとも 1 人の敵を叩きのめした",
+                    "ko-KR": "몽둥이를 든 채로 공중으로 부스트하여 최소 한 명의 적을 높은 곳에서 내리쳤습니다.",
+                    "pl-PL": "Za pomocą pałki zabiłeś przynajmniej jednego przeciwnika z wysokości.",
+                    "ru-RU": "Ты взлетел на ускорителях и с высоты убил битой как минимум одного врага.",
+                    "zh-CHT": "你使用雲霄棒騰空，加速從高空攻擊至少 1 個敵人。"
+                },
+                "howto": {
+                    "de-DE": "Nehmen Sie eine Keule, katapultieren Sie sich in die Luft und erschlagen Sie mindestens einen Feind.",
+                    "en-US": "Get a club and boost into the air to club at least one enemy from a height.",
+                    "es-ES": "Consigue un palo y lánzate por los aires para dar con el palo al menos a un enemigo desde arriba.",
+                    "fr-FR": "Trouvez une massue et activez vos propulseurs pour vous abattre sur au moins un ennemi.",
+                    "it-IT": "Prendi una mazza e datti una spinta in aria per colpire dall'alto almeno un nemico.",
+                    "ja-JP": "こん棒を手に入れ、上空まで上がって少なくとも 1 人の敵を叩きのめす",
+                    "ko-KR": "몽둥이를 든 채로 공중으로 부스트하여 최소 한 명의 적을 높은 곳에서 내리치십시오.",
+                    "pl-PL": "Zdobądź pałkę i wzbij się w górę, aby powalić przynajmniej jednego przeciwnika z góry.",
+                    "ru-RU": "Взлети на ускорителях и с высоты убей битой как минимум одного врага.",
+                    "zh-CHT": "使用雲霄棒騰空，加速從高空攻擊至少 1 個敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "51.png"
+        },
+        "81": {
+            "text": {
+                "name": {
+                    "de-DE": "Advent, Advent",
+                    "en-US": "Hung Out to Dry",
+                    "es-ES": "Colgados para secarse",
+                    "fr-FR": "Guirlande",
+                    "it-IT": "Panni stesi",
+                    "ja-JP": "洗濯物を干すように",
+                    "ko-KR": "매달린 자들",
+                    "pl-PL": "Nie trzeba klamerek",
+                    "ru-RU": "Гирлянда",
+                    "zh-CHT": "串烤敵人"
+                },
+                "description": {
+                    "de-DE": "Sie haben 5 Feinde wie eine Lichterkette aufgehängt.",
+                    "en-US": "You hung 5 enemies off the floor like a set of holiday lights.",
+                    "es-ES": "Has colgado de la planta a 5 enemigos como un hilo de luces de Navidad.",
+                    "fr-FR": "Vous avez suspendu 5 ennemis comme une guirlande de Noël.",
+                    "it-IT": "Hai appeso 5 nemici come delle luci di Natale.",
+                    "ja-JP": "電飾のように 5 人の敵をつるした",
+                    "ko-KR": "5명의 적을 축제일 전구처럼 매달았습니다.",
+                    "pl-PL": "Zawieszono w powietrzu 5 przeciwników niczym lampki choinkowe.",
+                    "ru-RU": "Ты развесил 5 врагов, точно елочные украшения, так что они не касаются пола.",
+                    "zh-CHT": "將 5 個敵人吸至空中，像一組耶誕燈飾一樣串起來。"
+                },
+                "howto": {
+                    "de-DE": "Hängen Sie mit Mag-Granaten 5 Feinde auf.",
+                    "en-US": "Hang 5 enemies off the floor using Mag Grenades.",
+                    "es-ES": "Cuelga a 5 enemigos de la planta usando granadas Mag.",
+                    "fr-FR": "Suspendre 5 ennemis à l'aide de grenades MAG.",
+                    "it-IT": "Appendi 5 nemici con le granate magnetiche.",
+                    "ja-JP": "マグ グレネードを使って 5 人の敵をつるす",
+                    "ko-KR": "MAG 수류탄으로 적 5명을 묶어버리십시오.",
+                    "pl-PL": "Zawieś w powietrzu 5 przeciwników jednocześnie przy pomocy granatów magnetycznych.",
+                    "ru-RU": "С помощью магнитных гранат подвесь 5 врагов так, чтобы они не касались пола.",
+                    "zh-CHT": "使用電磁彈將 5 個敵人吸至空中。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "52.png"
+        },
+        "82": {
+            "text": {
+                "name": {
+                    "de-DE": "Brandopfer",
+                    "en-US": "Burnt Offerings",
+                    "es-ES": "Ofrendas quemadas",
+                    "fr-FR": "Immolations",
+                    "it-IT": "Sacrificio di fuoco",
+                    "ja-JP": "焼かれたいけにえ",
+                    "ko-KR": "불타는 선물",
+                    "pl-PL": "Zabawa z ogniem",
+                    "ru-RU": "Воспламеняющий на лету",
+                    "zh-CHT": "燒焦的祭品"
+                },
+                "description": {
+                    "de-DE": "Sie haben während eines einzigen Flugs 20 Leute mit Ihren Düsen in Brand gesetzt.",
+                    "en-US": "You set 20 people alight with your thrusters in a single airborne flight.",
+                    "es-ES": "Has prendido fuego a 20 personas con los propulsores en un solo vuelo.",
+                    "fr-FR": "Vous avez enflammé 20 personnes avec vos propulseurs en un seul vol.",
+                    "it-IT": "Hai dato fuoco a 20 persone con i propulsori in un solo volo.",
+                    "ja-JP": "スラスターを使い、1 回の飛行で 20 人に火を付けた",
+                    "ko-KR": "공중에 한 번 비행할 동안 20명에게 불을 붙였습니다.",
+                    "pl-PL": "Zapaliłeś 20 osób silnikiem rakietowym w trakcie jednego przelotu.",
+                    "ru-RU": "Ты поджег 20 человек ускорителями за один полет.",
+                    "zh-CHT": "你使用推進器，在單次升空飛行就燃燒 20 個人。"
+                },
+                "howto": {
+                    "de-DE": "Setzen Sie während eines einzigen Flugs 20 Leute mit Ihren Düsen in Brand.",
+                    "en-US": "Set 20 people alight with your thrusters in a single airborne flight.",
+                    "es-ES": "Envuelve en llamas a 20 personas con los lanzadores en un único vuelo.",
+                    "fr-FR": "Enflammez 20 personnes avec vos propulseurs en un seul vol.",
+                    "it-IT": "Dai fuoco a 20 persone con i propulsori in un solo volo.",
+                    "ja-JP": "スラスターを使い、1 回の飛行で 20 人に火を付ける",
+                    "ko-KR": "공중에 한 번 비행할 동안 20명에게 불을 붙이십시오.",
+                    "pl-PL": "Zapal 20 osób silnikiem rakietowym w trakcie jednego przelotu.",
+                    "ru-RU": "Подожги 20 человек ускорителями за один полет.",
+                    "zh-CHT": "使用推進器，在單次升空飛行燃燒 20 個人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "53.png"
+        },
+        "83": {
+            "text": {
+                "name": {
+                    "de-DE": "Taktischer Einsatz",
+                    "en-US": "Tac Loc Takedown",
+                    "es-ES": "Toma de posición táctica",
+                    "fr-FR": "Contrôle tactique",
+                    "it-IT": "Attacco a Pos. Tattica",
+                    "ja-JP": "戦略拠点制圧",
+                    "ko-KR": "전술 지점 확보",
+                    "pl-PL": "Bardzo strategiczna pozycja",
+                    "ru-RU": "Захват стратегической точки",
+                    "zh-CHT": "戰術據點佔領行動"
+                },
+                "description": {
+                    "de-DE": "Sie haben erfolgreich 5 taktische Punkte mit allen Agenten in einem Squad-Heli abgeschlossen.",
+                    "en-US": "You successfully completed 5 Tactical Locations with all Agents in the same Squad Chopper.",
+                    "es-ES": "Has completado 5 posiciones tácticas con todos los agentes en el mismo helicóptero del escuadrón.",
+                    "fr-FR": "Vous avez investi 5 emplacements avec tous les Agents à bord du même hélicoptère lourd de l'Agence.",
+                    "it-IT": "Sei riuscito a completare 5 Posizioni Tattiche con tutti gli Agenti nello stesso chopper.",
+                    "ja-JP": "同じチーム ヘリコプターに乗るエージェント全員で、戦略拠点を 5 か所制圧した",
+                    "ko-KR": "같은 특수분대 헬기에 탑승한 모든 요원과 함께 전술 지점 5곳을 성공적으로 확보했습니다.",
+                    "pl-PL": "Przejęto 5 pozycji strategicznych, gdy wszyscy Agenci znajdowali się w jednym śmigłowcu bojowym.",
+                    "ru-RU": "Ты захватил 5 стратегических точек со всеми агентами в одном десантном вертолете.",
+                    "zh-CHT": "你成功使同一維安小組直升機中的所有探員成功完成 5 個戰術據點。"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie erfolgreich 5 taktische Punkte mit allen Agenten in einem Squad-Heli ab.",
+                    "en-US": "Successfully complete 5 Tactical Locations with all Agents in the same Squad Chopper.",
+                    "es-ES": "Completa 5 posiciones tácticas con todos los agentes en el mismo helicóptero del escuadrón.",
+                    "fr-FR": "Investir 5 emplacements avec tous les Agents à bord du même hélicoptère lourd de l'Agence.",
+                    "it-IT": "Completa 5 Posizioni Tattiche con tutti gli Agenti nello stesso chopper.",
+                    "ja-JP": "同じチーム ヘリコプターに乗るエージェント全員で、戦略拠点を 5 か所制圧する",
+                    "ko-KR": "같은 특수분대 헬기에 탑승한 모든 요원과 함께 전술 지점 5곳을 성공적으로 확보하십시오.",
+                    "pl-PL": "Przejmij 5 pozycji strategicznych, gdy wszyscy Agenci znajdują się w jednym śmigłowcu bojowym.",
+                    "ru-RU": "Захвати 5 стратегических точек со всеми агентами в одном десантном вертолете.",
+                    "zh-CHT": "同一維安小組直升機中的所有探員成功完成 5 個戰術據點。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "54.png"
+        },
+        "84": {
+            "text": {
+                "name": {
+                    "de-DE": "Höhenflug",
+                    "en-US": "Wing-a-Ding-Ding",
+                    "es-ES": "¡Bingo!",
+                    "fr-FR": "Icare",
+                    "it-IT": "Nel blu, dipinto di blu",
+                    "ja-JP": "ウィンガ ディンディン",
+                    "ko-KR": "끝없는 비행",
+                    "pl-PL": "Biedroneczko, leć do nieba",
+                    "ru-RU": "Браво, браво!",
+                    "zh-CHT": "飛上青天"
+                },
+                "description": {
+                    "de-DE": "Sie sind in einem einzigen Flug mit Ihren Düsen und dem Wingsuit über 500 Meter hoch geflogen.",
+                    "en-US": "You soared to over 500 meters in a single flight using your thrusters and Wingsuit.",
+                    "es-ES": "Has ascendido a más de 500 metros en un solo vuelo usando los propulsores y el traje de vuelo.",
+                    "fr-FR": "Vous avez plané d'une traite sur plus de 500 mètres à l'aide des propulseurs et de la combinaison.",
+                    "it-IT": "Sei arrivato a oltre 500 metri in un singolo volo usando i propulsori e la Tuta Alare.",
+                    "ja-JP": "スラスターとウィングスーツを使い、1 回の飛行で 500 メートル以上上昇した",
+                    "ko-KR": "점프 팩과 윙슈트로 한 번 비행하여 500미터 이상 날아올랐습니다.",
+                    "pl-PL": "Wzleciałeś ponad 500 metrów w trakcie jednego lotu za pomocą napędu rakietowego i skrzydeł.",
+                    "ru-RU": "Ты пролетел более 500 метров за один полет с помощью аэрокостюма и ускорителей.",
+                    "zh-CHT": "你使用推進器和滑翔翼，在單次飛行中飛升超過 500 公尺。"
+                },
+                "howto": {
+                    "de-DE": "Fliegen Sie in einem einzigen Flug mit Ihren Düsen und dem Wingsuit über 500 Meter hoch.",
+                    "en-US": "Soar to over 500 meters in a single flight using your thrusters and Wingsuit.",
+                    "es-ES": "Asciende a más de 500 metros en un solo vuelo usando los propulsores y el traje de vuelo.",
+                    "fr-FR": "Planez d'une traite sur plus de 500 mètres à l'aide des propulseurs et de la combinaison.",
+                    "it-IT": "Vola a oltre 500 metri con un solo volo usando i propulsori e la Tuta Alare.",
+                    "ja-JP": "スラスターとウィングスーツを使い、1 回の飛行で 500 メートル以上上昇する",
+                    "ko-KR": "점프 팩과 윙슈트로 한 번 비행하여 500미터 이상 날아오르십시오.",
+                    "pl-PL": "Wzleć na wysokość ponad 500 metrów w trakcie jednego lotu za pomocą napędu rakietowego i skrzydeł.",
+                    "ru-RU": "Пролети более 500 метров с помощью аэрокостюма и ускорителей.",
+                    "zh-CHT": "你使用推進器和滑翔翼，在單次飛行中飛升超過 500 公尺。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "55.png"
+        },
+        "85": {
+            "text": {
+                "name": {
+                    "de-DE": "Schnell! Laufen Sie zum Heli!",
+                    "en-US": "Run! Get to the Chopper!",
+                    "es-ES": "¡Corre! ¡Llega al helicóptero!",
+                    "fr-FR": "Courez ! Montez dans l'hélico !",
+                    "it-IT": "Corri! Raggiungi il chopper!",
+                    "ja-JP": "ヘリコプターまで走れ!",
+                    "ko-KR": "헬기로 달려!",
+                    "pl-PL": "Biegiem! Do śmigłowca!",
+                    "ru-RU": "Живо! В вертолет!",
+                    "zh-CHT": "快跑！取得直昇機！"
+                },
+                "description": {
+                    "de-DE": "Sie haben in 1 Minute mit dem Squad-Heli 20 Feinde erledigt.",
+                    "en-US": "You killed 20 enemies in one minute using the Squad Chopper.",
+                    "es-ES": "Has eliminado a 20 enemigos en un minuto usando el helicóptero del escuadrón.",
+                    "fr-FR": "Vous avez éliminé 20 ennemis en une minute avec l'hélicoptère lourd de l'Agence.",
+                    "it-IT": "Hai ucciso 20 nemici in 1 minuto utilizzando il chopper.",
+                    "ja-JP": "チーム ヘリコプターの狙撃手となり、1 分間で 20 人のセルを倒した",
+                    "ko-KR": "특수분대 헬기를 타고 1분 안에 20명의 적을 처치했습니다.",
+                    "pl-PL": "Zabiłeś 20 wrogów w ciągu 1 minuty za pomocą śmigłowca transportowego.",
+                    "ru-RU": "Ты убил 20 врагов за одну минуту с борта десантного вертолета.",
+                    "zh-CHT": "你已使用維安小組直昇機在 1 分鐘之內殺光 20 個敵人。"
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie in 1 Minute 20 Feinde mit dem Squad-Heli.",
+                    "en-US": "Kill 20 enemies in one minute using the Squad Chopper.",
+                    "es-ES": "Elimina a 20 enemigos en un minuto usando el helicóptero del escuadrón.",
+                    "fr-FR": "Éliminez 20 ennemis en une minute avec l'hélicoptère lourd de l'Agence.",
+                    "it-IT": "Uccidi 20 nemici in 1 minuto utilizzando il chopper.",
+                    "ja-JP": "チーム ヘリコプターの狙撃手となり、1 分間で 20 人のセルを倒す",
+                    "ko-KR": "특수분대 헬기를 타고 1분 안에 20명의 적을 처치하십시오.",
+                    "pl-PL": "Zabij 20 wrogów w ciągu 1 minuty za pomocą śmigłowca transportowego.",
+                    "ru-RU": "Убей 20 врагов за одну минуту с борта десантного вертолета.",
+                    "zh-CHT": "使用維安小組直昇機在 1 分鐘之內殺光 20 個敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "56.png"
+        },
+        "86": {
+            "text": {
+                "name": {
+                    "de-DE": "Raketenmann",
+                    "en-US": "Rocketeer",
+                    "es-ES": "Lanzacohetes",
+                    "fr-FR": "Homme fusée",
+                    "it-IT": "Rocketeer",
+                    "ja-JP": "ロケッティア",
+                    "ko-KR": "로켓티어",
+                    "pl-PL": "Rakietoman",
+                    "ru-RU": "Ракетчик",
+                    "zh-CHT": "火箭人"
+                },
+                "description": {
+                    "de-DE": "Sie haben während eines einzigen Flugs 50 Leute mit Ihren Düsen in Brand gesetzt.",
+                    "en-US": "You killed 50 enemies with your thrusters in a single airborne flight.",
+                    "es-ES": "Has eliminado a 50 enemigos con los propulsores en un solo vuelo.",
+                    "fr-FR": "Vous avez éliminé 50 ennemis en un seul vol avec vos propulseurs.",
+                    "it-IT": "Hai ucciso 50 nemici in un singolo volo con i propulsori.",
+                    "ja-JP": "スラスターを使い、1 回の飛行で 50 人の敵を倒した",
+                    "ko-KR": "한 번 추진하여 공중에 떠 있을 동안 적 50명을 처치했습니다.",
+                    "pl-PL": "Zabiłeś 50 osób silnikiem rakietowym w trakcie jednego przelotu.",
+                    "ru-RU": "Ты убил 50 врагов за один полет с помощью ускорителей.",
+                    "zh-CHT": "你使用推進器，在單次升空飛行就殺了 50 個敵人。"
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie in einem einzigen Flug 50 Feinde mit Ihren Düsen.",
+                    "en-US": "Kill 50 enemies with your thrusters in a single airborne flight.",
+                    "es-ES": "Elimina a 50 enemigos con los propulsores en un solo vuelo.",
+                    "fr-FR": "Éliminez 50 ennemis en un seul vol avec vos propulseurs.",
+                    "it-IT": "Uccidi 50 nemici in un singolo volo con i propulsori.",
+                    "ja-JP": "スラスターを使い、1 回の飛行で 50 人の敵を倒す",
+                    "ko-KR": "한 번 추진하여 공중에 떠 있을 동안 적 50명을 처치하십시오.",
+                    "pl-PL": "Zabij 50 osób silnikiem rakietowym w trakcie jednego przelotu.",
+                    "ru-RU": "Убей 50 врагов за один полет с помощью ускорителей.",
+                    "zh-CHT": "使用推進器，在單次升空飛行就殺了 50 個敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "57.png"
+        },
+        "87": {
+            "text": {
+                "name": {
+                    "de-DE": "Niemals aufgeben",
+                    "en-US": "Never Give It up",
+                    "es-ES": "Nunca te des por vencido",
+                    "fr-FR": "Obstiné",
+                    "it-IT": "Non mollare",
+                    "ja-JP": "不屈の精神",
+                    "ko-KR": "포기는 없다",
+                    "pl-PL": "Nigdy nie rezygnuj",
+                    "ru-RU": "Никогда не сдавайся",
+                    "zh-CHT": "永不放棄"
+                },
+                "description": {
+                    "de-DE": "Sie haben im Modus 'Schnelles Spiel' gewonnen, ohne dass Ihnen die Kugel gestohlen wurde.",
+                    "en-US": "You won a Vehicle Tag Quick Match without ever having the Orb stolen from you.",
+                    "es-ES": "Has ganado una Partida rápida de Caza de vehículos sin que te hayan robado el orbe.",
+                    "fr-FR": "Vous avez remporté une partie Poursuite balistique sans que l'Orbe ne vous soit jamais volé.",
+                    "it-IT": "Hai vinto una partita veloce di caccia al veicolo senza esserti mai fatto rubare la Sfera.",
+                    "ja-JP": "ビークル タグ クイック マッチでオーブを失うことなく勝利した",
+                    "ko-KR": "오브를 한 번도 빼앗기지 않고 차량 술래잡기 퀵 매치에서 승리했습니다.",
+                    "pl-PL": "Wygrałeś szybką partię berka samochodowego, nie tracąc kuli.",
+                    "ru-RU": "Ты выиграл быструю игру \"Хватай и езжай\", ни разу не потеряв сферу.",
+                    "zh-CHT": "你贏得車牌快速配對，一次也沒有讓對手偷走光球。"
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie im Modus 'Schnelles Spiel' eine Fahrzeugjagd, ohne dass Ihnen die Kugel gestohlen wird.",
+                    "en-US": "Win a Vehicle Tag Quick Match without ever having the Orb stolen from you.",
+                    "es-ES": "Gana una Partida rápida de Caza de vehículos sin que te roben el orbe.",
+                    "fr-FR": "Remportez une partie Poursuite balistique sans que l'Orbe ne vous soit jamais volé.",
+                    "it-IT": "Vinci una partita veloce di caccia al veicolo senza farti mai rubare la Sfera.",
+                    "ja-JP": "ビークル タグ クイック マッチでオーブを失うことなく勝利する",
+                    "ko-KR": "오브를 한 번도 빼앗기지 않고 차량 술래잡기 퀵 매치에서 승리하십시오.",
+                    "pl-PL": "Wygraj szybką partię berka samochodowego, nie tracąc kuli.",
+                    "ru-RU": "Выиграй быструю игру \"Хватай и езжай\", ни разу не потеряв сферу.",
+                    "zh-CHT": "贏得車牌快速配對，一次也沒有讓對手偷走光球。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "58.png"
+        },
+        "88": {
+            "text": {
+                "name": {
+                    "de-DE": "Vorsichtiger Fahrer",
+                    "en-US": "One Careful Driver",
+                    "es-ES": "Un conductor prudente",
+                    "fr-FR": "Prudence au volant",
+                    "it-IT": "Guida attenta",
+                    "ja-JP": "慎重な運転手",
+                    "ko-KR": "안전운행",
+                    "pl-PL": "Przezorny kierowca",
+                    "ru-RU": "Осторожный водитель",
+                    "zh-CHT": "小心翼翼的駕駛"
+                },
+                "description": {
+                    "de-DE": "Sie haben im Modus 'Schnelles Spiel' eine Fahrzeugjagd gewonnen, ohne Ihr Fahrzeug zu zerstören.",
+                    "en-US": "You won a Vehicle Tag Quick Match without ever destroying your vehicle.",
+                    "es-ES": "Has ganado una Partida rápida de Caza de vehículos sin destruir tu vehículo.",
+                    "fr-FR": "Vous avez remporté une partie Poursuite balistique sans jamais détruire votre véhicule.",
+                    "it-IT": "Hai vinto una partita veloce di caccia al veicolo senza aver distrutto il tuo veicolo.",
+                    "ja-JP": "ビークル タグ クイック マッチで、車を大破させることなく勝利した",
+                    "ko-KR": "차량을 한 번도 망가뜨리지 않고 차량 술래잡기 퀵 매치에서 승리했습니다.",
+                    "pl-PL": "Wygrałeś szybką partię berka samochodowego, nie rozbijając ani razu samochodu.",
+                    "ru-RU": "Ты выиграл быструю игру \"Хватай и езжай\", ни разу не разбив машину.",
+                    "zh-CHT": "你贏得車牌快速配對，一次也沒有把車子撞壞。"
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie im Modus 'Schnelles Spiel' eine Fahrzeugjagd, ohne Ihr Fahrzeug zu zerstören.",
+                    "en-US": "Win a Vehicle Tag Quick Match without ever destroying your vehicle.",
+                    "es-ES": "Gana una Partida rápida de Caza de vehículos sin destruir tu vehículo.",
+                    "fr-FR": "Remportez une partie Poursuite balistique sans jamais détruire votre véhicule.",
+                    "it-IT": "Vinci una partita veloce di caccia al veicolo senza distruggere il tuo veicolo.",
+                    "ja-JP": "ビークル タグ クイック マッチで、車を大破させることなく勝利する",
+                    "ko-KR": "차량을 한 번도 망가뜨리지 않고 차량 술래잡기 퀵 매치에서 승리하십시오.",
+                    "pl-PL": "Wygraj szybką partię berka samochodowego, nie rozbijając ani razu samochodu.",
+                    "ru-RU": "Выиграй быструю игру \"Хватай и езжай\", ни разу не разбив машину.",
+                    "zh-CHT": "贏得車牌快速配對，一次也沒有把車子撞壞。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "59.png"
+        },
+        "89": {
+            "text": {
+                "name": {
+                    "de-DE": "Mehr geht nicht",
+                    "en-US": "Beyond the Infinite",
+                    "es-ES": "Al infinito y más allá",
+                    "fr-FR": "L'infini et au-delà",
+                    "it-IT": "Oltre l'infinito",
+                    "ja-JP": "無限のかなたへ",
+                    "ko-KR": "무한을 넘어서",
+                    "pl-PL": "Nieskończoność to banał",
+                    "ru-RU": "Полный беспредел",
+                    "zh-CHT": "超越無限"
+                },
+                "description": {
+                    "de-DE": "Sie haben in jeder Fertigkeit Stufe 6 erreicht.",
+                    "en-US": "You reached Level 6 on all skills.",
+                    "es-ES": "Has alcanzado el nivel 6 en todas las habilidades.",
+                    "fr-FR": "Vous avez atteint le niveau 6 dans toutes les compétences.",
+                    "it-IT": "Hai raggiunto il livello 6 in tutte le abilità.",
+                    "ja-JP": "すべてのスキルがレベル 6 に到達した",
+                    "ko-KR": "모든 기술을 6레벨까지 올렸습니다.",
+                    "pl-PL": "Osiągnąłeś poziom 6 wszystkich umiejętności.",
+                    "ru-RU": "Ты развил все навыки до 6 уровня.",
+                    "zh-CHT": "你所有的戰技都已經達到第 6 級。"
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie in jeder Fertigkeit Stufe 6.",
+                    "en-US": "Develop all skills to level 6.",
+                    "es-ES": "Desarrolla todas las habilidades hasta el nivel 6.",
+                    "fr-FR": "Développez toutes les compétences jusqu'au niveau 6.",
+                    "it-IT": "Porta tutte le abilità al livello 6.",
+                    "ja-JP": "すべてのスキルをレベル 6 にする",
+                    "ko-KR": "모든 기술을 6레벨까지 올리십시오.",
+                    "pl-PL": "Rozwiń wszystkie umiejętności do poziomu 6.",
+                    "ru-RU": "Улучши все навыки до 6 уровня.",
+                    "zh-CHT": "所有的戰技練到第 6 級。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "50",
+            "imageId": "60.png"
+        }
+    }
+}

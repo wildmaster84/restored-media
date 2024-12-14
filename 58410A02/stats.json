@@ -1,0 +1,769 @@
+{
+    "properties": {
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000002": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "SortTime",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000003": {
+            "info": "Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000002": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "SortTime",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000003": {
+            "info": "Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000002": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000002": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000002": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000002": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000002": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000002": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000002": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000002": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000002": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000002": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000002": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000002": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000002": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000002": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000002": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "SortTime",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000003": {
+            "info": "Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "SortTime",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000003": {
+            "info": "Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "SortTime",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000003": {
+            "info": "Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "SortTime",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000003": {
+            "info": "Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "SortTime",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000003": {
+            "info": "Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "SortTime",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000003": {
+            "info": "Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "SortTime",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000003": {
+            "info": "Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "SortTime",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000003": {
+            "info": "Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "SortTime",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000003": {
+            "info": "Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "SortTime",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000003": {
+            "info": "Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "SortTime",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000003": {
+            "info": "Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "SortTime",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000003": {
+            "info": "Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "SortTime",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000003": {
+            "info": "Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "SortTime",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000003": {
+            "info": "Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "SortTime",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000003": {
+            "info": "Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000005": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 2
+        }
+    }
+}

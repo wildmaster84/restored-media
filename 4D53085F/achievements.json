@@ -1,0 +1,1904 @@
+{
+    "Achievements": {
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Kartenhai",
+                    "en-US": "Card Sharp",
+                    "es-ES": "Ludópata",
+                    "fr-FR": "Tricheur",
+                    "it-IT": "Carta da gioco",
+                    "ja-JP": "カード ビギナー",
+                    "ko-KR": "카드 마술사 우수상",
+                    "zh-CHT": "寶貝卡專家"
+                },
+                "description": {
+                    "de-DE": "Setze eine Piñata-Karte ein",
+                    "en-US": "Use a Piñata Card",
+                    "es-ES": "Usa una tarjeta PiñataVisión.",
+                    "fr-FR": "Utiliser une carte Piñata",
+                    "it-IT": "Usa una scheda Piñata",
+                    "ja-JP": "ピニャータ カードを使う",
+                    "ko-KR": "피냐타 카드를 사용해야 해요.",
+                    "zh-CHT": "成功使用一張寶貝卡"
+                },
+                "howto": {
+                    "de-DE": "Setze eine Piñata-Karte ein",
+                    "en-US": "Use a Piñata Card",
+                    "es-ES": "Usa una tarjeta PiñataVisión.",
+                    "fr-FR": "Utiliser une carte Piñata",
+                    "it-IT": "Usa una scheda Piñata",
+                    "ja-JP": "ピニャータ カードを使う",
+                    "ko-KR": "피냐타 카드를 사용해야 해요.",
+                    "zh-CHT": "成功使用一張寶貝卡"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "Moojoo-Evolution",
+                    "en-US": "Moojoo Evolution",
+                    "es-ES": "Evolución de moojoo",
+                    "fr-FR": "Évolution moojoo",
+                    "it-IT": "Evoluzione Moojoo",
+                    "ja-JP": "ムージューに変化",
+                    "ko-KR": "무주 진화 우수상",
+                    "zh-CHT": "進化的摩啾糜鹿"
+                },
+                "description": {
+                    "de-DE": "Züchte einen Moojoo aus einem Doenut",
+                    "en-US": "Evolve a Moojoo from a Doenut",
+                    "es-ES": "Haz evolucionar una doenut a una moojoo.",
+                    "fr-FR": "Faire évoluer une doenut en moojoo",
+                    "it-IT": "Evoluzione in Moojoo da una Doenut",
+                    "ja-JP": "ドーナツをムージューに変化させる",
+                    "ko-KR": "도넛이 무주로 진화해야 해요.",
+                    "zh-CHT": "從多納鹿進化成摩啾糜鹿"
+                },
+                "howto": {
+                    "de-DE": "Züchte einen Moojoo aus einem Doenut",
+                    "en-US": "Evolve a Moojoo from a Doenut",
+                    "es-ES": "Haz evolucionar una doenut a una moojoo.",
+                    "fr-FR": "Faire évoluer une doenut en moojoo",
+                    "it-IT": "Evoluzione in Moojoo da una Doenut",
+                    "ja-JP": "ドーナツをムージューに変化させる",
+                    "ko-KR": "도넛이 무주로 진화해야 해요.",
+                    "zh-CHT": "從多納鹿進化成摩啾糜鹿"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "02.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "Ausbilder",
+                    "en-US": "Instructor",
+                    "es-ES": "Instructor",
+                    "fr-FR": "Instructeur",
+                    "it-IT": "Istruttore",
+                    "ja-JP": "とくぎの先生",
+                    "ko-KR": "조련사",
+                    "zh-CHT": "教練"
+                },
+                "description": {
+                    "de-DE": "Bringe einem Piñata alle Tricks bei",
+                    "en-US": "Teach a Piñata all of their Tricks",
+                    "es-ES": "Enseña a una piñata todos sus trucos.",
+                    "fr-FR": "Apprendre tous leurs tours à une Piñata",
+                    "it-IT": "Insegna a una Piñata tutti i suoi trick",
+                    "ja-JP": "1 匹のピニャータに全部のとくぎをおぼえさせる",
+                    "ko-KR": "피냐타 1마리에게 모든 재주를 가르쳐야 해요.",
+                    "zh-CHT": "訓練寶貝學會所有的絕招"
+                },
+                "howto": {
+                    "de-DE": "Bringe einem Piñata alle Tricks bei",
+                    "en-US": "Teach a Piñata all of their Tricks",
+                    "es-ES": "Enseña a una piñata todos sus trucos.",
+                    "fr-FR": "Apprendre tous leurs tours à une Piñata",
+                    "it-IT": "Insegna a una Piñata tutti i suoi trick",
+                    "ja-JP": "1 匹のピニャータに全部のとくぎをおぼえさせる",
+                    "ko-KR": "피냐타 1마리에게 모든 재주를 가르쳐야 해요.",
+                    "zh-CHT": "訓練寶貝學會所有的絕招"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Hoghurt-Evolution",
+                    "en-US": "Hoghurt Evolution",
+                    "es-ES": "Evolución de hoghurt",
+                    "fr-FR": "Évolution hoghurt",
+                    "it-IT": "Evoluzione Hoghurt",
+                    "ja-JP": "ホッガートに変化",
+                    "ko-KR": "호그허트 진화 우수상",
+                    "zh-CHT": "進化成豪格豬"
+                },
+                "description": {
+                    "de-DE": "Züchte einen Hoghurt aus einem Rashberry",
+                    "en-US": "Evolve a Hoghurt from a Rashberry",
+                    "es-ES": "Haz evolucionar una rashberry a una hoghurt.",
+                    "fr-FR": "Faire évoluer un rashberry en hoghurt",
+                    "it-IT": "Evoluzione in Hoghurt da una Rashberry",
+                    "ja-JP": "ラッシュベリーをホッガートに変化させる",
+                    "ko-KR": "래쉬베리가 호그허트로 진화해야 해요.",
+                    "zh-CHT": "從瑞比豬進化成豪格豬"
+                },
+                "howto": {
+                    "de-DE": "Züchte einen Hoghurt aus einem Rashberry",
+                    "en-US": "Evolve a Hoghurt from a Rashberry",
+                    "es-ES": "Haz evolucionar una rashberry a una hoghurt.",
+                    "fr-FR": "Faire évoluer un rashberry en hoghurt",
+                    "it-IT": "Evoluzione in Hoghurt da una Rashberry",
+                    "ja-JP": "ラッシュベリーをホッガートに変化させる",
+                    "ko-KR": "래쉬베리가 호그허트로 진화해야 해요.",
+                    "zh-CHT": "從瑞比豬進化成豪格豬"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "04.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "Berühmtes Piñata",
+                    "en-US": "Famous Piñata",
+                    "es-ES": "Piñata famosa",
+                    "fr-FR": "Piñata célèbre",
+                    "it-IT": "Piñata famosa",
+                    "ja-JP": "スペシャル ピニャータ",
+                    "ko-KR": "스타 피냐타",
+                    "zh-CHT": "寶貝名人"
+                },
+                "description": {
+                    "de-DE": "Erwirb ein besonderes Piñata auf der Website (oder tausche mit jemandem, der es hat)",
+                    "en-US": "Obtain a special Piñata from the website (or trade one with someone who has)",
+                    "es-ES": "Obtén una piñata especial del sitio web (o intercámbiala con alguien que tenga una).",
+                    "fr-FR": "Obtenir une Piñata très spéciale sur le site Web (ou auprès de quelqu'un qui en possède une)",
+                    "it-IT": "Ottieni una Piñata speciale dal sito web (o scambiane una con qualcuno che ce l'ha)",
+                    "ja-JP": "Web サイトから特別なピニャータを手に入れる (または、ほかのガーデナーから特別なピニャータをもらう)",
+                    "ko-KR": "웹사이트나 다른 플레이어에게서 특별한 피냐타를 얻어야 해요.",
+                    "zh-CHT": "從網站獲得特殊的寶貝 (或與擁有該寶貝的人交換)"
+                },
+                "howto": {
+                    "de-DE": "Erwirb ein besonderes Piñata auf der Website (oder tausche mit jemandem, der es hat)",
+                    "en-US": "Obtain a special Piñata from the website (or trade one with someone who has)",
+                    "es-ES": "Obtén una piñata especial del sitio web (o intercámbiala con alguien que tenga una).",
+                    "fr-FR": "Obtenir une Piñata très spéciale sur le site Web (ou auprès de quelqu'un qui en possède une)",
+                    "it-IT": "Ottieni una Piñata speciale dal sito web (o scambiane una con qualcuno che ce l'ha)",
+                    "ja-JP": "Web サイトから特別なピニャータを手に入れる (または、ほかのガーデナーから特別なピニャータをもらう)",
+                    "ko-KR": "웹사이트나 다른 플레이어에게서 특별한 피냐타를 얻어야 해요.",
+                    "zh-CHT": "從網站獲得特殊的寶貝 (或與擁有該寶貝的人交換)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "05.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "Polollybear-Evolution",
+                    "en-US": "Polollybear Evolution",
+                    "es-ES": "Evolución de polollybear",
+                    "fr-FR": "Évolution polollybear",
+                    "it-IT": "Evoluzione Polollybear",
+                    "ja-JP": "ポロリーベアに変化",
+                    "ko-KR": "포롤리베어 진화 우수상",
+                    "zh-CHT": "進化成寶露熊"
+                },
+                "description": {
+                    "de-DE": "Züchte einen Polollybear aus einem Fizzlybear",
+                    "en-US": "Evolve a Polollybear from a Fizzlybear",
+                    "es-ES": "Haz evolucionar una fizzlybear a una polollybear.",
+                    "fr-FR": "Faire évoluer un fizzlybear en polollybear",
+                    "it-IT": "Evoluzione in Polollybear da una Fizzlybear",
+                    "ja-JP": "フィズリーベアをポロリーベアに変化させる",
+                    "ko-KR": "피즐리베어가 포롤리베어로 진화해야 해요.",
+                    "zh-CHT": "從菲茲熊進化成寶露熊"
+                },
+                "howto": {
+                    "de-DE": "Züchte einen Polollybear aus einem Fizzlybear",
+                    "en-US": "Evolve a Polollybear from a Fizzlybear",
+                    "es-ES": "Haz evolucionar una fizzlybear a una polollybear.",
+                    "fr-FR": "Faire évoluer un fizzlybear en polollybear",
+                    "it-IT": "Evoluzione in Polollybear da una Fizzlybear",
+                    "ja-JP": "フィズリーベアをポロリーベアに変化させる",
+                    "ko-KR": "피즐리베어가 포롤리베어로 진화해야 해요.",
+                    "zh-CHT": "從菲茲熊進化成寶露熊"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "06.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "Rekordhalter",
+                    "en-US": "Records Keeper",
+                    "es-ES": "Registrador",
+                    "fr-FR": "Gardien des archives",
+                    "it-IT": "Archivista",
+                    "ja-JP": "データ キーパー",
+                    "ko-KR": "기록 관리사",
+                    "zh-CHT": "電腦工程師"
+                },
+                "description": {
+                    "de-DE": "Brich 10 Computerrekorde von Piñata Central",
+                    "en-US": "Restore 10 of Piñata Central’s Computer Records",
+                    "es-ES": "Recupera 10 registros informatizados de Piñata Central.",
+                    "fr-FR": "Restaurer 10 des archives de Piñata Central",
+                    "it-IT": "Ripristina 10 archivi del computer di Piñata Central",
+                    "ja-JP": "ピニャータ セントラルのデータを 10 個ふっきゅうさせる",
+                    "ko-KR": "피냐타 센트럴의 컴퓨터 기록 10개를 복구해야 해요.",
+                    "zh-CHT": "回復 10 個寶貝派對總部的電腦記錄"
+                },
+                "howto": {
+                    "de-DE": "Brich 10 Computerrekorde von Piñata Central",
+                    "en-US": "Restore 10 of Piñata Central’s Computer Records",
+                    "es-ES": "Recupera 10 registros informatizados de Piñata Central.",
+                    "fr-FR": "Restaurer 10 des archives de Piñata Central",
+                    "it-IT": "Ripristina 10 archivi del computer di Piñata Central",
+                    "ja-JP": "ピニャータ セントラルのデータを 10 個ふっきゅうさせる",
+                    "ko-KR": "피냐타 센트럴의 컴퓨터 기록 10개를 복구해야 해요.",
+                    "zh-CHT": "回復 10 個寶貝派對總部的電腦記錄"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "07.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "Dinobesitzer",
+                    "en-US": "Dinokeeper",
+                    "es-ES": "Cuidador de dinosaurios",
+                    "fr-FR": "Garde-dino",
+                    "it-IT": "Amante dei dinosauri",
+                    "ja-JP": "きょうりゅうの飼い主",
+                    "ko-KR": "공룡 발견",
+                    "zh-CHT": "恐龍管理員"
+                },
+                "description": {
+                    "de-DE": "Besitze einen Choclodocus",
+                    "en-US": "Obtain a Choclodocus",
+                    "es-ES": "Obtén una choclodocus.",
+                    "fr-FR": "Obtenir un choclodocus",
+                    "it-IT": "Ottieni una Choclodocus",
+                    "ja-JP": "チョクロドカスがガーデンにいる",
+                    "ko-KR": "초크로도커스를 얻어야 해요.",
+                    "zh-CHT": "獲得巧克恐龍"
+                },
+                "howto": {
+                    "de-DE": "Besitze einen Choclodocus",
+                    "en-US": "Obtain a Choclodocus",
+                    "es-ES": "Obtén una choclodocus.",
+                    "fr-FR": "Obtenir un choclodocus",
+                    "it-IT": "Ottieni una Choclodocus",
+                    "ja-JP": "チョクロドカスがガーデンにいる",
+                    "ko-KR": "초크로도커스를 얻어야 해요.",
+                    "zh-CHT": "獲得巧克恐龍"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "08.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "Meister der Zuckerkamera",
+                    "en-US": "Master Candied Camera",
+                    "es-ES": "Maestro de la cámara oculta",
+                    "fr-FR": "Maître paparassis",
+                    "it-IT": "Maestro fotografo",
+                    "ja-JP": "ガーデンの名カメラマン",
+                    "ko-KR": "위대한 사진사",
+                    "zh-CHT": "大師級糖果照相機"
+                },
+                "description": {
+                    "de-DE": "Schieß ein besonderes Foto",
+                    "en-US": "Take a Special Photograph",
+                    "es-ES": "Haz una foto especial.",
+                    "fr-FR": "Prendre une photo spéciale",
+                    "it-IT": "Scatta una fotografia speciale",
+                    "ja-JP": "特別な写真をさつえいする",
+                    "ko-KR": "특별한 사진을 찍어야 해요.",
+                    "zh-CHT": "拍攝特別的相片"
+                },
+                "howto": {
+                    "de-DE": "Schieß ein besonderes Foto",
+                    "en-US": "Take a Special Photograph",
+                    "es-ES": "Haz una foto especial.",
+                    "fr-FR": "Prendre une photo spéciale",
+                    "it-IT": "Scatta una fotografia speciale",
+                    "ja-JP": "特別な写真をさつえいする",
+                    "ko-KR": "특별한 사진을 찍어야 해요.",
+                    "zh-CHT": "拍攝特別的相片"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Schickes Kleid",
+                    "en-US": "Fancy Dress",
+                    "es-ES": "Vestida a la moda",
+                    "fr-FR": "Costume tendance",
+                    "it-IT": "Vestiti carini",
+                    "ja-JP": "ピニャータ ドレッサー",
+                    "ko-KR": "멋쟁이 피냐타",
+                    "zh-CHT": "華麗的禮服"
+                },
+                "description": {
+                    "de-DE": "Trage ein Piñata-'Kostüm'",
+                    "en-US": "Wear a Piñata 'Costume'",
+                    "es-ES": "Ponte un disfraz de piñata.",
+                    "fr-FR": "Porter un costume de Piñata",
+                    "it-IT": "Indossa un travestimento da Piñata",
+                    "ja-JP": "ピニャータ コスチュームを着せる",
+                    "ko-KR": "피냐타가 특별한 '의상'을 갖추어 입어야 해요.",
+                    "zh-CHT": "穿著寶貝「服裝」"
+                },
+                "howto": {
+                    "de-DE": "Trage ein Piñata-'Kostüm'",
+                    "en-US": "Wear a Piñata 'Costume'",
+                    "es-ES": "Ponte un disfraz de piñata.",
+                    "fr-FR": "Porter un costume de Piñata",
+                    "it-IT": "Indossa un travestimento da Piñata",
+                    "ja-JP": "ピニャータ コスチュームを着せる",
+                    "ko-KR": "피냐타가 특별한 '의상'을 갖추어 입어야 해요.",
+                    "zh-CHT": "穿著寶貝「服裝」"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "10.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Bester Zurschausteller",
+                    "en-US": "Master Exhibitor",
+                    "es-ES": "Maestro exhibidor",
+                    "fr-FR": "Maître manager",
+                    "it-IT": "Maestro espositore",
+                    "ja-JP": "コンテスト マスター",
+                    "ko-KR": "마스터 피냐타 코치",
+                    "zh-CHT": "表演秀大師"
+                },
+                "description": {
+                    "de-DE": "Gewinne bei 10 Piñata-Shows",
+                    "en-US": "Win 10 Piñata shows",
+                    "es-ES": "Gana 10 concursos de piñatas.",
+                    "fr-FR": "Remporter 10 concours de Piñatas",
+                    "it-IT": "Vinci 10 esibizioni di Piñata",
+                    "ja-JP": "コンテストで 10 回優勝する",
+                    "ko-KR": "피냐타 대회에서 10번 우승해야 해요.",
+                    "zh-CHT": "贏得 10 場寶貝表演秀"
+                },
+                "howto": {
+                    "de-DE": "Gewinne bei 10 Piñata-Shows",
+                    "en-US": "Win 10 Piñata shows",
+                    "es-ES": "Gana 10 concursos de piñatas.",
+                    "fr-FR": "Remporter 10 concours de Piñatas",
+                    "it-IT": "Vinci 10 esibizioni di Piñata",
+                    "ja-JP": "コンテストで 10 回優勝する",
+                    "ko-KR": "피냐타 대회에서 10번 우승해야 해요.",
+                    "zh-CHT": "贏得 10 場寶貝表演秀"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "11.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Wüstensammler",
+                    "en-US": "Desert Collector",
+                    "es-ES": "Coleccionista desértico",
+                    "fr-FR": "Collectionneur des sables",
+                    "it-IT": "Allevatore del deserto",
+                    "ja-JP": "さばくコレクション",
+                    "ko-KR": "사막 사냥꾼 우수상",
+                    "zh-CHT": "沙漠寶貝收藏家"
+                },
+                "description": {
+                    "de-DE": "Mach 3 Wüstenarten bei dir sesshaft",
+                    "en-US": "Make 3 Desert species resident",
+                    "es-ES": "Consigue que 3 especies del desierto se hagan residentes.",
+                    "fr-FR": "Avoir 3 espèces du Désert résidentes",
+                    "it-IT": "Rendi stanziali 3 specie del deserto",
+                    "ja-JP": "さばくのピニャータを 3 種類住人にする",
+                    "ko-KR": "사막 지역의 피냐타 3종이 가족이 되어야 해요.",
+                    "zh-CHT": "讓 3 種沙漠寶貝定居"
+                },
+                "howto": {
+                    "de-DE": "Mach 3 Wüstenarten bei dir sesshaft",
+                    "en-US": "Make 3 Desert species resident",
+                    "es-ES": "Consigue que 3 especies del desierto se hagan residentes.",
+                    "fr-FR": "Avoir 3 espèces du Désert résidentes",
+                    "it-IT": "Rendi stanziali 3 specie del deserto",
+                    "ja-JP": "さばくのピニャータを 3 種類住人にする",
+                    "ko-KR": "사막 지역의 피냐타 3종이 가족이 되어야 해요.",
+                    "zh-CHT": "讓 3 種沙漠寶貝定居"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "12.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Sofapromi",
+                    "en-US": "Couch Socialite",
+                    "es-ES": "Dueño del sofá",
+                    "fr-FR": "Pote de canap",
+                    "it-IT": "Individuo sociale",
+                    "ja-JP": "ペア プレイ",
+                    "ko-KR": "사교왕",
+                    "zh-CHT": "社交名流"
+                },
+                "description": {
+                    "de-DE": "Spiele 1 Stunde lang den Co-op-Modus",
+                    "en-US": "Play One Box Co-op for 1 hour",
+                    "es-ES": "Juega en Cooperación con una consola durante una hora.",
+                    "fr-FR": "Jouer en coop. pendant 1h sur une console Xbox 360",
+                    "it-IT": "Gioca una partita cooperativa locale per 1 ora",
+                    "ja-JP": "1 台の Xbox 360 本体で 1 時間協力プレイ モードであそぶ",
+                    "ko-KR": "1시간 동안 오프라인 협동 게임을 해야 해요.",
+                    "zh-CHT": "在單機上玩合作模式達 1 小時"
+                },
+                "howto": {
+                    "de-DE": "Spiele 1 Stunde lang den Co-op-Modus",
+                    "en-US": "Play One Box Co-op for 1 hour",
+                    "es-ES": "Juega en Cooperación con una consola durante una hora.",
+                    "fr-FR": "Jouer en coop. pendant 1h sur une console Xbox 360",
+                    "it-IT": "Gioca una partita cooperativa locale per 1 ora",
+                    "ja-JP": "1 台の Xbox 360 本体で 1 時間協力プレイ モードであそぶ",
+                    "ko-KR": "1시간 동안 오프라인 협동 게임을 해야 해요.",
+                    "zh-CHT": "在單機上玩合作模式達 1 小時"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "13.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "de-DE": "Meister-Sofapromi",
+                    "en-US": "Master Couch Socialite",
+                    "es-ES": "Maestro dueño del sofá",
+                    "fr-FR": "Super pote de canap",
+                    "it-IT": "Individuo MOLTO sociale",
+                    "ja-JP": "ペア プレイ マスター",
+                    "ko-KR": "우수 사교왕",
+                    "zh-CHT": "社交大師"
+                },
+                "description": {
+                    "de-DE": "Spiele 3 Stunden lang den Co-op-Modus",
+                    "en-US": "Play One Box Co-op for 3 Hours",
+                    "es-ES": "Juega en Cooperación con una consola durante 3 horas.",
+                    "fr-FR": "Jouer en coop. pendant 3h sur une console Xbox 360",
+                    "it-IT": "Gioca una partita cooperativa locale per 3 ore",
+                    "ja-JP": "1 台の Xbox 360 本体で 3 時間協力プレイ モードであそぶ",
+                    "ko-KR": "3시간 동안 오프라인 협동 게임을 해야 해요.",
+                    "zh-CHT": "在單機上玩合作模式達 3 小時"
+                },
+                "howto": {
+                    "de-DE": "Spiele 3 Stunden lang den Co-op-Modus",
+                    "en-US": "Play One Box Co-op for 3 Hours",
+                    "es-ES": "Juega en Cooperación con una consola durante 3 horas.",
+                    "fr-FR": "Jouer en coop. pendant 3h sur une console Xbox 360",
+                    "it-IT": "Gioca una partita cooperativa locale per 3 ore",
+                    "ja-JP": "1 台の Xbox 360 本体で 3 時間協力プレイ モードであそぶ",
+                    "ko-KR": "3시간 동안 오프라인 협동 게임을 해야 해요.",
+                    "zh-CHT": "在單機上玩合作模式達 3 小時"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "14.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "de-DE": "Zwillingsgeburt",
+                    "en-US": "Twin Birth",
+                    "es-ES": "Parto de gemelas",
+                    "fr-FR": "Jumeaux",
+                    "it-IT": "Duplice lieto evento",
+                    "ja-JP": "ふたごビギナー",
+                    "ko-KR": "쌍둥이",
+                    "zh-CHT": "雙胞胎"
+                },
+                "description": {
+                    "de-DE": "Erschaffe ein Piñata-Zwillingspärchen",
+                    "en-US": "Create 1 set of Twin Piñatas",
+                    "es-ES": "Crea una pareja de piñatas gemelas.",
+                    "fr-FR": "Obtenir 1 naissance de Piñatas jumelles",
+                    "it-IT": "Crea 1 set di Piñata gemelle",
+                    "ja-JP": "ふたごのピニャータが 1 組生まれる",
+                    "ko-KR": "피냐타 쌍둥이 한 쌍이 태어나야 해요.",
+                    "zh-CHT": "產生 1 組雙胞胎寶貝"
+                },
+                "howto": {
+                    "de-DE": "Erschaffe ein Piñata-Zwillingspärchen",
+                    "en-US": "Create 1 set of Twin Piñatas",
+                    "es-ES": "Crea una pareja de piñatas gemelas.",
+                    "fr-FR": "Obtenir 1 naissance de Piñatas jumelles",
+                    "it-IT": "Crea 1 set di Piñata gemelle",
+                    "ja-JP": "ふたごのピニャータが 1 組生まれる",
+                    "ko-KR": "피냐타 쌍둥이 한 쌍이 태어나야 해요.",
+                    "zh-CHT": "產生 1 組雙胞胎寶貝"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "15.png"
+        },
+        "51": {
+            "text": {
+                "name": {
+                    "de-DE": "Schu-Schu-Meister",
+                    "en-US": "Choo-Choo Master",
+                    "es-ES": "Maestro chu chu",
+                    "fr-FR": "Maître tchou tchou",
+                    "it-IT": "Maestro ferroviere",
+                    "ja-JP": "トレイン マスター",
+                    "ko-KR": "기관사 최우수상",
+                    "zh-CHT": "火車大師"
+                },
+                "description": {
+                    "de-DE": "Eine Spektrallokomotive im Garten",
+                    "en-US": "Have a Spectral Locomotive in the garden",
+                    "es-ES": "Ten una locomotora espectral en el jardín.",
+                    "fr-FR": "Placer une locomotive spectrale dans ton jardin",
+                    "it-IT": "Ottieni una locomotiva spettrale in giardino",
+                    "ja-JP": "オバケきかん車がガーデンにある",
+                    "ko-KR": "정원에 특별한 기관차가 있어야 해요.",
+                    "zh-CHT": "花園裡有幽靈火車頭"
+                },
+                "howto": {
+                    "de-DE": "Eine Spektrallokomotive im Garten",
+                    "en-US": "Have a Spectral Locomotive in the garden",
+                    "es-ES": "Ten una locomotora espectral en el jardín.",
+                    "fr-FR": "Placer une locomotive spectrale dans ton jardin",
+                    "it-IT": "Ottieni una locomotiva spettrale in giardino",
+                    "ja-JP": "オバケきかん車がガーデンにある",
+                    "ko-KR": "정원에 특별한 기관차가 있어야 해요.",
+                    "zh-CHT": "花園裡有幽靈火車頭"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "16.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "de-DE": "Schaufelgolf",
+                    "en-US": "Gone Clubbing",
+                    "es-ES": "A golpes",
+                    "fr-FR": "Star de la pelle",
+                    "it-IT": "Golfista della domenica",
+                    "ja-JP": "ゴルフざんまい",
+                    "ko-KR": "골프 선수",
+                    "zh-CHT": "高爾夫名人"
+                },
+                "description": {
+                    "de-DE": "Befördere 5 Süßigkeiten mit der Schaufel in Samenlöcher",
+                    "en-US": "Knock 5 Sweets into Seed Holes using the Shovel",
+                    "es-ES": "Mete 5 golosinas en agujeros para semillas con la pala.",
+                    "fr-FR": "Balancer 5 bonbons dans les trous à graines avec la pelle",
+                    "it-IT": "Spedisci 5 dolcetti dentro ai buchi per semi usando la vanga",
+                    "ja-JP": "5 つのスイーツをシャベルで打ってタネあなに入れる",
+                    "ko-KR": "삽으로 사탕 5개를 씨앗 구멍에 넣어야 해요.",
+                    "zh-CHT": "使用圓鍬將 5 顆糖果敲進種子洞"
+                },
+                "howto": {
+                    "de-DE": "Befördere 5 Süßigkeiten mit der Schaufel in Samenlöcher",
+                    "en-US": "Knock 5 Sweets into Seed Holes using the Shovel",
+                    "es-ES": "Mete 5 golosinas en agujeros para semillas con la pala.",
+                    "fr-FR": "Balancer 5 bonbons dans les trous à graines avec la pelle",
+                    "it-IT": "Spedisci 5 dolcetti dentro ai buchi per semi usando la vanga",
+                    "ja-JP": "5 つのスイーツをシャベルで打ってタネあなに入れる",
+                    "ko-KR": "삽으로 사탕 5개를 씨앗 구멍에 넣어야 해요.",
+                    "zh-CHT": "使用圓鍬將 5 顆糖果敲進種子洞"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "17.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "de-DE": "Region 7-Herausforderer",
+                    "en-US": "Region 7 Challenger",
+                    "es-ES": "Desafiador de la región 7",
+                    "fr-FR": "Céréal' vainqueur Région 7",
+                    "it-IT": "Campione dell'area 7",
+                    "ja-JP": "ちいき 7 のチャレンジ",
+                    "ko-KR": "지역 7 챌린지 우수상",
+                    "zh-CHT": "地域 7 挑戰者"
+                },
+                "description": {
+                    "de-DE": "Erledige alle Aufgaben in Region 7",
+                    "en-US": "Complete all Challenges in Region 7",
+                    "es-ES": "Completa todos los desafíos de la región 7.",
+                    "fr-FR": "Remporter tous les défis de la Région 7",
+                    "it-IT": "Completa tutte le sfide dell'area 7",
+                    "ja-JP": "ちいき 7 のチャレンジを全部クリアする",
+                    "ko-KR": "지역 7에서 모든 챌린지를 성공해야 해요.",
+                    "zh-CHT": "完成地域 7 的所有挑戰"
+                },
+                "howto": {
+                    "de-DE": "Erledige alle Aufgaben in Region 7",
+                    "en-US": "Complete all Challenges in Region 7",
+                    "es-ES": "Completa todos los desafíos de la región 7.",
+                    "fr-FR": "Remporter tous les défis de la Région 7",
+                    "it-IT": "Completa tutte le sfide dell'area 7",
+                    "ja-JP": "ちいき 7 のチャレンジを全部クリアする",
+                    "ko-KR": "지역 7에서 모든 챌린지를 성공해야 해요.",
+                    "zh-CHT": "完成地域 7 的所有挑戰"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "18.png"
+        },
+        "54": {
+            "text": {
+                "name": {
+                    "de-DE": "Grüner Wüstendaumen",
+                    "en-US": "Desert Green Fingers",
+                    "es-ES": "Instinto vegetal desértico",
+                    "fr-FR": "Main verte du Désert",
+                    "it-IT": "Pollice di sabbia",
+                    "ja-JP": "さばくグリーン フィンガー",
+                    "ko-KR": "사막 지역 식물 재배사 우수상",
+                    "zh-CHT": "沙漠園藝專家"
+                },
+                "description": {
+                    "de-DE": "Lass alle Wüstenpflanzen vollständig auswachsen",
+                    "en-US": "Grow all Desert plants to maturity",
+                    "es-ES": "Consigue que todas las plantas del desierto alcancen su madurez.",
+                    "fr-FR": "Faire parvenir toutes les plantes du Désert à maturité",
+                    "it-IT": "Fai crescere con cura tutte le piante desertiche",
+                    "ja-JP": "さばくの植物をすべて完全に成長させる",
+                    "ko-KR": "사막 지역의 모든 식물들이 완전히 자라야 해요.",
+                    "zh-CHT": "讓所有沙漠植物發育成熟"
+                },
+                "howto": {
+                    "de-DE": "Lass alle Wüstenpflanzen vollständig auswachsen",
+                    "en-US": "Grow all Desert plants to maturity",
+                    "es-ES": "Consigue que todas las plantas del desierto alcancen su madurez.",
+                    "fr-FR": "Faire parvenir toutes les plantes du Désert à maturité",
+                    "it-IT": "Fai crescere con cura tutte le piante desertiche",
+                    "ja-JP": "さばくの植物をすべて完全に成長させる",
+                    "ko-KR": "사막 지역의 모든 식물들이 완전히 자라야 해요.",
+                    "zh-CHT": "讓所有沙漠植物發育成熟"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "19.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "de-DE": "Pieena-Evolution",
+                    "en-US": "Pieena Evolution",
+                    "es-ES": "Evolución de pieena",
+                    "fr-FR": "Évolution pieena",
+                    "it-IT": "Evoluzione Pieena",
+                    "ja-JP": "パイエナに変化",
+                    "ko-KR": "피에나 진화 우수상",
+                    "zh-CHT": "進化成皮耶鬣狗"
+                },
+                "description": {
+                    "de-DE": "Züchte eine Pieena aus einem Pretztail",
+                    "en-US": "Evolve a Pieena from a Pretztail",
+                    "es-ES": "Haz evolucionar una pretztail a una pieena.",
+                    "fr-FR": "Faire évoluer un pretztail en pieena",
+                    "it-IT": "Evoluzione in Pieena da una Pretztail",
+                    "ja-JP": "プレッツテールをパイエナに変化させる",
+                    "ko-KR": "프레츠테일이 피에나로 진화해야 해요.",
+                    "zh-CHT": "從佩特狐進化成皮耶鬣狗"
+                },
+                "howto": {
+                    "de-DE": "Züchte eine Pieena aus einem Pretztail",
+                    "en-US": "Evolve a Pieena from a Pretztail",
+                    "es-ES": "Haz evolucionar una pretztail a una pieena.",
+                    "fr-FR": "Faire évoluer un pretztail en pieena",
+                    "it-IT": "Evoluzione in Pieena da una Pretztail",
+                    "ja-JP": "プレッツテールをパイエナに変化させる",
+                    "ko-KR": "프레츠테일이 피에나로 진화해야 해요.",
+                    "zh-CHT": "從佩特狐進化成皮耶鬣狗"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "20.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "de-DE": "Zuckerkamera",
+                    "en-US": "Candied Camera",
+                    "es-ES": "Cámara oculta",
+                    "fr-FR": "Paparassis",
+                    "it-IT": "Dolce fotografia",
+                    "ja-JP": "ガーデンのカメラマン",
+                    "ko-KR": "달콤한 사진사",
+                    "zh-CHT": "糖果照相機"
+                },
+                "description": {
+                    "de-DE": "Schieß 10 Fotos (Normal)",
+                    "en-US": "Take 10 Photographs (Normal)",
+                    "es-ES": "Haz 10 fotos (normales).",
+                    "fr-FR": "Prendre 10 photos (normal)",
+                    "it-IT": "Scatta 10 fotografie (normale)",
+                    "ja-JP": "ふつうの写真を 10 枚さつえいする",
+                    "ko-KR": "사진 10장을 찍어야 해요.",
+                    "zh-CHT": "拍攝 10 張普通的照片"
+                },
+                "howto": {
+                    "de-DE": "Schieß 10 Fotos (Normal)",
+                    "en-US": "Take 10 Photographs (Normal)",
+                    "es-ES": "Haz 10 fotos (normales).",
+                    "fr-FR": "Prendre 10 photos (normal)",
+                    "it-IT": "Scatta 10 fotografie (normale)",
+                    "ja-JP": "ふつうの写真を 10 枚さつえいする",
+                    "ko-KR": "사진 10장을 찍어야 해요.",
+                    "zh-CHT": "拍攝 10 張普通的照片"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "21.png"
+        },
+        "59": {
+            "text": {
+                "name": {
+                    "de-DE": "Parmadillo-Evolution",
+                    "en-US": "Parmadillo Evolution",
+                    "es-ES": "Evolución de parmadillo",
+                    "fr-FR": "Évolution parmadillo",
+                    "it-IT": "Evoluzione Parmadillo",
+                    "ja-JP": "パルマジロに変化",
+                    "ko-KR": "파마딜로 진화 우수상",
+                    "zh-CHT": "進化成巴馬犰狳"
+                },
+                "description": {
+                    "de-DE": "Züchte ein Parmadillo aus einem Fudgehog",
+                    "en-US": "Evolve a Parmadillo from a Fudgehog",
+                    "es-ES": "Haz evolucionar una fudgehog a una parmadillo.",
+                    "fr-FR": "Faire évoluer un fudgehog en parmadillo",
+                    "it-IT": "Evoluzione in Parmadillo da una Fudgehog",
+                    "ja-JP": "ファッジホッグをパルマジロに変化させる",
+                    "ko-KR": "퍼지호그가 파마딜로로 진화해야 해요.",
+                    "zh-CHT": "從弗奇刺蝟進化成巴馬犰狳"
+                },
+                "howto": {
+                    "de-DE": "Züchte ein Parmadillo aus einem Fudgehog",
+                    "en-US": "Evolve a Parmadillo from a Fudgehog",
+                    "es-ES": "Haz evolucionar una fudgehog a una parmadillo.",
+                    "fr-FR": "Faire évoluer un fudgehog en parmadillo",
+                    "it-IT": "Evoluzione in Parmadillo da una Fudgehog",
+                    "ja-JP": "ファッジホッグをパルマジロに変化させる",
+                    "ko-KR": "퍼지호그가 파마딜로로 진화해야 해요.",
+                    "zh-CHT": "從弗奇刺蝟進化成巴馬犰狳"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "22.png"
+        },
+        "71": {
+            "text": {
+                "name": {
+                    "de-DE": "Grüner Arktisdaumen",
+                    "en-US": "Arctic Green Fingers",
+                    "es-ES": "Instinto vegetal piñártico",
+                    "fr-FR": "Main verte du Piñarctique",
+                    "it-IT": "Pollice di neve",
+                    "ja-JP": "ピニャークティック グリーン フィンガー",
+                    "ko-KR": "피냐크틱 식물 재배사 우수상",
+                    "zh-CHT": "極區園藝專家"
+                },
+                "description": {
+                    "de-DE": "Lass alle Arktispflanzen vollständig auswachsen",
+                    "en-US": "Grow all Arctic plants to maturity",
+                    "es-ES": "Consigue que todas las plantas del piñártico alcancen su madurez.",
+                    "fr-FR": "Faire parvenir toutes les plantes du Piñarctique à maturité",
+                    "it-IT": "Fai crescere con cura tutte le piante artiche",
+                    "ja-JP": "ピニャークティックの植物をすべて完全に成長させる",
+                    "ko-KR": "피냐크틱의 모든 식물들이 완전히 자라야 해요.",
+                    "zh-CHT": "讓所有極區植物發育成熟"
+                },
+                "howto": {
+                    "de-DE": "Lass alle Arktispflanzen vollständig auswachsen",
+                    "en-US": "Grow all Arctic plants to maturity",
+                    "es-ES": "Consigue que todas las plantas del piñártico alcancen su madurez.",
+                    "fr-FR": "Faire parvenir toutes les plantes du Piñarctique à maturité",
+                    "it-IT": "Fai crescere con cura tutte le piante artiche",
+                    "ja-JP": "ピニャークティックの植物をすべて完全に成長させる",
+                    "ko-KR": "피냐크틱의 모든 식물들이 완전히 자라야 해요.",
+                    "zh-CHT": "讓所有極區植物發育成熟"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "23.png"
+        },
+        "74": {
+            "text": {
+                "name": {
+                    "de-DE": "Komm und trau dich",
+                    "en-US": "Come And Have A Go",
+                    "es-ES": "Ven aquí si te atreves",
+                    "fr-FR": "Viens te battre",
+                    "it-IT": "Fatti sotto!",
+                    "ja-JP": "ケンカ チャンピオン",
+                    "ko-KR": "싸움의 명수",
+                    "zh-CHT": "戰鬥專家"
+                },
+                "description": {
+                    "de-DE": "Gewinne eine Goldmedaille",
+                    "en-US": "Earn a Gold Combat Medal",
+                    "es-ES": "Gana una medalla de oro de combate.",
+                    "fr-FR": "Gagne une médaille d'or en combat",
+                    "it-IT": "Ottieni una medaglia di combattimento d'oro",
+                    "ja-JP": "ピニャータのケンカ レベルを金メダル クラスにする",
+                    "ko-KR": "싸움 금메달을 따야 해요.",
+                    "zh-CHT": "獲得戰鬥金牌"
+                },
+                "howto": {
+                    "de-DE": "Gewinne eine Goldmedaille",
+                    "en-US": "Earn a Gold Combat Medal",
+                    "es-ES": "Gana una medalla de oro de combate.",
+                    "fr-FR": "Gagne une médaille d'or en combat",
+                    "it-IT": "Ottieni una medaglia di combattimento d'oro",
+                    "ja-JP": "ピニャータのケンカ レベルを金メダル クラスにする",
+                    "ko-KR": "싸움 금메달을 따야 해요.",
+                    "zh-CHT": "獲得戰鬥金牌"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "24.png"
+        },
+        "78": {
+            "text": {
+                "name": {
+                    "de-DE": "Meister-Arktissammler",
+                    "en-US": "Master Arctic Collector",
+                    "es-ES": "Maestro coleccionista piñártico",
+                    "fr-FR": "Maître du Piñarctique",
+                    "it-IT": "Maestro allevatore del deserto",
+                    "ja-JP": "ピニャークティック コレクション マスター",
+                    "ko-KR": "피냐크틱 사냥꾼 최우수상",
+                    "zh-CHT": "極區寶貝收集大師"
+                },
+                "description": {
+                    "de-DE": "Mach alle Arktisarten bei dir sesshaft",
+                    "en-US": "Make all Arctic species resident",
+                    "es-ES": "Consigue que todas las especies del piñártico se hagan residentes.",
+                    "fr-FR": "Avoir toutes les espèces du Piñarctique résidentes",
+                    "it-IT": "Rendi stanziali tutte le specie artiche",
+                    "ja-JP": "ピニャークティックのピニャータを全種類住人にする",
+                    "ko-KR": "피냐크틱 지역의 모든 피냐타 종이 가족이 되어야 해요.",
+                    "zh-CHT": "讓所有極區寶貝定居"
+                },
+                "howto": {
+                    "de-DE": "Mach alle Arktisarten bei dir sesshaft",
+                    "en-US": "Make all Arctic species resident",
+                    "es-ES": "Consigue que todas las especies del piñártico se hagan residentes.",
+                    "fr-FR": "Avoir toutes les espèces du Piñarctique résidentes",
+                    "it-IT": "Rendi stanziali tutte le specie artiche",
+                    "ja-JP": "ピニャークティックのピニャータを全種類住人にする",
+                    "ko-KR": "피냐크틱 지역의 모든 피냐타 종이 가족이 되어야 해요.",
+                    "zh-CHT": "讓所有極區寶貝定居"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "25.png"
+        },
+        "79": {
+            "text": {
+                "name": {
+                    "de-DE": "Region 2-Herausforderer",
+                    "en-US": "Region 2 Challenger",
+                    "es-ES": "Desafiador de la región 2",
+                    "fr-FR": "Céréal' vainqueur Région 2",
+                    "it-IT": "Campione dell'area 2",
+                    "ja-JP": "ちいき 2 のチャレンジ",
+                    "ko-KR": "지역 2 챌린지 우수상",
+                    "zh-CHT": "地域 2 挑戰者"
+                },
+                "description": {
+                    "de-DE": "Erledige alle Aufgaben in Region 2",
+                    "en-US": "Complete all Challenges in Region 2",
+                    "es-ES": "Completa todos los desafíos de la región 2.",
+                    "fr-FR": "Remporter tous les défis de la Région 2",
+                    "it-IT": "Completa tutte le sfide dell'area 2",
+                    "ja-JP": "ちいき 2 のチャレンジを全部クリアする",
+                    "ko-KR": "지역 2에서 모든 챌린지를 성공해야 해요.",
+                    "zh-CHT": "完成地域 2 的所有挑戰"
+                },
+                "howto": {
+                    "de-DE": "Erledige alle Aufgaben in Region 2",
+                    "en-US": "Complete all Challenges in Region 2",
+                    "es-ES": "Completa todos los desafíos de la región 2.",
+                    "fr-FR": "Remporter tous les défis de la Région 2",
+                    "it-IT": "Completa tutte le sfide dell'area 2",
+                    "ja-JP": "ちいき 2 のチャレンジを全部クリアする",
+                    "ko-KR": "지역 2에서 모든 챌린지를 성공해야 해요.",
+                    "zh-CHT": "完成地域 2 的所有挑戰"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "26.png"
+        },
+        "80": {
+            "text": {
+                "name": {
+                    "de-DE": "Zwillingsgeburt-Meister",
+                    "en-US": "Twin Birth Master",
+                    "es-ES": "Maestro de los partos de gemelas",
+                    "fr-FR": "Maître jumeaux",
+                    "it-IT": "Super duplice lieto evento",
+                    "ja-JP": "ふたごマスター",
+                    "ko-KR": "쌍둥이 마스터",
+                    "zh-CHT": "雙胞胎大師"
+                },
+                "description": {
+                    "de-DE": "Erschaffe 10 Piñata-Zwillingspärchen",
+                    "en-US": "Create 10 sets of Twin Piñatas",
+                    "es-ES": "Crea 10 parejas de piñatas gemelas.",
+                    "fr-FR": "Obtenir 10 naissances de Piñatas jumelles",
+                    "it-IT": "Crea 10 set di Piñata gemelle",
+                    "ja-JP": "ふたごのピニャータが 10 組生まれる",
+                    "ko-KR": "피냐타 쌍둥이 10쌍이 태어나야 해요.",
+                    "zh-CHT": "產生 10 組雙胞胎寶貝"
+                },
+                "howto": {
+                    "de-DE": "Erschaffe 10 Piñata-Zwillingspärchen",
+                    "en-US": "Create 10 sets of Twin Piñatas",
+                    "es-ES": "Crea 10 parejas de piñatas gemelas.",
+                    "fr-FR": "Obtenir 10 naissances de Piñatas jumelles",
+                    "it-IT": "Crea 10 set di Piñata gemelle",
+                    "ja-JP": "ふたごのピニャータが 10 組生まれる",
+                    "ko-KR": "피냐타 쌍둥이 10쌍이 태어나야 해요.",
+                    "zh-CHT": "產生 10 組雙胞胎寶貝"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "27.png"
+        },
+        "81": {
+            "text": {
+                "name": {
+                    "de-DE": "Ausgebeultes Paket",
+                    "en-US": "Packet Bulger",
+                    "es-ES": "Paquete abultado",
+                    "fr-FR": "Super paquet de surfaces",
+                    "it-IT": "Pacchetto stracolmo",
+                    "ja-JP": "ふくろマスター",
+                    "ko-KR": "주머니 수집가",
+                    "zh-CHT": "土壤小包專家"
+                },
+                "description": {
+                    "de-DE": "Paket enthält alle Oberflächenarten",
+                    "en-US": "Packet contains all surface types",
+                    "es-ES": "Consigue un paquete con todos los tipos de superficies.",
+                    "fr-FR": "Le paquet contient tous les types de surface",
+                    "it-IT": "Il pacchetto contiene tutti i tipi di superficie",
+                    "ja-JP": "地面用のふくろを全種類そろえる",
+                    "ko-KR": "원예용 주머니를 모두 얻어야 해요.",
+                    "zh-CHT": "收集所有類型的土壤小包"
+                },
+                "howto": {
+                    "de-DE": "Paket enthält alle Oberflächenarten",
+                    "en-US": "Packet contains all surface types",
+                    "es-ES": "Consigue un paquete con todos los tipos de superficies.",
+                    "fr-FR": "Le paquet contient tous les types de surface",
+                    "it-IT": "Il pacchetto contiene tutti i tipi di superficie",
+                    "ja-JP": "地面用のふくろを全種類そろえる",
+                    "ko-KR": "원예용 주머니를 모두 얻어야 해요.",
+                    "zh-CHT": "收集所有類型的土壤小包"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "28.png"
+        },
+        "88": {
+            "text": {
+                "name": {
+                    "de-DE": "Region 1-Herausforderer",
+                    "en-US": "Region 1 Challenger",
+                    "es-ES": "Desafiador de la región 1",
+                    "fr-FR": "Céréal' vainqueur Région 1",
+                    "it-IT": "Campione dell'area 1",
+                    "ja-JP": "ちいき 1 のチャレンジ",
+                    "ko-KR": "지역 1 챌린지 우수상",
+                    "zh-CHT": "地域 1 挑戰者"
+                },
+                "description": {
+                    "de-DE": "Erledige alle Zielaufgaben von Langston in Region 1",
+                    "en-US": "Complete all of Langston’s Destination Challenges in Region 1",
+                    "es-ES": "Completa todos los desafíos de destino de Langston de la región 1.",
+                    "fr-FR": "Remporter tous les défis de Langston pour la destination Région 1",
+                    "it-IT": "Completa tutte le sfide della destinazione di Langston nella regione 1",
+                    "ja-JP": "ちいき 1 のチャレンジを全部クリアする",
+                    "ko-KR": "지역 1에서 모든 랭스톤 챌린지를 성공해야 해요.",
+                    "zh-CHT": "完成地域 1 的所有挑戰"
+                },
+                "howto": {
+                    "de-DE": "Erledige alle Zielaufgaben von Langston in Region 1",
+                    "en-US": "Complete all of Langston’s Destination Challenges in Region 1",
+                    "es-ES": "Completa todos los desafíos de destino de Langston de la región 1.",
+                    "fr-FR": "Remporter tous les défis de Langston pour la destination Région 1",
+                    "it-IT": "Completa tutte le sfide della destinazione di Langston nella regione 1",
+                    "ja-JP": "ちいき 1 のチャレンジを全部クリアする",
+                    "ko-KR": "지역 1에서 모든 랭스톤 챌린지를 성공해야 해요.",
+                    "zh-CHT": "完成地域 1 的所有挑戰"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "29.png"
+        },
+        "89": {
+            "text": {
+                "name": {
+                    "de-DE": "Yakity Yak",
+                    "en-US": "Yakity Yak",
+                    "es-ES": "Yak voy",
+                    "fr-FR": "Apprenti fermier",
+                    "it-IT": "Latte di yak",
+                    "ja-JP": "フラップヤクのめぐみ",
+                    "ko-KR": "야크의 우유",
+                    "zh-CHT": "犛牛專家"
+                },
+                "description": {
+                    "de-DE": "Sammle die Milch eines Flapyaks",
+                    "en-US": "Collect milk from a Flapyak",
+                    "es-ES": "Obtén leche de una flapyak.",
+                    "fr-FR": "Traire un flapyak",
+                    "it-IT": "Ottieni del latte da una Flapyak",
+                    "ja-JP": "フラップヤクのミルクを手に入れる",
+                    "ko-KR": "플랩야크에게서 우유를 얻어야 해요.",
+                    "zh-CHT": "收集佛萊犛牛的牛奶"
+                },
+                "howto": {
+                    "de-DE": "Sammle die Milch eines Flapyaks",
+                    "en-US": "Collect milk from a Flapyak",
+                    "es-ES": "Obtén leche de una flapyak.",
+                    "fr-FR": "Traire un flapyak",
+                    "it-IT": "Ottieni del latte da una Flapyak",
+                    "ja-JP": "フラップヤクのミルクを手に入れる",
+                    "ko-KR": "플랩야크에게서 우유를 얻어야 해요.",
+                    "zh-CHT": "收集佛萊犛牛的牛奶"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "30.png"
+        },
+        "90": {
+            "text": {
+                "name": {
+                    "de-DE": "Volles Haus",
+                    "en-US": "Full House",
+                    "es-ES": "Póquer",
+                    "fr-FR": "Plus on est de fous...",
+                    "it-IT": "Tutto esaurito",
+                    "ja-JP": "チーム プレイ",
+                    "ko-KR": "최우수 사교왕",
+                    "zh-CHT": "座無虛席"
+                },
+                "description": {
+                    "de-DE": "Spiele 1 Stunde lang online ein Co-op-Spiel für 4 Spieler",
+                    "en-US": "Play 4 Player Online Co-op for 1 hour",
+                    "es-ES": "Juega en Cooperación con 4 jugadores durante una hora.",
+                    "fr-FR": "Jouer en coop. en ligne à 4 pendant 1h",
+                    "it-IT": "Gioca 4 partite del giocatore cooperative online in 1 ora",
+                    "ja-JP": "オンライン協力プレイ モードをプレイヤー 4 人で 1 時間プレイする",
+                    "ko-KR": "한 시간 동안 4명이 온라인 협동 게임을 해야 해요.",
+                    "zh-CHT": "玩 4 人連線合作模式 1 小時"
+                },
+                "howto": {
+                    "de-DE": "Spiele 1 Stunde lang online ein Co-op-Spiel für 4 Spieler",
+                    "en-US": "Play 4 Player Online Co-op for 1 hour",
+                    "es-ES": "Juega en Cooperación con 4 jugadores durante una hora.",
+                    "fr-FR": "Jouer en coop. en ligne à 4 pendant 1h",
+                    "it-IT": "Gioca 4 partite del giocatore cooperative online in 1 ora",
+                    "ja-JP": "オンライン協力プレイ モードをプレイヤー 4 人で 1 時間プレイする",
+                    "ko-KR": "한 시간 동안 4명이 온라인 협동 게임을 해야 해요.",
+                    "zh-CHT": "玩 4 人連線合作模式 1 小時"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "31.png"
+        },
+        "91": {
+            "text": {
+                "name": {
+                    "de-DE": "Meister-Kartenhai",
+                    "en-US": "Master Card Sharp",
+                    "es-ES": "Maestro ludópata",
+                    "fr-FR": "Maître tricheur",
+                    "it-IT": "Maestro di carte da gioco",
+                    "ja-JP": "カード マスター",
+                    "ko-KR": "카드 마술사 최우수상",
+                    "zh-CHT": "寶貝卡大師"
+                },
+                "description": {
+                    "de-DE": "Setze 10 verschiedene Piñata-Karten ein",
+                    "en-US": "Use 10 different Piñata Cards",
+                    "es-ES": "Usa 10 tarjetas PiñataVisión distintas.",
+                    "fr-FR": "Utiliser 10 cartes Piñata différentes",
+                    "it-IT": "Usa 10 dieci schede Piñata differenti",
+                    "ja-JP": "10 種類のピニャータ カードを使う",
+                    "ko-KR": "10가지 피냐타 카드를 사용해야 해요.",
+                    "zh-CHT": "成功使用 10 種不同的寶貝卡"
+                },
+                "howto": {
+                    "de-DE": "Setze 10 verschiedene Piñata-Karten ein",
+                    "en-US": "Use 10 different Piñata Cards",
+                    "es-ES": "Usa 10 tarjetas PiñataVisión distintas.",
+                    "fr-FR": "Utiliser 10 cartes Piñata différentes",
+                    "it-IT": "Usa 10 dieci schede Piñata differenti",
+                    "ja-JP": "10 種類のピニャータ カードを使う",
+                    "ko-KR": "10가지 피냐타 카드를 사용해야 해요.",
+                    "zh-CHT": "成功使用 10 種不同的寶貝卡"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "32.png"
+        },
+        "92": {
+            "text": {
+                "name": {
+                    "de-DE": "Meisterausbilder",
+                    "en-US": "Master Instructor",
+                    "es-ES": "Maestro instructor",
+                    "fr-FR": "Maître instructeur",
+                    "it-IT": "Maestro istruttore",
+                    "ja-JP": "とくぎの大先生",
+                    "ko-KR": "마스터 조련사",
+                    "zh-CHT": "超級教練"
+                },
+                "description": {
+                    "de-DE": "Bring 10 Piñatas alle Tricks bei",
+                    "en-US": "Teach 10 Piñatas all of their Tricks",
+                    "es-ES": "Enseña a 10 piñatas todos sus trucos.",
+                    "fr-FR": "Apprendre tous leurs tours à 10 Piñatas",
+                    "it-IT": "Insegna a 10 Piñata tutti i loro trick",
+                    "ja-JP": "10 匹のピニャータに全部のとくぎをおぼえさせる",
+                    "ko-KR": "피냐타 10마리에게 모든 재주를 가르쳐야 해요.",
+                    "zh-CHT": "訓練 10 個寶貝學會所有的絕招"
+                },
+                "howto": {
+                    "de-DE": "Bring 10 Piñatas alle Tricks bei",
+                    "en-US": "Teach 10 Piñatas all of their Tricks",
+                    "es-ES": "Enseña a 10 piñatas todos sus trucos.",
+                    "fr-FR": "Apprendre tous leurs tours à 10 Piñatas",
+                    "it-IT": "Insegna a 10 Piñata tutti i loro trick",
+                    "ja-JP": "10 匹のピニャータに全部のとくぎをおぼえさせる",
+                    "ko-KR": "피냐타 10마리에게 모든 재주를 가르쳐야 해요.",
+                    "zh-CHT": "訓練 10 個寶貝學會所有的絕招"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "33.png"
+        },
+        "93": {
+            "text": {
+                "name": {
+                    "de-DE": "Geschwindigkeitsfreak",
+                    "en-US": "SpeedFreak",
+                    "es-ES": "Loco de la velocidad",
+                    "fr-FR": "Chauffard",
+                    "it-IT": "Velocista",
+                    "ja-JP": "ピニャータ レーサー",
+                    "ko-KR": "속도광",
+                    "zh-CHT": "競速怪腳"
+                },
+                "description": {
+                    "de-DE": "Gewinne ein Piñata-Rennen",
+                    "en-US": "Win a Piñata race",
+                    "es-ES": "Gana una carrera de piñatas.",
+                    "fr-FR": "Remporter une course de Piñatas",
+                    "it-IT": "Vinci una gara Piñata",
+                    "ja-JP": "ピニャータ レースで 1 回優勝する",
+                    "ko-KR": "피냐타 경주에서 우승해야 해요.",
+                    "zh-CHT": "贏得寶貝比賽"
+                },
+                "howto": {
+                    "de-DE": "Gewinne ein Piñata-Rennen",
+                    "en-US": "Win a Piñata race",
+                    "es-ES": "Gana una carrera de piñatas.",
+                    "fr-FR": "Remporter une course de Piñatas",
+                    "it-IT": "Vinci una gara Piñata",
+                    "ja-JP": "ピニャータ レースで 1 回優勝する",
+                    "ko-KR": "피냐타 경주에서 우승해야 해요.",
+                    "zh-CHT": "贏得寶貝比賽"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "34.png"
+        },
+        "94": {
+            "text": {
+                "name": {
+                    "de-DE": "Rekordhalter-Experte",
+                    "en-US": "Expert Records Keeper",
+                    "es-ES": "Experto registrador",
+                    "fr-FR": "Expert des archives",
+                    "it-IT": "Archivista esperto",
+                    "ja-JP": "データ キーパー エキスパート",
+                    "ko-KR": "전문 기록 관리사",
+                    "zh-CHT": "資深電腦工程師"
+                },
+                "description": {
+                    "de-DE": "Brich alle Computerrekorde von Piñata Central",
+                    "en-US": "Restore all of Piñata Central’s Computer Records",
+                    "es-ES": "Recupera todos los registros informatizados de Piñata Central.",
+                    "fr-FR": "Restaurer toutes les archives de Piñata Central",
+                    "it-IT": "Ripristina tutti gli archivi del computer di Piñata Central",
+                    "ja-JP": "ピニャータ セントラルのデータを全部ふっきゅうさせる",
+                    "ko-KR": "피냐타 센트럴의 컴퓨터 기록을 모두 복구해야 해요.",
+                    "zh-CHT": "回復寶貝派對總部的所有電腦記錄"
+                },
+                "howto": {
+                    "de-DE": "Brich alle Computerrekorde von Piñata Central",
+                    "en-US": "Restore all of Piñata Central’s Computer Records",
+                    "es-ES": "Recupera todos los registros informatizados de Piñata Central.",
+                    "fr-FR": "Restaurer toutes les archives de Piñata Central",
+                    "it-IT": "Ripristina tutti gli archivi del computer di Piñata Central",
+                    "ja-JP": "ピニャータ セントラルのデータを全部ふっきゅうさせる",
+                    "ko-KR": "피냐타 센트럴의 컴퓨터 기록을 모두 복구해야 해요.",
+                    "zh-CHT": "回復寶貝派對總部的所有電腦記錄"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "35.png"
+        },
+        "95": {
+            "text": {
+                "name": {
+                    "de-DE": "Rekordhalter-Meister",
+                    "en-US": "Master Records Keeper",
+                    "es-ES": "Maestro registrador",
+                    "fr-FR": "Maître des archives",
+                    "it-IT": "Maestro archivista",
+                    "ja-JP": "データ キーパー マスター",
+                    "ko-KR": "마스터 기록 관리사",
+                    "zh-CHT": "電腦工程師名人"
+                },
+                "description": {
+                    "de-DE": "Brich 30 Computerrekorde von Piñata Central",
+                    "en-US": "Restore 30 of Piñata Central’s Computer Records",
+                    "es-ES": "Recupera 30 registros informatizados de Piñata Central.",
+                    "fr-FR": "Restaurer 30 des archives de Piñata Central",
+                    "it-IT": "Ripristina 30 archivi del computer di Piñata Central",
+                    "ja-JP": "ピニャータ セントラルのデータを 30 個ふっきゅうさせる",
+                    "ko-KR": "피냐타 센트럴의 컴퓨터 기록 30개를 복구해야 해요.",
+                    "zh-CHT": "回復 30 個寶貝派對總部的電腦記錄"
+                },
+                "howto": {
+                    "de-DE": "Brich 30 Computerrekorde von Piñata Central",
+                    "en-US": "Restore 30 of Piñata Central’s Computer Records",
+                    "es-ES": "Recupera 30 registros informatizados de Piñata Central.",
+                    "fr-FR": "Restaurer 30 des archives de Piñata Central",
+                    "it-IT": "Ripristina 30 archivi del computer di Piñata Central",
+                    "ja-JP": "ピニャータ セントラルのデータを 30 個ふっきゅうさせる",
+                    "ko-KR": "피냐타 센트럴의 컴퓨터 기록 30개를 복구해야 해요.",
+                    "zh-CHT": "回復 30 個寶貝派對總部的電腦記錄"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "40",
+            "imageId": "36.png"
+        },
+        "105": {
+            "text": {
+                "name": {
+                    "de-DE": "Zurschausteller",
+                    "en-US": "Exhibitor",
+                    "es-ES": "Exhibidor",
+                    "fr-FR": "Manager",
+                    "it-IT": "Espositore",
+                    "ja-JP": "コンテストの新星",
+                    "ko-KR": "피냐타 코치",
+                    "zh-CHT": "第一場表演秀"
+                },
+                "description": {
+                    "de-DE": "Gewinne eine Piñata-Show",
+                    "en-US": "Win a Piñata show",
+                    "es-ES": "Gana un concurso de piñatas.",
+                    "fr-FR": "Remporter un concours de Piñatas",
+                    "it-IT": "Vinci un'esibizione di Piñata",
+                    "ja-JP": "ピニャータ コンテストで 1 回優勝する",
+                    "ko-KR": "피냐타 대회에서 우승해야 해요.",
+                    "zh-CHT": "贏得一場寶貝表演秀"
+                },
+                "howto": {
+                    "de-DE": "Gewinne eine Piñata-Show",
+                    "en-US": "Win a Piñata show",
+                    "es-ES": "Gana un concurso de piñatas.",
+                    "fr-FR": "Remporter un concours de Piñatas",
+                    "it-IT": "Vinci un'esibizione di Piñata",
+                    "ja-JP": "ピニャータ コンテストで 1 回優勝する",
+                    "ko-KR": "피냐타 대회에서 우승해야 해요.",
+                    "zh-CHT": "贏得一場寶貝表演秀"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "37.png"
+        },
+        "106": {
+            "text": {
+                "name": {
+                    "de-DE": "Chocstrich-Evolution",
+                    "en-US": "Chocstrich Evolution",
+                    "es-ES": "Evolución de chocstrich",
+                    "fr-FR": "Évolution de chocstrich",
+                    "it-IT": "Evoluzione Chocstrich",
+                    "ja-JP": "チョクストリッチに変化",
+                    "ko-KR": "코크스트리치 진화 우수상",
+                    "zh-CHT": "進化成巧克鴕鳥"
+                },
+                "description": {
+                    "de-DE": "Züchte einen Chocstrich aus einem Cluckles",
+                    "en-US": "Evolve a Chocstrich from a Cluckles",
+                    "es-ES": "Haz evolucionar una cluckles a una chocstrich.",
+                    "fr-FR": "Faire évoluer une cluckles en chocstrich",
+                    "it-IT": "Evoluzione in Chocstrich da una Cluckles",
+                    "ja-JP": "クラックルズをチョクストリッチに変化させる",
+                    "ko-KR": "클러클스가 코크스트리치로 진화해야 해요.",
+                    "zh-CHT": "從克拉克雞進化成巧克鴕鳥"
+                },
+                "howto": {
+                    "de-DE": "Züchte einen Chocstrich aus einem Cluckles",
+                    "en-US": "Evolve a Chocstrich from a Cluckles",
+                    "es-ES": "Haz evolucionar una cluckles a una chocstrich.",
+                    "fr-FR": "Faire évoluer une cluckles en chocstrich",
+                    "it-IT": "Evoluzione in Chocstrich da una Cluckles",
+                    "ja-JP": "クラックルズをチョクストリッチに変化させる",
+                    "ko-KR": "클러클스가 코크스트리치로 진화해야 해요.",
+                    "zh-CHT": "從克拉克雞進化成巧克鴕鳥"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "38.png"
+        },
+        "107": {
+            "text": {
+                "name": {
+                    "de-DE": "Langer Schuss",
+                    "en-US": "Long Shot",
+                    "es-ES": "Golpe largo",
+                    "fr-FR": "Tir de titan",
+                    "it-IT": "Colpo a distanza",
+                    "ja-JP": "ミラクル ショット！",
+                    "ko-KR": "골프왕",
+                    "zh-CHT": "長推桿"
+                },
+                "description": {
+                    "de-DE": "Befördere 1 Süßigkeit aus großer Entfernung in ein Samenloch",
+                    "en-US": "Knock 1 Sweet into a Seed Hole from Long Distance",
+                    "es-ES": "Mete una golosina en un agujero para semillas desde lejos.",
+                    "fr-FR": "Balance de très loin 1 bonbon dans un trou à graine",
+                    "it-IT": "Spedisci 1 dolcetto dentro a un buco per semi dalla lunga distanza",
+                    "ja-JP": "スイーツをシャベルで打って遠くのタネあなに入れる",
+                    "ko-KR": "먼 거리에서 사탕 하나를 씨앗 구멍에 넣어야 해요.",
+                    "zh-CHT": "從遠距離將 1 顆糖果敲進種子洞"
+                },
+                "howto": {
+                    "de-DE": "Befördere 1 Süßigkeit aus großer Entfernung in ein Samenloch",
+                    "en-US": "Knock 1 Sweet into a Seed Hole from Long Distance",
+                    "es-ES": "Mete una golosina en un agujero para semillas desde lejos.",
+                    "fr-FR": "Balance de très loin 1 bonbon dans un trou à graine",
+                    "it-IT": "Spedisci 1 dolcetto dentro a un buco per semi dalla lunga distanza",
+                    "ja-JP": "スイーツをシャベルで打って遠くのタネあなに入れる",
+                    "ko-KR": "먼 거리에서 사탕 하나를 씨앗 구멍에 넣어야 해요.",
+                    "zh-CHT": "從遠距離將 1 顆糖果敲進種子洞"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "39.png"
+        },
+        "108": {
+            "text": {
+                "name": {
+                    "de-DE": "Jokervariante",
+                    "en-US": "Wildcard Variant",
+                    "es-ES": "Variante comodín",
+                    "fr-FR": "Créateur Piñata originale",
+                    "it-IT": "Variante jolly",
+                    "ja-JP": "とつぜんへんいビギナー",
+                    "ko-KR": "와일드카드",
+                    "zh-CHT": "變種寶貝"
+                },
+                "description": {
+                    "de-DE": "Erschaffe ein Joker-Piñata",
+                    "en-US": "Create a Wildcard Piñata",
+                    "es-ES": "Crea una piñata comodín.",
+                    "fr-FR": "Créer une Piñata originale",
+                    "it-IT": "Crea una Piñata jolly",
+                    "ja-JP": "とつぜんへんいピニャータが 1 匹生まれる",
+                    "ko-KR": "와일드카드 피냐타를 만들어야 해요.",
+                    "zh-CHT": "擁有一個百變寶貝"
+                },
+                "howto": {
+                    "de-DE": "Erschaffe ein Joker-Piñata",
+                    "en-US": "Create a Wildcard Piñata",
+                    "es-ES": "Crea una piñata comodín.",
+                    "fr-FR": "Créer une Piñata originale",
+                    "it-IT": "Crea una Piñata jolly",
+                    "ja-JP": "とつぜんへんいピニャータが 1 匹生まれる",
+                    "ko-KR": "와일드카드 피냐타를 만들어야 해요.",
+                    "zh-CHT": "擁有一個百變寶貝"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "40.png"
+        },
+        "109": {
+            "text": {
+                "name": {
+                    "de-DE": "Region 3-Herausforderer",
+                    "en-US": "Region 3 Challenger",
+                    "es-ES": "Desafiador de la región 3",
+                    "fr-FR": "Céréal' vainqueur Région 3",
+                    "it-IT": "Campione dell'area 3",
+                    "ja-JP": "ちいき 3 のチャレンジ",
+                    "ko-KR": "지역 3 챌린지 우수상",
+                    "zh-CHT": "地域 3 挑戰者"
+                },
+                "description": {
+                    "de-DE": "Erledige alle Aufgaben in Region 3",
+                    "en-US": "Complete all Challenges in Region 3",
+                    "es-ES": "Completa todos los desafíos de la región 3.",
+                    "fr-FR": "Remporter tous les défis de la Région 3",
+                    "it-IT": "Completa tutte le sfide dell'area 3",
+                    "ja-JP": "ちいき 3 のチャレンジを全部クリアする",
+                    "ko-KR": "지역 3에서 모든 챌린지를 성공해야 해요.",
+                    "zh-CHT": "完成地域 3 的所有挑戰"
+                },
+                "howto": {
+                    "de-DE": "Erledige alle Aufgaben in Region 3",
+                    "en-US": "Complete all Challenges in Region 3",
+                    "es-ES": "Completa todos los desafíos de la región 3.",
+                    "fr-FR": "Remporter tous les défis de la Région 3",
+                    "it-IT": "Completa tutte le sfide dell'area 3",
+                    "ja-JP": "ちいき 3 のチャレンジを全部クリアする",
+                    "ko-KR": "지역 3에서 모든 챌린지를 성공해야 해요.",
+                    "zh-CHT": "完成地域 3 的所有挑戰"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "41.png"
+        },
+        "110": {
+            "text": {
+                "name": {
+                    "de-DE": "Jokervariantenmeister",
+                    "en-US": "Wildcard Variant Master",
+                    "es-ES": "Maestro de las variantes comodín",
+                    "fr-FR": "Maître Piñatas originales",
+                    "it-IT": "Maestro di variante jolly",
+                    "ja-JP": "とつぜんへんいマスター",
+                    "ko-KR": "와일드카드 마스터",
+                    "zh-CHT": "變種寶貝大師"
+                },
+                "description": {
+                    "de-DE": "Erschaffe 10 Joker-Piñatas",
+                    "en-US": "Create 10 Wildcard Piñatas",
+                    "es-ES": "Crea 10 piñatas comodín.",
+                    "fr-FR": "Créer 10 Piñatas originales",
+                    "it-IT": "Crea 10 Piñata jolly",
+                    "ja-JP": "とつぜんへんいピニャータが 10 匹生まれる",
+                    "ko-KR": "와일드카드 피냐타 10마리를 만들어야 해요.",
+                    "zh-CHT": "擁有 10 個百變寶貝"
+                },
+                "howto": {
+                    "de-DE": "Erschaffe 10 Joker-Piñatas",
+                    "en-US": "Create 10 Wildcard Piñatas",
+                    "es-ES": "Crea 10 piñatas comodín.",
+                    "fr-FR": "Créer 10 Piñatas originales",
+                    "it-IT": "Crea 10 Piñata jolly",
+                    "ja-JP": "とつぜんへんいピニャータが 10 匹生まれる",
+                    "ko-KR": "와일드카드 피냐타 10마리를 만들어야 해요.",
+                    "zh-CHT": "擁有 10 個百變寶貝"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "42.png"
+        },
+        "111": {
+            "text": {
+                "name": {
+                    "de-DE": "Region 4-Herausforderer",
+                    "en-US": "Region 4 Challenger",
+                    "es-ES": "Desafiador de la región 4",
+                    "fr-FR": "Céréal' vainqueur Région 4",
+                    "it-IT": "Campione dell'area 4",
+                    "ja-JP": "ちいき 4 のチャレンジ",
+                    "ko-KR": "지역 4 챌린지 우수상",
+                    "zh-CHT": "地域 4 挑戰者"
+                },
+                "description": {
+                    "de-DE": "Erledige alle Aufgaben in Region 4",
+                    "en-US": "Complete all Challenges in Region 4",
+                    "es-ES": "Completa todos los desafíos de la región 4.",
+                    "fr-FR": "Remporter tous les défis de la Région 4",
+                    "it-IT": "Completa tutte le sfide dell'area 4",
+                    "ja-JP": "ちいき 4 のチャレンジを全部クリアする",
+                    "ko-KR": "지역 4에서 모든 챌린지를 성공해야 해요.",
+                    "zh-CHT": "完成地域 4 的所有挑戰"
+                },
+                "howto": {
+                    "de-DE": "Erledige alle Aufgaben in Region 4",
+                    "en-US": "Complete all Challenges in Region 4",
+                    "es-ES": "Completa todos los desafíos de la región 4.",
+                    "fr-FR": "Remporter tous les défis de la Région 4",
+                    "it-IT": "Completa tutte le sfide dell'area 4",
+                    "ja-JP": "ちいき 4 のチャレンジを全部クリアする",
+                    "ko-KR": "지역 4에서 모든 챌린지를 성공해야 해요.",
+                    "zh-CHT": "完成地域 4 的所有挑戰"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "43.png"
+        },
+        "112": {
+            "text": {
+                "name": {
+                    "de-DE": "Region 5-Herausforderer",
+                    "en-US": "Region 5 Challenger",
+                    "es-ES": "Desafiador de la región 5",
+                    "fr-FR": "Céréal' vainqueur Région 5",
+                    "it-IT": "Campione dell'area 5",
+                    "ja-JP": "ちいき 5 のチャレンジ",
+                    "ko-KR": "지역 5 챌린지 우수상",
+                    "zh-CHT": "地域 5 挑戰者"
+                },
+                "description": {
+                    "de-DE": "Erledige alle Aufgaben in Region 5",
+                    "en-US": "Complete all Challenges in Region 5",
+                    "es-ES": "Completa todos los desafíos de la región 5.",
+                    "fr-FR": "Remporter tous les défis de la Région 5",
+                    "it-IT": "Completa tutte le sfide dell'area 5",
+                    "ja-JP": "ちいき 5 のチャレンジを全部クリアする",
+                    "ko-KR": "지역 5에서 모든 챌린지를 성공해야 해요.",
+                    "zh-CHT": "完成地域 5 的所有挑戰"
+                },
+                "howto": {
+                    "de-DE": "Erledige alle Aufgaben in Region 5",
+                    "en-US": "Complete all Challenges in Region 5",
+                    "es-ES": "Completa todos los desafíos de la región 5.",
+                    "fr-FR": "Remporter tous les défis de la Région 5",
+                    "it-IT": "Completa tutte le sfide dell'area 5",
+                    "ja-JP": "ちいき 5 のチャレンジを全部クリアする",
+                    "ko-KR": "지역 5에서 모든 챌린지를 성공해야 해요.",
+                    "zh-CHT": "完成地域 5 的所有挑戰"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "44.png"
+        },
+        "113": {
+            "text": {
+                "name": {
+                    "de-DE": "Geschwindigkeitsfreak-Meister",
+                    "en-US": "Master Speedfreak",
+                    "es-ES": "Maestro loco de la velocidad",
+                    "fr-FR": "Chauffard professionnel",
+                    "it-IT": "Maestro velocista",
+                    "ja-JP": "スーパー ピニャータ レーサー",
+                    "ko-KR": "마스터 속도광",
+                    "zh-CHT": "超級競速怪腳"
+                },
+                "description": {
+                    "de-DE": "Gewinne 10 Piñata-Rennen",
+                    "en-US": "Win 10 Piñata races",
+                    "es-ES": "Gana 10 carreras de piñatas.",
+                    "fr-FR": "Remporter 10 courses de Piñatas",
+                    "it-IT": "Vinci 10 gare di Piñata",
+                    "ja-JP": "ピニャータ レースで 10 回優勝する",
+                    "ko-KR": "피냐타 경주에서 10번 우승해야 해요.",
+                    "zh-CHT": "贏得 10 場寶貝比賽"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 10 Piñata-Rennen",
+                    "en-US": "Win 10 Piñata races",
+                    "es-ES": "Gana 10 carreras de piñatas.",
+                    "fr-FR": "Remporter 10 courses de Piñatas",
+                    "it-IT": "Vinci 10 gare di Piñata",
+                    "ja-JP": "ピニャータ レースで 10 回優勝する",
+                    "ko-KR": "피냐타 경주에서 10번 우승해야 해요.",
+                    "zh-CHT": "贏得 10 場寶貝比賽"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "45.png"
+        },
+        "114": {
+            "text": {
+                "name": {
+                    "de-DE": "Region 6-Herausforderer",
+                    "en-US": "Region 6 Challenger",
+                    "es-ES": "Desafiador de la región 6",
+                    "fr-FR": "Céréal' vainqueur Région 6",
+                    "it-IT": "Campione dell'area 6",
+                    "ja-JP": "ちいき 6 のチャレンジ",
+                    "ko-KR": "지역 6 챌린지 우수상",
+                    "zh-CHT": "地域 6 挑戰者"
+                },
+                "description": {
+                    "de-DE": "Erledige alle Aufgaben in Region 6",
+                    "en-US": "Complete all Challenges in Region 6",
+                    "es-ES": "Completa todos los desafíos de la región 6.",
+                    "fr-FR": "Remporter tous les défis de la Région 6",
+                    "it-IT": "Completa tutte le sfide dell'area 6",
+                    "ja-JP": "ちいき 6 のチャレンジを全部クリアする",
+                    "ko-KR": "지역 6에서 모든 챌린지를 성공해야 해요.",
+                    "zh-CHT": "贏得地域 6 的所有挑戰"
+                },
+                "howto": {
+                    "de-DE": "Erledige alle Aufgaben in Region 6",
+                    "en-US": "Complete all Challenges in Region 6",
+                    "es-ES": "Completa todos los desafíos de la región 6.",
+                    "fr-FR": "Remporter tous les défis de la Région 6",
+                    "it-IT": "Completa tutte le sfide dell'area 6",
+                    "ja-JP": "ちいき 6 のチャレンジを全部クリアする",
+                    "ko-KR": "지역 6에서 모든 챌린지를 성공해야 해요.",
+                    "zh-CHT": "贏得地域 6 的所有挑戰"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "46.png"
+        },
+        "115": {
+            "text": {
+                "name": {
+                    "de-DE": "Schu-Schu",
+                    "en-US": "Choo-Choo",
+                    "es-ES": "Chu chu",
+                    "fr-FR": "Amateur tchou tchou",
+                    "it-IT": "Ferroviere",
+                    "ja-JP": "トレイン ビギナー",
+                    "ko-KR": "기관사 우수상",
+                    "zh-CHT": "火車樂園"
+                },
+                "description": {
+                    "de-DE": "Einen Schu-Schu-Zug im Garten",
+                    "en-US": "Have a Woo Woo Train in the garden",
+                    "es-ES": "Ten un tren chu chu en el jardín.",
+                    "fr-FR": "Placer un train woo woo dans ton jardin",
+                    "it-IT": "Ottieni un trenino wooo wooo in giardino",
+                    "ja-JP": "ウー ウー トレインがガーデンにある",
+                    "ko-KR": "정원에 우우 기차가 있어야 해요.",
+                    "zh-CHT": "花園裡有嘟嘟火車"
+                },
+                "howto": {
+                    "de-DE": "Einen Schu-Schu-Zug im Garten",
+                    "en-US": "Have a Woo Woo Train in the garden",
+                    "es-ES": "Ten un tren chu chu en el jardín.",
+                    "fr-FR": "Placer un train woo woo dans ton jardin",
+                    "it-IT": "Ottieni un trenino wooo wooo in giardino",
+                    "ja-JP": "ウー ウー トレインがガーデンにある",
+                    "ko-KR": "정원에 우우 기차가 있어야 해요.",
+                    "zh-CHT": "花園裡有嘟嘟火車"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "47.png"
+        },
+        "116": {
+            "text": {
+                "name": {
+                    "de-DE": "Meister-Wüstensammler",
+                    "en-US": "Master Desert Collector",
+                    "es-ES": "Maestro coleccionista desértico",
+                    "fr-FR": "Maître des sables",
+                    "it-IT": "Maestro allevatore del deserto",
+                    "ja-JP": "さばくコレクション マスター",
+                    "ko-KR": "사막 사냥꾼 최우수상",
+                    "zh-CHT": "沙漠寶貝收集大師"
+                },
+                "description": {
+                    "de-DE": "Mach alle Wüstenarten bei dir sesshaft",
+                    "en-US": "Make all Desert species resident",
+                    "es-ES": "Consigue que todas las especies del desierto se hagan residentes.",
+                    "fr-FR": "Avoir toutes les espèces du Désert résidentes",
+                    "it-IT": "Rendi stanziali tutte le specie desertiche",
+                    "ja-JP": "さばくのピニャータを全種類住人にする",
+                    "ko-KR": "사막 지역의 모든 피냐타 종이 가족이 되어야 해요.",
+                    "zh-CHT": "讓所有沙漠寶貝定居"
+                },
+                "howto": {
+                    "de-DE": "Mach alle Wüstenarten bei dir sesshaft",
+                    "en-US": "Make all Desert species resident",
+                    "es-ES": "Consigue que todas las especies del desierto se hagan residentes.",
+                    "fr-FR": "Avoir toutes les espèces du Désert résidentes",
+                    "it-IT": "Rendi stanziali tutte le specie desertiche",
+                    "ja-JP": "さばくのピニャータを全種類住人にする",
+                    "ko-KR": "사막 지역의 모든 피냐타 종이 가족이 되어야 해요.",
+                    "zh-CHT": "讓所有沙漠寶貝定居"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "48.png"
+        },
+        "117": {
+            "text": {
+                "name": {
+                    "de-DE": "Arktissammler",
+                    "en-US": "Arctic Collector",
+                    "es-ES": "Coleccionista piñártico",
+                    "fr-FR": "Collectionneur du Piñarctique",
+                    "it-IT": "Allevatore dell'artico",
+                    "ja-JP": "ピニャークティック コレクション",
+                    "ko-KR": "피냐크틱 사냥꾼 우수상",
+                    "zh-CHT": "極區寶貝收藏家"
+                },
+                "description": {
+                    "de-DE": "Mach 3 Arktisarten bei dir sesshaft",
+                    "en-US": "Make 3 Arctic species resident",
+                    "es-ES": "Consigue que 3 especies del piñártico se hagan residentes.",
+                    "fr-FR": "Avoir 3 espèces du Piñarctique résidentes",
+                    "it-IT": "Rendi stanziali 3 specie dell'artico",
+                    "ja-JP": "ピニャークティックのピニャータを 3 種類住人にする",
+                    "ko-KR": "피냐크틱 지역의 피냐타 3종이 가족이 되어야 해요.",
+                    "zh-CHT": "讓 3 種極區寶貝定居"
+                },
+                "howto": {
+                    "de-DE": "Mach 3 Arktisarten bei dir sesshaft",
+                    "en-US": "Make 3 Arctic species resident",
+                    "es-ES": "Consigue que 3 especies del piñártico se hagan residentes.",
+                    "fr-FR": "Avoir 3 espèces du Piñarctique résidentes",
+                    "it-IT": "Rendi stanziali 3 specie dell'artico",
+                    "ja-JP": "ピニャークティックのピニャータを 3 種類住人にする",
+                    "ko-KR": "피냐크틱 지역의 피냐타 3종이 가족이 되어야 해요.",
+                    "zh-CHT": "讓 3 種極區寶貝定居"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "49.png"
+        },
+        "118": {
+            "text": {
+                "name": {
+                    "de-DE": "Meister-Herausforderer",
+                    "en-US": "Master Challenger",
+                    "es-ES": "Maestro desafiador",
+                    "fr-FR": "Céréal' vainqueur ultime",
+                    "it-IT": "Maestro campione",
+                    "ja-JP": "チャレンジ マスター",
+                    "ko-KR": "챌린지 최우수상",
+                    "zh-CHT": "挑戰大師"
+                },
+                "description": {
+                    "de-DE": "Erledige alle Aufgaben in allen Regionen",
+                    "en-US": "Complete all Challenges in all Regions",
+                    "es-ES": "Completa todos los desafíos de todas las regiones.",
+                    "fr-FR": "Remporter tous les défis de toutes les Régions",
+                    "it-IT": "Completa tutte le sfide di tutte le regioni",
+                    "ja-JP": "全部のちいきで全部のチャレンジをクリアする",
+                    "ko-KR": "모든 지역에서 모든 챌린지를 성공해야 해요.",
+                    "zh-CHT": "完成所有地域的所有挑戰"
+                },
+                "howto": {
+                    "de-DE": "Erledige alle Aufgaben in allen Regionen",
+                    "en-US": "Complete all Challenges in all Regions",
+                    "es-ES": "Completa todos los desafíos de todas las regiones.",
+                    "fr-FR": "Remporter tous les défis de toutes les Régions",
+                    "it-IT": "Completa tutte le sfide di tutte le regioni",
+                    "ja-JP": "全部のちいきで全部のチャレンジをクリアする",
+                    "ko-KR": "모든 지역에서 모든 챌린지를 성공해야 해요.",
+                    "zh-CHT": "完成所有地域的所有挑戰"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "50.png"
+        }
+    }
+}

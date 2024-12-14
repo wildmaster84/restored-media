@@ -1,0 +1,388 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Werde ein Duellant",
+                    "en-US": "Become a Duelist",
+                    "es-ES": "Quiero ser Duelista",
+                    "fr-FR": "Devenez un Duelliste",
+                    "it-IT": "Diventa un Duellante",
+                    "ja-JP": "デュエリストへの一歩"
+                },
+                "description": {
+                    "de-DE": "Hat ein Einzelspieler-Spiel gespielt.",
+                    "en-US": "Play a single player game",
+                    "es-ES": "Has jugado una partida individual.",
+                    "fr-FR": "Jouez au mode un joueur ",
+                    "it-IT": "Hai giocato ad una partita a giocatore singolo.",
+                    "ja-JP": "シングルプレイヤーで遊ぶ"
+                },
+                "howto": {
+                    "de-DE": "Spiele ein Einzelspieler-Spiel.",
+                    "en-US": "Play a single player game",
+                    "es-ES": "Juega una partida individual.",
+                    "fr-FR": "Jouer au mode un joueur ",
+                    "it-IT": "Gioca ad una partita a giocatore singolo.",
+                    "ja-JP": "シングルプレイヤーで遊ぶ"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Werde ein echter Duellant",
+                    "en-US": "First to become a true Duelist",
+                    "es-ES": "El camino del Duelista",
+                    "fr-FR": "Premier véritable Duelliste",
+                    "it-IT": "Un nuovo vero Duellante",
+                    "ja-JP": "真のデュエリストへ"
+                },
+                "description": {
+                    "de-DE": "Hat eine Vorrunde gewonnen.",
+                    "en-US": "Win a Preliminary Tournament",
+                    "es-ES": "Has ganado un Torneo Preliminar.",
+                    "fr-FR": "Gagnez le premier tournoi",
+                    "it-IT": "Hai vinto il torneo preliminare.",
+                    "ja-JP": "シングルプレイヤーの予選リーグを勝ち抜く"
+                },
+                "howto": {
+                    "de-DE": "Gewinne eine Vorrunde.",
+                    "en-US": "Win a Preliminary Tournament",
+                    "es-ES": "Gana un Torneo Preliminar.",
+                    "fr-FR": "Gagner le premier tournoi",
+                    "it-IT": "Vinci il torneo preliminare.",
+                    "ja-JP": "シングルプレイヤーの予選リーグを勝ち抜く"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Werde ein Auserwählter",
+                    "en-US": "Become a Signer",
+                    "es-ES": "El Signer",
+                    "fr-FR": "Devenez un Pactisant",
+                    "it-IT": "Diventa un Predestinato",
+                    "ja-JP": "シグナーの覚醒"
+                },
+                "description": {
+                    "de-DE": "Hat Yusei besiegt.",
+                    "en-US": "Defeat Yusei",
+                    "es-ES": "Has derrotado a Yusei.",
+                    "fr-FR": "Battez Yesei",
+                    "it-IT": "Hai sconfitto Yusei.",
+                    "ja-JP": "シングルプレイヤーで不動 遊星に勝利"
+                },
+                "howto": {
+                    "de-DE": "Besiege Yusei.",
+                    "en-US": "Defeat Yusei",
+                    "es-ES": "Derrota a Yusei.",
+                    "fr-FR": "Battre Yusei",
+                    "it-IT": "Sconfiggi Yusei.",
+                    "ja-JP": "シングルプレイヤーで不動 遊星に勝利"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Absoluter König des Turboduells",
+                    "en-US": "Absolute King of the Turbo Duel",
+                    "es-ES": "Rey destronado",
+                    "fr-FR": "Absolu Roi de Duel Turbo",
+                    "it-IT": "Re assoluto del TurboDuello",
+                    "ja-JP": "キングオブデュエルへの道"
+                },
+                "description": {
+                    "de-DE": "Hat Jack besiegt.",
+                    "en-US": "Defeat Jack",
+                    "es-ES": "Has derrotado a Jack.",
+                    "fr-FR": "Battez Jack",
+                    "it-IT": "Hai sconfitto Jack.",
+                    "ja-JP": "シングルプレイヤーでジャック・アトラスに勝利"
+                },
+                "howto": {
+                    "de-DE": "Besiege Jack.",
+                    "en-US": "Defeat Jack",
+                    "es-ES": "Derrota a Jack.",
+                    "fr-FR": "Battre Jack",
+                    "it-IT": "Sconfiggi Jack.",
+                    "ja-JP": "シングルプレイヤーでジャック・アトラスに勝利"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Du hast Talent!",
+                    "en-US": "You have talent!",
+                    "es-ES": "¡Tienes talento!",
+                    "fr-FR": "Vous avez du talent !",
+                    "it-IT": "Hai talento!",
+                    "ja-JP": "才能の開花！"
+                },
+                "description": {
+                    "de-DE": "Hat ein eigenes Deck erstellt.",
+                    "en-US": "Save an original Deck Recipe",
+                    "es-ES": "Has creado un Deck original.",
+                    "fr-FR": "La recette différente du Deck initial est sauvegardée. ",
+                    "it-IT": "Hai creato il tuo Deck personale.",
+                    "ja-JP": "初期デッキと異なる構成のレシピを登録"
+                },
+                "howto": {
+                    "de-DE": "Erstelle ein eigenes Deck.",
+                    "en-US": "Save an original Deck Recipe",
+                    "es-ES": "Crea un Deck original.",
+                    "fr-FR": "La recette différente du Deck initial est sauvegardée. ",
+                    "it-IT": "Crea il tuo Deck personale.",
+                    "ja-JP": "初期デッキと異なる構成のレシピを登録"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Finde einen Freund",
+                    "en-US": "Create a friend!",
+                    "es-ES": "Un tipo sociable",
+                    "fr-FR": "Créer un ami !",
+                    "it-IT": "Fatti un amico!",
+                    "ja-JP": "友達を作ろう！"
+                },
+                "description": {
+                    "de-DE": "Hat ein Tag-Duell gespielt.",
+                    "en-US": "Play a Tag Duel",
+                    "es-ES": "Has jugado un Duelo Tag.",
+                    "fr-FR": "Jouez au Tag Duel",
+                    "it-IT": "Hai giocato ad un Duello Tag.",
+                    "ja-JP": "マルチプレイのタッグデュエルで遊ぶ"
+                },
+                "howto": {
+                    "de-DE": "Spiele ein Tag-Duell.",
+                    "en-US": "Play a Tag Duel",
+                    "es-ES": "Juega un Duelo Tag.",
+                    "fr-FR": "Jouer au Tag Duel",
+                    "it-IT": "Gioca ad un Duello Tag.",
+                    "ja-JP": "マルチプレイのタッグデュエルで遊ぶ"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Werde ein Tag-Duellant",
+                    "en-US": "You became a tag Duelist!",
+                    "es-ES": "Trabajo en equipo",
+                    "fr-FR": "Vous devenez un Tag Duelliste !",
+                    "it-IT": "Sei diventato un Duellante Tag",
+                    "ja-JP": "タッグデュエルで勝利！"
+                },
+                "description": {
+                    "de-DE": "Hat zum ersten Mal ein Tag-Duell gewonnen.",
+                    "en-US": "Win a Tag Duel for the first time",
+                    "es-ES": "Has ganado un Duelo Tag por primera vez.",
+                    "fr-FR": "Gagnez le Tag Duel pour la première fois",
+                    "it-IT": "Hai vinto per la prima volta un Duello Tag.",
+                    "ja-JP": "マルチプレイのタッグデュエルで勝利"
+                },
+                "howto": {
+                    "de-DE": "Gewinne zum ersten Mal ein Tag-Duell.",
+                    "en-US": "Win a Tag Duel for the first time",
+                    "es-ES": "Gana un Duelo Tag por primera vez.",
+                    "fr-FR": "Gagner le Tag Duel pour la première fois",
+                    "it-IT": "Vinci per la prima volta un Duello Tag.",
+                    "ja-JP": "マルチプレイのタッグデュエルで勝利"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Werde ein besonderer Duellant",
+                    "en-US": "Becoming a special Duelist",
+                    "es-ES": "Un Duelista especial",
+                    "fr-FR": "Devenir un Duelliste spécial",
+                    "it-IT": "Diventa un Duellante speciale",
+                    "ja-JP": "憧れのデュエリスト"
+                },
+                "description": {
+                    "de-DE": "Hat gewonnen und  eine Seltene Karte erhalten.",
+                    "en-US": "Win and get a Rare Card",
+                    "es-ES": "Has ganado y has conseguido una carta Rara.",
+                    "fr-FR": "Gagnez et obtenez une carte rare",
+                    "it-IT": "Hai vinto ed hai ottenuto una Carta Rara.",
+                    "ja-JP": "勝利でレアカードを入手"
+                },
+                "howto": {
+                    "de-DE": "Gewinne und erhalte eine Seltene Karte.",
+                    "en-US": "Win and get a Rare Card",
+                    "es-ES": "Gana y consigue una carta Rara.",
+                    "fr-FR": "Gagner et obtenir une carte rare",
+                    "it-IT": "Vinci ed ottieni una Carta Rara.",
+                    "ja-JP": "勝利でレアカードを入手"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Brutaler Duellant",
+                    "en-US": "Violent Duelist",
+                    "es-ES": "Duelista agresivo",
+                    "fr-FR": "Duelliste berserker",
+                    "it-IT": "Duellante violento",
+                    "ja-JP": "戦闘デュエリスト"
+                },
+                "description": {
+                    "de-DE": "Hat insgesamt 1 Million Gesamtschaden zugefügt.",
+                    "en-US": "Inflict at least 1 million total damage",
+                    "es-ES": "Has infligido 1 millón de puntos de daño.",
+                    "fr-FR": "Infligez au moins 1 million de dégâts au total ",
+                    "it-IT": "Hai inflitto almeno 1 milione di danni in totale.",
+                    "ja-JP": "累積100万ダメージ以上与える"
+                },
+                "howto": {
+                    "de-DE": "Füge mindestens 1 Million Gesamtschaden zu.",
+                    "en-US": "Inflict at least 1 million total damage",
+                    "es-ES": "Inflige 1 millón de puntos de daño.",
+                    "fr-FR": "Infliger au moins 1 million de dégâts au total ",
+                    "it-IT": "Infliggi almeno 1 milione di danni in totale.",
+                    "ja-JP": "累積100万ダメージ以上与える"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Einsamer Duellant",
+                    "en-US": "Lonely Duelist",
+                    "es-ES": "Duelista solitario",
+                    "fr-FR": "Duelliste solitaire",
+                    "it-IT": "Duellante solitario",
+                    "ja-JP": "孤高のデュエリスト"
+                },
+                "description": {
+                    "de-DE": "Hat 100 Mal im Single-Modus gewonnen.",
+                    "en-US": "100 wins in Single Mode",
+                    "es-ES": "Has obtenido 100 victorias en el Modo Individual.",
+                    "fr-FR": "100 victoires en Mode Simple",
+                    "it-IT": "Hai ottenuto 100 vittorie in modalità Singolo.",
+                    "ja-JP": "シングルモードで100回以上勝利"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 100 Mal im Single-Modus.",
+                    "en-US": "100 wins in Single Mode",
+                    "es-ES": "Obtén 100 victorias en el Modo Individual.",
+                    "fr-FR": "100 victoires en Mode Simple",
+                    "it-IT": "Ottieni 100 vittorie in modalità Singolo.",
+                    "ja-JP": "シングルモードで100回以上勝利"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Beliebter Duellant",
+                    "en-US": "Friendly Duelist",
+                    "es-ES": "Duelista simpático",
+                    "fr-FR": "Duelliste Amical",
+                    "it-IT": "Duellante amichevole",
+                    "ja-JP": "親切なデュエリスト"
+                },
+                "description": {
+                    "de-DE": "Hat 100 Mal in Tag-Duell gewonnen.",
+                    "en-US": "100 wins in Tag Duel",
+                    "es-ES": "Has obtenido 100 victorias en Duelos Tag.",
+                    "fr-FR": "100 victroires en Tag Duel",
+                    "it-IT": "Hai ottenuto 100 vittorie in Duelli Tag.",
+                    "ja-JP": "タッグデュエルで100回以上勝利"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 100 Mal in Tag-Duell.",
+                    "en-US": "100 wins in Tag Duel",
+                    "es-ES": "Obtén 100 victorias en Duelos Tag.",
+                    "fr-FR": "100 victroires en Tag Duel",
+                    "it-IT": "Ottieni 100 vittorie in Duelli Tag.",
+                    "ja-JP": "タッグデュエルで100回以上勝利"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Ultimativer Duellant",
+                    "en-US": "Ultimate Duelist",
+                    "es-ES": "El Duelista definitivo",
+                    "fr-FR": "Duelliste ultime",
+                    "it-IT": "Duellante supremo",
+                    "ja-JP": "究極のデュエリスト"
+                },
+                "description": {
+                    "de-DE": "Hat insgesamt 200 Mal gewonnen.",
+                    "en-US": "200 wins in any mode",
+                    "es-ES": "Has obtenido 200 victorias en cualquier modo.",
+                    "fr-FR": "200 victoires dans tous les modes",
+                    "it-IT": "Hai ottenuto 200 vittorie in tutte le modalità.",
+                    "ja-JP": "すべて含めて累積200回以上勝利"
+                },
+                "howto": {
+                    "de-DE": "Gewinne insgesamt 200 Mal.",
+                    "en-US": "200 wins in any mode",
+                    "es-ES": "Obtén 200 victorias en cualquier modo.",
+                    "fr-FR": "200 victoires dans tous les modes",
+                    "it-IT": "Ottieni 200 vittorie in tutte le modalità.",
+                    "ja-JP": "すべて含めて累積200回以上勝利"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "12.png"
+        }
+    }
+}

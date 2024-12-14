@@ -1,0 +1,388 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Neuer Herausforderer",
+                    "en-US": "New Challenger",
+                    "es-ES": "Nuevo aspirante",
+                    "fr-FR": "\"Here comes a New Challenger\"",
+                    "it-IT": "Nuovo sfidante",
+                    "ja-JP": "ニューチャレンジャー"
+                },
+                "description": {
+                    "de-DE": "Matthew Patel besiegt, ohne zu sterben.",
+                    "en-US": "Defeated Matthew Patel without losing a life.",
+                    "es-ES": "Has derrotado a Matthew Patel sin perder ninguna vida.",
+                    "fr-FR": "Vous avez vaincu Matthew Patel sans perdre une seule vie.",
+                    "it-IT": "Hai sconfitto Matt Patel senza perdere vite.",
+                    "ja-JP": "ライフをへらさずにMatthew Patel をたおした!"
+                },
+                "howto": {
+                    "de-DE": "Besiege Matthew Patel, ohne zu sterben.",
+                    "en-US": "Defeat Matthew Patel without losing a life.",
+                    "es-ES": "Derrota a Matthew Patel sin perder ninguna vida.",
+                    "fr-FR": "Vaincre Matthew Patel sans perdre une vie.",
+                    "it-IT": "Sconfiggi Matt Patel senza perdere vite.",
+                    "ja-JP": "ライフをへらさずにMatthew Patel をたおせ!"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Zwillingsdrachen",
+                    "en-US": "Twin Dragons",
+                    "es-ES": "Dragones gem.",
+                    "fr-FR": "Dragons doubles",
+                    "it-IT": "I Draghi",
+                    "ja-JP": "ツインドラゴン"
+                },
+                "description": {
+                    "de-DE": "Die Zwillinge gleichzeitig besiegt.",
+                    "en-US": "Defeated the Twins simultaneously.",
+                    "es-ES": "Has derrotado a los gemelos a la vez.",
+                    "fr-FR": "Vous avez vaincu les jumeaux simultanément.",
+                    "it-IT": "Hai sconfitto i gemelli insieme.",
+                    "ja-JP": "ふたごをどうじにたおした!"
+                },
+                "howto": {
+                    "de-DE": "Besiege die Zwillinge gleichzeitig.",
+                    "en-US": "Defeat the Twins simultaneously.",
+                    "es-ES": "Derrota a los gemelos a la vez.",
+                    "fr-FR": "Vaincre les jumeaux simultanément.",
+                    "it-IT": "Sconfiggi i gemelli insieme.",
+                    "ja-JP": "ふたごをどうじにたおせ!"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Schmutziger Trick",
+                    "en-US": "Dirty Trick",
+                    "es-ES": "Truco sucio",
+                    "fr-FR": "Finish him",
+                    "it-IT": "Tiro sporco",
+                    "ja-JP": "ダーティトリック"
+                },
+                "description": {
+                    "de-DE": "Einen Gegner am Boden durch ein auf ihn geworfenes Objekt besiegt.",
+                    "en-US": "Defeated an enemy by throwing an object at him while he was already down.",
+                    "es-ES": "Has derrotado a un enemigo al lanzarle un objeto cuando ya había caído.",
+                    "fr-FR": "Vous avez vaincu un ennemi en lui lançant un objet alors qu'il était à terre.",
+                    "it-IT": "Hai sconfitto un nemico lanciandogli un oggetto mentre era già a terra.",
+                    "ja-JP": "たおれたてきに、アイテムをなげてたおした!"
+                },
+                "howto": {
+                    "de-DE": "Besiege einen Gegner am Boden indem du ein Objekt auf ihn wirfst.",
+                    "en-US": "Defeat an enemy by throwing an object at him while he’s already down.",
+                    "es-ES": "Derrota a un enemigo al lanzarle un objeto cuando haya caído.",
+                    "fr-FR": "Vaincre un ennemi en lui lançant un objet alors qu'il est à terre.",
+                    "it-IT": "Sconfiggi un nemico lanciandogli un oggetto mentre è già a terra.",
+                    "ja-JP": "たおれたてきに、アイテムをなげてたおせ!"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Unverwundbar",
+                    "en-US": "Invulnerable",
+                    "es-ES": "Invulnerable",
+                    "fr-FR": "Invulnérable",
+                    "it-IT": "Invincibile",
+                    "ja-JP": "ダメージ0"
+                },
+                "description": {
+                    "de-DE": "Den Boss in dieser Welt erreicht, ohne Treffer zu kassieren.",
+                    "en-US": "Played through a World and reached the boss without getting hit.",
+                    "es-ES": "Has jugado en un mundo y has llegado hasta el jefe sin sufrir ningún ataque.",
+                    "fr-FR": "Vous avez traversé un monde et atteint le boss sans vous faire toucher.",
+                    "it-IT": "Hai percorso un Mondo, arrivando al boss senza essere colpito.",
+                    "ja-JP": "1つのワールドをダメージ0でボスまでたどりついた!"
+                },
+                "howto": {
+                    "de-DE": "Erreiche den Boss in dieser Welt, ohne Treffer zu kassieren.",
+                    "en-US": "Play through a World and reach the boss without getting hit.",
+                    "es-ES": "Juega en un mundo y llega hasta el jefe sin sufrir ningún ataque.",
+                    "fr-FR": "Traverser un monde et atteindre le boss sans vous faire toucher.",
+                    "it-IT": "Attraversa un Mondo e arriva al boss senza essere colpito.",
+                    "ja-JP": "1つのワールドをダメージ0でボスまでたどりつけ!"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Hol das Mädchen",
+                    "en-US": "Get The Girl",
+                    "es-ES": "Consigue a la chica",
+                    "fr-FR": "Il faut sauver la Princesse !",
+                    "it-IT": "Acchiappala",
+                    "ja-JP": "ゲットザガール"
+                },
+                "description": {
+                    "de-DE": "Das Spiel mit Scott beendet.",
+                    "en-US": "Finished the game with Scott.",
+                    "es-ES": "Has terminado el juego con Scott.",
+                    "fr-FR": "Vous avez terminé le jeu avec Scott.",
+                    "it-IT": "Finito il gioco con Scott.",
+                    "ja-JP": "Scottでゲームをクリアした!"
+                },
+                "howto": {
+                    "de-DE": "Beende das Spiel mit Scott.",
+                    "en-US": "Clear the game once with Scott.",
+                    "es-ES": "Termina una vez el juego con Scott.",
+                    "fr-FR": "Terminer le jeu une fois avec Scott.",
+                    "it-IT": "Finisci il gioco con Scott.",
+                    "ja-JP": "Scottでゲームをクリアしろ!"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Macht der Freundschaft",
+                    "en-US": "The Power Of Friendship",
+                    "es-ES": "El poder de la amistad",
+                    "fr-FR": "Le Pouvoir de l'Amitié",
+                    "it-IT": "Il potere dell'amicizia",
+                    "ja-JP": "ゆうじょうパワー"
+                },
+                "description": {
+                    "de-DE": "Einen Spieler mindestens 25x wiederbelebt.",
+                    "en-US": "Reanimated another player at least 25 times.",
+                    "es-ES": "Has reanimado a otro jugador al menos 25 veces.",
+                    "fr-FR": "Vous avez ranimé un autre joueur au moins 25 fois.",
+                    "it-IT": "Rianimato un giocatore almeno 25 volte.",
+                    "ja-JP": "マルチプレイモードで、25かいみかたをいきかえらせた!"
+                },
+                "howto": {
+                    "de-DE": "Reanimiere einen Spieler in einem Multiplayerspiel mindestens 25x.",
+                    "en-US": "In a multiplayer game, reanimate another player at least 25 times.",
+                    "es-ES": "En una partida multijugador, reanima a otro jugador al menos 25 veces.",
+                    "fr-FR": "En mode multijoueur, ranimer un autre joueur au moins 25 fois.",
+                    "it-IT": "In una partita multiplayer, rianima gli altri almeno 25 volte.",
+                    "ja-JP": "マルチプレイモードで、25かいみかたをいきかえらせよう!"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Gourmet",
+                    "en-US": "Gourmet",
+                    "es-ES": "Gourmet",
+                    "fr-FR": "Waka-waka-waka",
+                    "it-IT": "Gourmet",
+                    "ja-JP": "グルメ"
+                },
+                "description": {
+                    "de-DE": "Nahrung aufgegessen.",
+                    "en-US": "Ate every food items.",
+                    "es-ES": "Has comido todos los alimentos.",
+                    "fr-FR": "Vous avez mangé tous les aliments.",
+                    "it-IT": "Mangiato tutto.",
+                    "ja-JP": "たべものをぜんぶたべた!"
+                },
+                "howto": {
+                    "de-DE": "Iss die Nahrung auf.",
+                    "en-US": "Eat every food items.",
+                    "es-ES": "Come todos los alimentos.",
+                    "fr-FR": "Manger tous les aliments.",
+                    "it-IT": "Mangia tutti i cibi.",
+                    "ja-JP": "たべものをぜんぶたべよう!"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Auf dem Posten",
+                    "en-US": "Vigilante",
+                    "es-ES": "Justiciero",
+                    "fr-FR": "Tolérance zéro (ou presque)",
+                    "it-IT": "Vigilante",
+                    "ja-JP": "せいさい"
+                },
+                "description": {
+                    "de-DE": "1000 Gegner besiegt.",
+                    "en-US": "Defeated 1000 enemies.",
+                    "es-ES": "1000 enemigos derrotados.",
+                    "fr-FR": "1000 ennemis vaincus.",
+                    "it-IT": "Hai sconfitto 1000 nemici.",
+                    "ja-JP": "敵を1000人倒した"
+                },
+                "howto": {
+                    "de-DE": "Besiege 1000 Gegner.",
+                    "en-US": "Defeat 1000 enemies.",
+                    "es-ES": "Derrota 1000 enemigos.",
+                    "fr-FR": "Vaincre 1000 ennemis.",
+                    "it-IT": "Sconfiggi 1000 nemici.",
+                    "ja-JP": "敵を1000人倒せ"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "1-Mann-Armee",
+                    "en-US": "One Man Army",
+                    "es-ES": "Hombre ejército",
+                    "fr-FR": "Machine de guerre",
+                    "it-IT": "Uomoesercito",
+                    "ja-JP": "ワンマンアーミー"
+                },
+                "description": {
+                    "de-DE": "Das Spiel im Einzelspielermodus in der Großmeister-Stufe beendet.",
+                    "en-US": "Cleared the game in single player on the “Supreme Master” difficulty setting.",
+                    "es-ES": "Has terminado el juego para un jugador en la dificultad Maestro supremo.",
+                    "fr-FR": "Vous avez terminé le jeu en mode Solo au niveau de difficulté \"Grand Maître\".",
+                    "it-IT": "Finito la modalità giocatore singolo con difficoltà \"Maestro supremo\".",
+                    "ja-JP": "レベル“Supreme Master”でシングルプレイモードをクリアした!"
+                },
+                "howto": {
+                    "de-DE": "Beende das Spiel im Einzelspielermodus in der Großmeister-Stufe.",
+                    "en-US": "Clear the game in single player on the “Supreme Master” difficulty setting.",
+                    "es-ES": "Terminado el juego para un jugador en la dificultad Maestro supremo.",
+                    "fr-FR": "Terminer le jeu en mode Solo au niveau de difficulté \"Grand Maître\".",
+                    "it-IT": "Finisci la modalità giocatore singolo con difficoltà \"Maestro supremo\".",
+                    "ja-JP": "レベル“Supreme Master”でシングルプレイモードをクリアしろ!"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Shopaholic",
+                    "en-US": "Shopaholic",
+                    "es-ES": "Comprador compulsivo",
+                    "fr-FR": "Accro au shopping",
+                    "it-IT": "Manibucate",
+                    "ja-JP": "ショッピングちゅうどく"
+                },
+                "description": {
+                    "de-DE": "Alle Waren eines Shops während eines Besuchs gekauft.",
+                    "en-US": "Bought all the items of a shop during the same visit.",
+                    "es-ES": "Has comprado todos los objetos de una tienda en la misma visita.",
+                    "fr-FR": "Vous avez acheté tous les articles d'une boutique lors de la même visite.",
+                    "it-IT": "Acquistato tutto in un negozio in una sola volta.",
+                    "ja-JP": "ショップで1どにすべてのアイテムをかいものした!"
+                },
+                "howto": {
+                    "de-DE": "Kauf alle Waren eines Shops während eines Besuchs.",
+                    "en-US": "Buy all the items of a shop during the same visit.",
+                    "es-ES": "Compra todos los objetos de una tienda en la misma visita.",
+                    "fr-FR": "Acheter tous les articles d'une boutique  lors de la même visite.",
+                    "it-IT": "Acquista tutto in un negozio in una sola volta.",
+                    "ja-JP": "ショップで1どにすべてのアイテムをかいものしよう!"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Bewaffnet und gefährlich",
+                    "en-US": "Armed And Dangerous",
+                    "es-ES": "Armado y peligroso",
+                    "fr-FR": "Armé et dangereux",
+                    "it-IT": "Armato e pericoloso",
+                    "ja-JP": "きけんなぶき"
+                },
+                "description": {
+                    "de-DE": "Mehr als 200 Gegner mit interaktiven Objekten besiegt.",
+                    "en-US": "Defeated at least 200 enemies using interactive objects.",
+                    "es-ES": "Has derrotado al menos a 200 enemigos con objetos interactivos.",
+                    "fr-FR": "Vous avez vaincu au moins 200 ennemis en utilisant des objets interactifs.",
+                    "it-IT": "Hai sconfitto almeno 200 nemici usando gli oggetti.",
+                    "ja-JP": "アイテムをつかって、200にんのてきをたおした!"
+                },
+                "howto": {
+                    "de-DE": "Besiege mind. 200 Gegner mit interaktiven Objekten.",
+                    "en-US": "Defeat at least 200 enemies using interactive objects.",
+                    "es-ES": "Derrota al menos a 200 enemigos con objetos interactivos.",
+                    "fr-FR": "Vaincre au moins 200 ennemis en utilisant des objets interactifs.",
+                    "it-IT": "Sconfiggi almeno 200 nemici usando gli oggetti.",
+                    "ja-JP": "アイテムをつかって、200にんのてきをたおせ!"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "\"Chaudown\"",
+                    "en-US": "“Chaudown”",
+                    "es-ES": "Prueba final",
+                    "fr-FR": "À la rescousse !",
+                    "it-IT": "\"Chaudown\"",
+                    "ja-JP": "\"Chaudown\""
+                },
+                "description": {
+                    "de-DE": "Alle Striker gerufen.",
+                    "en-US": "Unlocked and called all strikers.",
+                    "es-ES": "Has desbloq. a todos los esbirros.",
+                    "fr-FR": "Vous avez débloqué et appelé tous les alliés.",
+                    "it-IT": "Hai sbloccato tutti gli aiutanti.",
+                    "ja-JP": "すべてのストライカーをアンロックしてよびだした!"
+                },
+                "howto": {
+                    "de-DE": "Rufe alle Striker.",
+                    "en-US": "Unlock and call all strikers.",
+                    "es-ES": "Desbloq a todos los esbirros.",
+                    "fr-FR": "Débloquer et appeler tous les alliés.",
+                    "it-IT": "Sblocca tutti gli aiutanti.",
+                    "ja-JP": "すべてのストライカーをアンロックしてよびだせ!"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "12.png"
+        }
+    }
+}

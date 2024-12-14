@@ -1,0 +1,460 @@
+{
+    "Achievements": {
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "3-fach\n\n",
+                    "en-US": "3-fer\n\n",
+                    "es-ES": "Triplete\n\n",
+                    "fr-FR": "Jamais deux sans trois\n\n",
+                    "it-IT": "Tripletta\n\n",
+                    "ja-JP": "ハット トリック\n\n",
+                    "ko-KR": "트리플\n\n",
+                    "zh-CHT": "3-fer\n\n"
+                },
+                "description": {
+                    "de-DE": "Dreifachkill erzielt",
+                    "en-US": "Achieved a Triple Kill",
+                    "es-ES": "Tres oponentes muertos a la vez",
+                    "fr-FR": "A réussi un triple frag",
+                    "it-IT": "Effettuata un'uccisione tripla",
+                    "ja-JP": "3 連続キルを達成",
+                    "ko-KR": "트리플 킬 달성",
+                    "zh-CHT": "已達成三連殺。"
+                },
+                "howto": {
+                    "de-DE": "Erziele einen Dreifachkill",
+                    "en-US": "Achieve a Triple Kill",
+                    "es-ES": "Mata a tres oponentes a la vez",
+                    "fr-FR": "Réussissez un triple frag",
+                    "it-IT": "Effettua un'uccisione tripla",
+                    "ja-JP": "3 連続キルを達成",
+                    "ko-KR": "트리플 킬을 달성하라",
+                    "zh-CHT": "達到三連殺。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "01.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Beim Nickerchen erwischt",
+                    "en-US": "Caught 'em Nappin'",
+                    "es-ES": "Pillados desprevenidos",
+                    "fr-FR": "Réveil douloureux",
+                    "it-IT": "Colti impreparati",
+                    "ja-JP": "不意打ち",
+                    "ko-KR": "긴장을 늦추지 마라",
+                    "zh-CHT": "逮到他們在打盹"
+                },
+                "description": {
+                    "de-DE": "In Kreuzfeuer-Spiel Kill erzielt, während der Gegner Fertigkeiten ausgebaut hat",
+                    "en-US": "Achieved a kill on an opposing player while they were upgrading skills in a Crossfire match",
+                    "es-ES": "Un oponente muerto mientras mejoraba habilidades en una partida de Fuego cruzado",
+                    "fr-FR": "A réussi un frag sur un joueur adverse alors qu'il améliorait ses capacités en partie Feu croisé",
+                    "it-IT": "Ucciso un giocatore avversario mentre potenziava le abilità in Fuoco incrociato",
+                    "ja-JP": "クロスファイア マッチで、スキルをアップグレード中の相手をキルすることに成功",
+                    "ko-KR": "크로스 파이어 매치에서 상대 플레이어가 스킬을 업그레이드하고 있을 때 처치",
+                    "zh-CHT": "已趁對手在對戰裡升級技術時殺死他們。"
+                },
+                "howto": {
+                    "de-DE": "Erziele in einem Kreuzfeuer-Spiel einen Kill, während der Gegner Fertigkeiten ausbaut",
+                    "en-US": "Achieve a kill on an opposing player while they are upgrading skills in a Crossfire match",
+                    "es-ES": "Mata a un oponente mientras mejora habilidades en una partida de Fuego cruzado",
+                    "fr-FR": "Réussissez un frag sur un joueur adverse alors qu'il améliore ses capacités en partie Feu croisé",
+                    "it-IT": "Uccidi un giocatore avversario mentre potenzia le abilità in Fuoco incrociato",
+                    "ja-JP": "クロスファイア マッチで、スキルのアップグレード中の相手をキルする",
+                    "ko-KR": "크로스 파이어 매치에서 상대 플레이어가 스킬을 업그레이드하고 있을 때 처치하라",
+                    "zh-CHT": "趁對手在對戰裡升級技術時殺死他們"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "02.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Greifer",
+                    "en-US": "Grappler",
+                    "es-ES": "Forcejeo",
+                    "fr-FR": "Prise de contact",
+                    "it-IT": "Prenditutti",
+                    "ja-JP": "グラップラー",
+                    "ko-KR": "잡기의 달인",
+                    "zh-CHT": "格鬥家"
+                },
+                "description": {
+                    "de-DE": "In Kreuzfeuer-Spiel 10 Griff-Kills erzielt",
+                    "en-US": "Achieved 10 grapple kills in a Crossfire match",
+                    "es-ES": "10 oponentes muertos con forcejeo en una partida de Fuego cruzado",
+                    "fr-FR": "A réussi 10 frags par saisie au cours d'une partie Feu croisé",
+                    "it-IT": "Effettuate 10 uccisioni con presa in una partita Fuoco incrociato",
+                    "ja-JP": "クロスファイアの 1 マッチ中に近接攻撃 10 キルを達成",
+                    "ko-KR": "크로스 파이어 매치에서 10번의 잡기 킬 달성",
+                    "zh-CHT": "已在對戰中達成 10 次近身攻擊擊殺。"
+                },
+                "howto": {
+                    "de-DE": "Erziele in einem Kreuzfeuer-Spiel 10 Griff-Kills",
+                    "en-US": "Achieve 10 grapple kills in a Crossfire match",
+                    "es-ES": "Mata a 10 oponentes con forcejeo en una partida de Fuego cruzado",
+                    "fr-FR": "Réussissez 10 frags par saisie au cours d'une partie Feu croisé",
+                    "it-IT": "Effettua 10 uccisioni con presa in una partita Fuoco incrociato",
+                    "ja-JP": "クロスファイアの 1 マッチ中に、近接攻撃で 10 キルを達成する",
+                    "ko-KR": "크로스 파이어 매치에서 잡기 킬 10회를 달성하라",
+                    "zh-CHT": "在對戰裡用近身攻擊擊殺殺死 10 個對手。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "03.png"
+        },
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Kicker",
+                    "en-US": "Sacker",
+                    "es-ES": "Saqueador",
+                    "fr-FR": "Plaqueur",
+                    "it-IT": "Boia",
+                    "ja-JP": "デストロイヤー",
+                    "ko-KR": "학살자",
+                    "zh-CHT": "掠奪者"
+                },
+                "description": {
+                    "de-DE": "In Kreuzfeuer-Spiel 15 Kills erzielt",
+                    "en-US": "Achieved 15 kills in a Crossfire Match",
+                    "es-ES": "15 oponentes muertos en una partida de Fuego cruzado",
+                    "fr-FR": "A réussi 15 frags au cours d'une partie Feu croisé",
+                    "it-IT": "Effettuate 15 uccisioni in una partita Fuoco incrociato",
+                    "ja-JP": "クロスファイアの 1 マッチ中に 15 キルを達成",
+                    "ko-KR": "크로스 파이어 매치에서 15명의 상대를 처치",
+                    "zh-CHT": "已在對戰中殺死 15 位對手。"
+                },
+                "howto": {
+                    "de-DE": "Erziele 15 Kills in einem Kreuzfeuer-Spiel",
+                    "en-US": "Achieve 15 kills in a Crossfire Match",
+                    "es-ES": "Mata a 15 oponentes en una partida de Fuego cruzado",
+                    "fr-FR": "Réussissez 15 frags au cours d'une partie Feu croisé",
+                    "it-IT": "Effettua 15 uccisioni in una partita Fuoco incrociato",
+                    "ja-JP": "クロスファイアの 1 マッチ中に 15 キルを達成する",
+                    "ko-KR": "크로스 파이어 매치에서 15킬을 달성하라",
+                    "zh-CHT": "在對戰裡殺死 15 位對手。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Heiße Serie",
+                    "en-US": "Hot Streak",
+                    "es-ES": "Buena racha",
+                    "fr-FR": "Chaud bouillant",
+                    "it-IT": "Serie vincente",
+                    "ja-JP": "連続ヒット",
+                    "ko-KR": "뜨거운 연속 킬",
+                    "zh-CHT": "炙手可熱"
+                },
+                "description": {
+                    "de-DE": "In Kreuzfeuer-Spiel Serie von 3 Kills erzielt",
+                    "en-US": "Achieved a 3 kill streak in a Crossfire match",
+                    "es-ES": "Racha de 3 oponentes muertos en una partida de Fuego cruzado",
+                    "fr-FR": "A réussi 3 frags d'affilée au cours d'une partie Feu croisé",
+                    "it-IT": "Effettuata una serie di 3 uccisioni in una partita Fuoco incrociato",
+                    "ja-JP": "クロスファイアの 1 マッチ中に 3 連続キルを達成",
+                    "ko-KR": "크로스 파이어 매치에서 연속 3킬 달성",
+                    "zh-CHT": "已在對戰中連殺三人。"
+                },
+                "howto": {
+                    "de-DE": "Erziele in einem Kreuzfeuer-Spiel eine Serie von 3 Kills",
+                    "en-US": "Achieve a 3 kill streak in a Crossfire match",
+                    "es-ES": "Logra una racha de 3 muertes en una partida de Fuego cruzado",
+                    "fr-FR": "Réussissez 3 frags d'affilée au cours d'une partie Feu croisé",
+                    "it-IT": "Effettua una serie di 3 uccisioni in una partita Fuoco incrociato",
+                    "ja-JP": "クロスファイアの 1 マッチ中に、3 連続 キルを達成する",
+                    "ko-KR": "크로스 파이어 매치에서 연속 3킬을 달성하라",
+                    "zh-CHT": "在對戰裡連續殺死 3 個對手。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Raus aus meinem Haus!",
+                    "en-US": "Outta My House!",
+                    "es-ES": "¡Fuera de mi casa!",
+                    "fr-FR": "Expulsion",
+                    "it-IT": "Fuori da casa mia!",
+                    "ja-JP": "立ち入り禁止",
+                    "ko-KR": "내 집에서 나가!",
+                    "zh-CHT": "滾出我的地盤！"
+                },
+                "description": {
+                    "de-DE": "In Kreuzfeuer-Spiel einen Ring-Out erzielt",
+                    "en-US": "Achieved a Ring Out during a Crossfire match",
+                    "es-ES": "Oponente fuera del ring en una partida de Fuego cruzado",
+                    "fr-FR": "A réussi une éjection au cours d'une partie Feu croisé",
+                    "it-IT": "Mandato avversario fuori dal ring in una partita Fuoco incrociato",
+                    "ja-JP": "クロスファイア マッチでリング アウトを達成",
+                    "ko-KR": "크로스 파이어 매치에서 링 아웃 달성",
+                    "zh-CHT": "已在對戰中將玩家打出場外。"
+                },
+                "howto": {
+                    "de-DE": "Erziele in einem Kreuzfeuer-Spiel einen Ring Out",
+                    "en-US": "Achieve a Ring Out during a Crossfire match",
+                    "es-ES": "Logra echar al oponente del ring en una partida de Fuego cruzado",
+                    "fr-FR": "Réussissez une éjection au cours d'une partie Feu croisé",
+                    "it-IT": "Manda un avversario fuori dal ring in una partita Fuoco incrociato",
+                    "ja-JP": "クロスファイア マッチでリング アウトを達成する",
+                    "ko-KR": "크로스 파이어 매치에서 링 아웃을 달성하라",
+                    "zh-CHT": "在對戰裡將玩家打出場外。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "06.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Pfannkuchenmeister",
+                    "en-US": "Flapjack Master",
+                    "es-ES": "Maestro de las crepes",
+                    "fr-FR": "Écraseur",
+                    "it-IT": "Schiacciasassi",
+                    "ja-JP": "フラップジャック マスター",
+                    "ko-KR": "플랩잭 마스터",
+                    "zh-CHT": "摔擊大師"
+                },
+                "description": {
+                    "de-DE": "Mit Bodenschlag-Fertigkeit des Schützen Pfannkuchen aus dem Gegner gemacht",
+                    "en-US": "Achieved a pancake on an opposing player using the Gunner's Ground Slam ability",
+                    "es-ES": "Oponente espachurrado utilizando la habilidad Golpe contra el suelo del artillero",
+                    "fr-FR": "A réussi un écrasement sur un joueur adverse à l'aide de l'onde de choc de l'artilleur",
+                    "it-IT": "Schiacciato un avversario con l'abilità Schianto dell'Artigliere",
+                    "ja-JP": "ガンナーのグランド スラムを使用して、敵をつぶすことに成功",
+                    "ko-KR": "건너의 슬램 능력을 사용하고 있는 상대 플레이어에게 팬케이크 달성",
+                    "zh-CHT": "已使用機槍兵的大地猛擊將對手壓扁。"
+                },
+                "howto": {
+                    "de-DE": "Mach mit der Bodenschlag-Fertigkeit des Schützen einen Pfannkuchen aus einem Gegner",
+                    "en-US": "Achieve a pancake on an opposing player using the Gunner's Ground Slam ability",
+                    "es-ES": "Logra espachurrar a un oponente utilizando la habilidad Golpe contra el suelo del artillero",
+                    "fr-FR": "Réussissez un écrasement sur un joueur adverse à l'aide de l'onde de choc de l'artilleur",
+                    "it-IT": "Schiaccia un avversario con l'abilità Schianto dell'Artigliere",
+                    "ja-JP": "ガンナーのグランド スラムを使用して、敵をつぶす",
+                    "ko-KR": "건너의 슬램 능력을 사용하고 있는 상대 플레이어에게 팬케이크를 달성하라",
+                    "zh-CHT": "使用機槍兵的大地猛擊將對手壓扁。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "07.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "MVP",
+                    "en-US": "MVP",
+                    "es-ES": "MVP",
+                    "fr-FR": "Meilleur joueur",
+                    "it-IT": "MVP",
+                    "ja-JP": "MVP",
+                    "ko-KR": "MVP",
+                    "zh-CHT": "最有價值選手"
+                },
+                "description": {
+                    "de-DE": "In Kreuzfeuer-Spiel Most Valuable Player geworden",
+                    "en-US": "Achieved Most Valuable Player in a Crossfire Match",
+                    "es-ES": "Jugador más valioso en una partida de Fuego cruzado",
+                    "fr-FR": "A terminé meilleur joueur à l'issue d'une partie Feu croisé",
+                    "it-IT": "Nominato miglior giocatore in una partita Fuoco incrociato",
+                    "ja-JP": "クロスファイア マッチで MVP を達成",
+                    "ko-KR": "크로스 파이어 매치에서 최우수 선수 달성",
+                    "zh-CHT": "已在對戰中成為最有價值選手！"
+                },
+                "howto": {
+                    "de-DE": "Werde Most Valuable Player in einem Kreuzfeuer-Spiel",
+                    "en-US": "Achieve Most Valuable Player in a Crossfire Match",
+                    "es-ES": "Logra ser el jugador más valioso en una partida de Fuego cruzado",
+                    "fr-FR": "Terminez meilleur joueur à l'issue d'une partie Feu croisé",
+                    "it-IT": "Guadagna la nomina miglior giocatore in una partita Fuoco incrociato",
+                    "ja-JP": "クロスファイア マッチで MVP を達成する",
+                    "ko-KR": "크로스 파이어 매치에서 최우수 선수가 되어라",
+                    "zh-CHT": "在對戰中成為最有價值選手。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Flüchtig",
+                    "en-US": "Elusive",
+                    "es-ES": "Escurridizo",
+                    "fr-FR": "Insaisissable",
+                    "it-IT": "Elusione",
+                    "ja-JP": "スクランブラー",
+                    "ko-KR": "잡히지 않아",
+                    "zh-CHT": "逃開"
+                },
+                "description": {
+                    "de-DE": "\"Chaosblitz\"-Modus abgeschlossen",
+                    "en-US": "Completed \"The Scramble\" Blitz mode",
+                    "es-ES": "Modo de Ataque intenso \"El barullo\" completado",
+                    "fr-FR": "A terminé le mode Blitz Escarmouche",
+                    "it-IT": "Completata modalità Blitz \"La zuffa\"",
+                    "ja-JP": "スクランブル ブリッツ モードをクリア",
+                    "ko-KR": "\"스크램블\" 블리츠 모드 완료",
+                    "zh-CHT": "已完成「爭奪賽」模式。"
+                },
+                "howto": {
+                    "de-DE": "Schließe den \"Chaosblitz\"-Modus ab",
+                    "en-US": "Complete \"The Scramble\" Blitz mode",
+                    "es-ES": "Completa el modo de Ataque intenso \"El barullo\"",
+                    "fr-FR": "Terminez le mode Blitz Escarmouche",
+                    "it-IT": "Completa modalità Blitz \"La zuffa\"",
+                    "ja-JP": "スクランブル ブリッツ モードをクリアする",
+                    "ko-KR": "\"스크램블\" 블리츠 모드를 완료하라",
+                    "zh-CHT": "完成「爭奪賽」模式"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Erfahrener Veteran",
+                    "en-US": "Seasoned Veteran",
+                    "es-ES": "Veterano experimentado",
+                    "fr-FR": "Vétéran aguerri",
+                    "it-IT": "Veterano",
+                    "ja-JP": "シーズン ベテラン",
+                    "ko-KR": "시즌 베테랑",
+                    "zh-CHT": "經驗豐富的老手"
+                },
+                "description": {
+                    "de-DE": "\"Saisonblitz\"-Modus abgeschlossen",
+                    "en-US": "Completed \"Season\" Blitz mode",
+                    "es-ES": "Modo de Ataque intenso \"Temporada\" completado",
+                    "fr-FR": "A terminé le mode Blitz de saison régulière",
+                    "it-IT": "Completata modalità Blitz \"Stagione\"",
+                    "ja-JP": "シーズン ブリッツ モードをクリア",
+                    "ko-KR": "\"시즌\" 블리츠 모드 완료",
+                    "zh-CHT": "已完成「季賽」模式。"
+                },
+                "howto": {
+                    "de-DE": "Schließe den \"Saisonblitz\"Modus ab",
+                    "en-US": "Complete \"Season\" Blitz mode",
+                    "es-ES": "Completa el modo de Ataque intenso \"Temporada\"",
+                    "fr-FR": "Terminez le mode Blitz de saison régulière",
+                    "it-IT": "Completa modalità Blitz \"Stagione\"",
+                    "ja-JP": "シーズン ブリッツ モードをクリアする",
+                    "ko-KR": "\"시즌\" 블리츠 모드를 완료하라",
+                    "zh-CHT": "在季賽中獲勝。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "10.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Vorrundensieger",
+                    "en-US": "Exhibitor",
+                    "es-ES": "Expositor",
+                    "fr-FR": "Exhibition",
+                    "it-IT": "Esibizionista",
+                    "ja-JP": "エキシビション マスター",
+                    "ko-KR": "참가자",
+                    "zh-CHT": "表演者"
+                },
+                "description": {
+                    "de-DE": "\"Vorrundenblitz\"-Modus abgeschlossen",
+                    "en-US": "Completed \"Exhibition\" Blitz mode",
+                    "es-ES": "Modo de Ataque intenso \"Exposición\" completado",
+                    "fr-FR": "A terminé le mode Blitz d'exhibition",
+                    "it-IT": "Completata modalità Blitz \"Esibizione\"",
+                    "ja-JP": "エキシビション ブリッツ モードをクリア",
+                    "ko-KR": "\"시범 경기\" 블리츠 모드 완료",
+                    "zh-CHT": "已完成「表演賽」模式。"
+                },
+                "howto": {
+                    "de-DE": "Schließe den \"Vorrundenblitz\"-Modus ab",
+                    "en-US": "Complete \"Exhibition\" Blitz mode",
+                    "es-ES": "Completa el modo de Ataque intenso \"Exposición\"",
+                    "fr-FR": "Terminez le mode Blitz d'exhibition",
+                    "it-IT": "Completa modalità Blitz \"Esibizione\"",
+                    "ja-JP": "エキシビション ブリッツ モードをクリアする",
+                    "ko-KR": "\"시범 경기\" 블리츠 모드를 완료하라",
+                    "zh-CHT": "完成「表演賽」模式"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "All Star",
+                    "en-US": "All Star",
+                    "es-ES": "Estrella",
+                    "fr-FR": "All-Star",
+                    "it-IT": "All Star",
+                    "ja-JP": "オール スター",
+                    "ko-KR": "올스타",
+                    "zh-CHT": "全明星"
+                },
+                "description": {
+                    "de-DE": "\"Playoffblitz\"-Modus abgeschlossen",
+                    "en-US": "Completed \"Playoff\" Blitz mode",
+                    "es-ES": "Modo de Ataque intenso \"Desempate\" completado",
+                    "fr-FR": "A terminé le mode Blitz de play-offs",
+                    "it-IT": "Completata modalità Blitz \"Playoff\"",
+                    "ja-JP": "プレイオフ ブリッツモードをクリア",
+                    "ko-KR": "\"플레이오프\" 블리츠 모드 완료",
+                    "zh-CHT": "已完成「季後賽」模式。"
+                },
+                "howto": {
+                    "de-DE": "Schließe den \"Playoffblitz\"-Modus ab",
+                    "en-US": "Complete \"Playoff\" Blitz mode",
+                    "es-ES": "Completa el modo de Ataque intenso \"Desempate\"",
+                    "fr-FR": "Terminez le mode Blitz de play-offs",
+                    "it-IT": "Completa modalità Blitz \"Playoff\"",
+                    "ja-JP": "プレイオフ ブリッツ モードをクリアする",
+                    "ko-KR": "\"플레이오프\" 블리츠 모드를 완료하라",
+                    "zh-CHT": "在季後賽中獲勝。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "12.png"
+        }
+    }
+}

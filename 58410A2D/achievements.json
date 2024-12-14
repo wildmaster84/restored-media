@@ -1,0 +1,388 @@
+{
+    "Achievements": {
+        "2": {
+            "text": {
+                "name": {
+                    "ja-JP": "Act.1　クリア",
+                    "es-ES": "Episodio 1 COMPLETADO",
+                    "de-DE": "Akt 1 abgeschlossen",
+                    "it-IT": "Atto 1 COMPLETATO",
+                    "fr-FR": "Acte 1 TERMINÉ",
+                    "en-US": "Act. 1 CLEAR"
+                },
+                "description": {
+                    "ja-JP": "ステージ１～４をクリア",
+                    "es-ES": "Completa las fases 1-4.",
+                    "de-DE": "Schließe Level 1-4 ab.",
+                    "it-IT": "Completa livelli 1-4",
+                    "fr-FR": "Terminez les stages 1-4.",
+                    "en-US": "Clear Stages 1–4."
+                },
+                "howto": {
+                    "ja-JP": "ステージ１～４をクリア",
+                    "es-ES": "Completa las fases 1-4.",
+                    "de-DE": "Schließe Level 1-4 ab.",
+                    "it-IT": "Completa livelli 1-4",
+                    "fr-FR": "Terminez les stages 1-4.",
+                    "en-US": "Clear Stages 1–4."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "5",
+            "imageId": "01.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "ja-JP": "Act.2　クリア",
+                    "es-ES": "Episodio 2 COMPLETADO",
+                    "de-DE": "Akt 2 abgeschlossen",
+                    "it-IT": "Atto 2 COMPLETATO",
+                    "fr-FR": "Acte 2 TERMINÉ",
+                    "en-US": "Act. 2 CLEAR"
+                },
+                "description": {
+                    "ja-JP": "ステージ５～８をクリア",
+                    "es-ES": "Completa las fases 5-8.",
+                    "de-DE": "Schließe Level 5-8 ab.",
+                    "it-IT": "Completa livelli 5-8",
+                    "fr-FR": "Terminez les stages 5-8.",
+                    "en-US": "Clear Stages 5–8."
+                },
+                "howto": {
+                    "ja-JP": "ステージ５～８をクリア",
+                    "es-ES": "Completa las fases 5-8.",
+                    "de-DE": "Schließe Level 5-8 ab.",
+                    "it-IT": "Completa livelli 5-8",
+                    "fr-FR": "Terminez les stages 5-8.",
+                    "en-US": "Clear Stages 5–8."
+                }
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "ja-JP": "Act.3　クリア",
+                    "es-ES": "Episodio 3 COMPLETADO",
+                    "de-DE": "Akt 3 abgeschlossen",
+                    "it-IT": "Atto 3 COMPLETATO",
+                    "fr-FR": "Acte 3 TERMINÉ",
+                    "en-US": "Act. 3 CLEAR"
+                },
+                "description": {
+                    "ja-JP": "ステージ９～１２をクリア",
+                    "es-ES": "Completa las fases 9-12.",
+                    "de-DE": "Schließe Level 9-12 ab.",
+                    "it-IT": "Completa livelli 9-12",
+                    "fr-FR": "Terminez les stages 9-12.",
+                    "en-US": "Clear Stages 9–12."
+                },
+                "howto": {
+                    "ja-JP": "ステージ９～１２をクリア",
+                    "es-ES": "Completa las fases 9-12.",
+                    "de-DE": "Schließe Level 9-12 ab.",
+                    "it-IT": "Completa livelli 9-12",
+                    "fr-FR": "Terminez les stages 9-12.",
+                    "en-US": "Clear Stages 9–12."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "03.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "ja-JP": "全エリアを踏破",
+                    "es-ES": "Viajero lunar",
+                    "de-DE": "Mondwanderer",
+                    "it-IT": "Viaggiatore lunare",
+                    "fr-FR": "Voyageur lunaire",
+                    "en-US": "Moon Traveller"
+                },
+                "description": {
+                    "ja-JP": "全ステージの全エリアに行く",
+                    "es-ES": "Visita todas las zonas de cada fase.",
+                    "de-DE": "Besuche alle Gebiete in allen Leveln.",
+                    "it-IT": "Visita tutte le aree in tutti i livelli.",
+                    "fr-FR": "Visitez toutes les zones dans chaque stage.",
+                    "en-US": "Visit all areas in all stages."
+                },
+                "howto": {
+                    "ja-JP": "全ステージの全エリアに行く",
+                    "es-ES": "Visita todas las zonas de cada fase.",
+                    "de-DE": "Besuche alle Gebiete in allen Leveln.",
+                    "it-IT": "Visita tutte le aree in tutti i livelli.",
+                    "fr-FR": "Visitez toutes les zones dans chaque stage.",
+                    "en-US": "Visit all areas in all stages."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "04.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "ja-JP": "連殺マスター",
+                    "es-ES": "Maestro de muertes en cadena",
+                    "de-DE": "Meister der Mehrfach-Kills",
+                    "it-IT": "Serial killer",
+                    "fr-FR": "Maître du carnage",
+                    "en-US": "Chain Kill Master"
+                },
+                "description": {
+                    "ja-JP": "最大連殺数が100回を超える",
+                    "es-ES": "Consigue una cadena de 100 muertes o más.",
+                    "de-DE": "Erziele einen Mehrfach-Kill von 100 oder mehr.",
+                    "it-IT": "Esegui una serie di 100 o più uccisioni.",
+                    "fr-FR": "Réalisez un carnage d'au moins 100 tués.",
+                    "en-US": "Achieve a Chain Kill of 100 or more."
+                },
+                "howto": {
+                    "ja-JP": "最大連殺数が100回を超える",
+                    "es-ES": "Consigue una cadena de 100 muertes o más.",
+                    "de-DE": "Erziele einen Mehrfach-Kill von 100 oder mehr.",
+                    "it-IT": "Esegui una serie di 100 o più uccisioni.",
+                    "fr-FR": "Réalisez un carnage d'au moins 100 tués.",
+                    "en-US": "Achieve a Chain Kill of 100 or more."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "05.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "ja-JP": "レスキューマニア",
+                    "es-ES": "Sobreprotector",
+                    "de-DE": "Beschützerkomplex",
+                    "it-IT": "Solidale",
+                    "fr-FR": "Ange gardien",
+                    "en-US": "Overprotective"
+                },
+                "description": {
+                    "ja-JP": "1回のゲームで10回以上仲間を救う",
+                    "es-ES": "Salva a tus compañeros 10 veces en una sola partida.",
+                    "de-DE": "Rette deine Gefährten 10-mal in einem einzigen Spiel.",
+                    "it-IT": "Salva i compagni 10 volte in una singola partita.",
+                    "fr-FR": "Sauvez vos compagnons 10 fois en une seule partie.",
+                    "en-US": "Save your companions 10 times in a single game."
+                },
+                "howto": {
+                    "ja-JP": "1回のゲームで10回以上仲間を救う",
+                    "es-ES": "Salva a tus compañeros 10 veces en una sola partida.",
+                    "de-DE": "Rette deine Gefährten 10-mal in einem einzigen Spiel.",
+                    "it-IT": "Salva i compagni 10 volte in una singola partita.",
+                    "fr-FR": "Sauvez vos compagnons 10 fois en une seule partie.",
+                    "en-US": "Save your companions 10 times in a single game."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "06.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "ja-JP": "レベルマニア",
+                    "es-ES": "Experto en niveles",
+                    "de-DE": "Aufstiegswütig",
+                    "it-IT": "Maniaco dei livelli",
+                    "fr-FR": "Toujours plus haut",
+                    "en-US": "Level Maniac"
+                },
+                "description": {
+                    "ja-JP": "全員の平均レベルが50を超える",
+                    "es-ES": "Aumenta el nivel medio de tus personajes hasta 50.",
+                    "de-DE": "Bringe die Charaktere im Durchschnitt auf Stufe 50.",
+                    "it-IT": "Porta il livello medio generale dei personaggi a 50.",
+                    "fr-FR": "Le niveau moyen des personnages dépasse le niveau 50.",
+                    "en-US": "Raise the average level of all characters to level 50."
+                },
+                "howto": {
+                    "ja-JP": "全員の平均レベルが50を超える",
+                    "es-ES": "Aumenta el nivel medio de tus personajes hasta 50.",
+                    "de-DE": "Bringe die Charaktere im Durchschnitt auf Stufe 50.",
+                    "it-IT": "Porta il livello medio generale dei personaggi a 50.",
+                    "fr-FR": "Le niveau moyen des personnages dépasse le niveau 50.",
+                    "en-US": "Raise the average level of all characters to level 50."
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "50",
+            "imageId": "07.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "ja-JP": "MC技コレクター",
+                    "es-ES": "Coleccionista lunar",
+                    "de-DE": "MK-Sammler",
+                    "it-IT": "Collezionista Lunare",
+                    "fr-FR": "Collectionneur d'AL",
+                    "en-US": "MC Collector"
+                },
+                "description": {
+                    "ja-JP": "MC技を50種類集める",
+                    "es-ES": "Consigue 50 técnicas CL.",
+                    "de-DE": "Sammle 50 MK-Techniken.",
+                    "it-IT": "Ottieni 50 tecniche CL.",
+                    "fr-FR": "Collectionnez 50 techniques d'AL.",
+                    "en-US": "Collect 50 MC techniques."
+                },
+                "howto": {
+                    "ja-JP": "MC技を50種類集める",
+                    "es-ES": "Consigue 50 técnicas CL.",
+                    "de-DE": "Sammle 50 MK-Techniken.",
+                    "it-IT": "Ottieni 50 tecniche CL.",
+                    "fr-FR": "Collectionnez 50 techniques d'AL.",
+                    "en-US": "Collect 50 MC techniques."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "ja-JP": "2人MC技の訓練",
+                    "es-ES": "Ensayo de CL para 2 jugadores",
+                    "de-DE": "2P-MK-Drill",
+                    "it-IT": "Esercizio CL 2 G",
+                    "fr-FR": "Exercice AL 2J",
+                    "en-US": "2P MC Drill"
+                },
+                "description": {
+                    "ja-JP": "2人で連携するMC技を10種類使う",
+                    "es-ES": "Usa 10 técnicas diferentes de CL para 2 jugadores.",
+                    "de-DE": "Verwende 10 unterschiedliche 2P-MK-Techniken.",
+                    "it-IT": "Utilizza 10 diverse tecniche CL a 2 G.",
+                    "fr-FR": "Utilisez 10 techniques différentes d'AL à 2 joueurs.",
+                    "en-US": "Use 10 different 2P MC techniques."
+                },
+                "howto": {
+                    "ja-JP": "2人で連携するMC技を10種類使う",
+                    "es-ES": "Usa 10 técnicas diferentes de CL para 2 jugadores.",
+                    "de-DE": "Verwende 10 unterschiedliche 2P-MK-Techniken.",
+                    "it-IT": "Utilizza 10 diverse tecniche CL a 2 G.",
+                    "fr-FR": "Utilisez 10 techniques différentes d'AL à 2 joueurs.",
+                    "en-US": "Use 10 different 2P MC techniques."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "ja-JP": "3人MC技の修練",
+                    "es-ES": "Práctica de CL para 3 jugadores",
+                    "de-DE": "3P-MK-Übung",
+                    "it-IT": "Pratica CL 3 G",
+                    "fr-FR": "Pratique AL 3J",
+                    "en-US": "3P MC Practise"
+                },
+                "description": {
+                    "ja-JP": "3人で連携するMC技を10種類使う",
+                    "es-ES": "Usa 10 técnicas diferentes de CL para 3 jugadores.",
+                    "de-DE": "Verwende 10 unterschiedliche 3P-MK-Techniken.",
+                    "it-IT": "Utilizza 10 diverse tecniche CL a 3 G.",
+                    "fr-FR": "Utilisez 10 techniques différentes d'AL à 3 joueurs.",
+                    "en-US": "Use 10 different 3P MC techniques."
+                },
+                "howto": {
+                    "ja-JP": "3人で連携するMC技を10種類使う",
+                    "es-ES": "Usa 10 técnicas diferentes de CL para 3 jugadores.",
+                    "de-DE": "Verwende 10 unterschiedliche 3P-MK-Techniken.",
+                    "it-IT": "Utilizza 10 diverse tecniche CL a 3 G.",
+                    "fr-FR": "Utilisez 10 techniques différentes d'AL à 3 joueurs.",
+                    "en-US": "Use 10 different 3P MC techniques."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "10.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "ja-JP": "4人MC技の鍛錬",
+                    "es-ES": "Reto de CL para 4 jugadores",
+                    "de-DE": "4P-MK-Training",
+                    "it-IT": "Allenamento CL 4 G",
+                    "fr-FR": "Entraînement AL 4J",
+                    "en-US": "4P MC Training"
+                },
+                "description": {
+                    "ja-JP": "4人で連携するMC技を10種類使う",
+                    "es-ES": "Usa 10 técnicas diferentes de CL para 4 jugadores.",
+                    "de-DE": "Verwende 10 unterschiedliche 4P-MK-Techniken.",
+                    "it-IT": "Utilizza 10 diverse tecniche CL a 4 G.",
+                    "fr-FR": "Utilisez 10 techniques différentes d'AL à 4 joueurs.",
+                    "en-US": "Use 10 different 4P MC techniques."
+                },
+                "howto": {
+                    "ja-JP": "4人で連携するMC技を10種類使う",
+                    "es-ES": "Usa 10 técnicas diferentes de CL para 4 jugadores.",
+                    "de-DE": "Verwende 10 unterschiedliche 4P-MK-Techniken.",
+                    "it-IT": "Utilizza 10 diverse tecniche CL a 4 G.",
+                    "fr-FR": "Utilisez 10 techniques différentes d'AL à 4 joueurs.",
+                    "en-US": "Use 10 different 4P MC techniques."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "ja-JP": "バトルマスター",
+                    "es-ES": "Maestro de batallas",
+                    "de-DE": "Kampfmeister",
+                    "it-IT": "Maestro del combattimento",
+                    "fr-FR": "Maître de guerre",
+                    "en-US": "Battle Master"
+                },
+                "description": {
+                    "ja-JP": "倒した敵数が10000を超える",
+                    "es-ES": "Derrota a 10.000 enemigos.",
+                    "de-DE": "Besiege 10.000 Gegner.",
+                    "it-IT": "Sconfiggi 10.000 nemici.",
+                    "fr-FR": "Battez 10000 ennemis.",
+                    "en-US": "Defeat 10,000 enemies."
+                },
+                "howto": {
+                    "ja-JP": "倒した敵数が10000を超える",
+                    "es-ES": "Derrota a 10.000 enemigos.",
+                    "de-DE": "Besiege 10.000 Gegner.",
+                    "it-IT": "Sconfiggi 10.000 nemici.",
+                    "fr-FR": "Battez 10000 ennemis.",
+                    "en-US": "Defeat 10,000 enemies."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "12.png"
+        }
+    }
+}

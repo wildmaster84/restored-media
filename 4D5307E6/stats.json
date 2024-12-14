@@ -1,0 +1,1539 @@
+{
+    "properties": {
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000006": {
+            "info": "experience base",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000007": {
+            "info": "experience penalty",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000008": {
+            "info": "highest skill level attained",
+            "method": "max",
+            "statId": 7
+        },
+        "0x1000000A": {
+            "info": "matchmade ranked games completed",
+            "method": "sum",
+            "statId": 9
+        },
+        "0x10000009": {
+            "info": "matchmade ranked games played",
+            "method": "sum",
+            "statId": 10
+        },
+        "0x1000000B": {
+            "info": "matchmade ranked games won",
+            "method": "sum",
+            "statId": 11
+        },
+        "0x1000000D": {
+            "info": "matchmade unranked games completed",
+            "method": "sum",
+            "statId": 12
+        },
+        "0x1000000C": {
+            "info": "matchmade unranked games played",
+            "method": "sum",
+            "statId": 13
+        },
+        "0x1000000E": {
+            "info": "matchmade unranked games won",
+            "method": "sum",
+            "statId": 14
+        },
+        "0x10000012": {
+            "info": "first game played date",
+            "method": "min",
+            "statId": 6
+        },
+        "0x10000013": {
+            "info": "last game played date",
+            "method": "max",
+            "statId": 8
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000010": {
+            "info": "custom games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "custom games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000016": {
+            "info": "hopper skill",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000004": {
+            "info": "games completed",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000050": {
+            "info": "hopper experience base",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000051": {
+            "info": "hopper experience penalty",
+            "method": "sum",
+            "statId": 6
+        }
+    }
+}

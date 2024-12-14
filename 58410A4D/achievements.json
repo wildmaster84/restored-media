@@ -1,0 +1,388 @@
+{
+    "Achievements": {
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "KLASSISCHER UFO-JÄGER",
+                    "en-US": "CLASSIC UFO HUNTER",
+                    "es-ES": "EL CLÁSICO MATAMARCIANOS",
+                    "fr-FR": "CHASSEUR D'UFO CLASSIQUE",
+                    "it-IT": "IL TERRORE DEGLI UFO",
+                    "ja-JP": "CLASSIC UFO HUNTER"
+                },
+                "description": {
+                    "de-DE": "Zerstöre alle UFOs im Level 0.",
+                    "en-US": "Eliminated all UFOs in Stage 0.",
+                    "es-ES": "Elimina todos los UFO del Nivel 0.",
+                    "fr-FR": "Tous les UFO du stage 0 éliminés.",
+                    "it-IT": "Eliminati tutti gli UFO nella fase 0.",
+                    "ja-JP": "ステージ0のUFOを撃墜しました。"
+                },
+                "howto": {
+                    "de-DE": "Zerstöre alle UFOs im Level 0.",
+                    "en-US": "Eliminate all UFOs in Stage 0.",
+                    "es-ES": "Elimina todos los UFO del Nivel 0.",
+                    "fr-FR": "Éliminez tous les UFO du stage 0.",
+                    "it-IT": "Elimina tutti gli UFO nella fase 0.",
+                    "ja-JP": "ステージ0のUFOを撃墜する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "HIGHSCORE VON 10.000.000",
+                    "en-US": "HIGH SCORE OF 10,000,000",
+                    "es-ES": "10.000.000 PUNTOS",
+                    "fr-FR": "SCORE DE 10 000 000 POINTS",
+                    "it-IT": "10.000.000 PUNTI",
+                    "ja-JP": "HIGH SCORE OF 10,000,000"
+                },
+                "description": {
+                    "de-DE": "Erziele einen Highscore von 10.000.000.",
+                    "en-US": "Acquired a high score of 10,000,000.",
+                    "es-ES": "Consigue 10.000.000 puntos.",
+                    "fr-FR": "Score de 10 000 000 atteint.",
+                    "it-IT": "Ottenuto un punteggio di 10.000.000.",
+                    "ja-JP": "ハイスコアが10000000に達しました。"
+                },
+                "howto": {
+                    "de-DE": "Erziele einen Highscore von 10.000.000.",
+                    "en-US": "Acquire a high score of 10,000,000.",
+                    "es-ES": "Consigue 10.000.000 puntos.",
+                    "fr-FR": "Atteignez 10 000 000 points.",
+                    "it-IT": "Ottieni un punteggio di 10.000.000.",
+                    "ja-JP": "ハイスコアが10000000に達する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "1.500 KETTEN",
+                    "en-US": "1,500 CHAINED",
+                    "es-ES": "CADENA DE 1.500",
+                    "fr-FR": "1500 CHAÎNES",
+                    "it-IT": "1.500 SERIALE",
+                    "ja-JP": "1,500 CHAINED"
+                },
+                "description": {
+                    "de-DE": "Schaffe eine Kette von 1.500.",
+                    "en-US": "Achieved a chain of 1,500.",
+                    "es-ES": "Consigue una cadena de 1.500.",
+                    "fr-FR": "Chaîne de 1 500 réalisée.",
+                    "it-IT": "Ottenuto una catena di 1.500.",
+                    "ja-JP": "最大CHAIN回数が1500に達しました。"
+                },
+                "howto": {
+                    "de-DE": "Schaffe eine Kette von 1.500.",
+                    "en-US": "Achieve a chain of 1,500.",
+                    "es-ES": "Consigue una cadena de 1.500.",
+                    "fr-FR": "Réalisez une chaîne de 1 500.",
+                    "it-IT": "Ottieni una catena di 1.500.",
+                    "ja-JP": "最大CHAIN回数が1500に達する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "1.000-MAL \"NAGOYA ATTACK\"",
+                    "en-US": "1,000 NAGOYA ATTACKS",
+                    "es-ES": "1.000 NAGOYA ATTACKS",
+                    "fr-FR": "1 000 NAGOYA ATTACKS",
+                    "it-IT": "1.000 NAGOYA ATTACK",
+                    "ja-JP": "1,000 NAGOYA ATTACKS"
+                },
+                "description": {
+                    "de-DE": "Führe in einem Level 1.000-mal den \"Nagoya Attack\" durch.",
+                    "en-US": "Performed 1,000 Nagoya Attacks in a single stage.",
+                    "es-ES": "Realiza 1.000 \"Nagoya Attacks\" en un nivel.",
+                    "fr-FR": "1 000 Nagoya Attacks réalisées en un seul stage.",
+                    "it-IT": "Eseguiti 1.000 Nagoya Attack in una singola fase.",
+                    "ja-JP": "最大NAGOYA ATTACK回数が1000に達しました。"
+                },
+                "howto": {
+                    "de-DE": "Führe in einem Level 1.000-mal den \"Nagoya Attack\" durch.",
+                    "en-US": "Perform 1,000 Nagoya Attacks in a single stage.",
+                    "es-ES": "Realiza 1.000 \"Nagoya Attacks\" en un nivel.",
+                    "fr-FR": "Réalisez 1 000 Nagoya Attacks en un seul stage.",
+                    "it-IT": "Esegui 1.000 Nagoya Attack in una singola fase.",
+                    "ja-JP": "最大NAGOYA ATTACK回数が1000に達する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "FREUND DER MUSIK",
+                    "en-US": "MUSIC FAN",
+                    "es-ES": "MELÓMANO",
+                    "fr-FR": "FAN DE MUSIQUE",
+                    "it-IT": "MUSICOFILIA",
+                    "ja-JP": "MUSIC FAN"
+                },
+                "description": {
+                    "de-DE": "Spiele zehnmal im Musik-Modus.",
+                    "en-US": "Played Music Mode 10 times.",
+                    "es-ES": "Juega 10 partidas en el modo Musical.",
+                    "fr-FR": "Mode Musique joué 10 fois.",
+                    "it-IT": "Giocato 10 volte alla modalità Musicale.",
+                    "ja-JP": "ミュージックモードを10回プレイしました。"
+                },
+                "howto": {
+                    "de-DE": "Spiele zehnmal im Musik-Modus.",
+                    "en-US": "Play Music Mode 10 times.",
+                    "es-ES": "Juega 10 partidas en el modo Musical.",
+                    "fr-FR": "Jouez le mode Musique 10 fois.",
+                    "it-IT": "Gioca 10 volte con la modalità Musicale.",
+                    "ja-JP": "ミュージックモードを10回プレイする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "SPIELABSCHLUSS AUF \"LEICHT\"",
+                    "en-US": "EASY DIFFICULTY CLEAR",
+                    "es-ES": "NIVEL FÁCIL SUPERADO",
+                    "fr-FR": "JEU TERMINÉ EN MODE FACILE",
+                    "it-IT": "SEMPLIFICAZIONE GENETICA",
+                    "ja-JP": "EASY DIFFICULTY CLEAR"
+                },
+                "description": {
+                    "de-DE": "Schließe den Normalen Modus auf \"Leicht\" ab.",
+                    "en-US": "Beat Normal Mode on Easy.",
+                    "es-ES": "Supera el modo Normal en dificultad Fácil.",
+                    "fr-FR": "Mode Normal terminé en Facile.",
+                    "it-IT": "Completata la modalità Normale al livello di difficoltà Facile.",
+                    "ja-JP": "難易度EASYでノーマルモードをクリアしました。"
+                },
+                "howto": {
+                    "de-DE": "Schließe den Normalen Modus auf \"Leicht\" ab.",
+                    "en-US": "Beat Normal Mode on Easy.",
+                    "es-ES": "Supera el modo Normal en dificultad Fácil.",
+                    "fr-FR": "Terminez le mode Normal en Facile.",
+                    "it-IT": "Completa la modalità Normale al livello di difficoltà Facile.",
+                    "ja-JP": "難易度EASYでノーマルモードをクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "06.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "SPIELABSCHLUSS AUF \"NORMAL\"",
+                    "en-US": "NORMAL DIFFICULTY CLEAR",
+                    "es-ES": "NIVEL NORMAL SUPERADO",
+                    "fr-FR": "JEU TERMINÉ EN MODE NORMAL",
+                    "it-IT": "STANDARDIZZAZIONE",
+                    "ja-JP": "NORMAL DIFFICULTY CLEAR"
+                },
+                "description": {
+                    "de-DE": "Schließe den Normalen Modus auf \"Normal\" ab.",
+                    "en-US": "Beat Normal Mode on Normal.",
+                    "es-ES": "Supera el modo Normal en dificultad Normal.",
+                    "fr-FR": "Mode Normal terminé en Normal.",
+                    "it-IT": "Completata la modalità Normale al livello di difficoltà Standard.",
+                    "ja-JP": "難易度NORMALでノーマルモードをクリアしました。"
+                },
+                "howto": {
+                    "de-DE": "Schließe den Normalen Modus auf \"Normal\" ab.",
+                    "en-US": "Beat Normal Mode on Normal.",
+                    "es-ES": "Supera el modo Normal en dificultad Normal.",
+                    "fr-FR": "Terminez le mode Normal en Normal.",
+                    "it-IT": "Completa la modalità Normale al livello di difficoltà Standard.",
+                    "ja-JP": "難易度NORMALでノーマルモードをクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "07.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "SPIELABSCHLUSS AUF \"SCHWER\"",
+                    "en-US": "HARD DIFFICULTY CLEAR",
+                    "es-ES": "NIVEL DIFÍCIL SUPERADO",
+                    "fr-FR": "JEU TERMINÉ EN MODE DIFFICILE",
+                    "it-IT": "EVOLUZIONE ESTREMA",
+                    "ja-JP": "HARD DIFFICULTY CLEAR"
+                },
+                "description": {
+                    "de-DE": "Schließe den Normalen Modus auf \"Schwer\" ab.",
+                    "en-US": "Beat Normal Mode on Hard.",
+                    "es-ES": "Supera el modo Normal en dificultad Difícil.",
+                    "fr-FR": "Mode Normal terminé en Difficile.",
+                    "it-IT": "Completata la modalità Normale al livello di difficoltà Estremo.",
+                    "ja-JP": "難易度HARDでノーマルモードをクリアしました。"
+                },
+                "howto": {
+                    "de-DE": "Schließe den Normalen Modus auf \"Schwer\" ab.",
+                    "en-US": "Beat Normal Mode on Hard.",
+                    "es-ES": "Supera el modo Normal en dificultad Difícil.",
+                    "fr-FR": "Terminez le mode Normal en Difficile.",
+                    "it-IT": "Completa la modalità Normale al livello di difficoltà Estremo.",
+                    "ja-JP": "難易度HARDでノーマルモードをクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "SPIELABSCHLUSS AUF \"WAHNSINN\"",
+                    "en-US": "INSANE DIFFICULTY  CLEAR",
+                    "es-ES": "NIVEL DEMENCIAL SUPERADO",
+                    "fr-FR": "JEU TERMINÉ EN MODE DÉMENT",
+                    "it-IT": "MUTAZIONE ALIENANTE",
+                    "ja-JP": "MANIAC DIFFICULTY  CLEAR"
+                },
+                "description": {
+                    "de-DE": "Schließe den Normalen Modus auf \"Wahnsinn\" ab.",
+                    "en-US": "Beat Normal Mode on Insane.",
+                    "es-ES": "Supera el modo Normal en dificultad Demencial.",
+                    "fr-FR": "Mode Normal terminé en Dément.",
+                    "it-IT": "Completata la modalità Normale al livello di difficoltà Alienante.",
+                    "ja-JP": "難易度MANIACでノーマルモードをクリアしました。"
+                },
+                "howto": {
+                    "de-DE": "Schließe den Normalen Modus auf \"Wahnsinn\" ab.",
+                    "en-US": "Beat Normal Mode on Insane.",
+                    "es-ES": "Supera el modo Normal en dificultad Demencial.",
+                    "fr-FR": "Terminez le mode Normal en Dément.",
+                    "it-IT": "Completa la modalità Normale al livello di difficoltà Alienante.",
+                    "ja-JP": "難易度MANIACでノーマルモードをクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "ABSCHLUSS: HERAUSFORDERUNGSMODUS",
+                    "en-US": "CHALLENGE MODE CLEAR",
+                    "es-ES": "MODO RETO SUPERADO",
+                    "fr-FR": "MODE CHALLENGE TERMINÉ",
+                    "it-IT": "SFIDA FINALE",
+                    "ja-JP": "CHALLENGE MODE CLEAR"
+                },
+                "description": {
+                    "de-DE": "Schließe alle 99 Level im Herausforderungsmodus ab.",
+                    "en-US": "Beat all 99 stages in Challenge Mode.",
+                    "es-ES": "Supera los 99 niveles del modo Reto.",
+                    "fr-FR": "Tous les 99 stages du mode Challenge terminés.",
+                    "it-IT": "Completate tutte le 99 fasi della modalità Sfida.",
+                    "ja-JP": "チャレンジモード全99ステージをクリアしました。"
+                },
+                "howto": {
+                    "de-DE": "Schließe alle 99 Level im Herausforderungsmodus ab.",
+                    "en-US": "Beat all 99 stages in Challenge Mode.",
+                    "es-ES": "Supera los 99 niveles del modo Reto.",
+                    "fr-FR": "Terminez les 99 stages du mode Challenge.",
+                    "it-IT": "Completa tutte le 99 fasi della modalità Sfida.",
+                    "ja-JP": "チャレンジモード全99ステージをクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "10.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "SPIELABSCHLUSS OHNE \"GAME OVER\"",
+                    "en-US": "CONTINUE-FREE CLEAR",
+                    "es-ES": "MODO SUPERADO A LA PRIMERA",
+                    "fr-FR": "JEU TERMINÉ SANS PERDRE",
+                    "it-IT": "GENOMA PERFETTO",
+                    "ja-JP": "CONTINUE-FREE CLEAR"
+                },
+                "description": {
+                    "de-DE": "Schließe den Normalen Modus ohne \"Game Over\" ab. (Schwierigkeit und Anzahl Schiffe beliebig.)",
+                    "en-US": "Beat Normal Mode without using any continues (on any difficulty level with any number of ships).",
+                    "es-ES": "Supera el modo Normal al primer intento (cualquier dificultad o número de vidas).",
+                    "fr-FR": "Mode Normal terminé sans perdre (peu importe le niveau de difficulté et le nombre de vaisseaux).",
+                    "it-IT": "Completata la modalità Normale senza mai perdere (qualsiasi difficoltà e numero di navi).",
+                    "ja-JP": "コンティニューせずにノーマルモードをクリアしました。（難易度、残機数は問わない）"
+                },
+                "howto": {
+                    "de-DE": "Schließe den Normalen Modus ohne \"Game Over\" ab. (Schwierigkeit und Anzahl Schiffe beliebig.)",
+                    "en-US": "Beat Normal Mode without using any continues (on any difficulty level with any number of ships).",
+                    "es-ES": "Supera el modo Normal al primer intento (cualquier dificultad o número de vidas).",
+                    "fr-FR": "Terminez le mode Normal sans perdre (peu importe la difficulté et le nombre de vaisseaux).",
+                    "it-IT": "Completa la modalità Normale senza mai perdere (qualsiasi difficoltà e numero di navi).",
+                    "ja-JP": "コンティニューせずにノーマルモードをクリアする。（難易度、残機数は問わない）"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "11.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "SPIELABSCHLUSS AUF \"ALPTRAUM\"",
+                    "en-US": "NIGHTMARE DIFFICULTY CLEAR",
+                    "es-ES": "NIVEL IMPOSIBLE SUPERADO",
+                    "fr-FR": "JEU TERMINÉ EN MODE EXTRÊME",
+                    "it-IT": "RISVEGLIO DALL'INCUBO",
+                    "ja-JP": "ULTIMATE DIFFICULTY CLEAR"
+                },
+                "description": {
+                    "de-DE": "Schließe den Normalen Modus auf \"Alptraum\" ab.",
+                    "en-US": "Beat Normal Mode on Nightmare.",
+                    "es-ES": "Supera el modo Normal en dificultad Imposible.",
+                    "fr-FR": "Mode Normal terminé en Extrême.",
+                    "it-IT": "Completata la modalità Normale al livello difficoltà Incubo.",
+                    "ja-JP": "難易度ULTIMATEでノーマルモードをクリアしました。"
+                },
+                "howto": {
+                    "de-DE": "Schließe den Normalen Modus auf \"Alptraum\" ab.",
+                    "en-US": "Beat Normal Mode on Nightmare.",
+                    "es-ES": "Supera el modo Normal en dificultad Imposible.",
+                    "fr-FR": "Terminez le mode Normal en Extrême.",
+                    "it-IT": "Completa la modalità Normale al livello difficoltà Incubo.",
+                    "ja-JP": "難易度ULTIMATEでノーマルモードをクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "40",
+            "imageId": "12.png"
+        }
+    }
+}

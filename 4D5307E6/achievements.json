@@ -1,0 +1,3243 @@
+{
+    "Achievements": {
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Landeversuch",
+                    "en-US": "Landfall",
+                    "es-ES": "Aterrizaje",
+                    "fr-FR": "Atterrissage",
+                    "it-IT": "Lo sbarco",
+                    "ja-JP": "着陸",
+                    "ko-KR": "착륙",
+                    "pt-PT": "Aterrissagem",
+                    "zh-CHT": "曙光出現"
+                },
+                "description": {
+                    "de-DE": "Erste Mission der Kampagne abgeschlossen.",
+                    "en-US": "Completed the first mission of the Campaign.",
+                    "es-ES": "Completada la primera misión de la campaña.",
+                    "fr-FR": "Première mission de la campagne terminée.",
+                    "it-IT": "Hai completato la prima missione della Campagna.",
+                    "ja-JP": "キャンペーンの最初のミッションをクリア",
+                    "ko-KR": "캠페인의 첫 번째 미션을 완료했습니다.",
+                    "pt-PT": "Completou a 1a. missão da Campanha.",
+                    "zh-CHT": "完成戰役模式的第一個任務。"
+                },
+                "howto": {
+                    "de-DE": "Erste Mission der Kampagne auf \"Normal\", \"Heldenhaft\" oder \"Legendär\" abschließen.",
+                    "en-US": "Finish the first mission of the Campaign on Normal, Heroic, or Legendary.",
+                    "es-ES": "Acaba la primera misión de la campaña en Normal, Heroica, o Legendaria.",
+                    "fr-FR": "Terminez la première mission de la campagne en niveau Normal, Héroïque ou Légendaire.",
+                    "it-IT": "Completa la prima missione della Campagna al livello Normale, Eroica o Leggendaria.",
+                    "ja-JP": "ビギナー以外の任意の難易度で、キャンペーンの最初のミッションをクリアしよう",
+                    "ko-KR": "보통, 영웅 또는 전설 난이도로 캠페인의 첫 번째 미션을 완료하십시오.",
+                    "pt-PT": "Termine a 1a. missão da Campanha em Normal, Heróico ou Lendário.",
+                    "zh-CHT": "以正常、英雄或傳奇困難度完成戰役遊戲的第一個任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "01.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Schlupfwinkel",
+                    "en-US": "Holdout",
+                    "es-ES": "Resistencia",
+                    "fr-FR": "Irréductible",
+                    "it-IT": "Resistenza",
+                    "ja-JP": "抗戦",
+                    "ko-KR": "저항",
+                    "pt-PT": "Espera",
+                    "zh-CHT": "再接再厲"
+                },
+                "description": {
+                    "de-DE": "Zweite Mission der Kampagne abgeschlossen.",
+                    "en-US": "Completed the second mission of the Campaign.",
+                    "es-ES": "Completada la segunda misión de la campaña",
+                    "fr-FR": "Deuxième mission de la campagne terminée.",
+                    "it-IT": "Hai completato la seconda missione della Campagna.",
+                    "ja-JP": "キャンペーンの第 2 のミッションをクリア",
+                    "ko-KR": "캠페인의 두 번째 미션을 완료했습니다.",
+                    "pt-PT": "Completou a 2a. missão da Campanha.",
+                    "zh-CHT": "完成戰役模式的第二個任務。"
+                },
+                "howto": {
+                    "de-DE": "Zweite Mission der Kampagne auf \"Normal\", \"Heldenhaft\" oder \"Legendär\" abschließen.",
+                    "en-US": "Finish the second mission of the Campaign on Normal, Heroic, or Legendary.",
+                    "es-ES": "Acaba la segunda misión de la campaña en Normal, Heroica, o Legendaria.",
+                    "fr-FR": "Terminez la deuxième mission de la campagne en niveau Normal, Héroïque ou Légendaire.",
+                    "it-IT": "Completa la seconda missione della Campagna al livello Normale, Eroica o Leggendaria.",
+                    "ja-JP": "ビギナー以外の任意の難易度で、キャンペーンの第 2 のミッションをクリアしよう",
+                    "ko-KR": "보통, 영웅 또는 전설 난이도로 캠페인의 두 번째 미션을 완료하십시오.",
+                    "pt-PT": "Termine a 2a. missão da Campanha em Normal, Heróico ou Lendário.",
+                    "zh-CHT": "以正常、英雄或傳奇困難度完成戰役遊戲的第二個任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "02.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Straße",
+                    "en-US": "The Road",
+                    "es-ES": "La carretera",
+                    "fr-FR": "La route",
+                    "it-IT": "La strada",
+                    "ja-JP": "道",
+                    "ko-KR": "도로",
+                    "pt-PT": "O caminho",
+                    "zh-CHT": "漫漫長路"
+                },
+                "description": {
+                    "de-DE": "Dritte Mission der Kampagne abgeschlossen.",
+                    "en-US": "Completed the third mission of the Campaign.",
+                    "es-ES": "Completada la tercera misión de la campaña",
+                    "fr-FR": "Troisième mission de la campagne terminée.",
+                    "it-IT": "Hai completato la terza missione della Campagna.",
+                    "ja-JP": "キャンペーンの第 3 のミッションをクリア",
+                    "ko-KR": "캠페인의 세 번째 미션을 완료했습니다.",
+                    "pt-PT": "Completou a 3a. missão da Campanha.",
+                    "zh-CHT": "完成戰役模式的第三個任務。"
+                },
+                "howto": {
+                    "de-DE": "Dritte Mission der Kampagne auf \"Normal\", \"Heldenhaft\" oder \"Legendär\" abschließen.",
+                    "en-US": "Finish the third mission of the Campaign on Normal, Heroic, or Legendary.",
+                    "es-ES": "Acaba la tercera misión de la campaña en Normal, Heroica, o Legendaria.",
+                    "fr-FR": "Terminez la troisième mission de la campagne en niveau Normal, Héroïque ou Légendaire.",
+                    "it-IT": "Completa la terza missione della Campagna al livello Normale, Eroica o Leggendaria.",
+                    "ja-JP": "ビギナー以外の任意の難易度で、キャンペーンの第 3 のミッションをクリアしよう",
+                    "ko-KR": "보통, 영웅 또는 전설 난이도로 캠페인의 세 번째 미션을 완료하십시오.",
+                    "pt-PT": "Termine a 3a. missão da Campanha em Normal, Heróico ou Lendário.",
+                    "zh-CHT": "以正常、英雄或傳奇困難度完成戰役遊戲的第三個任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "03.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Angriff",
+                    "en-US": "Assault",
+                    "es-ES": "Asalto",
+                    "fr-FR": "Assaut",
+                    "it-IT": "Assalto",
+                    "ja-JP": "猛攻",
+                    "ko-KR": "어썰트",
+                    "pt-PT": "Assalto",
+                    "zh-CHT": "克敵致勝"
+                },
+                "description": {
+                    "de-DE": "Vierte Mission der Kampagne abgeschlossen.",
+                    "en-US": "Completed the fourth mission of the Campaign.",
+                    "es-ES": "Completada la cuarta misión de la campaña",
+                    "fr-FR": "Quatrième mission de la campagne terminée.",
+                    "it-IT": "Hai completato la quarta missione della Campagna.",
+                    "ja-JP": "キャンペーンの第 4 のミッションをクリア",
+                    "ko-KR": "캠페인의 네 번째 미션을 완료했습니다.",
+                    "pt-PT": "Completou a 4a. missão da Campanha.",
+                    "zh-CHT": "完成戰役模式的第四個任務。"
+                },
+                "howto": {
+                    "de-DE": "Vierte Mission der Kampagne auf \"Normal\", \"Heldenhaft\" oder \"Legendär\" abschließen.",
+                    "en-US": "Finish the fourth mission of the Campaign on Normal, Heroic, or Legendary.",
+                    "es-ES": "Acaba la cuarta misión de la campaña en Normal, Heroica, o Legendaria.",
+                    "fr-FR": "Terminez la quatrième mission de la campagne en niveau Normal, Héroïque ou Légendaire.",
+                    "it-IT": "Completa la quarta missione della Campagna al livello Normale, Eroica o Leggendaria.",
+                    "ja-JP": "ビギナー以外の任意の難易度で、キャンペーンの第 4 のミッションをクリアしよう",
+                    "ko-KR": "보통, 영웅 또는 전설 난이도로 캠페인의 네 번째 미션을 완료하십시오.",
+                    "pt-PT": "Termine a 4a. missão da Campanha em Normal, Heróico ou Lendário.",
+                    "zh-CHT": "以正常、英雄或傳奇困難度完成戰役遊戲的第四個任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "30",
+            "imageId": "04.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Reinigung",
+                    "en-US": "Cleansing",
+                    "es-ES": "Purificar",
+                    "fr-FR": "Nettoyage",
+                    "it-IT": "Pulizie",
+                    "ja-JP": "駆除",
+                    "ko-KR": "청소",
+                    "pt-PT": "Limpeza",
+                    "zh-CHT": "洗滌罪惡"
+                },
+                "description": {
+                    "de-DE": "Fünfte Mission der Kampagne abgeschlossen.",
+                    "en-US": "Completed the fifth mission of the Campaign.",
+                    "es-ES": "Completada la quinta misión de la campaña",
+                    "fr-FR": "Cinquième mission de la campagne terminée.",
+                    "it-IT": "Hai completato la quinta missione della Campagna.",
+                    "ja-JP": "キャンペーンの第 5 のミッションをクリア",
+                    "ko-KR": "캠페인의 다섯 번째 미션을 완료했습니다.",
+                    "pt-PT": "Completou a 5a. missão da Campanha.",
+                    "zh-CHT": "完成戰役模式的第五個任務。"
+                },
+                "howto": {
+                    "de-DE": "Fünfte Mission der Kampagne auf \"Normal\", \"Heldenhaft\" oder \"Legendär\" abschließen.",
+                    "en-US": "Finish the fifth mission of the Campaign on Normal, Heroic, or Legendary.",
+                    "es-ES": "Acaba la quinta misión de la campaña en Normal, Heroica, o Legendaria.",
+                    "fr-FR": "Terminez la cinquième mission de la campagne en niveau Normal, Héroïque ou Légendaire.",
+                    "it-IT": "Completa la quinta missione della Campagna al livello Normale, Eroica o Leggendaria.",
+                    "ja-JP": "ビギナー以外の任意の難易度で、キャンペーンの第 5 のミッションをクリアしよう",
+                    "ko-KR": "보통, 영웅 또는 전설 난이도로 캠페인의 다섯 번째 미션을 완료하십시오.",
+                    "pt-PT": "Termine a 5a. missão da Campanha em Normal, Heróico ou Lendário.",
+                    "zh-CHT": "以正常、英雄或傳奇困難度完成戰役遊戲的第五個任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "30",
+            "imageId": "05.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Zuflucht",
+                    "en-US": "Refuge",
+                    "es-ES": "Refugio",
+                    "fr-FR": "Refuge",
+                    "it-IT": "Il rifugio",
+                    "ja-JP": "避難",
+                    "ko-KR": "피난",
+                    "pt-PT": "Refúgio",
+                    "zh-CHT": "避難"
+                },
+                "description": {
+                    "de-DE": "Sechste Mission der Kampagne abgeschlossen.",
+                    "en-US": "Completed the sixth mission of the Campaign.",
+                    "es-ES": "Completada la sexta misión de la campaña",
+                    "fr-FR": "Sixième mission de la campagne terminée.",
+                    "it-IT": "Hai completato la sesta missione della Campagna.",
+                    "ja-JP": "キャンペーンの第 6 のミッションをクリア",
+                    "ko-KR": "캠페인의 여섯 번째 미션을 완료했습니다.",
+                    "pt-PT": "Completou a 6a. missão da Campanha.",
+                    "zh-CHT": "完成戰役模式的第六個任務。"
+                },
+                "howto": {
+                    "de-DE": "Sechste Mission der Kampagne auf \"Normal\", \"Heldenhaft\" oder \"Legendär\" abschließen.",
+                    "en-US": "Finish the sixth mission of the Campaign on Normal, Heroic, or Legendary.",
+                    "es-ES": "Acaba la sexta misión de la campaña en Normal, Heroica, o Legendaria.",
+                    "fr-FR": "Terminez la sixième mission de la campagne en niveau Normal, Héroïque ou Légendaire.",
+                    "it-IT": "Completa la sesta missione della Campagna al livello Normale, Eroica o Leggendaria.",
+                    "ja-JP": "ビギナー以外の任意の難易度で、キャンペーンの第 6 のミッションをクリアしよう",
+                    "ko-KR": "보통, 영웅 또는 전설 난이도로 캠페인의 여섯 번째 미션을 완료하십시오.",
+                    "pt-PT": "Termine a 6a. missão da Campanha em Normal, Heróico ou Lendário.",
+                    "zh-CHT": "以正常、英雄或傳奇困難度完成戰役遊戲的第六個任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "30",
+            "imageId": "06.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Letztes Gefecht",
+                    "en-US": "Last Stand",
+                    "es-ES": "Última batalla",
+                    "fr-FR": "Le dernier bastion",
+                    "it-IT": "Ultimo baluardo",
+                    "ja-JP": "最後の抗戦",
+                    "ko-KR": "최후의 저항",
+                    "pt-PT": "Último Posto",
+                    "zh-CHT": "最後據點"
+                },
+                "description": {
+                    "de-DE": "Siebte Mission der Kampagne abgeschlossen.",
+                    "en-US": "Completed the seventh mission of the Campaign.",
+                    "es-ES": "Completada la séptima misión de la campaña",
+                    "fr-FR": "Septième mission de la campagne terminée.",
+                    "it-IT": "Hai completato la settima missione della Campagna.",
+                    "ja-JP": "キャンペーンの第 7 のミッションをクリア",
+                    "ko-KR": "캠페인의 일곱 번째 미션을 완료했습니다.",
+                    "pt-PT": "Completou a 7a. missão da Campanha.",
+                    "zh-CHT": "完成戰役模式的第七個任務。"
+                },
+                "howto": {
+                    "de-DE": "Siebte Mission der Kampagne auf \"Normal\", \"Heldenhaft\" oder \"Legendär\" abschließen.",
+                    "en-US": "Finish the seventh mission of the Campaign on Normal, Heroic, or Legendary.",
+                    "es-ES": "Acaba la séptima misión de la campaña en Normal, Heroica, o Legendaria.",
+                    "fr-FR": "Terminez la septième mission de la campagne en niveau Normal, Héroïque ou Légendaire.",
+                    "it-IT": "Completa la settima missione della Campagna al livello Normale, Eroica o Leggendaria.",
+                    "ja-JP": "ビギナー以外の任意の難易度で、キャンペーンの第 7 のミッションをクリアしよう",
+                    "ko-KR": "보통, 영웅 또는 전설 난이도로 캠페인의 일곱 번째 미션을 완료하십시오.",
+                    "pt-PT": "Termine a 7a. missão da Campanha em Normal, Heróico ou Lendário.",
+                    "zh-CHT": "以正常、英雄或傳奇困難度完成戰役遊戲的第七個任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "40",
+            "imageId": "07.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Schlüssel",
+                    "en-US": "The Key",
+                    "es-ES": "La clave",
+                    "fr-FR": "La clé",
+                    "it-IT": "La chiave",
+                    "ja-JP": "鍵",
+                    "ko-KR": "열쇠",
+                    "pt-PT": "A chave",
+                    "zh-CHT": "關鍵任務"
+                },
+                "description": {
+                    "de-DE": "Achte Mission der Kampagne abgeschlossen.",
+                    "en-US": "Completed the eighth mission of the Campaign.",
+                    "es-ES": "Completada la octava misión de la campaña",
+                    "fr-FR": "Huitième mission de la campagne terminée.",
+                    "it-IT": "Hai completato l'ottava missione della Campagna.",
+                    "ja-JP": "キャンペーンの第 8 のミッションをクリア",
+                    "ko-KR": "캠페인의 여덟 번째 미션을 완료했습니다.",
+                    "pt-PT": "Completou a 8a. missão da Campanha.",
+                    "zh-CHT": "完成戰役模式的第八個任務。"
+                },
+                "howto": {
+                    "de-DE": "Achte Mission der Kampagne auf \"Normal\", \"Heldenhaft\" oder \"Legendär\" abschließen.",
+                    "en-US": "Finish the eighth mission of the Campaign on Normal, Heroic, or Legendary.",
+                    "es-ES": "Acaba la octava misión de la campaña en Normal, Heroica, o Legendaria.",
+                    "fr-FR": "Terminez la huitième mission de la campagne en niveau Normal, Héroïque ou Légendaire.",
+                    "it-IT": "Completa l'ottava missione della Campagna al livello Normale, Eroica o Leggendaria.",
+                    "ja-JP": "ビギナー以外の任意の難易度で、キャンペーンの第 8 のミッションをクリアしよう",
+                    "ko-KR": "보통, 영웅 또는 전설 난이도로 캠페인의 여덟 번째 미션을 완료하십시오.",
+                    "pt-PT": "Termine a 8a. missão da Campanha em Normal, Heróico ou Lendário.",
+                    "zh-CHT": "以正常、英雄或傳奇困難度完成戰役遊戲的第八個任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "40",
+            "imageId": "08.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "Rückkehr",
+                    "en-US": "Return",
+                    "es-ES": "Vuelve",
+                    "fr-FR": "Retour",
+                    "it-IT": "Il ritorno",
+                    "ja-JP": "帰還",
+                    "ko-KR": "귀환",
+                    "pt-PT": "Retorno",
+                    "zh-CHT": "重返家園"
+                },
+                "description": {
+                    "de-DE": "Letzte Mission der Kampagne abgeschlossen.",
+                    "en-US": "Completed the final mission of the Campaign.",
+                    "es-ES": "Completada la última misión de la campaña",
+                    "fr-FR": "Dernière mission de la campagne terminée.",
+                    "it-IT": "Hai completato l'ultima missione della Campagna.",
+                    "ja-JP": "キャンペーンの最後のミッションをクリア",
+                    "ko-KR": "캠페인의 최종 미션을 완료했습니다.",
+                    "pt-PT": "Completou a missão final da Campanha.",
+                    "zh-CHT": "完成戰役模式的最後任務。"
+                },
+                "howto": {
+                    "de-DE": "Letzte Mission der Kampagne auf \"Normal\", \"Heldenhaft\" oder \"Legendär\" abschließen.",
+                    "en-US": "Finish the final mission of the Campaign on Normal, Heroic, or Legendary.",
+                    "es-ES": "Acaba la última misión de la campaña en Normal, Heroica, o Legendaria.",
+                    "fr-FR": "Terminez la dernière mission de la campagne en niveau Normal, Héroïque ou Légendaire.",
+                    "it-IT": "Completa l'ultima missione della Campagna al livello Normale, Eroica o Leggendaria.",
+                    "ja-JP": "ビギナー以外の任意の難易度で、キャンペーンの最後のミッションをクリアしよう",
+                    "ko-KR": "보통, 영웅 또는 전설 난이도로 캠페인의 최종 미션을 완료하십시오.",
+                    "pt-PT": "Termine a missão final da Campanha em Normal, Heróico ou Lendário.",
+                    "zh-CHT": "以正常、英雄或傳奇困難度完成戰役遊戲的最後任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "09.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Kampagne abgeschlossen: Normal",
+                    "en-US": "Campaign Complete:  Normal",
+                    "es-ES": "Campaña completa: Normal",
+                    "fr-FR": "Campagne terminée : Normal",
+                    "it-IT": "Campagna completata: Normale",
+                    "ja-JP": "キャンペーン クリア:  ノーマル",
+                    "ko-KR": "캠페인 완료: 보통",
+                    "pt-PT": "Campanha Completa:  Normal",
+                    "zh-CHT": "完成戰役：正常"
+                },
+                "description": {
+                    "de-DE": "Kampagne auf Schwierigkeitsgrad \"Normal\" abgeschlossen.",
+                    "en-US": "Completed the Campaign on Normal difficulty.",
+                    "es-ES": "Completada la campaña en dificultad Normal.",
+                    "fr-FR": "Campagne terminée en niveau Normal.",
+                    "it-IT": "Hai completato la Campagna con difficoltà Normale.",
+                    "ja-JP": "難易度「ノーマル」でキャンペーンをクリア",
+                    "ko-KR": "캠페인을 보통 난이도로 완료했습니다.",
+                    "pt-PT": "Completou a Campanha em dificuldade Normal.",
+                    "zh-CHT": "以正常困難度完成戰役遊戲。"
+                },
+                "howto": {
+                    "de-DE": "Kampagne auf \"Normal\" abschließen.",
+                    "en-US": "Finish the Campaign on Normal.",
+                    "es-ES": "Completa la campaña en Normal.",
+                    "fr-FR": "Terminez la campagne en niveau Normal.",
+                    "it-IT": "Completa la Campagna al livello Normale.",
+                    "ja-JP": "難易度ノーマルでキャンペーンをクリアしよう",
+                    "ko-KR": "보통 난이도로 캠페인을 완료하십시오.",
+                    "pt-PT": "Termine a Campanha em Normal.",
+                    "zh-CHT": "以正常困難度完成戰役。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "125",
+            "imageId": "10.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "Kampagne abgeschl.: Heldenhaft",
+                    "en-US": "Campaign Complete:  Heroic",
+                    "es-ES": "Campaña completa: Heroica",
+                    "fr-FR": "Campagne terminée : Héroïque",
+                    "it-IT": "Campagna completata: Eroica",
+                    "ja-JP": "キャンペーン クリア:  アドバンス",
+                    "ko-KR": "캠페인 완료: 영웅",
+                    "pt-PT": "Campanha Completa:  Heróico",
+                    "zh-CHT": "完成戰役：英雄"
+                },
+                "description": {
+                    "de-DE": "Kampagne auf Schwierigkeitsgrad \"Heldenhaft\" abgeschlossen.",
+                    "en-US": "Completed the Campaign on Heroic difficulty.",
+                    "es-ES": "Completada la campaña en dificultad Heroica.",
+                    "fr-FR": "Campagne terminée en niveau Héroïque.",
+                    "it-IT": "Hai completato la Campagna con difficoltà Eroica.",
+                    "ja-JP": "難易度「アドバンス」でキャンペーンをクリア",
+                    "ko-KR": "캠페인을 영웅 난이도로 완료했습니다.",
+                    "pt-PT": "Completou a Campanha em dificuldade Heróica.",
+                    "zh-CHT": "以英雄困難度完成戰役遊戲。"
+                },
+                "howto": {
+                    "de-DE": "Kampagne auf \"Heldenhaft\" abschließen (schaltet ggf. \"Normal\"-Erfolg frei).",
+                    "en-US": "Finish the Campaign on Heroic (unlocks achievement for Normal, if not earned).",
+                    "es-ES": "Completa la campaña en Heroica (desbloquea los logros en Normal si no los has conseguido).",
+                    "fr-FR": "Terminez la campagne en niveau Héroïque (donne aussi le succès Normal).",
+                    "it-IT": "Completa la Campagna a liv Eroica (sblocca gli obiettivi liv. Normale, se non già ottenuti).",
+                    "ja-JP": "難易度アドバンスでキャンペーンをクリアしよう (ノーマルの実績が未解除の場合は、そちらも同時に解除)",
+                    "ko-KR": "영웅 난이도로 캠페인을 완료하십시오. 미 달성 상태의 보통 난이도 도전 과제도 완료됩니다.",
+                    "pt-PT": "Termine a Campanha em Heróico (destrava conquistas para Normal, se não forem ganhas).",
+                    "zh-CHT": "以英雄困難度完成戰役。(解鎖正常困難度的成就，若尚未獲得的話。)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "125",
+            "imageId": "11.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "de-DE": "Kampagne abgeschl.: Legendär",
+                    "en-US": "Campaign Complete:  Legendary",
+                    "es-ES": "Campaña completa: Legendaria",
+                    "fr-FR": "Campagne terminée : Légendaire",
+                    "it-IT": "Campagna completata: Leggendaria",
+                    "ja-JP": "キャンペーン クリア:  レジェンド",
+                    "ko-KR": "캠페인 완료: 전설",
+                    "pt-PT": "Campanha Completa:  Lendário",
+                    "zh-CHT": "完成戰役：傳奇"
+                },
+                "description": {
+                    "de-DE": "Kampagne auf Schwierigkeitsgrad \"Legendär\" abgeschlossen.",
+                    "en-US": "Completed the Campaign on Legendary difficulty.",
+                    "es-ES": "Completada la campaña en dificultad Legendaria.",
+                    "fr-FR": "Campagne terminée en niveau Légendaire.",
+                    "it-IT": "Hai completato la Campagna con difficoltà Leggendaria.",
+                    "ja-JP": "難易度「レジェンド」でキャンペーンをクリア",
+                    "ko-KR": "캠페인을 전설 난이도로 완료했습니다.",
+                    "pt-PT": "Completou a Campanha em dificuldade Lendária.",
+                    "zh-CHT": "以傳奇困難度完成戰役遊戲。"
+                },
+                "howto": {
+                    "de-DE": "Kampagne auf \"Legendär\" abschließen (schaltet ggf. \"Normal\"- und -\"Heldenhaft\"-Erfolge frei).",
+                    "en-US": "Finish the Campaign on Legendary (unlocks achievements for Normal and Heroic, if not earned).",
+                    "es-ES": "Completa la campaña en Legendaria (desbloquea logros en Normal y Heroica si no los has conseguido).",
+                    "fr-FR": "Terminez la campagne en Légendaire (donne aussi les succès Normal et Héroïque).",
+                    "it-IT": "Completa la Campagna liv Leggendaria (sblocca obiet. livelli Eroica e Normale, se non già ottenuti).",
+                    "ja-JP": "難易度レジェンドでキャンペーンをクリアしよう (ノーマル/アドバンスの実績が未解除の場合は、それらも同時に解除)",
+                    "ko-KR": "전설난이도로 캠페인을 완료하십시오. 미 달성 상태의 보통과 영웅 난이도 도전 과제도 완료됩니다.",
+                    "pt-PT": "Termine a Campanha em Lendário (destrava conquistas para Normal e Heróico, se não forem ganhas).",
+                    "zh-CHT": "以傳奇困難度完成戰役。(解鎖正常及英雄困難度的成就，若尚未獲得的話。)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "125",
+            "imageId": "12.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "Eisen",
+                    "en-US": "Iron",
+                    "es-ES": "Hierro",
+                    "fr-FR": "Fer",
+                    "it-IT": "Ferro",
+                    "ja-JP": "スカル獲得: Iron",
+                    "ko-KR": "강철",
+                    "pt-PT": "Ferro",
+                    "zh-CHT": "鋼鐵"
+                },
+                "description": {
+                    "de-DE": "\"Eisen\"-Schädel erobert.",
+                    "en-US": "Claimed Iron skull.",
+                    "es-ES": "Cráneo de hierro obtenido.",
+                    "fr-FR": "Crâne Fer obtenu.",
+                    "it-IT": "Hai preso il teschio Ferro.",
+                    "ja-JP": "Iron スカルを獲得",
+                    "ko-KR": "강철 골드 해골을 획득했습니다.",
+                    "pt-PT": "Reivindicou caveira de Ferro.",
+                    "zh-CHT": "獲得鋼鐵骷髏頭。"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie diesen Schädel auf \"Normal\", \"Heldenhaft\" oder \"Legendär\" Schwierigkeitsgrad.",
+                    "en-US": "Find and claim this skull when playing on Normal, Heroic or Legendary difficulty.",
+                    "es-ES": "Encuentra y reclama ésta cráneo al jugar en dificultad Normal, Heroica o Legendaria.",
+                    "fr-FR": "Trouvez ce crâne en campagne en niveau Normal, Héroïque ou Légendaire.",
+                    "it-IT": "Trova e prendi questo teschio mentre giochi alla difficoltá Normale, Eroica o Leggendaria.",
+                    "ja-JP": "ビギナー以外の任意の難易度でキャンペーンをプレイして、このスカルを獲得しよう",
+                    "ko-KR": "보통, 영웅 또는 전설 난이도로 캠페인을 플레이하면서 강철 골드 해골을 획득하십시오.",
+                    "pt-PT": "Jogue em Normal, Heróico ou Lendário e depois encontre e reinvindique esta caveira.",
+                    "zh-CHT": "在正常, 英雄或傳奇困難度的戰役遊戲裡來找這個骷髏吧。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "13.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "Blaues Auge",
+                    "en-US": "Black Eye",
+                    "es-ES": "Ojo morado",
+                    "fr-FR": "Œil noir",
+                    "it-IT": "Occhio nero",
+                    "ja-JP": "スカル獲得: Black Eye",
+                    "ko-KR": "검은 눈",
+                    "pt-PT": "Olho Roxo",
+                    "zh-CHT": "黑眼"
+                },
+                "description": {
+                    "de-DE": "\"Blaues Auge\"-Schädel erobert.",
+                    "en-US": "Claimed Black Eye skull.",
+                    "es-ES": "Cráneo ojo morado obtenido.",
+                    "fr-FR": "Crâne Œil noir obtenu.",
+                    "it-IT": "Hai preso il teschio Occhio nero.",
+                    "ja-JP": "Black Eye スカルを獲得",
+                    "ko-KR": "검은 눈 골드 해골을 획득했습니다.",
+                    "pt-PT": "Reivindicou caveira de Olho Roxo.",
+                    "zh-CHT": "獲得黑眼骷髏頭。"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie diesen Schädel auf \"Normal\", \"Heldenhaft\" oder \"Legendär\" Schwierigkeitsgrad.",
+                    "en-US": "Find and claim this skull when playing on Normal, Heroic or Legendary difficulty.",
+                    "es-ES": "Encuentra y reclama ésta cráneo al jugar en dificultad Normal, Heroica o Legendaria.",
+                    "fr-FR": "Trouvez ce crâne en campagne en niveau Normal, Héroïque ou Légendaire.",
+                    "it-IT": "Trova e prendi questo teschio mentre giochi alla difficoltá Normale, Eroica o Leggendaria.",
+                    "ja-JP": "ビギナー以外の任意の難易度でキャンペーンをプレイして、このスカルを獲得しよう",
+                    "ko-KR": "보통, 영웅 또는 전설 난이도로 캠페인을 플레이하면서 검은 눈 골드 해골을 획득하십시오.",
+                    "pt-PT": "Jogue em Normal, Heróico ou Lendário e depois encontre e reinvindique esta caveira.",
+                    "zh-CHT": "在正常, 英雄或傳奇困難度的戰役遊戲裡來找這個骷髏吧。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "14.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "Pech gehabt!",
+                    "en-US": "Tough Luck",
+                    "es-ES": "Mala suerte",
+                    "fr-FR": "Mauvaise étoile",
+                    "it-IT": "Sfortuna",
+                    "ja-JP": "スカル獲得: Tough Luck",
+                    "ko-KR": "불행",
+                    "pt-PT": "Má Sorte",
+                    "zh-CHT": "好運到此為止"
+                },
+                "description": {
+                    "de-DE": "\"Pech gehabt!\"-Schädel erobert.",
+                    "en-US": "Claimed Tough Luck skull.",
+                    "es-ES": "Cráneo mala suerte obtenido.",
+                    "fr-FR": "Crâne Mauvaise étoile obtenu.",
+                    "it-IT": "Hai preso il teschio Sfortuna.",
+                    "ja-JP": "Tough Luck スカルを獲得",
+                    "ko-KR": "불행 골드 해골을 획득했습니다.",
+                    "pt-PT": "Reivindicou caveira de Má Sorte.",
+                    "zh-CHT": "獲得真倒霉骷髏頭。"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie diesen Schädel auf \"Normal\", \"Heldenhaft\" oder \"Legendär\" Schwierigkeitsgrad.",
+                    "en-US": "Find and claim this skull when playing on Normal, Heroic or Legendary difficulty.",
+                    "es-ES": "Encuentra y reclama ésta cráneo al jugar en dificultad Normal, Heroica o Legendaria.",
+                    "fr-FR": "Trouvez ce crâne en campagne en niveau Normal, Héroïque ou Légendaire.",
+                    "it-IT": "Trova e prendi questo teschio mentre giochi alla difficoltá Normale, Eroica o Leggendaria.",
+                    "ja-JP": "ビギナー以外の任意の難易度でキャンペーンをプレイして、このスカルを獲得しよう",
+                    "ko-KR": "보통, 영웅 또는 전설 난이도로 캠페인을 플레이하면서 불행 골드 해골을 획득하십시오.",
+                    "pt-PT": "Jogue em Normal, Heróico ou Lendário e depois encontre e reinvindique esta caveira.",
+                    "zh-CHT": "在正常, 英雄或傳奇困難度的戰役遊戲裡來找這個骷髏吧。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "15.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "de-DE": "Fang",
+                    "en-US": "Catch",
+                    "es-ES": "Pilla",
+                    "fr-FR": "Attrape",
+                    "it-IT": "Preso",
+                    "ja-JP": "スカル獲得: Catch",
+                    "ko-KR": "투수",
+                    "pt-PT": "Pegar",
+                    "zh-CHT": "接住"
+                },
+                "description": {
+                    "de-DE": "\"Fang\"-Schädel erobert.",
+                    "en-US": "Claimed Catch skull.",
+                    "es-ES": "Cráneo pilla obtenido.",
+                    "fr-FR": "Crâne Attrape obtenu.",
+                    "it-IT": "Hai preso il teschio Preso.",
+                    "ja-JP": "Catch スカルを獲得",
+                    "ko-KR": "투수 골드 해골을 획득했습니다.",
+                    "pt-PT": "Reivindicou caveira de Pegar.",
+                    "zh-CHT": "獲得捕捉骷髏頭。"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie diesen Schädel auf \"Normal\", \"Heldenhaft\" oder \"Legendär\" Schwierigkeitsgrad.",
+                    "en-US": "Find and claim this skull when playing on Normal, Heroic or Legendary difficulty.",
+                    "es-ES": "Encuentra y reclama ésta cráneo al jugar en dificultad Normal, Heroica o Legendaria.",
+                    "fr-FR": "Trouvez ce crâne en campagne en niveau Normal, Héroïque ou Légendaire.",
+                    "it-IT": "Trova e prendi questo teschio mentre giochi alla difficoltá Normale, Eroica o Leggendaria.",
+                    "ja-JP": "ビギナー以外の任意の難易度でキャンペーンをプレイして、このスカルを獲得しよう",
+                    "ko-KR": "보통, 영웅 또는 전설 난이도로 캠페인을 플레이하면서 투수 골드 해골을 획득하십시오.",
+                    "pt-PT": "Jogue em Normal, Heróico ou Lendário e depois encontre e reinvindique esta caveira.",
+                    "zh-CHT": "在正常, 英雄或傳奇困難度的戰役遊戲裡來找這個骷髏吧。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "16.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "Nebel",
+                    "en-US": "Fog",
+                    "es-ES": "Niebla",
+                    "fr-FR": "Brouillard",
+                    "it-IT": "Nebbia",
+                    "ja-JP": "スカル獲得: Fog",
+                    "ko-KR": "안개",
+                    "pt-PT": "Neblina",
+                    "zh-CHT": "霧氣"
+                },
+                "description": {
+                    "de-DE": "\"Nebel\"-Schädel erobert.",
+                    "en-US": "Claimed Fog skull.",
+                    "es-ES": "Cráneo niebla obtenido.",
+                    "fr-FR": "Crâne Brouillard obtenu.",
+                    "it-IT": "Hai preso il teschio Nebbia.",
+                    "ja-JP": "Fog スカルを獲得",
+                    "ko-KR": "안개 골드 해골을 획득했습니다.",
+                    "pt-PT": "Reivindicou caveira de Neblina.",
+                    "zh-CHT": "獲得霧氣骷髏頭。"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie diesen Schädel auf \"Normal\", \"Heldenhaft\" oder \"Legendär\" Schwierigkeitsgrad.",
+                    "en-US": "Find and claim this skull when playing on Normal, Heroic or Legendary difficulty.",
+                    "es-ES": "Encuentra y reclama ésta cráneo al jugar en dificultad Normal, Heroica o Legendaria.",
+                    "fr-FR": "Trouvez ce crâne en campagne en niveau Normal, Héroïque ou Légendaire.",
+                    "it-IT": "Trova e prendi questo teschio mentre giochi alla difficoltá Normale, Eroica o Leggendaria.",
+                    "ja-JP": "ビギナー以外の任意の難易度でキャンペーンをプレイして、このスカルを獲得しよう",
+                    "ko-KR": "보통, 영웅 또는 전설 난이도로 캠페인을 플레이하면서 안개 골드 해골을 획득하십시오.",
+                    "pt-PT": "Jogue em Normal, Heróico ou Lendário e depois encontre e reinvindique esta caveira.",
+                    "zh-CHT": "在正常, 英雄或傳奇困難度的戰役遊戲裡來找這個骷髏吧。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "17.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "Hunger",
+                    "en-US": "Famine",
+                    "es-ES": "Hambre",
+                    "fr-FR": "Famine",
+                    "it-IT": "Carestia",
+                    "ja-JP": "スカル獲得: Famine",
+                    "ko-KR": "배고픔",
+                    "pt-PT": "Fome",
+                    "zh-CHT": "飢荒"
+                },
+                "description": {
+                    "de-DE": "\"Hunger\"-Schädel erobert.",
+                    "en-US": "Claimed Famine skull.",
+                    "es-ES": "Cráneo hambre obtenido.",
+                    "fr-FR": "Crâne Famine obtenu.",
+                    "it-IT": "Hai preso il teschio Carestia.",
+                    "ja-JP": "Famine スカルを獲得",
+                    "ko-KR": "배고픔 골드 해골을 획득했습니다.",
+                    "pt-PT": "Reivindicou caveira de Fome.",
+                    "zh-CHT": "獲得飢荒骷髏頭。"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie diesen Schädel auf \"Normal\", \"Heldenhaft\" oder \"Legendär\" Schwierigkeitsgrad.",
+                    "en-US": "Find and claim this skull when playing on Normal, Heroic or Legendary difficulty.",
+                    "es-ES": "Encuentra y reclama ésta cráneo al jugar en dificultad Normal, Heroica o Legendaria.",
+                    "fr-FR": "Trouvez ce crâne en campagne en niveau Normal, Héroïque ou Légendaire.",
+                    "it-IT": "Trova e prendi questo teschio mentre giochi alla difficoltá Normale, Eroica o Leggendaria.",
+                    "ja-JP": "ビギナー以外の任意の難易度でキャンペーンをプレイして、このスカルを獲得しよう",
+                    "ko-KR": "보통, 영웅 또는 전설 난이도로 캠페인을 플레이하면서 배고픔 골드 해골을 획득하십시오.",
+                    "pt-PT": "Jogue em Normal, Heróico ou Lendário e depois encontre e reinvindique esta caveira.",
+                    "zh-CHT": "在正常, 英雄或傳奇困難度的戰役遊戲裡來找這個骷髏吧。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "18.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Gewitter",
+                    "en-US": "Thunderstorm",
+                    "es-ES": "Tormenta eléctrica",
+                    "fr-FR": "Orage",
+                    "it-IT": "Tempesta",
+                    "ja-JP": "スカル獲得: Thunderstorm",
+                    "ko-KR": "폭풍우",
+                    "pt-PT": "Tempestade",
+                    "zh-CHT": "雷雨"
+                },
+                "description": {
+                    "de-DE": "\"Gewitter\"-Schädel erobert.",
+                    "en-US": "Claimed Thunderstorm skull.",
+                    "es-ES": "Cráneo tormenta eléctrica obtenido.",
+                    "fr-FR": "Crâne Orage obtenu.",
+                    "it-IT": "Hai preso il teschio Tempesta.",
+                    "ja-JP": "Thunderstorm スカルを獲得",
+                    "ko-KR": "폭풍우 골드 해골을 획득했습니다.",
+                    "pt-PT": "Reivindicou caveira de Tempestade.",
+                    "zh-CHT": "獲得雷雨骷髏頭。"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie diesen Schädel auf \"Normal\", \"Heldenhaft\" oder \"Legendär\" Schwierigkeitsgrad.",
+                    "en-US": "Find and claim this skull when playing on Normal, Heroic or Legendary difficulty.",
+                    "es-ES": "Encuentra y reclama ésta cráneo al jugar en dificultad Normal, Heroica o Legendaria.",
+                    "fr-FR": "Trouvez ce crâne en campagne en niveau Normal, Héroïque ou Légendaire.",
+                    "it-IT": "Trova e prendi questo teschio mentre giochi alla difficoltá Normale, Eroica o Leggendaria.",
+                    "ja-JP": "ビギナー以外の任意の難易度でキャンペーンをプレイして、このスカルを獲得しよう",
+                    "ko-KR": "보통, 영웅 또는 전설 난이도로 캠페인을 플레이하면서 폭풍우 골드 해골을 획득하십시오.",
+                    "pt-PT": "Jogue em Normal, Heróico ou Lendário e depois encontre e reinvindique esta caveira.",
+                    "zh-CHT": "在正常, 英雄或傳奇困難度的戰役遊戲裡來找這個骷髏吧。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "19.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "Neigung",
+                    "en-US": "Tilt",
+                    "es-ES": "Ladear",
+                    "fr-FR": "Tilt",
+                    "it-IT": "Tilt",
+                    "ja-JP": "スカル獲得: Tilt",
+                    "ko-KR": "갸우뚱",
+                    "pt-PT": "Declive",
+                    "zh-CHT": "偏心"
+                },
+                "description": {
+                    "de-DE": "\"Neigung\"-Schädel erobert.",
+                    "en-US": "Claimed Tilt skull.",
+                    "es-ES": "Cráneo ladear obtenido.",
+                    "fr-FR": "Crâne Tilt obtenu.",
+                    "it-IT": "Hai preso il teschio Tilt.",
+                    "ja-JP": "Tilt スカルを獲得",
+                    "ko-KR": "갸우뚱 골드 해골을 획득했습니다.",
+                    "pt-PT": "Reivindicou caveira de Declive.",
+                    "zh-CHT": "獲得偏心骷髏頭。"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie diesen Schädel auf \"Normal\", \"Heldenhaft\" oder \"Legendär\" Schwierigkeitsgrad.",
+                    "en-US": "Find and claim this skull when playing on Normal, Heroic or Legendary difficulty.",
+                    "es-ES": "Encuentra y reclama ésta cráneo al jugar en dificultad Normal, Heroica o Legendaria.",
+                    "fr-FR": "Trouvez ce crâne en campagne en niveau Normal, Héroïque ou Légendaire.",
+                    "it-IT": "Trova e prendi questo teschio mentre giochi alla difficoltá Normale, Eroica o Leggendaria.",
+                    "ja-JP": "ビギナー以外の任意の難易度でキャンペーンをプレイして、このスカルを獲得しよう",
+                    "ko-KR": "보통, 영웅 또는 전설 난이도로 캠페인을 플레이하면서 갸우뚱 골드 해골을 획득하십시오.",
+                    "pt-PT": "Jogue em Normal, Heróico ou Lendário e depois encontre e reinvindique esta caveira.",
+                    "zh-CHT": "在正常, 英雄或傳奇困難度的戰役遊戲裡來找這個骷髏吧。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "20.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "Mythisch",
+                    "en-US": "Mythic",
+                    "es-ES": "Mítico",
+                    "fr-FR": "Mythique",
+                    "it-IT": "Mitico",
+                    "ja-JP": "スカル獲得: Mythic",
+                    "ko-KR": "P.T.",
+                    "pt-PT": "Mítico",
+                    "zh-CHT": "神話"
+                },
+                "description": {
+                    "de-DE": "\"Mythisch\"-Schädel erobert.",
+                    "en-US": "Claimed Mythic skull.",
+                    "es-ES": "Cráneo mítico obtenido.",
+                    "fr-FR": "Crâne Mythique obtenu.",
+                    "it-IT": "Hai preso il teschio Mitico.",
+                    "ja-JP": "Mythic スカルを獲得",
+                    "ko-KR": "P.T. 골드 해골을 획득했습니다.",
+                    "pt-PT": "Reivindicou caveira de Mítico.",
+                    "zh-CHT": "獲得神話骷髏頭。"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie diesen Schädel auf \"Normal\", \"Heldenhaft\" oder \"Legendär\" Schwierigkeitsgrad.",
+                    "en-US": "Find and claim this skull when playing on Normal, Heroic or Legendary difficulty.",
+                    "es-ES": "Encuentra y reclama ésta cráneo al jugar en dificultad Normal, Heroica o Legendaria.",
+                    "fr-FR": "Trouvez ce crâne en campagne en niveau Normal, Héroïque ou Légendaire.",
+                    "it-IT": "Trova e prendi questo teschio mentre giochi alla difficoltá Normale, Eroica o Leggendaria.",
+                    "ja-JP": "ビギナー以外の任意の難易度でキャンペーンをプレイして、このスカルを獲得しよう",
+                    "ko-KR": "보통, 영웅 또는 전설 난이도로 캠페인을 플레이하면서 P.T. 골드 해골을 획득하십시오.",
+                    "pt-PT": "Jogue em Normal, Heróico ou Lendário e depois encontre e reinvindique esta caveira.",
+                    "zh-CHT": "在正常, 英雄或傳奇困難度的戰役遊戲裡來找這個骷髏吧。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "21.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Absolvent",
+                    "en-US": "Graduate",
+                    "es-ES": "Licenciado",
+                    "fr-FR": "Diplômé",
+                    "it-IT": "Diplomato",
+                    "ja-JP": "トレーニング完了",
+                    "ko-KR": "기초 훈련 이수자",
+                    "pt-PT": "Graduado",
+                    "zh-CHT": "畢業"
+                },
+                "description": {
+                    "de-DE": "Grundausbildung absolviert. Bleiben Sie dran, um sich Ihr Spartan-Abzeichen zu verdienen.",
+                    "en-US": "Graduated from basic training.  Stick with it to earn your Spartan Insignia.",
+                    "es-ES": "Te has licenciado en el entrenamiento básico. Sigue así para ganar una insignia Spartan.",
+                    "fr-FR": "Vous avez réussi l'entraînement de base. Continuez et vous gagnerez votre insigne de Spartan.",
+                    "it-IT": "Diploma di addestramento di base. Continua così per ottenere le tue mostrine Spartan.",
+                    "ja-JP": "ベーシック トレーニングを完了。引き続きスパルタンのバッジ獲得を目指そう",
+                    "ko-KR": "기초 훈련을 완료했습니다. 이젠 스파르탄 훈장에 도전하십시오.",
+                    "pt-PT": "Graduou-se em treinamento básico.  Continue firme para ganhar sua insígnia de Spartan.",
+                    "zh-CHT": "從基本訓練畢業，繼續努力才能贏得超級戰士徽章"
+                },
+                "howto": {
+                    "de-DE": "5 EP verdienen oder 10 Spiele beenden, um Anforderung für Grundausbildung zu erfüllen (online).",
+                    "en-US": "Earn 5 EXP or finish 10 games to complete the requirements for basic training (Online).",
+                    "es-ES": "Consigue 5 EXP o termina 10 partidas para completar los requisitos del entren. básico (en línea).",
+                    "fr-FR": "Gagnez 5 EXP ou terminez 10 parties pour accomplir l'entraînement de base (en ligne).",
+                    "it-IT": "Ottieni 5 punti esp. o concludi 10 partite per i requisiti dell'addestramento di base (online).",
+                    "ja-JP": "5 EXP 獲得または 10 ゲームをプレイして、ベーシック トレーニングを完了しよう (オンライン)",
+                    "ko-KR": "기초 훈련을 완료하려면 온라인에서 EXP 5점을 획득하거나 게임을 10번 플레이하십시오.",
+                    "pt-PT": "Ganhe 5 EXP ou termine 10 jogos para completar os requisitos do treinamento básico (Online).",
+                    "zh-CHT": "贏得 5 點經驗值 EXP 或是完成 10 場遊戲，才能完成基本訓練 (線上) 的要求。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "22.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "UNSC-Spartan",
+                    "en-US": "UNSC Spartan",
+                    "es-ES": "Spartan de la UNSC",
+                    "fr-FR": "Spartan de l'UNSC",
+                    "it-IT": "Spartan CST",
+                    "ja-JP": "UNSC スパルタン",
+                    "ko-KR": "UNSC 스파르탄",
+                    "pt-PT": "Spartan do UNSC",
+                    "zh-CHT": "UNSC 超級戰士"
+                },
+                "description": {
+                    "de-DE": "Zum Sergeant befördert. Sie haben sich im Kampf bewiesen, Sie sind ein Spartan. ",
+                    "en-US": "Promoted to Sergeant.  Proven in combat, you are a Spartan. ",
+                    "es-ES": "Ascendido a sargento. Probado en combate, eres un Spartan. ",
+                    "fr-FR": "Vous accédez au rang de sergent. Vous êtes un Spartan rompu au combat. ",
+                    "it-IT": "Promosso a sergente. Hai dato prova in battaglia di essere uno Spartan. ",
+                    "ja-JP": "戦闘で実力を証明し、スパルタンとなって Sergeant に昇格",
+                    "ko-KR": "중사로 진급했습니다. 전공을 세운 당신은 이제 스파르탄입니다.",
+                    "pt-PT": "Promovido a Sargento.  Provado em combate, você é um Spartan. ",
+                    "zh-CHT": "升為上士，具實戰經驗，你是個超級戰士。"
+                },
+                "howto": {
+                    "de-DE": "Sergeant-Bewertung verdienen, um als wahrer Spartan anerkannt zu werden (online).",
+                    "en-US": "Earn your Sergeant rating to be recognized as a true Spartan (Online).",
+                    "es-ES": "Consigue el rango de sargento para ser reconocido como un auténtico Spartan (en línea).",
+                    "fr-FR": "Accédez au rang de sergent pour devenir un véritable Spartan (en ligne).",
+                    "it-IT": "Ottieni il grado di sergente per essere riconosciuto come un vero Spartan (online).",
+                    "ja-JP": "真のスパルタンとして Sergeant ランクに昇格しよう (オンライン)",
+                    "ko-KR": "온라인에서 진정한 스파르탄이 되기 위해 중사로 진급하십시오.",
+                    "pt-PT": "Ganhe sua graduação de Sargento para ser reconhecido como um verdadeiro Spartan (Online).",
+                    "zh-CHT": "贏得士官軍階，才能成為真正的超級戰士 (線上)。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "23.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Spartan-Offizier",
+                    "en-US": "Spartan Officer",
+                    "es-ES": "Oficial Spartan",
+                    "fr-FR": "Officier Spartan",
+                    "it-IT": "Ufficiale Spartan",
+                    "ja-JP": "スパルタン オフィサー",
+                    "ko-KR": "스파르탄 장교",
+                    "pt-PT": "Oficial Spartan",
+                    "zh-CHT": "超級戰士士官長"
+                },
+                "description": {
+                    "de-DE": "Als echter Veteran vieler Schlachten sind Sie ein Spartan-Offizier.",
+                    "en-US": "True veteran of many battles, you are a Spartan Officer.",
+                    "es-ES": "Veterano curtido en muchas batallas, eres un oficial Spartan.",
+                    "fr-FR": "Vos longs états de service font de vous un officier Spartan.",
+                    "it-IT": "Veterano di mille battaglie, sei un vero ufficiale Spartan.",
+                    "ja-JP": "数々の戦闘でベテランとして真価を発揮し、Spartan Officer に昇格",
+                    "ko-KR": "전장의 베테랑이 되어 스파르탄 장교로 진급했습니다.",
+                    "pt-PT": "Verdadeiro veterano de muitas batalhas, você é um Oficial Spartan.",
+                    "zh-CHT": "歷經百戰的老鳥，你是個超級戰士士官長。"
+                },
+                "howto": {
+                    "de-DE": "Zum Spartan-Offizier aufsteigen (online).",
+                    "en-US": "Advance to the Spartan Officer ranks (Online).",
+                    "es-ES": "Asciende en el escalafón de oficial Spartan (en línea).",
+                    "fr-FR": "Accédez aux rangs des officiers spartans (en ligne).",
+                    "it-IT": "Ottieni il grado di ufficiale Spartan (online).",
+                    "ja-JP": "Spartan Officer ランクに昇格しよう (オンライン)",
+                    "ko-KR": "온라인에서 스파르탄 장교로 진급하십시오.",
+                    "pt-PT": "Avance para o posto de Oficial Spartan (Online).",
+                    "zh-CHT": "晉升為超級戰士軍官官階 (線上)。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "24.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "Zwei für Einen",
+                    "en-US": "Two for One",
+                    "es-ES": "Dos por uno",
+                    "fr-FR": "D'une pierre deux coups",
+                    "it-IT": "Due al prezzo di uno",
+                    "ja-JP": "ダブル キル",
+                    "ko-KR": "한 방에 두 명",
+                    "pt-PT": "Dois por Um",
+                    "zh-CHT": "一箭雙雕"
+                },
+                "description": {
+                    "de-DE": "Doppelabschuss mit einem Spartan-Laser-Schuss in Ranglisten-\"Jeder gg. Jeden\"-Spielliste erzielt.",
+                    "en-US": "Scored a Double Kill with a single spartan laser shot in a ranked free for all playlist.",
+                    "es-ES": "Has anotado una doble muerte de un solo disparo láser Spartan en una refriega abierta a todos.",
+                    "fr-FR": "Double frag d'un tir de laser spartan en sélection chacun pour soi avec classement.",
+                    "it-IT": "Ottenuta doppia uccisione con 1 colpo di laser Spartan in elenco partite class. tutti contro tutti.",
+                    "ja-JP": "ランク プレイリストの個人戦で、1 発のスパルタンレーザーでダブル キル達成",
+                    "ko-KR": "랭킹 FFA 게임에서 스파르탄 레이저 한 발로 동시에 두 명을 사살했습니다.",
+                    "pt-PT": "Marcou ponto de Morte Dupla com 1 tiro de laser spartan em lista de jogos por rank. liberada.",
+                    "zh-CHT": "在排名的自由參加遊戲清單中，用一發斯巴達雷射達成雙殺。"
+                },
+                "howto": {
+                    "de-DE": "Doppelabschuss mit 1 Spartan-Laser-Schuss in Rangl.-\"Jeder gg. Jeden\"-Spielliste erzielen (online). ",
+                    "en-US": "Score a Double Kill with a single spartan laser shot in a ranked free for all playlist (Online). ",
+                    "es-ES": "Consigue doble muerte de un disparo Spartan en una refriega abierta a todos (en línea). ",
+                    "fr-FR": "Double frag d'un seul tir de laser spartan en sélection chacun pour soi avec classement (en ligne). ",
+                    "it-IT": "Ottieni doppia ucc. con 1 colpo di laser Spartan in elenco part. clas. tutti contro tutti (online). ",
+                    "ja-JP": "ランク プレイリストの個人戦 (オンライン) で、1 発のスパルタンレーザーでダブル キルを達成しよう",
+                    "ko-KR": "온라인 랭킹 FFA 게임에서 스파르탄 레이저 한 발로 동시에 두 명을 사살하십시오.",
+                    "pt-PT": "Marque ponto de Morte Dupla com 1 tiro de laser spartan em lista de jogo por rank. liber. (Online).",
+                    "zh-CHT": "在排名的自由參加遊戲清單 (線上) 中，用單發斯巴達雷射，雙殺得分。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "25.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Zu nah an der Sonne",
+                    "en-US": "Too Close to the Sun",
+                    "es-ES": "Demasiado cerca del sol",
+                    "fr-FR": "Toujours plus près des étoiles",
+                    "it-IT": "Troppo vicino al sole",
+                    "ja-JP": "バンシー キル",
+                    "ko-KR": "태양과 너무 가까워",
+                    "pt-PT": "Perto Demais do Sol",
+                    "zh-CHT": "燈蛾撲火"
+                },
+                "description": {
+                    "de-DE": "Banshee mit Spartan-Laser oder Raketengeschütz in Ranglisten-Spielliste oder Kampagne zerstört.",
+                    "en-US": "Destroyed a banshee with the spartan laser or missile pod in a ranked playlist or in campaign.",
+                    "es-ES": "Has destruido un Banshee con un láser Spartan o un afuste de misiles en una refriega o campaña.",
+                    "fr-FR": "Banshee détruit au laser spartan ou module lance-missiles, sélection avec classement ou campagne.",
+                    "it-IT": "Distrutto Banshee con laser Spartan o lanciamissili in elenco partite classificate o nella Campagna.",
+                    "ja-JP": "任意のランク プレイリストまたはキャンペーンで、スパルタンレーザーかミサイルポッドでバンシーを破壊",
+                    "ko-KR": "랭킹 게임이나 캠페인에서 스파르탄 레이저 또는 미사일 포드로 밴시를 파괴했습니다.",
+                    "pt-PT": "Destruiu Banshee c/laser spartan ou cápsula de mísseis em lista de jogos por rank. ou em campanha.",
+                    "zh-CHT": "在排名的遊戲清單或是戰役中，用斯巴達雷射或飛彈發射器，摧毀一架妖姬號。"
+                },
+                "howto": {
+                    "de-DE": "Banshee mit Spartan-Laser oder Raketengeschütz in Ranglisten-Spielliste oder Kampagne zerstören.",
+                    "en-US": "Destroy an enemy banshee with the spartan laser or missile pod in a ranked playlist or in campaign.",
+                    "es-ES": "Destruye un Banshee con un Spartan o un afuste de misiles en una refriega o en la campaña.",
+                    "fr-FR": "Détruisez un banshee au laser spartan ou module lance-missiles en sélection classée ou campagne.",
+                    "it-IT": "Distruggi Banshee nemico con laser Spartan o lanciamissili in elenco partite clas. o nella Campagna.",
+                    "ja-JP": "任意のランク プレイリストまたはキャンペーンで、スパルタンレーザーかミサイルポッドでバンシーを破壊しよう",
+                    "ko-KR": "랭킹 게임이나 캠페인에서 스파르탄 레이저나 미사일 포드로 적 밴시를 파괴하십시오.",
+                    "pt-PT": "Destrua Banshee inimigo c/laser spartan ou cápsula de mísseis em l. de jogos por rank. ou campanha.",
+                    "zh-CHT": "在戰役或配對遊戲清單的遊戲中，用斯巴達雷射或飛彈發射器，摧毀敵人的妖姬號。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "26.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Dreifacher Abschuss",
+                    "en-US": "Triple Kill",
+                    "es-ES": "Triple muerte",
+                    "fr-FR": "Triple frag",
+                    "it-IT": "Tripla uccisione",
+                    "ja-JP": "トリプル キル",
+                    "ko-KR": "세 명 잡음",
+                    "pt-PT": "Morte Tripla",
+                    "zh-CHT": "三殺"
+                },
+                "description": {
+                    "de-DE": "3 Feinde mit je max. 4 Sek. Abstand in Ranglisten-\"Jeder gg. Jeden\"-Spielliste eliminiert.",
+                    "en-US": "Killed 3 enemies within 4 seconds of one another in a ranked free for all playlist.",
+                    "es-ES": "Has matado a 3 op. con 4 segundos o menos entre ellos en una refriega abierta a todos.",
+                    "fr-FR": "Vous avez tué 3 ennemis à moins de 4 s d'intervalle en sélection chacun pour soi avec classement.",
+                    "it-IT": "Uccisi 3 nemici a 4 secondi l'uno dall'altro, in un elenco partite tutti contro tutti classificate.",
+                    "ja-JP": "ランク プレイリストの個人戦で、各 4 秒以内の間隔で 3 キル達成",
+                    "ko-KR": "랭킹 FFA 게임에서 적 3명을 각각 4초 이내에 사살했습니다.",
+                    "pt-PT": "Matou 3 inimigos com 4 seg. de diferença em lista de jogos por ranking liberada para todos.",
+                    "zh-CHT": "在排名的自由參加遊戲清單中，在 4 秒內殺死 3 個敵人。"
+                },
+                "howto": {
+                    "de-DE": "3 Feinde mit je max. 4 Sekunden Abstand in Ranglisten-\"Jeder gg. Jeden\"-Spielliste eliminieren.",
+                    "en-US": "Kill 3 enemies within 4 seconds of one another in a ranked free for all playlist (Online).",
+                    "es-ES": "Mata a 3 op. con 4 segs. de diferencia entre ellos en una refriega abierta a todos (en línea).",
+                    "fr-FR": "Tuez 3 ennemis à moins de 4 s d'intervalle en sélection chacun pour soi avec classement (en ligne).",
+                    "it-IT": "Uccidi 3 nemici a 4 secondi l'uno dall'altro in elenco partite tutti contro tutti class. (online).",
+                    "ja-JP": "ランク プレイリストの個人戦 (オンライン) で、各 4 秒以内の間隔で 3 キルを達成しよう",
+                    "ko-KR": "온라인 랭킹 FFA 게임에서 적 3명을 각각 4초 이내에 사살하십시오.",
+                    "pt-PT": "Mate 3 inimigos 4 seg. de diferença em lista de jogos por ranking liberada para todos (Online).",
+                    "zh-CHT": "在排名的自由參加遊戲清單 (線上) 中，在 4 秒內殺死 3 個敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "27.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "Overkill",
+                    "en-US": "Overkill",
+                    "es-ES": "Exterminio",
+                    "fr-FR": "À la chaîne",
+                    "it-IT": "Esagerazione",
+                    "ja-JP": "オーバーキル",
+                    "ko-KR": "살육",
+                    "pt-PT": "Mata, mata",
+                    "zh-CHT": "四連殺"
+                },
+                "description": {
+                    "de-DE": "4 Feinde mit je max. 4 Sek. Abstand in Ranglisten-\"Jeder gg. Jeden\"-Spielliste eliminiert.",
+                    "en-US": "Killed 4 enemies within 4 seconds of one another in a ranked free for all playlist.",
+                    "es-ES": "Has matado a 4 op. con 4 segs. o menos de dif. entre ellos en una refriega abierta a todos.",
+                    "fr-FR": "Vous avez tué 4 ennemis à moins de 4 s d'intervalle en sélection chacun pour soi avec classement.",
+                    "it-IT": "Uccisi 4 nemici a 4 secondi l'uno dall'altro, in un elenco partite tutti contro tutti classificate.",
+                    "ja-JP": "ランク プレイリストの個人戦で、各 4 秒以内の間隔で 4 キル達成",
+                    "ko-KR": "랭킹 FFA 게임에서 적 4명을 각각 4초 이내에 사살했습니다.",
+                    "pt-PT": "Matou 4 inimigos com 4 seg. de diferença em lista de jogos por ranking liberada para todos.",
+                    "zh-CHT": "在排名的自由參加遊戲清單中，在 4 秒內殺死 4 個敵人。"
+                },
+                "howto": {
+                    "de-DE": "4 Feinde mit je max. 4 Sekunden Abstand in Ranglisten-\"Jeder gg. Jeden\"-Spielliste eliminieren.",
+                    "en-US": "Kill 4 enemies within 4 seconds of one another in a ranked free for all playlist (Online).",
+                    "es-ES": "Mata a 4 op. con 4 segs. o menos entre ellos en una refriega abierta a todos (en línea).",
+                    "fr-FR": "Tuez 4 ennemis à moins de 4 s d'intervalle en sélection chacun pour soi avec classement (en ligne).",
+                    "it-IT": "Uccidi 4 nemici a 4 secondi l'uno dall'altro in elenco part. tutti contro tutti class. (online).",
+                    "ja-JP": "ランク プレイリストの個人戦 (オンライン) で、各 4 秒以内の間隔で 4 キルを達成しよう",
+                    "ko-KR": "온라인 랭킹 FFA 게임에서 적 4명을 각각 4초 이내에 사살하십시오.",
+                    "pt-PT": "Mate 4 inimigos com 4 seg. de diferença em lista de jogos por ranking liberada para todos (Online).",
+                    "zh-CHT": "在排名的自由參加遊戲清單 (線上) 中，在 4 秒內殺死 4 個敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "28.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "de-DE": "Lee-R.-Wilson-Gedenkmedaille",
+                    "en-US": "Lee R Wilson Memorial",
+                    "es-ES": "Monumento a Lee R. Wilson",
+                    "fr-FR": "Mémorial Lee R Wilson",
+                    "it-IT": "Memoriale Lee R Wilson",
+                    "ja-JP": "リー R ウィルソン記念",
+                    "ko-KR": "Lee R Wilson 추모비",
+                    "pt-PT": "Memorial Lee R. Wilson",
+                    "zh-CHT": "準投紀念館"
+                },
+                "description": {
+                    "de-DE": "5 Haftgranaten in beliebigen Ranglisten-\"Jeder gg. Jeden\"-Spiellisten angebracht.",
+                    "en-US": "Scored 5 grenade sticks in any ranked free for all playlist.",
+                    "es-ES": "Has pegado 5 granadas en una refriega clasificatoria abierta a todos.",
+                    "fr-FR": "Vous avez tué 5 ennemis avec des grenades adhésives en sélection chacun pour soi avec classement.",
+                    "it-IT": "Hai messo a segno 5 granate adesive in un elenco partite tutti contro tutti classificate.",
+                    "ja-JP": "ランク プレイリストの個人戦で、敵にグレネードを付着させて 5 キル達成",
+                    "ko-KR": "랭킹 FFA 게임에서 5개의 수류탄을 적에게 부착했습니다.",
+                    "pt-PT": "Marcou ponto com 5 granadas espetadas em lquer lista de jogos por ranking liberada para todos.",
+                    "zh-CHT": "在排名的自由參加遊戲清單中，5 次成功將手榴彈黏在敵人身上。"
+                },
+                "howto": {
+                    "de-DE": "5 Haftgranaten in beliebigen Ranglisten-\"Jeder gg. Jeden\"-Spiellisten anbringen.",
+                    "en-US": "Score 5 grenade sticks in any ranked free for all playlist (Online).",
+                    "es-ES": "Pega 5 granadas en una refriega clasificatoria abierta a todos (en línea).",
+                    "fr-FR": "Tuez 5 ennemis avec des grenades adhésives en sélection chacun pour soi avec classement (en ligne).",
+                    "it-IT": "Metti a segno 5 granate adesive in un elenco partite tutti contro tutti classificate (online).",
+                    "ja-JP": "ランク プレイリストの個人戦 (オンライン) で、敵にグレネードを付着させて 5 キルを達成しよう",
+                    "ko-KR": "온라인 랭킹 FFA 게임에서 5개의 수류탄을 적에게 부착하십시오.",
+                    "pt-PT": "Marque ponto com 5 granadas espetadas em qq. lista de jogos por ranking liber. para todos (Online).",
+                    "zh-CHT": "在排名的自由參加遊戲清單 (線上) 中，5 次成功將手榴彈黏在敵人身上。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "29.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "Wir wollen etwas Action",
+                    "en-US": "We’re in for some Chop",
+                    "es-ES": "Queremos machacar algo",
+                    "fr-FR": "Accident de circulation",
+                    "it-IT": "Tempo di distruzione",
+                    "ja-JP": "ヴィークル キラー",
+                    "ko-KR": "차량 파괴",
+                    "pt-PT": "Matança, é comigo",
+                    "zh-CHT": "地雷高手"
+                },
+                "description": {
+                    "de-DE": "Feindliches Fahrzeug mit Ausrüstung in Ranglisten-Spielliste oder Kampagne zerstört.",
+                    "en-US": "Destroyed an enemy vehicle with equipment in a ranked playlist or in campaign.",
+                    "es-ES": "Has destruido un vehículo enemigo con tu equipo en una refriega clasificatoria abierta a todos.",
+                    "fr-FR": "Vous avez détruit un véhicule ennemi avec l'équipement en sélection avec classement ou en campagne.",
+                    "it-IT": "Distrutto veicolo nemico con equipaggiamenti in elenco partite classificate o in una Campagna.",
+                    "ja-JP": "任意のランク プレイリストまたはキャンペーンで、装備を使用して敵の乗り物を破壊",
+                    "ko-KR": "랭킹 게임이나 캠페인에서 무기를 장착한 적 차량을 파괴했습니다.",
+                    "pt-PT": "Destruiu um veículo do inimigo com equipamento em lista de jogos por ranking ou em capanha.",
+                    "zh-CHT": "在排名的遊戲清單或是戰役中，摧毀敵人的載具。"
+                },
+                "howto": {
+                    "de-DE": "Feindliches Fahrzeug mit Ausrüstung in Ranglisten-Spielliste oder Kampagne zerstören.",
+                    "en-US": "Destroy an enemy vehicle with equipment in a ranked playlist or in campaign.",
+                    "es-ES": "Destruye un vehículo enemigo con tu equipo en una refriega abierta a todos o en campaña.",
+                    "fr-FR": "Détruisez un véhicule ennemi avec l'équipement en sélection avec classement ou en campagne.",
+                    "it-IT": "Distruggi un veicolo nemico con equipaggiamenti in elenco partite classificate o in una Campagna.",
+                    "ja-JP": "任意のランク プレイリストまたはキャンペーンで、装備を使用して敵の乗り物を破壊しよう",
+                    "ko-KR": "랭킹 게임이나 캠페인에서 무기를 장착한 적 차량을 파괴하십시오.",
+                    "pt-PT": "Destrua um veículo do inimigo com equipamento em lista de jogos por ranking ou em campanha.",
+                    "zh-CHT": "在戰役或排名清單的遊戲中，用裝備摧毀敵方載具。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "30.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "Amok",
+                    "en-US": "Killing Frenzy",
+                    "es-ES": "Frenesí asesino",
+                    "fr-FR": "Massacre",
+                    "it-IT": "Furia omicida",
+                    "ja-JP": "キリング フレンジー",
+                    "ko-KR": "학살",
+                    "pt-PT": "Frenesi Assassino",
+                    "zh-CHT": "殺紅眼"
+                },
+                "description": {
+                    "de-DE": "10 Feinde in beliebigen Ranglisten-\"Jeder gg. Jeden\"-Spielliste elimiert, ohne zu sterben.",
+                    "en-US": "Killed 10 enemies without dying in any ranked free for all playlist.",
+                    "es-ES": "Has matado a 10 enemigos sin morir en una refriega clasificatoria abierta a todos.",
+                    "fr-FR": "Vous avez tué 10 ennemis sans mourir en sélection chacun pour soi avec classement.",
+                    "it-IT": "Hai ucciso 10 nemici senza morire in un elenco partite tutti contro tutti classificate.",
+                    "ja-JP": "ランク プレイリストの個人戦で、一度も倒されずに  10 キル達成",
+                    "ko-KR": "랭킹 FFA 게임에서 죽지 않고 적 10명을 사살했습니다.",
+                    "pt-PT": "Matou 10 inimigos sem morrer em qualquer lista de jogos por ranking liberada para todos.",
+                    "zh-CHT": "在任何排名的自由參加遊戲清單中，殺死 10 個敵人且未陣亡。"
+                },
+                "howto": {
+                    "de-DE": "10 Feinde in beliebigen Ranglisten-\"Jeder gg. Jeden\"-Spielliste eliminieren, ohne zu sterben.",
+                    "en-US": "Kill 10 enemies without dying in any ranked free for all playlist (Online).",
+                    "es-ES": "Mata a 10 enemigos sin morir en una refriega clasificatoria abierta a todos (en línea).",
+                    "fr-FR": "Tuez 10 ennemis sans mourir en sélection chacun pour soi avec classement (en ligne).",
+                    "it-IT": "Uccidi 10 nemici senza morire in un elenco partite tutti contro tutti classificate (online).",
+                    "ja-JP": "ランク プレイリストの個人戦 (オンライン) で、一度も倒されずに  10 キルを達成しよう",
+                    "ko-KR": "온라인 랭킹 FFA 게임에서 죽지 않고 적 10명을 사살하십시오.",
+                    "pt-PT": "Mate 10 inimigos sem morrer em qualquer lista de jogos por ranking liberada para todos (Online).",
+                    "zh-CHT": "在排名的自由參加遊戲清單 (線上) 中，殺死 10 個敵人並活著。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "31.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "Scharfer Rasierer",
+                    "en-US": "Steppin' Razor",
+                    "es-ES": "Cuchilla letal",
+                    "fr-FR": "Rasoir 3 lames",
+                    "it-IT": "Lama di rasoio",
+                    "ja-JP": "ステッピン レーザー",
+                    "ko-KR": "날카로운 칼날",
+                    "pt-PT": "Lâmina Fatal",
+                    "zh-CHT": "刀鋒劍影"
+                },
+                "description": {
+                    "de-DE": "Dreifachabschuss mit dem Schwert in Ranglisten-\"Jeder gg. Jeden\"-Spielliste erzielt.",
+                    "en-US": "Scored a Triple Kill with the sword in a ranked free for all playlist.",
+                    "es-ES": "Has conseguido una triple muerte con la espada en una refriega clasificatoria abierta a todos.",
+                    "fr-FR": "Vous avez réussi un triple frag à l'épée en sélection chacun pour soi avec classement.",
+                    "it-IT": "Hai ottenuto una tripla uccisione con la lama in un elenco partite tutti contro tutti classificate.",
+                    "ja-JP": "ランク プレイリストの個人戦で、エナジーソードによるトリプル キル達成",
+                    "ko-KR": "랭킹 FFA 게임에서 에너지 검으로 적 세 명을 각각 4초 이내에 사살했습니다.",
+                    "pt-PT": "Marcou ponto de Morte Tripla com a espada em lista de jogos por ranking liberada para todos.",
+                    "zh-CHT": "在排名的自由參加遊戲清單中，用能量劍三殺得分。"
+                },
+                "howto": {
+                    "de-DE": "Dreifachabschuss mit dem Schwert in Ranglisten-\"Jeder gg. Jeden\"-Spielliste erzielen (online).",
+                    "en-US": "Score a Triple Kill with the sword in a ranked free for all playlist (Online).",
+                    "es-ES": "Consigue una triple muerte con la espada en una refriega clasificatoria abierta a todos (en línea).",
+                    "fr-FR": "Réussissez un triple frag à l'épée en sélection chacun pour soi avec classement (en ligne).",
+                    "it-IT": "Ottieni tripla uccisione con lama in un elenco partite tutti contro tutti classificate (online).",
+                    "ja-JP": "ランク プレイリストの個人戦 (オンライン) で、エナジーソードによるトリプル キルを達成しよう",
+                    "ko-KR": "온라인 랭킹 FFA 게임에서 에너지 검으로 적 세 명을 각각 4초 이내에 사살하십시오.",
+                    "pt-PT": "Marque ponto com Morte Tripla com a espada em lista de jogos por rank. liberada para todos (Online).",
+                    "zh-CHT": "在排名的自由參加遊戲清單 (線上) 中，用能量劍三殺得分。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "32.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "de-DE": "Mongoose-Massaker",
+                    "en-US": "Mongoose Mowdown",
+                    "es-ES": "Festival Mongoose",
+                    "fr-FR": "De vie à très plat",
+                    "it-IT": "Falciatrice Mongoose",
+                    "ja-JP": "マングース キル",
+                    "ko-KR": "몽구스 학살",
+                    "pt-PT": "Dizimação Mongoose",
+                    "zh-CHT": "貓鼬號達人"
+                },
+                "description": {
+                    "de-DE": "Feind mit Mongoose in beliebigen Ranglisten-\"Jeder gg. Jeden\"-Spielliste niedergemäht.",
+                    "en-US": "Splattered an enemy with the mongoose in a ranked free for all playlist.",
+                    "es-ES": "Has destrozado a un enemigo con el Mongoose en una refriega clasificatoria abierta a todos.",
+                    "fr-FR": "Vous avez écrasé un ennemi avec la mangouste en sélection chacun pour soi avec classement.",
+                    "it-IT": "Hai schiacciato un nemico con il Mongoose in un elenco partite tutti contro tutti classificate.",
+                    "ja-JP": "ランク プレイリストの個人戦で、マングースで敵を轢いて 1 キル達成",
+                    "ko-KR": "랭킹 FFA 게임에서 몽구스로 적을 깔아 죽였습니다.",
+                    "pt-PT": "Atropelou um inimigo com o Mongoose em lista de jogos por ranking liberada para todos.",
+                    "zh-CHT": "在排名的自由參加遊戲清單中，用貓鼬號輾過敵人。"
+                },
+                "howto": {
+                    "de-DE": "Feind mit Mongoose in beliebigen Ranglisten-\"Jeder gg. Jeden\"-Spielliste niedermähen.",
+                    "en-US": "Splatter an enemy with the mongoose in a ranked free for all playlist (Online).",
+                    "es-ES": "Destroza a un enemigo con el Mongoose en una refriega clasificatoria abierta a todos (en línea).",
+                    "fr-FR": "Écrasez un ennemi avec la mangouste en sélection chacun pour soi avec classement (en ligne).",
+                    "it-IT": "Schiaccia un nemico con il Mongoose in un elenco partite tutti contro tutti classificate (online).",
+                    "ja-JP": "ランク プレイリストの個人戦 (オンライン) で、マングースで敵を轢いて 1 キルを達成しよう",
+                    "ko-KR": "온라인 랭킹 FFA 게임에서 몽구스로 적을 깔아 죽이십시오.",
+                    "pt-PT": "Atropele um inimigo com o mongoose em lista de jogos por ranking liberada para todos (Online).",
+                    "zh-CHT": "在排名的自由參加遊戲清單 (線上) 中，用貓鼬號輾過敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "33.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "Nah und persönlich",
+                    "en-US": "Up Close and Personal",
+                    "es-ES": "Personal y a corta distancia",
+                    "fr-FR": "Destruction rapprochée",
+                    "it-IT": "Una questione personale",
+                    "ja-JP": "接近戦の極意",
+                    "ko-KR": "밀착 취재",
+                    "pt-PT": "Perto e Íntimo",
+                    "zh-CHT": "你儂我儂"
+                },
+                "description": {
+                    "de-DE": "5 Feinde durch Nahkampf oder Mordanschlag in Ranglisten-\"Jeder gg. Jeden\"-Spielliste eliminiert.",
+                    "en-US": "Killed 5 enemies by melee or assassination in a ranked free for all playlist.",
+                    "es-ES": "Has matado a 5 enemigos en c. a c. o por asesinato en una refriega abierta a todos.",
+                    "fr-FR": "5 ennemis tués en combat rapproché ou par assassinat en sélection chacun pour soi avec classement.",
+                    "it-IT": "Uccisi 5 nemici in corpo a corpo o con assassinio in elenco partite tutti contro tutti classificate.",
+                    "ja-JP": "ランク プレイリストの個人戦で、近接攻撃またはアサシネーションで 5 キル達成",
+                    "ko-KR": "랭킹 FFA 게임에서 근접 공격이나 암살로 적 5명을 사살했습니다.",
+                    "pt-PT": "Matou 5 inimigos com corpo-a-corpo ou assassinato em lista de jogos por ranking liberada para todos.",
+                    "zh-CHT": "在排名的自由參加遊戲清單中，以近戰或暗殺，殺死 5 個敵人。"
+                },
+                "howto": {
+                    "de-DE": "5 Feinde durch Nahkampf oder Mordanschlag in Ranglisten-\"Jeder gg. Jeden\"-Spielliste eliminieren. ",
+                    "en-US": "Kill 5 enemies by melee or assassination in a ranked free for all playlist (Online). ",
+                    "es-ES": "Mata a 5 enemigos en c. a c. o por asesinato en una refriega abierta a todos (en línea). ",
+                    "fr-FR": "Tuez 5 ennemis en mêlée ou assassinat en sélection chacun pour soi avec classement (en ligne). ",
+                    "it-IT": "Uccidi 5 nemici in corpo a corpo o con assassinio in elenco part. tutti contro tutti clas. (online).",
+                    "ja-JP": "ランク プレイリストの個人戦 (オンライン) で、近接攻撃またはアサシネーションで 5 キルを達成しよう",
+                    "ko-KR": "온라인 랭킹 FFA 게임에서 적 5명을 근접 공격이나 암살로 사살하십시오. ",
+                    "pt-PT": "Mate 5 inimigos com corpo-a-corpo ou assass. em lista de jogos por rank. lib. para todos (Online).",
+                    "zh-CHT": "在排名的自由參加遊戲清單 (線上) 中，以近戰或刺殺殺死 5 個敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "34.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "Fürchte den rosa Nebel",
+                    "en-US": "Fear the Pink Mist",
+                    "es-ES": "Teme a la niebla rosa",
+                    "fr-FR": "La mort en rose",
+                    "it-IT": "Gli aghi fanno male",
+                    "ja-JP": "ニードラー キル",
+                    "ko-KR": "분홍색 안개의 공포",
+                    "pt-PT": "Receie a Névoa Rosa",
+                    "zh-CHT": "可怕的粉紅煙霧"
+                },
+                "description": {
+                    "de-DE": "5 Feinde mit Nadelwerfer in Ranglisten-\"Jeder gg. Jeden\"-Spielliste oder Kampagne eliminiert. ",
+                    "en-US": "Killed 5 enemies with the needler in a ranked free for all playlist or in campaign. ",
+                    "es-ES": "Has matado a 5 enemigos con el aguijoneador en una refriega clasificatoria abierta a todos. ",
+                    "fr-FR": "Vous avez tué 5 ennemis au needler en sélection chacun pour soi avec classement ou en campagne. ",
+                    "it-IT": "Uccisi 5 nemici con pistola ad aghi in elenco partite tutti contro tutti class. o nella Campagna. ",
+                    "ja-JP": "ランク プレイリストの個人戦またはキャンペーンで、ニードラーによる 5 キル達成",
+                    "ko-KR": "랭킹 FFA 게임이나 캠페인에서 니들러로 적 5명을 사살했습니다. ",
+                    "pt-PT": "Matou 5 inimigos com o needler em lista de jogos por ranking liberada para todos ou em campanha. ",
+                    "zh-CHT": "在排名的自由參加遊戲清單或戰役中，用刺針槍殺死 5 個敵人。"
+                },
+                "howto": {
+                    "de-DE": "5 Feinde mit Nadelwerfer in Ranglisten-\"Jeder gg. Jeden\"-Spielliste oder Kampagne eliminieren. ",
+                    "en-US": "Kill 5 enemies with the needler in a ranked free for all playlist or in campaign. ",
+                    "es-ES": "Mata a 5 enemigos con el aguijoneador en una refriega clasificatoria abierta a todos (en línea). ",
+                    "fr-FR": "Tuez 5 ennemis avec le needler en sélection chacun pour soi avec classement ou en campagne. ",
+                    "it-IT": "Uccidi 5 nemici con pistola ad aghi in elenco partite tutti contro tutti class. o nella Campagna. ",
+                    "ja-JP": "ランク プレイリストの個人戦またはキャンペーンで、ニードラーによる 5 キルを達成しよう",
+                    "ko-KR": "랭킹 FFA 게임이나 캠페인에서 니들러로 적 5명을 사살하십시오. ",
+                    "pt-PT": "Mate 5 inimigos com o needler em lista de jogos por ranking liberada para todos ou em campanha. ",
+                    "zh-CHT": "在排名的自由參加遊戲清單或戰役中，用刺針槍殺死 5 個敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "35.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "de-DE": "Kopftreffer-Strecke",
+                    "en-US": "Headshot Honcho",
+                    "es-ES": "Campeón de disparos en la cabeza",
+                    "fr-FR": "Mort de tête",
+                    "it-IT": "Il re del colpo alla testa",
+                    "ja-JP": "ヘッドショット番長",
+                    "ko-KR": "헤드샷 명수",
+                    "pt-PT": "Chefe dos Tiros na Cabeça",
+                    "zh-CHT": "爆頭大師"
+                },
+                "description": {
+                    "de-DE": "10 Feinde mit Kopftreffern in Ranglisten-\"Jeder gg. Jeden\"-Spielliste oder Kampagne eliminiert.",
+                    "en-US": "Killed 10 enemies with headshots in a ranked free for all playlist or in campaign.",
+                    "es-ES": "Has matado a 10 enemigos por disparos en la cabeza en una refriega clasificatoria abierta a todos.",
+                    "fr-FR": "Vous avez tué 10 ennemis par headshot en sélection chacun pour soi avec classement ou en campagne.",
+                    "it-IT": "Uccisi 10 nemici con un colpo alla testa in elenco part. tutti contro tutti class. o nella Campagna.",
+                    "ja-JP": "ランク プレイリストの個人戦またはキャンペーンで、10 ヘッドショット キル達成",
+                    "ko-KR": "랭킹 FFA 게임이나 캠페인에서 헤드샷으로 적 10명을 사살했습니다.",
+                    "pt-PT": "Matou 10 inimigos com tiros na cabeça em lista de jogos por ranking lib. para todos ou em campanha.",
+                    "zh-CHT": "在排名的自由參加遊戲清單或戰役中，爆頭殺死10 個敵人。"
+                },
+                "howto": {
+                    "de-DE": "10 Feinde mit Kopftreffern in Ranglisten-\"Jeder gg. Jeden\"-Spielliste oder Kampagne eliminieren.",
+                    "en-US": "Kill 10 enemies with headshots in a ranked free for all playlist or in campaign.",
+                    "es-ES": "Mata a 10 en. por disp. en la cabeza en una refriega clasificatoria abierta a todos o en campaña.",
+                    "fr-FR": "Tuez 10 ennemis avec des tirs à la tête en sélection chacun pour soi avec classement ou en campagne.",
+                    "it-IT": "Uccidi 10 nemici con un colpo alla testa in elenco part. tutti contro tutti class. o nella Campagna.",
+                    "ja-JP": "ランク プレイリストの個人戦またはキャンペーンで、10 ヘッドショット キルを達成しよう",
+                    "ko-KR": "랭킹 FFA 게임이나 캠페인에서 적 10명을 헤드샷으로 사살하십시오.",
+                    "pt-PT": "Mate 10 inimigos com tiros na cabeça em lista de jogos por ranking lib. para todos ou em campanha.",
+                    "zh-CHT": "在排名的自由參加遊戲清單或戰役中，以暴頭方式殺死 10 個敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "36.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "Gebrauchtwagenverkäufer",
+                    "en-US": "Used Car Salesman",
+                    "es-ES": "Vendedor de autos usados",
+                    "fr-FR": "Vendeur de voitures d'occasion",
+                    "it-IT": "Venditore di auto usate",
+                    "ja-JP": "中古車セールスマン",
+                    "ko-KR": "중고차 판매원",
+                    "pt-PT": "Vendedor de Carros Usados",
+                    "zh-CHT": "二手車業務員"
+                },
+                "description": {
+                    "de-DE": "Mit 3 Feinden besetztes Fahrzeug in Ranglisten-Spielliste oder Kampagne zerstört.",
+                    "en-US": "Destroyed a vehicle that has three enemies in it in a ranked playlist or in campaign.",
+                    "es-ES": "Has destruido un vehículo con tres enemigos dentro en una refriega clasificatoria abierta a todos.",
+                    "fr-FR": "Vous avez détruit un véhicule avec trois ennemis à bord en sélection avec classement ou en campagne.",
+                    "it-IT": "Hai distrutto un veicolo con 3 nemici a bordo in un elenco partite classificate o in una Campagna.",
+                    "ja-JP": "任意のランク プレイリストまたはキャンペーンで、敵 3 体を乗せた乗り物を破壊",
+                    "ko-KR": "랭킹 게임이나 캠페인에서 적 세 명이 탑승한 차량을 파괴했습니다.",
+                    "pt-PT": "Destruiu um veículo com 3 inimigos em lista de jogos por ranking liberada para todos ou em campanha.",
+                    "zh-CHT": "在排名的遊戲清單或戰役中，摧毀載有三名敵人的載具。"
+                },
+                "howto": {
+                    "de-DE": "Mit 3 Feinden besetztes Fahrzeug in Ranglisten-Spielliste oder Kampagne zerstören.",
+                    "en-US": "Destroy a vehicle that has three enemies in it in a ranked playlist or in campaign.",
+                    "es-ES": "Destruye un vehículo con tres enemigos dentro en una refriega abierta a todos o en campaña.",
+                    "fr-FR": "Détruisez un véhicule avec trois ennemis à son bord en sélection avec classement ou en campagne.",
+                    "it-IT": "Distruggi un veicolo con tre nemici a bordo in un elenco partite classificate o in una Campagna.",
+                    "ja-JP": "任意のランク プレイリストまたはキャンペーンで、敵 3 体を乗せた乗り物を破壊しよう",
+                    "ko-KR": "랭킹 게임이나 캠페인에서 적 세 명이 탑승한 차량을 파괴하십시오.",
+                    "pt-PT": "Destrua um veículo com 3 inimigos dentro em lista de jogos por ranking ou em campanha.",
+                    "zh-CHT": "在排名的遊戲清單或戰役中，摧毀載有三個敵人的載具。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "37.png"
+        },
+        "51": {
+            "text": {
+                "name": {
+                    "de-DE": "Marathon-Mann",
+                    "en-US": "Marathon Man",
+                    "es-ES": "Maratón",
+                    "fr-FR": "Marathon Man",
+                    "it-IT": "Maratoneta",
+                    "ja-JP": "マラソン マン",
+                    "ko-KR": "마라톤 맨",
+                    "pt-PT": "O Maratonista",
+                    "zh-CHT": "馬拉松冠軍"
+                },
+                "description": {
+                    "de-DE": "Auf alle Terminals in der Kampagne zugegriffen.",
+                    "en-US": "Accessed all Terminals in the Campaign.",
+                    "es-ES": "Has accedido a todas las terminales de la campaña.",
+                    "fr-FR": "A accédé à tous les terminaux de la campagne.",
+                    "it-IT": "Hai raggiunto tutti i terminali della Campagna.",
+                    "ja-JP": "キャンペーンですべてのターミナルにアクセス",
+                    "ko-KR": "캠페인에서 모든 터미널에 접속했습니다.",
+                    "pt-PT": "Acessou todos os terminais na Campanha.",
+                    "zh-CHT": "在戰役中，閱讀完所有終端機的資訊。"
+                },
+                "howto": {
+                    "de-DE": "Alle Terminals in der Kampagne finden und darauf zugreifen.",
+                    "en-US": "Locate and access all Terminals in the Campaign.",
+                    "es-ES": "Localiza y accede a todas las terminales en la campaña.",
+                    "fr-FR": "Localisez et accédez à tous les terminaux de la campagne.",
+                    "it-IT": "Individua tutti i terminali della Campagna e raggiungili.",
+                    "ja-JP": "キャンペーンで、すべてのターミナルを見つけてアクセスしよう",
+                    "ko-KR": "캠페인에서 모든 터미널에 접속하십시오.",
+                    "pt-PT": "Localize e acesse todos os terminais na Campanha.",
+                    "zh-CHT": "在戰役中，找到並讀取所有終端機的資訊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "40",
+            "imageId": "38.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "de-DE": "BESTER SPIELER",
+                    "en-US": "MVP",
+                    "es-ES": "JMV",
+                    "fr-FR": "MVP",
+                    "it-IT": "MVP",
+                    "ja-JP": "MVP",
+                    "ko-KR": "MVP",
+                    "pt-PT": "JMV",
+                    "zh-CHT": "MVP"
+                },
+                "description": {
+                    "de-DE": "\"BESTER SPIELER\" in Ranglisten-Spielliste erzielt.",
+                    "en-US": "Earned the MVP in a ranked playlist.",
+                    "es-ES": "Has conseguido ser el JMV en una refriega clasificatoria abierta a todos.",
+                    "fr-FR": "A gagné le titre de MVP (most valuable player) en sélection avec classement.",
+                    "it-IT": "Hai ottenuto il titolo di MVP in un elenco partite classificate.",
+                    "ja-JP": "任意のランク プレイリストで MVP を獲得",
+                    "ko-KR": "랭킹 게임에서 MVP가 됐습니다.",
+                    "pt-PT": "Ganhou o JMV em uma lista de jogos por ranking.",
+                    "zh-CHT": "在排名遊戲清單中，贏得 MVP。"
+                },
+                "howto": {
+                    "de-DE": "\"BESTER SPIELER\" in Ranglisten-Spielliste (online) erzielen.",
+                    "en-US": "Earn the MVP in any ranked playlist (Online).",
+                    "es-ES": "Consigue ser el JMV en una refriega clasificatoria abierta a todos (en línea).",
+                    "fr-FR": "Gagnez le titre de MVP (most valuable player) en sélection avec classement (en ligne).",
+                    "it-IT": "Ottieni il titolo di MVP in un elenco partite classificate (online).",
+                    "ja-JP": "任意のランク プレイリスト (オンライン) で MVP を獲得しよう",
+                    "ko-KR": "온라인 랭킹 게임에서 MVP가 되십시오.",
+                    "pt-PT": "Ganhe  JMV em qualquer lista de jogos por ranking (Online).",
+                    "zh-CHT": "在排名遊戲清單 (線上) 中，贏得 MVP。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "39.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "de-DE": "Vielleicht nächstes Mal, Kumpel",
+                    "en-US": "Maybe Next Time Buddy",
+                    "es-ES": "Quizás la próxima vez, camarada.",
+                    "fr-FR": "Perdu, essaie encore",
+                    "it-IT": "La prossima volta, amico",
+                    "ja-JP": "セカンド ライド",
+                    "ko-KR": "다음을 기약하지, 친구",
+                    "pt-PT": "Talvez da próxima vez, cara",
+                    "zh-CHT": "下次吧老兄！"
+                },
+                "description": {
+                    "de-DE": "Dasselbe Fahrzeug in \"Jeder gg. Jeden\"-Spielliste in 10 Sekunden nach Entern selbst geentert.",
+                    "en-US": "Boarded the same vehicle within 10 seconds after being boarded in any free for all playlist.",
+                    "es-ES": "Has abordado el mismo vehículo con 10 segs. o menos de dif. en una lista de juego abierta a todos.",
+                    "fr-FR": "A abordé un véhicule moins de 10 s après en avoir été éjecté en sélection chacun pour soi.",
+                    "it-IT": "Sei tornato entro 10 sec. sul veicolo su cui eri già salito in elenco part. tutti contro tutti",
+                    "ja-JP": "任意の個人戦プレイリストで、乗り物から降りた後、10 秒以内に同じ乗り物に再搭乗",
+                    "ko-KR": "온라인 FFA 게임에서 10초 내에 같은 차량에 두 번 탑승했습니다.",
+                    "pt-PT": "Entrou no mesmo veículo com 10 segundos de diferença em qualquer lista de jogos liberada para todos.",
+                    "zh-CHT": "在自由參加遊戲清單中，在 10 秒鐘內登上同一種載具。"
+                },
+                "howto": {
+                    "de-DE": "Dasselbe Fahrzeug in \"Jeder gg. Jeden\"-Spielliste (online) in 10 Sekunden nach Entern selbst entern.",
+                    "en-US": "Board the same vehicle within 10 seconds after being boarded in any free for all playlist (Online).",
+                    "es-ES": "Aborda el vehículo con 10 segs. o menos de dif. en una lista de juego abierta a todos (en línea).",
+                    "fr-FR": "Abordez un véhicule moins de 10 s après en avoir été éjecté en sélection chacun pour soi (en ligne).",
+                    "it-IT": "Torna entro 10 sec. sul veicolo su cui eri già salito in elenco part. tutti contro tutti (online).",
+                    "ja-JP": "任意の個人戦プレイリスト (オンライン) で、乗り物から降りた後、10 秒以内に同じ乗り物に再搭乗しよう",
+                    "ko-KR": "온라인 FFA 게임에서 10초 내에 같은 차량에 두 번 탑승하십시오.",
+                    "pt-PT": "Entrar no mesmo veículo com 10 seg. de diferença em qq. lista de jogos liberada para todos (Online).",
+                    "zh-CHT": "在自由參加遊戲清單 (線上) 中，在 10 秒鐘內登上同一種載具。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "40.png"
+        },
+        "54": {
+            "text": {
+                "name": {
+                    "de-DE": "Guerilla",
+                    "en-US": "Guerilla",
+                    "es-ES": "Guerrilla",
+                    "fr-FR": "Guérilla",
+                    "it-IT": "Guerriglia",
+                    "ja-JP": "ゲリラ",
+                    "ko-KR": "게릴라",
+                    "pt-PT": "Guerilha",
+                    "zh-CHT": "游擊隊"
+                },
+                "description": {
+                    "de-DE": "Über 15.000 Punkte im Kampagnen-Meta-Spiel der ersten Mission erzielt.",
+                    "en-US": "Earned over 15,000 points in the Campaign meta-game on the first mission.",
+                    "es-ES": "Has obtenido más de 15.000 puntos en el meta-juego de la campaña durante la primera misión.",
+                    "fr-FR": "A marqué plus de 15.000 points au cours de la première mission du metagame de la campagne.",
+                    "it-IT": "Hai ottenuto più di 15.000 punti nella partita della Campagna, nella prima missione.",
+                    "ja-JP": "キャンペーンの最初のミッションで 15,000 ポイント以上獲得",
+                    "ko-KR": "캠페인의 첫 번째 미션에서 15,000점을 획득했습니다.",
+                    "pt-PT": "Ganhou mais de 15.000 pontos no meta-jogo de Campanha na 1a. missão.",
+                    "zh-CHT": "在第一個任務中的戰役變化競賽，贏得超過 15,000 分。"
+                },
+                "howto": {
+                    "de-DE": "Über 15.000 Punkte im Kampagnen-Meta-Spiel der ersten Mission erzielen.",
+                    "en-US": "Score over 15,000 points in the Campaign meta-game on the first mission.",
+                    "es-ES": "Gana más de 15.000 puntos en el meta-juego de la campaña durante la primera misión.",
+                    "fr-FR": "Marquez plus de 15.000 points au cours de la première mission du metagame de la campagne.",
+                    "it-IT": "Ottieni più di 15.000 punti nella partita della Campagna, nella prima missione.",
+                    "ja-JP": "キャンペーンの最初のミッションで 15,000 ポイント以上獲得しよう",
+                    "ko-KR": "캠페인의 첫 번째 미션에서 15,000점을 획득하십시오.",
+                    "pt-PT": "Marque mais de 15.000 pontos no meta-jogo de Campanha na 1a. missão.",
+                    "zh-CHT": "在第一個任務中的戰役變化競賽，贏得超過 15,000 分。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "41.png"
+        },
+        "55": {
+            "text": {
+                "name": {
+                    "de-DE": "Dämon",
+                    "en-US": "Demon",
+                    "es-ES": "Demonio",
+                    "fr-FR": "Démon",
+                    "it-IT": "Demone",
+                    "ja-JP": "悪魔",
+                    "ko-KR": "데몬",
+                    "pt-PT": "Demônio",
+                    "zh-CHT": "惡魔"
+                },
+                "description": {
+                    "de-DE": "Über 15.000 Punkte im Kampagnen-Meta-Spiel der zweiten Mission erzielt.",
+                    "en-US": "Earned over 15,000 points in the Campaign meta-game on the second mission.",
+                    "es-ES": "Has obtenido más de 15.000 puntos en el meta-juego de la campaña durante la segunda misión.",
+                    "fr-FR": "A marqué plus de 15.000 points au cours de la deuxième mission du metagame de la campagne.",
+                    "it-IT": "Hai ottenuto più di 15.000 punti nella partita della Campagna, nella seconda missione.",
+                    "ja-JP": "キャンペーンの第 2 のミッションで 15,000 ポイント以上獲得",
+                    "ko-KR": "캠페인의 두 번째 미션에서 15,000점을 획득했습니다.",
+                    "pt-PT": "Ganhou mais de 15.000 pontos no meta-jogo de Campanha na 2a. missão.",
+                    "zh-CHT": "在第二個任務中的戰役變化競賽，贏得超過 15,000 分。"
+                },
+                "howto": {
+                    "de-DE": "Über 15.000 Punkte im Kampagnen-Meta-Spiel der zweiten Mission erzielen.",
+                    "en-US": "Score over 15,000 points in the Campaign meta-game on the second mission.",
+                    "es-ES": "Gana más de 15.000 puntos en el meta-juego de la campaña durante la segunda misión.",
+                    "fr-FR": "Marquez plus de 15.000 points au cours de la deuxième mission du metagame de la campagne.",
+                    "it-IT": "Ottieni più di 15.000 punti nella partita della Campagna, nella seconda missione.",
+                    "ja-JP": "キャンペーンの第 2 のミッションで 15,000 ポイント以上獲得しよう",
+                    "ko-KR": "캠페인의 두 번재 미션에서 15,000점을 획득하십시오.",
+                    "pt-PT": "Marque mais de 15.000 pontos no meta-jogo de Campanha na 2a. missão.",
+                    "zh-CHT": "在第二個任務中的戰役變化競賽，贏得超過 15,000 分。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "42.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "de-DE": "Kavalier",
+                    "en-US": "Cavalier",
+                    "es-ES": "Caballero",
+                    "fr-FR": "Cavalier",
+                    "it-IT": "Cavaliere",
+                    "ja-JP": "キャバリエ",
+                    "ko-KR": "기사도",
+                    "pt-PT": "Cavalheiro",
+                    "zh-CHT": "遊騎兵"
+                },
+                "description": {
+                    "de-DE": "Über 15.000 Punkte im Kampagnen-Meta-Spiel der dritten Mission erzielt.",
+                    "en-US": "Earned over 15,000 points in the Campaign meta-game on the third mission.",
+                    "es-ES": "Has obtenido más de 15.000 puntos en el meta-juego de la campaña durante la tercera misión.",
+                    "fr-FR": "A marqué plus de 15.000 points au cours de la troisième mission du metagame de la campagne.",
+                    "it-IT": "Hai ottenuto più di 15.000 punti nella partita della Campagna, nella terza missione.",
+                    "ja-JP": "キャンペーンの第 3 のミッションで 15,000 ポイント以上獲得",
+                    "ko-KR": "캠페인의 세 번째 미션에서 15,000점을 획득했습니다.",
+                    "pt-PT": "Ganhou mais de 15.000 pontos no meta-jogo de Campanha na 3a. missão.",
+                    "zh-CHT": "在第三個任務中的戰役變化競賽，贏得超過 15,000 分。"
+                },
+                "howto": {
+                    "de-DE": "Über 15.000 Punkte im Kampagnen-Meta-Spiel der dritten Mission erzielen.",
+                    "en-US": "Score over 15,000 points in the Campaign meta-game on the third mission.",
+                    "es-ES": "Gana más de 15.000 puntos en el meta-juego de la campaña durante la tercera misión.",
+                    "fr-FR": "Marquez plus de 15.000 points au cours de la troisième mission du metagame de la campagne.",
+                    "it-IT": "Ottieni più di 15.000 punti nella partita della Campagna, nella terza missione.",
+                    "ja-JP": "キャンペーンの第 3 のミッションで 15,000 ポイント以上獲得しよう",
+                    "ko-KR": "캠페인의 세 번째 미션에서 15,000점을 획득하십시오.",
+                    "pt-PT": "Marque mais de 15.000 pontos no meta-jogo de Campanha na 3a. missão.",
+                    "zh-CHT": "在第三個任務中的戰役變化競賽，贏得超過 15,000 分。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "43.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "de-DE": "Askari",
+                    "en-US": "Askar",
+                    "es-ES": "Askar",
+                    "fr-FR": "Askar",
+                    "it-IT": "Massacratore",
+                    "ja-JP": "アスカル",
+                    "ko-KR": "아스카",
+                    "pt-PT": "Askar",
+                    "zh-CHT": "艾斯卡"
+                },
+                "description": {
+                    "de-DE": "Über 15.000 Punkte im Kampagnen-Meta-Spiel der vierten Mission erzielt.",
+                    "en-US": "Earned over 15,000 points in the Campaign meta-game on the fourth mission.",
+                    "es-ES": "Has obtenido más de 15.000 puntos en el meta-juego de la campaña durante la cuarta misión.",
+                    "fr-FR": "A marqué plus de 15.000 points au cours de la quatrième mission du metagame de la campagne.",
+                    "it-IT": "Hai ottenuto più di 15.000 punti nella partita della Campagna, nella quarta missione.",
+                    "ja-JP": "キャンペーンの第 4 のミッションで 15,000 ポイント以上獲得",
+                    "ko-KR": "캠페인의 네 번째 미션에서 15,000점을 획득했습니다.",
+                    "pt-PT": "Ganhou mais de 15.000 pontos no meta-jogo de Campanha na 4a. missão.",
+                    "zh-CHT": "在第四個任務中的戰役變化競賽，贏得超過 15,000 分。"
+                },
+                "howto": {
+                    "de-DE": "Über 15.000 Punkte im Kampagnen-Meta-Spiel der vierten Mission erzielen.",
+                    "en-US": "Score over 15,000 points in the Campaign meta-game on the fourth mission.",
+                    "es-ES": "Gana más de 15.000 puntos en el meta-juego de la campaña durante la cuarta misión.",
+                    "fr-FR": "Marquez plus de 15.000 points au cours de la quatrième mission du metagame de la campagne.",
+                    "it-IT": "Ottieni più di 15.000 punti nella partita della Campagna, nella quarta missione.",
+                    "ja-JP": "キャンペーンの第 4 のミッションで 15,000 ポイント以上獲得しよう",
+                    "ko-KR": "캠페인의 네 번째 미션에서 15,000점을 획득하십시오.",
+                    "pt-PT": "Marque mais de 15.000 pontos no meta-jogo de Campanha na 4a. missão.",
+                    "zh-CHT": "在第四個任務中的戰役變化競賽，贏得超過 15,000 分。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "44.png"
+        },
+        "58": {
+            "text": {
+                "name": {
+                    "de-DE": "Kammerjäger",
+                    "en-US": "Exterminator",
+                    "es-ES": "Exterminador",
+                    "fr-FR": "Exterminator",
+                    "it-IT": "Sterminatore",
+                    "ja-JP": "エクスターミネーター",
+                    "ko-KR": "파괴자",
+                    "pt-PT": "Exterminador",
+                    "zh-CHT": "終結者"
+                },
+                "description": {
+                    "de-DE": "Über 15.000 Punkte im Kampagnen-Meta-Spiel der fünften Mission erzielt.",
+                    "en-US": "Earned over 15,000 points in the Campaign meta-game on the fifth mission.",
+                    "es-ES": "Has obtenido más de 15.000 puntos en el meta-juego de la campaña durante la quinta misión.",
+                    "fr-FR": "A marqué plus de 15.000 points au cours de la cinquième mission du metagame de la campagne.",
+                    "it-IT": "Hai ottenuto più di 15.000 punti nella partita della Campagna, nella quinta missione.",
+                    "ja-JP": "キャンペーンの第 5 のミッションで 15,000 ポイント以上獲得",
+                    "ko-KR": "캠페인의 다섯 번째 미션에서 15,000점을 획득했습니다.",
+                    "pt-PT": "Ganhou mais de 15.000 pontos no meta-jogo de Campanha na 5a. missão.",
+                    "zh-CHT": "在第五個任務中的戰役變化競賽，贏得超過 15,000 分。"
+                },
+                "howto": {
+                    "de-DE": "Über 15.000 Punkte im Kampagnen-Meta-Spiel der fünften Mission erzielen.",
+                    "en-US": "Score over 15,000 points in the Campaign meta-game on the fifth mission.",
+                    "es-ES": "Gana más de 15.000 puntos en el meta-juego de la campaña durante la quinta misión.",
+                    "fr-FR": "Marquez plus de 15.000 points au cours de la cinquième mission du metagame de la campagne.",
+                    "it-IT": "Ottieni più di 15.000 punti nella partita della Campagna, nella quinta missione.",
+                    "ja-JP": "キャンペーンの第 5 のミッションで 15,000 ポイント以上獲得しよう",
+                    "ko-KR": "캠페인의 다섯 번째 미션에서 15,000점을 획득하십시오.",
+                    "pt-PT": "Marque mais de 15.000 pontos no meta-jogo de Campanha na 5a. missão.",
+                    "zh-CHT": "在第五個任務中的戰役變化競賽，贏得超過 15,000 分。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "45.png"
+        },
+        "59": {
+            "text": {
+                "name": {
+                    "de-DE": "Ranger",
+                    "en-US": "Ranger",
+                    "es-ES": "Explorador",
+                    "fr-FR": "Ranger",
+                    "it-IT": "Ranger",
+                    "ja-JP": "レンジャー",
+                    "ko-KR": "유격대",
+                    "pt-PT": "Soldado da Tropa de Choque",
+                    "zh-CHT": "特種部隊"
+                },
+                "description": {
+                    "de-DE": "Über 50.000 Punkte im Kampagnen-Meta-Spiel der sechsten Mission erzielt.",
+                    "en-US": "Earned over 50,000 points in the Campaign meta-game on the sixth mission.",
+                    "es-ES": "Has obtenido más de 50.000 puntos en el meta-juego de la campaña durante la sexta misión.",
+                    "fr-FR": "A marqué plus de 50.000 points au cours de la sixième mission du metagame de la campagne.",
+                    "it-IT": "Hai ottenuto più di 50.000 punti nella partita della Campagna, nella sesta missione.",
+                    "ja-JP": "キャンペーンの第 6 のミッションで 50,000 ポイント以上獲得",
+                    "ko-KR": "캠페인의 여섯 번째 미션에서 50,000점을 획득했습니다.",
+                    "pt-PT": "Ganhou mais de 50.000 pontos no meta-jogo de Campanha na 6a. missão.",
+                    "zh-CHT": "在第六個任務中的戰役變化競賽，贏得超過 50,000 分。"
+                },
+                "howto": {
+                    "de-DE": "Über 50.000 Punkte im Kampagnen-Meta-Spiel der sechsten Mission erzielen.",
+                    "en-US": "Score over 50,000 points in the Campaign meta-game on the sixth mission.",
+                    "es-ES": "Gana más de 50.000 puntos en el meta-juego de la campaña durante la sexta misión.",
+                    "fr-FR": "Marquez plus de 50.000 points au cours de la sixième mission du metagame de la campagne.",
+                    "it-IT": "Ottieni più di 50.000 punti nella partita della Campagna, nella sesta missione.",
+                    "ja-JP": "キャンペーンの第 6 のミッションで 50,000 ポイント以上獲得しよう",
+                    "ko-KR": "캠페인의 여섯 번째 미션에서 50,000점을 획득하십시오.",
+                    "pt-PT": "Marque mais de 50.000 pontos no meta-jogo de Campanha na 6a. missão.",
+                    "zh-CHT": "在第六個任務中的戰役變化競賽，贏得超過 50,000 分。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "46.png"
+        },
+        "60": {
+            "text": {
+                "name": {
+                    "de-DE": "Avantgarde",
+                    "en-US": "Vanguard",
+                    "es-ES": "Vanguardia",
+                    "fr-FR": "Porte-étendard",
+                    "it-IT": "Pioniere",
+                    "ja-JP": "バンガード",
+                    "ko-KR": "선봉대",
+                    "pt-PT": "Vanguarda",
+                    "zh-CHT": "先鋒"
+                },
+                "description": {
+                    "de-DE": "Über 50.000 Punkte im Kampagnen-Meta-Spiel der siebten Mission erzielt.",
+                    "en-US": "Earned over 50,000 points in the Campaign meta-game on the seventh mission.",
+                    "es-ES": "Has obtenido más de 50.000 puntos en el meta-juego de la campaña durante la séptima misión.",
+                    "fr-FR": "A marqué plus de 50.000 points au cours de la septième mission du metagame de la campagne.",
+                    "it-IT": "Hai ottenuto più di 50.000 punti nella partita della Campagna, nella settima missione.",
+                    "ja-JP": "キャンペーンの第 7 のミッションで 50,000 ポイント以上獲得",
+                    "ko-KR": "캠페인의 일곱 번째 미션에서 50,000점을 획득했습니다.",
+                    "pt-PT": "Ganhou mais de 50.000 pontos no meta-jogo de Campanha na 7a. missão.",
+                    "zh-CHT": "在第七個任務中的戰役變化競賽，贏得超過 50,000 分。"
+                },
+                "howto": {
+                    "de-DE": "Über 50.000 Punkte im Kampagnen-Meta-Spiel der siebten Mission erzielen.",
+                    "en-US": "Score over 50,000 points in the Campaign meta-game on the seventh mission.",
+                    "es-ES": "Gana más de 50.000 puntos en el meta-juego de la campaña durante la séptima misión.",
+                    "fr-FR": "Marquez plus de 50.000 points au cours de la septième mission du metagame de la campagne.",
+                    "it-IT": "Ottieni più di 50.000 punti nella partita della Campagna, nella settima missione.",
+                    "ja-JP": "キャンペーンの第 7 のミッション 50,000 ポイント以上獲得しよう",
+                    "ko-KR": "캠페인의 일곱 번째 미션에서 50,000점을 획득하십시오.",
+                    "pt-PT": "Marque mais de 50.000 pontos no meta-jogo de Campanha na 7a. missão.",
+                    "zh-CHT": "在第七個任務中的戰役變化競賽，贏得超過 50,000 分。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "47.png"
+        },
+        "61": {
+            "text": {
+                "name": {
+                    "de-DE": "Orpheus",
+                    "en-US": "Orpheus",
+                    "es-ES": "Orfeo",
+                    "fr-FR": "Orphée",
+                    "it-IT": "Orpheus",
+                    "ja-JP": "オルフェウス",
+                    "ko-KR": "오르페우스",
+                    "pt-PT": "Orfeu",
+                    "zh-CHT": "奧菲斯"
+                },
+                "description": {
+                    "de-DE": "Über 15.000 Punkte im Kampagnen-Meta-Spiel der achten Mission erzielt.",
+                    "en-US": "Earned over 15,000 points in the Campaign meta-game on the eighth mission.",
+                    "es-ES": "Has obtenido más de 15.000 puntos en el meta-juego de la campaña durante la octava misión.",
+                    "fr-FR": "A marqué plus de 15.000 points au cours de la huitième mission du metagame de la campagne.",
+                    "it-IT": "Hai ottenuto più di 15.000 punti nella partita della Campagna, nell'ottava missione.",
+                    "ja-JP": "キャンペーンの第 8 のミッションで 15,000 ポイント以上獲得",
+                    "ko-KR": "캠페인의 여덟 번째 미션에서 15,000점을 획득했습니다.",
+                    "pt-PT": "Ganhou mais de 15.000 pontos no meta-jogo de Campanha na 8a. missão.",
+                    "zh-CHT": "在第八個任務中的戰役變化競賽，贏得超過 15,000 分。"
+                },
+                "howto": {
+                    "de-DE": "Über 15.000 Punkte im Kampagnen-Meta-Spiel der achten Mission erzielen.",
+                    "en-US": "Score over 15,000 points in the Campaign meta-game on the eighth mission.",
+                    "es-ES": "Gana más de 15.000 puntos en el meta-juego de la campaña durante la octava misión.",
+                    "fr-FR": "Marquez plus de 15.000 points au cours de la huitième mission du metagame de la campagne.",
+                    "it-IT": "Ottieni più di 15.000 punti nella partita della Campagna, nell'ottava missione.",
+                    "ja-JP": "キャンペーンの第 8 のミッションで 15,000 ポイント以上獲得しよう",
+                    "ko-KR": "캠페인의 여덟 번째 미션에서 15,000점을 획득하십시오.",
+                    "pt-PT": "Marque mais de 15.000 pontos no meta-jogo de Campanha na 8a. missão.",
+                    "zh-CHT": "在第八個任務中的戰役變化競賽，贏得超過 15,000 分。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "48.png"
+        },
+        "62": {
+            "text": {
+                "name": {
+                    "de-DE": "Reclaimer",
+                    "en-US": "Reclaimer",
+                    "es-ES": "Reclamador",
+                    "fr-FR": "Dépositaire",
+                    "it-IT": "Attivatore",
+                    "ja-JP": "リクレイマー",
+                    "ko-KR": "주인님",
+                    "pt-PT": "Reclamante",
+                    "zh-CHT": "歸復者"
+                },
+                "description": {
+                    "de-DE": "Über 15.000 Punkte im Kampagnen-Meta-Spiel der letzten Mission erzielt.",
+                    "en-US": "Earned over 15,000 points in the Campaign meta-game on the final mission.",
+                    "es-ES": "Has obtenido más de 15.000 puntos en el meta-juego de la campaña durante la última misión.",
+                    "fr-FR": "A marqué plus de 15.000 points au cours de la dernière mission du metagame de la campagne.",
+                    "it-IT": "Hai ottenuto più di 15.000 punti nella partita della Campagna, nell'ultima missione.",
+                    "ja-JP": "キャンペーンの最後のミッションで 15,000 ポイント以上獲得",
+                    "ko-KR": "캠페인의 최종 미션에서 15,000점을 획득했습니다.",
+                    "pt-PT": "Ganhou mais de 15.000 pontos no meta-jogo de Campanha na missão final.",
+                    "zh-CHT": "在最後任務中的戰役變化競賽，贏得超過 15,000 分。"
+                },
+                "howto": {
+                    "de-DE": "Über 15.000 Punkte im Kampagnen-Meta-Spiel der letzten Mission erzielen.",
+                    "en-US": "Score over 15,000 points in the Campaign meta-game on the final mission.",
+                    "es-ES": "Gana más de 15.000 puntos en el meta-juego de la campaña durante la última misión.",
+                    "fr-FR": "Marquez plus de 15.000 points au cours de la dernière mission du metagame de la campagne.",
+                    "it-IT": "Ottieni più di 15.000 punti nella partita della Campagna, nell'ultima missione.",
+                    "ja-JP": "キャンペーンの最後のミッションで 15,000 ポイント以上獲得しよう",
+                    "ko-KR": "캠페인의 최종 미션에서 15,000점을 획득하십시오.",
+                    "pt-PT": "Marque mais de 15.000 pontos no meta-jogo de Campanha na missão final.",
+                    "zh-CHT": "在最後任務中的戰役變化競賽，贏得超過 15,000 分。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "49.png"
+        },
+        "63": {
+            "text": {
+                "name": {
+                    "de-DE": "Vidmaster Challenge: Jährlich",
+                    "en-US": "Vidmaster Challenge: Annual",
+                    "es-ES": "Desafío de maestro: Anual",
+                    "fr-FR": "Défi Vidmaster : Annuel",
+                    "it-IT": "Sfida Vidmaster - Annuale",
+                    "ja-JP": "Vidmaster チャレンジ: アニュアル",
+                    "ko-KR": "게임 왕 도전: 1주년",
+                    "pt-PT": "Desafio Vidmaster: Anual",
+                    "zh-CHT": "電玩大師挑戰：年度"
+                },
+                "description": {
+                    "de-DE": "Nach 25.09.2008 Halo im 4 Spieler 'LEGENDÄR'-LIVE-Koop mit Eisen und allen in Ghosts beendet.",
+                    "en-US": "After 9/25/08, completed Halo on 4-player Legendary LIVE co-op, with Iron, and everyone in Ghosts.",
+                    "es-ES": "Tras 25/09/08, completado Halo en Legendaria coop. Xbox LIVE 4 jug. con Hierro y todos en Ghosts.",
+                    "fr-FR": "Halo terminé en coop LIVE Lég. 4 joueurs avec Fer et les autres joueurs en ghosts après le 25/09/08.",
+                    "it-IT": "Dopo il 25/09/08, completato Halo in co-op LIVE Leggenda a 4 giocatori, con Ferro e tutti nei Ghost.",
+                    "ja-JP": "2008 年 9/25 以降、Xbox Live での 4 プレイヤー協力プレイで Iron スカルを使用し、全員がゴーストに乗り、難易度レジェンドのキャンペーンをクリア",
+                    "ko-KR": "2008년 9월 25일 이후, 모든 플레이어가 고스트를 탑승하고 강철 해골 옵션을 켠 상태에서 전설 난이도로 4인 LIVE 협동 게임을 완료했습니다.",
+                    "pt-PT": "Depois de 25/09/08, completou Halo Lendário em coop. LIVE c/ 4 jog., com Ferro e todos em Fantasmas.",
+                    "zh-CHT": "2008/9/25 之後，完成 4 人的傳奇地圖合作模式遊戲，並且有鋼鐵骷髏頭，同時每位玩家都駕駛幽靈號。"
+                },
+                "howto": {
+                    "de-DE": "Nach 25.09.2008 Halo im 4 Spieler 'LEGENDÄR'-LIVE-Koop mit Eisen und allen in Ghosts beenden.",
+                    "en-US": "After 9/25/08, complete Halo on 4-player Legendary LIVE co-op, with Iron, and everyone in Ghosts.",
+                    "es-ES": "Tras 25/09/08, completa Halo en Legendaria coop.en Xbox LIVE 4 jug. con Hierro y todos en Ghosts.",
+                    "fr-FR": "Terminer Halo en coop LIVE Lég. 4 joueurs avec Fer et les autres joueurs en ghosts après le 25/9/08.",
+                    "it-IT": "Dopo il 25/09/08, completa Halo in co-op LIVE Leggenda a 4 giocatori, con Ferro e tutti nei Ghost.",
+                    "ja-JP": "2008 年 9/25 以降、Xbox Live での 4 プレイヤー協力プレイで Iron スカルを使用し、全員がゴーストに乗り、難易度レジェンドのキャンペーンをクリアしよう",
+                    "ko-KR": "2008년 9월 25일 이후, 모든 플레이어가 고스트를 탑승하고 강철 해골 옵션을 켠 상태에서 전설 난이도로 4인 LIVE 협동 게임을 완료하십시오.",
+                    "pt-PT": "Depois de 25/09/08, completar Halo Lendário em coop. LIVE c/ 4 jog., com Ferro e todos em Fantasmas.",
+                    "zh-CHT": "2008/9/25 之後，完成 4 人的傳奇地圖合作模式遊戲，並且有鋼鐵骷髏頭，同時每位玩家都駕駛幽靈號。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "0",
+            "imageId": "50.png"
+        },
+        "64": {
+            "text": {
+                "name": {
+                    "de-DE": "Doppel-Double",
+                    "en-US": "Double Double",
+                    "es-ES": "Doble doble",
+                    "fr-FR": "Coups doubles",
+                    "it-IT": "Doppio doppio",
+                    "ja-JP": "ダブル ダブル",
+                    "ko-KR": "더블 더블",
+                    "pt-PT": "Duplo Duplo",
+                    "zh-CHT": "雙雙對對"
+                },
+                "description": {
+                    "de-DE": "Auf 'LEGENDÄR'-Karte zwei doppelte Abschüsse in Ranglisten- oder Geselligkeits-Spiel.",
+                    "en-US": "On a Legendary map, got two Double Kills during a ranked or social match.",
+                    "es-ES": "En un mapa de Legendaria consiguió 2 dobles muertes en una partida igualada o social.",
+                    "fr-FR": "2 doubles frags réalisés en partie sociale ou avec classement sur une carte Légendaire.",
+                    "it-IT": "In una mappa Leggenda, ottenute due doppie uccisioni in una partita classificata o di gruppo.",
+                    "ja-JP": "任意の Legendary マップを使用したランク マッチまたはソーシャル マッチでダブル キルを 2 回達成",
+                    "ko-KR": "전설 지도 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 두 명 잡음을 두 번 성공했습니다.",
+                    "pt-PT": "Em um mapa Lendário, conseguiu duas Mortes Duplas durante um jogo por ranking ou social.",
+                    "zh-CHT": "在傳奇地圖中的排名配對或聯誼配對，獲得兩個雙殺。"
+                },
+                "howto": {
+                    "de-DE": "Auf 'LEGENDÄR'-Karte zwei doppelte Abschüsse in Ranglisten- oder Geselligkeits-Spiel erzielen.",
+                    "en-US": "On a Legendary map, get two Double Kills during any ranked or social match.",
+                    "es-ES": "En un mapa de Legendaria consigue 2 dobles muertes en una partida igualada o social.",
+                    "fr-FR": "Réaliser 2 doubles frags en partie sociale ou avec classement sur une carte Légendaire.",
+                    "it-IT": "In una mappa Leggenda, ottieni due doppie uccisioni in una partita classificata o di gruppo.",
+                    "ja-JP": "任意の Legendary マップを使用したランク マッチまたはソーシャル マッチでダブル キルを 2 回達成しよう",
+                    "ko-KR": "전설 지도 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 두 명 잡음을 두 번 성공하십시오.",
+                    "pt-PT": "Em um mapa Lendário, conseguir duas Mortes Duplas durante um jogo por ranking ou social.",
+                    "zh-CHT": "在傳奇地圖中的排名配對或聯誼配對，獲得兩個雙殺。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "51.png"
+        },
+        "65": {
+            "text": {
+                "name": {
+                    "de-DE": "Armer Yorick",
+                    "en-US": "Alas, Poor Yorick",
+                    "es-ES": "Ay, pobre Yorick",
+                    "fr-FR": "Hélas, pauvre Yorick !",
+                    "it-IT": "Povero Yorick",
+                    "ja-JP": "オッドボール キラー",
+                    "ko-KR": "불쌍한 요릭",
+                    "pt-PT": "Ai, coitado do Yorick",
+                    "zh-CHT": "唉，可憐的傢伙"
+                },
+                "description": {
+                    "de-DE": "Auf 'LEGENDÄR'-Karte 3 Oddball-Nahkampf-Volltreffer in Ranglisten- oder Geselligkeits-Spiel.",
+                    "en-US": "On a Legendary map, got 3 Oddball melee kills during a ranked or social match.",
+                    "es-ES": "En un mapa de Legendaria consiguió 3 muertes Bola loca cuerpo a cuerpo en partida igualada o social.",
+                    "fr-FR": "3 frags réalisés en cbt rapproché, avec le crâne, en partie sociale ou classée, carte Légendaire.",
+                    "it-IT": "In una mappa Leggenda, ottenute 3 uccisioni corpo a corpo Teschio in una partita class. o di gruppo.",
+                    "ja-JP": "任意の Legendary マップを使用したランク マッチまたはソーシャル マッチでオッドボール キルを 3 回達成",
+                    "ko-KR": "전설 지도 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 아드 볼로 근접 공격하여 적 3명을 KO 시켰습니다.",
+                    "pt-PT": "Em um mapa Lendário, conseguiu 3 mortes corpo-a-corpo em Bola Maluca em jogo por ranking ou social.",
+                    "zh-CHT": "在傳奇地圖中的排名配對或聯誼配對，用聖骸近戰殺敵 3 次。"
+                },
+                "howto": {
+                    "de-DE": "In 'LEGENDÄR'-Karte 3 Oddball-Nahkampf-Volltreffer in Ranglisten- oder Geselligkeits-Spiel erzielen.",
+                    "en-US": "On a Legendary map, get 3 Oddball melee kills during any ranked or social match.",
+                    "es-ES": "En un mapa de Legendaria consigue 3 muertes Bola loca cuerpo a cuerpo en partida igualada o social.",
+                    "fr-FR": "Réaliser 3 frags en cbt rapproché, avec le crâne, en partie sociale ou classée, carte Légendaire.",
+                    "it-IT": "In una mappa Leggenda, ottieni 3 uccisioni corpo a corpo Teschio in una partita class. o di gruppo.",
+                    "ja-JP": "任意の Legendary マップを使用したランク マッチまたはソーシャル マッチでオッドボール キルを 3 回達成しよう",
+                    "ko-KR": "전설 지도 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 아드 볼로 근접 공격하여 적 3명을 KO 시키십시오.",
+                    "pt-PT": "Em um mapa Lendário, conseguir 3 mortes corpo-a-corpo em Bola Maluca em jogo por ranking ou social.",
+                    "zh-CHT": "在傳奇地圖中的排名配對或聯誼配對，用聖骸近戰殺敵 3 次。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "52.png"
+        },
+        "66": {
+            "text": {
+                "name": {
+                    "de-DE": "Kam … von … hinten",
+                    "en-US": "Came… From… Behind",
+                    "es-ES": "Vino por... detrás",
+                    "fr-FR": "Pas vu, pas pris",
+                    "it-IT": "Arrivato... da... dietro",
+                    "ja-JP": "暗殺者",
+                    "ko-KR": "급습",
+                    "pt-PT": "Veio… Por… Trás",
+                    "zh-CHT": "小… 心… 後面"
+                },
+                "description": {
+                    "de-DE": "Auf 'LEGENDÄR'-Karte 3 Mordanschläge in Ranglisten- oder Geselligkeits-Spiel.",
+                    "en-US": "On a Legendary map, got 3 assassinations during a ranked or social match.",
+                    "es-ES": "En un mapa de Legendaria consiguió 3 asesinatos en una partida igualada o social.",
+                    "fr-FR": "3 assassinats réalisés en partie sociale ou avec classement sur une carte Légendaire.",
+                    "it-IT": "In una mappa Leggenda, ottenute 3 uccisioni con un assassinio in una partita class. o di gruppo.",
+                    "ja-JP": "任意の Legendary マップを使用したランク マッチまたはソーシャル マッチで、アサシネーション キルを 3 回達成",
+                    "ko-KR": "전설 지도 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 암살로 적 3명을 사살했습니다.",
+                    "pt-PT": "Em um mapa Lendário, conseguiu 3 assassinatos durante um jogo por ranking ou social.",
+                    "zh-CHT": "在傳奇地圖中的排名配對或聯誼配對，獲得 3 個刺殺。"
+                },
+                "howto": {
+                    "de-DE": "Auf einer 'LEGENDÄR'-Karte 3 Mordanschläge in einem Ranglisten- oder Geselligkeits-Spiel erzielen.",
+                    "en-US": "On a Legendary map, get 3 assassinations during any ranked or social match.",
+                    "es-ES": "En un mapa de Legendaria consigue 3 asesinatos en una partida igualada o social.",
+                    "fr-FR": "Réaliser 3 assassinats en partie sociale ou avec classement sur une carte Légendaire.",
+                    "it-IT": "In una mappa Leggenda, ottieni 3 uccisioni con un assassinio in una partita class. o di gruppo.",
+                    "ja-JP": "任意の Legendary マップを使用したランク マッチまたはソーシャル マッチで、アサシネーション キルを 3 回達成しよう",
+                    "ko-KR": "전설 지도 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 암살로 적 3명을 사살하십시오.",
+                    "pt-PT": "Em um mapa Lendário, conseguir 3 assassinatos durante qualquer jogo por ranking ou social.",
+                    "zh-CHT": "在傳奇地圖中的排名配對或聯誼配對，獲得 3 個刺殺。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "53.png"
+        },
+        "67": {
+            "text": {
+                "name": {
+                    "de-DE": "Verteidige das",
+                    "en-US": "Defend This",
+                    "es-ES": "Defiende esto",
+                    "fr-FR": "Défends donc ça !",
+                    "it-IT": "Difendi questo",
+                    "ja-JP": "フラッグ キラー",
+                    "ko-KR": "방어",
+                    "pt-PT": "Defenda isto",
+                    "zh-CHT": "防守好"
+                },
+                "description": {
+                    "de-DE": "Auf 'LEGENDÄR'-Karte KudF-Nahkampf-Volltreffer in Ranglisten- oder Geselligkeits-Spiel erzielt.",
+                    "en-US": "On a Legendary map, got a flag melee kill during a ranked or social match.",
+                    "es-ES": "En un mapa de Legendaria consiguió muerte cuerpo a cuerpo con bandera en partida igualada o social.",
+                    "fr-FR": "Un frag réalisé avec drapeau en cbt rapproché en partie sociale ou classée, carte Légendaire.",
+                    "it-IT": "In mappa Leggenda, ottenuta uccisione corpo a corpo con bandiera in partita class. o di gruppo.",
+                    "ja-JP": "任意の Legendary マップを使用したランク マッチまたはソーシャル マッチでフラッグ キルを達成",
+                    "ko-KR": "전설 지도 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 깃발로 근접 공격하여 적을 KO 시켰습니다.",
+                    "pt-PT": "Em um mapa Lendário, conseguiu uma morte corpo-a-corpo de bandeira em um jogo por ranking ou social.",
+                    "zh-CHT": "在傳奇地圖中的排名配對或聯誼配對，用旗幟近戰殺敵 1 次。"
+                },
+                "howto": {
+                    "de-DE": "Auf 'LEGENDÄR'-Karte KudF-Nahkampf-Volltreffer in Ranglisten- oder Geselligkeits-Spiel erzielen.",
+                    "en-US": "On a Legendary map, get a flag melee kill during any ranked or social match.",
+                    "es-ES": "En un mapa de Legendaria consigue muerte cuerpo a cuerpo con bandera en partida igualada o social.",
+                    "fr-FR": "Réaliser un frag avec drapeau en cbt rapproché en partie sociale ou classée, carte Légendaire.",
+                    "it-IT": "In mappa Leggenda, ottieni uccisione corpo a corpo con bandiera in partita class. o di gruppo.",
+                    "ja-JP": "任意の Legendary マップを使用したランク マッチまたはソーシャル マッチでフラッグ キルを達成しよう",
+                    "ko-KR": "전설 지도 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 깃발로 근접 공격하여 적을 KO 시키십시오.",
+                    "pt-PT": "Em um mapa Lendário conseguir uma morte corpo-a-corpo de bandeira em qq. jogo por ranking ou social.",
+                    "zh-CHT": "在傳奇地圖中的排名配對或聯誼配對，用旗幟近戰殺敵 1 次。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "54.png"
+        },
+        "68": {
+            "text": {
+                "name": {
+                    "de-DE": "Flagge verloren",
+                    "en-US": "Flag Dropped",
+                    "es-ES": "Bandera soltada",
+                    "fr-FR": "Drapeaux bas",
+                    "it-IT": "Bandiera a terra",
+                    "ja-JP": "フラッグ キャリア キラー",
+                    "ko-KR": "깃발 떨어뜨리기",
+                    "pt-PT": "Bandeira no chão",
+                    "zh-CHT": "帶旗者殺手"
+                },
+                "description": {
+                    "de-DE": "Auf einer 'LEGENDÄR'-Karte 2 Flaggenträger in einem Ranglisten- oder Geselligkeits-Spiel eliminiert.",
+                    "en-US": "On a Legendary map, got 2 flag carrier kills during a ranked or social match.",
+                    "es-ES": "En un mapa de Legendaria consiguió 2 muertes portador de bandera en una partida igualada o social.",
+                    "fr-FR": "2 frags de porteurs de drapeau réalisés en partie sociale ou classée sur une carte Légendaire.",
+                    "it-IT": "In una mappa Leggenda, ottenute 2 uccisioni del portatore bandiera in una part. class. o di gruppo.",
+                    "ja-JP": "任意の Legendary マップを使用したランク マッチまたはソーシャル マッチで、フラッグを持った敵相手に 2 キル達成",
+                    "ko-KR": "전설 지도 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 깃발 운반자 2명을 사살했습니다.",
+                    "pt-PT": "Em um mapa Lendário, conseguiu 2 mortes de carregador de bandeira em um jogo por ranking ou social.",
+                    "zh-CHT": "在傳奇地圖中的排名配對或聯誼配對，殺死帶旗者 2 次。"
+                },
+                "howto": {
+                    "de-DE": "Auf 'LEGENDÄR'-Karte 2 Flaggenträger in Ranglisten- oder Geselligkeits-Spiel eliminieren.",
+                    "en-US": "On a Legendary map, get 2 flag carrier kills during any ranked or social match.",
+                    "es-ES": "En un mapa de Legendaria consigue 2 muertes de portador bandera en una partida igualada o social. ",
+                    "fr-FR": "Réaliser 2 frags de porteurs de drapeau en partie sociale ou classée sur une carte Légendaire.",
+                    "it-IT": "In una mappa Leggenda, ottieni 2 uccisioni del portatore bandiera in una partita class. o di gruppo.",
+                    "ja-JP": "任意の Legendary マップを使用したランク マッチまたはソーシャル マッチで、フラッグを持った敵相手に 2 キル達成しよう",
+                    "ko-KR": "전설 지도 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 깃발 운반자 2명을 사살하십시오.",
+                    "pt-PT": "Em um mapa Lendário, conseguir 2 mortes de carregador de bandeira em qq. jogo por ranking ou social.",
+                    "zh-CHT": "在傳奇地圖中的排名配對或聯誼配對，殺死帶旗者 2 次。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "55.png"
+        },
+        "69": {
+            "text": {
+                "name": {
+                    "de-DE": "Verkehrsrowdy",
+                    "en-US": "Road Rage",
+                    "es-ES": "La ira de la carretera",
+                    "fr-FR": "Péril routier",
+                    "it-IT": "Furia stradale",
+                    "ja-JP": "路上の憤怒",
+                    "ko-KR": "분노의 질주",
+                    "pt-PT": "Fúria na estrada",
+                    "zh-CHT": "狂暴駕駛"
+                },
+                "description": {
+                    "de-DE": "Auf 'LEGENDÄR'-Karte 5 Warthog-Geschütz-Volltreffer in Ranglisten- oder Geselligkeits-Spiel.",
+                    "en-US": "On a Legendary map, got 5 Warthog chaingun kills during a ranked or social match.",
+                    "es-ES": "En un mapa de Legendaria logró 5 muertes con ametralladora del Warthog en partida igualada o social.",
+                    "fr-FR": "5 frags réalisés avec la mitrailleuse d'un warthog en partie sociale ou classée, carte Légendaire.",
+                    "it-IT": "In una mappa Leggenda, ottenute 5 ucc. con mitragliatrice del Warthog in part. class. o gruppo.",
+                    "ja-JP": "任意の Legendary マップを使用したランク マッチまたはソーシャル マッチで、ワートホグのタレットで 5 キル達成",
+                    "ko-KR": "전설 지도 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 워트호그 포탑으로 적 5명을 사살했습니다.",
+                    "pt-PT": "Em um mapa Lendário, conseguiu 5 mortes por metralhadora de Warthog em jogo por ranking ou social.",
+                    "zh-CHT": "在傳奇地圖中的排名配對或聯誼配對，開疣豬號殺死 5 名敵人。"
+                },
+                "howto": {
+                    "de-DE": "In 'LEGENDÄR'-Karte 5 Warthog-Geschütz-Volltreffer in Ranglisten- oder Geselligkeits-Spiel erzielen.",
+                    "en-US": "On a Legendary map, get 5 Warthog chaingun kills during any ranked or social match.",
+                    "es-ES": "En un mapa de Legendaria logra 5 muertes con ametralladora del Warthog en partida igualada o social.",
+                    "fr-FR": "Réaliser 5 frags avec la mitrailleuse d'un warthog en partie sociale ou classée, carte Légendaire.",
+                    "it-IT": "In una mappa Leggenda, ottieni 5 ucc. con la mitragliatrice del Warthog in part. class. o gruppo.",
+                    "ja-JP": "任意の Legendary マップを使用したランク マッチまたはソーシャル マッチで、ワートホグのタレットで 5 キル達成しよう",
+                    "ko-KR": "전설 지도 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 워트호그 포탑으로 적 5명을 사살하십시오.",
+                    "pt-PT": "Em um mapa Lendário, conseguir 5 mortes por metralh. de Warthog em qq. jogo por ranking ou social.",
+                    "zh-CHT": "在傳奇地圖中的排名配對或聯誼配對，開疣豬號殺死 5 名敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "56.png"
+        },
+        "70": {
+            "text": {
+                "name": {
+                    "de-DE": "In beide Richtungen sehen",
+                    "en-US": "Look Both Ways",
+                    "es-ES": "Mira antes de cruzar",
+                    "fr-FR": "Regarde avant de traverser…",
+                    "it-IT": "Guarda da entrambe le parti",
+                    "ja-JP": "スプラッター スプリー",
+                    "ko-KR": "일거양득",
+                    "pt-PT": "Olhar dos dois lados",
+                    "zh-CHT": "左顧右盼"
+                },
+                "description": {
+                    "de-DE": "Auf einer 'LEGENDÄR'-Karte ein 'Schlachthaus' in einem Ranglisten- oder Geselligkeits-Spiel erzielt.",
+                    "en-US": "On a Legendary map, got a Splatter Spree during a ranked or social match.",
+                    "es-ES": "En un mapa de Legendaria consiguió una racha de despachurramientos en una partida igualada o social.",
+                    "fr-FR": "Fête aux boyaux obtenue en partie sociale ou avec classement sur une carte Légendaire.",
+                    "it-IT": "In una mappa Leggenda, ottenuta una serie splatter in una partita classificata o di gruppo.",
+                    "ja-JP": "任意の Legendary マップを使用したランク マッチまたはソーシャル マッチで Splatter Spree を達成",
+                    "ko-KR": "전설 지도 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 연속 깔아 죽임에 성공했습니다.",
+                    "pt-PT": "Em um mapa Lendário, conseguiu um Banho de Sangue durante um jogo por ranking ou social.",
+                    "zh-CHT": "在傳奇地圖中的排名配對或聯誼配對，碾斃 5 人。"
+                },
+                "howto": {
+                    "de-DE": "Auf 'LEGENDÄR'-Karte ein 'Schlachthaus' in Ranglisten- oder Geselligkeits-Spiel erzielen.",
+                    "en-US": "On a Legendary map, get a Splatter Spree during any ranked or social match.",
+                    "es-ES": "En un mapa de Legendaria consigue una racha de despachurramientos en una partida igualada o social.",
+                    "fr-FR": "Obtenir La fête aux boyaux en partie sociale ou avec classement sur une carte Légendaire.",
+                    "it-IT": "In una mappa Leggenda, ottieni una serie splatter in una partita classificata o di gruppo.",
+                    "ja-JP": "任意の Legendary マップを使用したランク マッチまたはソーシャル マッチで Splatter Spree を達成しよう",
+                    "ko-KR": "전설 지도 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 연속 깔아 죽임에 성공하십시오.",
+                    "pt-PT": "Em um mapa Lendário, conseguir um Banho de Sangue durante qualquer jogo por ranking ou social.",
+                    "zh-CHT": "在傳奇地圖中的排名配對或聯誼配對，碾斃 5 人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "57.png"
+        },
+        "71": {
+            "text": {
+                "name": {
+                    "de-DE": "Hammerzeit",
+                    "en-US": "Hammer Time",
+                    "es-ES": "Hora de los martillos",
+                    "fr-FR": "Hammer Time",
+                    "it-IT": "L'ora del martello",
+                    "ja-JP": "ハンマー タイム",
+                    "ko-KR": "해머 타임",
+                    "pt-PT": "Hora do Martelo",
+                    "zh-CHT": "鎚鎚樂"
+                },
+                "description": {
+                    "de-DE": "In 'Versammlung' 5 Hammer-Volltreffer in einem Ranglisten- oder Geselligkeits-Spiel erzielt.",
+                    "en-US": "On Assembly, got 5 Hammer kills during a ranked or social match.",
+                    "es-ES": "En Reunión consiguió 5 muertes con martillo en una partida igualada o social.",
+                    "fr-FR": "5 frags réalisés au marteau antigrav en partie sociale ou avec classement sur Assemblée.",
+                    "it-IT": "In Adunanza, ottenute 5 uccisioni con il martello in una partita classificata o di gruppo.",
+                    "ja-JP": "Assembly を使用したランク マッチまたはソーシャル マッチで、グラビティハンマーで 5 キル達成",
+                    "ko-KR": "Assembly 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 중력 해머로 적 5명을 죽였습니다.",
+                    "pt-PT": "Em Assembly, conseguiu 5 mortes por Martelo durante um jogo por ranking ou social.",
+                    "zh-CHT": "在組裝工廠地圖中的排名配對或聯誼配對，用重力鎚殺死 5 個敵人。"
+                },
+                "howto": {
+                    "de-DE": "In 'Versammlung' 5 Hammer-Volltreffer in einem Ranglisten- oder Geselligkeits-Spiel erzielen.",
+                    "en-US": "On Assembly, get 5 Hammer kills during any ranked or social match.",
+                    "es-ES": "En Reunión consigue 5 muertes con martillo en una partida igualada o social.",
+                    "fr-FR": "Réaliser 5 frags au marteau antigrav en partie sociale ou avec classement sur Assemblée.",
+                    "it-IT": "In Adunanza, ottieni 5 uccisioni con il martello in una partita classificata o di gruppo.",
+                    "ja-JP": "Assembly を使用したランク マッチまたはソーシャル マッチで、グラビティハンマーで 5 キル達成しよう",
+                    "ko-KR": "Assembly 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 중력 해머로 적 5명을 죽이십시오.",
+                    "pt-PT": "Em Assembly, conseguir 5 mortes por Martelo durante qualquer jogo por ranking ou social.",
+                    "zh-CHT": "在組裝工廠地圖中的排名配對或聯誼配對，用重力鎚殺死 5 個敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "58.png"
+        },
+        "72": {
+            "text": {
+                "name": {
+                    "de-DE": "Abdrücken",
+                    "en-US": "Pull",
+                    "es-ES": "Tirar",
+                    "fr-FR": "Feu !",
+                    "it-IT": "Lancia",
+                    "ja-JP": "ショットガン スプリー",
+                    "ko-KR": "발사",
+                    "pt-PT": "Puxar",
+                    "zh-CHT": "拋靶"
+                },
+                "description": {
+                    "de-DE": "In 'Zitadelle' einen Schrothagel in einem Ranglisten- oder Geselligkeits-Spiel erzielt.",
+                    "en-US": "On Citadel, got a Shotgun Spree during a ranked or social match.",
+                    "es-ES": "En Ciudadela consiguió una matanza con escopeta en una partida igualada o social.",
+                    "fr-FR": "Déluge de grenaille obtenu en partie sociale ou avec classement sur Citadelle.",
+                    "it-IT": "In Cittadella, ottenuta una serie doppietta in una partita classificata o di gruppo.",
+                    "ja-JP": "Citadel を使用したランク マッチまたはソーシャル マッチで Shotgun Spree を達成",
+                    "ko-KR": "Citadel 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 연속 샷건 사살에 성공했습니다.",
+                    "pt-PT": "Em Cidadela, conseguiu uma Matança com Espingarda durante um jogo por ranking ou social.",
+                    "zh-CHT": "在要塞地圖中的排名配對或聯誼配對，獲得一個霰彈饗宴。"
+                },
+                "howto": {
+                    "de-DE": "In 'Zitadelle' einen Schrothagel in einem Ranglisten- oder Geselligkeits-Spiel erzielen.",
+                    "en-US": "On Citadel, get a Shotgun Spree during any ranked or social match.",
+                    "es-ES": "En Ciudadela consigue una matanza con escopeta en una partida igualada o social.",
+                    "fr-FR": "Obtenir Déluge de grenaille en partie sociale ou avec classement sur Citadelle.",
+                    "it-IT": "In Cittadella, ottieni una serie doppietta in una partita classificata o di gruppo.",
+                    "ja-JP": "Citadel を使用したランク マッチまたはソーシャル マッチで Shotgun Spree を達成しよう",
+                    "ko-KR": "Citadel 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 연속 샷건 사살에 성공하십시오.",
+                    "pt-PT": "Em Cidadela, conseguir uma Matança com Fuzil durante qualquer partida por ranking ou social.",
+                    "zh-CHT": "在要塞地圖中的排名配對或聯誼配對，獲得一個霰彈饗宴。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "59.png"
+        },
+        "73": {
+            "text": {
+                "name": {
+                    "de-DE": "Klingen des Zorns",
+                    "en-US": "Blades of Fury",
+                    "es-ES": "Las espadas de la furia",
+                    "fr-FR": "Lames mortelles",
+                    "it-IT": "Lame furiose",
+                    "ja-JP": "ソード スプリー",
+                    "ko-KR": "분노의 칼날",
+                    "pt-PT": "Lâminas de Fúria",
+                    "zh-CHT": "無情刀鋒"
+                },
+                "description": {
+                    "de-DE": "In 'Ketzer' ein Schwertmassaker in einem Ranglisten- oder Geselligkeits-Spiel erzielt.",
+                    "en-US": "On Heretic, got a Sword Spree during a ranked or social match.",
+                    "es-ES": "En Hereje consiguió una matanza con espada en una partida igualada o social.",
+                    "fr-FR": "Maître d'armes obtenu en partie sociale ou avec classement sur Hérétique.",
+                    "it-IT": "In Heretic, ottenuta una serie lama in una partita classificata o di gruppo.",
+                    "ja-JP": "Heretic を使用したランク マッチまたはソーシャル マッチで Sword Spree を達成",
+                    "ko-KR": "Heretic 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 연속 에너지 검 사살에 성공했습니다.",
+                    "pt-PT": "Em Herege, conseguiu uma Matança com Espada durante um jogo por ranking ou social.",
+                    "zh-CHT": "在異教徒地圖中的排名配對或聯誼配對，獲得一個刀光劍影。"
+                },
+                "howto": {
+                    "de-DE": "In 'Ketzer' ein Schwertmassaker in einem Ranglisten- oder Geselligkeits-Spiel erzielen.",
+                    "en-US": "On Heretic, get a Sword Spree during any ranked or social match.",
+                    "es-ES": "En Hereje consigue una matanza con espada en una partida igualada o social.",
+                    "fr-FR": "Obtenir Maître d'armes en partie sociale ou avec classement sur Hérétique.",
+                    "it-IT": "In Heretic, ottieni una serie lama in una partita classificata o di gruppo.",
+                    "ja-JP": "Heretic を使用したランク マッチまたはソーシャル マッチで Sword Spree を達成しよう",
+                    "ko-KR": "Heretic 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 연속 에너지 검 사살에 성공하십시오.",
+                    "pt-PT": "Em Herege, conseguir uma Matança de Espada durante qualquer partida por ranking ou social.",
+                    "zh-CHT": "在異教徒地圖中的排名配對或聯誼配對，獲得一個刀光劍影。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "60.png"
+        },
+        "74": {
+            "text": {
+                "name": {
+                    "de-DE": "Ghost-Patrouille",
+                    "en-US": "Ghost Patrol",
+                    "es-ES": "Patrulla Ghost",
+                    "fr-FR": "Patrouille fantôme",
+                    "it-IT": "Pattuglia Ghost",
+                    "ja-JP": "ゴースト パトロール",
+                    "ko-KR": "고스트 패트롤",
+                    "pt-PT": "Patrulha Ghost",
+                    "zh-CHT": "幽靈號巡邏"
+                },
+                "description": {
+                    "de-DE": "In 'Küste' 3 Volltreffer mit einem Ghost in einem Ranglisten- oder Geselligkeits-Spiel erzielt.",
+                    "en-US": "On Longshore, got 3 kills with a Ghost during a ranked or social match.",
+                    "es-ES": "En Costa consiguió 3 muertes con un Ghost en una partida igualada o social.",
+                    "fr-FR": "3 frags réalisés à bord d'un ghost en partie sociale ou avec classement sur Littoral.",
+                    "it-IT": "In Porto industriale, ottenute 3 uccisioni con un Ghost in una partita classificata o di gruppo.",
+                    "ja-JP": "Longshore を使用したランク マッチまたはソーシャル マッチで、ゴーストで 3 キル達成",
+                    "ko-KR": "Longshore 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 고스트로 적 3명을 죽였습니다.",
+                    "pt-PT": "Em Longshore, conseguiu 3 mortes com um Ghost durante um jogo por ranking ou social.",
+                    "zh-CHT": "在沿岸地圖中的排名配對或聯誼配對，用幽靈號殺死 3 個敵人。"
+                },
+                "howto": {
+                    "de-DE": "In 'Küste' 3 Volltreffer mit einem Ghost in einem Ranglisten- oder Geselligkeits-Spiel erzielen.",
+                    "en-US": "On Longshore, get 3 kills with a Ghost during any ranked or social match.",
+                    "es-ES": "En Costa consigue 3 muertes con un Ghost en una partida igualada o social.",
+                    "fr-FR": "Réaliser 3 frags à bord d'un ghost en partie sociale ou avec classement sur Littoral.",
+                    "it-IT": "In Porto industriale, ottieni 3 uccisioni con un Ghost in una partita classificata o di gruppo.",
+                    "ja-JP": "Longshore を使用したランク マッチまたはソーシャル マッチで、ゴーストで 3 キル達成しよう",
+                    "ko-KR": "Longshore 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 고스트로 적 3명을 죽이십시오.",
+                    "pt-PT": "Em Longshores, conseguir 3 mortes com um Ghost durante qualquer partida por ranking ou social.",
+                    "zh-CHT": "在沿岸地圖中的排名配對或聯誼配對，用幽靈號殺死 3 個敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "61.png"
+        },
+        "75": {
+            "text": {
+                "name": {
+                    "de-DE": "Post Mortem",
+                    "en-US": "Post Mortem",
+                    "es-ES": "Post mortem",
+                    "fr-FR": "Post Mortem",
+                    "it-IT": "Post mortem",
+                    "ja-JP": "死者の復讐",
+                    "ko-KR": "사후세계",
+                    "pt-PT": "Post Mortem",
+                    "zh-CHT": "辦後事"
+                },
+                "description": {
+                    "de-DE": "In 'Im Orbit' 2 'Tod aus dem Grab'-Medaillen in einem Ranglisten- oder Geselligkeits-Spiel erhalten.",
+                    "en-US": "On Orbital, got 2 Death From the Grave medals during a ranked or social match.",
+                    "es-ES": "En Orbital consiguió 2 medallas por muerte de ultratumba en una partida igualada o social.",
+                    "fr-FR": "2 médailles Frag d'outre-tombe obtenues en partie sociale ou avec classement sur En orbite.",
+                    "it-IT": "In Stazione orbitale, ottenute 2 medaglie Morte dalla tomba in una partita classificata o di gruppo.",
+                    "ja-JP": "Orbital を使用したランク マッチまたはソーシャル マッチで Death From the Grave メダルを 2 個獲得",
+                    "ko-KR": "Orbital 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 지옥에서 온 사자 메달 2개를 획득했습니다.",
+                    "pt-PT": "Em Orbital, conseguiu 2 medalhas de Morte desde a Cova durante um jogo por ranking ou social.",
+                    "zh-CHT": "在軌道地圖中的排名配對或聯誼配對，獲得 2 個死亡使者獎章。"
+                },
+                "howto": {
+                    "de-DE": "In 'Im Orbit' 2 'Tod aus dem Grab'-Medaillen in einem Ranglisten- oder Geselligkeits-Spiel erhalten.",
+                    "en-US": "On Orbital, get 2 Death From the Grave medals during any ranked or social match.",
+                    "es-ES": "En Orbital consigue 2 medallas por muerte de ultratumba en una partida igualada o social.",
+                    "fr-FR": "Obtenir 2 médailles Frag d'outre-tombe en partie sociale ou avec classement sur En orbite.",
+                    "it-IT": "In Stazione orbitale, ottieni 2 medaglie Morte dalla tomba in una partita classificata o di gruppo.",
+                    "ja-JP": "Orbital を使用したランク マッチまたはソーシャル マッチで Death From the Grave メダルを 2 個獲得しよう",
+                    "ko-KR": "Orbital 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 지옥에서 온 사자 메달 2개를 획득하십시오.",
+                    "pt-PT": "Em Orbital, conseguir 2 medalhas de Morte desde a Cova em qualquer partida por ranking ou social.",
+                    "zh-CHT": "在軌道地圖中的排名配對或聯誼配對，獲得 2 個死亡使者獎章。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "62.png"
+        },
+        "76": {
+            "text": {
+                "name": {
+                    "de-DE": " … Auf die Hörner",
+                    "en-US": " … Get the Horns",
+                    "es-ES": " ... Consigue los cuernos",
+                    "fr-FR": "Tout en souplesse",
+                    "it-IT": "...Per le corna",
+                    "ja-JP": "闘牛士",
+                    "ko-KR": "샷건 명사수",
+                    "pt-PT": " … Pegue os Chifres",
+                    "zh-CHT": " … 擒賊要擒王"
+                },
+                "description": {
+                    "de-DE": "Auf 'Mystisch'-Karte 'Echt scharf'-Medaille in Ranglisten- oder Geselligkeits-Spiel erhalten.",
+                    "en-US": "On a Mythic map, got a Bulltrue medal during a ranked or social match.",
+                    "es-ES": "En un mapa Mítico consiguió una medalla por Bulltrue en una partida igualada o social.",
+                    "fr-FR": "Médaille Sur le fil obtenue en partie sociale ou avec classement sur une carte Mythique.",
+                    "it-IT": "In una mappa Mitico, ottenuta una medaglia Bruciapelo in una partita classificata o di gruppo.",
+                    "ja-JP": "任意の Mythic マップを使用したランク マッチまたはソーシャル マッチで Bulltrue メダルを獲得",
+                    "ko-KR": "Mythic 확장 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 샷건 명사수 메달을 획득했습니다.",
+                    "pt-PT": "Em um mapa Mítico, conseguiu uma medalha É sério! durante um jogo por ranking ou social.",
+                    "zh-CHT": "在神話地圖中的排名配對或聯誼配對，獲得一個「是真的！」獎章。"
+                },
+                "howto": {
+                    "de-DE": "Auf 'Mystisch'-Karte 'Echt scharf'-Medaille in Ranglisten- oder Geselligkeits-Spiel erhalten.",
+                    "en-US": "On a Mythic map, get a Bulltrue medal during any ranked or social match.",
+                    "es-ES": "En un mapa Mítico consigue una medalla por Bulltrue en una partida igualada o social.",
+                    "fr-FR": "Obtenir une médaille Sur le fil en partie sociale ou avec classement sur une carte Mythique.",
+                    "it-IT": "In una mappa Mitico, ottieni una medaglia Bruciapelo in una partita classificata o di gruppo.",
+                    "ja-JP": "任意の Mythic マップを使用したランク マッチまたはソーシャル マッチで Bulltrue メダルを獲得しよう",
+                    "ko-KR": "Mythic 확장 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 샷건 명사수 메달을 획득하십시오.",
+                    "pt-PT": "Em um mapa Mítico, conseguir uma medalha É sério! durante qualquer jogo por ranking ou social.",
+                    "zh-CHT": "在神話地圖中的排名配對或聯誼配對，獲得一個「是真的！」獎章。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "63.png"
+        },
+        "77": {
+            "text": {
+                "name": {
+                    "de-DE": "Ach, wie schade",
+                    "en-US": "Awww, Too Bad",
+                    "es-ES": "Aaah, qué pena",
+                    "fr-FR": "Oooh, dommage !",
+                    "it-IT": "Oh, che peccato",
+                    "ja-JP": "野望を砕け",
+                    "ko-KR": "연속 사살 차단",
+                    "pt-PT": "Ahh, que pena",
+                    "zh-CHT": "喔... 真慘"
+                },
+                "description": {
+                    "de-DE": "Auf 'Mystisch'-Karte 'Spielverderber'-Medaille in Ranglisten- oder Geselligkeits-Spiel erhalten.",
+                    "en-US": "On a Mythic map, got a Killjoy medal during a ranked or social match.",
+                    "es-ES": "En un mapa Mítico consiguió una medalla por Aguafiestas en una partida igualada o social.",
+                    "fr-FR": "Médaille Abats, joie obtenue en partie sociale ou avec classement sur une carte Mythique.",
+                    "it-IT": "In una mappa Mitico, ottenuta una medaglia Guastafeste in una partita classificata o di gruppo.",
+                    "ja-JP": "任意の Mythic マップを使用したランク マッチまたはソーシャル マッチで Killjoy メダルを獲得",
+                    "ko-KR": "Mythic 확장 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 연속 사살 차단 메달을 획득했습니다.",
+                    "pt-PT": "Em um mapa Mítico, conseguiu uma medalha Baita matança durante um jogo por ranking ou social.",
+                    "zh-CHT": "在神話地圖中的排名配對或聯誼配對，獲得一個「殺個痛快！ 」獎章。"
+                },
+                "howto": {
+                    "de-DE": "Auf 'Mystisch'-Karte 'Spielverderber'-Medaille in Ranglisten- oder Geselligkeits-Spiel erhalten.",
+                    "en-US": "On a Mythic map, get a Killjoy medal during any ranked or social match.",
+                    "es-ES": "En un mapa Mítico consigue una medalla por Aguafiestas en una partida igualada o social.",
+                    "fr-FR": "Obtenir une médaille Abats, joie en partie sociale ou avec classement sur une carte Mythique.",
+                    "it-IT": "In una mappa Mitico, ottieni una medaglia Guastafeste in una partita classificata o di gruppo.",
+                    "ja-JP": "任意の Mythic マップを使用したランク マッチまたはソーシャル マッチで Killjoy メダルを獲得しよう",
+                    "ko-KR": "Mythic 확장 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 연속 사살 차단 메달을 획득하십시오.",
+                    "pt-PT": "Em um mapa Mítico, conseguir uma medalha Baita matança durante qualquer jogo por ranking ou social.",
+                    "zh-CHT": "在神話地圖中的排名配對或聯誼配對，獲得一個「殺個痛快！ 」獎章。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "64.png"
+        },
+        "78": {
+            "text": {
+                "name": {
+                    "de-DE": "Killtakulär!",
+                    "en-US": "Killtacular",
+                    "es-ES": "Muertacular",
+                    "fr-FR": "Quelle tuerie",
+                    "it-IT": "Carneficina",
+                    "ja-JP": "キルタキュラー",
+                    "ko-KR": "살인 잔치",
+                    "pt-PT": "Mortacular",
+                    "zh-CHT": "殺紅眼了"
+                },
+                "description": {
+                    "de-DE": "Auf 'Mystisch'-Karte 'Killtakulär'-Medaille in Ranglisten- oder Geselligkeits-Spiel erhalten.",
+                    "en-US": "On a Mythic map, got a Killtacular during a ranked or social match.",
+                    "es-ES": "En un mapa Mítico consiguió una medalla por Muertacular en una partida igualada o social.",
+                    "fr-FR": "Quelle tuerie réalisée en partie sociale ou avec classement sur une carte Mythique.",
+                    "it-IT": "In una mappa Mitico, ottenuta una medaglia Carneficina in una partita classificata o di gruppo.",
+                    "ja-JP": "任意の Mythic マップを使用したランク マッチまたはソーシャル マッチで Killtacular を達成",
+                    "ko-KR": "Mythic 확장 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 살인 잔치에 성공했습니다.",
+                    "pt-PT": "Em um mapa Mítico, conseguiu um Mortacular durante um jogo por ranking ou social.",
+                    "zh-CHT": "在神話地圖中的排名配對或聯誼配對，獲得一個「殺紅眼了 」。"
+                },
+                "howto": {
+                    "de-DE": "Auf 'Mystisch'-Karte 'Killtakulär'-Medaille in Ranglisten- oder Geselligkeits-Spiel erhalten.",
+                    "en-US": "On a Mythic map, get a Killtacular during any ranked or social match.",
+                    "es-ES": "En un mapa Mítico consigue una medalla por Muertacular en una partida igualada o social.",
+                    "fr-FR": "Réaliser Quelle tuerie en partie sociale ou avec classement sur une carte Mythique.",
+                    "it-IT": "In una mappa Mitico, ottieni una medaglia Carneficina in una partita classificata o di gruppo.",
+                    "ja-JP": "任意の Mythic マップを使用したランク マッチまたはソーシャル マッチで Killtacular を達成しよう",
+                    "ko-KR": "Mythic 확장 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 살인 잔치에 성공하십시오.",
+                    "pt-PT": "Em um mapa Mítico, conseguir um Mortacular durante qualquer jogo por ranking ou social.",
+                    "zh-CHT": "在神話地圖中的排名配對或聯誼配對，獲得一個「殺紅眼了 」。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "65.png"
+        },
+        "79": {
+            "text": {
+                "name": {
+                    "de-DE": "Viel Spaß beim Generieren",
+                    "en-US": "Have Fun Respawning",
+                    "es-ES": "A reaparecer tocan",
+                    "fr-FR": "Bon respawn !",
+                    "it-IT": "Ottima rigenerazione",
+                    "ja-JP": "エクスターミネーション",
+                    "ko-KR": "부활의 즐거움",
+                    "pt-PT": "Divirta-se Ressurgindo",
+                    "zh-CHT": "好好享受再生"
+                },
+                "description": {
+                    "de-DE": "Auf 'Mystisch'-Karte Vernichtung in Ranglisten- oder Geselligkeits-Spiel erzielt.",
+                    "en-US": "On a Mythic map, got an Extermination during a ranked or social match.",
+                    "es-ES": "En un mapa Mítico consiguió un exterminio en una partida igualada o social.",
+                    "fr-FR": "Extermination obtenue en partie sociale ou avec classement sur une carte Mythique.",
+                    "it-IT": "In una mappa Mitico, ottenuta una medaglia Sterminio in una partita classificata o di gruppo.",
+                    "ja-JP": "任意の Mythic マップを使用したランク マッチまたはソーシャル マッチで Extermination を達成",
+                    "ko-KR": "Mythic 확장 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 팀 전멸에 성공했습니다.",
+                    "pt-PT": "Em um mapa Mítico, conseguiu um Extermínio durante um jogo por ranking ou social.",
+                    "zh-CHT": "在神話地圖中的排名配對或聯誼配對，獲得一個「團隊滅絕 」。"
+                },
+                "howto": {
+                    "de-DE": "Auf 'Mystisch'-Karte Vernichtung in Ranglisten- oder Geselligkeits-Spiel erzielen.",
+                    "en-US": "On a Mythic map, get an Extermination during any ranked or social match.",
+                    "es-ES": "En un mapa Mítico consigue un exterminio en una partida igualada o social.",
+                    "fr-FR": "Obtenir Extermination en partie sociale ou avec classement sur une carte Mythique.",
+                    "it-IT": "In una mappa Mitico, ottieni una medaglia Sterminio in una partita classificata o di gruppo.",
+                    "ja-JP": "任意の Mythic マップを使用したランク マッチまたはソーシャル マッチで Extermination を達成しよう",
+                    "ko-KR": "Mythic 확장 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 팀 전멸에 성공하십시오.",
+                    "pt-PT": "Em um mapa Mítico, conseguir um Extermínio durante qualquer jogo por ranking ou social.",
+                    "zh-CHT": "在神話地圖中的排名配對或聯誼配對，獲得一個「團隊滅絕 」。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "66.png"
+        },
+        "80": {
+            "text": {
+                "name": {
+                    "de-DE": "Rettet diesen Film",
+                    "en-US": "Save This Film",
+                    "es-ES": "Guarda este vídeo",
+                    "fr-FR": "Sauvez ce film !",
+                    "it-IT": "Salva questo filmato",
+                    "ja-JP": "パーフェクト ゲーム",
+                    "ko-KR": "저장할만한 영상",
+                    "pt-PT": "Salvar este filme",
+                    "zh-CHT": "影片留做紀念"
+                },
+                "description": {
+                    "de-DE": "Auf 'Mystisch'-Karte 'Perfekt'-Medaille in Ranglisten- oder Geselligkeits-Spiel erhalten.",
+                    "en-US": "On a Mythic map, got a Perfection medal during a ranked or social match.",
+                    "es-ES": "En un mapa Mítico consiguió una medalla por Perfecto en una partida igualada o social.",
+                    "fr-FR": "Médaille Perfection obtenue en partie sociale ou avec classement sur une carte Mythique.",
+                    "it-IT": "In una mappa Mitico, ottenuta una medaglia Perfezione in una partita classificata o di gruppo.",
+                    "ja-JP": "任意の Mythic マップを使用したランク マッチまたはソーシャル マッチで Perfection メダルを獲得",
+                    "ko-KR": "Mythic 확장 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 완벽 메달을 획득했습니다.",
+                    "pt-PT": "Em um mapa Mítico, conseguiu uma medalha Perfeição durante um jogo por ranking ou social.",
+                    "zh-CHT": "在神話地圖中的排名配對或聯誼配對，獲得一個「太完美了 」獎章。"
+                },
+                "howto": {
+                    "de-DE": "Auf 'Mystisch'-Karte 'Perfekt'-Medaille in Ranglisten- oder Geselligkeits-Spiel erhalten.",
+                    "en-US": "On a Mythic map, get a Perfection medal during any ranked or social match.",
+                    "es-ES": "En un mapa Mítico consigue una medalla por Perfecto en una partida igualada o social.",
+                    "fr-FR": "Obtenir une médaille Perfection en partie sociale ou avec classement sur une carte Mythique.",
+                    "it-IT": "In una mappa Mitico, ottieni una medaglia Perfezione in una partita classificata o di gruppo.",
+                    "ja-JP": "任意の Mythic マップを使用したランク マッチまたはソーシャル マッチで Perfection メダルを獲得しよう",
+                    "ko-KR": "Mythic 확장 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 완벽 메달을 획득하십시오.",
+                    "pt-PT": "Em um mapa Mítico, conseguir uma medalha Perfeição durante qualquer jogo por ranking ou social.",
+                    "zh-CHT": "在神話地圖中的排名配對或聯誼配對，獲得一個「太完美了 」獎章。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "67.png"
+        },
+        "81": {
+            "text": {
+                "name": {
+                    "de-DE": "Leckeres Hirn",
+                    "en-US": "Delicious Brains",
+                    "es-ES": "Cerebros deliciosos",
+                    "fr-FR": "Émincé de cervelle",
+                    "it-IT": "Cervella deliziose",
+                    "ja-JP": "アウトブレイク",
+                    "ko-KR": "맛있는 골수",
+                    "pt-PT": "Cérebros deliciosos",
+                    "zh-CHT": "好吃的腦子"
+                },
+                "description": {
+                    "de-DE": "Auf einer 'Mystisch'-Karte 2 Menschen in einem Ranglisten- oder Geselligkeits-Spiel infiziert.",
+                    "en-US": "On a Mythic map, infected 2 humans during a ranked or social match.",
+                    "es-ES": "En un mapa Mítico infectó a 2 humanos en una partida igualada o social.",
+                    "fr-FR": "2 humains infectés en partie sociale ou avec classement sur une carte Mythique.",
+                    "it-IT": "In una mappa Mitico, infettati 2 umani in una partita classificata o di gruppo.",
+                    "ja-JP": "任意の Mythic マップを使用したランク マッチまたはソーシャル マッチで人間プレイヤーを 2 人感染させた",
+                    "ko-KR": "Mythic 확장 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 인간 2명을 감염시켰습니다.",
+                    "pt-PT": "Em um mapa Mítico, infectou 2 humanos durante um jogo por ranking ou social.",
+                    "zh-CHT": "在神話地圖中的排名配對或聯誼配對，感染兩個人類。"
+                },
+                "howto": {
+                    "de-DE": "Auf 'Mystisch'-Karte 2 Menschen in Ranglisten- oder Geselligkeits-Spiel infizieren.",
+                    "en-US": "On a Mythic map, infect 2 humans during any ranked or social match.",
+                    "es-ES": "En un mapa Mítico infecta a 2 humanos en una partida igualada o social.",
+                    "fr-FR": "Infecter 2 humains en partie sociale ou avec classement sur une carte Mythique.",
+                    "it-IT": "In una mappa Mitico, infetta 2 umani in una partita classificata o di gruppo.",
+                    "ja-JP": "任意の Mythic マップを使用したランク マッチまたはソーシャル マッチで人間プレイヤーを 2 人感染させよう",
+                    "ko-KR": "Mythic 확장 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 인간 2명을 감염시키십시오.",
+                    "pt-PT": "Em um mapa Mítico, infectar 2 humanos durante qualquer jogo por ranking ou social.",
+                    "zh-CHT": "在神話地圖中的排名配對或聯誼配對，感染兩個人類。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "68.png"
+        },
+        "82": {
+            "text": {
+                "name": {
+                    "de-DE": "Zombie-Abwehrer",
+                    "en-US": "Zombie Repeller",
+                    "es-ES": "Repelente de zombis",
+                    "fr-FR": "Anti-zombies",
+                    "it-IT": "Scacciazombi",
+                    "ja-JP": "ゾンビ バスター",
+                    "ko-KR": "좀비 퇴치",
+                    "pt-PT": "Repelente de Zumbis",
+                    "zh-CHT": "殭屍殺手"
+                },
+                "description": {
+                    "de-DE": "Auf einer 'Mystisch'-Karte 2 Zombies in einem Ranglisten- oder Geselligkeits-Spiel eliminiert.",
+                    "en-US": "On a Mythic map, killed 2 Zombies during a ranked or social match.",
+                    "es-ES": "En un mapa Mítico mató a 2 zombis en una partida igualada o social.",
+                    "fr-FR": "2 zombies tués en partie sociale ou avec classement sur une carte Mythique.",
+                    "it-IT": "In una mappa Mitico, uccisi 2 zombi in una partita classificata o di gruppo.",
+                    "ja-JP": "任意の Mythic マップを使用したランク マッチまたはソーシャル マッチでゾンビ プレイヤーを 2 人倒した",
+                    "ko-KR": "Mythic 확장 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 좀비 2명을 사살했습니다.",
+                    "pt-PT": "Em um mapa Mítico, matou 2 Zumbis durante um jogo por ranking ou social.",
+                    "zh-CHT": "在神話地圖中的排名配對或聯誼配對，殺死 2 個殭屍。"
+                },
+                "howto": {
+                    "de-DE": "Auf 'Mystisch'-Karte 2 Zombies in  Ranglisten- oder Geselligkeits-Spiel eliminieren.",
+                    "en-US": "On a Mythic map, kill 2 Zombies during any ranked or social match.",
+                    "es-ES": "En un mapa Mítico mata a 2 zombis en una partida igualada o social.",
+                    "fr-FR": "Tuer 2 zombies en partie sociale ou avec classement sur une carte Mythique.",
+                    "it-IT": "In una mappa Mitico, uccidi 2 zombi in una partita classificata o di gruppo.",
+                    "ja-JP": "任意の Mythic マップを使用したランク マッチまたはソーシャル マッチでゾンビ プレイヤーを 2 人倒そう",
+                    "ko-KR": "Mythic 확장 팩의 지도에서 진행되는 랭킹 매치나 비랭킹 매치에서 좀비 2명을 사살하십시오.",
+                    "pt-PT": "Em um mapa Mítico, matar 2 Zumbis durante qualquer jogo por ranking ou social.",
+                    "zh-CHT": "在神話地圖中的排名配對或聯誼配對，殺死 2 個殭屍。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "69.png"
+        },
+        "83": {
+            "text": {
+                "name": {
+                    "de-DE": "Panzervernichter",
+                    "en-US": "Tank Dropper",
+                    "es-ES": "Liquidatanques",
+                    "fr-FR": "Arrête ton char",
+                    "it-IT": "Distruttore tank",
+                    "ja-JP": "タンク ドロッパー",
+                    "ko-KR": "탱크 살인자",
+                    "pt-PT": "Conta-gotas de Tanque",
+                    "zh-CHT": "天降坦克"
+                },
+                "description": {
+                    "de-DE": "Auf 'Mystisch'-Karte anderen Spieler im Illuminaten-Modus eliminiert.",
+                    "en-US": "On a Mythic map, got a kill on another player while in monitor mode.",
+                    "es-ES": "En un mapa Mítico asesinó a otro jugador en el modo Monitor.",
+                    "fr-FR": "Un joueur tué en mode Monitor sur une carte Mythique.",
+                    "it-IT": "In una mappa Mitico, ucciso un altro giocatore in modalità Guardiano.",
+                    "ja-JP": "任意の Mythic マップを使用したランク マッチまたはソーシャル マッチで、編集モード中にモニターとして他のプレイヤーを倒した",
+                    "ko-KR": "Mythic 확장 팩의 지도에서 지도 편집기 편집 모드로 다른 플레이어를 사살했습니다.",
+                    "pt-PT": "Em um mapa Mítico, conseguiu uma morte em outro jogador enquanto estava em modo monitor.",
+                    "zh-CHT": "在神話地圖中，以引導者模式 (monitor mode) 想辦法殺死另一位玩家。"
+                },
+                "howto": {
+                    "de-DE": "Auf 'Mystisch'-Karte anderen Spieler im Illuminaten-Modus eliminieren.",
+                    "en-US": "On any Mythic map, get a kill on another player while in monitor mode.",
+                    "es-ES": "En un mapa Mítico asesina a otro jugador en el modo Monitor.",
+                    "fr-FR": "Tuer un joueur en mode Monitor sur une carte Mythique.",
+                    "it-IT": "In una mappa Mitico, uccidi un altro giocatore in modalità Guardiano.",
+                    "ja-JP": "任意の Mythic マップを使用したランク マッチまたはソーシャル マッチで、編集モード中にモニターとして他のプレイヤーを倒そう",
+                    "ko-KR": "Mythic 확장 팩의 지도에서 지도 편집기 편집 모드로 다른 플레이어를 사살하십시오.",
+                    "pt-PT": "Em um mapa Mítico, conseguir uma morte em outro jogador enquanto estiver em modo monitor.",
+                    "zh-CHT": "在神話地圖中，以引導者模式 (monitor mode) 想辦法殺死另一位玩家。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "70.png"
+        },
+        "84": {
+            "text": {
+                "name": {
+                    "de-DE": "Versammlungsschädel",
+                    "en-US": "Assembly Skull",
+                    "es-ES": "Calavera de Reunión",
+                    "fr-FR": "Crâne de l'Assemblée",
+                    "it-IT": "Teschio Adunanza",
+                    "ja-JP": "スカル獲得: Assembly",
+                    "ko-KR": "Assembly 해골",
+                    "pt-PT": "Caveira Assembly",
+                    "zh-CHT": "組裝工廠骷髏"
+                },
+                "description": {
+                    "de-DE": "In 'Versammlung' den versteckten Schädel gefunden.",
+                    "en-US": "On Assembly, found the hidden skull.",
+                    "es-ES": "En Reunión encontró la calavera oculta.",
+                    "fr-FR": "Crâne caché sur Assemblée trouvé.",
+                    "it-IT": "Trovato il teschio nascosto in Adunanza.",
+                    "ja-JP": "Assembly でスカルを獲得",
+                    "ko-KR": "Assembly 지도에서 숨겨진 해골을 획득했습니다.",
+                    "pt-PT": "Em Assembly, encontrou a caveira escondida.",
+                    "zh-CHT": "在組裝工廠地圖中，找到這個隱藏的骷髏。"
+                },
+                "howto": {
+                    "de-DE": "In 'Versammlung' den versteckten Schädel finden.",
+                    "en-US": "On Assembly, find the hidden skull.",
+                    "es-ES": "En Reunión encuentra la calavera oculta.",
+                    "fr-FR": "Trouver le crâne caché sur Assemblée.",
+                    "it-IT": "Trova il teschio nascosto in Adunanza.",
+                    "ja-JP": "Assembly でスカルを獲得しよう",
+                    "ko-KR": "Assembly 지도에서 숨겨진 해골을 획득하십시오.",
+                    "pt-PT": "Em Assembly, encontrar a caveira escondida.",
+                    "zh-CHT": "在組裝工廠地圖中，找到這個隱藏的骷髏。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "71.png"
+        },
+        "85": {
+            "text": {
+                "name": {
+                    "de-DE": "Zitadellenschädel",
+                    "en-US": "Citadel Skull",
+                    "es-ES": "Calavera de Ciudadela",
+                    "fr-FR": "Crâne de la Citadelle",
+                    "it-IT": "Teschio Cittadella",
+                    "ja-JP": "スカル獲得: Citadel",
+                    "ko-KR": "Citadel 해골",
+                    "pt-PT": "Caveira Cidadela",
+                    "zh-CHT": "要塞骷髏"
+                },
+                "description": {
+                    "de-DE": "In 'Zitadelle' den versteckten Schädel gefunden.",
+                    "en-US": "On Citadel, found the hidden skull.",
+                    "es-ES": "En Ciudadela encontró la calavera oculta.",
+                    "fr-FR": "Crâne caché sur Citadelle trouvé.",
+                    "it-IT": "Trovato il teschio nascosto in Cittadella.",
+                    "ja-JP": "Citadel でスカルを獲得",
+                    "ko-KR": "Citadel 지도에서 숨겨진 해골을 획득했습니다.",
+                    "pt-PT": "Em Cidadela, encontrou a caveira escondida.",
+                    "zh-CHT": "在要塞地圖中，找到這個隱藏的骷髏。"
+                },
+                "howto": {
+                    "de-DE": "In 'Zitadelle' den versteckten Schädel finden.",
+                    "en-US": "On Citadel, find the hidden skull.",
+                    "es-ES": "En Ciudadela encuentra la calavera oculta.",
+                    "fr-FR": "Trouver le crâne caché sur Citadelle.",
+                    "it-IT": "Trova il teschio nascosto in Cittadella.",
+                    "ja-JP": "Citadel でスカルを獲得しよう",
+                    "ko-KR": "Citadel 지도에서 숨겨진 해골을 획득하십시오.",
+                    "pt-PT": "Em Cidadela, encontrar a caveira escondida.",
+                    "zh-CHT": "在要塞地圖中，找到這個隱藏的骷髏。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "72.png"
+        },
+        "86": {
+            "text": {
+                "name": {
+                    "de-DE": "Ketzerschädel",
+                    "en-US": "Heretic Skull",
+                    "es-ES": "Calavera de Hereje",
+                    "fr-FR": "Crâne Hérétique",
+                    "it-IT": "Teschio Heretic",
+                    "ja-JP": "スカル獲得: Heretic",
+                    "ko-KR": "Heretic 해골",
+                    "pt-PT": "Caveira Herege",
+                    "zh-CHT": "異教徒骷髏"
+                },
+                "description": {
+                    "de-DE": "In 'Ketzer' den versteckten Schädel gefunden.",
+                    "en-US": "On Heretic, found the hidden skull.",
+                    "es-ES": "En Hereje encontró la calavera oculta.",
+                    "fr-FR": "Crâne caché sur Hérétique trouvé.",
+                    "it-IT": "Trovato il teschio nascosto in Heretic.",
+                    "ja-JP": "Heretic でスカルを獲得",
+                    "ko-KR": "Heretic 지도에서 숨겨진 해골을 획득했습니다.",
+                    "pt-PT": "Em Herege, encontrou a caveira escondida.",
+                    "zh-CHT": "在異教徒地圖中，找到這個隱藏的骷髏。"
+                },
+                "howto": {
+                    "de-DE": "In 'Ketzer' den versteckten Schädel finden.",
+                    "en-US": "On Heretic, find the hidden skull.",
+                    "es-ES": "En Hereje encuentra la calavera oculta.",
+                    "fr-FR": "Trouver le crâne caché sur Hérétique.",
+                    "it-IT": "Trova il teschio nascosto in Heretic.",
+                    "ja-JP": "Heretic でスカルを獲得しよう",
+                    "ko-KR": "Heretic 지도에서 숨겨진 해골을 획득하십시오.",
+                    "pt-PT": "Em Herege, encontrar a caveira escondida.",
+                    "zh-CHT": "在異教徒地圖中，找到這個隱藏的骷髏。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "73.png"
+        },
+        "87": {
+            "text": {
+                "name": {
+                    "de-DE": "Küstenschädel",
+                    "en-US": "Longshore Skull",
+                    "es-ES": "Calavera de Costa",
+                    "fr-FR": "Crâne du Littoral",
+                    "it-IT": "Teschio Porto industriale",
+                    "ja-JP": "スカル獲得: Longshore",
+                    "ko-KR": "Longshore 해골",
+                    "pt-PT": "Caveira Longshore",
+                    "zh-CHT": "沿岸骷髏"
+                },
+                "description": {
+                    "de-DE": "In 'Küste' den versteckten Schädel gefunden.",
+                    "en-US": "On Longshore, found the hidden skull.",
+                    "es-ES": "En Costa encontró la calavera oculta.",
+                    "fr-FR": "Crâne caché sur Littoral trouvé.",
+                    "it-IT": "Trovato il teschio nascosto in Porto industriale.",
+                    "ja-JP": "Longshore でスカルを獲得",
+                    "ko-KR": "On Longshore 지도에서 숨겨진 해골을 획득했습니다.",
+                    "pt-PT": "Em Longshore, encontrou a caveira escondida.",
+                    "zh-CHT": "在沿岸地圖中，找到這個隱藏的骷髏。"
+                },
+                "howto": {
+                    "de-DE": "In 'Küste' den versteckten Schädel finden.",
+                    "en-US": "On Longshore, find the hidden skull.",
+                    "es-ES": "En Costa encuentra la calavera oculta.",
+                    "fr-FR": "Trouver le crâne caché sur Littoral.",
+                    "it-IT": "Trova il teschio nascosto in Porto industriale.",
+                    "ja-JP": "Longshore でスカルを獲得しよう",
+                    "ko-KR": "On Longshore 지도에서 숨겨진 해골을 획득하십시오.",
+                    "pt-PT": "Em Longshore, encontrar a caveira escondida.",
+                    "zh-CHT": "在沿岸地圖中，找到這個隱藏的骷髏。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "74.png"
+        },
+        "88": {
+            "text": {
+                "name": {
+                    "de-DE": "Orbitschädel",
+                    "en-US": "Orbital Skull",
+                    "es-ES": "Calavera de Orbital",
+                    "fr-FR": "Crâne en orbite",
+                    "it-IT": "Teschio Stazione orbitale",
+                    "ja-JP": "スカル獲得: Orbital",
+                    "ko-KR": "Orbital 해골",
+                    "pt-PT": "Caveira Orbital",
+                    "zh-CHT": "軌道骷髏"
+                },
+                "description": {
+                    "de-DE": "In 'Im Orbit' den versteckten Schädel gefunden.",
+                    "en-US": "On Orbital, found the hidden skull.",
+                    "es-ES": "En Orbital encontró la calavera oculta.",
+                    "fr-FR": "Crâne caché sur En orbite trouvé.",
+                    "it-IT": "Trovato il teschio nascosto in Stazione orbitale.",
+                    "ja-JP": "Orbital でスカルを獲得",
+                    "ko-KR": "Orbital 지도에서 숨겨진 해골을 획득했습니다.",
+                    "pt-PT": "Em Orbital, encontrou a caveira escondida.",
+                    "zh-CHT": "在軌道地圖中，找到這個隱藏的骷髏。"
+                },
+                "howto": {
+                    "de-DE": "In 'Im Orbit' den versteckten Schädel finden.",
+                    "en-US": "On Orbital, find the hidden skull.",
+                    "es-ES": "En Orbital encuentra la calavera oculta.",
+                    "fr-FR": "Trouver le crâne caché sur En orbite.",
+                    "it-IT": "Trova il teschio nascosto in Stazione orbitale.",
+                    "ja-JP": "Orbital でスカルを獲得しよう",
+                    "ko-KR": "Orbital 지도에서 숨겨진 해골을 획득하십시오.",
+                    "pt-PT": "Em Orbital, encontrar a caveira escondida.",
+                    "zh-CHT": "在軌道地圖中，找到這個隱藏的骷髏。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "75.png"
+        },
+        "89": {
+            "text": {
+                "name": {
+                    "de-DE": "Sandkastenschädel",
+                    "en-US": "Sandbox Skull",
+                    "es-ES": "Calavera de Cajón de arena",
+                    "fr-FR": "Crâne de Sandbox",
+                    "it-IT": "Teschio Sandbox",
+                    "ja-JP": "スカル獲得: Sandbox",
+                    "ko-KR": "Sandbox 해골",
+                    "pt-PT": "Caveira Sandbox",
+                    "zh-CHT": "沙箱骷髏"
+                },
+                "description": {
+                    "de-DE": "Im 'Sandkasten' den versteckten Schädel gefunden.",
+                    "en-US": "On Sandbox, found the hidden skull.",
+                    "es-ES": "En Cajón de arena encontró la calavera oculta.",
+                    "fr-FR": "Crâne caché sur Sandbox trouvé.",
+                    "it-IT": "Trovato il teschio nascosto in Sandbox.",
+                    "ja-JP": "Sandbox でスカルを獲得",
+                    "ko-KR": "Sandbox 지도에서 숨겨진 해골을 획득했습니다.",
+                    "pt-PT": "Em Sandbox, encontrou a caveira escondida.",
+                    "zh-CHT": "在沙箱地圖中，找到這個隱藏的骷髏。"
+                },
+                "howto": {
+                    "de-DE": "Im 'Sandkasten' den versteckten Schädel finden.",
+                    "en-US": "On Sandbox, find the hidden skull.",
+                    "es-ES": "En Cajón de arena encuentra la calavera oculta.",
+                    "fr-FR": "Trouver le crâne caché sur Sandbox.",
+                    "it-IT": "Trova il teschio nascosto in Sandbox.",
+                    "ja-JP": "Sandbox でスカルを獲得しよう",
+                    "ko-KR": "Sandbox 지도에서 숨겨진 해골을 획득하십시오.",
+                    "pt-PT": "Em Sandbox, encontrar a caveira escondida.",
+                    "zh-CHT": "在沙箱地圖中，找到這個隱藏的骷髏。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "76.png"
+        },
+        "90": {
+            "text": {
+                "name": {
+                    "de-DE": "Vidmaster Challenge: Hirntrauma",
+                    "en-US": "Vidmaster Challenge: Brainpan",
+                    "es-ES": "Desafío de maestro: Cráneo",
+                    "fr-FR": "Défi Vidmaster : Crâneur",
+                    "it-IT": "Sfida Vidmaster - Cranio",
+                    "ja-JP": "Vidmaster チャレンジ: ブレインパン",
+                    "ko-KR": "게임 왕 도전: 해골",
+                    "pt-PT": "Desafio Vidmaster: Crânio",
+                    "zh-CHT": "電玩大師挑戰：頭蓋骨"
+                },
+                "description": {
+                    "de-DE": "Alle versteckten Schädel auf den 'Mystisch'-Karten gefunden.",
+                    "en-US": "Found all the hidden skulls on the Mythic maps.",
+                    "es-ES": "Encontró todas las calaveras ocultas de los mapas Míticos.",
+                    "fr-FR": "Tous les crânes cachés sur les cartes Mythique trouvés.",
+                    "it-IT": "Trovati tutti i teschi nascosti nelle mappe Mitico.",
+                    "ja-JP": "Mythic の各マップですべてのスカルを獲得",
+                    "ko-KR": "Mythic 확장 팩의 지도에 숨겨진 해골을 모두 획득했습니다.",
+                    "pt-PT": "Encontrou todas as caveiras escondidas nos mapas Míticos.",
+                    "zh-CHT": "找出神話地圖中，所有隱藏的骷髏頭。"
+                },
+                "howto": {
+                    "de-DE": "Alle versteckten Schädel auf den 'Mystisch'-Karten finden.",
+                    "en-US": "Find all the hidden skulls on the Mythic maps.",
+                    "es-ES": "Encuentra todas las calaveras ocultas de los mapas Míticos.",
+                    "fr-FR": "Trouver tous les crânes cachés sur les cartes Mythique.",
+                    "it-IT": "Trova tutti i teschi nascosti nelle mappe Mitico.",
+                    "ja-JP": "Mythic の各マップですべてのスカルを獲得しよう",
+                    "ko-KR": "Mythic 확장 팩의 지도에 숨겨진 해골을 모두 획득하십시오.",
+                    "pt-PT": "Encontrar todas as caveiras escondidas nos mapas Míticos.",
+                    "zh-CHT": "找出神話地圖中，所有隱藏的骷髏頭。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "77.png"
+        },
+        "91": {
+            "text": {
+                "name": {
+                    "de-DE": "Vidmaster Challenge: Aufstieg",
+                    "en-US": "Vidmaster Challenge: Lightswitch",
+                    "es-ES": "Desafío de maestro: Interruptor",
+                    "fr-FR": "Défi Vidmaster : Interrupteur",
+                    "it-IT": "Sfida Vidmaster - Interruttore",
+                    "ja-JP": "Vidmaster チャレンジ: ライトスイッチ",
+                    "ko-KR": "게임 왕 도전: 라이트스위치",
+                    "pt-PT": "Desafio Vidmaster: Interruptor",
+                    "zh-CHT": "電玩大師挑戰：開關"
+                },
+                "description": {
+                    "de-DE": "Den Rang eines Leutnants in jeder Spielliste im neuen EP-Aufstiegssystem erreicht.",
+                    "en-US": "Got the rank of Lieutenant in any playlist in the new EXP progression system.",
+                    "es-ES": "Consiguió el rango de teniente en una lista de juego del nuevo sistema de progresión EXP.",
+                    "fr-FR": "Grade de Lieutenant obtenu dans une sélection avec le nouveau système de progression d'EXP.",
+                    "it-IT": "Ottenuto grado di Tenente in tutti gli elenchi partite con nuovo sistema esperienza.",
+                    "ja-JP": "更新された経験値 (EXP) システムの任意のプレイリストで Lieutenant に昇格",
+                    "ko-KR": "새로운 EXP 진급 시스템에서 소위로 진급했습니다.",
+                    "pt-PT": "Conseguiu o posto de Tenente em qualquer lista de jogos no novo sistema de progressão de EXP.",
+                    "zh-CHT": "在新的 EXP 計分制下的任何遊戲清單中，獲得中尉官階。"
+                },
+                "howto": {
+                    "de-DE": "Den Rang eines Leutnants in jeder Spielliste im neuen EP-Aufstiegssystem erreichen.",
+                    "en-US": "Get to the rank of Lieutenant in any playlist in the new EXP progression system.",
+                    "es-ES": "Consigue el rango de teniente en una lista de juego del nuevo sistema de progresión EXP.",
+                    "fr-FR": "Obtenir le grade de Lieutenant dans une sélection avec le nouveau système de progression d'EXP.",
+                    "it-IT": "Ottieni il grado di Tenente in tutti gli elenchi partite con nuovo sistema dell'esperienza.",
+                    "ja-JP": "更新された経験値 (EXP) システムの任意のプレイリストで Lieutenant に昇格しよう",
+                    "ko-KR": "새로운 EXP 진급 시스템에서 소위로 진급하십시오.",
+                    "pt-PT": "Conseguir o posto de Tenente em qualquer lista de jogos no novo sistema de progressão de EXP.",
+                    "zh-CHT": "在新的 EXP 計分制下的任何遊戲清單中，獲得中尉官階。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "0",
+            "imageId": "78.png"
+        },
+        "92": {
+            "text": {
+                "name": {
+                    "de-DE": "Vidmaster Challenge: 7 gegen 7",
+                    "en-US": "Vidmaster Challenge: 7 on 7",
+                    "es-ES": "Desafío de maestro: 7 el 7",
+                    "fr-FR": "Défi Vidmaster : 7 sur 7",
+                    "it-IT": "Sfida Vidmaster - 7 con 7",
+                    "ja-JP": "Vidmaster チャレンジ: 7 on 7",
+                    "ko-KR": "게임 왕 도전: 7대 7",
+                    "pt-PT": "Desafio Vidmaster: 7 em 7",
+                    "zh-CHT": "電玩大師挑戰：7 配 7"
+                },
+                "description": {
+                    "de-DE": "Am 7. Tag eines Monats mit 7 EP in ein Ranglisten- oder Geselligkeits-Spiel eingestiegen.",
+                    "en-US": "Entered into a ranked or social playlist with 7 EXP on the 7th of the month.",
+                    "es-ES": "Se clasificó en una lista de juego igualada o social con 7 EXP el día 7 del mes.",
+                    "fr-FR": "A rejoint une sélection sociale ou avec classement avec 7 points d'EXP le 7e jour d'un mois donné.",
+                    "it-IT": "Entrato in un elenco partita classificato o di gruppo con 7 ESP il 7° giorno del mese.",
+                    "ja-JP": "7 EXP を獲得した状態で、任意の月の 7 日にランク マッチまたはソーシャル マッチに参戦",
+                    "ko-KR": "이달 7일에 EXP 7점으로 랭킹 매치나 비랭킹 매치에 참가했습니다.",
+                    "pt-PT": "Entrou em uma lista de jogos por ranking ou social com 7 EXP no sétimo dia do mês.",
+                    "zh-CHT": "在排名配對或聯誼配對遊戲清單中，在每個月 7 日獲得 7 EXP點數。"
+                },
+                "howto": {
+                    "de-DE": "Am 7. Tag eines Monats mit 7 EP in ein Ranglisten- oder Geselligkeits-Spiel einsteigen.",
+                    "en-US": "Enter into any ranked or social playlist with 7 EXP on the 7th of the month.",
+                    "es-ES": "Clasifícate en una lista de juego igualada o social con 7 EXP el día 7 del mes.",
+                    "fr-FR": "Rejoindre une sélection sociale ou avec classement avec 7 points d'EXP le 7e jour d'un mois donné.",
+                    "it-IT": "Entra in un elenco partita classificato o di gruppo con 7 ESP il 7° giorno del mese.",
+                    "ja-JP": "7 EXP を獲得した状態で、任意の月の 7 日にランク マッチまたはソーシャル マッチに参戦しよう",
+                    "ko-KR": "이달 7일에 EXP 7점으로 랭킹 매치나 비랭킹 매치에 참가하십시오.",
+                    "pt-PT": "Entrar em qualquer lista de jogos por ranking ou social com 7 EXP no sétimo dia do mês.",
+                    "zh-CHT": "在排名配對或聯誼配對遊戲清單中，在每個月 7 日獲得 7 EXP點數。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "0",
+            "imageId": "79.png"
+        }
+    }
+}

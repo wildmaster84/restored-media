@@ -1,0 +1,1614 @@
+{
+    "Achievements": {
+        "11": {
+            "text": {
+                "name": {
+                    "en-US": "False chosen one",
+                    "es-ES": "Falso elegido",
+                    "fr-FR": "Le faux élu",
+                    "de-DE": "Falscher Auserwählter",
+                    "it-IT": "Il falso prescelto",
+                    "pt-PT": "Falso escolhido",
+                    "ja-JP": "偽りの選ばれし者"
+                },
+                "description": {
+                    "en-US": "Defeat the Paladin",
+                    "es-ES": "Derrota al Paladín",
+                    "fr-FR": "Vaincre le paladin",
+                    "de-DE": "Besiege den Paladin",
+                    "it-IT": "Sconfiggi il Paladino",
+                    "pt-PT": "Derrote o Paladino",
+                    "ja-JP": "パラディンを倒せ"
+                },
+                "howto": {
+                    "en-US": "Defeat the Paladin",
+                    "es-ES": "Derrota al Paladín",
+                    "fr-FR": "Vaincre le paladin",
+                    "de-DE": "Besiege den Paladin",
+                    "it-IT": "Sconfiggi il Paladino",
+                    "pt-PT": "Derrote o Paladino",
+                    "ja-JP": "パラディンを倒せ"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "01.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "en-US": "Vampire kiss",
+                    "es-ES": "Beso de vampiro",
+                    "fr-FR": "Le baiser du vampire",
+                    "de-DE": "Vampir-Kuss",
+                    "it-IT": "Bacio del vampiro",
+                    "pt-PT": "Beijo Vampírico",
+                    "ja-JP": "ヴァンパイア・キス"
+                },
+                "description": {
+                    "en-US": "Accept Zobek's gift",
+                    "es-ES": "Acepta el regalo de Zobek",
+                    "fr-FR": "Le cadeau de Zobek",
+                    "de-DE": "Nimm Zobeks Geschenk an",
+                    "it-IT": "Accetta il regalo di Zobek",
+                    "pt-PT": "Aceite o presente do Zobek",
+                    "ja-JP": "ゾベックのプレゼントを受け取れ"
+                },
+                "howto": {
+                    "en-US": "Accept Zobek's gift",
+                    "es-ES": "Acepta el regalo de Zobek",
+                    "fr-FR": "Le cadeau de Zobek",
+                    "de-DE": "Nimm Zobeks Geschenk an",
+                    "it-IT": "Accetta il regalo di Zobek",
+                    "pt-PT": "Aceite o presente do Zobek",
+                    "ja-JP": "ゾベックのプレゼントを受け取れ"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "02.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "en-US": "Crushed rock",
+                    "es-ES": "Roca picada",
+                    "fr-FR": "Roche brisée",
+                    "de-DE": "Zermalmter Stein",
+                    "it-IT": "Frantumarocce",
+                    "pt-PT": "Pedra esmagada",
+                    "ja-JP": "砕かれた石"
+                },
+                "description": {
+                    "en-US": "Destroy the golem",
+                    "es-ES": "Derrumba al golem",
+                    "fr-FR": "Détruire le golem",
+                    "de-DE": "Zerstöre den Golem",
+                    "it-IT": "Distruggi il golem",
+                    "pt-PT": "Destrua o golem",
+                    "ja-JP": "ゴーレムを倒せ"
+                },
+                "howto": {
+                    "en-US": "Destroy the golem",
+                    "es-ES": "Derrumba al golem",
+                    "fr-FR": "Détruire le golem",
+                    "de-DE": "Zerstöre den Golem",
+                    "it-IT": "Distruggi il golem",
+                    "pt-PT": "Destrua o golem",
+                    "ja-JP": "ゴーレムを倒せ"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "03.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "en-US": "Hunted hunter",
+                    "es-ES": "Cazador cazado",
+                    "fr-FR": "Le chasseur chassé",
+                    "de-DE": "Gejagter Jäger",
+                    "it-IT": "Cacciatore cacciato",
+                    "pt-PT": "Caçadora caçada",
+                    "ja-JP": "狩られる狩人"
+                },
+                "description": {
+                    "en-US": "Capture Raisa Vólkova",
+                    "es-ES": "Captura a Raisa Vólkova",
+                    "fr-FR": "Capturer Raisa Vólkova",
+                    "de-DE": "Fange Raisa Vólkova",
+                    "it-IT": "Cattura Raisa Vólkova",
+                    "pt-PT": "Capture Raisa Vólkova",
+                    "ja-JP": "ライサ・ヴォルコワを捕えろ"
+                },
+                "howto": {
+                    "en-US": "Capture Raisa Vólkova",
+                    "es-ES": "Captura a Raisa Vólkova",
+                    "fr-FR": "Capturer Raisa Vólkova",
+                    "de-DE": "Fange Raisa Vólkova",
+                    "it-IT": "Cattura Raisa Vólkova",
+                    "pt-PT": "Capture Raisa Vólkova",
+                    "ja-JP": "ライサ・ヴォルコワを捕えろ"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "04.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "en-US": "A madman's on the loose",
+                    "es-ES": "Un loco anda suelto",
+                    "fr-FR": "Un fou en liberté",
+                    "de-DE": "Ein Verrückter auf freiem Fuß",
+                    "it-IT": "Un folle a piede libero",
+                    "pt-PT": "Um maluco no pedaço",
+                    "ja-JP": "狂人の暴走"
+                },
+                "description": {
+                    "en-US": "Release the Chupacabras from his prison",
+                    "es-ES": "Libera al Chupacabras de su prisión",
+                    "fr-FR": "Libérer Chupacabras de sa prison",
+                    "de-DE": "Befreie den Chupacabras aus dem Gefängnis",
+                    "it-IT": "Libera il Chupacabra dalla sua prigione",
+                    "pt-PT": "Liberte o Chupacabras de sua prisão",
+                    "ja-JP": "チュパカブラを檻から解放しろ"
+                },
+                "howto": {
+                    "en-US": "Release the Chupacabras from his prison",
+                    "es-ES": "Libera al Chupacabras de su prisión",
+                    "fr-FR": "Libérer Chupacabras de sa prison",
+                    "de-DE": "Befreie den Chupacabras aus dem Gefängnis",
+                    "it-IT": "Libera il Chupacabra dalla sua prigione",
+                    "pt-PT": "Liberte o Chupacabras de sua prisão",
+                    "ja-JP": "チュパカブラを檻から解放しろ"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "05.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "en-US": "Heart of stone",
+                    "es-ES": "Corazón de piedra",
+                    "fr-FR": "Cœur de pierre",
+                    "de-DE": "Herz aus Stein",
+                    "it-IT": "Cuore di pietra",
+                    "pt-PT": "Coração de pedra",
+                    "ja-JP": "石の心臓"
+                },
+                "description": {
+                    "en-US": "Kill the Gorgon",
+                    "es-ES": "Mata a la Gorgona",
+                    "fr-FR": "Tuer la gorgone",
+                    "de-DE": "Töte den Gorgon",
+                    "it-IT": "Uccidi la Gorgone",
+                    "pt-PT": "Mate a Górgona",
+                    "ja-JP": "ゴルゴンを殺せ"
+                },
+                "howto": {
+                    "en-US": "Kill the Gorgon",
+                    "es-ES": "Mata a la Gorgona",
+                    "fr-FR": "Tuer la gorgone",
+                    "de-DE": "Töte den Gorgon",
+                    "it-IT": "Uccidi la Gorgone",
+                    "pt-PT": "Mate a Górgona",
+                    "ja-JP": "ゴルゴンを殺せ"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "06.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "en-US": "Next stop: Castlevania",
+                    "es-ES": "Estación Castlevania",
+                    "fr-FR": "Arrêt : Castlevania",
+                    "de-DE": "Nächs. Halt: Castlevania",
+                    "it-IT": "Stazione Castlevania",
+                    "pt-PT": "Estação Castlevania",
+                    "ja-JP": "次の駅：キャッスルヴァニア"
+                },
+                "description": {
+                    "en-US": "Survive the train trip",
+                    "es-ES": "Sobrevive al viaje en tren",
+                    "fr-FR": "Survivre au voyage en train",
+                    "de-DE": "Überlebe die Zugfahrt",
+                    "it-IT": "Sopravvivi al viaggio in treno",
+                    "pt-PT": "Sobreviva à viagem de trem",
+                    "ja-JP": "電車でサバイバル"
+                },
+                "howto": {
+                    "en-US": "Survive the train trip",
+                    "es-ES": "Sobrevive al viaje en tren",
+                    "fr-FR": "Survivre au voyage en train",
+                    "de-DE": "Überlebe die Zugfahrt",
+                    "it-IT": "Sopravvivi al viaggio in treno",
+                    "pt-PT": "Sobreviva à viagem de trem",
+                    "ja-JP": "電車でサバイバル"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "07.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "en-US": "Femme fatale",
+                    "es-ES": "Femme fatale",
+                    "fr-FR": "Femme fatale",
+                    "de-DE": "Femme Fatale",
+                    "it-IT": "Femme fatale",
+                    "pt-PT": "Femme fatale",
+                    "ja-JP": "ファム・ファタール"
+                },
+                "description": {
+                    "en-US": "Subdue Carmilla",
+                    "es-ES": "Somete a Carmilla",
+                    "fr-FR": "Vaincre Carmilla",
+                    "de-DE": "Bezwinge Carmilla",
+                    "it-IT": "Sottometti Carmilla",
+                    "pt-PT": "Derrote Carmilla",
+                    "ja-JP": "カーミラを押さえろ"
+                },
+                "howto": {
+                    "en-US": "Subdue Carmilla",
+                    "es-ES": "Somete a Carmilla",
+                    "fr-FR": "Vaincre Carmilla",
+                    "de-DE": "Bezwinge Carmilla",
+                    "it-IT": "Sottometti Carmilla",
+                    "pt-PT": "Derrote Carmilla",
+                    "ja-JP": "カーミラを押さえろ"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "en-US": "The apple of his eye",
+                    "es-ES": "La niña de sus ojos",
+                    "fr-FR": "La prunelle de ses yeux",
+                    "de-DE": "Sein Augapfel",
+                    "it-IT": "La sua preferita",
+                    "pt-PT": "A menina dos olhos",
+                    "ja-JP": "お気に入り"
+                },
+                "description": {
+                    "en-US": "Eliminate Satan's first acolyte",
+                    "es-ES": "Elimina al primer acólito de Satán",
+                    "fr-FR": "Éliminer le 1er acolyte de Satan",
+                    "de-DE": "Eliminiere Satans ersten Diener",
+                    "it-IT": "Elimina il primo discepolo di Satana",
+                    "pt-PT": "Elimine o primeiro acólito de Satã",
+                    "ja-JP": "サタンの第一従者を始末しろ"
+                },
+                "howto": {
+                    "en-US": "Eliminate Satan's first acolyte",
+                    "es-ES": "Elimina al primer acólito de Satán",
+                    "fr-FR": "Éliminer le 1er acolyte de Satan",
+                    "de-DE": "Eliminiere Satans ersten Diener",
+                    "it-IT": "Elimina il primo discepolo di Satana",
+                    "pt-PT": "Elimine o primeiro acólito de Satã",
+                    "ja-JP": "サタンの第一従者を始末しろ"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "en-US": "Natural selection",
+                    "es-ES": "Selección natural",
+                    "fr-FR": "Sélection naturelle",
+                    "de-DE": "Natürliche Auslese",
+                    "it-IT": "Selezione naturale",
+                    "pt-PT": "Seleção natural",
+                    "ja-JP": "自然淘汰"
+                },
+                "description": {
+                    "en-US": "Defeat Agreus",
+                    "es-ES": "Vence a Agreus",
+                    "fr-FR": "Vaincre Agreus",
+                    "de-DE": "Besiege Agreus",
+                    "it-IT": "Sconfiggi Agreus",
+                    "pt-PT": "Derrote Agreus",
+                    "ja-JP": "アグレウスを倒せ"
+                },
+                "howto": {
+                    "en-US": "Defeat Agreus",
+                    "es-ES": "Vence a Agreus",
+                    "fr-FR": "Vaincre Agreus",
+                    "de-DE": "Besiege Agreus",
+                    "it-IT": "Sconfiggi Agreus",
+                    "pt-PT": "Derrote Agreus",
+                    "ja-JP": "アグレウスを倒せ"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "10.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "en-US": "Once upon a time...",
+                    "es-ES": "Erase una vez...",
+                    "fr-FR": "Il était une fois...",
+                    "de-DE": "Es war einmal …",
+                    "it-IT": "C'era una volta...",
+                    "pt-PT": "Era uma vez...",
+                    "ja-JP": "昔々..."
+                },
+                "description": {
+                    "en-US": "Sabotage the Toy Maker's show",
+                    "es-ES": "Sabotea la función del Maestro Juguetero",
+                    "fr-FR": "Saboter le spectacle du fabricant de jouets",
+                    "de-DE": "Sabotiere die Vorstellung des Puppenmachers",
+                    "it-IT": "Sabota lo spettacolo del Giocattolaio",
+                    "pt-PT": "Sabote o show do Criador de Brinquedos",
+                    "ja-JP": "トイメーカーの劇を潰せ"
+                },
+                "howto": {
+                    "en-US": "Sabotage the Toy Maker's show",
+                    "es-ES": "Sabotea la función del Maestro Juguetero",
+                    "fr-FR": "Saboter le spectacle du fabricant de jouets",
+                    "de-DE": "Sabotiere die Vorstellung des Puppenmachers",
+                    "it-IT": "Sabota lo spettacolo del Giocattolaio",
+                    "pt-PT": "Sabote o show do Criador de Brinquedos",
+                    "ja-JP": "トイメーカーの劇を潰せ"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "11.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "en-US": "Family reunion",
+                    "es-ES": "Reunión familiar",
+                    "fr-FR": "Réunion de famille",
+                    "de-DE": "Familienzusammenführung",
+                    "it-IT": "Riunione di famiglia",
+                    "pt-PT": "Reunião familiar",
+                    "ja-JP": "家族の再会"
+                },
+                "description": {
+                    "en-US": "Gain the trust of Victor",
+                    "es-ES": "Ganate la confianza de Victor",
+                    "fr-FR": "Gagner la confiance de Victor",
+                    "de-DE": "Gewinne Victors Vertrauen",
+                    "it-IT": "Guadagna la fiducia di Victor",
+                    "pt-PT": "Ganhe a confiança de Victor",
+                    "ja-JP": "ビクターを仲間にしろ"
+                },
+                "howto": {
+                    "en-US": "Gain the trust of Victor",
+                    "es-ES": "Ganate la confianza de Victor",
+                    "fr-FR": "Gagner la confiance de Victor",
+                    "de-DE": "Gewinne Victors Vertrauen",
+                    "it-IT": "Guadagna la fiducia di Victor",
+                    "pt-PT": "Ganhe a confiança de Victor",
+                    "ja-JP": "ビクターを仲間にしろ"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "12.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "en-US": "Inner Dracula",
+                    "es-ES": "Drácula primigénio",
+                    "fr-FR": "Le Dracula intérieur",
+                    "de-DE": "Innerer Dracula",
+                    "it-IT": "Dracula interiore",
+                    "pt-PT": "Drácula Interior",
+                    "ja-JP": "内なるドラキュラ"
+                },
+                "description": {
+                    "en-US": "Shed your darkest self",
+                    "es-ES": "Deshazte de tu yo más oscuro",
+                    "fr-FR": "Rejeter sa part d'ombre",
+                    "de-DE": "Stoße dein dunkelstes Ich ab",
+                    "it-IT": "Sbarazzati del tuo lato oscuro",
+                    "pt-PT": "Livre-se do seu lado sombrio",
+                    "ja-JP": "内なる闇を脱皮しろ"
+                },
+                "howto": {
+                    "en-US": "Shed your darkest self",
+                    "es-ES": "Deshazte de tu yo más oscuro",
+                    "fr-FR": "Rejeter sa part d'ombre",
+                    "de-DE": "Stoße dein dunkelstes Ich ab",
+                    "it-IT": "Sbarazzati del tuo lato oscuro",
+                    "pt-PT": "Livre-se do seu lado sombrio",
+                    "ja-JP": "内なる闇を脱皮しろ"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "13.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "en-US": "Dissipated storm",
+                    "es-ES": "Tormenta disipada",
+                    "fr-FR": "Dissiper la tempête",
+                    "de-DE": "Abgeschwächter Sturm",
+                    "it-IT": "Tempesta dissipata",
+                    "pt-PT": "Tempestade dissipada",
+                    "ja-JP": "消えた嵐"
+                },
+                "description": {
+                    "en-US": "Finish off Satan's second acolyte",
+                    "es-ES": "Acaba con el segundo acólito de Satán",
+                    "fr-FR": "Supprimer le deuxième acolyte de Satan",
+                    "de-DE": "Vernichte Satans zweiten Diener",
+                    "it-IT": "Elimina il secondo discepolo di Satana",
+                    "pt-PT": "Acabe com o segundo acólito de Satã",
+                    "ja-JP": "サタンの第二従者を始末しろ"
+                },
+                "howto": {
+                    "en-US": "Finish off Satan's second acolyte",
+                    "es-ES": "Acaba con el segundo acólito de Satán",
+                    "fr-FR": "Supprimer le deuxième acolyte de Satan",
+                    "de-DE": "Vernichte Satans zweiten Diener",
+                    "it-IT": "Elimina il secondo discepolo di Satana",
+                    "pt-PT": "Acabe com o segundo acólito de Satã",
+                    "ja-JP": "サタンの第二従者を始末しろ"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "14.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "en-US": "Death is not enough",
+                    "es-ES": "La muerte no es suficiente",
+                    "fr-FR": "La mort ne suffit pas",
+                    "de-DE": "Der Tod ist nicht genug",
+                    "it-IT": "La morte non basta",
+                    "pt-PT": "A morte não é o bastante",
+                    "ja-JP": "死だけでは足りない"
+                },
+                "description": {
+                    "en-US": "Get rid of Zobek forever",
+                    "es-ES": "Librate de Zobek para siempre",
+                    "fr-FR": "Se débarrasser à jamais de Zobek",
+                    "de-DE": "Vernichte Zobek für immer",
+                    "it-IT": "Sbarazzati per sempre di Zobek",
+                    "pt-PT": "Livre-se de Zobek para sempre",
+                    "ja-JP": "ゾベックに永遠の別れを"
+                },
+                "howto": {
+                    "en-US": "Get rid of Zobek forever",
+                    "es-ES": "Librate de Zobek para siempre",
+                    "fr-FR": "Se débarrasser à jamais de Zobek",
+                    "de-DE": "Vernichte Zobek für immer",
+                    "it-IT": "Sbarazzati per sempre di Zobek",
+                    "pt-PT": "Livre-se de Zobek para sempre",
+                    "ja-JP": "ゾベックに永遠の別れを"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "15.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "en-US": "The End",
+                    "es-ES": "Fin",
+                    "fr-FR": "Fin",
+                    "de-DE": "Das Ende",
+                    "it-IT": "Fine",
+                    "pt-PT": "O Fim",
+                    "ja-JP": "ザ・エンド"
+                },
+                "description": {
+                    "en-US": "Annihilate Satan and save the world, again",
+                    "es-ES": "Aniquila a Satán y salva el mundo, otra vez",
+                    "fr-FR": "Annihiler Satan et sauver le monde, encore une fois",
+                    "de-DE": "Vernichte Satan und rette noch einmal die Welt",
+                    "it-IT": "Annienta Satana e salva di nuovo il mondo",
+                    "pt-PT": "Aniquile Satã e salve o mundo, de novo",
+                    "ja-JP": "サタンを抹殺して、再び人類を救え"
+                },
+                "howto": {
+                    "en-US": "Annihilate Satan and save the world, again",
+                    "es-ES": "Aniquila a Satán y salva el mundo, otra vez",
+                    "fr-FR": "Annihiler Satan et sauver le monde, encore une fois",
+                    "de-DE": "Vernichte Satan und rette noch einmal die Welt",
+                    "it-IT": "Annienta Satana e salva di nuovo il mondo",
+                    "pt-PT": "Aniquile Satã e salve o mundo, de novo",
+                    "ja-JP": "サタンを抹殺して、再び人類を救え"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "30",
+            "imageId": "16.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "en-US": "Prince of Darkness",
+                    "es-ES": "Principe de las Tinieblas",
+                    "fr-FR": "Prince des ténèbres",
+                    "de-DE": "Prinz der Finsternis",
+                    "it-IT": "Principe delle Tenebre",
+                    "pt-PT": "Príncipe das Trevas",
+                    "ja-JP": "闇の王子"
+                },
+                "description": {
+                    "en-US": "Complete the game at \"Prince of Darkness\" difficulty",
+                    "es-ES": "Completa el juego en dificultad \"Principe de las Tinieblas\"",
+                    "fr-FR": "Terminer le jeu au niveau de difficulté « Prince des ténèbres »",
+                    "de-DE": "Schließe das Spiel auf der Schwierigkeit \"Prinz der Finsternis\" ab",
+                    "it-IT": "Completa il gioco al livello di difficoltà \"Principe delle Tenebre\"",
+                    "pt-PT": "Termine o jogo na dificuldade \"Príncipe das Trevas\"",
+                    "ja-JP": "難易度「闇の王子」でゲームを完全クリア"
+                },
+                "howto": {
+                    "en-US": "Complete the game at \"Prince of Darkness\" difficulty",
+                    "es-ES": "Completa el juego en dificultad \"Principe de las Tinieblas\"",
+                    "fr-FR": "Terminer le jeu au niveau de difficulté « Prince des ténèbres »",
+                    "de-DE": "Schließe das Spiel auf der Schwierigkeit \"Prinz der Finsternis\" ab",
+                    "it-IT": "Completa il gioco al livello di difficoltà \"Principe delle Tenebre\"",
+                    "pt-PT": "Termine o jogo na dificuldade \"Príncipe das Trevas\"",
+                    "ja-JP": "難易度「闇の王子」でゲームを完全クリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "17.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "en-US": "Kleidos Champion I",
+                    "es-ES": "Campeón del Kleidos I",
+                    "fr-FR": "Champion de Kleidos I",
+                    "de-DE": "Kleidos-Champion I",
+                    "it-IT": "Campione del Kleidos I",
+                    "pt-PT": "Campeão do Kleidos I",
+                    "ja-JP": "クライドス・チャンピオン I"
+                },
+                "description": {
+                    "en-US": "Complete all the Reminiscences of Sapphire challenges",
+                    "es-ES": "Supera todos los desafíos de las Reminisencias de Zafiro",
+                    "fr-FR": "Terminer tous les défis Réminiscences de saphir",
+                    "de-DE": "Schließe alle Reminiszenz von Saphir-Herausforderungen ab",
+                    "it-IT": "Completa tutte le sfide delle Reminiscenze dello Zaffiro",
+                    "pt-PT": "Complete todos os desafios das Reminiscências de Safira",
+                    "ja-JP": "サファイヤの回想チャレンジを全てクリア"
+                },
+                "howto": {
+                    "en-US": "Complete all the Reminiscences of Sapphire challenges",
+                    "es-ES": "Supera todos los desafíos de las Reminisencias de Zafiro",
+                    "fr-FR": "Terminer tous les défis Réminiscences de saphir",
+                    "de-DE": "Schließe alle Reminiszenz von Saphir-Herausforderungen ab",
+                    "it-IT": "Completa tutte le sfide delle Reminiscenze dello Zaffiro",
+                    "pt-PT": "Complete todos os desafios das Reminiscências de Safira",
+                    "ja-JP": "サファイヤの回想チャレンジを全てクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "18.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "en-US": "Kleidos Champion II",
+                    "es-ES": "Campeón del Kleidos II",
+                    "fr-FR": "Champion de Kleidos II",
+                    "de-DE": "Kleidos-Champion II",
+                    "it-IT": "Campione del Kleidos II",
+                    "pt-PT": "Campeão do Kleidos II",
+                    "ja-JP": "クライドス・チャンピオン II"
+                },
+                "description": {
+                    "en-US": "Complete all the Recollections of Ruby challenges",
+                    "es-ES": "Supera todos los desafíos de las Evocaciones de Rubí",
+                    "fr-FR": "Terminer tous les défis Souvenirs de rubis",
+                    "de-DE": "Schließe alle Rückbesinnung von Rubin-Herausforderungen ab",
+                    "it-IT": "Completa tutte le sfide dei Ricordi del Rubino",
+                    "pt-PT": "Complete todos os desafios das Recordações de Rubi",
+                    "ja-JP": "ルビーの記憶チャレンジを全てクリア"
+                },
+                "howto": {
+                    "en-US": "Complete all the Recollections of Ruby challenges",
+                    "es-ES": "Supera todos los desafíos de las Evocaciones de Rubí",
+                    "fr-FR": "Terminer tous les défis Souvenirs de rubis",
+                    "de-DE": "Schließe alle Rückbesinnung von Rubin-Herausforderungen ab",
+                    "it-IT": "Completa tutte le sfide dei Ricordi del Rubino",
+                    "pt-PT": "Complete todos os desafios das Recordações de Rubi",
+                    "ja-JP": "ルビーの記憶チャレンジを全てクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "19.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "en-US": "Kleidos Champion III",
+                    "es-ES": "Campeón del Kleidos III",
+                    "fr-FR": "Champion de Kleidos III",
+                    "de-DE": "Kleidos-Champion III",
+                    "it-IT": "Campione del Kleidos III",
+                    "pt-PT": "Campeão do Kleidos III",
+                    "ja-JP": "クライドス・チャンピオン III"
+                },
+                "description": {
+                    "en-US": "Complete all the Reminders of Amethyst challenges",
+                    "es-ES": "Supera todos los desafíos de los Recuerdos de Amatista",
+                    "fr-FR": "Terminer tous les défis Rappels d'améthyste",
+                    "de-DE": "Schließe alle Andenken von Amethyst-Herausforderungen ab",
+                    "it-IT": "Completa tutte le sfide delle Rimembranze dell'Ametista",
+                    "pt-PT": "Complete todos os desafios das Lembranças de Ametista",
+                    "ja-JP": "アメシストの形見チャレンジを全てクリア"
+                },
+                "howto": {
+                    "en-US": "Complete all the Reminders of Amethyst challenges",
+                    "es-ES": "Supera todos los desafíos de los Recuerdos de Amatista",
+                    "fr-FR": "Terminer tous les défis Rappels d'améthyste",
+                    "de-DE": "Schließe alle Andenken von Amethyst-Herausforderungen ab",
+                    "it-IT": "Completa tutte le sfide delle Rimembranze dell'Ametista",
+                    "pt-PT": "Complete todos os desafios das Lembranças de Ametista",
+                    "ja-JP": "アメシストの形見チャレンジを全てクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "20.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "en-US": "Kleidos Champion IV",
+                    "es-ES": "Campeón del Kleidos IV",
+                    "fr-FR": "Champion de Kleidos IV",
+                    "de-DE": "Kleidos-Champion IV",
+                    "it-IT": "Campione del Kleidos IV",
+                    "pt-PT": "Campeão do Kleidos IV",
+                    "ja-JP": "クライドス・チャンピオン IV"
+                },
+                "description": {
+                    "en-US": "Complete all the Memories of Emerald challenges",
+                    "es-ES": "Supera todos los desafíos de las Memorias de Esmeralda",
+                    "fr-FR": "Terminer tous les défis Ressouvenances d'émeraude",
+                    "de-DE": "Schließe alle Erinnerung von Smaragd-Herausforderungen ab",
+                    "it-IT": "Completa tutte le sfide delle Memorie dello Smeraldo",
+                    "pt-PT": "Complete todos os desafios das Memórias de Esmeralda",
+                    "ja-JP": "エメラルドの思い出チャレンジを全てクリア"
+                },
+                "howto": {
+                    "en-US": "Complete all the Memories of Emerald challenges",
+                    "es-ES": "Supera todos los desafíos de las Memorias de Esmeralda",
+                    "fr-FR": "Terminer tous les défis Ressouvenances d'émeraude",
+                    "de-DE": "Schließe alle Erinnerung von Smaragd-Herausforderungen ab",
+                    "it-IT": "Completa tutte le sfide delle Memorie dello Smeraldo",
+                    "pt-PT": "Complete todos os desafios das Memórias de Esmeralda",
+                    "ja-JP": "エメラルドの思い出チャレンジを全てクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "21.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "en-US": "Kleidos Hero",
+                    "es-ES": "Heroe del Kleidos",
+                    "fr-FR": "Héros du Kleidos",
+                    "de-DE": "Kleidos-Held",
+                    "it-IT": "Eroe del Kleidos",
+                    "pt-PT": "Herói do Kleidos",
+                    "ja-JP": "クレイドス・ヒーロー"
+                },
+                "description": {
+                    "en-US": "Complete all of the Kleidos challenges",
+                    "es-ES": "Supera todos los retos del Kleidos",
+                    "fr-FR": "Terminer tous les défis du Kleidos",
+                    "de-DE": "Schließe alle Kleidos-Herausforderungen ab",
+                    "it-IT": "Completa tutte le sfide del Kleidos",
+                    "pt-PT": "Complete todos os desafios do Kleidos",
+                    "ja-JP": "クレイドスチャレンジをすべてクリア"
+                },
+                "howto": {
+                    "en-US": "Complete all of the Kleidos challenges",
+                    "es-ES": "Supera todos los retos del Kleidos",
+                    "fr-FR": "Terminer tous les défis du Kleidos",
+                    "de-DE": "Schließe alle Kleidos-Herausforderungen ab",
+                    "it-IT": "Completa tutte le sfide del Kleidos",
+                    "pt-PT": "Complete todos os desafios do Kleidos",
+                    "ja-JP": "クレイドスチャレンジをすべてクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "22.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "en-US": "Kleidos Legend",
+                    "es-ES": "Leyenda del Kleidos",
+                    "fr-FR": "Légende du Kleidos",
+                    "de-DE": "Kleidos-Legende",
+                    "it-IT": "Leggenda del Kleidos",
+                    "pt-PT": "Lenda do Kleidos",
+                    "ja-JP": "クレイドス・レジェンド"
+                },
+                "description": {
+                    "en-US": "Complete all of the Kleidos challenges at \"Prince of Darkness\" difficulty",
+                    "es-ES": "Supera todos los retos del Kleidos en dificultad \"Principe de las Tinieblas\"",
+                    "fr-FR": "Terminer tous les défis du Kleidos au niveau de difficulté « Prince des ténèbres »",
+                    "de-DE": "Schließe alle Kleidos-Herausforderungen auf der Schwierigkeit \"Prinz der Finsternis\" ab",
+                    "it-IT": "Completa tutte le sfide del Kleidos al livello di difficoltà \"Principe delle Tenebre\"",
+                    "pt-PT": "Complete todos os desafios do Kleidos na dificuldade \"Príncipe das Trevas\"",
+                    "ja-JP": "難易度「闇の王子」でクレイドスチャレンジをすべてクリア"
+                },
+                "howto": {
+                    "en-US": "Complete all of the Kleidos challenges at \"Prince of Darkness\" difficulty",
+                    "es-ES": "Supera todos los retos del Kleidos en dificultad \"Principe de las Tinieblas\"",
+                    "fr-FR": "Terminer tous les défis du Kleidos au niveau de difficulté « Prince des ténèbres »",
+                    "de-DE": "Schließe alle Kleidos-Herausforderungen auf der Schwierigkeit \"Prinz der Finsternis\" ab",
+                    "it-IT": "Completa tutte le sfide del Kleidos al livello di difficoltà \"Principe delle Tenebre\"",
+                    "pt-PT": "Complete todos os desafios do Kleidos na dificuldade \"Príncipe das Trevas\"",
+                    "ja-JP": "難易度「闇の王子」でクレイドスチャレンジをすべてクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "23.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "en-US": "Void Collector",
+                    "es-ES": "Coleccionista de Vacío",
+                    "fr-FR": "Collectionneur du néant",
+                    "de-DE": "Leere-Sammler",
+                    "it-IT": "Collezionista del Vuoto",
+                    "pt-PT": "Colecionador do Vazio",
+                    "ja-JP": "ボイド・コレクター"
+                },
+                "description": {
+                    "en-US": "Recover 30 Void Gems",
+                    "es-ES": "Recupera las 30 gemas de Vacío",
+                    "fr-FR": "Récupérer 30 gemmes du néant",
+                    "de-DE": "Erhalte 30 Leeresteine",
+                    "it-IT": "Recupera 30 gemme del Vuoto",
+                    "pt-PT": "Recupere 30 Gemas do Vazio",
+                    "ja-JP": "ボイド・ジェムを３０個集める"
+                },
+                "howto": {
+                    "en-US": "Recover 30 Void Gems",
+                    "es-ES": "Recupera las 30 gemas de Vacío",
+                    "fr-FR": "Récupérer 30 gemmes du néant",
+                    "de-DE": "Erhalte 30 Leeresteine",
+                    "it-IT": "Recupera 30 gemme del Vuoto",
+                    "pt-PT": "Recupere 30 Gemas do Vazio",
+                    "ja-JP": "ボイド・ジェムを３０個集める"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "24.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "en-US": "Chaos Collector",
+                    "es-ES": "Coleccionista de Caos",
+                    "fr-FR": "Collectionneur du chaos",
+                    "de-DE": "Chaos-Sammler",
+                    "it-IT": "Collezionista del Caos",
+                    "pt-PT": "Colecionador do Caos",
+                    "ja-JP": "カオス・コレクター"
+                },
+                "description": {
+                    "en-US": "Recover 30 Chaos Gems",
+                    "es-ES": "Recupera las 30 gemas de Caos",
+                    "fr-FR": "Récupérer 30 gemmes du chaos",
+                    "de-DE": "Erhalte 30 Chaossteine",
+                    "it-IT": "Recupera 30 gemme del Caos",
+                    "pt-PT": "Recupere 30 Gemas do Caos",
+                    "ja-JP": "カオス・ジェムを３０個集める"
+                },
+                "howto": {
+                    "en-US": "Recover 30 Chaos Gems",
+                    "es-ES": "Recupera las 30 gemas de Caos",
+                    "fr-FR": "Récupérer 30 gemmes du chaos",
+                    "de-DE": "Erhalte 30 Chaossteine",
+                    "it-IT": "Recupera 30 gemme del Caos",
+                    "pt-PT": "Recupere 30 Gemas do Caos",
+                    "ja-JP": "カオス・ジェムを３０個集める"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "25.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "en-US": "Life Collector",
+                    "es-ES": "Coleccionista de Vida",
+                    "fr-FR": "Collectionneur de vie",
+                    "de-DE": "Lebens-Sammler",
+                    "it-IT": "Collezionista della Vita",
+                    "pt-PT": "Colecionador da Vida",
+                    "ja-JP": "ライフ・コレクター"
+                },
+                "description": {
+                    "en-US": "Recover 30 Life Gems",
+                    "es-ES": "Recupera las 30 gemas de Vida",
+                    "fr-FR": "Récupérer 30 gemmes de santé",
+                    "de-DE": "Erhalte 30 Lebenssteine",
+                    "it-IT": "Recupera 30 gemme della Vita",
+                    "pt-PT": "Recupere 30 Gemas da Vida",
+                    "ja-JP": "ライフ・ジェムを３０個集める"
+                },
+                "howto": {
+                    "en-US": "Recover 30 Life Gems",
+                    "es-ES": "Recupera las 30 gemas de Vida",
+                    "fr-FR": "Récupérer 30 gemmes de santé",
+                    "de-DE": "Erhalte 30 Lebenssteine",
+                    "it-IT": "Recupera 30 gemme della Vita",
+                    "pt-PT": "Recupere 30 Gemas da Vida",
+                    "ja-JP": "ライフ・ジェムを３０個集める"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "26.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "en-US": "Expert Silversmith",
+                    "es-ES": "Experto orfebre",
+                    "fr-FR": "Expert argentier",
+                    "de-DE": "Silberschmied-Meister",
+                    "it-IT": "Argentiere esperto",
+                    "pt-PT": "Especialista em Prataria",
+                    "ja-JP": "銀細工の天才"
+                },
+                "description": {
+                    "en-US": "Recover all the Void, Chaos and Life gems",
+                    "es-ES": "Recupera todas las gemas de Vacío, Caos y Vida",
+                    "fr-FR": "Récupérer toutes les gemmes du néant, du chaos et de santé",
+                    "de-DE": "Erhalte alle Leere-, Chaos- und Lebenssteine",
+                    "it-IT": "Recupera tutte le gemme del Vuoto, del Caos e della Vita",
+                    "pt-PT": "Recupere todas as gemas do Vazio, do Caos e da Vida",
+                    "ja-JP": "ボイド、カオス、ライフのジェムをすべて集める"
+                },
+                "howto": {
+                    "en-US": "Recover all the Void, Chaos and Life gems",
+                    "es-ES": "Recupera todas las gemas de Vacío, Caos y Vida",
+                    "fr-FR": "Récupérer toutes les gemmes du néant, du chaos et de santé",
+                    "de-DE": "Erhalte alle Leere-, Chaos- und Lebenssteine",
+                    "it-IT": "Recupera tutte le gemme del Vuoto, del Caos e della Vita",
+                    "pt-PT": "Recupere todas as gemas do Vazio, do Caos e da Vida",
+                    "ja-JP": "ボイド、カオス、ライフのジェムをすべて集める"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "30",
+            "imageId": "27.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "en-US": "Multiple Pockets",
+                    "es-ES": "Múltiples bolsillos",
+                    "fr-FR": "Grandes poches",
+                    "de-DE": "Viele Taschen",
+                    "it-IT": "Tasche multiple",
+                    "pt-PT": "Bolsos múltiplos",
+                    "ja-JP": "マルチポケット"
+                },
+                "description": {
+                    "en-US": "Recover all the upgrades for the Relics",
+                    "es-ES": "Recupera todas las mejoras de almacén para las reliquias",
+                    "fr-FR": "Récupérer toutes les améliorations pour les reliques",
+                    "de-DE": "Erhalte alle Upgrades für die Relikte",
+                    "it-IT": "Recupera tutti i potenziamenti per le reliquie",
+                    "pt-PT": "Recupere todos os aprimoramentos das Relíquias",
+                    "ja-JP": "遺品の前アップグレードを手に入れる"
+                },
+                "howto": {
+                    "en-US": "Recover all the upgrades for the Relics",
+                    "es-ES": "Recupera todas las mejoras de almacén para las reliquias",
+                    "fr-FR": "Récupérer toutes les améliorations pour les reliques",
+                    "de-DE": "Erhalte alle Upgrades für die Relikte",
+                    "it-IT": "Recupera tutti i potenziamenti per le reliquie",
+                    "pt-PT": "Recupere todos os aprimoramentos das Relíquias",
+                    "ja-JP": "遺品の前アップグレードを手に入れる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "28.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "en-US": "Philanthropist",
+                    "es-ES": "Filántropo",
+                    "fr-FR": "Philanthrope",
+                    "de-DE": "Kunstsammler",
+                    "it-IT": "Filantropo",
+                    "pt-PT": "Filantropo",
+                    "ja-JP": "博愛主義者"
+                },
+                "description": {
+                    "en-US": "Collect all of the art",
+                    "es-ES": "Colecciona todo el arte",
+                    "fr-FR": "Récupérer toutes les œuvres d'art",
+                    "de-DE": "Sammel alle Bilder",
+                    "it-IT": "Ottieni tutte le illustrazioni",
+                    "pt-PT": "Colete todas as artes",
+                    "ja-JP": "アートワークをすべて集める"
+                },
+                "howto": {
+                    "en-US": "Collect all of the art",
+                    "es-ES": "Colecciona todo el arte",
+                    "fr-FR": "Récupérer toutes les œuvres d'art",
+                    "de-DE": "Sammel alle Bilder",
+                    "it-IT": "Ottieni tutte le illustrazioni",
+                    "pt-PT": "Colete todas as artes",
+                    "ja-JP": "アートワークをすべて集める"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "29.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "en-US": "Start the path",
+                    "es-ES": "Inicia el camino",
+                    "fr-FR": "Le début du chemin",
+                    "de-DE": "Am Anfang des Weges",
+                    "it-IT": "Primi passi",
+                    "pt-PT": "Começando no caminho",
+                    "ja-JP": "マスタリーへの第一歩"
+                },
+                "description": {
+                    "en-US": "Acquire a skill",
+                    "es-ES": "Adquiere una técnica",
+                    "fr-FR": "Acquérir une compétence",
+                    "de-DE": "Lerne eine Fähigkeit",
+                    "it-IT": "Ottieni un'abilità",
+                    "pt-PT": "Adquira uma habilidade",
+                    "ja-JP": "スキルを入手する"
+                },
+                "howto": {
+                    "en-US": "Acquire a skill",
+                    "es-ES": "Adquiere una técnica",
+                    "fr-FR": "Acquérir une compétence",
+                    "de-DE": "Lerne eine Fähigkeit",
+                    "it-IT": "Ottieni un'abilità",
+                    "pt-PT": "Adquira uma habilidade",
+                    "ja-JP": "スキルを入手する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "30.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "en-US": "The path of the Whip",
+                    "es-ES": "El camino del látigo",
+                    "fr-FR": "La voie du fouet",
+                    "de-DE": "Die Peitschenkunst",
+                    "it-IT": "La via della frusta",
+                    "pt-PT": "Caminho do Chicote",
+                    "ja-JP": "鞭の道"
+                },
+                "description": {
+                    "en-US": "Acquire all of the Shadow Whip skills and upgrades",
+                    "es-ES": "Adquiere todas las técnicas y mejoras del Látigo de Sombra",
+                    "fr-FR": "Acquérir toutes les compétences et améliorations du fouet de l'ombre",
+                    "de-DE": "Erlange alle Fähigkeiten und Upgrades der Schattenpeitsche",
+                    "it-IT": "Ottieni tutte le abilità e tutti i potenziamenti della Frusta dell'Ombra",
+                    "pt-PT": "Adquira todas as habilidades e aprimoramentos do Chicote Sombrio",
+                    "ja-JP": "シャドウ・ラッシュのスキルとアップグレードをすべて入手する"
+                },
+                "howto": {
+                    "en-US": "Acquire all of the Shadow Whip skills and upgrades",
+                    "es-ES": "Adquiere todas las técnicas y mejoras del Látigo de Sombra",
+                    "fr-FR": "Acquérir toutes les compétences et améliorations du fouet de l'ombre",
+                    "de-DE": "Erlange alle Fähigkeiten und Upgrades der Schattenpeitsche",
+                    "it-IT": "Ottieni tutte le abilità e tutti i potenziamenti della Frusta dell'Ombra",
+                    "pt-PT": "Adquira todas as habilidades e aprimoramentos do Chicote Sombrio",
+                    "ja-JP": "シャドウ・ラッシュのスキルとアップグレードをすべて入手する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "31.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "en-US": "The path of the Sword",
+                    "es-ES": "El camino de la espada",
+                    "fr-FR": "La voie de l'épée",
+                    "de-DE": "Die Schwertkunst",
+                    "it-IT": "La via della spada",
+                    "pt-PT": "Caminho da Espada",
+                    "ja-JP": "ソードの道"
+                },
+                "description": {
+                    "en-US": "Acquire all of the Void Sword skills and upgrades",
+                    "es-ES": "Adquiere todas las técnicas y mejoras de la Espada de Vacío",
+                    "fr-FR": "Acquérir toutes les compétences et améliorations de l'épée du néant",
+                    "de-DE": "Erlange alle Fähigkeiten und Upgrades des Leeren Schwerts",
+                    "it-IT": "Ottieni tutte le abilità e tutti i potenziamenti della Spada del Vuoto",
+                    "pt-PT": "Adquira todas as habilidades e aprimoramentos da Espada do Vazio",
+                    "ja-JP": "のスキルとアップグレードをすべて入手する"
+                },
+                "howto": {
+                    "en-US": "Acquire all of the Void Sword skills and upgrades",
+                    "es-ES": "Adquiere todas las técnicas y mejoras de la Espada de Vacío",
+                    "fr-FR": "Acquérir toutes les compétences et améliorations de l'épée du néant",
+                    "de-DE": "Erlange alle Fähigkeiten und Upgrades des Leeren Schwerts",
+                    "it-IT": "Ottieni tutte le abilità e tutti i potenziamenti della Spada del Vuoto",
+                    "pt-PT": "Adquira todas as habilidades e aprimoramentos da Espada do Vazio",
+                    "ja-JP": "のスキルとアップグレードをすべて入手する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "32.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "en-US": "The path of the Claws",
+                    "es-ES": "El camino de las garras",
+                    "fr-FR": "La voie des griffes",
+                    "de-DE": "Die Krallenkunst",
+                    "it-IT": "La via degli artigli",
+                    "pt-PT": "Caminho das Garras",
+                    "ja-JP": "クローの道"
+                },
+                "description": {
+                    "en-US": "Acquire all of the Chaos Claws skills and upgrades",
+                    "es-ES": "Adquiere todas las técnicas y mejoras de las Garras de Caos",
+                    "fr-FR": "Acquérir toutes les compétences et améliorations des griffes du chaos",
+                    "de-DE": "Erlange alle Fähigkeiten und Upgrades der Chaoskrallen",
+                    "it-IT": "Ottieni tutte le abilità e tutti i potenziamenti degli Artigli del Caos",
+                    "pt-PT": "Adquira todas as habilidades e aprimoramentos das Garras do Caos",
+                    "ja-JP": "カオス・クローのスキルとアップグレードをすべて入手する"
+                },
+                "howto": {
+                    "en-US": "Acquire all of the Chaos Claws skills and upgrades",
+                    "es-ES": "Adquiere todas las técnicas y mejoras de las Garras de Caos",
+                    "fr-FR": "Acquérir toutes les compétences et améliorations des griffes du chaos",
+                    "de-DE": "Erlange alle Fähigkeiten und Upgrades der Chaoskrallen",
+                    "it-IT": "Ottieni tutte le abilità e tutti i potenziamenti degli Artigli del Caos",
+                    "pt-PT": "Adquira todas as habilidades e aprimoramentos das Garras do Caos",
+                    "ja-JP": "カオス・クローのスキルとアップグレードをすべて入手する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "33.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "en-US": "The path of the Warrior",
+                    "es-ES": "El camino del guerrero",
+                    "fr-FR": "La voie du guerrier",
+                    "de-DE": "Der Weg des Kriegers",
+                    "it-IT": "La via del guerriero",
+                    "pt-PT": "Caminho do Guerreiro",
+                    "ja-JP": "戦士の道"
+                },
+                "description": {
+                    "en-US": "Acquire all of the skills and upgrades",
+                    "es-ES": "Adquiere todas las técnicas y mejoras",
+                    "fr-FR": "Acquérir toutes les compétences et améliorations",
+                    "de-DE": "Erlange alle Fähigkeiten und Upgrades",
+                    "it-IT": "Ottieni tutte le abilità e tutti i potenziamenti",
+                    "pt-PT": "Adquira todas as habilidades e aprimoramentos",
+                    "ja-JP": "スキルとアップグレードをすべて入手する"
+                },
+                "howto": {
+                    "en-US": "Acquire all of the skills and upgrades",
+                    "es-ES": "Adquiere todas las técnicas y mejoras",
+                    "fr-FR": "Acquérir toutes les compétences et améliorations",
+                    "de-DE": "Erlange alle Fähigkeiten und Upgrades",
+                    "it-IT": "Ottieni tutte le abilità e tutti i potenziamenti",
+                    "pt-PT": "Adquira todas as habilidades e aprimoramentos",
+                    "ja-JP": "スキルとアップグレードをすべて入手する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "34.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "en-US": "Good customer",
+                    "es-ES": "Buen cliente",
+                    "fr-FR": "Bon client",
+                    "de-DE": "Guter Kunde",
+                    "it-IT": "Cliente abituale",
+                    "pt-PT": "Cliente da casa",
+                    "ja-JP": "お得意様"
+                },
+                "description": {
+                    "en-US": "Buy an item at the Chupacabras' shop",
+                    "es-ES": "Compra un articulo en la tienda del Chupacabras",
+                    "fr-FR": "Acheter un objet à la boutique de Chupacabras",
+                    "de-DE": "Kaufe etwas im Laden des Chupacabras'",
+                    "it-IT": "Acquista un oggetto nel negozio del Chupacabra",
+                    "pt-PT": "Compre um item na loja do Chupacabras",
+                    "ja-JP": "チュパカブラのショップでアイテムを購入"
+                },
+                "howto": {
+                    "en-US": "Buy an item at the Chupacabras' shop",
+                    "es-ES": "Compra un articulo en la tienda del Chupacabras",
+                    "fr-FR": "Acheter un objet à la boutique de Chupacabras",
+                    "de-DE": "Kaufe etwas im Laden des Chupacabras'",
+                    "it-IT": "Acquista un oggetto nel negozio del Chupacabra",
+                    "pt-PT": "Compre um item na loja do Chupacabras",
+                    "ja-JP": "チュパカブラのショップでアイテムを購入"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "5",
+            "imageId": "35.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "en-US": "Customer of the month",
+                    "es-ES": "Cliente del mes",
+                    "fr-FR": "Client du mois",
+                    "de-DE": "Kunde des Monats",
+                    "it-IT": "Cliente del mese",
+                    "pt-PT": "Cliente do mês",
+                    "ja-JP": "常連客"
+                },
+                "description": {
+                    "en-US": "Spend a total of 20000 Experience Points at the Chupacabras' shop",
+                    "es-ES": "Gasta un total de 20000 Puntos de Experiencia en la tienda del Chupacabras",
+                    "fr-FR": "Dépenser 20 000 points d'expérience dans la boutique de Chupacabras",
+                    "de-DE": "Gib insg. 20000 Erfahrungspunkte im Laden des Chupacabras' aus",
+                    "it-IT": "Spendi un totale di 20.000 Punti Esperienza nel negozio del Chupacabra",
+                    "pt-PT": "Gaste um total de 20000 Pontos de Experiência na loja do Chupacabras",
+                    "ja-JP": "チュパカブラのショップで経験値を合計２００００使う"
+                },
+                "howto": {
+                    "en-US": "Spend a total of 20000 Experience Points at the Chupacabras' shop",
+                    "es-ES": "Gasta un total de 20000 Puntos de Experiencia en la tienda del Chupacabras",
+                    "fr-FR": "Dépenser 20 000 points d'expérience dans la boutique de Chupacabras",
+                    "de-DE": "Gib insg. 20000 Erfahrungspunkte im Laden des Chupacabras' aus",
+                    "it-IT": "Spendi un totale di 20.000 Punti Esperienza nel negozio del Chupacabra",
+                    "pt-PT": "Gaste um total de 20000 Pontos de Experiência na loja do Chupacabras",
+                    "ja-JP": "チュパカブラのショップで経験値を合計２００００使う"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "36.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "en-US": "Initiated in Mastery",
+                    "es-ES": "Iniciado en la Maestría",
+                    "fr-FR": "Initiation à la maîtrise",
+                    "de-DE": "Übung macht den Meister",
+                    "it-IT": "Maestria per iniziare",
+                    "pt-PT": "Iniciado no Domínio",
+                    "ja-JP": "マスタリーの新参者"
+                },
+                "description": {
+                    "en-US": "Increase the Mastery Level of a weapon",
+                    "es-ES": "Aumenta el Nivel de Maestría de un arma",
+                    "fr-FR": "Augmenter le niveau de maîtrise d'une arme",
+                    "de-DE": "Erhöhe den Beherrschungslevel einer Waffe",
+                    "it-IT": "Aumenta il livello di maestria di un'arma",
+                    "pt-PT": "Aumente o nível de domínio de uma arma",
+                    "ja-JP": "どれかのウェポンのマスタリーレベルを増やす"
+                },
+                "howto": {
+                    "en-US": "Increase the Mastery Level of a weapon",
+                    "es-ES": "Aumenta el Nivel de Maestría de un arma",
+                    "fr-FR": "Augmenter le niveau de maîtrise d'une arme",
+                    "de-DE": "Erhöhe den Beherrschungslevel einer Waffe",
+                    "it-IT": "Aumenta il livello di maestria di un'arma",
+                    "pt-PT": "Aumente o nível de domínio de uma arma",
+                    "ja-JP": "どれかのウェポンのマスタリーレベルを増やす"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "5",
+            "imageId": "37.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "en-US": "Whip Master",
+                    "es-ES": "Maestro del látigo",
+                    "fr-FR": "Maître du fouet",
+                    "de-DE": "Peitschenmeister",
+                    "it-IT": "Maestro della frusta",
+                    "pt-PT": "Mestre do Chicote",
+                    "ja-JP": "鞭マスター"
+                },
+                "description": {
+                    "en-US": "Increase the Mastery Level of the Shadow Whip to the maximum",
+                    "es-ES": "Aumenta el Nivel de Maestría del Látigo de Sombra al máximo",
+                    "fr-FR": "Augmenter le niveau de maîtrise du fouet de l'ombre au maximum",
+                    "de-DE": "Erhöhe den Beherrschungslevel der Schattenpeitsche auf das Maximum",
+                    "it-IT": "Ottieni il massimo livello di maestria con la Frusta dell'Ombra",
+                    "pt-PT": "Aumente o nível de domínio do Chicote Sombrio ao máximo",
+                    "ja-JP": "シャドウ・ラッシュのマスタリー最高レベルを達成する"
+                },
+                "howto": {
+                    "en-US": "Increase the Mastery Level of the Shadow Whip to the maximum",
+                    "es-ES": "Aumenta el Nivel de Maestría del Látigo de Sombra al máximo",
+                    "fr-FR": "Augmenter le niveau de maîtrise du fouet de l'ombre au maximum",
+                    "de-DE": "Erhöhe den Beherrschungslevel der Schattenpeitsche auf das Maximum",
+                    "it-IT": "Ottieni il massimo livello di maestria con la Frusta dell'Ombra",
+                    "pt-PT": "Aumente o nível de domínio do Chicote Sombrio ao máximo",
+                    "ja-JP": "シャドウ・ラッシュのマスタリー最高レベルを達成する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "38.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "en-US": "Sword Master",
+                    "es-ES": "Maestro de la espada",
+                    "fr-FR": "Maître de l'épée",
+                    "de-DE": "Schwertmeister",
+                    "it-IT": "Maestro della spada",
+                    "pt-PT": "Mestre da Espada",
+                    "ja-JP": "ソード・マスター"
+                },
+                "description": {
+                    "en-US": "Increase the Mastery Level of the Void Sword to the maximum",
+                    "es-ES": "Aumenta el Nivel de Maestría de la Espada de Vacío al máximo",
+                    "fr-FR": "Augmenter le niveau de maîtrise de l'épée du néant au maximum",
+                    "de-DE": "Erhöhe den Beherrschungslevel des Leeren Schwerts auf das Maximum",
+                    "it-IT": "Ottieni il massimo livello di maestria con la Spada del Vuoto",
+                    "pt-PT": "Aumente o nível de domínio da Espada do Vazio ao máximo",
+                    "ja-JP": "ボイド・ソードのマスタリー最高レベルを達成する"
+                },
+                "howto": {
+                    "en-US": "Increase the Mastery Level of the Void Sword to the maximum",
+                    "es-ES": "Aumenta el Nivel de Maestría de la Espada de Vacío al máximo",
+                    "fr-FR": "Augmenter le niveau de maîtrise de l'épée du néant au maximum",
+                    "de-DE": "Erhöhe den Beherrschungslevel des Leeren Schwerts auf das Maximum",
+                    "it-IT": "Ottieni il massimo livello di maestria con la Spada del Vuoto",
+                    "pt-PT": "Aumente o nível de domínio da Espada do Vazio ao máximo",
+                    "ja-JP": "ボイド・ソードのマスタリー最高レベルを達成する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "39.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "en-US": "Claw Master",
+                    "es-ES": "Maestro de las garras",
+                    "fr-FR": "Maître des griffes",
+                    "de-DE": "Krallenmeister",
+                    "it-IT": "Maestro degli artigli",
+                    "pt-PT": "Mestre das Garras",
+                    "ja-JP": "クロー・マスター"
+                },
+                "description": {
+                    "en-US": "Increase the Mastery Level of the Chaos Claws to the maximum",
+                    "es-ES": "Aumenta el Nivel de Maestría de las Garras de Caos al máximo",
+                    "fr-FR": "Augmenter le niveau de maîtrise des griffes du chaos au maximum",
+                    "de-DE": "Erhöhe den Beherrschungslevel der Chaoskrallen auf das Maximum",
+                    "it-IT": "Ottieni il massimo livello di maestria con gli Artigli del Caos",
+                    "pt-PT": "Aumente o nível de domínio das Garras do Caos ao máximo",
+                    "ja-JP": "カオス・クローのマスタリー最高レベルを達成する"
+                },
+                "howto": {
+                    "en-US": "Increase the Mastery Level of the Chaos Claws to the maximum",
+                    "es-ES": "Aumenta el Nivel de Maestría de las Garras de Caos al máximo",
+                    "fr-FR": "Augmenter le niveau de maîtrise des griffes du chaos au maximum",
+                    "de-DE": "Erhöhe den Beherrschungslevel der Chaoskrallen auf das Maximum",
+                    "it-IT": "Ottieni il massimo livello di maestria con gli Artigli del Caos",
+                    "pt-PT": "Aumente o nível de domínio das Garras do Caos ao máximo",
+                    "ja-JP": "カオス・クローのマスタリー最高レベルを達成する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "40.png"
+        },
+        "51": {
+            "text": {
+                "name": {
+                    "en-US": "Weapons Master",
+                    "es-ES": "Maestro de armas",
+                    "fr-FR": "Maître d'armes",
+                    "de-DE": "Waffenmeister",
+                    "it-IT": "Maestro delle armi",
+                    "pt-PT": "Mestre das Armas",
+                    "ja-JP": "ウェポン・マスター"
+                },
+                "description": {
+                    "en-US": "Increase the Mastery Level of all weapons to the maximum",
+                    "es-ES": "Aumenta el Nivel de Maestría de todas las armas al máximo",
+                    "fr-FR": "Augmenter le niveau de maîtrise de toutes les armes au maximum",
+                    "de-DE": "Erhöhe den Beherrschungslevel aller Waffen auf das Maximum",
+                    "it-IT": "Ottieni il massimo livello di maestria con tutte le armi",
+                    "pt-PT": "Aumente o nível de domínio de todas as armas ao máximo",
+                    "ja-JP": "全ウェポンのマスタリー最高レベルを達成する"
+                },
+                "howto": {
+                    "en-US": "Increase the Mastery Level of all weapons to the maximum",
+                    "es-ES": "Aumenta el Nivel de Maestría de todas las armas al máximo",
+                    "fr-FR": "Augmenter le niveau de maîtrise de toutes les armes au maximum",
+                    "de-DE": "Erhöhe den Beherrschungslevel aller Waffen auf das Maximum",
+                    "it-IT": "Ottieni il massimo livello di maestria con tutte le armi",
+                    "pt-PT": "Aumente o nível de domínio de todas as armas ao máximo",
+                    "ja-JP": "全ウェポンのマスタリー最高レベルを達成する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "41.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "en-US": "Classic Flavor",
+                    "es-ES": "Sabor clásico",
+                    "fr-FR": "Recette classique",
+                    "de-DE": "Hausmannskost",
+                    "it-IT": "Sapori di una volta",
+                    "pt-PT": "Sabor Clássico",
+                    "ja-JP": "ヤキトリキング"
+                },
+                "description": {
+                    "en-US": "Cook a chicken in the old style",
+                    "es-ES": "Cocina un pollo a la vieja usanza",
+                    "fr-FR": "Cuisiner un poulet à l'ancienne",
+                    "de-DE": "Koche ein Huhn auf traditionelle Art",
+                    "it-IT": "Cuoci un pollo alla vecchia maniera",
+                    "pt-PT": "Cozinhe um frango à moda antiga",
+                    "ja-JP": "生がお嫌いなあなたに"
+                },
+                "howto": {
+                    "en-US": "Cook a chicken in the old style",
+                    "es-ES": "Cocina un pollo a la vieja usanza",
+                    "fr-FR": "Cuisiner un poulet à l'ancienne",
+                    "de-DE": "Koche ein Huhn auf traditionelle Art",
+                    "it-IT": "Cuoci un pollo alla vecchia maniera",
+                    "pt-PT": "Cozinhe um frango à moda antiga",
+                    "ja-JP": "生がお嫌いなあなたに"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "42.png"
+        },
+        "60": {
+            "text": {
+                "name": {
+                    "en-US": "Experienced",
+                    "es-ES": "Experimentado",
+                    "fr-FR": "Aguerri",
+                    "de-DE": "Könner",
+                    "it-IT": "Esperto",
+                    "pt-PT": "Experiente",
+                    "ja-JP": "経験者"
+                },
+                "description": {
+                    "en-US": "Gain a total of 10000 Experience Points",
+                    "es-ES": "Gana un total de 10000 puntos de experiencia",
+                    "fr-FR": "Gagner 10 000 points d'expérience",
+                    "de-DE": "Sammel insg. 10000 Erfahrungspunkte",
+                    "it-IT": "Ottieni un totale di 10.000 Punti Esperienza",
+                    "pt-PT": "Ganhe um total de 10000 Pontos de Experiência",
+                    "ja-JP": "経験値が合計１００0０ポイント"
+                },
+                "howto": {
+                    "en-US": "Gain a total of 10000 Experience Points",
+                    "es-ES": "Gana un total de 10000 puntos de experiencia",
+                    "fr-FR": "Gagner 10 000 points d'expérience",
+                    "de-DE": "Sammel insg. 10000 Erfahrungspunkte",
+                    "it-IT": "Ottieni un totale di 10.000 Punti Esperienza",
+                    "pt-PT": "Ganhe um total de 10000 Pontos de Experiência",
+                    "ja-JP": "経験値が合計１００0０ポイント"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "43.png"
+        },
+        "61": {
+            "text": {
+                "name": {
+                    "en-US": "Specialist",
+                    "es-ES": "Especialista",
+                    "fr-FR": "Spécialiste",
+                    "de-DE": "Spezialist",
+                    "it-IT": "Specialista",
+                    "pt-PT": "Especialista",
+                    "ja-JP": "スペシャリスト"
+                },
+                "description": {
+                    "en-US": "Gain a total of 50000 Experience Points",
+                    "es-ES": "Gana un total de 50000 puntos de experiencia",
+                    "fr-FR": "Gagner 50 000 points d'expérience",
+                    "de-DE": "Sammel insg. 50000 Erfahrungspunkte",
+                    "it-IT": "Ottieni un totale di 50.000 Punti Esperienza",
+                    "pt-PT": "Ganhe um total de 50000 Pontos de Experiência",
+                    "ja-JP": "経験値が合計５００００ポイント"
+                },
+                "howto": {
+                    "en-US": "Gain a total of 50000 Experience Points",
+                    "es-ES": "Gana un total de 50000 puntos de experiencia",
+                    "fr-FR": "Gagner 50 000 points d'expérience",
+                    "de-DE": "Sammel insg. 50000 Erfahrungspunkte",
+                    "it-IT": "Ottieni un totale di 50.000 Punti Esperienza",
+                    "pt-PT": "Ganhe um total de 50000 Pontos de Experiência",
+                    "ja-JP": "経験値が合計５００００ポイント"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "44.png"
+        },
+        "62": {
+            "text": {
+                "name": {
+                    "en-US": "Veteran",
+                    "es-ES": "Veterano",
+                    "fr-FR": "Vétéran",
+                    "de-DE": "Veteran",
+                    "it-IT": "Veterano",
+                    "pt-PT": "Veterano",
+                    "ja-JP": "ベテラン"
+                },
+                "description": {
+                    "en-US": "Gain a total of 100000 Experience Points",
+                    "es-ES": "Gana un total de 100000 puntos de experiencia",
+                    "fr-FR": "Gagner 100 000 points d'expérience",
+                    "de-DE": "Sammel insg. 100000 Erfahrungspunkte",
+                    "it-IT": "Ottieni un totale di 100.000 Punti Esperienza",
+                    "pt-PT": "Ganhe um total de 100000 Pontos de Experiência",
+                    "ja-JP": "経験値が合計１０００００ポイント"
+                },
+                "howto": {
+                    "en-US": "Gain a total of 100000 Experience Points",
+                    "es-ES": "Gana un total de 100000 puntos de experiencia",
+                    "fr-FR": "Gagner 100 000 points d'expérience",
+                    "de-DE": "Sammel insg. 100000 Erfahrungspunkte",
+                    "it-IT": "Ottieni un totale di 100.000 Punti Esperienza",
+                    "pt-PT": "Ganhe um total de 100000 Pontos de Experiência",
+                    "ja-JP": "経験値が合計１０００００ポイント"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "45.png"
+        },
+        "63": {
+            "text": {
+                "name": {
+                    "en-US": "The Outer Limits",
+                    "es-ES": "Mas allá del limite",
+                    "fr-FR": "Les limites du monde",
+                    "de-DE": "Über das Ziel hinaus",
+                    "it-IT": "Oltre il limite",
+                    "pt-PT": "Além dos limites",
+                    "ja-JP": "キング・オブ・キャッスルヴァニア"
+                },
+                "description": {
+                    "en-US": "Complete 110% of the game",
+                    "es-ES": "Completa el juego al 110%",
+                    "fr-FR": "Terminer le jeu à 110 %",
+                    "de-DE": "Schließe 110 % des Spiels ab",
+                    "it-IT": "Completa il 110% del gioco",
+                    "pt-PT": "Complete 110% do jogo",
+                    "ja-JP": "ゲームクリア１１０％をクリア"
+                },
+                "howto": {
+                    "en-US": "Complete 110% of the game",
+                    "es-ES": "Completa el juego al 110%",
+                    "fr-FR": "Terminer le jeu à 110 %",
+                    "de-DE": "Schließe 110 % des Spiels ab",
+                    "it-IT": "Completa il 110% del gioco",
+                    "pt-PT": "Complete 110% do jogo",
+                    "ja-JP": "ゲームクリア１１０％をクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "46.png"
+        }
+    }
+}

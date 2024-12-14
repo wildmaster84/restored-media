@@ -1,0 +1,1425 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Keldas Retter",
+                    "en-US": "Rescuer of Kelda",
+                    "es-ES": "Salvador de Kelda",
+                    "fr-FR": "Sauveur de Kelda",
+                    "it-IT": "Salvatore di Kelda"
+                },
+                "description": {
+                    "de-DE": "Kelda ist jetzt Eure Mätresse.",
+                    "en-US": "Kelda has become your Mistress",
+                    "es-ES": "Ahora Kelda es tu querida.",
+                    "fr-FR": "Kelda est devenue votre maîtresse",
+                    "it-IT": "Kelda è diventata tua Signora"
+                },
+                "howto": {
+                    "de-DE": "Rettet Kelda aus Nordberg.",
+                    "en-US": "Rescue Kelda from Nordberg",
+                    "es-ES": "Rescata a Kelda de Glacialia.",
+                    "fr-FR": "Sauvez Kelda à Nordberg",
+                    "it-IT": "Salva Kelda da Nordburgo"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Junos Held",
+                    "en-US": "Juno’s Champion",
+                    "es-ES": "Héroe de Juno",
+                    "fr-FR": "Champion de Juno",
+                    "it-IT": "Campione di Gemma"
+                },
+                "description": {
+                    "de-DE": "Juno ist jetzt Eure Mätresse.",
+                    "en-US": "Juno has become your Mistress",
+                    "es-ES": "Ahora Juno es tu querida.",
+                    "fr-FR": "Juno est devenue votre maîtresse",
+                    "it-IT": "Gemma è diventata tua Signora"
+                },
+                "howto": {
+                    "de-DE": "Rettet Juno aus Immerlicht.",
+                    "en-US": "Rescue Juno from Everlight",
+                    "es-ES": "Rescata a Juno de Luxeterna.",
+                    "fr-FR": "Sauvez Kelda à Clairéternel",
+                    "it-IT": "Salva Gemma da Luce Perenne"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Verführer der Königin",
+                    "en-US": "Corruptor of the Queen",
+                    "es-ES": "Corruptor de la Reina",
+                    "fr-FR": "Débaucheur de la Reine",
+                    "it-IT": "Corruttore della Regina"
+                },
+                "description": {
+                    "de-DE": "Die dunkle Feja ist jetzt Eure Mätresse.",
+                    "en-US": "Dark Fay has become your Mistress",
+                    "es-ES": "Ahora la Ninfa Siniestra es tu querida.",
+                    "fr-FR": "Fay noire est devenue votre maîtresse",
+                    "it-IT": "Fatia Oscura è diventata tua Signora"
+                },
+                "howto": {
+                    "de-DE": "Verderbt Königin Feja, um sie zur dunklen Feja zu machen.",
+                    "en-US": "Corrupt Queen Fay to turn her into Dark Fay",
+                    "es-ES": "Corrompe a la Ninfa Reina para convertirla en la Ninfa Siniestra.",
+                    "fr-FR": "Corrompez la reine Fay pour qu'elle devienne Fay noire",
+                    "it-IT": "Corrompi la Regina Fatia e trasformala in Fatia Oscura"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Geisterbringer",
+                    "en-US": "Ghost Bringer",
+                    "es-ES": "Creador de fantasmas",
+                    "fr-FR": "Aspirant du spectre",
+                    "it-IT": "Amante dei fantasmi"
+                },
+                "description": {
+                    "de-DE": "Geister-Feja ist jetzt Eure Mätresse.",
+                    "en-US": "Ghost Fay has become your Mistress",
+                    "es-ES": "Ahora la Ninfa Fantasma es tu querida.",
+                    "fr-FR": "Le spectre de Fay est devenu votre maîtresse",
+                    "it-IT": "Fatia Fantasma è diventata tua Signora"
+                },
+                "howto": {
+                    "de-DE": "Tötet Königin Feja, um sie zu Geister-Feja zu machen.",
+                    "en-US": "Kill Dark Fay to turn her into Ghost Fay",
+                    "es-ES": "Mata a la Ninfa Siniestra para convertirla en la Ninfa Fantasma.",
+                    "fr-FR": "Tuez Fay noire pour qu'elle devienne le spectre de Fay",
+                    "it-IT": "Uccidi Fatia e trasformala in Fatia Fantasma"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Tyrann von Nordberg",
+                    "en-US": "Tyrant of Nordberg",
+                    "es-ES": "Tirano de Glacialia",
+                    "fr-FR": "Tyran de Nordberg",
+                    "it-IT": "Tiranno di Nordburgo"
+                },
+                "description": {
+                    "de-DE": "Durch Unterwerfung oder Zerstörung seid Ihr jetzt Tyrann von Nordberg.",
+                    "en-US": "Through Domination or Destruction you are now the Tyrant of Nordberg.",
+                    "es-ES": "Mediante la dominación o la destrucción, te has convertido en el tirano de Glacialia.",
+                    "fr-FR": "Par la domination ou la destruction, vous êtes désormais le tyran de Nordberg",
+                    "it-IT": "Ora sei il tiranno di Nordburgo tramite dominio o distruzione"
+                },
+                "howto": {
+                    "de-DE": "Erlangt die vollständige Tyrannei in Nordberg durch Unterwerfung oder Zerstörung.",
+                    "en-US": "Complete full Tyranny over Nordberg through either Domination or Destruction",
+                    "es-ES": "Impón tu tiranía en Glacialia mediante la dominación o la destrucción.",
+                    "fr-FR": "Imposez votre tyrannie sur Nordberg par la domination ou la destruction",
+                    "it-IT": "Diventa tiranno di Nordburgo tramite dominio o distruzione"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Tyrann von Immerlicht",
+                    "en-US": "Tyrant of Everlight",
+                    "es-ES": "Tirano de Luxeterna",
+                    "fr-FR": "Tyran de Clairéternel",
+                    "it-IT": "Tiranno di Luce Perenne"
+                },
+                "description": {
+                    "de-DE": "Durch Unterwerfung oder Zerstörung seid Ihr jetzt Tyrann von Immerlicht.",
+                    "en-US": "Through Domination or Destruction you are now the Tyrant of Everlight",
+                    "es-ES": "Mediante la dominación o la destrucción, te has convertido en el tirano de Luxeterna.",
+                    "fr-FR": "Par la domination ou la destruction, vous êtes désormais le tyran de Clairéternel",
+                    "it-IT": "Ora sei il tiranno di Luce Perenne tramite dominio o distruzione"
+                },
+                "howto": {
+                    "de-DE": "Erlangt die vollständige Tyrannei in Immerlicht durch Unterwerfung oder Zerstörung.",
+                    "en-US": "Complete full Tyranny over Everlight through either Domination or Destruction",
+                    "es-ES": "Impón tu tiranía en Luxeterna mediante la dominación o la destrucción.",
+                    "fr-FR": "Imposez votre tyrannie sur Clairéternel par la domination ou la destruction",
+                    "it-IT": "Diventa tiranno di Luce Perenne tramite dominio o distruzione"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Keldas Liebhaber",
+                    "en-US": "Kelda's Special Friend",
+                    "es-ES": "Buen amigo de Kelda",
+                    "fr-FR": "Soupirant de Kelda",
+                    "it-IT": "Amico speciale di Kelda"
+                },
+                "description": {
+                    "de-DE": "Kelda ist jetzt Eure „besondere“ Freundin.",
+                    "en-US": "Kelda is now your 'special' friend",
+                    "es-ES": "Ahora Kelda es una «buena amiga».",
+                    "fr-FR": "Kelda vous accorde désormais ses faveurs",
+                    "it-IT": "Kelda è diventata la tua \"amica speciale\""
+                },
+                "howto": {
+                    "de-DE": "Kauft Geschenke für Kelda und umwerbt sie, damit sie Eure „besondere“ Freundin wird.",
+                    "en-US": "Buy gifts for Kelda and woo her into becoming your 'special' friend",
+                    "es-ES": "Compra regalos a Kelda y sedúcela para que se convierta en una «buena amiga».",
+                    "fr-FR": "Achetez des cadeaux à Kelda pour qu'elle vous accorde ses faveurs",
+                    "it-IT": "Compra regali per Kelda e convincila a diventare la tua \"amica speciale\""
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Dunkler Gebieter",
+                    "en-US": "Dark Emperor",
+                    "es-ES": "Emperador siniestro",
+                    "fr-FR": "Empereur noir",
+                    "it-IT": "Imperatore Oscuro"
+                },
+                "description": {
+                    "de-DE": "Ihr habt Solarius getötet.",
+                    "en-US": "You have killed Solarius",
+                    "es-ES": "Has matado a Solarius.",
+                    "fr-FR": "Vous avez tué Solarius",
+                    "it-IT": "Hai ucciso Solarius"
+                },
+                "howto": {
+                    "de-DE": "Tötet Solarius.",
+                    "en-US": "Kill Solarius",
+                    "es-ES": "Mata a Solarius.",
+                    "fr-FR": "Tuez Solarius",
+                    "it-IT": "Uccidi Solarius"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Perfekte Horde",
+                    "en-US": "Perfect Horde",
+                    "es-ES": "Horda perfecta",
+                    "fr-FR": "Horde parfaite",
+                    "it-IT": "Orda perfetta"
+                },
+                "description": {
+                    "de-DE": "Eure Schergenhorde hat die maximale Größe erreicht.",
+                    "en-US": "Your Minion Horde is fully upgraded",
+                    "es-ES": "Has conseguido todas las mejoras posibles para la horda de esbirros.",
+                    "fr-FR": "Votre horde de Larbins est au maximum de ses améliorations",
+                    "it-IT": "L'Orda dei Serventi ha raggiunto il suo massimo potenziale"
+                },
+                "howto": {
+                    "de-DE": "Wertet alle 50 Schergen in Eurer Horde vollständig auf.",
+                    "en-US": "Fully upgrade all 50 Minions in your Horde",
+                    "es-ES": "Consigue todas las mejoras posibles para los 50 esbirros de la horda.",
+                    "fr-FR": "Améliorez les cinquante Larbins de votre horde au maximum",
+                    "it-IT": "Conduci i 50 Serventi della tua Orda al loro massimo potenziale"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Umtriebiger Zauberer",
+                    "en-US": "Industrious Magic",
+                    "es-ES": "As de la magia",
+                    "fr-FR": "Grand magicien",
+                    "it-IT": "Fuochi d'artificio"
+                },
+                "description": {
+                    "de-DE": "Ihr habt mit Eurem Verderbtheitszauber 50 Tode verursacht.",
+                    "en-US": "You have achieved 50 kills through overcharging your Evil Presence Spell",
+                    "es-ES": "Has matado a 50 enemigos mediante el conjuro de presencia maléfica.",
+                    "fr-FR": "Vous avez tué cinquante créatures en surchargeant votre sort de Présence maléfique",
+                    "it-IT": "Hai totalizzato 50 uccisioni caricando troppo l'incantesimo Presenza Malvagia"
+                },
+                "howto": {
+                    "de-DE": "Tötet 50 Personen, indem Ihr Euren Verderbtheitszauber bis zum Ende wirkt.",
+                    "en-US": "Achieve 50 kills by overcharging your Evil Presence Spell",
+                    "es-ES": "Mata a 50 enemigos mediante el conjuro de presencia maléfica.",
+                    "fr-FR": "Tuez cinquante créatures en surchargeant votre sort de Présence maléfique",
+                    "it-IT": "Totalizza 50 uccisioni caricando troppo l'incantesimo Presenza Malvagia"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Großer Waffenschwinger",
+                    "en-US": "Big Chopper",
+                    "es-ES": "Gran descuartizador",
+                    "fr-FR": "Équarisseur",
+                    "it-IT": "Boia"
+                },
+                "description": {
+                    "de-DE": "Ihr habt 50 Tode im Nahkampf verursacht.",
+                    "en-US": "You have achieved 50 melee kills",
+                    "es-ES": "Has matado a 50 enemigos luchando cuerpo a cuerpo.",
+                    "fr-FR": "Vous avez tué cinquante créatures au corps à corps",
+                    "it-IT": "Hai totalizzato 50 uccisioni corpo a corpo in una sola partita"
+                },
+                "howto": {
+                    "de-DE": "Tötet 50 Gegner im Nahkampf.",
+                    "en-US": "Achieve 50 melee kills",
+                    "es-ES": "Mata a 50 enemigos luchando cuerpo a cuerpo.",
+                    "fr-FR": "Tuez cinquante créatures au corps à corps",
+                    "it-IT": "Totalizza 50 uccisioni corpo a corpo in una sola partita"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Retter der Roten",
+                    "en-US": "Red Rescuer",
+                    "es-ES": "Salvador de bermejos",
+                    "fr-FR": "Sauveur des Rouges",
+                    "it-IT": "Salvarossi"
+                },
+                "description": {
+                    "de-DE": "Ihr habt die roten Schergen gefunden.",
+                    "en-US": "You've found the Red Minions",
+                    "es-ES": "Has encontrado a los esbirros bermejos.",
+                    "fr-FR": "Vous avez trouvé les Larbins rouges",
+                    "it-IT": "Hai trovato i Serventi Rossi"
+                },
+                "howto": {
+                    "de-DE": "Findet die roten Schergen.",
+                    "en-US": "Find the Red Minions",
+                    "es-ES": "Busca a los esbirros bermejos.",
+                    "fr-FR": "Trouvez les Larbins rouges",
+                    "it-IT": "Trova i Serventi Rossi"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "12.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "Ergreifer der Grünen",
+                    "en-US": "Green Grabber",
+                    "es-ES": "Rescatador de viridios",
+                    "fr-FR": "Rédempteur des Verts",
+                    "it-IT": "Salvaverdi"
+                },
+                "description": {
+                    "de-DE": "Ihr habt Euch die grünen Schergen geholt.",
+                    "en-US": "You've obtained the Green Minions",
+                    "es-ES": "Has conseguido los esbirros viridios.",
+                    "fr-FR": "Vous avez retrouvé les Larbins verts",
+                    "it-IT": "Hai ottenuto i Serventi Verdi"
+                },
+                "howto": {
+                    "de-DE": "Findet die grünen Schergen.",
+                    "en-US": "Find the Green Minions",
+                    "es-ES": "Busca a los esbirros viridios.",
+                    "fr-FR": "Trouvez les Larbins verts",
+                    "it-IT": "Trova i Serventi Verdi"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "13.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "Bringer der Blauen",
+                    "en-US": "Blue Bringer",
+                    "es-ES": "Defensor de zarcos",
+                    "fr-FR": "Libérateur des Bleus",
+                    "it-IT": "Salvablu"
+                },
+                "description": {
+                    "de-DE": "Ihr habt die blauen Schergen gerettet.",
+                    "en-US": "You've rescued the Blue Minions",
+                    "es-ES": "Has rescatado a los esbirros zarcos.",
+                    "fr-FR": "Vous avez sauvé les Larbins bleus",
+                    "it-IT": "Hai salvato i Serventi Blu"
+                },
+                "howto": {
+                    "de-DE": "Findet die blauen Schergen.",
+                    "en-US": "Find the Blue Minions",
+                    "es-ES": "Busca a los esbirros zarcos.",
+                    "fr-FR": "Trouvez les Larbins bleus",
+                    "it-IT": "Trova i Serventi Blu"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "14.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "de-DE": "Baumeister",
+                    "en-US": "Master Builder",
+                    "es-ES": "Maestro constructor",
+                    "fr-FR": "Chef de chantier",
+                    "it-IT": "Capomastro"
+                },
+                "description": {
+                    "de-DE": "Ihr habt 50 % der baubaren Objekte im Turm gebaut.",
+                    "en-US": "You have built 50% of the Tower buildables",
+                    "es-ES": "Has construido el 50% de la torre.",
+                    "fr-FR": "Vous avez construit 50% des améliorations de Tour possibles",
+                    "it-IT": "Hai ricostruito il 50% della Torre"
+                },
+                "howto": {
+                    "de-DE": "Baut 50 % der baubaren Objekte im Turm.",
+                    "en-US": "Build 50% of the Tower buildables",
+                    "es-ES": "Construye el 50% de la torre.",
+                    "fr-FR": "Construisez 50% des améliorations de Tour possibles",
+                    "it-IT": "Ricostruisci il 50% della Torre"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "15.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Tyrann des Turms",
+                    "en-US": "Tyrant of the Tower",
+                    "es-ES": "Tirano de la torre",
+                    "fr-FR": "Tyran de la Tour",
+                    "it-IT": "Tiranno della Torre"
+                },
+                "description": {
+                    "de-DE": "Ihr habt 100 % der baubaren Objekte im Turm gebaut.",
+                    "en-US": "You have built 100% of the Tower buildables",
+                    "es-ES": "Has construido el 100% de la torre.",
+                    "fr-FR": "Vous avez construit 100% des améliorations de Tour possibles",
+                    "it-IT": "Hai costruito il 100% della Torre"
+                },
+                "howto": {
+                    "de-DE": "Baut 100 % der baubaren Objekte im Turm.",
+                    "en-US": "Build 100% of the Tower buildables",
+                    "es-ES": "Construye el 100% de la torre.",
+                    "fr-FR": "Construisez 100% des améliorations de Tour possibles",
+                    "it-IT": "Costruisci il 100% della Torre"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "16.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "Großer Dominator",
+                    "en-US": "The Dominator",
+                    "es-ES": "El dominador",
+                    "fr-FR": "Le Dominateur",
+                    "it-IT": "Il dominatore"
+                },
+                "description": {
+                    "de-DE": "Die dominante Seite Eurer Tyrannei hat 100 % erreicht.",
+                    "en-US": "You have a 100% Domination Tyranny rating",
+                    "es-ES": "Has alcanzado una clasificación de dominación del 100%.",
+                    "fr-FR": "Votre niveau de tyrannie par la domination est de 100%",
+                    "it-IT": "Il tuo livello di dominio ha raggiunto il 100%"
+                },
+                "howto": {
+                    "de-DE": "Sorgt dafür, dass die dominante Seite Eurer Tyrannei 100 % erreicht.",
+                    "en-US": "Achieve a 100% Domination Tyranny  rating",
+                    "es-ES": "Alcanza una clasificación de dominación del 100%.",
+                    "fr-FR": "Obtenez un niveau de tyrannie par la domination de 100%",
+                    "it-IT": "Raggiungi il 100% di dominio"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "17.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "de-DE": "Großer Herrscher",
+                    "en-US": "The Destructor",
+                    "es-ES": "El destructor",
+                    "fr-FR": "Le Destructeur",
+                    "it-IT": "Il distruttore"
+                },
+                "description": {
+                    "de-DE": "Die zerstörerische Seite Eurer Tyrannei hat 100 % erreicht.",
+                    "en-US": "You have a 100% Destruction Tyranny rating",
+                    "es-ES": "Has alcanzado una clasificación de destrucción del 100%.",
+                    "fr-FR": "Votre niveau de tyrannie par la destruction est de 100%",
+                    "it-IT": "Il tuo livello di distruzione ha raggiunto il 100%"
+                },
+                "howto": {
+                    "de-DE": "Sorgt dafür, dass die zerstörerische Seite Eurer Tyrannei 100 % erreicht.",
+                    "en-US": "Achieve a 100% Destruction Tyranny rating",
+                    "es-ES": "Alcanza una clasificación de destrucción del 100%.",
+                    "fr-FR": "Obtenez un niveau de tyrannie par la destruction de 100%",
+                    "it-IT": "Raggiungi il 100% di distruzione"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "18.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "Schatzsucher",
+                    "en-US": "Treasure Hunter",
+                    "es-ES": "Cazador de tesoros",
+                    "fr-FR": "Chasseur de trésors",
+                    "it-IT": "Cacciatore di tesori"
+                },
+                "description": {
+                    "de-DE": "Ihr habt alle Turmobjekte im Spiel gefunden.",
+                    "en-US": "You've obtained all the Tower Objects in the game",
+                    "es-ES": "Has conseguido todos los objetos de la torre.",
+                    "fr-FR": "Vous avez obtenu tous les objets de Tour du jeu",
+                    "it-IT": "Hai ottenuto tutti gli oggetti della Torre"
+                },
+                "howto": {
+                    "de-DE": "Findet alle Turmobjekte im Spiel.",
+                    "en-US": "Obtain all the Tower Objects in the game",
+                    "es-ES": "Consigue todos los objetos de la torre.",
+                    "fr-FR": "Obtenez tous les objets de Tour du jeu",
+                    "it-IT": "Ottieni tutti gli oggetti della Torre"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "19.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "Kristallsammler",
+                    "en-US": "Crystal Collector",
+                    "es-ES": "Recolector de cristales",
+                    "fr-FR": "Collectionneur de cristaux",
+                    "it-IT": "Collezionista di cristalli"
+                },
+                "description": {
+                    "de-DE": "Ihr habt 50 % der dunklen Kristalle gesammelt.",
+                    "en-US": "You've collected 50% of all Dark Crystals",
+                    "es-ES": "Has conseguido el 50% de los cristales del mal.",
+                    "fr-FR": "Vous avez trouvé 50% de tous les cristaux noirs",
+                    "it-IT": "Hai trovato il 50% dei cristalli oscuri"
+                },
+                "howto": {
+                    "de-DE": "Sammelt 50 % der dunklen Kristalle.",
+                    "en-US": "Collect 50% of all Dark Crystals",
+                    "es-ES": "Consigue el 50% de los cristales del mal.",
+                    "fr-FR": "Trouvez 50% de tous les cristaux noirs",
+                    "it-IT": "Trova il 50% dei cristalli oscuri"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "20.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "Meistersammler",
+                    "en-US": "Ultimate Collector",
+                    "es-ES": "Recolector supremo",
+                    "fr-FR": "Grand collectionneur",
+                    "it-IT": "Supercollezionista"
+                },
+                "description": {
+                    "de-DE": "Ihr habt 100 % der dunklen Kristalle gesammelt.",
+                    "en-US": "You've collected 100% of all Dark Crystals",
+                    "es-ES": "Has conseguido el 100% de los cristales del mal.",
+                    "fr-FR": "Vous avez trouvé tous les cristaux noirs",
+                    "it-IT": "Hai trovato il 100% dei cristalli oscuri"
+                },
+                "howto": {
+                    "de-DE": "Sammelt 100 % der dunklen Kristalle.",
+                    "en-US": "Collect 100% of all Dark Crystals",
+                    "es-ES": "Consigue el 100% de los cristales del mal.",
+                    "fr-FR": "Trouvez tous les cristaux noirs",
+                    "it-IT": "Trova il 100% dei cristalli oscuri"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "21.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "de-DE": "Würger der Wichte",
+                    "en-US": "Gnome Grinder",
+                    "es-ES": "Terror de los gnomos",
+                    "fr-FR": "Broyeur de Gnomes",
+                    "it-IT": "Affettagnomi"
+                },
+                "description": {
+                    "de-DE": "Ihr habt 1.000 Wichte getötet.",
+                    "en-US": "You've killed 1000 Gnomes",
+                    "es-ES": "Has matado a 1000 gnomos.",
+                    "fr-FR": "Vous avez tué 1000 Gnomes",
+                    "it-IT": "Hai ucciso 1000 gnomi"
+                },
+                "howto": {
+                    "de-DE": "Tötet 1.000 Wichte.",
+                    "en-US": "Kill 1000 Gnomes",
+                    "es-ES": "Mata a 1000 gnomos.",
+                    "fr-FR": "Tuez 1000 Gnomes",
+                    "it-IT": "Uccidi 1000 gnomi"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "22.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "Geizhals",
+                    "en-US": "Scrooge",
+                    "es-ES": "Tacaño",
+                    "fr-FR": "Harpagon",
+                    "it-IT": "Tasche profonde"
+                },
+                "description": {
+                    "de-DE": "Ihr habt 50.000 Goldstücke angehäuft.",
+                    "en-US": "You've horded 50,000 gold",
+                    "es-ES": "Has acumulado 50.000 unidades de oro.",
+                    "fr-FR": "Vous avez accumulé 50 000 pièces d'or",
+                    "it-IT": "Hai accumulato 50.000 pezzi d'oro"
+                },
+                "howto": {
+                    "de-DE": "Sammelt 50.000 Goldstücke.",
+                    "en-US": "Collect 50,000 gold",
+                    "es-ES": "Consigue 50.000 unidades de oro.",
+                    "fr-FR": "Accumulez 50 000 pièces d'or",
+                    "it-IT": "Accumula 50.000 pezzi d'oro"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "23.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "Junos Liebhaber",
+                    "en-US": "Juno's Special Friend",
+                    "es-ES": "Buen amigo de Juno",
+                    "fr-FR": "Soupirant de Juno",
+                    "it-IT": "Amico speciale di Gemma"
+                },
+                "description": {
+                    "de-DE": "Juno ist jetzt Eure „besondere“ Freundin.",
+                    "en-US": "Juno is now your 'special' friend",
+                    "es-ES": "Ahora Juno es una «buena amiga».",
+                    "fr-FR": "Juno vous accorde désormais ses faveurs",
+                    "it-IT": "Gemma è diventata la tua \"amica speciale\""
+                },
+                "howto": {
+                    "de-DE": "Kauft Geschenke für Juno und umwerbt sie, damit sie Eure „besondere“ Freundin wird.",
+                    "en-US": "Buy gifts for Juno and woo her into becoming your 'special' friend",
+                    "es-ES": "Compra regalos a Juno y sedúcela para que se convierta en una «buena amiga».",
+                    "fr-FR": "Achetez des cadeaux à Juno pour qu'elle vous accorde ses faveurs",
+                    "it-IT": "Compra regali per Gemma e convincila a diventare la tua \"amica speciale\""
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "24.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Zerschmetterer",
+                    "en-US": "Rock On",
+                    "es-ES": "As de la catapulta",
+                    "fr-FR": "Catapulteur",
+                    "it-IT": "Mira infallibile"
+                },
+                "description": {
+                    "de-DE": "Ihr habt mit dem Katapult mindestens 15 Gegner auf einmal getötet.",
+                    "en-US": "You've killed 15 or more enemies with a single Catapult boulder",
+                    "es-ES": "Has matado a 15 enemigos o más con un solo lanzamiento de la catapulta.",
+                    "fr-FR": "Vous avez tué au moins quinze ennemis d'un seul jet de catapulte",
+                    "it-IT": "Con un solo colpo di catapulta hai ucciso 15 nemici o più"
+                },
+                "howto": {
+                    "de-DE": "Tötet mit dem Katapult mindestens 15 Gegner auf einmal.",
+                    "en-US": "Kill 15 or more enemies with a single Catapult  boulder",
+                    "es-ES": "Mata a 15 enemigos o más con un solo lanzamiento de la catapulta.",
+                    "fr-FR": "Tuez au moins quinze ennemis d'un seul jet de catapulte",
+                    "it-IT": "Con un solo colpo di catapulta uccidi 15 nemici o più"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "25.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "Liebhaber der dunklen Feja",
+                    "en-US": "Dark Fay's Special Friend",
+                    "es-ES": "Buen amigo de la Ninfa Siniestra",
+                    "fr-FR": "Soupirant de Fay noire",
+                    "it-IT": "Amico speciale di Fatia Oscura"
+                },
+                "description": {
+                    "de-DE": "Die dunkle Feja ist jetzt Eure „besondere“ Freundin.",
+                    "en-US": "Dark Fay is now your 'special' friend",
+                    "es-ES": "Ahora la Ninfa Siniestra es una «buena amiga».",
+                    "fr-FR": "Fay noire vous accorde désormais ses faveurs",
+                    "it-IT": "Fatia Oscura è diventata la tua \"amica speciale\""
+                },
+                "howto": {
+                    "de-DE": "Kauft Geschenke für die dunkle Feja und umwerbt sie, damit sie Eure „besondere“ Freundin wird.",
+                    "en-US": "Buy gifts for Dark Fay and woo her into becoming your 'special' friend",
+                    "es-ES": "Compra regalos a la Ninfa Siniestra y sedúcela para que se convierta en una «buena amiga».",
+                    "fr-FR": "Achetez des cadeaux à Fay noire pour qu'elle vous accorde ses faveurs",
+                    "it-IT": "Compra regali per Fatia Oscura e convincila a diventare la tua \"amica speciale\""
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "26.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "Geister-Fejas Liebhaber",
+                    "en-US": "Ghost Fay's Special Friend",
+                    "es-ES": "Buen amigo de la Ninfa Fantasma",
+                    "fr-FR": "Soupirant du spectre de Fay",
+                    "it-IT": "Amico speciale di Fatia Fantasma"
+                },
+                "description": {
+                    "de-DE": "Geister-Feja ist jetzt Eure „besondere“ Freundin.",
+                    "en-US": "Ghost Fay is now your 'special' friend",
+                    "es-ES": "Ahora la Ninfa Fantasma es una «buena amiga».",
+                    "fr-FR": "Le spectre de Fay vous accorde désormais ses faveurs",
+                    "it-IT": "Fatia Fantasma è diventata la tua \"amica speciale\""
+                },
+                "howto": {
+                    "de-DE": "Kauft Geschenke für Geister-Feja und umwerbt sie, damit sie Eure „besondere“ Freundin wird.",
+                    "en-US": "Buy gifts for Ghost Fay and woo her into becoming your 'special' friend",
+                    "es-ES": "Compra regalos a la Ninfa Fantasma y sedúcela para que se convierta en una «buena amiga».",
+                    "fr-FR": "Achetez des cadeaux au spectre de Fay pour qu'il vous accorde ses faveurs",
+                    "it-IT": "Compra regali per Fatia Fantasma e convincila a diventare la tua \"amica speciale\""
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "27.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "Dieb",
+                    "en-US": "Snatcher",
+                    "es-ES": "Ladronzuelo",
+                    "fr-FR": "Brigand",
+                    "it-IT": "Cleptomane"
+                },
+                "description": {
+                    "de-DE": "Ihr habt eine Plünderungs-Karte gewonnen.",
+                    "en-US": "You have won one Pirate Plunder map",
+                    "es-ES": "Has superado un mapa de Pillaje.",
+                    "fr-FR": "Vous avez gagné sur une carte Butin de pirates",
+                    "it-IT": "Hai vinto una partita Bottino pirata"
+                },
+                "howto": {
+                    "de-DE": "Gewinnt eine Plünderungs-Karte.",
+                    "en-US": "Win one Pirate Plunder map",
+                    "es-ES": "Supera un mapa de Pillaje.",
+                    "fr-FR": "Gagnez sur une carte Butin de pirates",
+                    "it-IT": "Vinci una partita Bottino pirata"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "28.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "Plünderer",
+                    "en-US": "Pillager",
+                    "es-ES": "Saqueador",
+                    "fr-FR": "Pillard",
+                    "it-IT": "Saccheggiatore"
+                },
+                "description": {
+                    "de-DE": "Ihr habt 10 Plünderungs-Karten gewonnen.",
+                    "en-US": "You have won 10 Pirate Plunder maps",
+                    "es-ES": "Has superado 10 mapas de Pillaje.",
+                    "fr-FR": "Vous avez gagné sur dix cartes Butin de pirates",
+                    "it-IT": "Hai vinto 10 partite Bottino pirata"
+                },
+                "howto": {
+                    "de-DE": "Gewinnt zehn Plünderungs-Karten.",
+                    "en-US": "Win ten Pirate Plunder maps",
+                    "es-ES": "Supera 10 mapas de Pillaje.",
+                    "fr-FR": "Gagnez sur dix cartes Butin de pirates",
+                    "it-IT": "Vinci 10 partite Bottino pirata"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "29.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Eroberer",
+                    "en-US": "Conqueror",
+                    "es-ES": "Conquistador",
+                    "fr-FR": "Occupant",
+                    "it-IT": "Colonizzatore"
+                },
+                "description": {
+                    "de-DE": "Ihr habt eine Unterwerfungs-Karte gewonnen.",
+                    "en-US": "You have won one Dominate map",
+                    "es-ES": "Has superado un mapa de dominación.",
+                    "fr-FR": "Vous avez gagné sur une carte Dominateur",
+                    "it-IT": "Hai vinto una partita Dominio"
+                },
+                "howto": {
+                    "de-DE": "Gewinnt eine Unterwerfungs-Karte.",
+                    "en-US": "Win one Dominate map",
+                    "es-ES": "Supera un mapa de dominación.",
+                    "fr-FR": "Gagnez sur une carte Dominateur",
+                    "it-IT": "Vinci una partita Dominio"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "30.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Großer Unterwerfer",
+                    "en-US": "The Big D",
+                    "es-ES": "As de la dominación",
+                    "fr-FR": "Conquérant",
+                    "it-IT": "Imperialista"
+                },
+                "description": {
+                    "de-DE": "Ihr habt 10 Unterwerfungs-Karten gewonnen.",
+                    "en-US": "You have won ten Dominate maps",
+                    "es-ES": "Has superado 10 mapas de dominación.",
+                    "fr-FR": "Vous avez gagné sur dix cartes Dominateur",
+                    "it-IT": "Hai vinto 10 partite Dominio"
+                },
+                "howto": {
+                    "de-DE": "Gewinnt zehn Unterwerfungs-Karten.",
+                    "en-US": "Win ten Dominate maps",
+                    "es-ES": "Supera 10 mapas de dominación.",
+                    "fr-FR": "Gagnez sur dix cartes Dominateur",
+                    "it-IT": "Vinci 10 partite Dominio"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "31.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Mächtiger Gegner",
+                    "en-US": "Adversary",
+                    "es-ES": "Adversario",
+                    "fr-FR": "Antagoniste",
+                    "it-IT": "Nemesi"
+                },
+                "description": {
+                    "de-DE": "Ihr habt einen gegnerischen Overlord 20-mal im Ranglisten-Spielmodus „Gegeneinander“ getötet.",
+                    "en-US": "You have killed an opposing Overlord 20 times in ranked versus matches",
+                    "es-ES": "Has matado a tu rival 20 veces en partidas igualadas de Overlord contra Overlord.",
+                    "fr-FR": "Vous avez tué un Overlord adverse vingt fois au cours de parties avec classement",
+                    "it-IT": "Hai ucciso un altro Overlord 20 volte in partite classificate"
+                },
+                "howto": {
+                    "de-DE": "Tötet einen gegnerischen Overlord 20-mal im Ranglisten-Spielmodus „Gegeneinander“.",
+                    "en-US": "Kill an opposing Overlord 20 times in ranked versus matches",
+                    "es-ES": "Mata a tu rival 20 veces en partidas igualadas de Overlord contra Overlord.",
+                    "fr-FR": "Tuez un Overlord adverse vingt fois au cours de parties avec classement",
+                    "it-IT": "Uccidi un altro Overlord 20 volte in partite classificate"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "32.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Gefährlicher Waffenträger",
+                    "en-US": "Armed and Dangerous",
+                    "es-ES": "Armado y peligroso",
+                    "fr-FR": "Homme d'armes",
+                    "it-IT": "Mastro ferraio"
+                },
+                "description": {
+                    "de-DE": "Ihr habt eine Waffe geschmiedet.",
+                    "en-US": "You have forged a weapon",
+                    "es-ES": "Has forjado un arma.",
+                    "fr-FR": "Vous avez forgé une arme",
+                    "it-IT": "Hai forgiato un'arma"
+                },
+                "howto": {
+                    "de-DE": "Schmiedet eine Waffe.",
+                    "en-US": "Forge one weapon",
+                    "es-ES": "Forja un arma.",
+                    "fr-FR": "Forgez une arme",
+                    "it-IT": "Forgia un'arma"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "33.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "Blauer Stahlblick",
+                    "en-US": "Blue Steel Look",
+                    "es-ES": "Caballero del acero azul",
+                    "fr-FR": "Beauté bleutée",
+                    "it-IT": "Signore degli elementi"
+                },
+                "description": {
+                    "de-DE": "Ihr habt den Urgewalten-Helm und die Urgewalten-Rüstung geschmiedet.",
+                    "en-US": "You have forged the Elemental helmet and armor",
+                    "es-ES": "Has forjado la armadura y el casco elementales.",
+                    "fr-FR": "Vous avez forgé l'armure et le heaume élémentaux",
+                    "it-IT": "Hai forgiato elmo ed armatura elementali"
+                },
+                "howto": {
+                    "de-DE": "Schmiedet den Urgewalten-Helm und die Urgewalten-Rüstung.",
+                    "en-US": "Forged the Elemental helmet and armor",
+                    "es-ES": "Forja la armadura y el casco elementales.",
+                    "fr-FR": "Forgez l'armure et le heaume élémentaux",
+                    "it-IT": "Forgia elmo ed armatura elementali"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "34.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Schergen-Hauptmann",
+                    "en-US": "Minion Captain",
+                    "es-ES": "Capitán de los esbirros",
+                    "fr-FR": "Capitaine des Larbins",
+                    "it-IT": "Capitano dei Serventi"
+                },
+                "description": {
+                    "de-DE": "Ihr habt alle Schergen aus den Spinnennetzen befreit.",
+                    "en-US": "You have rescued all the Minion crew from the spider webs",
+                    "es-ES": "Has rescatado a todos los esbirros de las telas de araña.",
+                    "fr-FR": "Vous avez sauvé tout votre équipage des toiles d'araignée",
+                    "it-IT": "Hai salvato tutti i Serventi dalle ragnatele"
+                },
+                "howto": {
+                    "de-DE": "Befreit alle Schergen aus den Spinnennetzen.",
+                    "en-US": "Rescue all the Minion crew from the spider webs",
+                    "es-ES": "Rescata a todos los esbirros de las telas de araña.",
+                    "fr-FR": "Sauvez tout votre équipage des toiles d'araignée",
+                    "it-IT": "Salva tutti i Serventi dalle ragnatele"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "35.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Waffennarr",
+                    "en-US": "Weapons Nut",
+                    "es-ES": "Rey de las armas",
+                    "fr-FR": "Amoureux des armes",
+                    "it-IT": "Amante delle armi"
+                },
+                "description": {
+                    "de-DE": "Ihr habt 3 Waffen geschmiedet.",
+                    "en-US": "You have forged 3 weapons",
+                    "es-ES": "Has forjado tres armas.",
+                    "fr-FR": "Vous avez forgé trois armes",
+                    "it-IT": "Hai forgiato tre armi"
+                },
+                "howto": {
+                    "de-DE": "Schmiedet drei Waffen.",
+                    "en-US": "Forge three weapons",
+                    "es-ES": "Forja tres armas.",
+                    "fr-FR": "Forgez trois armes",
+                    "it-IT": "Forgia tre armi"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "36.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "Großer Ausrüster",
+                    "en-US": "Kitted Out",
+                    "es-ES": "Equipado para el mal",
+                    "fr-FR": "Gardien des enfers",
+                    "it-IT": "Artigiano infernale"
+                },
+                "description": {
+                    "de-DE": "Ihr habt den Höllen-Helm und die Höllen-Rüstung geschmiedet.",
+                    "en-US": "You have forged the Infernal helmet and armor",
+                    "es-ES": "Has forjado la armadura y el casco infernales.",
+                    "fr-FR": "Vous avez forgé l'armure et le heaume infernaux",
+                    "it-IT": "Hai forgiato elmo ed armatura infernali"
+                },
+                "howto": {
+                    "de-DE": "Schmiedet den Höllen-Helm und die Höllen-Rüstung. ",
+                    "en-US": "Forge the Infernal helmet and armor ",
+                    "es-ES": "Forja la armadura y el casco infernales. ",
+                    "fr-FR": "Forgez l'armure et le heaume infernaux",
+                    "it-IT": "Forgia elmo ed armatura infernali"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "37.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "de-DE": "Blutbad-Verursacher",
+                    "en-US": "Mayhem Maker",
+                    "es-ES": "Provocador de caos",
+                    "fr-FR": "Semeur de chaos",
+                    "it-IT": "Combinaguai"
+                },
+                "description": {
+                    "de-DE": "Ihr habt während des Spielauftakts ein Blutbad verursacht.",
+                    "en-US": "You've caused mayhem during the Prelude",
+                    "es-ES": "Has causado estragos en el preludio.",
+                    "fr-FR": "Vous avez semé le chaos pendant le prélude",
+                    "it-IT": "Hai seminato caos nel preludio"
+                },
+                "howto": {
+                    "de-DE": "Verursacht während des Spielauftakts ein Blutbad.",
+                    "en-US": "Cause mayhem during the Prelude",
+                    "es-ES": "Causa estragos en el preludio.",
+                    "fr-FR": "Semez le chaos pendant le prélude",
+                    "it-IT": "Semina caos nel preludio"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "38.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "de-DE": "Schergen-Ernter",
+                    "en-US": "Minion Harvester",
+                    "es-ES": "Creador de esbirros",
+                    "fr-FR": "Récolteur de Larbins",
+                    "it-IT": "Raccoglitore di Serventi"
+                },
+                "description": {
+                    "de-DE": "Ihr habt 10 Lebenskraftkugeln gesammelt.",
+                    "en-US": "You have gathered 10 Lifeforce orbs",
+                    "es-ES": "Has conseguido 10 esferas de ánima.",
+                    "fr-FR": "Vous avez récolté dix globes de vitalité",
+                    "it-IT": "Hai ottenuto 10 sfere di Forza Vitale"
+                },
+                "howto": {
+                    "de-DE": "Sammelt 10 Lebenskraftkugeln.",
+                    "en-US": "Gather 10 Lifeforce orbs",
+                    "es-ES": "Consigue 10 esferas de ánima.",
+                    "fr-FR": "Récoltez dix globes de vitalité",
+                    "it-IT": "Ottieni 10 sfere di Forza Vitale"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "39.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "Schergen-Sammler",
+                    "en-US": "Minion Gatherer",
+                    "es-ES": "Acumulador de esbirros",
+                    "fr-FR": "Rassembleur de Larbins",
+                    "it-IT": "Appassionato di Serventi"
+                },
+                "description": {
+                    "de-DE": "Ihr habt 250 Lebenskraftkugeln gesammelt.",
+                    "en-US": "You have gathered 250 Lifeforce orbs",
+                    "es-ES": "Has conseguido 250 esferas de ánima.",
+                    "fr-FR": "Vous avez récolté 250 globes de vitalité",
+                    "it-IT": "Hai ottenuto 250 sfere di Forza Vitale"
+                },
+                "howto": {
+                    "de-DE": "Sammelt 250 Lebenskraftkugeln.",
+                    "en-US": "Gather 250 Lifeforce orbs",
+                    "es-ES": "Consigue 250 esferas de ánima.",
+                    "fr-FR": "Récoltez 250 globes de vitalité",
+                    "it-IT": "Ottieni 250 sfere di Forza Vitale"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "40.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "de-DE": "Schergen-Horder",
+                    "en-US": "Minion Hoarder",
+                    "es-ES": "Aglomerador de esbirros",
+                    "fr-FR": "Amasseur de Larbins",
+                    "it-IT": "Amico dei Serventi"
+                },
+                "description": {
+                    "de-DE": "Ihr habt 1.000 Lebenskraftkugeln gesammelt.",
+                    "en-US": "You have gathered 1000 Lifeforce orbs",
+                    "es-ES": "Has conseguido 1000 esferas de ánima.",
+                    "fr-FR": "Vous avez récolté 1000 globes de vitalité",
+                    "it-IT": "Hai ottenuto 1000 sfere di Forza Vitale"
+                },
+                "howto": {
+                    "de-DE": "Sammelt 1.000 Lebenskraftkugeln.",
+                    "en-US": "Gather 1000 Lifeforce orbs",
+                    "es-ES": "Consigue 1000 esferas de ánima.",
+                    "fr-FR": "Récoltez 1000 globes de vitalité",
+                    "it-IT": "Ottieni 1000 sfere di Forza Vitale"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "41.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "Schergen-Liebhaber",
+                    "en-US": "Minion Lover",
+                    "es-ES": "Rey de los esbirros",
+                    "fr-FR": "Collectionneur de Larbins",
+                    "it-IT": "Amante dei Serventi"
+                },
+                "description": {
+                    "de-DE": "Ihr habt 5.000 Lebenskraftkugeln gesammelt.",
+                    "en-US": "You have gathered 5000 Lifeforce orbs",
+                    "es-ES": "Has conseguido 5000 esferas de ánima.",
+                    "fr-FR": "Vous avez récolté 5000 globes de vitalité",
+                    "it-IT": "Hai ottenuto 5000 sfere di Forza Vitale"
+                },
+                "howto": {
+                    "de-DE": "Sammelt 5.000 Lebenskraftkugeln.",
+                    "en-US": "Gather 5000 Lifeforce orbs",
+                    "es-ES": "Consigue 5000 esferas de ánima.",
+                    "fr-FR": "Récoltez 5000 globes de vitalité",
+                    "it-IT": "Ottieni 5000 sfere di Forza Vitale"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "42.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "Reittier-Meister",
+                    "en-US": "Mount Master",
+                    "es-ES": "Maestro de las monturas",
+                    "fr-FR": "Maître des montures",
+                    "it-IT": "Cavaliere"
+                },
+                "description": {
+                    "de-DE": "Ihr habt alle Schergen-Reittiere im Spiel gefunden und eingesetzt.",
+                    "en-US": "You have discovered and used all Minion Mounts in the game",
+                    "es-ES": "Has descubierto todas las monturas del juego y las has usado.",
+                    "fr-FR": "Vous avez découvert et utilisé toutes montures de Larbins du jeu",
+                    "it-IT": "Hai scoperto ed ottenuto tutte le cavalcature per i Serventi"
+                },
+                "howto": {
+                    "de-DE": "Findet alle Schergen-Reittiere im Spiel und setzt sie ein.",
+                    "en-US": "Discover and use all Minion Mounts in the game",
+                    "es-ES": "Busca todas las monturas del juego y úsalas.",
+                    "fr-FR": "Découvrez et utilisez toutes montures de Larbins du jeu",
+                    "it-IT": "Scopri ed ottieni tutte le cavalcature per i Serventi"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "43.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "de-DE": "Stadt-Zerstörer",
+                    "en-US": "Town Razer",
+                    "es-ES": "Devastador de ciudades",
+                    "fr-FR": "Ravageur",
+                    "it-IT": "Annientatore di città"
+                },
+                "description": {
+                    "de-DE": "Ihr habt eine Stadt zerstört.",
+                    "en-US": "You have destroyed one Town",
+                    "es-ES": "Has devastado una ciudad.",
+                    "fr-FR": "Vous avez détruit une ville",
+                    "it-IT": "Hai distrutto una città"
+                },
+                "howto": {
+                    "de-DE": "Zerstört eine Stadt.",
+                    "en-US": "Destroy one Town",
+                    "es-ES": "Devasta una ciudad.",
+                    "fr-FR": "Détruisez une ville",
+                    "it-IT": "Distruggi una città"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "44.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "Apokalypse-Bringer",
+                    "en-US": "Walking Apocalypse",
+                    "es-ES": "El apocalipsis en persona",
+                    "fr-FR": "Apocalypse vivante",
+                    "it-IT": "Apocalisse ambulante"
+                },
+                "description": {
+                    "de-DE": "Ihr habt sowohl Nordberg als auch Immerlicht zerstört.",
+                    "en-US": "You have destroyed both Nordberg and Everlight",
+                    "es-ES": "Has devastado Glacialia y Luxeterna.",
+                    "fr-FR": "Vous avez détruit Nordberg et Clairéternel",
+                    "it-IT": "Hai distrutto sia Nordburgo che Luce Perenne"
+                },
+                "howto": {
+                    "de-DE": "Zerstört Nordberg und Immerlicht.",
+                    "en-US": "Destroy both Nordberg and Everlight",
+                    "es-ES": "Devasta Glacialia y Luxeterna.",
+                    "fr-FR": "Détruisez Nordberg et Clairéternel",
+                    "it-IT": "Distruggi sia Nordburgo che Luce Perenne"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "45.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "Versklaver",
+                    "en-US": "Slaver",
+                    "es-ES": "Explotador",
+                    "fr-FR": "Esclavagiste",
+                    "it-IT": "Schiavizzatore"
+                },
+                "description": {
+                    "de-DE": "Ihr habt eine Stadt unterworfen.",
+                    "en-US": "You have enslaved one Town",
+                    "es-ES": "Has esclavizado una ciudad.",
+                    "fr-FR": "Vous avez asservi une ville",
+                    "it-IT": "Hai soggiogato una città"
+                },
+                "howto": {
+                    "de-DE": "Unterwerft eine Stadt.",
+                    "en-US": "Enslave one Town",
+                    "es-ES": "Esclaviza una ciudad.",
+                    "fr-FR": "Asservissez une ville",
+                    "it-IT": "Soggioga una città"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "46.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "de-DE": "Weltordner",
+                    "en-US": "New World Order",
+                    "es-ES": "Nuevo régimen mundial",
+                    "fr-FR": "Nouvel ordre mondial",
+                    "it-IT": "Nuovo ordine mondiale"
+                },
+                "description": {
+                    "de-DE": "Ihr habt sowohl Nordberg als auch Immerlicht unterworfen.",
+                    "en-US": "You have Enslaved both Nordberg and Everlight",
+                    "es-ES": "Has esclavizado Glacialia y Luxeterna.",
+                    "fr-FR": "Vous avez asservi Nordberg et Clairéternel",
+                    "it-IT": "Hai soggiogato sia Nordburgo che Luce Perenne"
+                },
+                "howto": {
+                    "de-DE": "Unterwerft Nordberg und Immerlicht.",
+                    "en-US": "Enslave both Nordberg and Everlight",
+                    "es-ES": "Esclaviza Glacialia y Luxeterna.",
+                    "fr-FR": "Asservissez Nordberg et Clairéternel",
+                    "it-IT": "Soggioga sia Nordburgo che Luce Perenne"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "47.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "de-DE": "Frauenheld",
+                    "en-US": "Ladies' Man",
+                    "es-ES": "Mujeriego",
+                    "fr-FR": "Homme à femmes",
+                    "it-IT": "Idolo delle signore"
+                },
+                "description": {
+                    "de-DE": "Ihr versteht Euch ausgezeichnet mit all Euren Mätressen.",
+                    "en-US": "You and your Mistresses have found a way to get along splendidly",
+                    "es-ES": "Tú y tus queridas habéis conseguido llevaros muy muy bien.",
+                    "fr-FR": "Vous et vos maîtresses vivent l'entente parfaite",
+                    "it-IT": "C'è grande armonia fra te e le tue signore"
+                },
+                "howto": {
+                    "de-DE": "Findet eine Möglichkeit, Euch mit all Euren Mätressen besonders gut zu verstehen.",
+                    "en-US": "Find a way for you and your three Mistresses to become 'special' friends",
+                    "es-ES": "Consigue que tú y tus tres queridas os llevéis muy muy bien.",
+                    "fr-FR": "Trouvez un moyen pour que vos trois maîtresses vous accordent toutes leurs faveurs",
+                    "it-IT": "Trova il modo di vivere con le tue tre signore in \"armonia\""
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "48.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "Robbentöter",
+                    "en-US": "Seal Slayer",
+                    "es-ES": "Asesino de focas",
+                    "fr-FR": "Tueur de phoques",
+                    "it-IT": "Crudele assassino di foche"
+                },
+                "description": {
+                    "de-DE": "Ihr habt 100 Robbenbabys getötet.",
+                    "en-US": "You have killed 100 baby seals",
+                    "es-ES": "Has matado a 100 crías de foca.",
+                    "fr-FR": "Vous avez tué 100 bébés phoques",
+                    "it-IT": "Hai ucciso 100 cuccioli di foca"
+                },
+                "howto": {
+                    "de-DE": "Tötet 100 Robbenbabys.",
+                    "en-US": "Kill 100 baby seals",
+                    "es-ES": "Mata a 100 crías de foca.",
+                    "fr-FR": "Tuez 100 bébés phoques",
+                    "it-IT": "Uccidi 100 cuccioli di foca"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "49.png"
+        }
+    }
+}

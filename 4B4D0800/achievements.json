@@ -1,0 +1,1579 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "en-US": "Fallen Angel",
+                    "fr-FR": "Ange déchu",
+                    "es-ES": "Ángel caído",
+                    "de-DE": "Gefallener Engel",
+                    "it-IT": "Angelo caduto",
+                    "ru-RU": "Падший ангел",
+                    "pl-PL": "Upadły anioł"
+                },
+                "description": {
+                    "en-US": "Got your first Supernatural Powers",
+                    "fr-FR": "Tu as obtenu tes premiers pouvoirs surnaturels",
+                    "es-ES": "Has conseguido tus primeros poderes sobrenaturales",
+                    "de-DE": "Deine ersten übernatürlichen Kräfte erhalten",
+                    "it-IT": "Hai ottenuto i tuoi primi poteri soprannaturali",
+                    "ru-RU": "Вы получили свои первые суперсилы",
+                    "pl-PL": "Zdobyto pierwszą nadprzyrodzoną moc"
+                },
+                "howto": {
+                    "en-US": "Get your first Supernatural Powers",
+                    "fr-FR": "Obtiens tes premiers pouvoirs surnaturels",
+                    "es-ES": "Consigue tus primeros poderes sobrenaturales",
+                    "de-DE": "Erhalte deine ersten übernatürlichen Kräfte",
+                    "it-IT": "Ottieni i tuoi primi poteri soprannaturali",
+                    "ru-RU": "Получите свои первые суперсилы",
+                    "pl-PL": "Zdobądź pierwszą nadprzyrodzoną moc"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "en-US": "H-E…",
+                    "fr-FR": "Petit chelem",
+                    "es-ES": "Mier…",
+                    "de-DE": "Auf dem Weg",
+                    "it-IT": "I-N-F-E-R…",
+                    "ru-RU": "А-Д...",
+                    "pl-PL": "P-I-E-K..."
+                },
+                "description": {
+                    "en-US": "Completed all open world gameplay in two districts of the city of New Hades",
+                    "fr-FR": "Tu as terminé tout le jeu en monde ouvert dans deux quartiers de la ville de New Hades",
+                    "es-ES": "Has completado todo el juego en mundo abierto en dos distritos de la ciudad de Nuevo Hades",
+                    "de-DE": "Das gesamte Open-World-Gameplay in zwei Bezirken von Neuen Hades geschafft",
+                    "it-IT": "Hai completato la modalità mondo aperto in due distretti della città del Nuovo Inferno",
+                    "ru-RU": "Вы завершили все открытые игры в двух районах города Новый Аид",
+                    "pl-PL": "Ukończono całą rozgrywkę w otwartym świecie w dwóch dzielnicach Nowego Hadesu"
+                },
+                "howto": {
+                    "en-US": "Complete all open world gameplay in two districts of the city of New Hades",
+                    "fr-FR": "Termine tout le jeu en monde ouvert dans deux quartiers de la ville de New Hades",
+                    "es-ES": "Completa todo el juego en mundo abierto en dos distritos de la ciudad de Nuevo Hades",
+                    "de-DE": "Schaffe das gesamte Open-World-Gameplay in zwei Bezirken des Neuen Hades",
+                    "it-IT": "Completa la modalità mondo aperto in due distretti della città di Nuovo Inferno",
+                    "ru-RU": "Завершите все открытые игры в двух районах города Новый Аид",
+                    "pl-PL": "Ukończ całą rozgrywkę w otwartym świecie w dwóch dzielnicach Nowego Hadesu"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "en-US": "…Double-Hockey-sticks",
+                    "fr-FR": "Grand chelem",
+                    "es-ES": "...coles",
+                    "de-DE": "Hölleneroberer",
+                    "it-IT": "...udirai le disperate strida",
+                    "ru-RU": "...Счастливая клюшка",
+                    "pl-PL": "...Ł-O-buz"
+                },
+                "description": {
+                    "en-US": "Conquered all of New Hades with 100% City Take Over",
+                    "fr-FR": "Tu as conquis tout New Hades ; ville récupérée à 100 %",
+                    "es-ES": "Has conquistado todo Nuevo Hades y dominado el 100% de la ciudad",
+                    "de-DE": "Den gesamten Neuen Hades mit 100 % Stadtübernahme erobert",
+                    "it-IT": "Hai conquista tutto il Nuovo Inferno dominando il 100% della città",
+                    "ru-RU": "Вы выполнили все захваты (100%) в Новом Аиде",
+                    "pl-PL": "Podbito cały Nowy Hades, uzyskując 100% przejęcia miasta"
+                },
+                "howto": {
+                    "en-US": "Conquer all of New Hades with 100% City Take Over",
+                    "fr-FR": "Conquiers tout New Hades, tu dois avoir la main sur 100 % de la ville",
+                    "es-ES": "Conquista todo Nuevo Hades y domina el 100% de la ciudad",
+                    "de-DE": "Erobere den gesamten Neuen Hades mit 100 % Stadtübernahme",
+                    "it-IT": "Conquista tutto il Nuovo Inferno dominando il 100% della città",
+                    "ru-RU": "Выполните все захваты (100%) в Новом Аиде",
+                    "pl-PL": "Podbij cały Nowy Hades, uzyskując 100% przejęcia miasta"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "200",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "en-US": "Fly, You Fools",
+                    "fr-FR": "Volez, imbéciles !",
+                    "es-ES": "Volad, insensatos",
+                    "de-DE": "Fliegt, ihr Narren!",
+                    "it-IT": "Volere volare",
+                    "ru-RU": "Летите, глупенькие",
+                    "pl-PL": "Lećcie, głupcy"
+                },
+                "description": {
+                    "en-US": "Flew for 250,000 meters",
+                    "fr-FR": "Tu as volé sur 250 000 mètres",
+                    "es-ES": "Has volado durante 250 000 metros",
+                    "de-DE": "250.000 m weit geflogen",
+                    "it-IT": "Hai volato per 250.000 metri",
+                    "ru-RU": "Вы пролетели 250 000 метров",
+                    "pl-PL": "Pokonano drogą powietrzną 250 000 metrów"
+                },
+                "howto": {
+                    "en-US": "Fly for 250,000 meters",
+                    "fr-FR": "Vole sur 250 000 mètres",
+                    "es-ES": "Vuela durante 250 000 metros",
+                    "de-DE": "Fliege 250.000 m weit",
+                    "it-IT": "Vola per 250.000 metri.",
+                    "ru-RU": "Пролетите 250 000 метров",
+                    "pl-PL": "Przeleć 250 000 metrów"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "en-US": "The Wings of Angels",
+                    "fr-FR": "Les ailes des anges",
+                    "es-ES": "Alas de ángeles",
+                    "de-DE": "Engelsflügel",
+                    "it-IT": "Ali d'angelo",
+                    "ru-RU": "Ангельские крылья",
+                    "pl-PL": "Anielskie skrzydła"
+                },
+                "description": {
+                    "en-US": "Stayed airborne during Supernatural Jumps or Flight for a combined 10 minutes of gameplay",
+                    "fr-FR": "Tu es resté en l'air pendant les sauts surnaturels ou volé pendant 10 minutes de jeu combinées",
+                    "es-ES": "Te has mantenido en el aire durante saltos sobrenaturales o vuelos 10 minutos de juego sumados",
+                    "de-DE": "Insgesamt 10 Spielminuten durch Flüge oder übernatürliche Sprünge in der Luft geblieben",
+                    "it-IT": "Sei rimasto in aria durante il volo o i salti soprannaturali per un totale di 10 minuti di gioco",
+                    "ru-RU": "Вы пробыли в воздухе во время сверхъестественных прыжков или полета всего 10 минут",
+                    "pl-PL": "Po użyciu nadprzyrodzonego skoku bądź lotu spędzono w powietrzu łącznie 10 minut rozgrywki"
+                },
+                "howto": {
+                    "en-US": "Be airborne during Supernatural Jumps or Flight for a combined 10 minutes of gameplay",
+                    "fr-FR": "Reste en l'air pendant les sauts surnaturels ou vole pendant 10 minutes de jeu combinées",
+                    "es-ES": "Mantente en el aire durante saltos sobrenaturales o vuelos durante 10 minutos de juego sumados",
+                    "de-DE": "Bleibe insgesamt 10 Spielminuten durch Flüge oder übernatürliche Sprünge in der Luft",
+                    "it-IT": "Resta in aria durante il volo o i salti soprannaturali per un totale di 10 minuti di gioco",
+                    "ru-RU": "Пробудьте в воздухе во время сверхъестественных прыжков или полета всего 10 минут",
+                    "pl-PL": "Używając nadprzyrodzonego skoku bądź lotu, pozostań w powietrzu łącznie przez 10 minut rozgrywki"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "en-US": "Get Stoned",
+                    "fr-FR": "Transformation en pierre",
+                    "es-ES": "Colócate",
+                    "de-DE": "Versteinert",
+                    "it-IT": "Pietrificato",
+                    "ru-RU": "Окаменел",
+                    "pl-PL": "Daj kamienia"
+                },
+                "description": {
+                    "en-US": "Stonified and Shatter Killed 100 Demons with the Stone Blast Supernatural Power",
+                    "fr-FR": "Tu as transformé 100 démons en pierre et détruits grâce au pouvoir surnaturel Lance-pierre",
+                    "es-ES": "Has convertido en piedra y hecho pedazos a 100 demonios con el poder sobrenatural Descarga Pétrea",
+                    "de-DE": "100 Dämonen versteinert und durch Zerschlagen mit der übernatürlichen Kraft \"Stein\" getötet",
+                    "it-IT": "Hai pietrificato e frantumato 100 demoni con il potere soprannaturale Esplosione di pietra",
+                    "ru-RU": "Вы превратили в камень и разбили 100 демонов с помощью \"Каменного заряда\"",
+                    "pl-PL": "Za pomocą kamiennego wybuchu zabito 100 demonów przez zmianę ich w kamień i rozbicie w drobny mak"
+                },
+                "howto": {
+                    "en-US": "Stonify and Shatter Kill 100 Demons with the Stone Blast Supernatural Power",
+                    "fr-FR": "Transforme 100 démons en pierre et détruis-les à l'aide du pouvoir surnaturel Lance-pierre",
+                    "es-ES": "Convierte en piedra y haz pedazos a 100 demonios con el poder sobrenatural Descarga Pétrea",
+                    "de-DE": "Versteinere und töte 100 Dämonen durch Zerschlagen mit der übernatürlichen Kraft \"Stein\"",
+                    "it-IT": "Pietrifica e frantuma 100 demoni con il potere soprannaturale Esplosione di pietra",
+                    "ru-RU": "Превратите в камень и разбейте 100 демонов с помощью \"Каменного заряда\"",
+                    "pl-PL": "Używając kamiennego wybuchu, zabij 100 demonów, zmieniając je w kamień i rozbijając w drobny mak"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "en-US": "Footprints in the Sand",
+                    "fr-FR": "Empreintes dans le sable",
+                    "es-ES": "Huellas en la arena",
+                    "de-DE": "Fußspuren im Sand",
+                    "it-IT": "Orme sulla sabbia",
+                    "ru-RU": "Следы на песке",
+                    "pl-PL": "Ślady na piasku"
+                },
+                "description": {
+                    "en-US": "Killed 150 Demons with the Stomp Supernatural Power",
+                    "fr-FR": "Tu as tué 150 démons à l'aide du pouvoir surnaturel Écrasement",
+                    "es-ES": "Has matado a 150 demonios con el poder sobrenatural Pisotón",
+                    "de-DE": "150 Dämonen mit der übernatürlichen Kraft \"Stampfer\" getötet",
+                    "it-IT": "Hai ucciso 150 demoni con il potere soprannaturale Pedata",
+                    "ru-RU": "Вы убили 150 демонов с помощью \"Растаптывания\"",
+                    "pl-PL": "Zabito 150 demonów za pomocą tupnięcia"
+                },
+                "howto": {
+                    "en-US": "Kill 150 Demons with the Stomp Supernatural Power",
+                    "fr-FR": "Tue 150 démons à l'aide du pouvoir surnaturel Écrasement",
+                    "es-ES": "Mata a 150 demonios con el poder sobrenatural Pisotón",
+                    "de-DE": "Töte 150 Dämonen mit der übernatürlichen Kraft \"Stampfer\"",
+                    "it-IT": "Uccidi 150 demoni con il potere soprannaturale Pedata",
+                    "ru-RU": "Убейте 150 демонов с помощью \"Растаптывания\"",
+                    "pl-PL": "Zabij 150 demonów za pomocą tupnięcia"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "en-US": "Purple Demons",
+                    "fr-FR": "Démons pourpres",
+                    "es-ES": "Demonios púrpura",
+                    "de-DE": "Lila Dämonen",
+                    "it-IT": "Demoni Viola",
+                    "ru-RU": "Багровые демоны",
+                    "pl-PL": "Purpurowe demony"
+                },
+                "description": {
+                    "en-US": "Had minions kill 100 Demons with the Summon Supernatural Power",
+                    "fr-FR": "Tu as fait tuer 100 démons par tes serviteurs en utilisant le pouvoir surnaturel Invocation",
+                    "es-ES": "Has hecho que los siervos maten a 100 demonios con el poder sobrenatural Invocación",
+                    "de-DE": "Vasallen mit der übernatürlichen Kraft \"Beschwören\" 100 Dämonen töten lassen",
+                    "it-IT": "Hai ucciso 100 demoni con i tuoi servitori con il potere soprannaturale Evocazione",
+                    "ru-RU": "Миньонами, появившимися благодаря заклинанию призыва, вы убили 100 демонов",
+                    "pl-PL": "Zabito 100 demonów, wyręczając się przywołanymi sługami"
+                },
+                "howto": {
+                    "en-US": "Have minions kill 100 Demons with the Summon Supernatural Power",
+                    "fr-FR": "Fais tuer 100 démons par tes serviteurs en utilisant le pouvoir surnaturel Invocation",
+                    "es-ES": "Haz que los siervos maten a 100 demonios con el poder sobrenatural Invocación",
+                    "de-DE": "Lasse Vasallen mit der übernatürlichen Kraft \"Beschwören\" 100 Dämonen töten",
+                    "it-IT": "Uccidi 100 demoni con i tuoi servitori con il potere soprannaturale Evocazione",
+                    "ru-RU": "Миньонами, появившимися благодаря \"Призыву\", убейте 100 демонов",
+                    "pl-PL": "Zabij 100 demonów, wyręczając się przywołanymi sługami"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "en-US": "Oxymoronic",
+                    "fr-FR": "Oxymore",
+                    "es-ES": "Oximorónico",
+                    "de-DE": "Oxymoronisch",
+                    "it-IT": "Ossimoro mortale",
+                    "ru-RU": "Сочетая несочетаемое",
+                    "pl-PL": "Zabójcze sprzeczności"
+                },
+                "description": {
+                    "en-US": "Killed 100 Demons using the Coldfire Aura Supernatural Power",
+                    "fr-FR": "Tu as tué 100 démons à l'aide du pouvoir surnaturel Aura de feu glacé",
+                    "es-ES": "Has matado a 100 demonios con el poder sobrenatural Aura de Fuego Helado",
+                    "de-DE": "100 Dämonen mit der übernatürlichen Kraft \"Kaltfeuer-Aura\" getötet",
+                    "it-IT": "Hai ucciso 100 demoni usando il potere soprannaturale Aura freddafiamma",
+                    "ru-RU": "Вы убили 100 демонов, используя ауру Холодного огня",
+                    "pl-PL": "Zabito 100 demonów za pomocą nadprzyrodzonej mocy zimnognia"
+                },
+                "howto": {
+                    "en-US": "Kill 100 Demons using the Coldfire Aura Supernatural Power",
+                    "fr-FR": "Tue 100 démons à l'aide du pouvoir surnaturel Aura de feu glacé",
+                    "es-ES": "Mata a 100 demonios con el poder sobrenatural Aura de Fuego Helado",
+                    "de-DE": "Töte 100 Dämonen mit der übernatürlichen Kraft \"Kaltfeuer-Aura\"",
+                    "it-IT": "Uccidi 100 demoni usando il potere soprannaturale Aura freddafiamma",
+                    "ru-RU": "Убейте 100 демонов, используя ауру Холодного огня",
+                    "pl-PL": "Zabij 100 demonów za pomocą nadprzyrodzonej mocy zimnognia"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "en-US": "The Seven Deadly Weapons",
+                    "fr-FR": "Les sept armes capitales",
+                    "es-ES": "Las Siete Armas Capitales",
+                    "de-DE": "Die Sieben Todwaffen",
+                    "it-IT": "Le sette armi letali",
+                    "ru-RU": "Семь смертоносных орудий",
+                    "pl-PL": "Siedem broni głównych"
+                },
+                "description": {
+                    "en-US": "Killed 25 Demons with each of the Seven Deadly Weapons",
+                    "fr-FR": "Tu as tué 25 démons avec chacune des sept armes capitales",
+                    "es-ES": "Has matado a 25 demonios con cada una de las Siete Armas Capitales",
+                    "de-DE": "25 Dämonen mit jeder der Sieben Todwaffen getötet",
+                    "it-IT": "Hai ucciso 25 demoni con ciascuna delle sette armi letali",
+                    "ru-RU": "Вы убили 25 демонов каждым из Семи смертоносных орудий",
+                    "pl-PL": "Zabito 25 demonów każdą z siedmiu broni głównych"
+                },
+                "howto": {
+                    "en-US": "Kill 25 Demons with each of the Seven Deadly Weapons",
+                    "fr-FR": "Tue 25 démons avec chacune des sept armes capitales",
+                    "es-ES": "Mata a 25 demonios con cada una de las Siete Armas Capitales",
+                    "de-DE": "Töte 25 Dämonen mit jeder der Sieben Todwaffen",
+                    "it-IT": "Uccidi 25 demoni con ciascuna delle sette armi letali",
+                    "ru-RU": "Убейте 25 демонов каждым из Семи смертоносных орудий",
+                    "pl-PL": "Zabij 25 demonów każdą z siedmiu broni głównych"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "en-US": "The Devil's Dues",
+                    "fr-FR": "Au service du diable",
+                    "es-ES": "Las deudas del Diablo",
+                    "de-DE": "Des Teufels Beitrag",
+                    "it-IT": "Opera del demonio",
+                    "ru-RU": "Дьявольские долги",
+                    "pl-PL": "Diabelskie sztuczki"
+                },
+                "description": {
+                    "en-US": "Upgraded one weapon to the max",
+                    "fr-FR": "Tu as amélioré une arme au maximum",
+                    "es-ES": "Has mejorado un arma al máximo",
+                    "de-DE": "Eine Waffe bis zum Maximum verbessert",
+                    "it-IT": "Hai potenziato al massimo un'arma",
+                    "ru-RU": "Вы улучшили одну единицу оружия до максимума",
+                    "pl-PL": "Maksymalnie ulepszono jedną broń"
+                },
+                "howto": {
+                    "en-US": "Upgrade one weapon to the max",
+                    "fr-FR": "Améliore une arme au maximum",
+                    "es-ES": "Mejora un arma al máximo",
+                    "de-DE": "Verbessere eine Waffe bis zum Maximum",
+                    "it-IT": "Potenzia al massimo un'arma",
+                    "ru-RU": "Улучшите одну единицу оружия до максимума",
+                    "pl-PL": "Maksymalnie ulepsz jedną broń"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "en-US": "Fell from Heaven",
+                    "fr-FR": "Tombé du paradis",
+                    "es-ES": "Caído del Cielo",
+                    "de-DE": "Vom Himmel gefallen",
+                    "it-IT": "Caduta dal Paradiso",
+                    "ru-RU": "Небесная кара",
+                    "pl-PL": "Upadek z nieba"
+                },
+                "description": {
+                    "en-US": "Purchased 113 Supernatural Power Upgrades",
+                    "fr-FR": "Tu as acheté 113 améliorations de pouvoirs surnaturels",
+                    "es-ES": "Has comprado las 113 mejoras de poder sobrenatural",
+                    "de-DE": "113 Verbesserungen der übernatürlichen Kräfte gekauft",
+                    "it-IT": "Hai acquistato 113 potenziamenti dei poteri soprannaturali",
+                    "ru-RU": "Вы приобрели 113 улучшений суперсил",
+                    "pl-PL": "Wykupiono 113 ulepszeń nadprzyrodzonych mocy"
+                },
+                "howto": {
+                    "en-US": "Purchase 113 Supernatural Power Upgrades",
+                    "fr-FR": "Achète 113 améliorations de pouvoirs surnaturels",
+                    "es-ES": "Compra las 113 mejoras de poder sobrenatural",
+                    "de-DE": "Kaufe 113 Verbesserungen der übernatürlichen Kräfte",
+                    "it-IT": "Acquista 113 potenziamenti dei poteri soprannaturali",
+                    "ru-RU": "Приобретите 113 улучшений суперсил",
+                    "pl-PL": "Wykup 113 ulepszeń nadprzyrodzonych mocy"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "12.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "en-US": "Plague of Gat",
+                    "fr-FR": "Le Fléau de Gat",
+                    "es-ES": "Plaga de Gat",
+                    "de-DE": "Gats Plage",
+                    "it-IT": "Quella piaga d'un Gat",
+                    "ru-RU": "Чума Гэта",
+                    "pl-PL": "Przekleństwo Gata"
+                },
+                "description": {
+                    "en-US": "Killed 1000 Demons with any combination of Supernatural Powers",
+                    "fr-FR": "Tu as tué 1000 démons avec n'importe quelle combinaison de pouvoirs surnaturels",
+                    "es-ES": "Has matado a 1000 demonios con una combinación de poderes sobrenaturales",
+                    "de-DE": "1.000 Dämonen mit einer beliebigen Kombination aus übernatürlichen Kräften getötet",
+                    "it-IT": "Hai ucciso 1000 demoni con qualsiasi combinazione di poteri soprannaturali",
+                    "ru-RU": "Вы убили 1 000 демонов любыми комбинациями суперсил",
+                    "pl-PL": "Zabito 1000 demonów dowolną kombinacją nadprzyrodzonych mocy"
+                },
+                "howto": {
+                    "en-US": "Kill 1000 Demons with any combination of Supernatural Powers",
+                    "fr-FR": "Tue 1000 démons avec n'importe quelle combinaison de pouvoirs surnaturels",
+                    "es-ES": "Mata a 1000 demonios con una combinación de poderes sobrenaturales",
+                    "de-DE": "Töte 1.000 Dämonen mit einer beliebigen Kombination aus übernatürlichen Kräften",
+                    "it-IT": "Uccidi 1000 demoni con qualsiasi combinazione di poteri soprannaturali",
+                    "ru-RU": "Убейте 1 000 демонов любыми комбинациями суперсил",
+                    "pl-PL": "Zabij 1000 demonów dowolną kombinacją nadprzyrodzonych mocy"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "13.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "en-US": "The King of Hell",
+                    "fr-FR": "Le roi de l'enfer",
+                    "es-ES": "El rey del Infierno",
+                    "de-DE": "Der König der Hölle",
+                    "it-IT": "Sovrano degli Inferi",
+                    "ru-RU": "Король ада",
+                    "pl-PL": "Władca piekieł"
+                },
+                "description": {
+                    "en-US": "Completed ALL of the Challenges",
+                    "fr-FR": "Tu as terminé TOUS les défis",
+                    "es-ES": "Has completado todos los desafíos",
+                    "de-DE": "ALLE Herausforderungen geschafft",
+                    "it-IT": "Hai completato tutte le sfide",
+                    "ru-RU": "Вы победили во ВСЕХ состязаниях",
+                    "pl-PL": "Ukończono wszystkie wyzwania"
+                },
+                "howto": {
+                    "en-US": "Complete ALL of the Challenges",
+                    "fr-FR": "Termine TOUS les défis",
+                    "es-ES": "Completa todos los desafíos",
+                    "de-DE": "Schaffe ALLE Herausforderungen",
+                    "it-IT": "Completa tutte le sfide",
+                    "ru-RU": "Победите во ВСЕХ состязаниях",
+                    "pl-PL": "Ukończ wszystkie wyzwania"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "14.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "en-US": "The Book of More, Man",
+                    "fr-FR": "Bibliothécaire éclairé",
+                    "es-ES": "Más libros, tío",
+                    "de-DE": "Das Buch von Mehr, Mann",
+                    "it-IT": "Una pagina tira l'altra",
+                    "ru-RU": "Книга Большего, Человек",
+                    "pl-PL": "Bibliofil"
+                },
+                "description": {
+                    "en-US": "Found 64 Tomes",
+                    "fr-FR": "Tu as trouvé 64 livres",
+                    "es-ES": "Has encontrado los 64 tomos",
+                    "de-DE": "64 Bücher gefunden",
+                    "it-IT": "Hai trovato 64 tomi",
+                    "ru-RU": "Вы нашли 64 тома",
+                    "pl-PL": "Odszukano 64 księgi"
+                },
+                "howto": {
+                    "en-US": "Find 64 Tomes",
+                    "fr-FR": "Trouve 64 livres",
+                    "es-ES": "Encuentra los 64 tomos",
+                    "de-DE": "Finde 64 Bücher",
+                    "it-IT": "Trova 64 tomi",
+                    "ru-RU": "Найдите 64 тома",
+                    "pl-PL": "Odszukaj 64 księgi"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "15.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "en-US": "Seraphim and Cherubim",
+                    "fr-FR": "Séraphins et chérubins",
+                    "es-ES": "Serafín y Querubín",
+                    "de-DE": "Seraph und Cherub",
+                    "it-IT": "Serafino e Cherubino",
+                    "ru-RU": "Серафим и херувим",
+                    "pl-PL": "Serafy i cheruby"
+                },
+                "description": {
+                    "en-US": "Played for at least 2 hours as Gat and 2 hours as Kinzie",
+                    "fr-FR": "Tu as joué pendant au moins 2 heures sous les traits de Gat et 2 heures sous les traits de Kinzie",
+                    "es-ES": "Has jugado al menos dos horas como Gat y 2 horas como Kinzie",
+                    "de-DE": "Mindestens 2 Stunden als Gat und 2 Stunden als Kinzie gespielt",
+                    "it-IT": "Hai giocato per almeno 2 ore con Gat e 2 ore con Kinzie",
+                    "ru-RU": "Вы играли минимум 2 часа за Гэта и 2 часа за Кинзи",
+                    "pl-PL": "Grano co najmniej 2 godziny jako Gat i 2 godziny jako Kinzie"
+                },
+                "howto": {
+                    "en-US": "Play for at least 2 hours as Gat and 2 hours as Kinzie",
+                    "fr-FR": "Joue pendant au moins 2 heures sous les traits de Gat et 2 heures sous les traits de Kinzie",
+                    "es-ES": "Juega al menos dos horas como Gat y 2 horas como Kinzie",
+                    "de-DE": "Spiele mindestens 2 Stunden als Gat und 2 Stunden als Kinzie",
+                    "it-IT": "Gioca per almeno 2 ore con Gat e 2 ore con Kinzie",
+                    "ru-RU": "Играйте минимум 2 часа за Гэта и 2 часа за Кинзи",
+                    "pl-PL": "Graj co najmniej 2 godziny jako Gat i 2 godziny jako Kinzie"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "16.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "en-US": "Level One Demon",
+                    "fr-FR": "Démon niveau un",
+                    "es-ES": "Demonio de nivel uno",
+                    "de-DE": "Dämon der Stufe Eins",
+                    "it-IT": "Demone di primo livello",
+                    "ru-RU": "Демон первого уровня",
+                    "pl-PL": "Pierwszopoziomowy demon"
+                },
+                "description": {
+                    "en-US": "Bought your first Upgrade from the Upgrade Store",
+                    "fr-FR": "Tu as acheté ta première amélioration dans la boutique d'améliorations",
+                    "es-ES": "Has comprado tu primera mejora en la tienda de mejoras",
+                    "de-DE": "Deine erste Verbesserung in den Upgrades gekauft",
+                    "it-IT": "Hai acquistato il tuo primo potenziamento nel negozio potenziamenti",
+                    "ru-RU": "Вы купили свое первое улучшение в магазине улучшений",
+                    "pl-PL": "Kupiono pierwsze ulepszenie w sklepie z ulepszeniami"
+                },
+                "howto": {
+                    "en-US": "Buy your first Upgrade from the Upgrade Store",
+                    "fr-FR": "Achète ta première amélioration dans la boutique d'améliorations",
+                    "es-ES": "Compra tu primera mejora en la tienda de mejoras",
+                    "de-DE": "Kaufe deine erste Verbesserung unter: Upgrades",
+                    "it-IT": "Acquista il tuo primo potenziamento nel negozio potenziamenti",
+                    "ru-RU": "Купите свое первое улучшение в лавке улучшений",
+                    "pl-PL": "Kup swoje pierwsze ulepszenie w sklepie z ulepszeniami"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "17.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "en-US": "Hazardous Dukes",
+                    "fr-FR": "Dukes dangereux",
+                    "es-ES": "Duques peligrosos",
+                    "de-DE": "Gefährliche Dukes",
+                    "it-IT": "Nobili decaduti",
+                    "ru-RU": "Опасные герцоги",
+                    "pl-PL": "Detronizacja"
+                },
+                "description": {
+                    "en-US": "Killed 25 Arch Dukes",
+                    "fr-FR": "Tu as tué 25 Archiducs",
+                    "es-ES": "Has matado a 25 archiduques",
+                    "de-DE": "25 Arch-Dukes getötet",
+                    "it-IT": "Hai ucciso 25 Arciduchi",
+                    "ru-RU": "Вы убили 25 архгерцогов",
+                    "pl-PL": "Zabito 25 arcyksiążąt"
+                },
+                "howto": {
+                    "en-US": "Kill 25 Arch Dukes",
+                    "fr-FR": "Tue 25 Archiducs",
+                    "es-ES": "Mata a 25 archiduques",
+                    "de-DE": "Töte 25 Arch-Dukes",
+                    "it-IT": "Uccidi 25 Arciduchi",
+                    "ru-RU": "Убейте 25 архгерцогов",
+                    "pl-PL": "Zabij 25 arcyksiążąt"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "18.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "en-US": "Soul in One",
+                    "fr-FR": "Clusters d'âmes",
+                    "es-ES": "Alma en uno",
+                    "de-DE": "Seelensucher",
+                    "it-IT": "Anime anonime",
+                    "ru-RU": "Единая душа",
+                    "pl-PL": "Łowca dusz"
+                },
+                "description": {
+                    "en-US": "Found 100 Soul Clusters",
+                    "fr-FR": "Tu as trouvé 100 Clusters d'âmes",
+                    "es-ES": "Has encontrado 100 clústeres",
+                    "de-DE": "100 Seelenschwärme gefunden",
+                    "it-IT": "Hai trovato 100 cluster d'anime",
+                    "ru-RU": "Вы нашли 100 блоков душ",
+                    "pl-PL": "Znaleziono 100 klastrów dusz"
+                },
+                "howto": {
+                    "en-US": "Find 100 Soul Clusters",
+                    "fr-FR": "Trouve 100 Clusters d'âmes",
+                    "es-ES": "Encuentra 100 clústeres",
+                    "de-DE": "Finde 100 Seelenschwärme",
+                    "it-IT": "Trova 100 cluster d'anime",
+                    "ru-RU": "Найдите 100 блоков душ",
+                    "pl-PL": "Odszukaj 100 klastrów dusz"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "19.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "en-US": "Soul Drain",
+                    "fr-FR": "Aspirateur d'âme",
+                    "es-ES": "Almas consumidas",
+                    "de-DE": "Beseelt",
+                    "it-IT": "Cloache d'anime",
+                    "ru-RU": "Поток душ",
+                    "pl-PL": "Wysysacz dusz"
+                },
+                "description": {
+                    "en-US": "Found 100% of all Soul Clusters",
+                    "fr-FR": "Tu as trouvé TOUS les Clusters d'âmes",
+                    "es-ES": "Has encontrado el 100% de clústeres",
+                    "de-DE": "100 % der Seelenschwärme gefunden",
+                    "it-IT": "Hai trovato il 100% dei cluster d'anime",
+                    "ru-RU": "Вы нашли 100% всех блоков душ",
+                    "pl-PL": "Znaleziono 100% klastrów dusz"
+                },
+                "howto": {
+                    "en-US": "Find 100% of all Soul Clusters",
+                    "fr-FR": "Trouve TOUS les Clusters d'âmes",
+                    "es-ES": "Encuentra el 100% de clústeres",
+                    "de-DE": "Finde 100 % der Seelenschwärme",
+                    "it-IT": "Trova il 100% dei cluster d'anime",
+                    "ru-RU": "Найдите 100% всех блоков душ",
+                    "pl-PL": "Odszukaj 100% klastrów dusz"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "20.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "en-US": "…My Dear Watson",
+                    "fr-FR": "… mon cher Watson",
+                    "es-ES": "...Mi querido Watson",
+                    "de-DE": "... mein lieber Watson",
+                    "it-IT": "Mio caro Watson",
+                    "ru-RU": "...мой дорогой Ватсон",
+                    "pl-PL": "Żywiołowa zagrywka"
+                },
+                "description": {
+                    "en-US": "Chose a new element for all of your Supernatural Powers",
+                    "fr-FR": "Tu as choisi un nouvel élément pour tous tes pouvoirs surnaturels",
+                    "es-ES": "Has elegido un nuevo elemento para todos tus poderes sobrenaturales",
+                    "de-DE": "Ein neues Element für all deine übernatürlichen Kräfte ausgewählt",
+                    "it-IT": "Hai scelto un nuovo elemento per tutti i tuoi poteri soprannaturali",
+                    "ru-RU": "Вы выбрали новый элемент для всех своих суперсил",
+                    "pl-PL": "Wybrano nowy żywioł dla wszystkich nadprzyrodzonych mocy"
+                },
+                "howto": {
+                    "en-US": "Choose a new element for all of your Supernatural Powers",
+                    "fr-FR": "Choisis un nouvel élément pour tous tes pouvoirs surnaturels",
+                    "es-ES": "Elige un nuevo elemento para todos tus poderes sobrenaturales",
+                    "de-DE": "Wähle ein neues Element für all deine übernatürlichen Kräfte aus",
+                    "it-IT": "Scegli un nuovo elemento per tutti i tuoi poteri soprannaturali",
+                    "ru-RU": "Выберите новый элемент для всех своих суперсил",
+                    "pl-PL": "Wybierz nowy żywioł dla wszystkich swoich nadprzyrodzonych mocy"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "21.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "en-US": "Epic Flight Quest",
+                    "fr-FR": "Vol épique",
+                    "es-ES": "Vuelo épico",
+                    "de-DE": "Epischer Flug",
+                    "it-IT": "Volo epico",
+                    "ru-RU": "Эпический перелет",
+                    "pl-PL": "Skok w dal"
+                },
+                "description": {
+                    "en-US": "Flew from the roof of Snowball's Chance to Sinterpol HQ's roof, without landing",
+                    "fr-FR": "Tu as volé du toit du Snowball's Chance au QG de Sinterpol sans toucher le sol",
+                    "es-ES": "Has volado desde Snowball's Chance al cuartel de Sinterpol sin tocar el suelo",
+                    "de-DE": "Ohne zu landen von Dach zu Dach zwischen \"Snowball's Chance\" und Sinterpol-HQs geflogen",
+                    "it-IT": "Hai volato dal tetto di Snowball's Chance al tetto del QG Sinterpol senza toccare terra",
+                    "ru-RU": "Вы перелетели без посадки с крыши Snowball's Chance на крышу штаба Грехопола",
+                    "pl-PL": "Pokonano odległość z dachu Zamarzniętego Piekła na dach siedziby Inferpolu bez śródlądowania"
+                },
+                "howto": {
+                    "en-US": "Fly from the roof of Snowball's Chance to Sinterpol HQ's roof, without landing",
+                    "fr-FR": "Vole du toit du Snowball's Chance au toit du QG de Sinterpol sans toucher le sol",
+                    "es-ES": "Vuela desde la azotea de Snowball's Chance al cuartel de Sinterpol sin tocar el suelo",
+                    "de-DE": "Fliege zwischen den Dächern des \"Snowball's Chance\" und Sinterpol-HQs ohne zu landen",
+                    "it-IT": "Vola dal tetto di Snowball's Chance al tetto del QG Sinterpol senza toccare terra",
+                    "ru-RU": "Перелетите без посадки с крыши Snowball's Chance на крышу штаба Грехопола",
+                    "pl-PL": "Przeleć z dachu Dobrych Chęci na dach siedziby Grzechopolu bez śródlądowania"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "22.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "en-US": "Twenty-Twenty Vision",
+                    "fr-FR": "Vision parfaite",
+                    "es-ES": "Visión perfecta",
+                    "de-DE": "Heißer Zwanziger",
+                    "it-IT": "Il vanto delle venti",
+                    "ru-RU": "Двадцать на двадцать",
+                    "pl-PL": "Zadomowiony"
+                },
+                "description": {
+                    "en-US": "Spent over 20 hours in Hell",
+                    "fr-FR": "Tu as passé plus de 20 heures en enfer",
+                    "es-ES": "Has pasado más de 20 horas en el infierno",
+                    "de-DE": "Mehr als 20 Stunden in der Hölle verbracht",
+                    "it-IT": "Hai trascorso più di 20 ore all'Inferno",
+                    "ru-RU": "Вы провели более 20 часов в аду",
+                    "pl-PL": "Spędzono w piekle ponad 20 godzin"
+                },
+                "howto": {
+                    "en-US": "Spend over 20 hours in Hell",
+                    "fr-FR": "Passe plus de 20 heures en enfer",
+                    "es-ES": "Pasa más de 20 horas en el infierno",
+                    "de-DE": "Verbringe mehr als 20 Stunden in der Hölle",
+                    "it-IT": "Trascorri più di 20 ore all'Inferno",
+                    "ru-RU": "Проведите более 20 часов в аду",
+                    "pl-PL": "Spędź w piekle ponad 20 godzin"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "23.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "en-US": "Double Trouble",
+                    "fr-FR": "Super pétrin",
+                    "es-ES": "Problema doble",
+                    "de-DE": "Megastress",
+                    "it-IT": "Doppio inghippo",
+                    "ru-RU": "Двойная проблема",
+                    "pl-PL": "Co dwie głowy..."
+                },
+                "description": {
+                    "en-US": "Played Saints Row: Gat out of Hell Co-op for 3 hours",
+                    "fr-FR": "Tu as joué à Saints Row: Gat out of Hell Co-op pendant 3 heures",
+                    "es-ES": "Has jugado a Saints Row Gat Out of Hell cooperativo durante 3 horas",
+                    "de-DE": "3 Stunden lang den Koopmodus von Saints Row: Gat out of Hell gespielt",
+                    "it-IT": "Hai giocato la modalità Co-op di Saints Row: Gat Out of Hell per 3 ore",
+                    "ru-RU": "Провел в совместном режиме 'Saints Row: Gat out of Hell' 3 часа",
+                    "pl-PL": "Grano w trybie współpracy przez 3 godziny"
+                },
+                "howto": {
+                    "en-US": "Play Saints Row: Gat out of Hell Co-op for 3 hours",
+                    "fr-FR": "Joue à Saints Row: Gat out of Hell Co-op pendant 3 heures",
+                    "es-ES": "Juega a Saints Row: Gat Out of Hell cooperativo durante 3 horas",
+                    "de-DE": "Spiele 3 Stunden lang den Koopmodus von Saints Row: Gat out of Hell",
+                    "it-IT": "Gioca la modalità Co-op di Saints Row: Gat Out of Hell per 3 ore",
+                    "ru-RU": "Проведите в совместном режиме 'Saints Row: Gat out of Hell 3' часа",
+                    "pl-PL": "Graj w trybie współpracy przez 3 godziny"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "24.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "en-US": "Sloth Love Chunk",
+                    "fr-FR": "Vive la paresse",
+                    "es-ES": "Qué pereza me da",
+                    "de-DE": "Trägheit siegt",
+                    "it-IT": "Accidenti all'accidia",
+                    "ru-RU": "Любовь лениться",
+                    "pl-PL": "Lenistwo zabija"
+                },
+                "description": {
+                    "en-US": "Got 250 kills with the Essence of Sloth",
+                    "fr-FR": "Tu as atteint 250 victimes avec l'Essence de paresse",
+                    "es-ES": "Has conseguido 250 muertes con la Esencia de la Pereza",
+                    "de-DE": "250 Kills mit der Essenz der Trägheit geschafft",
+                    "it-IT": "Hai totalizzato 250 uccisioni con l'Essenza d'accidia",
+                    "ru-RU": "Вы совершили 250 убийств с помощью \"Лени\"",
+                    "pl-PL": "Zaliczono 250 zabójstw przy pomocy esencji lenistwa"
+                },
+                "howto": {
+                    "en-US": "Get 250 kills with the Essence of Sloth",
+                    "fr-FR": "Atteins 250 victimes avec l'Essence de paresse",
+                    "es-ES": "Consigue 250 muertes con la Esencia de la Pereza",
+                    "de-DE": "Schaffe 250 Kills mit der Essenz der Trägheit",
+                    "it-IT": "Totalizza 250 uccisioni con l'Essenza d'accidia",
+                    "ru-RU": "Совершите 250 убийств с помощью \"Лени\"",
+                    "pl-PL": "Zalicz 250 zabójstw przy pomocy esencji lenistwa"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "25.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "en-US": "Nailed It",
+                    "fr-FR": "Marteau impérial",
+                    "es-ES": "Lo has clavado",
+                    "de-DE": "Festgenagelt",
+                    "it-IT": "Azione martellante",
+                    "ru-RU": "Нашпиговать и отбить",
+                    "pl-PL": "Przybity"
+                },
+                "description": {
+                    "en-US": "Got 100 kills with the God's Hammer",
+                    "fr-FR": "Tu as atteint 100 victimes avec le Marteau de Dieu",
+                    "es-ES": "Has conseguido 100 muertes con el Martillo de Dios",
+                    "de-DE": "100 Kills mit dem Gottes Hammer geschafft",
+                    "it-IT": "Hai totalizzato 100 uccisioni con il Martello divino",
+                    "ru-RU": "Вы совершили 100 убийств с помощью \"Молота богов\"",
+                    "pl-PL": "Zaliczono 100 zabójstw przy pomocy boskiego młota"
+                },
+                "howto": {
+                    "en-US": "Get 100 kills with the God's Hammer",
+                    "fr-FR": "Atteins 100 victimes avec le Marteau de Dieu",
+                    "es-ES": "Consigue 100 muertes con el Martillo de Dios",
+                    "de-DE": "Schaffe 100 Kills mit dem Gottes Hammer",
+                    "it-IT": "Totalizza 100 uccisioni con il Martello divino",
+                    "ru-RU": "Совершите 100 убийств с помощью \"Молота богов\"",
+                    "pl-PL": "Zalicz 100 zabójstw przy pomocy boskiego młota"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "26.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "en-US": "Shut Your Eyes",
+                    "fr-FR": "On ferme les yeux !",
+                    "es-ES": "Cierra los ojos",
+                    "de-DE": "Schließe deine Augen",
+                    "it-IT": "Fai un bel respiro",
+                    "ru-RU": "Отвернитесь",
+                    "pl-PL": "Młody gniewny"
+                },
+                "description": {
+                    "en-US": "Got 250 kills with the Essence of Wrath",
+                    "fr-FR": "Tu as atteint 250 victimes avec l'Essence de colère",
+                    "es-ES": "Has conseguido 250 muertes con la Esencia de la Ira",
+                    "de-DE": "250 Kills mit der Essenz des Zorns geschafft",
+                    "it-IT": "Hai totalizzato 250 uccisioni con l'Essenza d'ira",
+                    "ru-RU": "Вы совершили 250 убийств с помощью \"Гнева\"",
+                    "pl-PL": "Zaliczono 250 zabójstw przy pomocy esencji gniewu"
+                },
+                "howto": {
+                    "en-US": "Get 250 kills with the Essence of Wrath",
+                    "fr-FR": "Atteins 250 victimes avec l'Essence de colère",
+                    "es-ES": "Consigue 250 muertes con la Esencia de la Ira",
+                    "de-DE": "Schaffe 250 Kills mit der Essenz des Zorns",
+                    "it-IT": "Totalizza 250 uccisioni con l'Essenza d'ira",
+                    "ru-RU": "Совершите 250 убийств с помощью \"Гнева\"",
+                    "pl-PL": "Zalicz 250 zabójstw przy pomocy esencji gniewu"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "27.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "en-US": "Imp-fanticide",
+                    "fr-FR": "Diablotins font pop !",
+                    "es-ES": "Duendicidio",
+                    "de-DE": "Die Geister, die ich rief ...",
+                    "it-IT": "Demonicidio",
+                    "ru-RU": "Умерщвление",
+                    "pl-PL": "Diablikobójstwo"
+                },
+                "description": {
+                    "en-US": "Killed 50 of your own summoned Imps",
+                    "fr-FR": "Tu as tué 50 Diablotins que tu avais invoqués",
+                    "es-ES": "Has matado a 50 de tus propios duendes invocados",
+                    "de-DE": "50 deiner selbst beschworenen Imps getötet",
+                    "it-IT": "Hai ucciso 50 demonietti che tu stesso hai evocato",
+                    "ru-RU": "Вы убили 50 своих призванных бесов",
+                    "pl-PL": "Zabito 50 przywołanych diablików"
+                },
+                "howto": {
+                    "en-US": "Kill 50 of your own summoned Imps",
+                    "fr-FR": "Tue 50 Diablotins que tu as invoqués",
+                    "es-ES": "Mata a 50 de tus propios duendes invocados",
+                    "de-DE": "Töte 50 deiner selbst beschworenen Imps",
+                    "it-IT": "Uccidi 50 demonietti che tu stesso hai evocato",
+                    "ru-RU": "Убейте 50 своих призванных бесов",
+                    "pl-PL": "Zabij 50 przywołanych przez siebie diablików"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "28.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "en-US": "Extra Crispy",
+                    "fr-FR": "Super croustillant",
+                    "es-ES": "Supercrujiente",
+                    "de-DE": "Knusprig durch",
+                    "it-IT": "Extra-croccante",
+                    "ru-RU": "С корочкой",
+                    "pl-PL": "Pieczyste"
+                },
+                "description": {
+                    "en-US": "Died in the lava",
+                    "fr-FR": "Tu es mort dans la lave",
+                    "es-ES": "Has muerto en la lava",
+                    "de-DE": "In der Lava gestorben",
+                    "it-IT": "Sei morto nella lava",
+                    "ru-RU": "Вы погибли в лаве",
+                    "pl-PL": "Dokonano żywota w lawie"
+                },
+                "howto": {
+                    "en-US": "Die in the lava",
+                    "fr-FR": "Meurs dans la lave",
+                    "es-ES": "Muere en la lava",
+                    "de-DE": "Stirb in der Lava",
+                    "it-IT": "Muori nella lava",
+                    "ru-RU": "Погибните в лаве",
+                    "pl-PL": "Zgiń w lawie"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "29.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "en-US": "Gnarly Wave",
+                    "fr-FR": "Vague ultime",
+                    "es-ES": "Ola enredada",
+                    "de-DE": "Kracherwelle",
+                    "it-IT": "Onda in fiamme",
+                    "ru-RU": "Суровая волна",
+                    "pl-PL": "Ostra fala"
+                },
+                "description": {
+                    "en-US": "Car surfed on a Comet while it explodes",
+                    "fr-FR": "Tu as fait du surf de voiture sur une Comet pendant qu'elle explosait",
+                    "es-ES": "Has hecho surfeo de vehículo en un Comet mientras explotaba",
+                    "de-DE": "Auf einem Comet car-gesurft, während er explodiert",
+                    "it-IT": "Hai fatto car surf su una Comet mentre stava esplodendo",
+                    "ru-RU": "На машине вы оседлали комету, пока она взрывается",
+                    "pl-PL": "Surfowano samochodem na eksplodującym Comecie"
+                },
+                "howto": {
+                    "en-US": "Car surf on a Comet while it explodes",
+                    "fr-FR": "Fais du surf de voiture sur une Comet pendant qu'elle explose",
+                    "es-ES": "Haz surfeo de vehículo en un Comet mientras explota",
+                    "de-DE": "Car-surfe auf einem Comet, während er explodiert",
+                    "it-IT": "Fai car surf su una Comet mentre sta esplodendo",
+                    "ru-RU": "На машине оседлайте комету, пока она взрывается",
+                    "pl-PL": "Surfuj samochodem na eksplodującym Comecie"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "30.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "en-US": "Hell Buoy",
+                    "fr-FR": "Ancrage démoniaque",
+                    "es-ES": "Boya infernal",
+                    "de-DE": "Höllenboje",
+                    "it-IT": "Cinque 666",
+                    "ru-RU": "Адский буй",
+                    "pl-PL": "Hellboja"
+                },
+                "description": {
+                    "en-US": "Had five Imps attached to you at one time",
+                    "fr-FR": "Tu t'es débrouillé pour que cinq Diablotins soient accrochés en même temps sur toi",
+                    "es-ES": "Has tenido 5 duendes pegados a ti a la vez",
+                    "de-DE": "5 Imps auf einmal angehangen gehabt",
+                    "it-IT": "Hai tenuto attaccati a te cinque demonietti nello stesso momento",
+                    "ru-RU": "Вы присоединили к себе одновременно пятерых бесов",
+                    "pl-PL": "Grano z pięcioma przywiązanymi diablikami"
+                },
+                "howto": {
+                    "en-US": "Have five Imps attached to you at one time",
+                    "fr-FR": "Débrouille-toi pour que cinq Diablotins soient accrochés en même temps sur toi",
+                    "es-ES": "Ten 5 duendes pegados a ti a la vez",
+                    "de-DE": "Habe 5 Imps auf einmal an dir hängen",
+                    "it-IT": "Tieni attaccati a te cinque demonietti nello stesso momento",
+                    "ru-RU": "Присоедините к себе одновременно пятерых бесов",
+                    "pl-PL": "Graj z pięcioma przywiązanymi do ciebie diablikami"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "31.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "en-US": "Top Gunner",
+                    "fr-FR": "Tireur d'élite",
+                    "es-ES": "El mejor tirador",
+                    "de-DE": "Spitzenschütze",
+                    "it-IT": "Artigliere e gentiluomo",
+                    "ru-RU": "Суперлетчик",
+                    "pl-PL": "Strzelec wyborowy"
+                },
+                "description": {
+                    "en-US": "Shoot down a Spire missile with a blast while hovering",
+                    "fr-FR": "Tu as descendu un missile Flèche à l'aide d'une explosion lorsque tu planais",
+                    "es-ES": "Has derribado un misil de torre con una descarga mientras planeabas",
+                    "de-DE": "Eine Boden-Luft-Rakete beim Schweben mit einem Blast abgeschossen",
+                    "it-IT": "Hai abbattuto un missile Cuspide con un'esplosione mentre fluttuavi",
+                    "ru-RU": "Вы уничтожили ракету \"Шпиль\" зарядом, будучи в полете",
+                    "pl-PL": "Zestrzelono wybuchem z powietrza rakietę wystrzeloną z iglicy"
+                },
+                "howto": {
+                    "en-US": "Shot down a Spire missile with a blast while hovering",
+                    "fr-FR": "Descends un missile Flèche à l'aide d'une explosion lorsque tu planes",
+                    "es-ES": "Derriba un misil de torre con una descarga mientras planeas",
+                    "de-DE": "Schieße eine Boden-Luft-Rakete mit einem Blast ab, während du schwebst",
+                    "it-IT": "Abbatti un missile Cuspide con un'esplosione mentre fluttui",
+                    "ru-RU": "Уничтожьте ракету \"Шпиль\" зарядом, будучи в полете",
+                    "pl-PL": "Unosząc się w powietrzu, zestrzel wybuchem rakietę wystrzeloną z iglicy"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "32.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "en-US": "Terminal Hog",
+                    "fr-FR": "Virée extrême",
+                    "es-ES": "Burra terminal",
+                    "de-DE": "Motorradsau",
+                    "it-IT": "Scavezzacollo estremo",
+                    "ru-RU": "Последняя свинья",
+                    "pl-PL": "Motodestrukcja"
+                },
+                "description": {
+                    "en-US": "Took down an Extraction Facility while on a motorcycle",
+                    "fr-FR": "Tu as détruit un Bâtiment d'extraction à moto",
+                    "es-ES": "Has acabado con una instalación de extracción mientras ibas en moto",
+                    "de-DE": "Ein Extraktionszentrum vom Motorrad aus vernichtet",
+                    "it-IT": "Hai distrutto un impianto di estrazione mentre ti trovavi in sella a una moto",
+                    "ru-RU": "Вы уничтожили точку эвакуации на мотоцикле",
+                    "pl-PL": "Zniszczono zakład ekstrakcji podczas przemieszczania się na motocyklu"
+                },
+                "howto": {
+                    "en-US": "Take down an Extraction Facility while on a motorcycle",
+                    "fr-FR": "Détruis un Bâtiment d'extraction à moto",
+                    "es-ES": "Acaba con una instalación de extracción mientras vas en moto",
+                    "de-DE": "Vernichte ein Extraktionszentrum vom Motorrad aus",
+                    "it-IT": "Distruggi un impianto di estrazione mentre ti trovi in sella a una moto",
+                    "ru-RU": "Уничтожьте точку эвакуации на мотоцикле",
+                    "pl-PL": "Zniszcz zakład ekstrakcji, przemieszczając się na motocyklu"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "33.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "en-US": "Transcontinental",
+                    "fr-FR": "Transcontinental",
+                    "es-ES": "Transcontinental",
+                    "de-DE": "Transkontinental",
+                    "it-IT": "Transcontinentale",
+                    "ru-RU": "Трансконтинентальный",
+                    "pl-PL": "Lot dalekobieżny"
+                },
+                "description": {
+                    "en-US": "Flew continuously for 60 seconds",
+                    "fr-FR": "Tu as volé en continu pendant 60 secondes",
+                    "es-ES": "Has volado sin interrupción durante 60 segundos",
+                    "de-DE": "60 Sekunden am Stück geflogen",
+                    "it-IT": "Hai volato continuativamente per 60 secondi",
+                    "ru-RU": "Вы летели непрерывно 60 секунд",
+                    "pl-PL": "Odbyto nieprzerwany 60-sekundowy lot"
+                },
+                "howto": {
+                    "en-US": "Fly continuously for 60 seconds",
+                    "fr-FR": "Vole en continu pendant 60 secondes",
+                    "es-ES": "Vuela sin interrupción durante 60 segundos",
+                    "de-DE": "Fliege 60 Sekunden am Stück",
+                    "it-IT": "Vola continuativamente per 60 secondi",
+                    "ru-RU": "Летите непрерывно 60 секунд",
+                    "pl-PL": "Leć nieprzerwanie przez 60 sekund"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "34.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "en-US": "Shooting Star",
+                    "fr-FR": "Étoile filante",
+                    "es-ES": "Estrella fugaz",
+                    "de-DE": "Sternschnuppe",
+                    "it-IT": "Stella cadente",
+                    "ru-RU": "Звезда полигона",
+                    "pl-PL": "Spadająca gwiazda"
+                },
+                "description": {
+                    "en-US": "Flew for 500 meters while on fire",
+                    "fr-FR": "Tu as volé sur 500 mètres lorsque tu étais en flammes",
+                    "es-ES": "Has volado durante 500 metros mientras ardías",
+                    "de-DE": "500 m geflogen, während du branntest",
+                    "it-IT": "Hai volato per 500 metri mentre andavi a fuoco",
+                    "ru-RU": "Вы пролетели 500 метров, будучи охваченным пламенем",
+                    "pl-PL": "Pokonano 500 metrów w ogniu"
+                },
+                "howto": {
+                    "en-US": "Fly for 500 meters while on fire",
+                    "fr-FR": "Vole sur 500 mètres lorsque tu es en flammes",
+                    "es-ES": "Vuela durante 500 metros mientras ardes",
+                    "de-DE": "Fliege 500 m, während du brennst",
+                    "it-IT": "Vola per 500 metri mentre vai a fuoco",
+                    "ru-RU": "Пролетите 500 метров, будучи охваченным пламенем",
+                    "pl-PL": "Przeleć 500 metrów, płonąc"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "35.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "en-US": "Put Up Your Dukes",
+                    "fr-FR": "Mains en l'air",
+                    "es-ES": "K.O. Ducados",
+                    "de-DE": "Nur ein toter Duke ...",
+                    "it-IT": "Dica, duca?",
+                    "ru-RU": "К барьеру",
+                    "pl-PL": "Książę ciemności"
+                },
+                "description": {
+                    "en-US": "Killed an Arch Duke with a melee attack",
+                    "fr-FR": "Tu as tué un Archiduc au corps à corps",
+                    "es-ES": "Has matado a un archiduque con un ataque cuerpo a cuerpo",
+                    "de-DE": "Einen Arch-Duke mit einem Nahkampfangriff getötet",
+                    "it-IT": "Hai ucciso un Arciduca con un attacco corpo a corpo",
+                    "ru-RU": "Вы убили архгерцога в рукопашной схватке",
+                    "pl-PL": "Zabito arcyksięcia w walce wręcz"
+                },
+                "howto": {
+                    "en-US": "Kill an Arch Duke with a melee attack",
+                    "fr-FR": "Tue un Arch Duke au corps à corps",
+                    "es-ES": "Mata a un archiduque con un ataque cuerpo a cuerpo",
+                    "de-DE": "Töte einen Arch-Duke mit einem Nahkampfangriff",
+                    "it-IT": "Uccidi un Arciduca con un attacco corpo a corpo",
+                    "ru-RU": "Убейте архгерцога в рукопашной схватке",
+                    "pl-PL": "Zabij arcyksięcia w walce wręcz"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "36.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "en-US": "Out of the Frying Pan",
+                    "fr-FR": "Ça va chauffer !",
+                    "es-ES": "De la sartén... a las brasas",
+                    "de-DE": "Bratpfanne",
+                    "it-IT": "Dalla padella alla brace",
+                    "ru-RU": "Вон из сковородки",
+                    "pl-PL": "Z deszczu pod rynnę"
+                },
+                "description": {
+                    "en-US": "Knocked a vehicle into the lava",
+                    "fr-FR": "Tu as fait tomber un véhicule dans la lave",
+                    "es-ES": "Has empujado un vehículo a la lava",
+                    "de-DE": "Ein Fahrzeug in die Lava gestoßen",
+                    "it-IT": "Hai gettato un veicolo nella lava",
+                    "ru-RU": "Вы столкнули машину в лаву",
+                    "pl-PL": "Strącono pojazd do lawy"
+                },
+                "howto": {
+                    "en-US": "Knock a vehicle into the lava",
+                    "fr-FR": "Fais tomber un véhicule dans la lave",
+                    "es-ES": "Empuja un vehículo a la lava",
+                    "de-DE": "Stoße ein Fahrzeug in die Lava",
+                    "it-IT": "Getta un veicolo nella lava",
+                    "ru-RU": "Столкните машину в лаву",
+                    "pl-PL": "Strąć pojazd do lawy"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "37.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "en-US": "Soft Shoe",
+                    "fr-FR": "Charbons ardents",
+                    "es-ES": "Bailar claqué",
+                    "de-DE": "Heiße Sohle",
+                    "it-IT": "Passo felpato",
+                    "ru-RU": "Мягкие ботиночки",
+                    "pl-PL": "Na paluszkach"
+                },
+                "description": {
+                    "en-US": "Stayed in contact with the lava for 10 seconds without dying",
+                    "fr-FR": "Tu es resté en contact avec la lave pendant 10 secondes sans mourir",
+                    "es-ES": "Te has mantenido en contacto con la lava durante 10 segundos sin morir",
+                    "de-DE": "10 Sekunden lang mit Lava in Kontakt geblieben, ohne zu sterben",
+                    "it-IT": "Sei restato a contatto con la lava per 10 secondi senza morire",
+                    "ru-RU": "Вы касались лавы 10 секунд и не умерли",
+                    "pl-PL": "Przetrwano 10-sekundowy kontakt z lawą"
+                },
+                "howto": {
+                    "en-US": "Stay in contact with the lava for 10 seconds without dying",
+                    "fr-FR": "Reste en contact avec la lave pendant 10 secondes sans mourir",
+                    "es-ES": "Mantente en contacto con la lava durante 10 segundos sin morir",
+                    "de-DE": "Bleibe 10 Sekunden lang mit Lava in Kontakt, ohne zu sterben",
+                    "it-IT": "Resta a contatto con la lava per 10 secondi senza morire",
+                    "ru-RU": "Касайтесь лавы 10 секунд и не умрите",
+                    "pl-PL": "Pozostań w kontakcie z lawą przez 10 sekund, nie ginąc"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "38.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "en-US": "Cluster Luck",
+                    "fr-FR": "Chasse aux clusters",
+                    "es-ES": "El clúster de la suerte",
+                    "de-DE": "Schwarmglück",
+                    "it-IT": "Cluster della fortuna",
+                    "ru-RU": "Блок удачи",
+                    "pl-PL": "Klastrofilia"
+                },
+                "description": {
+                    "en-US": "Collected at least five Soul Clusters without touching the ground",
+                    "fr-FR": "Tu as récupéré au moins cinq Clusters d'âmes sans toucher le sol",
+                    "es-ES": "Has recogido al menos 5 clústeres sin tocar el suelo",
+                    "de-DE": "Mindestens 5 Seelenschwärme eingesammelt, ohne den Boden zu berühren",
+                    "it-IT": "Hai raccolto almeno cinque cluster d'anime senza toccare il suolo",
+                    "ru-RU": "Вы собрали минимум пять блоков душ, не касаясь земли",
+                    "pl-PL": "Zebrano co najmniej 5 klastrów dusz bez dotykania w międzyczasie ziemi"
+                },
+                "howto": {
+                    "en-US": "Collect at least five Soul Clusters without touching the ground",
+                    "fr-FR": "Récupère au moins cinq Clusters d'âmes sans toucher le sol",
+                    "es-ES": "Recoge al menos 5 clústeres sin tocar el suelo",
+                    "de-DE": "Sammle mindestens 5 Seelenschwärme ein, ohne den Boden zu berühren",
+                    "it-IT": "Raccogli almeno cinque cluster d'anime senza toccare il suolo",
+                    "ru-RU": "Соберите минимум пять блоков душ, не касаясь земли",
+                    "pl-PL": "Zbierz co najmniej 5 klastrów dusz bez dotykania w międzyczasie ziemi"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "39.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "en-US": "Let's Bounce",
+                    "fr-FR": "Et que ça saute !",
+                    "es-ES": "A botar",
+                    "de-DE": "Gehüpft wie gesprungen",
+                    "it-IT": "Balzellon balzelloni",
+                    "ru-RU": "Балансировка",
+                    "pl-PL": "Przybij pionę"
+                },
+                "description": {
+                    "en-US": "In Torment Fraud, hit 5 vehicles in a row without touching the ground",
+                    "fr-FR": "Dans Fraude et tourments, tu as touché 5 véhicules d'affilée sans toucher le sol",
+                    "es-ES": "En Fraude Tormentoso, has hecho blanco en 5 vehículos seguidos sin tocar el suelo",
+                    "de-DE": "In Folterbetrug 5 Fahrzeuge in Folge erwischt, ohne den Boden zu berühren",
+                    "it-IT": "In Truffa benedetta, hai colpito 5 veicoli di fila senza toccare il suolo",
+                    "ru-RU": "В \"Мучительном обмане\" вы поразили 5 машин подряд, не касаясь земли",
+                    "pl-PL": "Podczas pokuty uderzono 5 pojazdów pod rząd bez dotykania ziemi"
+                },
+                "howto": {
+                    "en-US": "In Torment Fraud, hit 5 vehicles in a row without touching the ground",
+                    "fr-FR": "Dans Fraude et tourments, touche 5 véhicules d'affilée sans toucher le sol",
+                    "es-ES": "En Fraude Tormentoso, haz blanco en 5 vehículos seguidos sin tocar el suelo",
+                    "de-DE": "Erwische in Folterbetrug 5 Fahrzeuge in Folge, ohne den Boden zu berühren",
+                    "it-IT": "In Truffa benedetta, colpisci 5 veicoli di fila senza toccare il suolo",
+                    "ru-RU": "В \"Мучительном обмане\" поразите 5 машин подряд, не касаясь земли",
+                    "pl-PL": "Podczas pokuty uderz 5 pojazdów pod rząd bez dotykania ziemi"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "40.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "en-US": "Are You Crazy?",
+                    "fr-FR": "T'es malade ou quoi ?",
+                    "es-ES": "¿Has perdido la cabeza?",
+                    "de-DE": "Bist du verrückt?",
+                    "it-IT": "Ma sei matto?",
+                    "ru-RU": "Спятил?",
+                    "pl-PL": "Odbiło ci?"
+                },
+                "description": {
+                    "en-US": "Got a Comet into the Ultor lobby",
+                    "fr-FR": "Tu as placé une Comet dans la salle d’Ultor",
+                    "es-ES": "Has metido un Comet en el vestíbulo de Ultor",
+                    "de-DE": "Mit einem Comet in die Ultor-Lobby gefahren",
+                    "it-IT": "Sei entrato con una Comet nel QG della Ultor",
+                    "ru-RU": "Вы направили комету в фойе Ultor",
+                    "pl-PL": "Sprowadzono kometę do lobby korporacji Ultor"
+                },
+                "howto": {
+                    "en-US": "Get a Comet into the Ultor lobby",
+                    "fr-FR": "Place une Comet dans la salle d’Ultor",
+                    "es-ES": "Mete un Comet en el vestíbulo de Ultor",
+                    "de-DE": "Fahre mit einem Comet in die Ultor-Lobby",
+                    "it-IT": "Entra con una Comet nel QG della Ultor",
+                    "ru-RU": "Направьте комету в фойе Ultor",
+                    "pl-PL": "Sprowadź Cometa do lobby korporacji Ultor"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "41.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "en-US": "Raise the Roof",
+                    "fr-FR": "Tape-plafond",
+                    "es-ES": "Sube al techo",
+                    "de-DE": "Ab durch die Decke",
+                    "it-IT": "Altro che controsoffitto...",
+                    "ru-RU": "Повышение уровня",
+                    "pl-PL": "Niski sufit"
+                },
+                "description": {
+                    "en-US": "Smacked into the ceiling 10 times while wall running",
+                    "fr-FR": "Tu as tapé dix fois contre le plafond en courant sur les murs",
+                    "es-ES": "Has colisionado contra el techo 10 veces mientras caminabas por la pared",
+                    "de-DE": "10-Mal gegen die Decke geknallt, während du an der Wand liefst",
+                    "it-IT": "Hai sbattuto contro il soffitto per 10 volte mentre correvi sulle pareti",
+                    "ru-RU": "Вы врезались в потолок 10 раз по время бега по стенам",
+                    "pl-PL": "Podczas biegania po ścianach 10 razy uderzono w sufit"
+                },
+                "howto": {
+                    "en-US": "Smack into the ceiling 10 times while wall running",
+                    "fr-FR": "Tape dix fois contre le plafond en courant sur les murs",
+                    "es-ES": "Colisiona contra el techo 10 veces mientras caminas por la pared",
+                    "de-DE": "Knalle 10-Mal gegen die Decke, während du an der Wand läufst",
+                    "it-IT": "Sbatti contro il soffitto per 10 volte mentre corri sulle pareti",
+                    "ru-RU": "Врежьтесь в потолок 10 раз по время бега по стенам",
+                    "pl-PL": "Podczas biegania po ścianach 10 razy uderz w sufit"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "42.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "en-US": "Barn Burner",
+                    "fr-FR": "Cirque volant",
+                    "es-ES": "Quemagraneros",
+                    "de-DE": "Scheunenfest",
+                    "it-IT": "Acrobazia investigativa",
+                    "ru-RU": "Аэрозажигатель",
+                    "pl-PL": "Diabelski lotnik"
+                },
+                "description": {
+                    "en-US": "Found 75 Barnstorming Diversion locations",
+                    "fr-FR": "Tu as trouvé 75 emplacements de Cascade aérienne",
+                    "es-ES": "Has encontrado 75 ubicaciones de distracción de vuelo acrobático",
+                    "de-DE": "75 Orte für das Kunstflug-Minispiel gefunden",
+                    "it-IT": "Hai rintracciato 75 diversivi Acrobazia aerea",
+                    "ru-RU": "Вы нашли 75 зон аэроакробатики",
+                    "pl-PL": "Odszukano 75 miejsc do akrobacji lotniczych"
+                },
+                "howto": {
+                    "en-US": "Find 75 Barnstorming Diversion locations",
+                    "fr-FR": "Trouve 75 emplacements de Cascade aérienne",
+                    "es-ES": "Encuentra 75 ubicaciones de distracción de vuelo acrobático",
+                    "de-DE": "Finde 75 Orte für das Kunstflug-Minispiel",
+                    "it-IT": "Rintraccia 75 diversivi Acrobazia aerea",
+                    "ru-RU": "Найдите 75 зон аэроакробатики",
+                    "pl-PL": "Odszukaj 75 miejsc do akrobacji lotniczych"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "43.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "en-US": "Saints' Creed",
+                    "fr-FR": "Tout en haut",
+                    "es-ES": "El credo de los santos",
+                    "de-DE": "Saints' Creed",
+                    "it-IT": "Più assassini che santi",
+                    "ru-RU": "Saints' Creed",
+                    "pl-PL": "Saints' Creed"
+                },
+                "description": {
+                    "en-US": "Stood on the tallest mast of the 'Queen Anne's Revenge'",
+                    "fr-FR": "Tu es monté sur le plus haut mât du Queen Anne's Revenge",
+                    "es-ES": "Te has subido al mástil más alto del \"Venganza de la Reina Ana\"",
+                    "de-DE": "Dich auf den höchsten Mast der \"Queen Anne's Revenge\" gestellt",
+                    "it-IT": "Sei salito in cima all'albero più alto della Queen Anne's Revenge",
+                    "ru-RU": "Вы забрались на самую высокую мачту \"Мести королевы Анны\"",
+                    "pl-PL": "Zdobyto najwyższy maszt Zemsty Królowej Anny"
+                },
+                "howto": {
+                    "en-US": "Stand on the tallest mast of the 'Queen Anne's Revenge'",
+                    "fr-FR": "Monte sur le plus haut mât du Queen Anne's Revenge",
+                    "es-ES": "Súbete al mástil más alto del \"Venganza de la Reina Ana\"",
+                    "de-DE": "Stelle dich auf den höchsten Mast der \"Queen Anne's Revenge\"",
+                    "it-IT": "Sali in cima all'albero più alto della Queen Anne's Revenge",
+                    "ru-RU": "Заберитесь на самую высокую мачту \"Мести королевы Анны\"",
+                    "pl-PL": "Stań na najwyższym maszcie Zemsty Królowej Anny"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "44.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "en-US": "Satan Punchers",
+                    "fr-FR": "Vainqueur de Satan",
+                    "es-ES": "Los violentos de Satán",
+                    "de-DE": "Besser als Satan",
+                    "it-IT": "Al diavolo Satana",
+                    "ru-RU": "Ковбои Сатаны",
+                    "pl-PL": "Zgnębić szatana"
+                },
+                "description": {
+                    "en-US": "Beat the game",
+                    "fr-FR": "Tu as fini le jeu",
+                    "es-ES": "Has acabado el juego",
+                    "de-DE": "Das Spiel geschafft",
+                    "it-IT": "Hai completato l'avventura",
+                    "ru-RU": "Вы победили игру",
+                    "pl-PL": "Ukończono grę"
+                },
+                "howto": {
+                    "en-US": "Beat the game",
+                    "fr-FR": "Finis le jeu",
+                    "es-ES": "Acaba el juego",
+                    "de-DE": "Schaffe das Spiel",
+                    "it-IT": "Completa l'avventura",
+                    "ru-RU": "Победите игру",
+                    "pl-PL": "Ukończ grę"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "45.png"
+        }
+    }
+}

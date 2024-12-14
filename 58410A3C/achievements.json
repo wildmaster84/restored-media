@@ -1,0 +1,352 @@
+{
+    "Achievements": {
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Happyend",
+                    "en-US": "Happily Ever After",
+                    "es-ES": "Son felices y comieron perdices",
+                    "fr-FR": "Heureux à jamais",
+                    "it-IT": "E vissero felici e contenti"
+                },
+                "description": {
+                    "de-DE": "Beende das Spiel",
+                    "en-US": "Complete the game",
+                    "es-ES": "Completa el juego",
+                    "fr-FR": "Terminer le jeu",
+                    "it-IT": "Completa il gioco"
+                },
+                "howto": {
+                    "de-DE": "Beende das Spiel",
+                    "en-US": "Complete the game",
+                    "es-ES": "Completa el juego",
+                    "fr-FR": "Terminer le jeu",
+                    "it-IT": "Completa il gioco"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "01.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "PWNT!",
+                    "en-US": "PWNT!",
+                    "es-ES": "PWNT!",
+                    "fr-FR": "EXPLOSÉ !",
+                    "it-IT": "Sonora sconfitta!"
+                },
+                "description": {
+                    "de-DE": "Besiege einen Gegner in deiner ersten Runde im Einzelspielermodus",
+                    "en-US": "Defeat an opponent on your first turn during any single player game mode",
+                    "es-ES": "Derrota a un oponente en tu primer turno en juego de un jugador. ",
+                    "fr-FR": "Battre un adversaire durant votre premier tour dans n'importe quel mode de jeu en solo.",
+                    "it-IT": "Sconfiggi un nemico durante il tuo primo turno in qualsiasi modalità per un giocatore"
+                },
+                "howto": {
+                    "de-DE": "Besiege einen Gegner in deiner ersten Runde im Einzelspielermodus",
+                    "en-US": "Defeat an opponent on your first turn during any single player game mode",
+                    "es-ES": "Derrota a un oponente en tu primer turno en juego de un jugador. ",
+                    "fr-FR": "Battre un adversaire durant votre premier tour dans n'importe quel mode de jeu en solo.",
+                    "it-IT": "Sconfiggi un nemico durante il tuo primo turno in qualsiasi modalità per un giocatore"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "02.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "Cheat-KI",
+                    "en-US": "Cheating AI",
+                    "es-ES": "IA tramposa",
+                    "fr-FR": "Triche IA",
+                    "it-IT": "IA ingannata"
+                },
+                "description": {
+                    "de-DE": "Werde von einem Gegner in seiner ersten Runde im Einzelspieler-Auftragsmodus besiegt",
+                    "en-US": "Be defeated by an opponent on their first turn during any single player game mode",
+                    "es-ES": "Sufre una derrota ante un oponente durante su primer turno en el modo búsqueda un jugador.",
+                    "fr-FR": "Être vaincu par un adversaire durant son premier tour en mode Quête en solo.",
+                    "it-IT": "Perdi contro un nemico durante il suo primo turno nella modalità di missione per un giocatore"
+                },
+                "howto": {
+                    "de-DE": "Werde von einem Gegner in seiner ersten Runde im Einzelspieler-Auftragsmodus besiegt",
+                    "en-US": "Be defeated by an opponent on their first turn during any single player game mode",
+                    "es-ES": "Sufre una derrota ante un oponente durante su primer turno en el modo búsqueda un jugador.",
+                    "fr-FR": "Être vaincu par un adversaire durant son premier tour en mode Quête en solo.",
+                    "it-IT": "Perdi contro un nemico durante il suo primo turno nella modalità di missione per un giocatore"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "03.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "OMGHAX",
+                    "en-US": "OMGHAX",
+                    "es-ES": "OMGHAX",
+                    "fr-FR": "TROP COOL",
+                    "it-IT": "Campione"
+                },
+                "description": {
+                    "de-DE": "Bilde eine 8er-Reihe in einem beliebigen Spielmodus",
+                    "en-US": "Make a match of 8 gems in a row in any battle game mode",
+                    "es-ES": "Empareja 8 gemas seguidas en una batalla de cualquier modo de juego.",
+                    "fr-FR": "Associer 8 gemmes à la suite dans n'importe quel mode de combat.",
+                    "it-IT": "Crea un abbinamento di 8 gemme di fila in qualsiasi modalità di gioco di battaglia"
+                },
+                "howto": {
+                    "de-DE": "Bilde eine 8er-Reihe in einem beliebigen Spielmodus",
+                    "en-US": "Make a match of 8 gems in a row in any battle game mode",
+                    "es-ES": "Empareja 8 gemas seguidas en una batalla de cualquier modo de juego.",
+                    "fr-FR": "Associer 8 gemmes à la suite dans n'importe quel mode de combat.",
+                    "it-IT": "Crea un abbinamento di 8 gemme di fila in qualsiasi modalità di gioco di battaglia"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "04.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "de-DE": "Epischer Sieg",
+                    "en-US": "Epic Win",
+                    "es-ES": "Victoria épica",
+                    "fr-FR": "Victoire épique",
+                    "it-IT": "Vittoria epica"
+                },
+                "description": {
+                    "de-DE": "Besiege einen Gegner mit nur noch 1 eigenem Trefferpunkt im Einzelspielermodus",
+                    "en-US": "Defeat an opponent while on 1 Life Point during any single player game mode",
+                    "es-ES": "Derrota a un oponente restándote 1 punto de impacto en juego de un jugador. ",
+                    "fr-FR": "Battre un adversaire alors qu'on ne dispose plus que d'un PV dans n'importe quel mode de jeu en solo",
+                    "it-IT": "Sconfiggi un nemico mentre disponi di un solo punto Vita in qualsiasi modalità per un giocatore"
+                },
+                "howto": {
+                    "de-DE": "Besiege einen Gegner mit nur noch 1 eigenem Trefferpunkt im Einzelspielermodus",
+                    "en-US": "Defeat an opponent while on 1 Life Point during any single player game mode",
+                    "es-ES": "Derrota a un oponente restándote 1 punto de impacto en juego de un jugador. ",
+                    "fr-FR": "Battre un adversaire alors qu'on ne dispose plus que d'un PV dans n'importe quel mode de jeu en solo",
+                    "it-IT": "Sconfiggi un nemico mentre disponi di un solo punto Vita in qualsiasi modalità per un giocatore"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "Epische Niederlage",
+                    "en-US": "Epic Fail",
+                    "es-ES": "Derrota épica",
+                    "fr-FR": "Défaite épique",
+                    "it-IT": "Sconfitta epica"
+                },
+                "description": {
+                    "de-DE": "Verliere gegen einen Gegner mit nur noch 1 eigenem Trefferpunkt im Einzelspielermodus",
+                    "en-US": "Lose to an opponent while on 1 Life Point during any single player game mode",
+                    "es-ES": "Sufre una derrota ante a un oponente restándote 1 punto de impacto en juego de un jugador.",
+                    "fr-FR": "Être vaincu par un adversaire ne possédant plus qu'un PV dans n'importe quel mode de jeu en solo.",
+                    "it-IT": "Perdi contro un nemico mentre disponi di un solo punto Vita in qualsiasi modalità per un giocatore"
+                },
+                "howto": {
+                    "de-DE": "Verliere gegen einen Gegner mit nur noch 1 eigenem Trefferpunkt im Einzelspielermodus",
+                    "en-US": "Lose to an opponent while on 1 Life Point during any single player game mode",
+                    "es-ES": "Sufre una derrota ante a un oponente restándote 1 punto de impacto en juego de un jugador.",
+                    "fr-FR": "Être vaincu par un adversaire ne possédant plus qu'un PV dans n'importe quel mode de jeu en solo.",
+                    "it-IT": "Perdi contro un nemico mentre disponi di un solo punto Vita in qualsiasi modalità per un giocatore"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "06.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Torknacker",
+                    "en-US": "Gate Hacker",
+                    "es-ES": "Revientapuertas",
+                    "fr-FR": "Casseur de portes",
+                    "it-IT": "Sfonda-tutto"
+                },
+                "description": {
+                    "de-DE": "Zerstöre im „Einschlagen“-Minispiel so viele verschlossene Tore, Türen und Truhen wie möglich!",
+                    "en-US": "Use the Bash mini-game to destroy every locked gate, door or chest possible!",
+                    "es-ES": "¡Usa el minijuego Golpear para destruir todas las rejas, puertas o cofres cerrados que puedas!",
+                    "fr-FR": "Utiliser le mini-jeu de frappe pour défoncer tous les coffres et portes !",
+                    "it-IT": "Avvia il minigioco Sfondamento per distruggere il massimo di porte chiuse a chiave e forzieri!"
+                },
+                "howto": {
+                    "de-DE": "Zerstöre im „Einschlagen“-Minispiel so viele verschlossene Tore, Türen und Truhen wie möglich!",
+                    "en-US": "Use the Bash mini-game to destroy every locked gate, door or chest possible!",
+                    "es-ES": "¡Usa el minijuego Golpear para destruir todas las rejas, puertas o cofres cerrados que puedas!",
+                    "fr-FR": "Utiliser le mini-jeu de frappe pour défoncer tous les coffres et portes !",
+                    "it-IT": "Avvia il minigioco Sfondamento per distruggere il massimo di porte chiuse a chiave e forzieri!"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "07.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "König Godd",
+                    "en-US": "King Godd",
+                    "es-ES": "Rey Godd",
+                    "fr-FR": "Roi Godd",
+                    "it-IT": "Re Godd"
+                },
+                "description": {
+                    "de-DE": "Besiege König Godd und beende den „König Godd“-Auftrag",
+                    "en-US": "Defeat King Godd and complete the 'King Godd' quest",
+                    "es-ES": "Derrota al rey Godd y completa la búsqueda 'Rey Godd'",
+                    "fr-FR": "Battre le roi Godd et mener à bien la quête 'Roi Godd'.",
+                    "it-IT": "Sconfiggi Re Godd e completa la missione \"Re Godd\""
+                },
+                "howto": {
+                    "de-DE": "Besiege König Godd und beende den „König Godd“-Auftrag",
+                    "en-US": "Defeat King Godd and complete the 'King Godd' quest",
+                    "es-ES": "Derrota al rey Godd y completa la búsqueda 'Rey Godd'",
+                    "fr-FR": "Battre le roi Godd et mener à bien la quête 'Roi Godd'.",
+                    "it-IT": "Sconfiggi Re Godd e completa la missione \"Re Godd\""
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "08.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "Schattenbringer",
+                    "en-US": "Shadowbringer",
+                    "es-ES": "Amo de las sombras",
+                    "fr-FR": "Ténèbrifère",
+                    "it-IT": "Il Portaombre"
+                },
+                "description": {
+                    "de-DE": "Besiege den Schattenbringer und beende den „Schattenbringer“-Auftrag",
+                    "en-US": "Defeat the Shadowbringer and complete the 'Shadowbringer' quest",
+                    "es-ES": "Derrota al Amo de las sombras y completa la búsqueda 'Amo de las sombras'",
+                    "fr-FR": "Battre le Ténèbrifère et mener à bien la quête 'Ténèbrifère'.",
+                    "it-IT": "Sconfiggi il Portaombre e completa la missione \"Portaombre\""
+                },
+                "howto": {
+                    "de-DE": "Besiege den Schattenbringer und beende den „Schattenbringer“-Auftrag",
+                    "en-US": "Defeat the Shadowbringer and complete the 'Shadowbringer' quest",
+                    "es-ES": "Derrota al Amo de las sombras y completa la búsqueda 'Amo de las sombras'",
+                    "fr-FR": "Battre le Ténèbrifère et mener à bien la quête 'Ténèbrifère'.",
+                    "it-IT": "Sconfiggi il Portaombre e completa la missione \"Portaombre\""
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "09.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Drachenschlächter",
+                    "en-US": "Dragonslayer",
+                    "es-ES": "Matadragones",
+                    "fr-FR": "Chasse au dragon",
+                    "it-IT": "Ammazzadraghi"
+                },
+                "description": {
+                    "de-DE": "Besiege den grünen Drachen und beende den Kampfangsage-Auftrag",
+                    "en-US": "Defeat the Green Dragon and complete the challenge quest",
+                    "es-ES": "Derrota al dragón verde y completa la búsqueda",
+                    "fr-FR": "Battre le dragon vert et mener à bien la quête de défi.",
+                    "it-IT": "Sconfiggi il Drago Verde e completa la missione \"Drago Verde\""
+                },
+                "howto": {
+                    "de-DE": "Besiege den grünen Drachen und beende den Kampfangsage-Auftrag",
+                    "en-US": "Defeat the Green Dragon and complete the challenge quest",
+                    "es-ES": "Derrota al dragón verde y completa la búsqueda",
+                    "fr-FR": "Battre le dragon vert et mener à bien la quête de défi.",
+                    "it-IT": "Sconfiggi il Drago Verde e completa la missione \"Drago Verde\""
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "10.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Abscheulich",
+                    "en-US": "Abominable",
+                    "es-ES": "Abominable",
+                    "fr-FR": "Abominable",
+                    "it-IT": "Abominevole"
+                },
+                "description": {
+                    "de-DE": "Besiege den Yeti und beende den Kampfansage-Auftrag",
+                    "en-US": "Defeat the Yeti and complete the challenge quest",
+                    "es-ES": "Derrota al yeti y completa la búsqueda",
+                    "fr-FR": "Battre le yéti vert et mener à bien la quête de défi.",
+                    "it-IT": "Sconfiggi lo Yeti e completa la missione \"Una sfida ardua - Yeti\""
+                },
+                "howto": {
+                    "de-DE": "Besiege den Yeti und beende den Kampfansage-Auftrag",
+                    "en-US": "Defeat the Yeti and complete the challenge quest",
+                    "es-ES": "Derrota al yeti y completa la búsqueda",
+                    "fr-FR": "Battre le yéti vert et mener à bien la quête de défi.",
+                    "it-IT": "Sconfiggi lo Yeti e completa la missione \"Una sfida ardua - Yeti\""
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "11.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Rette Verloren",
+                    "en-US": "Save Verloren",
+                    "es-ES": "Defiende Verloren",
+                    "fr-FR": "Sauver Verloren",
+                    "it-IT": "Salva Verloren"
+                },
+                "description": {
+                    "de-DE": "Rette die Stadt Verloren vor den Goblin- und Trollinvasoren.",
+                    "en-US": "Save the town of Verloren from invading Goblins and Trolls.",
+                    "es-ES": "Defiende Verloren contra los invasores goblins y trolls.",
+                    "fr-FR": "Sauvez la ville de Verloren des invasions de Gobelins et de trolls.",
+                    "it-IT": "Salva la città di Verloren dalle invasioni dei Goblin e dei Troll."
+                },
+                "howto": {
+                    "de-DE": "Rette die Stadt Verloren vor den Goblin- und Trollinvasoren.",
+                    "en-US": "Save the town of Verloren from invading Goblins and Trolls.",
+                    "es-ES": "Defiende Verloren contra los invasores goblins y trolls.",
+                    "fr-FR": "Sauvez la ville de Verloren des invasions de Gobelins et de trolls.",
+                    "it-IT": "Salva la città di Verloren dalle invasioni dei Goblin e dei Troll."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "5",
+            "imageId": "12.png"
+        }
+    }
+}

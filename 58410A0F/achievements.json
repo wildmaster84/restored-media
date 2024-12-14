@@ -1,0 +1,352 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Antriebsstrang",
+                    "en-US": "Gear Head",
+                    "es-ES": "Casco",
+                    "fr-FR": "As de la mécanique",
+                    "it-IT": "Capo meccanico"
+                },
+                "description": {
+                    "de-DE": "Maximiere die Leistung deines Wagens.",
+                    "en-US": "Max out all Performance Points on a car.",
+                    "es-ES": "Sube todos los puntos de Rendimiento en el carro.",
+                    "fr-FR": "Maximisez tous les points de performance sur un véhicule.",
+                    "it-IT": "Sfrutta tutte le prestazioni dell'auto."
+                },
+                "howto": {
+                    "de-DE": "Maximiere die Leistung deines Wagens.",
+                    "en-US": "Max out all Performance Points on a car.",
+                    "es-ES": "Sube todos los puntos de Rendimiento en el carro.",
+                    "fr-FR": "Maximisez tous les points de performance sur un véhicule.",
+                    "it-IT": "Sfrutta tutte le prestazioni dell'auto."
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Herausforderung",
+                    "en-US": "Challenger",
+                    "es-ES": "Rival",
+                    "fr-FR": "Challenger",
+                    "it-IT": "Sfidante"
+                },
+                "description": {
+                    "de-DE": "Absolviere alle Herausforderungen.",
+                    "en-US": "Complete all the Challenges.",
+                    "es-ES": "Completa todos los desafios.",
+                    "fr-FR": "Terminez tous les Défis.",
+                    "it-IT": "Completa tutte le Sfide."
+                },
+                "howto": {
+                    "de-DE": "Absolviere alle Herausforderungen.",
+                    "en-US": "Complete all the Challenges.",
+                    "es-ES": "Completa todos los desafios.",
+                    "fr-FR": "Terminez tous les Défis.",
+                    "it-IT": "Completa tutte le Sfide."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Einhämmern",
+                    "en-US": "Droppin' The Hammer",
+                    "es-ES": "Maniático del Hammer",
+                    "fr-FR": "Maniaque du Hammer",
+                    "it-IT": "Maniaco dell'Hammer"
+                },
+                "description": {
+                    "de-DE": "Benutze Hammer 100 Mal im Single Player-Modus.",
+                    "en-US": "Use Hammer 100 times in singleplayer.",
+                    "es-ES": "Usa el Hammer 100 veces en modalidad individual.",
+                    "fr-FR": "Utilisez le Hammer 100 fois en mode solo.",
+                    "it-IT": "Utilizza il Hammer 100 volte in Giocatore Singolo."
+                },
+                "howto": {
+                    "de-DE": "Benutze Hammer 100 Mal im Single Player-Modus.",
+                    "en-US": "Use Hammer 100 times in singleplayer.",
+                    "es-ES": "Usa el Hammer 100 veces en modalidad individual.",
+                    "fr-FR": "Utilisez le Hammer 100 fois en mode solo.",
+                    "it-IT": "Utilizza il Hammer 100 volte in Giocatore Singolo."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Aneinander reiben\n\n",
+                    "en-US": "Rubbin' is Racin'",
+                    "es-ES": "Raspar es competir",
+                    "fr-FR": "Le contact c'est la course",
+                    "it-IT": "Sfregamento è la Gara"
+                },
+                "description": {
+                    "de-DE": "Erziele über 9000 Punkte im Derby-Modus.",
+                    "en-US": "Get over 9,000 Points in Rowdy Derby Mode.",
+                    "es-ES": "Obtén más de 9,000 puntos en Derby.",
+                    "fr-FR": "Obtenez au dessus de 9000 points en mode Derby.",
+                    "it-IT": "Ottieni oltre 9,000 punti in modalità Derby."
+                },
+                "howto": {
+                    "de-DE": "Erziele über 9000 Punkte im Derby-Modus.",
+                    "en-US": "Get over 9,000 Points in Rowdy Derby Mode.",
+                    "es-ES": "Obtén más de 9,000 puntos en Derby.",
+                    "fr-FR": "Obtenez au dessus de 9000 points en mode Derby.",
+                    "it-IT": "Ottieni oltre 9,000 punti in modalità Derby."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Schnapp dir den Preis\n\n",
+                    "en-US": "Eyes on The Prize",
+                    "es-ES": "Concéntrate en la victoria",
+                    "fr-FR": "Concentration sur la victoire",
+                    "it-IT": "Concentrati sulla vittoria"
+                },
+                "description": {
+                    "de-DE": "Benutze Fokus 100 Mal im Single Player-Modus.",
+                    "en-US": "Use Focus 100 times in singleplayer.",
+                    "es-ES": "Usa la Concentración 100 veces en modalidad individual.",
+                    "fr-FR": "Utilisez la Concentration 100 fois en mode solo.",
+                    "it-IT": "Utilizza Concentrazione 100 volte in Giocatore Singolo."
+                },
+                "howto": {
+                    "de-DE": "Benutze Fokus 100 Mal im Single Player-Modus.",
+                    "en-US": "Use Focus 100 times in singleplayer.",
+                    "es-ES": "Usa la Concentración 100 veces en modalidad individual.",
+                    "fr-FR": "Utilisez la Concentration 100 fois en mode solo.",
+                    "it-IT": "Utilizza Concentrazione 100 volte in Giocatore Singolo."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Meisterschaft",
+                    "en-US": "Championship Driver",
+                    "es-ES": "Campeonato de Conducción",
+                    "fr-FR": "Pilote Champion",
+                    "it-IT": "Pilota Campione"
+                },
+                "description": {
+                    "de-DE": "Beende den Karrieremodus.",
+                    "en-US": "Complete the career mode.",
+                    "es-ES": "Completa el modo Carrera.",
+                    "fr-FR": "Complétez le mode Carrière.",
+                    "it-IT": "Completa la modalità Carriera."
+                },
+                "howto": {
+                    "de-DE": "Beende den Karrieremodus.",
+                    "en-US": "Complete the career mode.",
+                    "es-ES": "Completa el modo Carrera.",
+                    "fr-FR": "Complétez le mode Carrière.",
+                    "it-IT": "Completa la modalità Carriera."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Jede Sekunde zählt\n\n",
+                    "en-US": "Every second countin the minutes",
+                    "es-ES": "Cada segundo cuenta",
+                    "fr-FR": "Chaque seconde compte",
+                    "it-IT": "I secondi segnano i minuti"
+                },
+                "description": {
+                    "de-DE": "Bestreite dein erstes Rennen im Zeitfahren.",
+                    "en-US": "Compete in your first Time Trial.",
+                    "es-ES": "Compite en tu primera prueba de tiempo.",
+                    "fr-FR": "Disputez votre première Course contre la montre.",
+                    "it-IT": "Completa la tua prima prova"
+                },
+                "howto": {
+                    "de-DE": "Bestreite dein erstes Rennen im Zeitfahren.",
+                    "en-US": "Compete in your first Time Trial.",
+                    "es-ES": "Compite en tu primera prueba de tiempo.",
+                    "fr-FR": "Disputez votre première Course contre la montre.",
+                    "it-IT": "Completa la tua prima prova"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Fahr nicht in die Mauer",
+                    "en-US": "Don't put yourself into the wall",
+                    "es-ES": "No te pegues contra la pared",
+                    "fr-FR": "Ne te mets pas dans le mur",
+                    "it-IT": "Evitare di toccare il muro"
+                },
+                "description": {
+                    "de-DE": "Bestreite dein erstes Derby.",
+                    "en-US": "Compete in your first Derby match.",
+                    "es-ES": "Compite en tu primer partido en Derby",
+                    "fr-FR": "Disputez votre première compétition de Derby.",
+                    "it-IT": "Disputa la tua prima gara in Derby"
+                },
+                "howto": {
+                    "de-DE": "Bestreite dein erstes Derby.",
+                    "en-US": "Compete in your first Derby match.",
+                    "es-ES": "Compite en tu primer partido en Derby",
+                    "fr-FR": "Disputez votre première compétition de Derby.",
+                    "it-IT": "Disputa la tua prima gara in Derby"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Wie machst Du Dich in der Menge?",
+                    "en-US": "Let's see how you do in a crowd",
+                    "es-ES": "Veamos como eres con el público",
+                    "fr-FR": "Comment tu gères dans la foule",
+                    "it-IT": "Vediamo come fai in una folla"
+                },
+                "description": {
+                    "de-DE": "Spiele dein erstes Online-Spiel.",
+                    "en-US": "Compete in your first Multiplayer Match.",
+                    "es-ES": "Compite en tu primer partido en Multijugador.",
+                    "fr-FR": "Disputez votre première compétition en Multijoueur.",
+                    "it-IT": "Disputa la tua prima gara in Multigiocatore"
+                },
+                "howto": {
+                    "de-DE": "Spiele dein erstes Online-Spiel.",
+                    "en-US": "Compete in your first Multiplayer Match.",
+                    "es-ES": "Compite en tu primer partido en Multijugador.",
+                    "fr-FR": "Disputez votre première compétition en Multijoueur.",
+                    "it-IT": "Disputa la tua prima gara in Multigiocatore"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Amateur",
+                    "en-US": "Amateur Driver",
+                    "es-ES": "Conductor Aficionado",
+                    "fr-FR": "Pilote Amateur",
+                    "it-IT": "Pilota Dilettante"
+                },
+                "description": {
+                    "de-DE": "Schließe den Amateur-Cup ab.",
+                    "en-US": "Complete the Amateur Cup.",
+                    "es-ES": "Completa la Copa Novato.",
+                    "fr-FR": "Terminez la Coupe Amateur.",
+                    "it-IT": "Completa la Coppa Dilettante."
+                },
+                "howto": {
+                    "de-DE": "Schließe den Amateur-Cup ab.",
+                    "en-US": "Complete the Amateur Cup.",
+                    "es-ES": "Completa la Copa Novato.",
+                    "fr-FR": "Terminez la Coupe Amateur.",
+                    "it-IT": "Completa la Coppa Dilettante."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Profi",
+                    "en-US": "Pro Driver",
+                    "es-ES": "Conductor Pro",
+                    "fr-FR": "Pilote Pro",
+                    "it-IT": "Pilota Professionista"
+                },
+                "description": {
+                    "de-DE": "Schließe den Pro-Cup ab.",
+                    "en-US": "Complete the Pro Cup.",
+                    "es-ES": "Completa la Copa Pro.",
+                    "fr-FR": "Terminez la Coupe Pro.",
+                    "it-IT": "Completa la Coppa Professionista."
+                },
+                "howto": {
+                    "de-DE": "Schließe den Pro-Cup ab.",
+                    "en-US": "Complete the Pro Cup.",
+                    "es-ES": "Completa la Copa Pro.",
+                    "fr-FR": "Terminez la Coupe Pro.",
+                    "it-IT": "Completa la Coppa Professionista."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Willkommen zu den ganz Großen",
+                    "en-US": "Welcome to the big time.",
+                    "es-ES": "Bienvenido a las grandes ligas",
+                    "fr-FR": "Jeune recrue",
+                    "it-IT": "Benvenuto \n\n"
+                },
+                "description": {
+                    "de-DE": "Beginne eine neue Karriere.",
+                    "en-US": "Start a new career.",
+                    "es-ES": "Empieza una nueva carrera.",
+                    "fr-FR": "Commencez une nouvelle carrière.",
+                    "it-IT": "Inizia una nuova Carriera."
+                },
+                "howto": {
+                    "de-DE": "Beginne eine neue Karriere.",
+                    "en-US": "Start a new career.",
+                    "es-ES": "Empieza una nueva carrera.",
+                    "fr-FR": "Commencez une nouvelle carrière.",
+                    "it-IT": "Inizia una nuova Carriera."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "12.png"
+        }
+    }
+}

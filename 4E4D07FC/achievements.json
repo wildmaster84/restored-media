@@ -1,0 +1,1904 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Tekken-Fanatiker",
+                    "en-US": "Tekken Fanatic",
+                    "es-ES": "Fanático del Tekken",
+                    "fr-FR": "Fanatique de Tekken",
+                    "it-IT": "Fanatico di Tekken",
+                    "ja-JP": "お疲れ様でした。",
+                    "ko-KR": "수고하셨습니다.",
+                    "ru-RU": "Фанат Теккена"
+                },
+                "description": {
+                    "de-DE": "Schließe alle anderen Ziele ab.",
+                    "en-US": "Complete all other objectives.",
+                    "es-ES": "Completa todos los demás objetivos.",
+                    "fr-FR": "Remplissez tous les autres objectifs.",
+                    "it-IT": "Completa tutti gli altri!",
+                    "ja-JP": "全てを手に入れる",
+                    "ko-KR": "모든 요소를 입수한다.",
+                    "ru-RU": "Завершить все прочие задачи."
+                },
+                "howto": {
+                    "de-DE": "Schließe alle anderen Ziele ab.",
+                    "en-US": "Complete all other objectives.",
+                    "es-ES": "Completa todos los demás objetivos.",
+                    "fr-FR": "Remplissez tous les autres objectifs.",
+                    "it-IT": "Completa tutti gli altri!",
+                    "ja-JP": "全てを手に入れる",
+                    "ko-KR": "모든 요소를 입수한다.",
+                    "ru-RU": "Завершить все прочие задачи."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Freund oder Feind",
+                    "en-US": "Friend or Foe?",
+                    "es-ES": "¿Amigo o enemigo?",
+                    "fr-FR": "Ami ou ennemi ?",
+                    "it-IT": "Amico o nemico?",
+                    "ja-JP": "お友達ですか？",
+                    "ko-KR": "친구분이신가요?",
+                    "ru-RU": "Друг или враг?"
+                },
+                "description": {
+                    "de-DE": "Verbünde dich wieder mit deinem Freund im Kampagnenmodus.",
+                    "en-US": "Reunite with your ally in Scenario Campaign Mode.",
+                    "es-ES": "Reúnete con tu aliado en el modo Campaña.",
+                    "fr-FR": "Retrouvez votre allié en mode Histoire.",
+                    "it-IT": "Riunisciti al tuo alleato in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで仲間との再会を果たす",
+                    "ko-KR": "시나리오 캠페인 모드에서 동료와 재회한다.",
+                    "ru-RU": "Объединиться с союзником в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Verbünde dich wieder mit deinem Freund im Kampagnenmodus.",
+                    "en-US": "Reunite with your ally in Scenario Campaign Mode.",
+                    "es-ES": "Reúnete con tu aliado en el modo Campaña.",
+                    "fr-FR": "Retrouvez votre allié en mode Histoire.",
+                    "it-IT": "Riunisciti al tuo alleato in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで仲間との再会を果たす",
+                    "ko-KR": "시나리오 캠페인 모드에서 동료와 재회한다.",
+                    "ru-RU": "Объединиться с союзником в режиме Кампании."
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Ziel aufgespürt",
+                    "en-US": "Locate the Target",
+                    "es-ES": "Encuentra al objetivo",
+                    "fr-FR": "Cible à localiser",
+                    "it-IT": "Caccia al bersaglio",
+                    "ja-JP": "先を急ぎましょう。",
+                    "ko-KR": "서둘러서 갈까요.",
+                    "ru-RU": "Обнаружить цель"
+                },
+                "description": {
+                    "de-DE": "Finde Heihachi Mishima im Kampagnenmodus.",
+                    "en-US": "Learn the whereabouts of Heihachi Mishima in Scenario Campaign Mode.",
+                    "es-ES": "Descubre el paradero de Heihachi Mishima en el modo Campaña.",
+                    "fr-FR": "Localisez Heihachi Mishima en mode Histoire.",
+                    "it-IT": "Scopri dove si trova Heihachi Mishima in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで三島平八の居場所を掴む",
+                    "ko-KR": "시나리오 캠페인 모드에서 미시마 헤이하치가 있는 곳을 알아낸다.",
+                    "ru-RU": "Узнать местонахождение Хейхати Мисимы в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Finde Heihachi Mishima im Kampagnenmodus.",
+                    "en-US": "Learn the whereabouts of Heihachi Mishima in Scenario Campaign Mode.",
+                    "es-ES": "Descubre el paradero de Heihachi Mishima en el modo Campaña.",
+                    "fr-FR": "Localisez Heihachi Mishima en mode Histoire.",
+                    "it-IT": "Scopri dove si trova Heihachi Mishima in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで三島平八の居場所を掴む",
+                    "ko-KR": "시나리오 캠페인 모드에서 미시마 헤이하치가 있는 곳을 알아낸다.",
+                    "ru-RU": "Узнать местонахождение Хейхати Мисимы в режиме Кампании."
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Ich kann mich erinnern",
+                    "en-US": "It's All Coming Back to Me",
+                    "es-ES": "Empiezo a recordar... ",
+                    "fr-FR": "Tout me revient en mémoire",
+                    "it-IT": "Reminiscenza",
+                    "ja-JP": "銃を向けてはいけません。",
+                    "ko-KR": "그러면 안돼요.",
+                    "ru-RU": "Всё возвращается"
+                },
+                "description": {
+                    "de-DE": "Erlange im Kampagnenmodus dein Gedächtnis zurück.",
+                    "en-US": "Recover your memory in Scenario Campaign Mode.",
+                    "es-ES": "Recupera la memoria en el modo Campaña.",
+                    "fr-FR": "Retrouvez la mémoire en mode Histoire.",
+                    "it-IT": "Recupera la tua memoria in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで失われていた記憶を取り戻す",
+                    "ko-KR": "시나리오 캠페인 모드에서 기억을 되찾는다.",
+                    "ru-RU": "Восстановить память в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Erlange im Kampagnenmodus dein Gedächtnis zurück.",
+                    "en-US": "Recover your memory in Scenario Campaign Mode.",
+                    "es-ES": "Recupera la memoria en el modo Campaña.",
+                    "fr-FR": "Retrouvez la mémoire en mode Histoire.",
+                    "it-IT": "Recupera la tua memoria in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで失われていた記憶を取り戻す",
+                    "ko-KR": "시나리오 캠페인 모드에서 기억을 되찾는다.",
+                    "ru-RU": "Восстановить память в режиме Кампании."
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Schlüssel zum Sieg",
+                    "en-US": "The Key to Victory",
+                    "es-ES": "La llave de la victoria",
+                    "fr-FR": "La clé de la victoire",
+                    "it-IT": "Chiave della vittoria",
+                    "ja-JP": "勝利の鍵です。",
+                    "ko-KR": "승리의 열쇠예요.",
+                    "ru-RU": "Ключ к победе"
+                },
+                "description": {
+                    "de-DE": "Finde den Boot-Schlüssel im Kampagnenmodus.",
+                    "en-US": "Obtain the boot-up key in Scenario Campaign Mode.",
+                    "es-ES": "Consigue la llave de arranque en el modo Campaña.",
+                    "fr-FR": "Récupérez la clé d'amorçage en mode Histoire.",
+                    "it-IT": "Recupera la chiave d'accensione in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで始動キーを手に入れる",
+                    "ko-KR": "시나리오 캠페인 모드에서 시동키를 입수한다.",
+                    "ru-RU": "Получить ключ запуска в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Finde den Boot-Schlüssel im Kampagnenmodus.",
+                    "en-US": "Obtain the boot-up key in Scenario Campaign Mode.",
+                    "es-ES": "Consigue la llave de arranque en el modo Campaña.",
+                    "fr-FR": "Récupérez la clé d'amorçage en mode Histoire.",
+                    "it-IT": "Recupera la chiave d'accensione in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで始動キーを手に入れる",
+                    "ko-KR": "시나리오 캠페인 모드에서 시동키를 입수한다.",
+                    "ru-RU": "Получить ключ запуска в режиме Кампании."
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Das ist kein Held",
+                    "en-US": "That's No Hero",
+                    "es-ES": "Menudo héroe",
+                    "fr-FR": "Pas très héroïque",
+                    "it-IT": "Falso eroe",
+                    "ja-JP": "英雄などではありません。",
+                    "ko-KR": "영웅이 아니었어요.",
+                    "ru-RU": "Это не герой"
+                },
+                "description": {
+                    "de-DE": "Besiege den Helden im Kampagnenmodus.",
+                    "en-US": "Defeat the Hero in Scenario Campaign Mode.",
+                    "es-ES": "Derrota al Héroe en el modo Campaña.",
+                    "fr-FR": "Battez le héros en mode Histoire.",
+                    "it-IT": "Sconfiggi l'eroe in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで英雄と呼ばれる者を撃破する",
+                    "ko-KR": "시나리오 캠페인 모드에서 영웅이라 불리우는 자를 격파한다.",
+                    "ru-RU": "Одолеть Героя в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Besiege den Helden im Kampagnenmodus.",
+                    "en-US": "Defeat the Hero in Scenario Campaign Mode.",
+                    "es-ES": "Derrota al Héroe en el modo Campaña.",
+                    "fr-FR": "Battez le héros en mode Histoire.",
+                    "it-IT": "Sconfiggi l'eroe in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで英雄と呼ばれる者を撃破する",
+                    "ko-KR": "시나리오 캠페인 모드에서 영웅이라 불리우는 자를 격파한다.",
+                    "ru-RU": "Одолеть Героя в режиме Кампании."
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Zerstörer ist gefallen",
+                    "en-US": "The Destroyer Has Fallen",
+                    "es-ES": "El destructor ha caído",
+                    "fr-FR": "La défaite du destructeur",
+                    "it-IT": "Distruttore caduto",
+                    "ja-JP": "全てをあるべき姿に・・？",
+                    "ko-KR": "모든 것을 원래 모습으로...?",
+                    "ru-RU": "Разрушитель пал"
+                },
+                "description": {
+                    "de-DE": "Besiege den Zerstörer der Welten im Kampagnenmodus.",
+                    "en-US": "Defeat the Destroyer of Worlds in Scenario Campaign Mode.",
+                    "es-ES": "Derrota al Destructor de Mundos en el modo Campaña.",
+                    "fr-FR": "Battez le Destructeur de mondes en mode Histoire.",
+                    "it-IT": "Sconfiggi il distruttore dei mondi in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで世界の破壊者と呼ばれる者を退ける",
+                    "ko-KR": "시나리오 캠페인 모드에서 세계의 파괴자라 불리는 자를 물리친다.",
+                    "ru-RU": "Одолеть Разрушителя миров в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Besiege den Zerstörer der Welten im Kampagnenmodus.",
+                    "en-US": "Defeat the Destroyer of Worlds in Scenario Campaign Mode.",
+                    "es-ES": "Derrota al Destructor de Mundos en el modo Campaña.",
+                    "fr-FR": "Battez le Destructeur de mondes en mode Histoire.",
+                    "it-IT": "Sconfiggi il distruttore dei mondi in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで世界の破壊者と呼ばれる者を退ける",
+                    "ko-KR": "시나리오 캠페인 모드에서 세계의 파괴자라 불리는 자를 물리친다.",
+                    "ru-RU": "Одолеть Разрушителя миров в режиме Кампании."
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Showdown",
+                    "en-US": "Showdown",
+                    "es-ES": "Duelo final",
+                    "fr-FR": "Affrontement",
+                    "it-IT": "Resa dei conti",
+                    "ja-JP": "決着です。",
+                    "ko-KR": "끝났습니다.",
+                    "ru-RU": "Решающий поединок"
+                },
+                "description": {
+                    "de-DE": "Gewinne den Endkampf im Kampagnenmodus.",
+                    "en-US": "Win the final battle in Scenario Campaign Mode.",
+                    "es-ES": "Gana la batalla final en el modo Campaña.",
+                    "fr-FR": "Remportez la bataille finale en mode Histoire.",
+                    "it-IT": "Vinci l'ultima battaglia in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで最後の戦いに勝利する",
+                    "ko-KR": "시나리오 캠페인 모드에서 최후의 싸움에서 승리한다.",
+                    "ru-RU": "Выиграть решающее сражение в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Gewinne den Endkampf im Kampagnenmodus.",
+                    "en-US": "Win the final battle in Scenario Campaign Mode.",
+                    "es-ES": "Gana la batalla final en el modo Campaña.",
+                    "fr-FR": "Remportez la bataille finale en mode Histoire.",
+                    "it-IT": "Vinci l'ultima battaglia in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで最後の戦いに勝利する",
+                    "ko-KR": "시나리오 캠페인 모드에서 최후의 싸움에서 승리한다.",
+                    "ru-RU": "Выиграть решающее сражение в режиме Кампании."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein wahrer Albtraum",
+                    "en-US": "What a Nightmare",
+                    "es-ES": "Qué pesadilla",
+                    "fr-FR": "Un vrai cauchemar",
+                    "it-IT": "L'incubo",
+                    "ja-JP": "恐怖を教わりました。",
+                    "ko-KR": "정말 무서웠어요.",
+                    "ru-RU": "Какой кошмар"
+                },
+                "description": {
+                    "de-DE": "Schaffe \"Zug des Schreckens\" im Kampagnenmodus.",
+                    "en-US": "Clear the Nightmare Train stage in Scenario Campaign Mode.",
+                    "es-ES": "Supera la fase del Tren de las pesadillas en el modo Campaña.",
+                    "fr-FR": "Terminez le niveau du Train des mauvais rêves en mode Histoire.",
+                    "it-IT": "Completa il livello Treno incubo in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードでナイトメア・トレインをクリアする",
+                    "ko-KR": "시나리오 캠페인 모드에서 나이트메어 트레인을 클리어한다.",
+                    "ru-RU": "Довести до конца уровень Поезд ночных кошмаров в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Schaffe \"Zug des Schreckens\" im Kampagnenmodus.",
+                    "en-US": "Clear the Nightmare Train stage in Scenario Campaign Mode.",
+                    "es-ES": "Supera la fase del Tren de las pesadillas en el modo Campaña.",
+                    "fr-FR": "Terminez le niveau du Train des mauvais rêves en mode Histoire.",
+                    "it-IT": "Completa il livello Treno incubo in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードでナイトメア・トレインをクリアする",
+                    "ko-KR": "시나리오 캠페인 모드에서 나이트메어 트레인을 클리어한다.",
+                    "ru-RU": "Довести до конца уровень Поезд ночных кошмаров в режиме Кампании."
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "30",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Hölzerner Krieger",
+                    "en-US": "Wooden Warrior",
+                    "es-ES": "El guerrero de madera",
+                    "fr-FR": "Guerrier de bois",
+                    "it-IT": "Guerriero di legno",
+                    "ja-JP": "動力源が確認できません。",
+                    "ko-KR": "동력원이 없어요.",
+                    "ru-RU": "Деревянный вояка"
+                },
+                "description": {
+                    "de-DE": "Schaffe \"Unterirdischer Pavillon\" im Kampagnenmodus.",
+                    "en-US": "Clear the Subterranean Pavilion stage in Scenario Campaign Mode.",
+                    "es-ES": "Supera la fase del Pabellón subterráneo en el modo Campaña.",
+                    "fr-FR": "Terminez le niveau du Pavillon souterrain en mode Histoire.",
+                    "it-IT": "Completa il livello Padiglione sotterraneo in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで地底楼閣をクリアする",
+                    "ko-KR": "시나리오 캠페인 모드에서 지저 누각을 클리어한다.",
+                    "ru-RU": "Довести до конца уровень Подземный павильон в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Schaffe \"Unterirdischer Pavillon\" im Kampagnenmodus.",
+                    "en-US": "Clear the Subterranean Pavilion stage in Scenario Campaign Mode.",
+                    "es-ES": "Supera la fase del Pabellón subterráneo en el modo Campaña.",
+                    "fr-FR": "Terminez le niveau du Pavillon souterrain en mode Histoire.",
+                    "it-IT": "Completa il livello Padiglione sotterraneo in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで地底楼閣をクリアする",
+                    "ko-KR": "시나리오 캠페인 모드에서 지저 누각을 클리어한다.",
+                    "ru-RU": "Довести до конца уровень Подземный павильон в режиме Кампании."
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "30",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Fernostreisender",
+                    "en-US": "Eastern Explorer",
+                    "es-ES": "Explorador de oriente",
+                    "fr-FR": "Explorateur de l'Orient",
+                    "it-IT": "Esploratore orientale",
+                    "ja-JP": "わび、さびがあります。",
+                    "ko-KR": "정취가 있네요.",
+                    "ru-RU": "Восточный исследователь"
+                },
+                "description": {
+                    "de-DE": "Schaffe den \"Kigan\" im Kampagnenmodus.",
+                    "en-US": "Clear the Kigan Island stage in Scenario Campaign Mode.",
+                    "es-ES": "Supera la fase de la Isla Kigan en el modo Campaña.",
+                    "fr-FR": "Terminez le niveau de l'Île Kigan en mode Histoire.",
+                    "it-IT": "Completa il livello Isola di Kigan in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで鬼巌島をクリアする",
+                    "ko-KR": "시나리오 캠페인 모드에서 귀암도를 클리어한다.",
+                    "ru-RU": "Довести до конца уровень остров Киган в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Schaffe den \"Kigan\" im Kampagnenmodus.",
+                    "en-US": "Clear the Kigan Island stage in Scenario Campaign Mode.",
+                    "es-ES": "Supera la fase de la Isla Kigan en el modo Campaña.",
+                    "fr-FR": "Terminez le niveau de l'Île Kigan en mode Histoire.",
+                    "it-IT": "Completa il livello Isola di Kigan in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで鬼巌島をクリアする",
+                    "ko-KR": "시나리오 캠페인 모드에서 귀암도를 클리어한다.",
+                    "ru-RU": "Довести до конца уровень остров Киган в режиме Кампании."
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "30",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Kleine Pause für die Fäuste",
+                    "en-US": "Give Your Fists a Rest",
+                    "es-ES": "Descansa tus puños",
+                    "fr-FR": "Poings au repos",
+                    "it-IT": "Pace dei pugni",
+                    "ja-JP": "武器って強いですよね。",
+                    "ko-KR": "무기는 정말 강해요.",
+                    "ru-RU": "Дай кулакам отдохнуть"
+                },
+                "description": {
+                    "de-DE": "Besiege einen Gegner mit einer Waffe im Kampagnenmodus.",
+                    "en-US": "Defeat an enemy using a weapon in Scenario Campaign Mode.",
+                    "es-ES": "Derrota a un enemigo usando un arma en el modo Campaña.",
+                    "fr-FR": "Battez un ennemi avec une arme en mode Histoire.",
+                    "it-IT": "Sconfiggi il nemico con un'arma in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで武器を使い敵を倒す",
+                    "ko-KR": "시나리오 캠페인 모드에서 무기로 적을 쓰러뜨린다.",
+                    "ru-RU": "Одолеть врага при помощи оружия в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Besiege einen Gegner mit einer Waffe im Kampagnenmodus.",
+                    "en-US": "Defeat an enemy using a weapon in Scenario Campaign Mode.",
+                    "es-ES": "Derrota a un enemigo usando un arma en el modo Campaña.",
+                    "fr-FR": "Battez un ennemi avec une arme en mode Histoire.",
+                    "it-IT": "Sconfiggi il nemico con un'arma in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで武器を使い敵を倒す",
+                    "ko-KR": "시나리오 캠페인 모드에서 무기로 적을 쓰러뜨린다.",
+                    "ru-RU": "Одолеть врага при помощи оружия в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "12.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "Cineast",
+                    "en-US": "Night at the Movies",
+                    "es-ES": "Una noche en el cine",
+                    "fr-FR": "Soirée cinéma",
+                    "it-IT": "Tutti al cinema",
+                    "ja-JP": "ギャラリーに追加しておきました。",
+                    "ko-KR": "갤러리에 추가해 둘게요.",
+                    "ru-RU": "Ночь в кино"
+                },
+                "description": {
+                    "de-DE": "Schalte im Kampagnenmodus ein Video der Arena frei.",
+                    "en-US": "Unlock a movie in Scenario Campaign Mode.",
+                    "es-ES": "Desbloquea un vídeo en la arena del Modo Campaña",
+                    "fr-FR": "Débloquez une cinématique de l'arène en mode Histoire.",
+                    "it-IT": "Sblocca un filmato in Arena nella modalità Campagna. ",
+                    "ja-JP": "シナリオキャンペーンモードでムービーを取得する",
+                    "ko-KR": "시나리오 캠페인 모드에서 무비를 입수한다.",
+                    "ru-RU": "Разблокировать видеоролик в арене режима Кампании."
+                },
+                "howto": {
+                    "de-DE": "Schalte im Kampagnenmodus ein Video der Arena frei.",
+                    "en-US": "Unlock a movie in Scenario Campaign Mode.",
+                    "es-ES": "Desbloquea un vídeo en la arena del Modo Campaña",
+                    "fr-FR": "Débloquez une cinématique de l'arène en mode Histoire.",
+                    "it-IT": "Sblocca un filmato in Arena nella modalità Campagna. ",
+                    "ja-JP": "シナリオキャンペーンモードでムービーを取得する",
+                    "ko-KR": "시나리오 캠페인 모드에서 무비를 입수한다.",
+                    "ru-RU": "Разблокировать видеоролик в арене режима Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "13.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "Sammler",
+                    "en-US": "Item Connoisseur",
+                    "es-ES": "Estudioso de los objetos",
+                    "fr-FR": "Connaisseur",
+                    "it-IT": "Esperto di oggettistica",
+                    "ja-JP": "これは良い物ですね。",
+                    "ko-KR": "이것은 좋은 것이에요.",
+                    "ru-RU": "Знаток предметов"
+                },
+                "description": {
+                    "de-DE": "Finde im Kampagnenmodus einen Rang-S-Gegenstand.",
+                    "en-US": "Obtain a Rank S Item in Scenario Campaign Mode.",
+                    "es-ES": "Consigue un objeto de rango S en el modo Campaña.",
+                    "fr-FR": "Obtenez un objet de catégorie S en mode Histoire.",
+                    "it-IT": "Ottieni un oggetto di grado S in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードでＳランクアイテムを取得する",
+                    "ko-KR": "시나리오 캠페인 모드에서 S랭크 아이템을 입수한다.",
+                    "ru-RU": "Получить предмет ранга S в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Finde im Kampagnenmodus einen Rang-S-Gegenstand.",
+                    "en-US": "Obtain a Rank S Item in Scenario Campaign Mode.",
+                    "es-ES": "Consigue un objeto de rango S en el modo Campaña.",
+                    "fr-FR": "Obtenez un objet de catégorie S en mode Histoire.",
+                    "it-IT": "Ottieni un oggetto di grado S in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードでＳランクアイテムを取得する",
+                    "ko-KR": "시나리오 캠페인 모드에서 S랭크 아이템을 입수한다.",
+                    "ru-RU": "Получить предмет ранга S в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "14.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "de-DE": "Schatzamateur",
+                    "en-US": "Treasure Amateur",
+                    "es-ES": "Cazatesoros amateur",
+                    "fr-FR": "Chasseur de trésors amateur",
+                    "it-IT": "Esploratore dilettante",
+                    "ja-JP": "たくさん集めましょう。",
+                    "ko-KR": "많이 모아볼까요.",
+                    "ru-RU": "Сокровище - любитель"
+                },
+                "description": {
+                    "de-DE": "Sammle 50 Schätze im Kampagnenmodus.",
+                    "en-US": "Collect 50 treasures in Scenario Campaign Mode.",
+                    "es-ES": "Consigue 50 tesoros en el modo Campaña.",
+                    "fr-FR": "Amassez 50 trésors en mode Histoire.",
+                    "it-IT": "Colleziona 50 tesori in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで宝箱を50個取得する",
+                    "ko-KR": "시나리오 캠페인 모드에서 보물상자를 50개 입수.",
+                    "ru-RU": "Собрать 50 сокровищ в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Sammle 50 Schätze im Kampagnenmodus.",
+                    "en-US": "Collect 50 treasures in Scenario Campaign Mode.",
+                    "es-ES": "Consigue 50 tesoros en el modo Campaña.",
+                    "fr-FR": "Amassez 50 trésors en mode Histoire.",
+                    "it-IT": "Colleziona 50 tesori in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで宝箱を50個取得する",
+                    "ko-KR": "시나리오 캠페인 모드에서 보물상자를 50개 입수.",
+                    "ru-RU": "Собрать 50 сокровищ в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "15.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Schatzfan",
+                    "en-US": "Treasure Enthusiast",
+                    "es-ES": "Cazatesoros entusiasta",
+                    "fr-FR": "Chasseur de trésors passionné",
+                    "it-IT": "Esploratore provetto",
+                    "ja-JP": "かなり集まってきました。",
+                    "ko-KR": "꽤 많이 모였네요.",
+                    "ru-RU": "Сокровище - энтузиаст"
+                },
+                "description": {
+                    "de-DE": "Sammle 100 Schätze im Kampagnenmodus.",
+                    "en-US": "Collect 100 treasures in Scenario Campaign Mode.",
+                    "es-ES": "Consigue 100 tesoros en el modo Campaña.",
+                    "fr-FR": "Amassez 100 trésors en mode Histoire.",
+                    "it-IT": "Colleziona 100 tesori in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで宝箱を100個取得する",
+                    "ko-KR": "시나리오 캠페인 모드에서 보물상자를 100개 입수.",
+                    "ru-RU": "Собрать 100 сокровищ в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Sammle 100 Schätze im Kampagnenmodus.",
+                    "en-US": "Collect 100 treasures in Scenario Campaign Mode.",
+                    "es-ES": "Consigue 100 tesoros en el modo Campaña.",
+                    "fr-FR": "Amassez 100 trésors en mode Histoire.",
+                    "it-IT": "Colleziona 100 tesori in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで宝箱を100個取得する",
+                    "ko-KR": "시나리오 캠페인 모드에서 보물상자를 100개 입수.",
+                    "ru-RU": "Собрать 100 сокровищ в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "16.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "Schatzmeister",
+                    "en-US": "Treasure Master",
+                    "es-ES": "Maestro cazatesoros",
+                    "fr-FR": "Chasseur de trésors expert",
+                    "it-IT": "Esploratore maestro",
+                    "ja-JP": "あとはセンスが問われますね。",
+                    "ko-KR": "이젠 센스가 문제겠죠.",
+                    "ru-RU": "Сокровище - мастер"
+                },
+                "description": {
+                    "de-DE": "Sammle 200 Schätze im Kampagnenmodus.",
+                    "en-US": "Collect 200 treasures in Scenario Campaign Mode.",
+                    "es-ES": "Consigue 200 tesoros en el modo Campaña.",
+                    "fr-FR": "Amassez 200 trésors en mode Histoire.",
+                    "it-IT": "Colleziona 200 tesori in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで宝箱を200個取得する",
+                    "ko-KR": "시나리오 캠페인 모드에서 보물상자를 200개 입수.",
+                    "ru-RU": "Собрать 200 сокровищ в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Sammle 200 Schätze im Kampagnenmodus.",
+                    "en-US": "Collect 200 treasures in Scenario Campaign Mode.",
+                    "es-ES": "Consigue 200 tesoros en el modo Campaña.",
+                    "fr-FR": "Amassez 200 trésors en mode Histoire.",
+                    "it-IT": "Colleziona 200 tesori in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで宝箱を200個取得する",
+                    "ko-KR": "시나리오 캠페인 모드에서 보물상자를 200개 입수.",
+                    "ru-RU": "Собрать 200 сокровищ в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "17.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "de-DE": "Amateurjäger",
+                    "en-US": "Enemy Hunting Amateur",
+                    "es-ES": "Guerrero amateur",
+                    "fr-FR": "Chasseur de primes amateur",
+                    "it-IT": "Cacciatore dilettante",
+                    "ja-JP": "いっぱい倒しました。",
+                    "ko-KR": "많이 쓰러뜨렸어요.",
+                    "ru-RU": "Охота на врагов - любитель"
+                },
+                "description": {
+                    "de-DE": "Besiege 300 Gegner im Kampagnenmodus.",
+                    "en-US": "Defeat 300 enemies in Scenario Campaign Mode.",
+                    "es-ES": "Derrota a 300 enemigos en el modo Campaña.",
+                    "fr-FR": "Battez 300 ennemis en mode Histoire.",
+                    "it-IT": "Sconfiggi 300 nemici in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで敵を300体倒す",
+                    "ko-KR": "시나리오 캠페인 모드에서 적을 300명 쓰러뜨린다.",
+                    "ru-RU": "Одолеть 300 врагов в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Besiege 300 Gegner im Kampagnenmodus.",
+                    "en-US": "Defeat 300 enemies in Scenario Campaign Mode.",
+                    "es-ES": "Derrota a 300 enemigos en el modo Campaña.",
+                    "fr-FR": "Battez 300 ennemis en mode Histoire.",
+                    "it-IT": "Sconfiggi 300 nemici in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで敵を300体倒す",
+                    "ko-KR": "시나리오 캠페인 모드에서 적을 300명 쓰러뜨린다.",
+                    "ru-RU": "Одолеть 300 врагов в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "18.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "Fortgeschrittener Jäger",
+                    "en-US": "Enemy Hunting Enthusiast",
+                    "es-ES": "Guerrero entusiasta",
+                    "fr-FR": "Chasseur de primes passionné",
+                    "it-IT": "Cacciatore provetto",
+                    "ja-JP": "更にいっぱい倒しました。",
+                    "ko-KR": "더 많이 쓰러뜨렸어요.",
+                    "ru-RU": "Охота на врагов - энтузиаст"
+                },
+                "description": {
+                    "de-DE": "Besiege 1000 Gegner im Kampagnenmodus.",
+                    "en-US": "Defeat 1000 enemies in Scenario Campaign Mode.",
+                    "es-ES": "Derrota a 1.000 enemigos en el modo Campaña.",
+                    "fr-FR": "Battez 1000 ennemis en mode Histoire.",
+                    "it-IT": "Sconfiggi 1.000 nemici in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで敵を1000体倒す",
+                    "ko-KR": "시나리오 캠페인 모드에서 적을 1000명 쓰러뜨린다.",
+                    "ru-RU": "Одолеть 1000 врагов в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Besiege 1000 Gegner im Kampagnenmodus.",
+                    "en-US": "Defeat 1000 enemies in Scenario Campaign Mode.",
+                    "es-ES": "Derrota a 1.000 enemigos en el modo Campaña.",
+                    "fr-FR": "Battez 1000 ennemis en mode Histoire.",
+                    "it-IT": "Sconfiggi 1.000 nemici in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで敵を1000体倒す",
+                    "ko-KR": "시나리오 캠페인 모드에서 적을 1000명 쓰러뜨린다.",
+                    "ru-RU": "Одолеть 1000 врагов в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "19.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "Meisterjäger",
+                    "en-US": "Enemy Hunting Master",
+                    "es-ES": "Maestro guerrero",
+                    "fr-FR": "Chasseur de primes expert",
+                    "it-IT": "Cacciatore maestro",
+                    "ja-JP": "疲れました。",
+                    "ko-KR": "피곤해요.",
+                    "ru-RU": "Охота на врагов - мастер"
+                },
+                "description": {
+                    "de-DE": "Besiege 2000 Gegner im Kampagnenmodus.",
+                    "en-US": "Defeat 2000 enemies in Scenario Campaign Mode.",
+                    "es-ES": "Derrota a 2.000 enemigos en el modo Campaña.",
+                    "fr-FR": "Battez 2000 ennemis en mode Histoire.",
+                    "it-IT": "Sconfiggi 2.000 nemici in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで敵を2000体倒す",
+                    "ko-KR": "시나리오 캠페인 모드에서 적을 2000명 쓰러뜨린다.",
+                    "ru-RU": "Одолеть 2000 врагов в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Besiege 2000 Gegner im Kampagnenmodus.",
+                    "en-US": "Defeat 2000 enemies in Scenario Campaign Mode.",
+                    "es-ES": "Derrota a 2.000 enemigos en el modo Campaña.",
+                    "fr-FR": "Battez 2000 ennemis en mode Histoire.",
+                    "it-IT": "Sconfiggi 2.000 nemici in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで敵を2000体倒す",
+                    "ko-KR": "시나리오 캠페인 모드에서 적을 2000명 쓰러뜨린다.",
+                    "ru-RU": "Одолеть 2000 врагов в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "20.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "Spiel mit dem Feuer",
+                    "en-US": "Playing With Fire",
+                    "es-ES": "Jugando con fuego",
+                    "fr-FR": "Jouer avec le feu",
+                    "it-IT": "Scherzi infuocati",
+                    "ja-JP": "どうなっても知りませんよ？",
+                    "ko-KR": "뒷일은 책임 못져요?",
+                    "ru-RU": "Игры с огнём"
+                },
+                "description": {
+                    "de-DE": "Besiege im Kampagnenmodus 100 Gegner mit dem Flammenwerfer.",
+                    "en-US": "Defeat 100 enemies with the Flamethrower in Scenario Campaign Mode.",
+                    "es-ES": "Derrota a 100 enemigos con el lanzallamas en el modo Campaña.",
+                    "fr-FR": "Battez 100 ennemis avec le lance-flammes en mode Histoire.",
+                    "it-IT": "Sconfiggi 100 nemici con il lanciafiamme in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで火炎放射器を使い敵を100体倒す",
+                    "ko-KR": "시나리오 캠페인 모드에서 화염방사기로 적을 100명 쓰러뜨린다.",
+                    "ru-RU": "Одолеть 100 врагов при помощи огнемёта в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Besiege im Kampagnenmodus 100 Gegner mit dem Flammenwerfer.",
+                    "en-US": "Defeat 100 enemies with the Flamethrower in Scenario Campaign Mode.",
+                    "es-ES": "Derrota a 100 enemigos con el lanzallamas en el modo Campaña.",
+                    "fr-FR": "Battez 100 ennemis avec le lance-flammes en mode Histoire.",
+                    "it-IT": "Sconfiggi 100 nemici con il lanciafiamme in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで火炎放射器を使い敵を100体倒す",
+                    "ko-KR": "시나리오 캠페인 모드에서 화염방사기로 적을 100명 쓰러뜨린다.",
+                    "ru-RU": "Одолеть 100 врагов при помощи огнемёта в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "21.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "de-DE": "Schwere Artillerie",
+                    "en-US": "Heavy Artillery",
+                    "es-ES": "Artillería pesada",
+                    "fr-FR": "Artillerie lourde",
+                    "it-IT": "Artiglieria pesante",
+                    "ja-JP": "怪我をさせたくありません。",
+                    "ko-KR": "상처주기 싫어요.",
+                    "ru-RU": "Тяжёлая артиллерия"
+                },
+                "description": {
+                    "de-DE": "Besiege im Kampagnenmodus 100 Gegner mit der Gatling-Kanone.",
+                    "en-US": "Defeat 100 enemies with the Gatling Gun in Scenario Campaign Mode.",
+                    "es-ES": "Derrota a 100 enemigos con la ametralladora Gatling en el modo Campaña.",
+                    "fr-FR": "Battez 100 ennemis avec la mitrailleuse en mode Histoire.",
+                    "it-IT": "Sconfiggi 100 nemici con la mitragliatrice in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードでガトリングを使い敵を100体倒す",
+                    "ko-KR": "시나리오 캠페인 모드에서 개트링으로 적을 100명 쓰러뜨린다.",
+                    "ru-RU": "Одолеть 100 врагов при помощи пулемёта в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Besiege im Kampagnenmodus 100 Gegner mit der Gatling-Kanone.",
+                    "en-US": "Defeat 100 enemies with the Gatling Gun in Scenario Campaign Mode.",
+                    "es-ES": "Derrota a 100 enemigos con la ametralladora Gatling en el modo Campaña.",
+                    "fr-FR": "Battez 100 ennemis avec la mitrailleuse en mode Histoire.",
+                    "it-IT": "Sconfiggi 100 nemici con la mitragliatrice in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードでガトリングを使い敵を100体倒す",
+                    "ko-KR": "시나리오 캠페인 모드에서 개트링으로 적을 100명 쓰러뜨린다.",
+                    "ru-RU": "Одолеть 100 врагов при помощи пулемёта в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "22.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "Allzeit bereit",
+                    "en-US": "Ready for Action",
+                    "es-ES": "Listo para la acción",
+                    "fr-FR": "Prêt à en découdre",
+                    "it-IT": "Pronto all'azione",
+                    "ja-JP": "回復しました。",
+                    "ko-KR": "회복했습니다.",
+                    "ru-RU": "Готовый к бою"
+                },
+                "description": {
+                    "de-DE": "Sammle im Kampagnenmodus 300 heilende Gegenstände.",
+                    "en-US": "Pick up 300 health recovery items in Scenario Campaign Mode.",
+                    "es-ES": "Recoge 300 objetos de recuperación de salud en el modo Campaña.",
+                    "fr-FR": "Récupérez 300 éléments de santé en mode Histoire.",
+                    "it-IT": "Raccogli 300 oggetti curativi in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで回復アイテム(卵、ひよこ、ニワトリ)を計300個入手する",
+                    "ko-KR": "시나리오 캠페인 모드에서 회복 아이템(달걀, 병아리, 닭)을 총 300개 입수한다.",
+                    "ru-RU": "Собрать 300 предметов, восстанавливающих здоровье, в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Sammle im Kampagnenmodus 300 heilende Gegenstände.",
+                    "en-US": "Pick up 300 health recovery items in Scenario Campaign Mode.",
+                    "es-ES": "Recoge 300 objetos de recuperación de salud en el modo Campaña.",
+                    "fr-FR": "Récupérez 300 éléments de santé en mode Histoire.",
+                    "it-IT": "Raccogli 300 oggetti curativi in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで回復アイテム(卵、ひよこ、ニワトリ)を計300個入手する",
+                    "ko-KR": "시나리오 캠페인 모드에서 회복 아이템(달걀, 병아리, 닭)을 총 300개 입수한다.",
+                    "ru-RU": "Собрать 300 предметов, восстанавливающих здоровье, в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "23.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "Blanke Gewalt",
+                    "en-US": "Brute Force",
+                    "es-ES": "Fuerza bruta",
+                    "fr-FR": "Force brute",
+                    "it-IT": "Forza bruta",
+                    "ja-JP": "記憶を失ってください。",
+                    "ko-KR": "빈틈이 많군요.",
+                    "ru-RU": "Грубая сила"
+                },
+                "description": {
+                    "de-DE": "Besiege im Kampagnenmodus 100 Gegner mit dem Bleirohr. ",
+                    "en-US": "Defeat 100 enemies with the Lead Pipe in Scenario Campaign Mode.",
+                    "es-ES": "Derrota a 100 enemigos con la tubería de plomo en el modo Campaña.",
+                    "fr-FR": "Battez 100 ennemis avec le tuyau en plomb en mode Histoire.",
+                    "it-IT": "Sconfiggi 100 nemici con il tubo in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで鉄パイプを使い敵を100体倒す",
+                    "ko-KR": "시나리오 캠페인 모드에서 쇠파이프로 적을 100명 쓰러뜨린다.",
+                    "ru-RU": "Одолеть 100 врагов при помощи металлической трубы в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Besiege im Kampagnenmodus 100 Gegner mit dem Bleirohr. ",
+                    "en-US": "Defeat 100 enemies with the Lead Pipe in Scenario Campaign Mode.",
+                    "es-ES": "Derrota a 100 enemigos con la tubería de plomo en el modo Campaña.",
+                    "fr-FR": "Battez 100 ennemis avec le tuyau en plomb en mode Histoire.",
+                    "it-IT": "Sconfiggi 100 nemici con il tubo in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで鉄パイプを使い敵を100体倒す",
+                    "ko-KR": "시나리오 캠페인 모드에서 쇠파이프로 적을 100명 쓰러뜨린다.",
+                    "ru-RU": "Одолеть 100 врагов при помощи металлической трубы в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "24.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Durstiger Kämpfer",
+                    "en-US": "Thirsty Fighter",
+                    "es-ES": "Luchador sediento",
+                    "fr-FR": "Combattant assoiffé",
+                    "it-IT": "Guerriero assetato",
+                    "ja-JP": "それっておいしいんですか？",
+                    "ko-KR": "그거 맛있나요?",
+                    "ru-RU": "Заядлый боец"
+                },
+                "description": {
+                    "de-DE": "Sammle im Kampagnenmodus 50 Getränke.",
+                    "en-US": "Pick up 50 drink items in Scenario Campaign Mode.",
+                    "es-ES": "Recoge 50 bebidas en el modo Campaña.",
+                    "fr-FR": "Récupérez 50 boissons en mode Histoire.",
+                    "it-IT": "Raccogli 50 bevande in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードでドリンクを50本入手する",
+                    "ko-KR": "시나리오 캠페인 모드에서 드링크를 50병 입수한다.",
+                    "ru-RU": "Собрать 50 напитков в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Sammle im Kampagnenmodus 50 Getränke.",
+                    "en-US": "Pick up 50 drink items in Scenario Campaign Mode.",
+                    "es-ES": "Recoge 50 bebidas en el modo Campaña.",
+                    "fr-FR": "Récupérez 50 boissons en mode Histoire.",
+                    "it-IT": "Raccogli 50 bevande in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードでドリンクを50本入手する",
+                    "ko-KR": "시나리오 캠페인 모드에서 드링크를 50병 입수한다.",
+                    "ru-RU": "Собрать 50 напитков в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "25.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "Kistenhasser",
+                    "en-US": "Crate Breaker",
+                    "es-ES": "Destructor de cajas",
+                    "fr-FR": "Casseur de caisses",
+                    "it-IT": "Scassa-casse",
+                    "ja-JP": "何が出るか楽しみです。",
+                    "ko-KR": "뭐가 나올지 기대되네요.",
+                    "ru-RU": "Разбиватель ящиков"
+                },
+                "description": {
+                    "de-DE": "Zerstöre 100 Holzkisten im Kampagnenmodus.",
+                    "en-US": "Destroy 100 wooden crates in Scenario Campaign Mode.",
+                    "es-ES": "Destruye 100 cajas de madera en el modo Campaña.",
+                    "fr-FR": "Détruisez 100 caisses en bois en mode Histoire.",
+                    "it-IT": "Distruggi 100 casse di legno in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで木箱を100個破壊する",
+                    "ko-KR": "시나리오 캠페인 모드에서 나무상자를 100개 부순다.",
+                    "ru-RU": "Уничтожить 100 деревянных ящиков в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Zerstöre 100 Holzkisten im Kampagnenmodus.",
+                    "en-US": "Destroy 100 wooden crates in Scenario Campaign Mode.",
+                    "es-ES": "Destruye 100 cajas de madera en el modo Campaña.",
+                    "fr-FR": "Détruisez 100 caisses en bois en mode Histoire.",
+                    "it-IT": "Distruggi 100 casse di legno in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで木箱を100個破壊する",
+                    "ko-KR": "시나리오 캠페인 모드에서 나무상자를 100개 부순다.",
+                    "ru-RU": "Уничтожить 100 деревянных ящиков в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "26.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "Alienjäger",
+                    "en-US": "Alien Hunter",
+                    "es-ES": "Cazador de alienígenas",
+                    "fr-FR": "Chasseur d'extraterrestres",
+                    "it-IT": "Cacciatore di alieni",
+                    "ja-JP": "正体不明です。",
+                    "ko-KR": "정체불명입니다.",
+                    "ru-RU": "Охотник за пришельцами"
+                },
+                "description": {
+                    "de-DE": "Besiege 10 Aliens im Kampagnenmodus.",
+                    "en-US": "Defeat 10 aliens in Scenario Campaign Mode.",
+                    "es-ES": "Derrota a 10 alienígenas en el modo Campaña.",
+                    "fr-FR": "Battez 10 extraterrestres en mode Histoire.",
+                    "it-IT": "Sconfiggi 10 alieni in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで宇宙人を10体倒す",
+                    "ko-KR": "시나리오 캠페인 모드에서 우주인을 10명 쓰러뜨린다.",
+                    "ru-RU": "Одолеть 10 пришельцев в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Besiege 10 Aliens im Kampagnenmodus.",
+                    "en-US": "Defeat 10 aliens in Scenario Campaign Mode.",
+                    "es-ES": "Derrota a 10 alienígenas en el modo Campaña.",
+                    "fr-FR": "Battez 10 extraterrestres en mode Histoire.",
+                    "it-IT": "Sconfiggi 10 alieni in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで宇宙人を10体倒す",
+                    "ko-KR": "시나리오 캠페인 모드에서 우주인을 10명 쓰러뜨린다.",
+                    "ru-RU": "Одолеть 10 пришельцев в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "27.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "Kampagnenexperte",
+                    "en-US": "Scenario Expert",
+                    "es-ES": "Experto en campaña",
+                    "fr-FR": "Expert du scénario",
+                    "it-IT": "Esperto Campagna",
+                    "ja-JP": "がんばりましたね。",
+                    "ko-KR": "정말 열심히 하셨네요.",
+                    "ru-RU": "Специалист Кампании"
+                },
+                "description": {
+                    "de-DE": "Schaffe alle Level im Kampagnenmodus.",
+                    "en-US": "Clear all of the stages in Scenario Campaign Mode.",
+                    "es-ES": "Supera todas las fases en el modo Campaña.",
+                    "fr-FR": "Terminez tous les niveaux du mode Histoire.",
+                    "it-IT": "Completa tutti i livelli in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで全てのエリアをクリアする",
+                    "ko-KR": "시나리오 캠페인 모드에서 모든 에리어를 클리어한다.",
+                    "ru-RU": "Закончить все уровни в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Level im Kampagnenmodus.",
+                    "en-US": "Clear all of the stages in Scenario Campaign Mode.",
+                    "es-ES": "Supera todas las fases en el modo Campaña.",
+                    "fr-FR": "Terminez tous les niveaux du mode Histoire.",
+                    "it-IT": "Completa tutti i livelli in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで全てのエリアをクリアする",
+                    "ko-KR": "시나리오 캠페인 모드에서 모든 에리어를 클리어한다.",
+                    "ru-RU": "Закончить все уровни в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "28.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Beste der Besten",
+                    "en-US": "King of the Hill",
+                    "es-ES": "El rey de la lucha",
+                    "fr-FR": "Grand vainqueur",
+                    "it-IT": "Re della montagna",
+                    "ja-JP": "私も泳ぎたいです。",
+                    "ko-KR": "저도 헤엄치고 싶어요.",
+                    "ru-RU": "Царь горы"
+                },
+                "description": {
+                    "de-DE": "Wirf 10 Gegner im Kampagnenmodus ins Wasser.",
+                    "en-US": "Knock 10 enemies in the water in Scenario Campaign Mode.",
+                    "es-ES": "Lanza a 10 enemigos al agua en el modo Campaña.",
+                    "fr-FR": "Faites tomber 10 ennemis dans l'eau en mode Histoire.",
+                    "it-IT": "Butta 10 nemici in acqua in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで敵を10体水に落とす",
+                    "ko-KR": "시나리오 캠페인 모드에서 적을 10명 물에 빠뜨린다.",
+                    "ru-RU": "Столкнуть в воду 10 врагов в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Wirf 10 Gegner im Kampagnenmodus ins Wasser.",
+                    "en-US": "Knock 10 enemies in the water in Scenario Campaign Mode.",
+                    "es-ES": "Lanza a 10 enemigos al agua en el modo Campaña.",
+                    "fr-FR": "Faites tomber 10 ennemis dans l'eau en mode Histoire.",
+                    "it-IT": "Butta 10 nemici in acqua in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで敵を10体水に落とす",
+                    "ko-KR": "시나리오 캠페인 모드에서 적을 10명 물에 빠뜨린다.",
+                    "ru-RU": "Столкнуть в воду 10 врагов в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "29.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein Freund in Not",
+                    "en-US": "A Friend in Need",
+                    "es-ES": "Un amigo en apuros",
+                    "fr-FR": "Un ami dans le besoin",
+                    "it-IT": "Legame d'amicizia",
+                    "ja-JP": "大丈夫け？",
+                    "ko-KR": "괜찮으세요?",
+                    "ru-RU": "Друг в беде"
+                },
+                "description": {
+                    "de-DE": "Rette deinen zu Boden gegangenen Partner 3-mal im Kampagnenmodus (Einzelspieler).",
+                    "en-US": "Rescue your downed partner 3 times in Scenario Campaign Mode (single player).",
+                    "es-ES": "Rescata 3 veces a tu compañero derribado en el modo Campaña (un jugador).",
+                    "fr-FR": "Sauvez votre partenaire vaincu 3 fois en mode Histoire (un joueur).",
+                    "it-IT": "Salva 3 volte il tuo compagno atterrato in modalità Campagna (Giocatore singolo).",
+                    "ja-JP": "シナリオキャンペーンモードのシングルプレイで倒れたパートナーを3回救助する",
+                    "ko-KR": "시나리오 캠페인 모드의 싱글 플레이에서 쓰러진 파트너를 3번 구조한다.",
+                    "ru-RU": "3 раза выручить партнёра в режиме Кампании (одиночная игра)."
+                },
+                "howto": {
+                    "de-DE": "Rette deinen zu Boden gegangenen Partner 3-mal im Kampagnenmodus (Einzelspieler).",
+                    "en-US": "Rescue your downed partner 3 times in Scenario Campaign Mode (single player).",
+                    "es-ES": "Rescata 3 veces a tu compañero derribado en el modo Campaña (un jugador).",
+                    "fr-FR": "Sauvez votre partenaire vaincu 3 fois en mode Histoire (un joueur).",
+                    "it-IT": "Salva 3 volte il tuo compagno atterrato in modalità Campagna (Giocatore singolo).",
+                    "ja-JP": "シナリオキャンペーンモードのシングルプレイで倒れたパートナーを3回救助する",
+                    "ko-KR": "시나리오 캠페인 모드의 싱글 플레이에서 쓰러진 파트너를 3번 구조한다.",
+                    "ru-RU": "3 раза выручить партнёра в режиме Кампании (одиночная игра)."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "30.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Combo-Amateur",
+                    "en-US": "Combo Amateur",
+                    "es-ES": "Amateur de los combos",
+                    "fr-FR": "Lanceur de combos amateur",
+                    "it-IT": "Guerriero dilettante",
+                    "ja-JP": "簡単でしたね。",
+                    "ko-KR": "간단하네요.",
+                    "ru-RU": "Комбо - любитель"
+                },
+                "description": {
+                    "de-DE": "Führe im Kampagnenmodus eine 10er Ketten-Combo aus. ",
+                    "en-US": "Perform a 10 chain combo in Scenario Campaign Mode.",
+                    "es-ES": "Encadena 10 golpes en combo en el modo Campaña.",
+                    "fr-FR": "Réalisez un combo de 10 en mode Histoire.",
+                    "it-IT": "Esegui una combo da 10 colpi in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで10チェーンを達成する",
+                    "ko-KR": "시나리오 캠페인 모드에서 10 체인 달성한다.",
+                    "ru-RU": "Увеличить счётчик комбо до 10 в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Führe im Kampagnenmodus eine 10er Ketten-Combo aus. ",
+                    "en-US": "Perform a 10 chain combo in Scenario Campaign Mode.",
+                    "es-ES": "Encadena 10 golpes en combo en el modo Campaña.",
+                    "fr-FR": "Réalisez un combo de 10 en mode Histoire.",
+                    "it-IT": "Esegui una combo da 10 colpi in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで10チェーンを達成する",
+                    "ko-KR": "시나리오 캠페인 모드에서 10 체인 달성한다.",
+                    "ru-RU": "Увеличить счётчик комбо до 10 в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "31.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Combo-Fan",
+                    "en-US": "Combo Enthusiast",
+                    "es-ES": "Entusiasta de los combos",
+                    "fr-FR": "Lanceur de combos passionné",
+                    "it-IT": "Guerriero provetto",
+                    "ja-JP": "まぁまぁでした。",
+                    "ko-KR": "보통이죠.",
+                    "ru-RU": "Комбо - энтузиаст"
+                },
+                "description": {
+                    "de-DE": "Führe im Kampagnenmodus eine 30er Ketten-Combo aus. ",
+                    "en-US": "Perform a 30 chain combo in Scenario Campaign Mode.",
+                    "es-ES": "Encadena 30 golpes en combo en el modo Campaña.",
+                    "fr-FR": "Réalisez un combo de 30 en mode Histoire.",
+                    "it-IT": "Esegui una combo da 30 colpi in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで30チェーンを達成する",
+                    "ko-KR": "시나리오 캠페인 모드에서 30 체인 달성한다.",
+                    "ru-RU": "Увеличить счётчик комбо до 30 в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Führe im Kampagnenmodus eine 30er Ketten-Combo aus. ",
+                    "en-US": "Perform a 30 chain combo in Scenario Campaign Mode.",
+                    "es-ES": "Encadena 30 golpes en combo en el modo Campaña.",
+                    "fr-FR": "Réalisez un combo de 30 en mode Histoire.",
+                    "it-IT": "Esegui una combo da 30 colpi in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで30チェーンを達成する",
+                    "ko-KR": "시나리오 캠페인 모드에서 30 체인 달성한다.",
+                    "ru-RU": "Увеличить счётчик комбо до 30 в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "32.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Combo-Meister",
+                    "en-US": "Combo Master",
+                    "es-ES": "Maestro de los combos",
+                    "fr-FR": "Lanceur de combos expert",
+                    "it-IT": "Guerriero maestro",
+                    "ja-JP": "厳しかったです。",
+                    "ko-KR": "힘들었어요.",
+                    "ru-RU": "Комбо - мастер"
+                },
+                "description": {
+                    "de-DE": "Führe im Kampagnenmodus eine 50er Ketten-Combo aus. ",
+                    "en-US": "Perform a 50 chain combo in Scenario Campaign Mode.",
+                    "es-ES": "Encadena 50 golpes en combo en el modo Campaña.",
+                    "fr-FR": "Réalisez un combo de 50 en mode Histoire.",
+                    "it-IT": "Esegui una combo da 50 colpi in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで50チェーンを達成する",
+                    "ko-KR": "시나리오 캠페인 모드에서 50 체인 달성한다.",
+                    "ru-RU": "Увеличить счётчик комбо до 50 в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Führe im Kampagnenmodus eine 50er Ketten-Combo aus. ",
+                    "en-US": "Perform a 50 chain combo in Scenario Campaign Mode.",
+                    "es-ES": "Encadena 50 golpes en combo en el modo Campaña.",
+                    "fr-FR": "Réalisez un combo de 50 en mode Histoire.",
+                    "it-IT": "Esegui una combo da 50 colpi in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで50チェーンを達成する",
+                    "ko-KR": "시나리오 캠페인 모드에서 50 체인 달성한다.",
+                    "ru-RU": "Увеличить счётчик комбо до 50 в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "33.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "Perfekter Assistent",
+                    "en-US": "Upgraded Assistant",
+                    "es-ES": "Ayudante mejorada",
+                    "fr-FR": "Assistant promu",
+                    "it-IT": "Superpotenziamento",
+                    "ja-JP": "実は私、強かったんです。",
+                    "ko-KR": "저, 사실은 강해요.",
+                    "ru-RU": "Усовершенствованный ассистент"
+                },
+                "description": {
+                    "de-DE": "Verbessere Alisa auf die höchstmögliche Stufe.",
+                    "en-US": "Upgrade Alisa to the highest possible level.",
+                    "es-ES": "Mejora a Alisa hasta el máximo nivel posible.",
+                    "fr-FR": "Faites progresser Alisa jusqu'au niveau maximal.",
+                    "it-IT": "Potenzia al massimo Alisa.",
+                    "ja-JP": "シナリオキャンペーンモードでアリサを最大まで賢くする",
+                    "ko-KR": "시나리오 캠페인 모드에서 알리사의 지능을 최대까지 올린다.",
+                    "ru-RU": "Усовершенствовать Алису до наивысшего уровня."
+                },
+                "howto": {
+                    "de-DE": "Verbessere Alisa auf die höchstmögliche Stufe.",
+                    "en-US": "Upgrade Alisa to the highest possible level.",
+                    "es-ES": "Mejora a Alisa hasta el máximo nivel posible.",
+                    "fr-FR": "Faites progresser Alisa jusqu'au niveau maximal.",
+                    "it-IT": "Potenzia al massimo Alisa.",
+                    "ja-JP": "シナリオキャンペーンモードでアリサを最大まで賢くする",
+                    "ko-KR": "시나리오 캠페인 모드에서 알리사의 지능을 최대까지 올린다.",
+                    "ru-RU": "Усовершенствовать Алису до наивысшего уровня."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "34.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Was ist daran so besonders?",
+                    "en-US": "What's So Special About It?",
+                    "es-ES": "¿Y qué tiene de especial?",
+                    "fr-FR": "Ça n'a rien d'exceptionnel",
+                    "it-IT": "Cos'ha di speciale?",
+                    "ja-JP": "何がスペシャルなのでしょうか？",
+                    "ko-KR": "뭐가 특별한 거죠?",
+                    "ru-RU": "А что здесь такого?"
+                },
+                "description": {
+                    "de-DE": "Finde die Spezialflagge im Kampagnenmodus.",
+                    "en-US": "Obtain the Special Flag in Scenario Campaign Mode.",
+                    "es-ES": "Consigue la Bandera Especial en el modo Campaña.",
+                    "fr-FR": "Obtenez le drapeau spécial en mode Histoire.",
+                    "it-IT": "Ottieni la bandiera speciale in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードでスペシャルフラッグを獲得する",
+                    "ko-KR": "시나리오 캠페인 모드에서 스페셜 랭크 획득한다.",
+                    "ru-RU": "Получить специальный флаг в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Finde die Spezialflagge im Kampagnenmodus.",
+                    "en-US": "Obtain the Special Flag in Scenario Campaign Mode.",
+                    "es-ES": "Consigue la Bandera Especial en el modo Campaña.",
+                    "fr-FR": "Obtenez le drapeau spécial en mode Histoire.",
+                    "it-IT": "Ottieni la bandiera speciale in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードでスペシャルフラッグを獲得する",
+                    "ko-KR": "시나리오 캠페인 모드에서 스페셜 랭크 획득한다.",
+                    "ru-RU": "Получить специальный флаг в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "35.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Ohne Schlüssel geht's auch",
+                    "en-US": "No Key For Me",
+                    "es-ES": "¿Quién necesita llaves?",
+                    "fr-FR": "Pas besoin de clé",
+                    "it-IT": "Senza chiave",
+                    "ja-JP": "なして私、こんなに強いの？",
+                    "ko-KR": "제가 이렇게 강했었나요?",
+                    "ru-RU": "У меня нет ключа"
+                },
+                "description": {
+                    "de-DE": "Schaffe \"Millennium-Turm\" ohne Boot-Schlüssel im Kampagnenmodus.",
+                    "en-US": "Clear the Millennium Tower stage without the boot-up key in Scenario Campaign Mode.",
+                    "es-ES": "Supera la fase de la Torre del Milenio sin la llave de arranque en el modo Campaña.",
+                    "fr-FR": "Terminez le niveau de la Tour Millenium sans la clé d'amorçage en mode Histoire.",
+                    "it-IT": "Completa il livello Torre Millennium senza chiave d'accensione in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで始動キーを使用せずにG社ミレニアムタワーをクリアする",
+                    "ko-KR": "시나리오 캠페인 모드에서 시동키를 쓰지 않고 G사 밀레니엄 타워를 클리어한다.",
+                    "ru-RU": "Завершить уровень башня Тысячелетия без ключа запуска в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Schaffe \"Millennium-Turm\" ohne Boot-Schlüssel im Kampagnenmodus.",
+                    "en-US": "Clear the Millennium Tower stage without the boot-up key in Scenario Campaign Mode.",
+                    "es-ES": "Supera la fase de la Torre del Milenio sin la llave de arranque en el modo Campaña.",
+                    "fr-FR": "Terminez le niveau de la Tour Millenium sans la clé d'amorçage en mode Histoire.",
+                    "it-IT": "Completa il livello Torre Millennium senza chiave d'accensione in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードで始動キーを使用せずにG社ミレニアムタワーをクリアする",
+                    "ko-KR": "시나리오 캠페인 모드에서 시동키를 쓰지 않고 G사 밀레니엄 타워를 클리어한다.",
+                    "ru-RU": "Завершить уровень башня Тысячелетия без ключа запуска в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "45",
+            "imageId": "36.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "Lernen macht Spaß",
+                    "en-US": "Learning is Fun",
+                    "es-ES": "Aprender es divertido",
+                    "fr-FR": "Apprendre en s'amusant",
+                    "it-IT": "Lavoro di squadra",
+                    "ja-JP": "よろしくお願いします。",
+                    "ko-KR": "잘 부탁드립니다.",
+                    "ru-RU": "Занимательные уроки"
+                },
+                "description": {
+                    "de-DE": "Schaffe das Tutorial im Kampagnenmodus.",
+                    "en-US": "Clear the tutorial stage in Scenario Campaign Mode.",
+                    "es-ES": "Supera el tutorial en el modo Campaña.",
+                    "fr-FR": "Terminez le didacticiel en mode Histoire.",
+                    "it-IT": "Completa il tutorial in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードのチュートリアルステージをクリアする",
+                    "ko-KR": "시나리오 캠페인 모드의 튜토리얼 스테이지를 클리어한다.",
+                    "ru-RU": "Закончить курс обучения в режиме Кампании."
+                },
+                "howto": {
+                    "de-DE": "Schaffe das Tutorial im Kampagnenmodus.",
+                    "en-US": "Clear the tutorial stage in Scenario Campaign Mode.",
+                    "es-ES": "Supera el tutorial en el modo Campaña.",
+                    "fr-FR": "Terminez le didacticiel en mode Histoire.",
+                    "it-IT": "Completa il tutorial in modalità Campagna.",
+                    "ja-JP": "シナリオキャンペーンモードのチュートリアルステージをクリアする",
+                    "ko-KR": "시나리오 캠페인 모드의 튜토리얼 스테이지를 클리어한다.",
+                    "ru-RU": "Закончить курс обучения в режиме Кампании."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "37.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "de-DE": "Immer nach oben",
+                    "en-US": "Moving On Up",
+                    "es-ES": "Progresando",
+                    "fr-FR": "En progrès",
+                    "it-IT": "Professionista",
+                    "ja-JP": "とても緊張しました。",
+                    "ko-KR": "정말 긴장됐었어요.",
+                    "ru-RU": "Продвижение наверх"
+                },
+                "description": {
+                    "de-DE": "Gewinne ein Ranglisten-Spiel im Online-Modus.",
+                    "en-US": "Win a Ranked Match in Online Mode.",
+                    "es-ES": "Gana una Partida igualada en el modo Online.",
+                    "fr-FR": "Remportez une partie avec classement en mode en ligne.",
+                    "it-IT": "Vinci una partita classificata in modalità Online.",
+                    "ja-JP": "オンラインモードのランクマッチで初勝利する",
+                    "ko-KR": "온라인 모드의 랭크 매치에서 첫 승리한다.",
+                    "ru-RU": "Выиграть игру по рейтингу в сетевом режиме."
+                },
+                "howto": {
+                    "de-DE": "Gewinne ein Ranglisten-Spiel im Online-Modus.",
+                    "en-US": "Win a Ranked Match in Online Mode.",
+                    "es-ES": "Gana una Partida igualada en el modo Online.",
+                    "fr-FR": "Remportez une partie avec classement en mode en ligne.",
+                    "it-IT": "Vinci una partita classificata in modalità Online.",
+                    "ja-JP": "オンラインモードのランクマッチで初勝利する",
+                    "ko-KR": "온라인 모드의 랭크 매치에서 첫 승리한다.",
+                    "ru-RU": "Выиграть игру по рейтингу в сетевом режиме."
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "38.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "de-DE": "Ohne Druck",
+                    "en-US": "No Pressure",
+                    "es-ES": "Sin presión",
+                    "fr-FR": "Zen",
+                    "it-IT": "Passatempo",
+                    "ja-JP": "気軽に対戦できますね。",
+                    "ko-KR": "마음 편하게 싸우세요.",
+                    "ru-RU": "Никакого давления"
+                },
+                "description": {
+                    "de-DE": "Gewinne einen Kampf im Modus Mitspieler-Suche.",
+                    "en-US": "Win a Player Match in Online Mode.",
+                    "es-ES": "Gana una Partida de jugador en el modo Online. ",
+                    "fr-FR": "Remportez un combat dans le mode Matchmaking d’amis.",
+                    "it-IT": "Vinci una partita del giocatore in modalità Online.",
+                    "ja-JP": "オンラインモードのプレイヤーマッチで初勝利する",
+                    "ko-KR": "온라인 모드의 플레이어 매치에서 첫 승리한다.",
+                    "ru-RU": "Выиграть матч в поиске игроков в сетевом режиме."
+                },
+                "howto": {
+                    "de-DE": "Gewinne einen Kampf im Modus Mitspieler-Suche.",
+                    "en-US": "Win a Player Match in Online Mode.",
+                    "es-ES": "Gana una Partida de jugador en el modo Online. ",
+                    "fr-FR": "Remportez un combat dans le mode Matchmaking d’amis.",
+                    "it-IT": "Vinci una partita del giocatore in modalità Online.",
+                    "ja-JP": "オンラインモードのプレイヤーマッチで初勝利する",
+                    "ko-KR": "온라인 모드의 플레이어 매치에서 첫 승리한다.",
+                    "ru-RU": "Выиграть матч в поиске игроков в сетевом режиме."
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "39.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "Kampfanfänger",
+                    "en-US": "Fighting Amateur",
+                    "es-ES": "Luchador amateur",
+                    "fr-FR": "Combattant amateur",
+                    "it-IT": "Giocatore dilettante",
+                    "ja-JP": "ドキドキしますね。",
+                    "ko-KR": "즐거웠어요.",
+                    "ru-RU": "Боец-любитель"
+                },
+                "description": {
+                    "de-DE": "Spiele 3 Spiele im Online-Modus.",
+                    "en-US": "Play 3 matches in Online Mode.",
+                    "es-ES": "Participa en 3 combates en el modo Online.",
+                    "fr-FR": "Faites 3 parties en mode en ligne.",
+                    "it-IT": "Gioca 3 partite in modalità Online.",
+                    "ja-JP": "オンラインモードで3回対戦する",
+                    "ko-KR": "온라인 모드에서 3번 대전한다.",
+                    "ru-RU": "Сыграть 3 игры в сетевом режиме."
+                },
+                "howto": {
+                    "de-DE": "Spiele 3 Spiele im Online-Modus.",
+                    "en-US": "Play 3 matches in Online Mode.",
+                    "es-ES": "Participa en 3 combates en el modo Online.",
+                    "fr-FR": "Faites 3 parties en mode en ligne.",
+                    "it-IT": "Gioca 3 partite in modalità Online.",
+                    "ja-JP": "オンラインモードで3回対戦する",
+                    "ko-KR": "온라인 모드에서 3번 대전한다.",
+                    "ru-RU": "Сыграть 3 игры в сетевом режиме."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "40.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "de-DE": "Kampfexperte",
+                    "en-US": "Fighting Enthusiast",
+                    "es-ES": "Luchador entusiasta",
+                    "fr-FR": "Combattant passionné",
+                    "it-IT": "Giocatore provetto",
+                    "ja-JP": "慣れてきましたか？",
+                    "ko-KR": "이제 좀 익숙해졌나요?",
+                    "ru-RU": "Боец-эксперт"
+                },
+                "description": {
+                    "de-DE": "Spiele 10 Spiele im Online-Modus.",
+                    "en-US": "Play 10 matches in Online Mode.",
+                    "es-ES": "Participa en 10 combates en el modo Online.",
+                    "fr-FR": "Faites 10 parties en mode en ligne.",
+                    "it-IT": "Gioca 10 partite in modalità Online.",
+                    "ja-JP": "オンラインモードで10回対戦する",
+                    "ko-KR": "온라인 모드에서 10번 대전한다.",
+                    "ru-RU": "Сыграть 10 игр в сетевом режиме."
+                },
+                "howto": {
+                    "de-DE": "Spiele 10 Spiele im Online-Modus.",
+                    "en-US": "Play 10 matches in Online Mode.",
+                    "es-ES": "Participa en 10 combates en el modo Online.",
+                    "fr-FR": "Faites 10 parties en mode en ligne.",
+                    "it-IT": "Gioca 10 partite in modalità Online.",
+                    "ja-JP": "オンラインモードで10回対戦する",
+                    "ko-KR": "온라인 모드에서 10번 대전한다.",
+                    "ru-RU": "Сыграть 10 игр в сетевом режиме."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "41.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "Meister der Kampfkunst",
+                    "en-US": "Fighting Master",
+                    "es-ES": "Luchador maestro",
+                    "fr-FR": "Maître de combat",
+                    "it-IT": "Giocatore maestro",
+                    "ja-JP": "まだまだこれからです。",
+                    "ko-KR": "이제 시작이에요.",
+                    "ru-RU": "Боец-мастер"
+                },
+                "description": {
+                    "de-DE": "Spiele 30 Spiele im Online-Modus.",
+                    "en-US": "Play 30 matches in Online Mode.",
+                    "es-ES": "Participa en 30 combates en el modo Online.",
+                    "fr-FR": "Faites 30 parties en mode en ligne.",
+                    "it-IT": "Gioca 30 partite in modalità Online.",
+                    "ja-JP": "オンラインモードで30回対戦する",
+                    "ko-KR": "온라인 모드에서 30번 대전한다.",
+                    "ru-RU": "Сыграть 30 игр в сетевом режиме."
+                },
+                "howto": {
+                    "de-DE": "Spiele 30 Spiele im Online-Modus.",
+                    "en-US": "Play 30 matches in Online Mode.",
+                    "es-ES": "Participa en 30 combates en el modo Online.",
+                    "fr-FR": "Faites 30 parties en mode en ligne.",
+                    "it-IT": "Gioca 30 partite in modalità Online.",
+                    "ja-JP": "オンラインモードで30回対戦する",
+                    "ko-KR": "온라인 모드에서 30번 대전한다.",
+                    "ru-RU": "Сыграть 30 игр в сетевом режиме."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "42.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "Arcade-Freak",
+                    "en-US": "Arcade Addict",
+                    "es-ES": "Adicto al arcade",
+                    "fr-FR": "Joueur d'arcade acharné",
+                    "it-IT": "Appassionato Arcade",
+                    "ja-JP": "また来週。",
+                    "ko-KR": "다음주에 다시 만나요.",
+                    "ru-RU": "Аркадный маньяк"
+                },
+                "description": {
+                    "de-DE": "Schaffe den Arcade-Kampf im Offline-Modus.",
+                    "en-US": "Clear the Arcade Battle in Offline Mode.",
+                    "es-ES": "Acaba el modo Arcade dentro del modo Offline.",
+                    "fr-FR": "Terminez l'Arcade en mode hors ligne.",
+                    "it-IT": "Completa la Battaglia Arcade in modalità Offline.",
+                    "ja-JP": "オフラインモードのアーケードバトルをクリアする",
+                    "ko-KR": "오프라인 모드의 아케이드 배틀을 클리어.",
+                    "ru-RU": "Завершить Аркадный бой в автономном режиме."
+                },
+                "howto": {
+                    "de-DE": "Schaffe den Arcade-Kampf im Offline-Modus.",
+                    "en-US": "Clear the Arcade Battle in Offline Mode.",
+                    "es-ES": "Acaba el modo Arcade dentro del modo Offline.",
+                    "fr-FR": "Terminez l'Arcade en mode hors ligne.",
+                    "it-IT": "Completa la Battaglia Arcade in modalità Offline.",
+                    "ja-JP": "オフラインモードのアーケードバトルをクリアする",
+                    "ko-KR": "오프라인 모드의 아케이드 배틀을 클리어.",
+                    "ru-RU": "Завершить Аркадный бой в автономном режиме."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "43.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "de-DE": "Teamkiller",
+                    "en-US": "Team Toppler",
+                    "es-ES": "Derrotaequipos",
+                    "fr-FR": "Briseur d'équipes",
+                    "it-IT": "Squadrone mortale",
+                    "ja-JP": "チームって良いですね。",
+                    "ko-KR": "팀이란 좋은 거네요.",
+                    "ru-RU": "Командное разрушение"
+                },
+                "description": {
+                    "de-DE": "Besiege 3 Teams im Team-Kampf im Offline-Modus.",
+                    "en-US": "Defeat 3 teams in Team Battle in Offline Mode.",
+                    "es-ES": "Derrota a 3 equipos en Combate por equipos en modo Offline.",
+                    "fr-FR": "Battez 3 équipes en Combat en équipe en mode hors ligne.",
+                    "it-IT": "Sconfiggi 3 squadre nella Battaglia a Squadre in modalità Offline.",
+                    "ja-JP": "オフラインモードのチームバトルで3チームに勝利する",
+                    "ko-KR": "오프라인 모드의 팀 배틀에서 3팀에게 승리한다.",
+                    "ru-RU": "Победить 3 команды в Командном бою в автономном режиме."
+                },
+                "howto": {
+                    "de-DE": "Besiege 3 Teams im Team-Kampf im Offline-Modus.",
+                    "en-US": "Defeat 3 teams in Team Battle in Offline Mode.",
+                    "es-ES": "Derrota a 3 equipos en Combate por equipos en modo Offline.",
+                    "fr-FR": "Battez 3 équipes en Combat en équipe en mode hors ligne.",
+                    "it-IT": "Sconfiggi 3 squadre nella Battaglia a Squadre in modalità Offline.",
+                    "ja-JP": "オフラインモードのチームバトルで3チームに勝利する",
+                    "ko-KR": "오프라인 모드의 팀 배틀에서 3팀에게 승리한다.",
+                    "ru-RU": "Победить 3 команды в Командном бою в автономном режиме."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "44.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "Nur die Stärksten überleben",
+                    "en-US": "Survival of the Fittest",
+                    "es-ES": "Supervivencia del más fuerte",
+                    "fr-FR": "Les plus forts survivent",
+                    "it-IT": "Istinti animali",
+                    "ja-JP": "私は死にません。",
+                    "ko-KR": "저는 죽지 않아요.",
+                    "ru-RU": "Выживает сильнейший"
+                },
+                "description": {
+                    "de-DE": "Gewinne 10-mal hintereinander in Überleben im Offline-Modus.",
+                    "en-US": "Earn 10 consecutive wins in Survival in Offline Mode.",
+                    "es-ES": "Logra 10 victorias consecutivas en Supervivencia en modo Offline.",
+                    "fr-FR": "Remportez 10 victoires consécutives en Survie en mode hors ligne.",
+                    "it-IT": "Ottieni 10 vittorie Sopravvivenza consecutive in modalità Offline.",
+                    "ja-JP": "オフラインモードのサバイバルで10連勝する",
+                    "ko-KR": "오프라인 모드의 서바이벌에서 10연승한다.",
+                    "ru-RU": "Одержать 10 побед подряд в Выживании в автономном режиме."
+                },
+                "howto": {
+                    "de-DE": "Gewinne 10-mal hintereinander in Überleben im Offline-Modus.",
+                    "en-US": "Earn 10 consecutive wins in Survival in Offline Mode.",
+                    "es-ES": "Logra 10 victorias consecutivas en Supervivencia en modo Offline.",
+                    "fr-FR": "Remportez 10 victoires consécutives en Survie en mode hors ligne.",
+                    "it-IT": "Ottieni 10 vittorie Sopravvivenza consecutive in modalità Offline.",
+                    "ja-JP": "オフラインモードのサバイバルで10連勝する",
+                    "ko-KR": "오프라인 모드의 서바이벌에서 10연승한다.",
+                    "ru-RU": "Одержать 10 побед подряд в Выживании в автономном режиме."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "45.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "Übung macht den Meister",
+                    "en-US": "Practice Makes Perfect",
+                    "es-ES": "Practica hasta la perfección",
+                    "fr-FR": "C'est en forgeant...",
+                    "it-IT": "Frutti dell'allenamento",
+                    "ja-JP": "練習あるのみです。",
+                    "ko-KR": "연습하면 다 돼요.",
+                    "ru-RU": "Тренировка ведет к совершенству"
+                },
+                "description": {
+                    "de-DE": "Verursache insgesamt 1000 Schaden im Training im Offline-Modus.",
+                    "en-US": "Inflict a total of 1000 damage in Practice in Offline Mode.",
+                    "es-ES": "Inflige un total de 1.000 puntos de daño en Práctica en modo Offline.",
+                    "fr-FR": "Infligez un total de 1000 dégâts en Entraînement en mode hors ligne.",
+                    "it-IT": "Infliggi un totale di 1.000 danni nella Pratica in modalità Offline.",
+                    "ja-JP": "オフラインモードのプラクティスでトータル1000のダメージを与える",
+                    "ko-KR": "오프라인 모드의 연습에서 토탈 1000대미지를 입힌다.",
+                    "ru-RU": "Причинить в общей сложности 1000 единиц урона на тренировке в автономном режиме."
+                },
+                "howto": {
+                    "de-DE": "Verursache insgesamt 1000 Schaden im Training im Offline-Modus.",
+                    "en-US": "Inflict a total of 1000 damage in Practice in Offline Mode.",
+                    "es-ES": "Inflige un total de 1.000 puntos de daño en Práctica en modo Offline.",
+                    "fr-FR": "Infligez un total de 1000 dégâts en Entraînement en mode hors ligne.",
+                    "it-IT": "Infliggi un totale di 1.000 danni nella Pratica in modalità Offline.",
+                    "ja-JP": "オフラインモードのプラクティスでトータル1000のダメージを与える",
+                    "ko-KR": "오프라인 모드의 연습에서 토탈 1000대미지를 입힌다.",
+                    "ru-RU": "Причинить в общей сложности 1000 единиц урона на тренировке в автономном режиме."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "46.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "de-DE": "Sammelfetischist",
+                    "en-US": "Gallery Completionist",
+                    "es-ES": "Galería completada",
+                    "fr-FR": "Galerie achevée",
+                    "it-IT": "Collezionista d'arte",
+                    "ja-JP": "ギャラリーがよくできました。",
+                    "ko-KR": "갤러리를 다 채웠어요.",
+                    "ru-RU": "Коллекционер"
+                },
+                "description": {
+                    "de-DE": "Vervollständige die Galerie.",
+                    "en-US": "Complete the Gallery.",
+                    "es-ES": "Completa la Galería.",
+                    "fr-FR": "Terminez la Galerie.",
+                    "it-IT": "Completa la Galleria.",
+                    "ja-JP": "ギャラリーをコンプリートする",
+                    "ko-KR": "갤러리를 전부 채운다.",
+                    "ru-RU": "Завершить всю Галерею."
+                },
+                "howto": {
+                    "de-DE": "Vervollständige die Galerie.",
+                    "en-US": "Complete the Gallery.",
+                    "es-ES": "Completa la Galería.",
+                    "fr-FR": "Terminez la Galerie.",
+                    "it-IT": "Completa la Galleria.",
+                    "ja-JP": "ギャラリーをコンプリートする",
+                    "ko-KR": "갤러리를 전부 채운다.",
+                    "ru-RU": "Завершить всю Галерею."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "45",
+            "imageId": "47.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "de-DE": "Geisterjäger",
+                    "en-US": "Ghost Vanquisher",
+                    "es-ES": "Cazador de fantasmas",
+                    "fr-FR": "Chasseur de fantômes",
+                    "it-IT": "Acchiappafantasmi",
+                    "ja-JP": "負けるわけにはいきません。",
+                    "ko-KR": "질 수 없어요.",
+                    "ru-RU": "Охотник за привидениями"
+                },
+                "description": {
+                    "de-DE": "Besiege 30 Geister.",
+                    "en-US": "Defeat 30 Ghosts.",
+                    "es-ES": "Derrota a 30 fantasmas.",
+                    "fr-FR": "Battez 30 fantômes.",
+                    "it-IT": "Sconfiggi 30 fantasmi.",
+                    "ja-JP": "ゴーストを30体倒す",
+                    "ko-KR": "고스트를 30명 쓰러뜨린다.",
+                    "ru-RU": "Одолеть 30 призраков."
+                },
+                "howto": {
+                    "de-DE": "Besiege 30 Geister.",
+                    "en-US": "Defeat 30 Ghosts.",
+                    "es-ES": "Derrota a 30 fantasmas.",
+                    "fr-FR": "Battez 30 fantômes.",
+                    "it-IT": "Sconfiggi 30 fantasmi.",
+                    "ja-JP": "ゴーストを30体倒す",
+                    "ko-KR": "고스트를 30명 쓰러뜨린다.",
+                    "ru-RU": "Одолеть 30 призраков."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "48.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "Geld über alles",
+                    "en-US": "Love That Money",
+                    "es-ES": "Me encanta el dinero",
+                    "fr-FR": "L'or, j'adore",
+                    "it-IT": "Bling bling",
+                    "ja-JP": "お金は大事ですね。",
+                    "ko-KR": "돈은 소중해요.",
+                    "ru-RU": "Любовь к деньгам"
+                },
+                "description": {
+                    "de-DE": "Sammle mehr als 5.000.000 G.",
+                    "en-US": "Collect more than 5,000,000 G.",
+                    "es-ES": "Consigue más de 5.000.000 G.",
+                    "fr-FR": "Récoltez plus de 5 000 000 G.",
+                    "it-IT": "Colleziona più di 5.000.000 G.",
+                    "ja-JP": "累計獲得金額が500万Gを超える",
+                    "ko-KR": "누계 획득 금액이 500만G를 초과한다.",
+                    "ru-RU": "Заработай более 5,000,000 G."
+                },
+                "howto": {
+                    "de-DE": "Sammle mehr als 5.000.000 G.",
+                    "en-US": "Collect more than 5,000,000 G.",
+                    "es-ES": "Consigue más de 5.000.000 G.",
+                    "fr-FR": "Récoltez plus de 5 000 000 G.",
+                    "it-IT": "Colleziona più di 5.000.000 G.",
+                    "ja-JP": "累計獲得金額が500万Gを超える",
+                    "ko-KR": "누계 획득 금액이 500만G를 초과한다.",
+                    "ru-RU": "Заработай более 5,000,000 G."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "49.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "de-DE": "Maschinenvernichter",
+                    "en-US": "Machine Crusher",
+                    "es-ES": "Destrozamáquinas",
+                    "fr-FR": "Fracasseur de machines",
+                    "it-IT": "Spaccamacchine",
+                    "ja-JP": "戦わなければいけないのけ？",
+                    "ko-KR": "안 싸우면 안돼?",
+                    "ru-RU": "Разбиватель машин"
+                },
+                "description": {
+                    "de-DE": "Besiege NANCY-MI847J.",
+                    "en-US": "Defeat NANCY-MI847J.",
+                    "es-ES": "Derrota a NANCY-MI847J.",
+                    "fr-FR": "Battez NANCY-MI847J.",
+                    "it-IT": "Sconfiggi NANCY-MI847J.",
+                    "ja-JP": "NANCY-MI847Jを撃破する",
+                    "ko-KR": "NANCY-MI847J를 격파한다.",
+                    "ru-RU": "Одолеть NANCY-MI847J."
+                },
+                "howto": {
+                    "de-DE": "Besiege NANCY-MI847J.",
+                    "en-US": "Defeat NANCY-MI847J.",
+                    "es-ES": "Derrota a NANCY-MI847J.",
+                    "fr-FR": "Battez NANCY-MI847J.",
+                    "it-IT": "Sconfiggi NANCY-MI847J.",
+                    "ja-JP": "NANCY-MI847Jを撃破する",
+                    "ko-KR": "NANCY-MI847J를 격파한다.",
+                    "ru-RU": "Одолеть NANCY-MI847J."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "50.png"
+        }
+    }
+}

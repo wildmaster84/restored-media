@@ -1,0 +1,352 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Ninja",
+                    "en-US": "Ninja",
+                    "es-ES": "Ninja",
+                    "fr-FR": "Ninja",
+                    "it-IT": "Ninja"
+                },
+                "description": {
+                    "de-DE": "„Vielleicht so …“ in unter 16 Sekunden abgeschlossen.",
+                    "en-US": "Completed \"In One Way...\" in less than 16 seconds.",
+                    "es-ES": "\"En una dirección...\" completado en menos de 16 segundos.",
+                    "fr-FR": "A terminé « Dans un sens... » en moins de 16 secondes.",
+                    "it-IT": "Hai completato \"In un modo...\" in meno di 16 secondi."
+                },
+                "howto": {
+                    "de-DE": "Du musst „Vielleicht so …“ in unter 16 Sekunden abschließen. (Nur Einzelspieler)",
+                    "en-US": "Complete \"In One Way...\" in less than 16 seconds. (Single Player Only)",
+                    "es-ES": "Completa \"En una dirección...\" en menos de 16 segundos. (Sólo para un jugador)",
+                    "fr-FR": "Terminer « Dans un sens... » en moins de 16 secondes. (Mode solo uniquement)",
+                    "it-IT": "Completa \"In un modo...\" in meno di 16 secondi. (solo giocatore singolo)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Im Angesicht der Angst",
+                    "en-US": "Face The Fear",
+                    "es-ES": "Siente el miedo",
+                    "fr-FR": "Face à face avec la peur",
+                    "it-IT": "Affronta la paura"
+                },
+                "description": {
+                    "de-DE": "„Immer schön in Deckung gehen“ ohne Zuhilfenahme des Teleporters abgeschlossen.",
+                    "en-US": "Completed \"Spike Dodging\" without using the teleporter.",
+                    "es-ES": "\"Esquivar pinchos\" completado sin usar el teletransportador.",
+                    "fr-FR": "A terminé « Esquive » sans utiliser le téléporteur.",
+                    "it-IT": "Hai completato \"Schiva le punte\" senza usare il teletrasporto."
+                },
+                "howto": {
+                    "de-DE": "Du musst „Immer schön in Deckung gehen“ ohne Zuhilfenahme des Teleporters abschließen.",
+                    "en-US": "Complete \"Spike Dodging\" without using the teleporter. (Single Player Only)",
+                    "es-ES": "Completa \"Esquivar pinchos\" sin usar el teletransportador. (Sólo para un jugador)",
+                    "fr-FR": "Terminer « Esquive » sans utiliser le téléporteur. (Mode solo uniquement)",
+                    "it-IT": "Completa \"Schiva le punte\" senza usare il teletrasporto. (solo giocatore singolo)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Kurzversion",
+                    "en-US": "Abridged",
+                    "es-ES": "Rey de plataformas",
+                    "fr-FR": "Raccourci",
+                    "it-IT": "Semplificato"
+                },
+                "description": {
+                    "de-DE": "„Plattform ohne feste Größe“ ohne Seil bewältigt.",
+                    "en-US": "Completed \"Extending Platform\" without using the rope.",
+                    "es-ES": "\"Plataforma extensa\" completado sin usar la cuerda.",
+                    "fr-FR": "A terminé « Plateforme coulissante » sans utiliser la corde.",
+                    "it-IT": "Hai completato \"Piattaforma con estensione\" senza usare la corda."
+                },
+                "howto": {
+                    "de-DE": "Du musst „Plattform ohne feste Größe“ ohne Seil bewältigen. (Nur Einzelspieler)",
+                    "en-US": "Complete \"Extending Platform\" without using the rope. (Single Player Only)",
+                    "es-ES": "Completa \"Plataforma extensa\" sin usar la cuerda. (Sólo para un jugador)",
+                    "fr-FR": "Terminer « Plateforme coulissante » sans utiliser la corde. (Mode solo uniquement)",
+                    "it-IT": "Completa \"Piattaforma con estensione\" senza usare la corda. (solo giocatore singolo)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Schloss zurückerobert",
+                    "en-US": "Castle Reclaimed",
+                    "es-ES": "Castillo recuperado",
+                    "fr-FR": "Récupération du manoir",
+                    "it-IT": "Recupero del castello"
+                },
+                "description": {
+                    "de-DE": "Du hast den Wächter des Uhrturms besiegt.",
+                    "en-US": "Defeated the guardian of the clocktower.",
+                    "es-ES": "Derrotado el guardián de la torre del reloj.",
+                    "fr-FR": "A vaincu le gardien du beffroi.",
+                    "it-IT": "Hai sconfitto il guardiano della torre dell'orologio."
+                },
+                "howto": {
+                    "de-DE": "Du musst den Wächter des Uhrturms besiegen.",
+                    "en-US": "Defeat the guardian of the clocktower.",
+                    "es-ES": "Derrota al guardián de la torre del reloj.",
+                    "fr-FR": "Vaincre le gardien du beffroi.",
+                    "it-IT": "Sconfiggi il guardiano della torre dell'orologio."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Herr der Verliese",
+                    "en-US": "Dungeon Perfectionist",
+                    "es-ES": "Perfeccionista de mazmorras",
+                    "fr-FR": "Perfectionniste des catacombes",
+                    "it-IT": "Perfezionista della segreta"
+                },
+                "description": {
+                    "de-DE": "Du hast alle Verlies-Level abgeschlossen.",
+                    "en-US": "Completed all of the dungeon levels.",
+                    "es-ES": "Completados todos los niveles de la mazmorra.",
+                    "fr-FR": "A terminé tous les niveaux des catacombes.",
+                    "it-IT": "Hai completato tutti i livelli della segreta."
+                },
+                "howto": {
+                    "de-DE": "Du musst alle Verlies-Level abschließen.",
+                    "en-US": "Complete all of the dungeon levels.",
+                    "es-ES": "Completa todos los niveles de la mazmorra.",
+                    "fr-FR": "Terminer tous les niveaux des catacombes.",
+                    "it-IT": "Completa tutti i livelli della segreta."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Herr des Heizungsraums",
+                    "en-US": "Boiler Room Perfectionist",
+                    "es-ES": "Perfeccionista de calderas",
+                    "fr-FR": "Perfectionniste de la chaufferie",
+                    "it-IT": "Perfezionista del locale caldaia"
+                },
+                "description": {
+                    "de-DE": "Du hast alle Level im Heizungsraum abgeschlossen.",
+                    "en-US": "Completed all of the boiler room levels.",
+                    "es-ES": "Completados todos los niveles de la caldera.",
+                    "fr-FR": "A terminé tous les niveaux de la chaufferie.",
+                    "it-IT": "Hai completato tutti i livelli del locale caldaia."
+                },
+                "howto": {
+                    "de-DE": "Du musst alle Level im Heizungsraum abschließen.",
+                    "en-US": "Complete all of the boiler room levels.",
+                    "es-ES": "Completa todos los niveles de la caldera.",
+                    "fr-FR": "Terminer tous les niveaux de la chaufferie.",
+                    "it-IT": "Completa tutti i livelli del locale caldaia."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Herr der Galerie",
+                    "en-US": "Gallery Perfectionist",
+                    "es-ES": "Perfeccionista de galerías",
+                    "fr-FR": "Perfectionniste de la galerie",
+                    "it-IT": "Perfezionista della galleria"
+                },
+                "description": {
+                    "de-DE": "Du hast alle Galerie-Level abgeschlossen.",
+                    "en-US": "Completed all of the gallery levels.",
+                    "es-ES": "Completados todos los niveles de la galería.",
+                    "fr-FR": "A terminé tous les niveaux de la galerie.",
+                    "it-IT": "Hai completato tutti i livelli della galleria."
+                },
+                "howto": {
+                    "de-DE": "Du musst alle Galerie-Level abschließen.",
+                    "en-US": "Complete all of the gallery levels.",
+                    "es-ES": "Completa todos los niveles de la galería.",
+                    "fr-FR": "Terminer tous les niveaux de la galerie.",
+                    "it-IT": "Completa tutti i livelli della galleria."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Herr des Friedhofs",
+                    "en-US": "Graveyard Perfectionist",
+                    "es-ES": "Perfeccionista de cementerios",
+                    "fr-FR": "Perfectionniste du cimetière",
+                    "it-IT": "Perfezionista del cimitero"
+                },
+                "description": {
+                    "de-DE": "Du hast alle Friedhof-Level abgeschlossen.",
+                    "en-US": "Completed all of the graveyard levels.",
+                    "es-ES": "Completados todos los niveles del cementerio.",
+                    "fr-FR": "A terminé tous les niveaux du cimetière.",
+                    "it-IT": "Hai completato tutti i livelli del cimitero."
+                },
+                "howto": {
+                    "de-DE": "Du musst alle Friedhof-Level abschließen.",
+                    "en-US": "Complete all of the graveyard levels.",
+                    "es-ES": "Completa todos los niveles del cementerio.",
+                    "fr-FR": "Terminer tous les niveaux du cimetière.",
+                    "it-IT": "Completa tutti i livelli del cimitero."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Herr des Uhrturms",
+                    "en-US": "Clock Tower Perfectionist",
+                    "es-ES": "Perfeccionista de la torre",
+                    "fr-FR": "Perfectionniste du beffroi",
+                    "it-IT": "Perfezionista della torre"
+                },
+                "description": {
+                    "de-DE": "Du hast alle Uhrturm-Level abgeschlossen.",
+                    "en-US": "Completed all of the clocktower levels.",
+                    "es-ES": "Completados todos los niveles de la torre del reloj.",
+                    "fr-FR": "A terminé tous les niveaux du beffroi",
+                    "it-IT": "Hai completato tutti i livelli della torre dell'orologio."
+                },
+                "howto": {
+                    "de-DE": "Du musst alle Uhrturm-Level abschließen.",
+                    "en-US": "Complete all of the clocktower levels.",
+                    "es-ES": "Completa todos los niveles de la torre del reloj.",
+                    "fr-FR": "Terminer tous les niveaux du beffroi",
+                    "it-IT": "Completa tutti i livelli della torre dell'orologio."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Shmu-Hirte",
+                    "en-US": "Shmu Herder",
+                    "es-ES": "Pastor de Shmus",
+                    "fr-FR": "Berger de shmus",
+                    "it-IT": "Pastore Shmu"
+                },
+                "description": {
+                    "de-DE": "Du hast ein Shmu-Level abgeschlossen.",
+                    "en-US": "Completed a level containing Shmu.",
+                    "es-ES": "Completado un nivel con Shmus.",
+                    "fr-FR": "A terminé un niveau contenant des shmus.",
+                    "it-IT": "Hai completato un livello contenente Shmu."
+                },
+                "howto": {
+                    "de-DE": "Du musst ein Shmu-Level abschließen. (Nur Einzelspieler)",
+                    "en-US": "Complete a level containing Shmu. (Single Player Only)",
+                    "es-ES": "Completa un nivel con Shmus. (Sólo para un jugador)",
+                    "fr-FR": "Terminer un niveau contenant des shmus. (Mode solo uniquement)",
+                    "it-IT": "Completa un livello contenente Shmu. (solo giocatore singolo)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Herrscher über die Zeit",
+                    "en-US": "Master Of Time",
+                    "es-ES": "Maestro del tiempo",
+                    "fr-FR": "Maître du temps",
+                    "it-IT": "Maestro del tempo"
+                },
+                "description": {
+                    "de-DE": "Du hast ein Level mit Zeitreisen abgeschlossen.",
+                    "en-US": "Completed a time travel level.",
+                    "es-ES": "Completado un nivel de viaje en el tiempo.",
+                    "fr-FR": "A terminé un niveau de voyage temporel.",
+                    "it-IT": "Hai completato un livello viaggio nel tempo."
+                },
+                "howto": {
+                    "de-DE": "Du musst ein Level mit Zeitreisen abschließen. (Nur Einzelspieler)",
+                    "en-US": "Complete a time travel level. (Single Player Only)",
+                    "es-ES": "Completa un nivel de viaje en el tiempo. (Sólo para un jugador)",
+                    "fr-FR": "Terminer un niveau de voyage temporel. (Mode solo uniquement)",
+                    "it-IT": "Completa un livello viaggio nel tempo. (solo giocatore singolo)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Teamwork",
+                    "en-US": "Teamwork",
+                    "es-ES": "Trabajo de equipo",
+                    "fr-FR": "Travail d'équipe",
+                    "it-IT": "Lavoro di squadra"
+                },
+                "description": {
+                    "de-DE": "Alle Kooperationslevel abgeschlossen.",
+                    "en-US": "Completed all the CoOp levels.",
+                    "es-ES": "Completados todos los niveles cooperativos.",
+                    "fr-FR": "A terminé tous les niveaux coopératifs.",
+                    "it-IT": "Hai completato tutti i livelli coop."
+                },
+                "howto": {
+                    "de-DE": "Du musst alle Kooperationslevel abschließen.",
+                    "en-US": "Complete all the CoOp levels.",
+                    "es-ES": "Completa todos los niveles cooperativos.",
+                    "fr-FR": "Terminer tous les niveaux coopératifs.",
+                    "it-IT": "Completa tutti i livelli coop."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "12.png"
+        }
+    }
+}

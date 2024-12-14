@@ -1,0 +1,554 @@
+{
+    "properties": {
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x20000003": {
+            "info": "Games Played",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000000E": {
+            "info": "Minimum Play Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x20000009": {
+            "info": "Battles Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000011": {
+            "info": "Battles Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x2000000F": {
+            "info": "XP accumulated",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000010": {
+            "info": "Gold Accumulated",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000012": {
+            "info": "Total Damage Absorbed",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000013": {
+            "info": "Best Damage Absorbed",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000000E": {
+            "info": "Minimum Play Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x20000009": {
+            "info": "Battles Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000011": {
+            "info": "Battles Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x2000000F": {
+            "info": "XP accumulated",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000010": {
+            "info": "Gold accumulated",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000026": {
+            "info": "Total Damage Blocked",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000027": {
+            "info": "Most Damage Blocked",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000000E": {
+            "info": "Minimum Play Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x20000009": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x2000000F": {
+            "info": "XP accumulated",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000010": {
+            "info": "Gold accumulated",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000016": {
+            "info": "Total Mana Used",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000017": {
+            "info": "Spell1 Count",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10000018": {
+            "info": "Spell2 Count",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x10000019": {
+            "info": "Spell3 Count",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x1000001A": {
+            "info": "Spell4 Count",
+            "method": "sum",
+            "statId": 9
+        },
+        "0x1000001B": {
+            "info": "Spell5 Count",
+            "method": "sum",
+            "statId": 10
+        },
+        "0x1000001C": {
+            "info": "Spell6 Count",
+            "method": "sum",
+            "statId": 11
+        },
+        "0x1000001D": {
+            "info": "Spell7 Count",
+            "method": "sum",
+            "statId": 12
+        },
+        "0x1000001E": {
+            "info": "Spell8 Count",
+            "method": "sum",
+            "statId": 13
+        },
+        "0x1000001F": {
+            "info": "Spell9 Count",
+            "method": "sum",
+            "statId": 14
+        },
+        "0x10000020": {
+            "info": "Spell10 Count",
+            "method": "sum",
+            "statId": 15
+        },
+        "0x10000021": {
+            "info": "Spell11 Count",
+            "method": "sum",
+            "statId": 16
+        },
+        "0x10000022": {
+            "info": "Spell12 Count",
+            "method": "sum",
+            "statId": 17
+        },
+        "0x10000023": {
+            "info": "Spell13 Count",
+            "method": "sum",
+            "statId": 18
+        },
+        "0x10000024": {
+            "info": "Spell14 Count",
+            "method": "sum",
+            "statId": 19
+        },
+        "0x10000025": {
+            "info": "Spell15 Count",
+            "method": "sum",
+            "statId": 20
+        },
+        "0x10000037": {
+            "info": "Spell16 Count",
+            "method": "sum",
+            "statId": 21
+        },
+        "0x10000038": {
+            "info": "Spell 17 Count",
+            "method": "sum",
+            "statId": 22
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000009": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x20000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000028": {
+            "info": "Assassin Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x20000029": {
+            "info": "Barbarian Kills",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x2000002A": {
+            "info": "Inquisitor Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x2000002B": {
+            "info": "WarMage Kills",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x2000000F": {
+            "info": "XP accumulated",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000010": {
+            "info": "Gold accumulated",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000000C": {
+            "info": "Min Turns",
+            "method": "min",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000000D": {
+            "info": "Num Defeats",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000000E": {
+            "info": "Minimum Play Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x20000009": {
+            "info": "Battles Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000011": {
+            "info": "Battles Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x2000000F": {
+            "info": "XP accumulated",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000010": {
+            "info": "Gold Accumulated",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000014": {
+            "info": "Total Skull Damage",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000015": {
+            "info": "Largest Skull Hit",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x20000003": {
+            "info": "Games Played",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000004": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x20000003": {
+            "info": "Games Played",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000000D": {
+            "info": "Num Defeats",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000000D": {
+            "info": "Num Defeats",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000000D": {
+            "info": "Num Defeats",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000000D": {
+            "info": "Num Defeats",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000000D": {
+            "info": "Num Defeats",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000000C": {
+            "info": "Min Turns",
+            "method": "min",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000000C": {
+            "info": "Min Turns",
+            "method": "min",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000000C": {
+            "info": "Min Turns",
+            "method": "min",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000000C": {
+            "info": "Min Turns",
+            "method": "min",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000000C": {
+            "info": "Min Turns",
+            "method": "min",
+            "statId": 65534
+        }
+    }
+}

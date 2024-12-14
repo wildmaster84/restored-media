@@ -1,0 +1,5369 @@
+{
+    "properties": {
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000023": {
+            "info": "PvP Experience",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x20000009": {
+            "info": "PvP Rank",
+            "method": "last",
+            "statId": 24
+        },
+        "0x1000000A": {
+            "info": "PvP Skills for Kills",
+            "method": "last",
+            "statId": 1
+        },
+        "0x1000000B": {
+            "info": "PvP Favourite Kill Method",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000000C": {
+            "info": "PvP Longest Kill Streak",
+            "method": "max",
+            "statId": 3
+        },
+        "0x1000000D": {
+            "info": "PvP Most Kills In One Game",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000000E": {
+            "info": "PvP Most Unique Kills In One Min",
+            "method": "max",
+            "statId": 5
+        },
+        "0x1000001E": {
+            "info": "PvP Highest Multiplier",
+            "method": "max",
+            "statId": 6
+        },
+        "0x1000000F": {
+            "info": "PvP Kills Deaths Ratio",
+            "method": "last",
+            "statId": 7
+        },
+        "0x10000010": {
+            "info": "PvP Total Kills",
+            "method": "last",
+            "statId": 8
+        },
+        "0x10000011": {
+            "info": "PvP Most Headshots In a Row",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000012": {
+            "info": "PvP Most Melee Kills In a Row",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000013": {
+            "info": "PvP Most Kills In An Explosion",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000014": {
+            "info": "PvP Most Kills In a GroundStrike",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000015": {
+            "info": "Fastest Beacon Run",
+            "method": "min",
+            "statId": 13
+        },
+        "0x10000016": {
+            "info": "Fastest Junction Plug",
+            "method": "min",
+            "statId": 14
+        },
+        "0x10000003": {
+            "info": "Fastest Breach Hole Closure",
+            "method": "min",
+            "statId": 15
+        },
+        "0x10000017": {
+            "info": "Most Characters Harpooned to a Vehicle",
+            "method": "max",
+            "statId": 16
+        },
+        "0x10000018": {
+            "info": "Longest Vehicle Air Time",
+            "method": "max",
+            "statId": 17
+        },
+        "0x10000019": {
+            "info": "Longest Gliding Air Time",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000001A": {
+            "info": "Longest Character Rocket Juggle",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000001B": {
+            "info": "Longest Vehicle Rocket Juggle",
+            "method": "max",
+            "statId": 20
+        },
+        "0x1000001C": {
+            "info": "Most Chain Explosions",
+            "method": "max",
+            "statId": 21
+        },
+        "0x1000001D": {
+            "info": "Most Keepy Ups",
+            "method": "max",
+            "statId": 22
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "Vehicle",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "Race Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000028": {
+            "info": "Display Race Time",
+            "method": "min",
+            "statId": 3
+        },
+        "0x10000007": {
+            "info": "Course ID",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000021": {
+            "info": "Agility",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002C": {
+            "info": "Wave",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002D": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002D": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002D": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002B": {
+            "info": "Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002B": {
+            "info": "Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002B": {
+            "info": "Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002C": {
+            "info": "Wave",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002C": {
+            "info": "Wave",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002C": {
+            "info": "Wave",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002C": {
+            "info": "Wave",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002C": {
+            "info": "Wave",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002C": {
+            "info": "Wave",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002C": {
+            "info": "Wave",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002C": {
+            "info": "Wave",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002D": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002D": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002D": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002D": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002D": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002D": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002B": {
+            "info": "Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002B": {
+            "info": "Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002B": {
+            "info": "Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002B": {
+            "info": "Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002B": {
+            "info": "Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002B": {
+            "info": "Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002B": {
+            "info": "Time Left",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002B": {
+            "info": "Time Left",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002B": {
+            "info": "Time  Left",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002B": {
+            "info": "Time Left",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002B": {
+            "info": "Time Left",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002B": {
+            "info": "Time Left",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002B": {
+            "info": "Time Left",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002B": {
+            "info": "Time Left",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002B": {
+            "info": "Time Left",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x1000002E": {
+            "info": "Difficulty",
+            "method": "last",
+            "statId": 1
+        }
+    }
+}

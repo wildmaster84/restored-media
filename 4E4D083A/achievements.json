@@ -1,0 +1,1193 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "en-US": "The Dark Soul",
+                    "fr-FR": "L'Âme sombre",
+                    "de-DE": "Die Finstere Seele",
+                    "es-ES": "El Alma Oscura",
+                    "it-IT": "L'Anima Oscura"
+                },
+                "description": {
+                    "en-US": "All achievements completed. Congratulations!",
+                    "fr-FR": "Tous les succès obtenus. Félicitations !",
+                    "de-DE": "Alle Erfolge errungen. Glückwunsch!",
+                    "es-ES": "Has obtenido todos los logros. ¡Enhorabuena!",
+                    "it-IT": "Ottenuti tutti gli obiettivi! Congratulazioni!"
+                },
+                "howto": {
+                    "en-US": "All achievements completed. Congratulations!",
+                    "fr-FR": "Tous les succès obtenus. Félicitations !",
+                    "de-DE": "Alle Erfolge errungen. Glückwunsch!",
+                    "es-ES": "Has obtenido todos los logros. ¡Enhorabuena!",
+                    "it-IT": "Ottenuti tutti gli obiettivi! Congratulazioni!"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "en-US": "To Link the Fire",
+                    "fr-FR": "Entretenir le Feu",
+                    "de-DE": "Das Band des Feuers",
+                    "es-ES": "Enlazar el Fuego",
+                    "it-IT": "Legame del Fuoco"
+                },
+                "description": {
+                    "en-US": "Reach \"To Link the Fire\" ending.",
+                    "fr-FR": "Terminer Entretenir le Feu.",
+                    "de-DE": "Erreiche das Ende von \"Das Band des Feuers\".",
+                    "es-ES": "Llega al final de \"Enlazar el Fuego\".",
+                    "it-IT": "Raggiungi la fine del capitolo \"Il Legame del Fuoco\"."
+                },
+                "howto": {
+                    "en-US": "Reach \"To Link the Fire\" ending.",
+                    "fr-FR": "Terminer Entretenir le Feu.",
+                    "de-DE": "Erreiche das Ende von \"Das Band des Feuers\".",
+                    "es-ES": "Llega al final de \"Enlazar el Fuego\".",
+                    "it-IT": "Raggiungi la fine del capitolo \"Il Legame del Fuoco\"."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "90",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "en-US": "Dark Lord",
+                    "fr-FR": "Seigneur sombre",
+                    "de-DE": "Der Finstere Fürst",
+                    "es-ES": "Señor Oscuro",
+                    "it-IT": "Lord Oscuro"
+                },
+                "description": {
+                    "en-US": "Reach \"The Dark Lord\" ending.",
+                    "fr-FR": "Terminer Le Seigneur sombre.",
+                    "de-DE": "Erreiche das Ende von \"Der Finstere Fürst\".",
+                    "es-ES": "Llega al final de \"El Señor Oscuro\".",
+                    "it-IT": "Raggiungi la fine del capitolo \"Il Lord Oscuro\"."
+                },
+                "howto": {
+                    "en-US": "Reach \"The Dark Lord\" ending.",
+                    "fr-FR": "Terminer Le Seigneur sombre.",
+                    "de-DE": "Erreiche das Ende von \"Der Finstere Fürst\".",
+                    "es-ES": "Llega al final de \"El Señor Oscuro\".",
+                    "it-IT": "Raggiungi la fine del capitolo \"Il Lord Oscuro\"."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "90",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "en-US": "Knight's Honor",
+                    "fr-FR": "Honneur du chevalier",
+                    "de-DE": "Die Ehre des Ritters",
+                    "es-ES": "Honor del caballero",
+                    "it-IT": "Onore del cavaliere"
+                },
+                "description": {
+                    "en-US": "Acquire all rare weapons.",
+                    "fr-FR": "Obtenir toutes les armes rares.",
+                    "de-DE": "Beschaffe dir alle seltenen Waffen.",
+                    "es-ES": "Consigue todas las armas raras.",
+                    "it-IT": "Acquisisci tutte le armi rare."
+                },
+                "howto": {
+                    "en-US": "Acquire all rare weapons.",
+                    "fr-FR": "Obtenir toutes les armes rares.",
+                    "de-DE": "Beschaffe dir alle seltenen Waffen.",
+                    "es-ES": "Consigue todas las armas raras.",
+                    "it-IT": "Acquisisci tutte le armi rare."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "en-US": "Wisdom of a Sage",
+                    "fr-FR": "Sagesse d'un sage",
+                    "de-DE": "Die Klugheit des Weisen",
+                    "es-ES": "Conocimiento de un sabio",
+                    "it-IT": "Sapere del saggio"
+                },
+                "description": {
+                    "en-US": "Acquire all sorceries.",
+                    "fr-FR": "Obtenir tous les sorts.",
+                    "de-DE": "Beschaffe dir alle Zauber.",
+                    "es-ES": "Consigue todos los hechizos.",
+                    "it-IT": "Acquisisci tutte le stregonerie."
+                },
+                "howto": {
+                    "en-US": "Acquire all sorceries.",
+                    "fr-FR": "Obtenir tous les sorts.",
+                    "de-DE": "Beschaffe dir alle Zauber.",
+                    "es-ES": "Consigue todos los hechizos.",
+                    "it-IT": "Acquisisci tutte le stregonerie."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "en-US": "Bond of a Pyromancer",
+                    "fr-FR": "Lien de pyromancien",
+                    "de-DE": "Das Band des Pyromanten",
+                    "es-ES": "Vínculo de un piromántico",
+                    "it-IT": "Legame del piromante"
+                },
+                "description": {
+                    "en-US": "Acquire all pyromancies.",
+                    "fr-FR": "Obtenir toutes les pyromancies.",
+                    "de-DE": "Beschaffe dir alle Pyromantien.",
+                    "es-ES": "Consigue todas las piromancias.",
+                    "it-IT": "Acquisisci tutte le piromanzie."
+                },
+                "howto": {
+                    "en-US": "Acquire all pyromancies.",
+                    "fr-FR": "Obtenir toutes les pyromancies.",
+                    "de-DE": "Beschaffe dir alle Pyromantien.",
+                    "es-ES": "Consigue todas las piromancias.",
+                    "it-IT": "Acquisisci tutte le piromanzie."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "en-US": "Prayer of a Maiden",
+                    "fr-FR": "Prière de Demoiselle",
+                    "de-DE": "Das Gebet der Maid",
+                    "es-ES": "Rezo de una dama",
+                    "it-IT": "Preghiera di una fanciulla"
+                },
+                "description": {
+                    "en-US": "Acquire all miracles.",
+                    "fr-FR": "Obtenir tous les miracles.",
+                    "de-DE": "Beschaffe dir alle Wunder.",
+                    "es-ES": "Consigue todos los milagros.",
+                    "it-IT": "Acquisisci tutti i miracoli."
+                },
+                "howto": {
+                    "en-US": "Acquire all miracles.",
+                    "fr-FR": "Obtenir tous les miracles.",
+                    "de-DE": "Beschaffe dir alle Wunder.",
+                    "es-ES": "Consigue todos los milagros.",
+                    "it-IT": "Acquisisci tutti i miracoli."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "en-US": "Covenant: Way of White",
+                    "fr-FR": "Serment : Voie immaculée",
+                    "de-DE": "Eid: Der Weiße Pfad",
+                    "es-ES": "Pacto: Blanca Vía",
+                    "it-IT": "Patto: Via Bianca"
+                },
+                "description": {
+                    "en-US": "Discover Way of White covenant.",
+                    "fr-FR": "Trouver le serment de la Voie immaculée.",
+                    "de-DE": "Entdecke den Eid \"Der Weiße Pfad\".",
+                    "es-ES": "Descubre el pacto Blanca Vía.",
+                    "it-IT": "Scopri il Patto della Via Bianca."
+                },
+                "howto": {
+                    "en-US": "Discover Way of White covenant.",
+                    "fr-FR": "Trouver le serment de la Voie immaculée.",
+                    "de-DE": "Entdecke den Eid \"Der Weiße Pfad\".",
+                    "es-ES": "Descubre el pacto Blanca Vía.",
+                    "it-IT": "Scopri il Patto della Via Bianca."
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "15",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "en-US": "Covenant: Princess's Guard",
+                    "fr-FR": "Serment : Garde de la Princesse",
+                    "de-DE": "Eid: Wache der Prinzessin",
+                    "es-ES": "Pacto: Guardia de la princesa",
+                    "it-IT": "Patto: Guardia della Principessa"
+                },
+                "description": {
+                    "en-US": "Discover Princess's Guard covenant.",
+                    "fr-FR": "Trouver le serment du Garde de la Princesse.",
+                    "de-DE": "Entdecke den Eid \"Wache der Prinzessin\".",
+                    "es-ES": "Descubre el pacto Guardia de la princesa.",
+                    "it-IT": "Scopri il Patto della Guardia della Principessa."
+                },
+                "howto": {
+                    "en-US": "Discover Princess's Guard covenant.",
+                    "fr-FR": "Trouver le serment du Garde de la Princesse.",
+                    "de-DE": "Entdecke den Eid \"Wache der Prinzessin\".",
+                    "es-ES": "Descubre el pacto Guardia de la princesa.",
+                    "it-IT": "Scopri il Patto della Guardia della Principessa."
+                }
+            },
+            "isSecret": "false",
+            "type": "Unlock",
+            "credits": "25",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "en-US": "Covenant: Blade of the Darkmoon",
+                    "fr-FR": "Serment : Lame de la Lune noire",
+                    "de-DE": "Eid: Klinge des Finstermonds",
+                    "es-ES": "Pacto: Espada de la Luna Oscura",
+                    "it-IT": "Patto: Lama della Luna Oscura"
+                },
+                "description": {
+                    "en-US": "Discover Blade of the Darkmoon covenant.",
+                    "fr-FR": "Trouver le serment de la Lame de la Lune noire.",
+                    "de-DE": "Entdecke den Eid \"Klinge des Finstermonds\".",
+                    "es-ES": "Descubre el pacto Espada de la Luna Oscura.",
+                    "it-IT": "Scopri il Patto della Lama della Luna Oscura."
+                },
+                "howto": {
+                    "en-US": "Discover Blade of the Darkmoon covenant.",
+                    "fr-FR": "Trouver le serment de la Lame de la Lune noire.",
+                    "de-DE": "Entdecke den Eid \"Klinge des Finstermonds\".",
+                    "es-ES": "Descubre el pacto Espada de la Luna Oscura.",
+                    "it-IT": "Scopri il Patto della Lama della Luna Oscura."
+                }
+            },
+            "isSecret": "false",
+            "type": "Unlock",
+            "credits": "25",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "en-US": "Covenant: Warrior of Sunlight",
+                    "fr-FR": "Serment : Guerrier solaire",
+                    "de-DE": "Eid: Krieger des Sonnenlichts",
+                    "es-ES": "Pacto: Guerrero de la Luz Solar",
+                    "it-IT": "Patto: Guerriero del Sole"
+                },
+                "description": {
+                    "en-US": "Discover Warrior of Sunlight covenant.",
+                    "fr-FR": "Trouver le serment du Guerrier solaire.",
+                    "de-DE": "Entdecke den Eid \"Krieger des Sonnenlichts\".",
+                    "es-ES": "Descubre el pacto Guerrero de la Luz Solar.",
+                    "it-IT": "Scopri il Patto del Guerriero del Sole."
+                },
+                "howto": {
+                    "en-US": "Discover Warrior of Sunlight covenant.",
+                    "fr-FR": "Trouver le serment du Guerrier solaire.",
+                    "de-DE": "Entdecke den Eid \"Krieger des Sonnenlichts\".",
+                    "es-ES": "Descubre el pacto Guerrero de la Luz Solar.",
+                    "it-IT": "Scopri il Patto del Guerriero del Sole."
+                }
+            },
+            "isSecret": "false",
+            "type": "Unlock",
+            "credits": "25",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "en-US": "Covenant: Forest Hunter",
+                    "fr-FR": "Serment : Chasseur sylvestre",
+                    "de-DE": "Eid: Waldjäger",
+                    "es-ES": "Pacto: Cazador de los bosques",
+                    "it-IT": "Patto: Cacciatore della Foresta"
+                },
+                "description": {
+                    "en-US": "Discover Forest Hunter covenant.",
+                    "fr-FR": "Trouver le serment du Chasseur sylvestre.",
+                    "de-DE": "Entdecke den Eid \"Waldjäger\".",
+                    "es-ES": "Descubre el pacto Cazador de los bosques.",
+                    "it-IT": "Scopri il Patto del Cacciatore della Foresta."
+                },
+                "howto": {
+                    "en-US": "Discover Forest Hunter covenant.",
+                    "fr-FR": "Trouver le serment du Chasseur sylvestre.",
+                    "de-DE": "Entdecke den Eid \"Waldjäger\".",
+                    "es-ES": "Descubre el pacto Cazador de los bosques.",
+                    "it-IT": "Scopri il Patto del Cacciatore della Foresta."
+                }
+            },
+            "isSecret": "false",
+            "type": "Unlock",
+            "credits": "25",
+            "imageId": "12.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "en-US": "Covenant: Darkwraith",
+                    "fr-FR": "Serment : Spectre sombre",
+                    "de-DE": "Eid: Geist der Finsternis",
+                    "es-ES": "Pacto: Espectro oscuro",
+                    "it-IT": "Patto: Spettro Oscuro"
+                },
+                "description": {
+                    "en-US": "Discover Darkwraith covenant.",
+                    "fr-FR": "Trouver le serment du Spectre sombre.",
+                    "de-DE": "Entdecke den Eid \"Geist der Finsternis\".",
+                    "es-ES": "Descubre el pacto Espectro oscuro.",
+                    "it-IT": "Scopri il Patto dello Spettro Oscuro."
+                },
+                "howto": {
+                    "en-US": "Discover Darkwraith covenant.",
+                    "fr-FR": "Trouver le serment du Spectre sombre.",
+                    "de-DE": "Entdecke den Eid \"Geist der Finsternis\".",
+                    "es-ES": "Descubre el pacto Espectro oscuro.",
+                    "it-IT": "Scopri il Patto dello Spettro Oscuro."
+                }
+            },
+            "isSecret": "false",
+            "type": "Unlock",
+            "credits": "25",
+            "imageId": "13.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "en-US": "Covenant: Path of the Dragon",
+                    "fr-FR": "Serment : Voie du dragon",
+                    "de-DE": "Eid: Pfad des Drachen",
+                    "es-ES": "Pacto: Camino del dragón",
+                    "it-IT": "Patto: Via del Drago"
+                },
+                "description": {
+                    "en-US": "Discover Path of the Dragon covenant.",
+                    "fr-FR": "Trouver le serment de la Voie du dragon.",
+                    "de-DE": "Entdecke den Eid \"Pfad des Drachen\".",
+                    "es-ES": "Descubre el pacto Camino del dragón.",
+                    "it-IT": "Scopri il Patto della Via del Drago."
+                },
+                "howto": {
+                    "en-US": "Discover Path of the Dragon covenant.",
+                    "fr-FR": "Trouver le serment de la Voie du dragon.",
+                    "de-DE": "Entdecke den Eid \"Pfad des Drachen\".",
+                    "es-ES": "Descubre el pacto Camino del dragón.",
+                    "it-IT": "Scopri il Patto della Via del Drago."
+                }
+            },
+            "isSecret": "false",
+            "type": "Unlock",
+            "credits": "25",
+            "imageId": "14.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "en-US": "Covenant: Gravelord Servant",
+                    "fr-FR": "Serment : Serviteur des tombes",
+                    "de-DE": "Eid: Diener des Grabesfürsten",
+                    "es-ES": "Pacto: Siervo del Rey del Cemen.",
+                    "it-IT": "Patto: Servitore del Re Tombale"
+                },
+                "description": {
+                    "en-US": "Discover Gravelord Servant covenant.",
+                    "fr-FR": "Trouver le serment du Serviteur des tombes.",
+                    "de-DE": "Entdecke den Eid \"Diener des Grabesfürsten\"",
+                    "es-ES": "Descubre el pacto Siervo del Rey del Cementerio.",
+                    "it-IT": "Scopri il Patto del Servitore del Re Tombale."
+                },
+                "howto": {
+                    "en-US": "Discover Gravelord Servant covenant.",
+                    "fr-FR": "Trouver le serment du Serviteur des tombes.",
+                    "de-DE": "Entdecke den Eid \"Diener des Grabesfürsten\"",
+                    "es-ES": "Descubre el pacto Siervo del Rey del Cementerio.",
+                    "it-IT": "Scopri il Patto del Servitore del Re Tombale."
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "25",
+            "imageId": "15.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "en-US": "Covenant: Chaos Servant",
+                    "fr-FR": "Serment : Serviteur du Chaos",
+                    "de-DE": "Eid: Diener des Chaos",
+                    "es-ES": "Pacto: Siervo del caos",
+                    "it-IT": "Patto: Servitore del Caos"
+                },
+                "description": {
+                    "en-US": "Discover Chaos Servant covenant.",
+                    "fr-FR": "Trouver le serment du Serviteur du Chaos.",
+                    "de-DE": "Entdecke den Eid \"Diener des Chaos\".",
+                    "es-ES": "Descubre el pacto Siervo del caos.",
+                    "it-IT": "Scopri il Patto del Servitore del Caos."
+                },
+                "howto": {
+                    "en-US": "Discover Chaos Servant covenant.",
+                    "fr-FR": "Trouver le serment du Serviteur du Chaos.",
+                    "de-DE": "Entdecke den Eid \"Diener des Chaos\".",
+                    "es-ES": "Descubre el pacto Siervo del caos.",
+                    "it-IT": "Scopri il Patto del Servitore del Caos."
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "25",
+            "imageId": "16.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "en-US": "Strongest Weapon",
+                    "fr-FR": "Arme ultime",
+                    "de-DE": "Stärkste Waffe",
+                    "es-ES": "Arma más fuerte",
+                    "it-IT": "Arma più forte"
+                },
+                "description": {
+                    "en-US": "Acquire best weapon through standard reinforcement.",
+                    "fr-FR": "Obtenir la meilleure arme par Renfort standard.",
+                    "de-DE": "Erwirb die beste Waffe durch Standard-Verstärkung.",
+                    "es-ES": "Obtén la mejor arma con refuerzo estándar.",
+                    "it-IT": "Acquisisci arma migliore tramite potenz. standard."
+                },
+                "howto": {
+                    "en-US": "Acquire best weapon through standard reinforcement.",
+                    "fr-FR": "Obtenir la meilleure arme par Renfort standard.",
+                    "de-DE": "Erwirb die beste Waffe durch Standard-Verstärkung.",
+                    "es-ES": "Obtén la mejor arma con refuerzo estándar.",
+                    "it-IT": "Acquisisci arma migliore tramite potenz. standard."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "17.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "en-US": "Crystal Weapon",
+                    "fr-FR": "Arme de cristal",
+                    "de-DE": "Kristallwaffe",
+                    "es-ES": "Arma de cristal",
+                    "it-IT": "Arma di cristallo"
+                },
+                "description": {
+                    "en-US": "Acquire best weapon through crystal reinforcement.",
+                    "fr-FR": "Obtenir la meilleure arme par Renfort de cristal.",
+                    "de-DE": "Erwirb die beste Waffe durch Kristall-Verstärkung.",
+                    "es-ES": "Obtén la mejor arma con refuerzo de cristal.",
+                    "it-IT": "Acquisisci arma migliore tramite potenz. cristallo."
+                },
+                "howto": {
+                    "en-US": "Acquire best weapon through crystal reinforcement.",
+                    "fr-FR": "Obtenir la meilleure arme par Renfort de cristal.",
+                    "de-DE": "Erwirb die beste Waffe durch Kristall-Verstärkung.",
+                    "es-ES": "Obtén la mejor arma con refuerzo de cristal.",
+                    "it-IT": "Acquisisci arma migliore tramite potenz. cristallo."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "18.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "en-US": "Lightning Weapon",
+                    "fr-FR": "Arme de foudre",
+                    "de-DE": "Blitzwaffe",
+                    "es-ES": "Arma relámpago",
+                    "it-IT": "Arma del fulmine"
+                },
+                "description": {
+                    "en-US": "Acquire best weapon through lightning reinforcement.",
+                    "fr-FR": "Obtenir la meilleure arme par Renfort de foudre.",
+                    "de-DE": "Erwirb die beste Waffe durch Blitz-Verstärkung.",
+                    "es-ES": "Obtén la mejor arma con refuerzo de relámpago.",
+                    "it-IT": "Acquisisci arma migliore tramite potenz. fulmine."
+                },
+                "howto": {
+                    "en-US": "Acquire best weapon through lightning reinforcement.",
+                    "fr-FR": "Obtenir la meilleure arme par Renfort de foudre.",
+                    "de-DE": "Erwirb die beste Waffe durch Blitz-Verstärkung.",
+                    "es-ES": "Obtén la mejor arma con refuerzo de relámpago.",
+                    "it-IT": "Acquisisci arma migliore tramite potenz. fulmine."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "19.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "en-US": "Raw Weapon",
+                    "fr-FR": "Arme brute",
+                    "de-DE": "Krude Waffe",
+                    "es-ES": "Arma básica",
+                    "it-IT": "Arma grezza"
+                },
+                "description": {
+                    "en-US": "Acquire best weapon through raw reinforcement.",
+                    "fr-FR": "Obtenir la meilleure arme par Renfort brut.",
+                    "de-DE": "Erwirb die beste Waffe durch krude Verstärkung.",
+                    "es-ES": "Obtén la mejor arma con refuerzo básico.",
+                    "it-IT": "Acquisisci arma migliore tramite potenz. grezzi."
+                },
+                "howto": {
+                    "en-US": "Acquire best weapon through raw reinforcement.",
+                    "fr-FR": "Obtenir la meilleure arme par Renfort brut.",
+                    "de-DE": "Erwirb die beste Waffe durch krude Verstärkung.",
+                    "es-ES": "Obtén la mejor arma con refuerzo básico.",
+                    "it-IT": "Acquisisci arma migliore tramite potenz. grezzi."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "20.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "en-US": "Magic Weapon",
+                    "fr-FR": "Arme magique",
+                    "de-DE": "Zauberwaffe",
+                    "es-ES": "Arma mágica",
+                    "it-IT": "Arma magica"
+                },
+                "description": {
+                    "en-US": "Acquire best weapon through magic reinforcement.",
+                    "fr-FR": "Obtenir la meilleure arme par Renfort magique.",
+                    "de-DE": "Erwirb die beste Waffe durch Magie-Verstärkung.",
+                    "es-ES": "Obtén la mejor arma con refuerzo mágico.",
+                    "it-IT": "Acquisisci arma migliore tramite potenz. magici."
+                },
+                "howto": {
+                    "en-US": "Acquire best weapon through magic reinforcement.",
+                    "fr-FR": "Obtenir la meilleure arme par Renfort magique.",
+                    "de-DE": "Erwirb die beste Waffe durch Magie-Verstärkung.",
+                    "es-ES": "Obtén la mejor arma con refuerzo mágico.",
+                    "it-IT": "Acquisisci arma migliore tramite potenz. magici."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "21.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "en-US": "Enchanted Weapon",
+                    "fr-FR": "Arme enchantée",
+                    "de-DE": "Göttliche Waffe",
+                    "es-ES": "Arma encantada",
+                    "it-IT": "Arma incantata"
+                },
+                "description": {
+                    "en-US": "Acquire best weapon through enchanted reinforcement.",
+                    "fr-FR": "Obtenir la meilleure arme par Renfort enchanté.",
+                    "de-DE": "Erwirb die beste Waffe durch Verzauberung.",
+                    "es-ES": "Obtén la mejor arma con refuerzo encantado.",
+                    "it-IT": "Acquisisci arma migliore tramite potenz. incantati."
+                },
+                "howto": {
+                    "en-US": "Acquire best weapon through enchanted reinforcement.",
+                    "fr-FR": "Obtenir la meilleure arme par Renfort enchanté.",
+                    "de-DE": "Erwirb die beste Waffe durch Verzauberung.",
+                    "es-ES": "Obtén la mejor arma con refuerzo encantado.",
+                    "it-IT": "Acquisisci arma migliore tramite potenz. incantati."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "22.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "en-US": "Divine Weapon",
+                    "fr-FR": "Arme divine",
+                    "de-DE": "Okkulte Waffe",
+                    "es-ES": "Arma divina",
+                    "it-IT": "Arma divina"
+                },
+                "description": {
+                    "en-US": "Acquire best weapon through divine reinforcement.",
+                    "fr-FR": "Obtenir la meilleure arme par Renfort divin.",
+                    "de-DE": "Erwirb die beste Waffe durch Segens-Verstärkung.",
+                    "es-ES": "Obtén la mejor arma con refuerzo divino.",
+                    "it-IT": "Acquisisci arma migliore tramite potenz. divini."
+                },
+                "howto": {
+                    "en-US": "Acquire best weapon through divine reinforcement.",
+                    "fr-FR": "Obtenir la meilleure arme par Renfort divin.",
+                    "de-DE": "Erwirb die beste Waffe durch Segens-Verstärkung.",
+                    "es-ES": "Obtén la mejor arma con refuerzo divino.",
+                    "it-IT": "Acquisisci arma migliore tramite potenz. divini."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "23.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "en-US": "Occult Weapon",
+                    "fr-FR": "Arme occulte",
+                    "de-DE": "Finstere Waffe",
+                    "es-ES": "Arma oculta",
+                    "it-IT": "Arma occulta"
+                },
+                "description": {
+                    "en-US": "Acquire best weapon through occult reinforcement.",
+                    "fr-FR": "Obtenir la meilleure arme par Renfort occulte.",
+                    "de-DE": "Erwirb die beste Waffe durch Finstere Verstärkung.",
+                    "es-ES": "Obtén la mejor arma con refuerzo oscuro.",
+                    "it-IT": "Acquisisci arma migliore tramite potenz. occulti."
+                },
+                "howto": {
+                    "en-US": "Acquire best weapon through occult reinforcement.",
+                    "fr-FR": "Obtenir la meilleure arme par Renfort occulte.",
+                    "de-DE": "Erwirb die beste Waffe durch Finstere Verstärkung.",
+                    "es-ES": "Obtén la mejor arma con refuerzo oscuro.",
+                    "it-IT": "Acquisisci arma migliore tramite potenz. occulti."
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "24.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "en-US": "Fire Weapon",
+                    "fr-FR": "Arme de feu",
+                    "de-DE": "Feuerwaffe",
+                    "es-ES": "Arma de fuego",
+                    "it-IT": "Arma del fuoco"
+                },
+                "description": {
+                    "en-US": "Acquire best weapon through fire reinforcement.",
+                    "fr-FR": "Obtenir la meilleure arme par Renfort de flamme.",
+                    "de-DE": "Erwirb die beste Waffe durch Feuer-Verstärkung.",
+                    "es-ES": "Obtén la mejor arma con refuerzo de fuego.",
+                    "it-IT": "Acquisisci arma migliore tramite potenz. fuoco."
+                },
+                "howto": {
+                    "en-US": "Acquire best weapon through fire reinforcement.",
+                    "fr-FR": "Obtenir la meilleure arme par Renfort de flamme.",
+                    "de-DE": "Erwirb die beste Waffe durch Feuer-Verstärkung.",
+                    "es-ES": "Obtén la mejor arma con refuerzo de fuego.",
+                    "it-IT": "Acquisisci arma migliore tramite potenz. fuoco."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "25.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "en-US": "Chaos Weapon",
+                    "fr-FR": "Arme du Chaos",
+                    "de-DE": "Chaoswaffe",
+                    "es-ES": "Arma del caos",
+                    "it-IT": "Arma del caos"
+                },
+                "description": {
+                    "en-US": "Acquire best weapon through chaos reinforcement.",
+                    "fr-FR": "Obtenir la meilleure arme par Renfort du Chaos.",
+                    "de-DE": "Erwirb die beste Waffe durch Chaos-Verstärkung.",
+                    "es-ES": "Obtén la mejor arma con refuerzo de caos.",
+                    "it-IT": "Acquisisci arma migliore tramite potenz. caos."
+                },
+                "howto": {
+                    "en-US": "Acquire best weapon through chaos reinforcement.",
+                    "fr-FR": "Obtenir la meilleure arme par Renfort du Chaos.",
+                    "de-DE": "Erwirb die beste Waffe durch Chaos-Verstärkung.",
+                    "es-ES": "Obtén la mejor arma con refuerzo de caos.",
+                    "it-IT": "Acquisisci arma migliore tramite potenz. caos."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "26.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "en-US": "Enkindle",
+                    "fr-FR": "Embraser",
+                    "de-DE": "Entfachen",
+                    "es-ES": "Incendiar",
+                    "it-IT": "Ardere"
+                },
+                "description": {
+                    "en-US": "Light bonfire flame.",
+                    "fr-FR": "Allumer le Feu.",
+                    "de-DE": "Entzünde ein Leuchtfeuer.",
+                    "es-ES": "Enciende una hoguera.",
+                    "it-IT": "Accendi un falò."
+                },
+                "howto": {
+                    "en-US": "Light bonfire flame.",
+                    "fr-FR": "Allumer le Feu.",
+                    "de-DE": "Entzünde ein Leuchtfeuer.",
+                    "es-ES": "Enciende una hoguera.",
+                    "it-IT": "Accendi un falò."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "27.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "en-US": "Estus Flask",
+                    "fr-FR": "Fiole d'Estus",
+                    "de-DE": "Estus-Flakon",
+                    "es-ES": "Frasco de Estus",
+                    "it-IT": "Fiaschetta Estus"
+                },
+                "description": {
+                    "en-US": "Acquire Estus Flask.",
+                    "fr-FR": "Obtenir la Fiole d'Estus.",
+                    "de-DE": "Beschaffe dir den Estus-Flakon.",
+                    "es-ES": "Consigue un Frasco de Estus.",
+                    "it-IT": "Acquisisci la Fiaschetta Estus."
+                },
+                "howto": {
+                    "en-US": "Acquire Estus Flask.",
+                    "fr-FR": "Obtenir la Fiole d'Estus.",
+                    "de-DE": "Beschaffe dir den Estus-Flakon.",
+                    "es-ES": "Consigue un Frasco de Estus.",
+                    "it-IT": "Acquisisci la Fiaschetta Estus."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "28.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "en-US": "Reach Lordran",
+                    "fr-FR": "Atteindre Lordran",
+                    "de-DE": "Ankunft in Lordran",
+                    "es-ES": "Llega a Lordran",
+                    "it-IT": "Raggiungi Lordran"
+                },
+                "description": {
+                    "en-US": "Arrive in Lordran.",
+                    "fr-FR": "Arriver à Lordran.",
+                    "de-DE": "Erreiche Lordran.",
+                    "es-ES": "Llega a Lordran.",
+                    "it-IT": "Raggiungi Lordran."
+                },
+                "howto": {
+                    "en-US": "Arrive in Lordran.",
+                    "fr-FR": "Arriver à Lordran.",
+                    "de-DE": "Erreiche Lordran.",
+                    "es-ES": "Llega a Lordran.",
+                    "it-IT": "Raggiungi Lordran."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "29.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "en-US": "Ring the Bell (Undead Church)",
+                    "fr-FR": "Cloche (Église des Mort-vivants)",
+                    "de-DE": "Glocke (Kirche der Untoten)",
+                    "es-ES": "Campana (Iglesia no muertos)",
+                    "it-IT": "Campana (Chiesa dei Non Morti)"
+                },
+                "description": {
+                    "en-US": "Ring Bell of Awakening at Undead Church.",
+                    "fr-FR": "Faire sonner la Cloche de l'éveil à l'Église des Mort-vivants.",
+                    "de-DE": "Läute die Glocke der Erweckung in der Kirche der Untoten.",
+                    "es-ES": "Toca la campana del Despertar de la Iglesia de los No Muertos.",
+                    "it-IT": "Suona la Campana del Risveglio nella Chiesa dei Non Morti."
+                },
+                "howto": {
+                    "en-US": "Ring Bell of Awakening at Undead Church.",
+                    "fr-FR": "Faire sonner la Cloche de l'éveil à l'Église des Mort-vivants.",
+                    "de-DE": "Läute die Glocke der Erweckung in der Kirche der Untoten.",
+                    "es-ES": "Toca la campana del Despertar de la Iglesia de los No Muertos.",
+                    "it-IT": "Suona la Campana del Risveglio nella Chiesa dei Non Morti."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "30.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "en-US": "Ring the Bell (Quelaag's Domain)",
+                    "fr-FR": "Cloche (Domaine de Quelaag)",
+                    "de-DE": "Glockenläuten (Quelaags Sphäre)",
+                    "es-ES": "Campana (Dominios de Quelaag)",
+                    "it-IT": "Campana (Dominio di Quelaag)"
+                },
+                "description": {
+                    "en-US": "Ring Bell of Awakening in Quelaag's domain.",
+                    "fr-FR": "Faire sonner la Cloche de l'éveil dans le domaine de Quelaag.",
+                    "de-DE": "Läute die Glocke der Erweckung in Quelaags Sphäre.",
+                    "es-ES": "Toca la campana del Despertar en los Dominios de Quelaag.",
+                    "it-IT": "Suona la Campana del Risveglio nel Dominio di Quelaag."
+                },
+                "howto": {
+                    "en-US": "Ring Bell of Awakening in Quelaag's domain.",
+                    "fr-FR": "Faire sonner la Cloche de l'éveil dans le domaine de Quelaag.",
+                    "de-DE": "Läute die Glocke der Erweckung in Quelaags Sphäre.",
+                    "es-ES": "Toca la campana del Despertar en los Dominios de Quelaag.",
+                    "it-IT": "Suona la Campana del Risveglio nel Dominio di Quelaag."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "31.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "en-US": "Rite of Kindling",
+                    "fr-FR": "Art de l'Embrasement",
+                    "de-DE": "Kunst des Entfachens",
+                    "es-ES": "Rito del Avivado",
+                    "it-IT": "Arte dell'Accensione"
+                },
+                "description": {
+                    "en-US": "Acquire the Rite of Kindling.",
+                    "fr-FR": "Acquérir l'Art de l'Embrasement.",
+                    "de-DE": "Erlerne die Kunst des Entfachens.",
+                    "es-ES": "Consigue el Rito del Avivado.",
+                    "it-IT": "Acquisisci l'Arte dell'Accensione."
+                },
+                "howto": {
+                    "en-US": "Acquire the Rite of Kindling.",
+                    "fr-FR": "Acquérir l'Art de l'Embrasement.",
+                    "de-DE": "Erlerne die Kunst des Entfachens.",
+                    "es-ES": "Consigue el Rito del Avivado.",
+                    "it-IT": "Acquisisci l'Arte dell'Accensione."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "32.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "en-US": "Art of Abysswalking",
+                    "fr-FR": "Art de la Marche-abysses",
+                    "de-DE": "Kunst des Abgrundschreitens",
+                    "es-ES": "Arte de Caminar por el Abismo",
+                    "it-IT": "Arte del Cammino Abissale"
+                },
+                "description": {
+                    "en-US": "Acquire the Art of Abysswalking.",
+                    "fr-FR": "Acquérir l'Art de la Marche-abysses.",
+                    "de-DE": "Erlerne die Kunst des Abgrundschreitens.",
+                    "es-ES": "Consigue el Arte de Caminar por el Abismo",
+                    "it-IT": "Acquisisci l'Arte del Cammino Abissale."
+                },
+                "howto": {
+                    "en-US": "Acquire the Art of Abysswalking.",
+                    "fr-FR": "Acquérir l'Art de la Marche-abysses.",
+                    "de-DE": "Erlerne die Kunst des Abgrundschreitens.",
+                    "es-ES": "Consigue el Arte de Caminar por el Abismo",
+                    "it-IT": "Acquisisci l'Arte del Cammino Abissale."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "33.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "en-US": "Reach Anor Londo",
+                    "fr-FR": "Atteindre Anor Londo",
+                    "de-DE": "Ankunft in Anor Londo",
+                    "es-ES": "Llega a Anor Londo",
+                    "it-IT": "Raggiungi Anor Londo"
+                },
+                "description": {
+                    "en-US": "Arrive in Anor Londo.",
+                    "fr-FR": "Arriver à Anor Londo.",
+                    "de-DE": "Erreiche Anor Londo.",
+                    "es-ES": "Llega a Anor Londo.",
+                    "it-IT": "Raggiungi Anor Londo."
+                },
+                "howto": {
+                    "en-US": "Arrive in Anor Londo.",
+                    "fr-FR": "Arriver à Anor Londo.",
+                    "de-DE": "Erreiche Anor Londo.",
+                    "es-ES": "Llega a Anor Londo.",
+                    "it-IT": "Raggiungi Anor Londo."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "34.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "en-US": "Lordvessel",
+                    "fr-FR": "Calice royal",
+                    "de-DE": "Herrschergefäß",
+                    "es-ES": "Vasija del Señor",
+                    "it-IT": "Ricettacolo dei Lord"
+                },
+                "description": {
+                    "en-US": "Acquire the Lordvessel.",
+                    "fr-FR": "Obtenir le Calice royal.",
+                    "de-DE": "Beschaffe das Herrschergefäß.",
+                    "es-ES": "Consigue la vasija del Señor.",
+                    "it-IT": "Acquisisci il Ricettacolo dei Lord."
+                },
+                "howto": {
+                    "en-US": "Acquire the Lordvessel.",
+                    "fr-FR": "Obtenir le Calice royal.",
+                    "de-DE": "Beschaffe das Herrschergefäß.",
+                    "es-ES": "Consigue la vasija del Señor.",
+                    "it-IT": "Acquisisci il Ricettacolo dei Lord."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "35.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "en-US": "Defeat Gravelord Nito",
+                    "fr-FR": "Vaincre le Seigneur Nito",
+                    "de-DE": "Sieg über Grabesfürst Nito",
+                    "es-ES": "Derrota a Nito",
+                    "it-IT": "Sconfiggi Nito Re Tombale"
+                },
+                "description": {
+                    "en-US": "Defeat the Soul Lord Gravelord Nito.",
+                    "fr-FR": "Vaincre Nito, Seigneur des Âmes et des tombes.",
+                    "de-DE": "Besiege den Seelenfürsten Grabesfürst Nito.",
+                    "es-ES": "Derrota al Señor de Almas Nito, el Rey del Cementerio.",
+                    "it-IT": "Sconfiggi il Lord dell'Anima Nito il Re Tombale."
+                },
+                "howto": {
+                    "en-US": "Defeat the Soul Lord Gravelord Nito.",
+                    "fr-FR": "Vaincre Nito, Seigneur des Âmes et des tombes.",
+                    "de-DE": "Besiege den Seelenfürsten Grabesfürst Nito.",
+                    "es-ES": "Derrota al Señor de Almas Nito, el Rey del Cementerio.",
+                    "it-IT": "Sconfiggi il Lord dell'Anima Nito il Re Tombale."
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "36.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "en-US": "Defeat Bed of Chaos",
+                    "fr-FR": "Vaincre le Foyer du Chaos",
+                    "de-DE": "Sieg über Chaoswesen",
+                    "es-ES": "Derrota a Lecho del Caos",
+                    "it-IT": "Sconfiggi Culla del Caos"
+                },
+                "description": {
+                    "en-US": "Defeat the Soul Lord Bed of Chaos.",
+                    "fr-FR": "Vaincre le Seigneur des Âmes Foyer du chaos.",
+                    "de-DE": "Besiege die Seelenfürstin Chaoswesen von Izalith.",
+                    "es-ES": "Derrota al Señor de Almas Lecho del Caos.",
+                    "it-IT": "Sconfiggi il Lord dell'Anima, Culla del Caos."
+                },
+                "howto": {
+                    "en-US": "Defeat the Soul Lord Bed of Chaos.",
+                    "fr-FR": "Vaincre le Seigneur des Âmes Foyer du chaos.",
+                    "de-DE": "Besiege die Seelenfürstin Chaoswesen von Izalith.",
+                    "es-ES": "Derrota al Señor de Almas Lecho del Caos.",
+                    "it-IT": "Sconfiggi il Lord dell'Anima, Culla del Caos."
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "37.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "en-US": "Defeat the Four Kings",
+                    "fr-FR": "Vaincre les Quatre Rois",
+                    "de-DE": "Sieg über die Vier Könige",
+                    "es-ES": "Derrota a los cuatro Reyes",
+                    "it-IT": "Sconfiggi i Quattro Re"
+                },
+                "description": {
+                    "en-US": "Defeat the Four Kings, inheritors of souls.",
+                    "fr-FR": "Vaincre les Quatre Rois, héritiers d'âmes.",
+                    "de-DE": "Besiege die Vier Könige, die Seelenerben.",
+                    "es-ES": "Derrota a los cuatro Reyes, herederos de almas.",
+                    "it-IT": "Sconfiggi i Quattro Re, eredi delle anime."
+                },
+                "howto": {
+                    "en-US": "Defeat the Four Kings, inheritors of souls.",
+                    "fr-FR": "Vaincre les Quatre Rois, héritiers d'âmes.",
+                    "de-DE": "Besiege die Vier Könige, die Seelenerben.",
+                    "es-ES": "Derrota a los cuatro Reyes, herederos de almas.",
+                    "it-IT": "Sconfiggi i Quattro Re, eredi delle anime."
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "38.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "en-US": "Defeat Seath the Scaleless",
+                    "fr-FR": "Vaincre Seath l'écorché",
+                    "de-DE": "Sieg über den Schuppenlosen",
+                    "es-ES": "Derrota a Seath el Descamado",
+                    "it-IT": "Sconfiggi Seath il Senzascaglie"
+                },
+                "description": {
+                    "en-US": "Defeat Seath the Scaleless, inheritors of souls.",
+                    "fr-FR": "Vaincre Seath l'écorché, héritier d'âmes.",
+                    "de-DE": "Besiege Seath den Schuppenlosen, den Seelenerben.",
+                    "es-ES": "Derrota a Seath el Descamado, heredero de almas.",
+                    "it-IT": "Sconfiggi Seath il Senzascaglie, erede delle anime."
+                },
+                "howto": {
+                    "en-US": "Defeat Seath the Scaleless, inheritors of souls.",
+                    "fr-FR": "Vaincre Seath l'écorché, héritier d'âmes.",
+                    "de-DE": "Besiege Seath den Schuppenlosen, den Seelenerben.",
+                    "es-ES": "Derrota a Seath el Descamado, heredero de almas.",
+                    "it-IT": "Sconfiggi Seath il Senzascaglie, erede delle anime."
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "39.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "en-US": "Defeat the Dark Sun Gwyndolin",
+                    "fr-FR": "Vaincre Gwendolin le Soleil noir",
+                    "de-DE": "Sieg über Finstersonne Wendelin",
+                    "es-ES": "Derrota a Gwyndolin",
+                    "it-IT": "Sconfiggi Gwendolin"
+                },
+                "description": {
+                    "en-US": "Defeat Dark Sun Gwyndolin, the Darkmoon God.",
+                    "fr-FR": "Vaincre le Soleil noir Gwendolin, dieu de la Lune noire.",
+                    "de-DE": "Besiege Finstersonne Wendelin, den Finstermondgott.",
+                    "es-ES": "Derrota a Gwyndolin el Sol Oscuro, el Dios de la Luna Oscura.",
+                    "it-IT": "Sconfiggi Gwendolin il Sole Oscuro, dio della Luna Oscura."
+                },
+                "howto": {
+                    "en-US": "Defeat Dark Sun Gwyndolin, the Darkmoon God.",
+                    "fr-FR": "Vaincre le Soleil noir Gwendolin, dieu de la Lune noire.",
+                    "de-DE": "Besiege Finstersonne Wendelin, den Finstermondgott.",
+                    "es-ES": "Derrota a Gwyndolin el Sol Oscuro, el Dios de la Luna Oscura.",
+                    "it-IT": "Sconfiggi Gwendolin il Sole Oscuro, dio della Luna Oscura."
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "40.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "en-US": "Defeat Crossbreed Priscilla",
+                    "fr-FR": "Vaincre Priscilla la Métissée",
+                    "de-DE": "Sieg über Mischwesen Priscilla",
+                    "es-ES": "Derrota a Priscilla la Mestiza",
+                    "it-IT": "Sconfiggi Priscilla Mezzosangue"
+                },
+                "description": {
+                    "en-US": "Defeat Crossbreed Priscilla, the Lifehunter.",
+                    "fr-FR": "Vaincre Priscilla la Métissée, déesse de la Mort.",
+                    "de-DE": "Besiege das Mischwesen Priscilla, die Todesgöttin.",
+                    "es-ES": "Derrota a Priscilla la Mestiza, la Diosa de la muerte.",
+                    "it-IT": "Sconfiggi Priscilla Mezzosangue, dea della morte."
+                },
+                "howto": {
+                    "en-US": "Defeat Crossbreed Priscilla, the Lifehunter.",
+                    "fr-FR": "Vaincre Priscilla la Métissée, déesse de la Mort.",
+                    "de-DE": "Besiege das Mischwesen Priscilla, die Todesgöttin.",
+                    "es-ES": "Derrota a Priscilla la Mestiza, la Diosa de la muerte.",
+                    "it-IT": "Sconfiggi Priscilla Mezzosangue, dea della morte."
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "41.png"
+        }
+    }
+}

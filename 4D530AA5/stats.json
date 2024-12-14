@@ -1,0 +1,744 @@
+{
+    "properties": {
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000043": {
+            "info": "XP",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x2000002F": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000030": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x20000047": {
+            "info": "Shots",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000046": {
+            "info": "Hits",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000034": {
+            "info": "Matches Played",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000035": {
+            "info": "Wins",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000048": {
+            "info": "Losses",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x20000037": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000044": {
+            "info": "Crowns",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x2000002F": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000030": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x20000047": {
+            "info": "Shots",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000046": {
+            "info": "Hits",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000034": {
+            "info": "Matches Played",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000035": {
+            "info": "Wins",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000048": {
+            "info": "Losses",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x20000037": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000043": {
+            "info": "XP",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x2000003A": {
+            "info": "AmmoRestored",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x2000003B": {
+            "info": "ExplosiveKills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x2000003C": {
+            "info": "DamageInflicted",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x2000002F": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000034": {
+            "info": "Matches Played",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000037": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000043": {
+            "info": "XP",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x2000003F": {
+            "info": "Health Restored",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000040": {
+            "info": "Resurrects Made",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x2000003C": {
+            "info": "DamageInflicted",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x2000002F": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000034": {
+            "info": "Matches Played",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000037": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000043": {
+            "info": "XP",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x2000003D": {
+            "info": "Armor Restored",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x2000003B": {
+            "info": "Explosive Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x2000003C": {
+            "info": "DamageInflicted",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x2000002F": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000034": {
+            "info": "Matches Played",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000037": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000043": {
+            "info": "XP",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x20000041": {
+            "info": "Headshot Kills",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000047": {
+            "info": "Shots",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x20000046": {
+            "info": "Hits",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x2000003C": {
+            "info": "DamageInflicted",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x2000002F": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000034": {
+            "info": "Matches Played",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000037": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000043": {
+            "info": "XP",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x2000002F": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000030": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x20000047": {
+            "info": "Shots",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000046": {
+            "info": "Hits",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000034": {
+            "info": "Matches",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000035": {
+            "info": "Wins",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000048": {
+            "info": "Losses",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x20000037": {
+            "info": "TimePlayed",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002F": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x20000030": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000041": {
+            "info": "Headshot Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x2000003B": {
+            "info": "Explosive Kills",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000045": {
+            "info": "Melee Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000034": {
+            "info": "Matches Played",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000037": {
+            "info": "TimePlayed",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000036": {
+            "info": "Accuracy",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x20000046": {
+            "info": "Hits",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000047": {
+            "info": "Shots",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x20000041": {
+            "info": "Headshot Kills",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x2000003C": {
+            "info": "Damage Inflicted",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000034": {
+            "info": "Matches Played",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000037": {
+            "info": "TimePlayed",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000035": {
+            "info": "Wins",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x20000048": {
+            "info": "Lost",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000034": {
+            "info": "Matches Played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x20000037": {
+            "info": "TimePlayed",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000043": {
+            "info": "XP",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x2000002F": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000030": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x20000035": {
+            "info": "Wins",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000048": {
+            "info": "Losts",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000034": {
+            "info": "Matches Played",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000037": {
+            "info": "TimePlayed",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000043": {
+            "info": "XP",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x2000002F": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000030": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x20000035": {
+            "info": "Wins",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000048": {
+            "info": "Losts",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000034": {
+            "info": "Matches Played",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000037": {
+            "info": "TimePlayed",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000043": {
+            "info": "XP",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x2000002F": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000030": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x20000035": {
+            "info": "Wins",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000048": {
+            "info": "Losts",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000034": {
+            "info": "Matches Played",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000037": {
+            "info": "TimePlayed",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000043": {
+            "info": "XP",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x2000002F": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000030": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x20000035": {
+            "info": "Wins",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000048": {
+            "info": "Losts",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000034": {
+            "info": "Matches Played",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000037": {
+            "info": "TimePlayed",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000043": {
+            "info": "XP",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x2000002F": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000030": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x20000035": {
+            "info": "Wins",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000048": {
+            "info": "Losts",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000034": {
+            "info": "Matches Played",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000037": {
+            "info": "TimePlayed",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10008001": {
+            "info": "RANK_COLUMN",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "GAMERNAME_COLUMN",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000043": {
+            "info": "XP",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x2000002F": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000030": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x20000035": {
+            "info": "Wins",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000048": {
+            "info": "Losts",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000034": {
+            "info": "Matches Played",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000037": {
+            "info": "TimePlayed",
+            "method": "sum",
+            "statId": 6
+        }
+    }
+}

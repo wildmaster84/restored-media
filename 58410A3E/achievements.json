@@ -1,0 +1,388 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Creature Catcher",
+                    "en-US": "Creature Catcher",
+                    "es-ES": "Creature Catcher",
+                    "fr-FR": "Creature Catcher",
+                    "it-IT": "Creature Catcher",
+                    "ja-JP": "Creature Catcher"
+                },
+                "description": {
+                    "de-DE": "Kapitel 2 abgeschlossen",
+                    "en-US": "Completed Chapter 2",
+                    "es-ES": "Has completado el capítulo 2",
+                    "fr-FR": "Chapitre 2 terminé",
+                    "it-IT": "Completato Capitolo 2",
+                    "ja-JP": "Chapter２をクリア"
+                },
+                "howto": {
+                    "de-DE": "Kapitel 2 abgeschlossen",
+                    "en-US": "Completed Chapter 2",
+                    "es-ES": "Has completado el capítulo 2",
+                    "fr-FR": "Chapitre 2 terminé",
+                    "it-IT": "Completato Capitolo 2",
+                    "ja-JP": "Chapter２をクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Trapped in the Tree House!",
+                    "en-US": "Trapped in the Tree House!",
+                    "es-ES": "Trapped in the Tree House!",
+                    "fr-FR": "Trapped in the Tree House!",
+                    "it-IT": "Trapped in the Tree House!",
+                    "ja-JP": "Trapped in the Tree House!"
+                },
+                "description": {
+                    "de-DE": "Kapitel 5 abgeschlossen",
+                    "en-US": "Completed Chapter 5",
+                    "es-ES": "Has completado el capítulo 5",
+                    "fr-FR": "Chapitre 5 terminé",
+                    "it-IT": "Completato Capitolo 5",
+                    "ja-JP": "Chapter５をクリア"
+                },
+                "howto": {
+                    "de-DE": "Kapitel 5 abgeschlossen",
+                    "en-US": "Completed Chapter 5",
+                    "es-ES": "Has completado el capítulo 5",
+                    "fr-FR": "Chapitre 5 terminé",
+                    "it-IT": "Completato Capitolo 5",
+                    "ja-JP": "Chapter５をクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "In to the Greenhouse",
+                    "en-US": "In to the Greenhouse",
+                    "es-ES": "In to the Greenhouse",
+                    "fr-FR": "In to the Greenhouse",
+                    "it-IT": "In to the Greenhouse",
+                    "ja-JP": "In to the Greenhouse"
+                },
+                "description": {
+                    "de-DE": "Kapitel 10 abgeschlossen",
+                    "en-US": "Completed Chapter 10",
+                    "es-ES": "Has completado el capítulo 10",
+                    "fr-FR": "Chapitre 10 terminé",
+                    "it-IT": "Completato Capitolo 10",
+                    "ja-JP": "Chapter１０をクリア"
+                },
+                "howto": {
+                    "de-DE": "Kapitel 10 abgeschlossen",
+                    "en-US": "Completed Chapter 10",
+                    "es-ES": "Has completado el capítulo 10",
+                    "fr-FR": "Chapitre 10 terminé",
+                    "it-IT": "Completato Capitolo 10",
+                    "ja-JP": "Chapter１０をクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Through the Forest",
+                    "en-US": "Through the Forest",
+                    "es-ES": "Through the Forest",
+                    "fr-FR": "Through the Forest",
+                    "it-IT": "Through the Forest",
+                    "ja-JP": "Through the Forest"
+                },
+                "description": {
+                    "de-DE": "Kapitel 15 abgeschlossen",
+                    "en-US": "Completed Chapter 15",
+                    "es-ES": "Has completado el capítulo 15",
+                    "fr-FR": "Chapitre 15 terminé",
+                    "it-IT": "Completato Capitolo 15",
+                    "ja-JP": "Chapter１５をクリア"
+                },
+                "howto": {
+                    "de-DE": "Kapitel 15 abgeschlossen",
+                    "en-US": "Completed Chapter 15",
+                    "es-ES": "Has completado el capítulo 15",
+                    "fr-FR": "Chapitre 15 terminé",
+                    "it-IT": "Completato Capitolo 15",
+                    "ja-JP": "Chapter１５をクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "End of the Dream",
+                    "en-US": "End of the Dream",
+                    "es-ES": "End of the Dream",
+                    "fr-FR": "End of the Dream",
+                    "it-IT": "End of the Dream",
+                    "ja-JP": "End of the Dream"
+                },
+                "description": {
+                    "de-DE": "Dream Chronicles™ abgeschlossen. (Einzelspieler-Spiel)",
+                    "en-US": "Completed Dream Chronicles™. (Single Player Game)",
+                    "es-ES": "Has completado Dream Chronicles™. (Partida de un jugador)",
+                    "fr-FR": "Dream Chronicles™ terminé. (Solo)",
+                    "it-IT": "Completato Dream Chronicles™. (Partita giocatore singolo)",
+                    "ja-JP": "シングルプレイでDream Chronicles™をクリア"
+                },
+                "howto": {
+                    "de-DE": "Dream Chronicles™ abgeschlossen. (Einzelspieler-Spiel)",
+                    "en-US": "Completed Dream Chronicles™. (Single Player Game)",
+                    "es-ES": "Has completado Dream Chronicles™. (Partida de un jugador)",
+                    "fr-FR": "Dream Chronicles™ terminé. (Solo)",
+                    "it-IT": "Completato Dream Chronicles™. (Partita giocatore singolo)",
+                    "ja-JP": "シングルプレイでDream Chronicles™をクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Faye and Fidget",
+                    "en-US": "Faye and Fidget",
+                    "es-ES": "Faye and Fidget",
+                    "fr-FR": "Faye and Fidget",
+                    "it-IT": "Faye and Fidget",
+                    "ja-JP": "Faye and Fidget"
+                },
+                "description": {
+                    "de-DE": "Spiel im Co-op-Modus abgeschlossen",
+                    "en-US": "Completed the game in Co-op Mode",
+                    "es-ES": "Has completado el juego en modo cooperativo",
+                    "fr-FR": "Jeu en mode coopération terminé",
+                    "it-IT": "Completato il gioco in modalità Cooperativa",
+                    "ja-JP": "マルチプレイでゲームをクリア"
+                },
+                "howto": {
+                    "de-DE": "Spiel im Co-op-Modus abgeschlossen",
+                    "en-US": "Completed the game in Co-op Mode",
+                    "es-ES": "Has completado el juego en modo cooperativo",
+                    "fr-FR": "Jeu en mode coopération terminé",
+                    "it-IT": "Completato il gioco in modalità Cooperativa",
+                    "ja-JP": "マルチプレイでゲームをクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Jewel Apprentice",
+                    "en-US": "Jewel Apprentice",
+                    "es-ES": "Jewel Apprentice",
+                    "fr-FR": "Jewel Apprentice",
+                    "it-IT": "Jewel Apprentice",
+                    "ja-JP": "Jewel Apprentice"
+                },
+                "description": {
+                    "de-DE": "6 Traumjuwelen abgeschlossen",
+                    "en-US": "Completed 6 Dream Jewels",
+                    "es-ES": "Has completado 6 Joyas de los sueños",
+                    "fr-FR": "6 joyaux des rêves terminés",
+                    "it-IT": "Completati 6 Gioielli onirici",
+                    "ja-JP": "６個以上のドリームジュエルが完成"
+                },
+                "howto": {
+                    "de-DE": "6 Traumjuwelen abgeschlossen",
+                    "en-US": "Completed 6 Dream Jewels",
+                    "es-ES": "Has completado 6 Joyas de los sueños",
+                    "fr-FR": "6 joyaux des rêves terminés",
+                    "it-IT": "Completati 6 Gioielli onirici",
+                    "ja-JP": "６個以上のドリームジュエルが完成"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Jewel Master",
+                    "en-US": "Jewel Master",
+                    "es-ES": "Jewel Master",
+                    "fr-FR": "Jewel Master",
+                    "it-IT": "Jewel Master",
+                    "ja-JP": "Jewel Master"
+                },
+                "description": {
+                    "de-DE": "Alle Traumjuwelen abgeschlossen",
+                    "en-US": "Completed all Dream Jewels",
+                    "es-ES": "Has completado todas las Joyas de los sueños",
+                    "fr-FR": "Tous les joyaux des rêves terminés",
+                    "it-IT": "Completati tutti i Gioielli onirici",
+                    "ja-JP": "すべてのドリームジュエルが完成"
+                },
+                "howto": {
+                    "de-DE": "Alle Traumjuwelen abgeschlossen",
+                    "en-US": "Completed all Dream Jewels",
+                    "es-ES": "Has completado todas las Joyas de los sueños",
+                    "fr-FR": "Tous les joyaux des rêves terminés",
+                    "it-IT": "Completati tutti i Gioielli onirici",
+                    "ja-JP": "すべてのドリームジュエルが完成"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Dream Guide",
+                    "en-US": "Dream Guide",
+                    "es-ES": "Dream Guide",
+                    "fr-FR": "Dream Guide",
+                    "it-IT": "Dream Guide",
+                    "ja-JP": "Dream Guide"
+                },
+                "description": {
+                    "de-DE": "Spiel innerhalb von 30 Minuten abgeschlossen",
+                    "en-US": "Completed the game within 30 minutes",
+                    "es-ES": "Has completado el juego en 30 minutos",
+                    "fr-FR": "Jeu terminé en 30 minutes",
+                    "it-IT": "Completato il gioco in meno di 30 minuti",
+                    "ja-JP": "３０分以内にゲームをクリア"
+                },
+                "howto": {
+                    "de-DE": "Spiel innerhalb von 30 Minuten abgeschlossen",
+                    "en-US": "Completed the game within 30 minutes",
+                    "es-ES": "Has completado el juego en 30 minutos",
+                    "fr-FR": "Jeu terminé en 30 minutes",
+                    "it-IT": "Completato il gioco in meno di 30 minuti",
+                    "ja-JP": "３０分以内にゲームをクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "I Spy",
+                    "en-US": "I Spy",
+                    "es-ES": "I Spy",
+                    "fr-FR": "I Spy",
+                    "it-IT": "I Spy",
+                    "ja-JP": "I Spy"
+                },
+                "description": {
+                    "de-DE": "Mindestens 800.000 Punkte erzielt",
+                    "en-US": "Scored 800,000 points or better",
+                    "es-ES": "Puntuación de 800.000 puntos o superior",
+                    "fr-FR": "Score supérieur ou égal à 800 000 points",
+                    "it-IT": "Totalizzati 800.000 o più punti",
+                    "ja-JP": "８０万点以上ゲット"
+                },
+                "howto": {
+                    "de-DE": "Mindestens 800.000 Punkte erzielt",
+                    "en-US": "Scored 800,000 points or better",
+                    "es-ES": "Puntuación de 800.000 puntos o superior",
+                    "fr-FR": "Score supérieur ou égal à 800 000 points",
+                    "it-IT": "Totalizzati 800.000 o più punti",
+                    "ja-JP": "８０万点以上ゲット"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Dexterous Dreamer",
+                    "en-US": "Dexterous Dreamer",
+                    "es-ES": "Dexterous Dreamer",
+                    "fr-FR": "Dexterous Dreamer",
+                    "it-IT": "Dexterous Dreamer",
+                    "ja-JP": "Dexterous Dreamer"
+                },
+                "description": {
+                    "de-DE": "Spiel innerhalb von 25 Minuten abgeschlossen",
+                    "en-US": "Completed the game within 25 minutes",
+                    "es-ES": "Has completado el juego en 25 minutos",
+                    "fr-FR": "Jeu terminé en 25 minutes",
+                    "it-IT": "Completato il gioco in meno di 25 minuti",
+                    "ja-JP": "２５分以内にゲームをクリア"
+                },
+                "howto": {
+                    "de-DE": "Spiel innerhalb von 25 Minuten abgeschlossen",
+                    "en-US": "Completed the game within 25 minutes",
+                    "es-ES": "Has completado el juego en 25 minutos",
+                    "fr-FR": "Jeu terminé en 25 minutes",
+                    "it-IT": "Completato il gioco in meno di 25 minuti",
+                    "ja-JP": "２５分以内にゲームをクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Eagle Eye",
+                    "en-US": "Eagle Eye",
+                    "es-ES": "Eagle Eye",
+                    "fr-FR": "Eagle Eye",
+                    "it-IT": "Eagle Eye",
+                    "ja-JP": "Eagle Eye"
+                },
+                "description": {
+                    "de-DE": "Mindestens 1.200.000 Punkte erzielt",
+                    "en-US": "Scored 1,200,000 points or better",
+                    "es-ES": "Puntuación de 1.200.000 puntos o superior",
+                    "fr-FR": "Score supérieur ou égal à 1 200 000 points",
+                    "it-IT": "Totalizzati 1.200.000 o più punti",
+                    "ja-JP": "１２０万点以上ゲット"
+                },
+                "howto": {
+                    "de-DE": "Mindestens 1.200.000 Punkte erzielt",
+                    "en-US": "Scored 1,200,000 points or better",
+                    "es-ES": "Puntuación de 1.200.000 puntos o superior",
+                    "fr-FR": "Score supérieur ou égal à 1 200 000 points",
+                    "it-IT": "Totalizzati 1.200.000 o più punti",
+                    "ja-JP": "１２０万点以上ゲット"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "12.png"
+        }
+    }
+}

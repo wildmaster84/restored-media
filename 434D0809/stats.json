@@ -1,0 +1,104 @@
+{
+    "properties": {
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000000D": {
+            "info": "Gold",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x2000000D": {
+            "info": "TotalGold",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000F": {
+            "info": "MatchesPlayed",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000011": {
+            "info": "Gold",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x20000011": {
+            "info": "TotalGold",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000012": {
+            "info": "MatchesPlayed",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000013": {
+            "info": "Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x20000016": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "MatchesPlayed",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x20000017": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000019": {
+            "info": "MatchesPlayed",
+            "method": "sum",
+            "statId": 2
+        }
+    }
+}

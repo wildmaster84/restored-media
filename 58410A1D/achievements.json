@@ -1,0 +1,388 @@
+{
+    "Achievements": {
+        "102": {
+            "text": {
+                "name": {
+                    "en-US": "Champion",
+                    "de-DE": "Champion",
+                    "es-ES": "Campeón",
+                    "it-IT": "Campione",
+                    "fr-FR": "Champion",
+                    "ja-JP": "チャンピオン"
+                },
+                "description": {
+                    "en-US": "Beat 1 Final Round",
+                    "de-DE": "Eine Finalrunde gewinnen",
+                    "es-ES": "Supera 1 ronda final",
+                    "it-IT": "Supera una prova finale",
+                    "fr-FR": "Gagnez 1 Finale.",
+                    "ja-JP": "ファイナルラウンドを1つクリア"
+                },
+                "howto": {
+                    "en-US": "Beat 1 Final Round",
+                    "de-DE": "Eine Finalrunde gewinnen",
+                    "es-ES": "Supera 1 ronda final",
+                    "it-IT": "Supera una prova finale",
+                    "fr-FR": "Gagnez 1 Finale.",
+                    "ja-JP": "ファイナルラウンドを1つクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "101": {
+            "text": {
+                "name": {
+                    "en-US": "Super dry",
+                    "de-DE": "Supertrocken",
+                    "es-ES": "Seco, seco",
+                    "it-IT": "Fenomeno",
+                    "fr-FR": "Super sec",
+                    "ja-JP": "スーパードライ"
+                },
+                "description": {
+                    "en-US": "Beat 10 Final Rounds",
+                    "de-DE": "10 Finalrunden gewinnen",
+                    "es-ES": "Supera 10 rondas finales",
+                    "it-IT": "Supera dieci prove finali",
+                    "fr-FR": "Gagnez 10 Finales.",
+                    "ja-JP": "ファイナルラウンドを10クリア"
+                },
+                "howto": {
+                    "en-US": "Beat 10 Final Rounds",
+                    "de-DE": "10 Finalrunden gewinnen",
+                    "es-ES": "Supera 10 rondas finales",
+                    "it-IT": "Supera dieci prove finali",
+                    "fr-FR": "Gagnez 10 Finales.",
+                    "ja-JP": "ファイナルラウンドを10クリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "02.png"
+        },
+        "206": {
+            "text": {
+                "name": {
+                    "en-US": "Give me five",
+                    "de-DE": "Gib mir fünf",
+                    "es-ES": "Choca esos cinco",
+                    "it-IT": "Batti il cinque",
+                    "fr-FR": "Tape-m'en cinq",
+                    "ja-JP": "ギブ・ミー・ファイブ"
+                },
+                "description": {
+                    "en-US": "Pass 5 walls in Quick Survival mode",
+                    "de-DE": "5 Wände im Überlebensmodus passieren",
+                    "es-ES": "Supera 5 muros en el modo Supervivencia",
+                    "it-IT": "Supera cinque muri in modalità Sopravvivenza veloce",
+                    "fr-FR": "Réussissez 5 murs en mode Survie.",
+                    "ja-JP": "クイックサバイバルモードでカベを5つ通りぬける"
+                },
+                "howto": {
+                    "en-US": "Pass 5 walls in Quick Survival mode",
+                    "de-DE": "5 Wände im Überlebensmodus passieren",
+                    "es-ES": "Supera 5 muros en el modo Supervivencia",
+                    "it-IT": "Supera cinque muri in modalità Sopravvivenza veloce",
+                    "fr-FR": "Réussissez 5 murs en mode Survie.",
+                    "ja-JP": "クイックサバイバルモードでカベを5つ通りぬける"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "03.png"
+        },
+        "202": {
+            "text": {
+                "name": {
+                    "en-US": "All in the whole",
+                    "de-DE": "Alle viere",
+                    "es-ES": "La unión hace la fuerza",
+                    "it-IT": "Tutti dentro",
+                    "fr-FR": "Tous dans le mur",
+                    "ja-JP": "オール・イン・ザ・ホール"
+                },
+                "description": {
+                    "en-US": "Play a 4-player game",
+                    "de-DE": "Mit 4 Spielern spielen",
+                    "es-ES": "Juega a una partida de 4 jugadores",
+                    "it-IT": "Gioca una partita a quattro",
+                    "fr-FR": "Faites une partie à 4.",
+                    "ja-JP": "4プレイヤーゲームをプレイ"
+                },
+                "howto": {
+                    "en-US": "Play a 4-player game",
+                    "de-DE": "Mit 4 Spielern spielen",
+                    "es-ES": "Juega a una partida de 4 jugadores",
+                    "it-IT": "Gioca una partita a quattro",
+                    "fr-FR": "Faites une partie à 4.",
+                    "ja-JP": "4プレイヤーゲームをプレイ"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "201": {
+            "text": {
+                "name": {
+                    "en-US": "Teamwork",
+                    "de-DE": "Teamwork",
+                    "es-ES": "Trabajo en equipo",
+                    "it-IT": "Lavoro di squadra",
+                    "fr-FR": "Travail d'équipe",
+                    "ja-JP": "チームワーク"
+                },
+                "description": {
+                    "en-US": "Win 1 show with a teammate",
+                    "de-DE": "Eine Show mit einem Teamkameraden gewinnen",
+                    "es-ES": "Vence en un programa con un compañero",
+                    "it-IT": "Aggiudicati uno show con un compagno di squadra",
+                    "fr-FR": "Gagnez un spectacle à 2.",
+                    "ja-JP": "チームメイトと一緒に1つのショーで勝利"
+                },
+                "howto": {
+                    "en-US": "Win 1 show with a teammate",
+                    "de-DE": "Eine Show mit einem Teamkameraden gewinnen",
+                    "es-ES": "Vence en un programa con un compañero",
+                    "it-IT": "Aggiudicati uno show con un compagno di squadra",
+                    "fr-FR": "Gagnez un spectacle à 2.",
+                    "ja-JP": "チームメイトと一緒に1つのショーで勝利"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "208": {
+            "text": {
+                "name": {
+                    "en-US": "Working team",
+                    "de-DE": "Eingespieltes Team",
+                    "es-ES": "Equipo de trabajo",
+                    "it-IT": "Squadra vincente",
+                    "fr-FR": "L'union fait la force",
+                    "ja-JP": "ワーキング・チーム"
+                },
+                "description": {
+                    "en-US": "Win every show with a teammate",
+                    "de-DE": "Jede Show mit einem Teamkameraden gewinnen",
+                    "es-ES": "Gana todos los programas con un compañero",
+                    "it-IT": "Aggiudicati ogni show con un compagno di squadra",
+                    "fr-FR": "Gagnez tous les spectacles à 2.",
+                    "ja-JP": "チームメイトと一緒にすべてのショーで勝利"
+                },
+                "howto": {
+                    "en-US": "Win every show with a teammate",
+                    "de-DE": "Jede Show mit einem Teamkameraden gewinnen",
+                    "es-ES": "Gana todos los programas con un compañero",
+                    "it-IT": "Aggiudicati ogni show con un compagno di squadra",
+                    "fr-FR": "Gagnez tous les spectacles à 2.",
+                    "ja-JP": "チームメイトと一緒にすべてのショーで勝利"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "06.png"
+        },
+        "200": {
+            "text": {
+                "name": {
+                    "en-US": "Perfectionist",
+                    "de-DE": "Perfektionist",
+                    "es-ES": "Perfeccionista",
+                    "it-IT": "Perfezionista",
+                    "fr-FR": "Perfectionniste",
+                    "ja-JP": "完璧主義者"
+                },
+                "description": {
+                    "en-US": "Finish a Final Round with no strikes",
+                    "de-DE": "Eine Finalrunde ohne Strafpunkt gewinnen",
+                    "es-ES": "Termina una ronda final sin recibir penalizaciones",
+                    "it-IT": "Concludi una prova finale senza penalità",
+                    "fr-FR": "Terminez une Finale sans faire de fautes.",
+                    "ja-JP": "ファイナルラウンドをぶつかることなく終了"
+                },
+                "howto": {
+                    "en-US": "Finish a Final Round with no strikes",
+                    "de-DE": "Eine Finalrunde ohne Strafpunkt gewinnen",
+                    "es-ES": "Termina una ronda final sin recibir penalizaciones",
+                    "it-IT": "Concludi una prova finale senza penalità",
+                    "fr-FR": "Terminez une Finale sans faire de fautes.",
+                    "ja-JP": "ファイナルラウンドをぶつかることなく終了"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "07.png"
+        },
+        "203": {
+            "text": {
+                "name": {
+                    "en-US": "Contortionist",
+                    "de-DE": "Schlangenmensch",
+                    "es-ES": "Contorsionista",
+                    "it-IT": "Contorsionista",
+                    "fr-FR": "Contorsionniste",
+                    "ja-JP": "曲芸師"
+                },
+                "description": {
+                    "en-US": "Successfully pass all walls in the game at least once.",
+                    "de-DE": "Jede Wand im Spiel einmal erfolgreich passiert",
+                    "es-ES": "Supera todos los muros del juego al menos una vez",
+                    "it-IT": "Supera ciascun muro del gioco almeno una volta",
+                    "fr-FR": "Passez avec succès chaque mur du jeu au moins une fois.",
+                    "ja-JP": "少なくとも一度、ゲーム中のすべてのカベを通り抜ける。"
+                },
+                "howto": {
+                    "en-US": "Successfully pass all walls in the game at least once.",
+                    "de-DE": "Jede Wand im Spiel einmal erfolgreich passiert",
+                    "es-ES": "Supera todos los muros del juego al menos una vez",
+                    "it-IT": "Supera ciascun muro del gioco almeno una volta",
+                    "fr-FR": "Passez avec succès chaque mur du jeu au moins une fois.",
+                    "ja-JP": "少なくとも一度、ゲーム中のすべてのカベを通り抜ける。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "08.png"
+        },
+        "204": {
+            "text": {
+                "name": {
+                    "en-US": "Want a rubber ring?",
+                    "de-DE": "Rettungsring gefällig?",
+                    "es-ES": "¿Necesitas un flotador?",
+                    "it-IT": "Serve un salvagente?",
+                    "fr-FR": "Besoin d'une bouée ?",
+                    "ja-JP": "ラバーリング、ほしい？"
+                },
+                "description": {
+                    "en-US": "Win 10 shows against a human team",
+                    "de-DE": "10 Shows gegen menschliche Teams gewinnen",
+                    "es-ES": "Gana 10 programas contra equipos humanos",
+                    "it-IT": "Supera 10 show contro squadre di giocatori veri",
+                    "fr-FR": "Gagnez 10 spectacles face à des équipes humaines.",
+                    "ja-JP": "プレイヤーチームに対して10ショーで勝利"
+                },
+                "howto": {
+                    "en-US": "Win 10 shows against a human team",
+                    "de-DE": "10 Shows gegen menschliche Teams gewinnen",
+                    "es-ES": "Gana 10 programas contra equipos humanos",
+                    "it-IT": "Supera 10 show contro squadre di giocatori veri",
+                    "fr-FR": "Gagnez 10 spectacles face à des équipes humaines.",
+                    "ja-JP": "プレイヤーチームに対して10ショーで勝利"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "09.png"
+        },
+        "205": {
+            "text": {
+                "name": {
+                    "en-US": "I will survive",
+                    "de-DE": "Überlebenswille",
+                    "es-ES": "Sobreviviré",
+                    "it-IT": "Sopravvivente",
+                    "fr-FR": "Je survivrai",
+                    "ja-JP": "アイ・ウィル・サバイブ"
+                },
+                "description": {
+                    "en-US": "Get ranked in online Leaderboards with a Quick Survival score",
+                    "de-DE": "Im Überlebensmodus einen Platz auf einer Bestenliste online erreichen",
+                    "es-ES": "Consigue clasificarte en los marcadores online con puntuación del modo Supervivencia",
+                    "it-IT": " Piazzati nelle classifiche on-line con i punti ottenuti in Sopravvivenza veloce ",
+                    "fr-FR": "Apparaissez dans les classements en ligne avec un score en mode Survie.",
+                    "ja-JP": "クイックサバイバルスコアでオンラインランキングにランクインする"
+                },
+                "howto": {
+                    "en-US": "Get ranked in online Leaderboards with a Quick Survival score",
+                    "de-DE": "Im Überlebensmodus einen Platz auf einer Bestenliste online erreichen",
+                    "es-ES": "Consigue clasificarte en los marcadores online con puntuación del modo Supervivencia",
+                    "it-IT": " Piazzati nelle classifiche on-line con i punti ottenuti in Sopravvivenza veloce ",
+                    "fr-FR": "Apparaissez dans les classements en ligne avec un score en mode Survie.",
+                    "ja-JP": "クイックサバイバルスコアでオンラインランキングにランクインする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "10.png"
+        },
+        "100": {
+            "text": {
+                "name": {
+                    "en-US": "Halfway",
+                    "de-DE": "Halbzeit",
+                    "es-ES": "A mitad de camino",
+                    "it-IT": "Metà strada",
+                    "fr-FR": "À mi-chemin",
+                    "ja-JP": "ハーフウェイ"
+                },
+                "description": {
+                    "en-US": "Beat 5 Final Rounds",
+                    "de-DE": "5 Finalrunden gewinnen ",
+                    "es-ES": "Supera 5 rondas finales",
+                    "it-IT": "Supera cinque prove finali",
+                    "fr-FR": "Réussissez 5 Finales.",
+                    "ja-JP": "ファイナルラウンドを5つクリア"
+                },
+                "howto": {
+                    "en-US": "Beat 5 Final Rounds",
+                    "de-DE": "5 Finalrunden gewinnen ",
+                    "es-ES": "Supera 5 rondas finales",
+                    "it-IT": "Supera cinque prove finali",
+                    "fr-FR": "Réussissez 5 Finales.",
+                    "ja-JP": "ファイナルラウンドを5つクリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "11.png"
+        },
+        "207": {
+            "text": {
+                "name": {
+                    "en-US": "Shining collection",
+                    "de-DE": "Gesammelte Erfolge",
+                    "es-ES": "Colección de trofeos",
+                    "it-IT": "Splendida collezione",
+                    "fr-FR": "Collection étincelante",
+                    "ja-JP": "シャイニング・コレクション"
+                },
+                "description": {
+                    "en-US": "Obtain all other achievements",
+                    "de-DE": "Alle anderen Erfolge gewinnen",
+                    "es-ES": "Obtén todos los demás logros",
+                    "it-IT": "Ottieni tutti gli altri obiettivi",
+                    "fr-FR": "Obtenez tous les succès.",
+                    "ja-JP": "あらゆる実績を獲得"
+                },
+                "howto": {
+                    "en-US": "Obtain all other achievements",
+                    "de-DE": "Alle anderen Erfolge gewinnen",
+                    "es-ES": "Obtén todos los demás logros",
+                    "it-IT": "Ottieni tutti gli altri obiettivi",
+                    "fr-FR": "Obtenez tous les succès.",
+                    "ja-JP": "あらゆる実績を獲得"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "12.png"
+        }
+    }
+}

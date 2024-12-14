@@ -1,0 +1,1234 @@
+{
+    "Achievements": {
+        "6": {
+            "text": {
+                "name": {
+                    "en-US": "Check out my Warface",
+                    "de-DE": "Das ist mein Warface",
+                    "es-ES": "Mira mi Warface",
+                    "fr-FR": "Voir mon Warface",
+                    "it-IT": "Faccia di guerra",
+                    "ja-JP": "WARFACE をチェックせよ",
+                    "pl-PL": "Sprawdź mój Warface",
+                    "pt-PT": "Confira minha Warface",
+                    "ru-RU": "А у меня Warface"
+                },
+                "description": {
+                    "en-US": "Create a character",
+                    "de-DE": "Erstelle einen Charakter",
+                    "es-ES": "Crea un personaje.",
+                    "fr-FR": "Créez un personnage.",
+                    "it-IT": "Crea un personaggio",
+                    "ja-JP": "キャラクターを作成した",
+                    "pl-PL": "Stwórz postać",
+                    "pt-PT": "Crie um personagem",
+                    "ru-RU": "Создайте персонаж"
+                },
+                "howto": {
+                    "en-US": "Create a character",
+                    "de-DE": "Erstelle einen Charakter",
+                    "es-ES": "Crea un personaje.",
+                    "fr-FR": "Créer un personnage.",
+                    "it-IT": "Crea un personaggio",
+                    "ja-JP": "キャラクターを作成する",
+                    "pl-PL": "Stwórz postać",
+                    "pt-PT": "Crie um personagem",
+                    "ru-RU": "Создайте персонаж"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "01.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "en-US": "Boot Camp",
+                    "de-DE": "Bootcamp",
+                    "es-ES": "Campo de entrenamiento",
+                    "fr-FR": "Camp d'entraînement",
+                    "it-IT": "Campo d'addestramento",
+                    "ja-JP": "ブート キャンプ",
+                    "pl-PL": "Obóz szkoleniowy",
+                    "pt-PT": "Campo de Treinamento",
+                    "ru-RU": "Тренировочный лагерь"
+                },
+                "description": {
+                    "en-US": "Complete the Basic Training",
+                    "de-DE": "Schließe das Basis-Tutorial ab",
+                    "es-ES": "Termina el tutorial básico.",
+                    "fr-FR": "Terminez la formation de base.",
+                    "it-IT": "Completa il tutorial di base",
+                    "ja-JP": "基本訓練を完了した",
+                    "pl-PL": "Ukończ podstawowy instruktaż",
+                    "pt-PT": "Conclua o Tutorial Básico",
+                    "ru-RU": "Завершите начальную подготовку"
+                },
+                "howto": {
+                    "en-US": "Complete the Basic Training",
+                    "de-DE": "Schließe das Basis-Tutorial ab",
+                    "es-ES": "Termina el tutorial básico.",
+                    "fr-FR": "Terminer la formation de base.",
+                    "it-IT": "Completa il tutorial di base",
+                    "ja-JP": "基本訓練を完了する",
+                    "pl-PL": "Ukończ podstawowy instruktaż",
+                    "pt-PT": "Conclua o Tutorial Básico",
+                    "ru-RU": "Завершите начальную подготовку"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "en-US": "Toe in the Water",
+                    "de-DE": "Zeh im Wasser",
+                    "es-ES": "Tantear las aguas",
+                    "fr-FR": "Un pied dans l'eau",
+                    "it-IT": "Primi passi",
+                    "ja-JP": "慎重なスタート",
+                    "pl-PL": "Rozgrywka próbna",
+                    "pt-PT": "Um Pé na Água",
+                    "ru-RU": "Пробный шар"
+                },
+                "description": {
+                    "en-US": "Finish one match of any Versus mode",
+                    "de-DE": "Beende ein Match in einem beliebigen Versus-Modus",
+                    "es-ES": "Termina una partida en cualquier modo Competitivo.",
+                    "fr-FR": "Terminez un match dans un mode de jeu Conflit.",
+                    "it-IT": "Completa una partita in qualsiasi modalità Versus",
+                    "ja-JP": "対戦の任意のモードで 1 マッチを終えた",
+                    "pl-PL": "Zakończ jedną grę w trybie „Wojna”",
+                    "pt-PT": "Termine uma partida de qualquer modo de jogo Versus",
+                    "ru-RU": "Завершите один матч в любом режиме Конфликта"
+                },
+                "howto": {
+                    "en-US": "Finish one match of any Versus mode",
+                    "de-DE": "Beende ein Match in einem beliebigen Versus-Modus",
+                    "es-ES": "Termina una partida en cualquier modo Competitivo.",
+                    "fr-FR": "Terminer un match dans un mode de jeu Conflit.",
+                    "it-IT": "Completa una partita in qualsiasi modalità Versus",
+                    "ja-JP": "対戦の任意のモードで 1 マッチを終える",
+                    "pl-PL": "Zakończ jedną grę w trybie „Wojna”",
+                    "pt-PT": "Termine uma partida de qualquer modo de jogo Versus",
+                    "ru-RU": "Завершите один матч в любом режиме Конфликта"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "en-US": "Ready for War",
+                    "de-DE": "Bereit für den Krieg",
+                    "es-ES": "Listo para la guerra",
+                    "fr-FR": "Paré au combat",
+                    "it-IT": "Pronto per la guerra",
+                    "ja-JP": "戦いへの仕上がり",
+                    "pl-PL": "Gotowy do wojny",
+                    "pt-PT": "Pronto para a Guerra",
+                    "ru-RU": "К бою готов"
+                },
+                "description": {
+                    "en-US": "Finish one round of Co-op on any difficulty level",
+                    "de-DE": "Beende eine Koop-Runde in beliebigem Schwierigkeitsgrad",
+                    "es-ES": "Termina una ronda Cooperativa en cualquier nivel de dificultad.",
+                    "fr-FR": "Terminez une manche Coopération à n'importe quel niveau de difficulté.",
+                    "it-IT": "Completa una missione in modalità Cooperativa a qualsiasi livello di difficoltà",
+                    "ja-JP": "任意の難易度で協力プレイの 1 ミッションを終えた",
+                    "pl-PL": "Zakończ jedną rundę w trybie „Współpraca” na dowolnym poziomie trudności",
+                    "pt-PT": "Termine uma rodada de Cooperativo em qualquer modo de dificuldade",
+                    "ru-RU": "Закончите один раунд Совместной игры на любом уровне сложности"
+                },
+                "howto": {
+                    "en-US": "Finish one round of Co-op on any difficulty level",
+                    "de-DE": "Beende eine Koop-Runde in beliebigem Schwierigkeitsgrad",
+                    "es-ES": "Termina una ronda Cooperativa en cualquier nivel de dificultad.",
+                    "fr-FR": "Terminer une manche Coopération à n'importe quel niveau de difficulté.",
+                    "it-IT": "Completa una missione in modalità Cooperativa a qualsiasi livello di difficoltà",
+                    "ja-JP": "任意の難易度で協力プレイの 1 ミッションを終える",
+                    "pl-PL": "Zakończ jedną rundę w trybie „Współpraca” na dowolnym poziomie trudności",
+                    "pt-PT": "Termine uma rodada de Cooperativo em qualquer modo de dificuldade",
+                    "ru-RU": "Закончите один раунд Совместной игры на любом уровне сложности"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "en-US": "Think Lucky to be Lucky",
+                    "de-DE": "Positiv denken",
+                    "es-ES": "La suerte, para el que la busca",
+                    "fr-FR": "Provoquer la chance",
+                    "it-IT": "La fortuna aiuta gli audaci",
+                    "ja-JP": "幸運で何より",
+                    "pl-PL": "Uwierz w szczęście, a przyjdzie",
+                    "pt-PT": "Pense em Sorte, Tenha Sorte",
+                    "ru-RU": "Дорогу осилит идущий"
+                },
+                "description": {
+                    "en-US": "Acquire a Standard or Crown Random Box",
+                    "de-DE": "Erwirb eine Standard- oder Crown-Zufallskiste",
+                    "es-ES": "Consigue una caja aleatoria estándar o corona.",
+                    "fr-FR": "Récupérez une caisse mystère couronne ou standard.",
+                    "it-IT": "Ottieni un pacchetto casuale standard o corona",
+                    "ja-JP": "ランダム ボックスを獲得した (標準またはクラウン)",
+                    "pl-PL": "Zdobądź losową skrzynkę typu Standard lub Crown",
+                    "pt-PT": "Adquira uma Caixa Aleatória Padrão ou Coroa",
+                    "ru-RU": "Получите стандартную или коронную случайную коробку"
+                },
+                "howto": {
+                    "en-US": "Acquire a Standard or Crown Random Box",
+                    "de-DE": "Erwirb eine Standard- oder Crown-Zufallskiste",
+                    "es-ES": "Consigue una caja aleatoria estándar o corona.",
+                    "fr-FR": "Récupérer une caisse mystère couronne ou standard.",
+                    "it-IT": "Ottieni un pacchetto casuale standard o corona",
+                    "ja-JP": "ランダム ボックスを獲得する (標準またはクラウン)",
+                    "pl-PL": "Zdobądź losową skrzynkę typu Standard lub Crown",
+                    "pt-PT": "Adquira uma Caixa Aleatória Padrão ou Coroa",
+                    "ru-RU": "Получите стандартную или коронную случайную коробку"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "05.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "en-US": "Moving on Up",
+                    "de-DE": "Aufrücken",
+                    "es-ES": "Hacia arriba",
+                    "fr-FR": "En avant",
+                    "it-IT": "Promosso",
+                    "ja-JP": "さあ上へ",
+                    "pl-PL": "Iść dalej w górę",
+                    "pt-PT": "Subindo",
+                    "ru-RU": "Все выше и выше"
+                },
+                "description": {
+                    "en-US": "Achieve Rank 5",
+                    "de-DE": "Erreiche Rang 5",
+                    "es-ES": "Consigue el rango 5.",
+                    "fr-FR": "Atteignez le grade 5.",
+                    "it-IT": "Raggiungi il rango 5",
+                    "ja-JP": "ランク 5 に到達した",
+                    "pl-PL": "Osiągnij rangę 5",
+                    "pt-PT": "Atinja a Patente 5",
+                    "ru-RU": "Получите звание 5"
+                },
+                "howto": {
+                    "en-US": "Achieve Rank 5",
+                    "de-DE": "Erreiche Rang 5",
+                    "es-ES": "Consigue el rango 5.",
+                    "fr-FR": "Atteindre le grade 5.",
+                    "it-IT": "Raggiungi il rango 5",
+                    "ja-JP": "ランク 5 に到達する",
+                    "pl-PL": "Osiągnij rangę 5",
+                    "pt-PT": "Atinja a Patente 5",
+                    "ru-RU": "Получите звание 5"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "06.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "en-US": "Battle-Hardened",
+                    "de-DE": "Kampfgestählt",
+                    "es-ES": "Curtido en mil batallas",
+                    "fr-FR": "Endurci au combat",
+                    "it-IT": "Temprato dalla battaglia",
+                    "ja-JP": "鍛え抜かれた技",
+                    "pl-PL": "Zahartowany w boju",
+                    "pt-PT": "Endurecido pela Batalha",
+                    "ru-RU": "Закаленный в боях"
+                },
+                "description": {
+                    "en-US": "Achieve Rank 15",
+                    "de-DE": "Erreiche Rang 15",
+                    "es-ES": "Consigue el rango 15.",
+                    "fr-FR": "Atteignez le grade 15.",
+                    "it-IT": "Raggiungi il rango 15",
+                    "ja-JP": "ランク 15 に到達した",
+                    "pl-PL": "Osiągnij rangę 15",
+                    "pt-PT": "Atinja a Patente 15",
+                    "ru-RU": "Получите звание 15"
+                },
+                "howto": {
+                    "en-US": "Achieve Rank 15",
+                    "de-DE": "Erreiche Rang 15",
+                    "es-ES": "Consigue el rango 15.",
+                    "fr-FR": "Atteindre le grade 15.",
+                    "it-IT": "Raggiungi il rango 15",
+                    "ja-JP": "ランク 15 に到達する",
+                    "pl-PL": "Osiągnij rangę 15",
+                    "pt-PT": "Atinja a Patente 15",
+                    "ru-RU": "Получите звание 15"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "07.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "en-US": "Going all the way...",
+                    "de-DE": "Immer weiter ...",
+                    "es-ES": "Hasta el final",
+                    "fr-FR": "Jusqu'au bout...",
+                    "it-IT": "Fino in cima",
+                    "ja-JP": "駆け上がれ",
+                    "pl-PL": "Iść na całego...",
+                    "pt-PT": "Indo com Tudo...",
+                    "ru-RU": "Ветеран"
+                },
+                "description": {
+                    "en-US": "Achieve Rank 30",
+                    "de-DE": "Erreiche Rang 30",
+                    "es-ES": "Consigue el rango 30.",
+                    "fr-FR": "Atteignez le grade 30.",
+                    "it-IT": "Raggiungi il rango 30",
+                    "ja-JP": "ランク 30 に到達した",
+                    "pl-PL": "Osiągnij rangę 30",
+                    "pt-PT": "Atinja a Patente 30",
+                    "ru-RU": "Получите звание 30"
+                },
+                "howto": {
+                    "en-US": "Achieve Rank 30",
+                    "de-DE": "Erreiche Rang 30",
+                    "es-ES": "Consigue el rango 30.",
+                    "fr-FR": "Atteindre le grade 30.",
+                    "it-IT": "Raggiungi il rango 30",
+                    "ja-JP": "ランク 30 に到達する",
+                    "pl-PL": "Osiągnij rangę 30",
+                    "pt-PT": "Atinja a Patente 30",
+                    "ru-RU": "Получите звание 30"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "08.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "en-US": "Big Bucks",
+                    "de-DE": "Fette Kohle",
+                    "es-ES": "Adinerado",
+                    "fr-FR": "Jouer gros",
+                    "it-IT": "Una montagna di soldi",
+                    "ja-JP": "大金",
+                    "pl-PL": "Kupa kasy",
+                    "pt-PT": "Grana Alta",
+                    "ru-RU": "Большие бабки"
+                },
+                "description": {
+                    "en-US": "Earn $10,000",
+                    "de-DE": "Verdiene 10.000 $",
+                    "es-ES": "Gana 10 000 $.",
+                    "fr-FR": "Gagnez 10 000 $.",
+                    "it-IT": "Guadagna 10.000$",
+                    "ja-JP": "$10,000 獲得した",
+                    "pl-PL": "Zarób 10 000 dolarów",
+                    "pt-PT": "Ganhe $10.000",
+                    "ru-RU": "Заработайте 10#160;000 долл."
+                },
+                "howto": {
+                    "en-US": "Earn $10,000",
+                    "de-DE": "Verdiene 10.000 $",
+                    "es-ES": "Gana 10 000 $.",
+                    "fr-FR": "Gagner 10 000 $.",
+                    "it-IT": "Guadagna 10.000$",
+                    "ja-JP": "$10,000 獲得する",
+                    "pl-PL": "Zarób 10 000 dolarów",
+                    "pt-PT": "Ganhe $10.000",
+                    "ru-RU": "Заработайте 10#160;000 долл."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "en-US": "Fit for a King",
+                    "de-DE": "Königlich",
+                    "es-ES": "Digno de un rey",
+                    "fr-FR": "Digne d'un roi",
+                    "it-IT": "Degna di un re",
+                    "ja-JP": "王にふさわしき者",
+                    "pl-PL": "Na miarę króla",
+                    "pt-PT": "Digno de um Rei",
+                    "ru-RU": "Достойно короля"
+                },
+                "description": {
+                    "en-US": "Collect 100 crowns",
+                    "de-DE": "Sammle 100 Crowns",
+                    "es-ES": "Consigue 100 coronas.",
+                    "fr-FR": "Obtenez 100 couronnes.",
+                    "it-IT": "Ottieni 100 corone",
+                    "ja-JP": "100 クラウン獲得した",
+                    "pl-PL": "Zbierz 100 koron",
+                    "pt-PT": "Colete 100 coroas",
+                    "ru-RU": "Соберите 100 корон"
+                },
+                "howto": {
+                    "en-US": "Collect 100 crowns",
+                    "de-DE": "Sammle 100 Crowns",
+                    "es-ES": "Consigue 100 coronas.",
+                    "fr-FR": "Obtenir 100 couronnes.",
+                    "it-IT": "Ottieni 100 corone",
+                    "ja-JP": "100 クラウン獲得する",
+                    "pl-PL": "Zbierz 100 koron",
+                    "pt-PT": "Colete 100 coroas",
+                    "ru-RU": "Соберите 100 корон"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "10.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "en-US": "Oooh...Shiny!",
+                    "de-DE": "Oooh ... das glitzert!",
+                    "es-ES": "¡Cómo brilla!",
+                    "fr-FR": "Quelle merveille !",
+                    "it-IT": "Wow, luccica!",
+                    "ja-JP": "煌めく宝!",
+                    "pl-PL": "Ach... To było błyskotliwe!",
+                    "pt-PT": "Oh, Que Brilhante!",
+                    "ru-RU": "У-у-у, блестяшка!"
+                },
+                "description": {
+                    "en-US": "Buy any crown weapon",
+                    "de-DE": "Kaufe eine beliebige Crown-Waffe",
+                    "es-ES": "Compra cualquier arma Corona.",
+                    "fr-FR": "Achetez une arme de type \"couronne\".",
+                    "it-IT": "Acquista un'arma corona",
+                    "ja-JP": "任意のクラウン武器を購入した",
+                    "pl-PL": "Kup dowolną broń za korony",
+                    "pt-PT": "Compre qualquer arma Coroa",
+                    "ru-RU": "Купите любое оружие марки \"Корона\""
+                },
+                "howto": {
+                    "en-US": "Buy any crown weapon",
+                    "de-DE": "Kaufe eine beliebige Crown-Waffe",
+                    "es-ES": "Compra cualquier arma Corona.",
+                    "fr-FR": "Acheter une arme de type \"couronne\".",
+                    "it-IT": "Acquista un'arma corona",
+                    "ja-JP": "任意のクラウン武器を購入する",
+                    "pl-PL": "Kup dowolną broń za korony",
+                    "pt-PT": "Compre qualquer arma Coroa",
+                    "ru-RU": "Купите любое оружие марки \"Корона\""
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "en-US": "Better Off Alone",
+                    "de-DE": "Alles muss man selber machen",
+                    "es-ES": "Mejor solo",
+                    "fr-FR": "Besoin de solitude",
+                    "it-IT": "Meglio soli...",
+                    "ja-JP": "単独行動",
+                    "pl-PL": "Lepiej w pojedynkę",
+                    "pt-PT": "É Melhor Ficar Só",
+                    "ru-RU": "В одиночку лучше"
+                },
+                "description": {
+                    "en-US": "Win 10 Free-For-All matches",
+                    "de-DE": "Gewinne 10 Jeder-gegen-jeden-Matches",
+                    "es-ES": "Gana 10 partidas de Libre.",
+                    "fr-FR": "Gagnez 10 parties en mode Chaos.",
+                    "it-IT": "Vinci 10 partite Tutti contro tutti",
+                    "ja-JP": "FREE FOR ALL で 10 回勝利した",
+                    "pl-PL": "Wygraj 10 rozgrywek w trybie „Każdy na każdego”",
+                    "pt-PT": "Vença 10 partidas no modo Livre",
+                    "ru-RU": "Выиграйте 10 матчей в режиме \"Мясорубка\""
+                },
+                "howto": {
+                    "en-US": "Win 10 Free-For-All matches",
+                    "de-DE": "Gewinne 10 Jeder-gegen-jeden-Matches",
+                    "es-ES": "Gana 10 partidas de Libre.",
+                    "fr-FR": "Gagner 10 parties en mode Chaos.",
+                    "it-IT": "Vinci 10 partite Tutti contro tutti",
+                    "ja-JP": "FREE FOR ALL で 10 回勝利する",
+                    "pl-PL": "Wygraj 10 rozgrywek w trybie „Każdy na każdego”",
+                    "pt-PT": "Vença 10 partidas no modo Livre",
+                    "ru-RU": "Выиграйте 10 матчей в режиме \"Мясорубка\""
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "12.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "en-US": "No \"i\" in Team",
+                    "de-DE": "Im Team gibt's kein \"Ich\"",
+                    "es-ES": "Nada de egocentrismos",
+                    "fr-FR": "Esprit de corps",
+                    "it-IT": "Gioco di squadra",
+                    "ja-JP": "チームに個人プレイはいらない",
+                    "pl-PL": "W zespole tylko współpraca",
+                    "pt-PT": "Não Existe 'Eu' em 'Equipe'",
+                    "ru-RU": "Команда превыше всего"
+                },
+                "description": {
+                    "en-US": "Win 10 Team Deathmatch matches",
+                    "de-DE": "Gewinne 10 Team-Deathmatches",
+                    "es-ES": "Gana 10 partidas de A muerte por equipos.",
+                    "fr-FR": "Gagnez 10 parties en mode Escarmouche.",
+                    "it-IT": "Vinci 10 partite Deathmatch a squadre",
+                    "ja-JP": "TEAM DEATHMATCH で 10 回勝利した",
+                    "pl-PL": "Wygraj 10 rozgrywek w trybie „Deathmatch drużynowy”",
+                    "pt-PT": "Vença 10 partidas de Deathmatch de Equipes",
+                    "ru-RU": "Выиграйте 10 матчей в режиме \"Командный бой\""
+                },
+                "howto": {
+                    "en-US": "Win 10 Team Deathmatch matches",
+                    "de-DE": "Gewinne 10 Team-Deathmatches",
+                    "es-ES": "Gana 10 partidas de A muerte por equipos.",
+                    "fr-FR": "Gagner 10 parties en mode Escarmouche.",
+                    "it-IT": "Vinci 10 partite Deathmatch a squadre",
+                    "ja-JP": "TEAM DEATHMATCH で 10 回勝利する",
+                    "pl-PL": "Wygraj 10 rozgrywek w trybie „Deathmatch drużynowy”",
+                    "pt-PT": "Vença 10 partidas de Deathmatch de Equipes",
+                    "ru-RU": "Выиграйте 10 матчей в режиме \"Командный бой\""
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "13.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "en-US": "Da Bomb!",
+                    "de-DE": "Bombenalarm!",
+                    "es-ES": "¡La bomba!",
+                    "fr-FR": "La Bombe !",
+                    "it-IT": "Che bomba!",
+                    "ja-JP": "爆弾だ!",
+                    "pl-PL": "Rewelacja!",
+                    "pt-PT": "Que Bomba!",
+                    "ru-RU": "Это бомба!"
+                },
+                "description": {
+                    "en-US": "Win 10 Plant The Bomb matches",
+                    "de-DE": "Gewinne 10 Bombe-legen-Matches",
+                    "es-ES": "Gana 10 partidas de Coloca la bomba.",
+                    "fr-FR": "Gagnez 10 parties en mode Détonation.",
+                    "it-IT": "Vinci 10 partite Piazza la bomba",
+                    "ja-JP": "PLANT THE BOMB で 10 回勝利した",
+                    "pl-PL": "Wygraj 10 rozgrywek w trybie „Podkładanie bomby”",
+                    "pt-PT": "Vença 10 partidas de Plantar Bomba",
+                    "ru-RU": "Выиграйте 10 матчей в режиме \"Подрыв\""
+                },
+                "howto": {
+                    "en-US": "Win 10 Plant The Bomb matches",
+                    "de-DE": "Gewinne 10 Bombe-legen-Matches",
+                    "es-ES": "Gana 10 partidas de Coloca la bomba.",
+                    "fr-FR": "Gagner 10 parties en mode Détonation.",
+                    "it-IT": "Vinci 10 partite Piazza la bomba",
+                    "ja-JP": "PLANT THE BOMB で 10 回勝利する",
+                    "pl-PL": "Wygraj 10 rozgrywek w trybie „Podkładanie bomby”",
+                    "pt-PT": "Vença 10 partidas de Plantar Bomba",
+                    "ru-RU": "Выиграйте 10 матчей в режиме \"Подрыв\""
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "14.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "en-US": "War Stories...",
+                    "de-DE": "Kriegsgeschichten ...",
+                    "es-ES": "Batallitas...",
+                    "fr-FR": "Histoires de guerre...",
+                    "it-IT": "Storie di guerra...",
+                    "ja-JP": "戦いのストーリー",
+                    "pl-PL": "Historie wojenne...",
+                    "pt-PT": "Histórias de Guerra...",
+                    "ru-RU": "Рассказы о войне"
+                },
+                "description": {
+                    "en-US": "Complete the Regular, Skilled and Hardcore Co-op missions on a single day",
+                    "de-DE": "Beende die Koop-Missionen in Normal, Anspruchsvoll und Hardcore an nur einem Tag",
+                    "es-ES": "Completa las misiones cooperativas en Normal, Especializado y Extremo en un solo día.",
+                    "fr-FR": "Terminez les 6 missions Coopération du jour aux niveaux Facile, Normal et Difficile.",
+                    "it-IT": "Completa le missioni Standard, Esperto e Irriducibile della modalità Cooperativa in un solo giorno",
+                    "ja-JP": "1 日で協力プレイのレギュラー、スキルド、ハードコアの難易度をクリアした",
+                    "pl-PL": "W ciągu jednego dnia ukończ standardową, trudną lub najtrudniejszą misję w trybie „Współpraca”",
+                    "pt-PT": "Cumpra as missões Cooperativas Normais, Experientes e Hardcore em um único dia",
+                    "ru-RU": "За один день пройдите Совместные миссии на сложности \"Обычный\", \"Опытный боец\" и \"Сверхвысокий\""
+                },
+                "howto": {
+                    "en-US": "Complete the Regular, Skilled and Hardcore Co-op missions on a single day",
+                    "de-DE": "Beende die Koop-Missionen in Normal, Anspruchsvoll und Hardcore an nur einem Tag",
+                    "es-ES": "Completa las misiones cooperativas en Normal, Especializado y Extremo en un solo día.",
+                    "fr-FR": "Terminer les 6 missions Coopération du jour aux niveaux Facile, Normal et Difficile.",
+                    "it-IT": "Completa le missioni Standard, Esperto e Irriducibile della modalità Cooperativa in un solo giorno",
+                    "ja-JP": "1 日で協力プレイのレギュラー、スキルド、ハードコアの難易度をクリアする",
+                    "pl-PL": "W ciągu jednego dnia ukończ standardową, trudną lub najtrudniejszą misję w trybie „Współpraca”",
+                    "pt-PT": "Cumpra as missões Cooperativas Normais, Experientes e Hardcore em um único dia",
+                    "ru-RU": "За один день пройдите Совместные миссии на сложности \"Обычный\", \"Опытный боец\" и \"Сверхвысокий\""
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "15.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "en-US": "Tick, Tick... BOOM!",
+                    "de-DE": "Tick, tick ... BUMM!",
+                    "es-ES": "Tic, tac... ¡BUM!",
+                    "fr-FR": "Tic, tac... BOUM !",
+                    "it-IT": "Tic, tic... BUM!",
+                    "ja-JP": "ピッ ピッ... ドカン!",
+                    "pl-PL": "Tik tak BUM!",
+                    "pt-PT": "Tique, Taque... BUM!",
+                    "ru-RU": "Тик, тик... БУМ!"
+                },
+                "description": {
+                    "en-US": "Kill 3 enemies with a single grenade in Co-op or Versus",
+                    "de-DE": "Töte in Koop oder Versus 3 Feinde mit einer einzelnen Granate",
+                    "es-ES": "Mata a 3 enemigos con una sola granada en Cooperativo o en Competitivo.",
+                    "fr-FR": "Tuez 3 ennemis avec une seule grenade en Coopération ou en Conflit.",
+                    "it-IT": "Uccidi 3 nemici con una singola granata in modalità Cooperativa o Versus",
+                    "ja-JP": "協力プレイまたは対戦で敵 3 人を 1 発のグレネードで倒した",
+                    "pl-PL": "Zabij 3 wrogów jednym granatem podczas rozgrywki w trybie „Współpraca” lub „Wojna”",
+                    "pt-PT": "Mate 3 inimigos com uma única granada no modo Cooperativo ou Versus",
+                    "ru-RU": "Убейте 3 противников одной гранатой в Совместной игре или Конфликте"
+                },
+                "howto": {
+                    "en-US": "Kill 3 enemies with a single grenade in Co-op or Versus",
+                    "de-DE": "Töte in Koop oder Versus 3 Feinde mit einer einzelnen Granate",
+                    "es-ES": "Mata a 3 enemigos con una sola granada en Cooperativo o en Competitivo.",
+                    "fr-FR": "Tuer 3 ennemis avec une seule grenade en Coopération ou en Conflit.",
+                    "it-IT": "Uccidi 3 nemici con una singola granata in modalità Cooperativa o Versus",
+                    "ja-JP": "協力プレイまたは対戦で敵 3 人を 1 発のグレネードで倒す",
+                    "pl-PL": "Zabij 3 wrogów jednym granatem podczas rozgrywki w trybie „Współpraca” lub „Wojna”",
+                    "pt-PT": "Mate 3 inimigos com uma única granada no modo Cooperativo ou Versus",
+                    "ru-RU": "Убейте 3 противников одной гранатой в Совместной игре или Конфликте"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "16.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "en-US": "Skirting Under the Radar",
+                    "de-DE": "Unter dem Radar hindurch",
+                    "es-ES": "Por debajo del radar",
+                    "fr-FR": "Sous le radar",
+                    "it-IT": "Scivolata mortale",
+                    "ja-JP": "レーダーをかい潜れ",
+                    "pl-PL": "Osłona pod radarem",
+                    "pt-PT": "Escapando do Radar",
+                    "ru-RU": "Пройти незаметно"
+                },
+                "description": {
+                    "en-US": "Kill 5 enemies while sliding in Co-op or Versus",
+                    "de-DE": "Töte in Koop oder Versus 5 Feinde, während du slidest",
+                    "es-ES": "Mata a 5 enemigos mientras te deslizas en Cooperativo o en Competitivo.",
+                    "fr-FR": "Tuez 5 ennemis au cours de glissades en Coopération ou en Conflit.",
+                    "it-IT": "Uccidi 5 nemici in scivolata in modalità Cooperativa o Versus",
+                    "ja-JP": "協力プレイまたは対戦でスライディングしながら敵を 5 人倒した",
+                    "pl-PL": "Zabij 5 wrogów podczas wślizgu w ramach rozgrywki w trybie „Współpraca” lub „Wojna”",
+                    "pt-PT": "Mate 5 inimigos enquanto desliza no modo Cooperativo ou Versus",
+                    "ru-RU": "Убейте 5 противников в подкате в Совместной игре или Конфликте"
+                },
+                "howto": {
+                    "en-US": "Kill 5 enemies while sliding in Co-op or Versus",
+                    "de-DE": "Töte in Koop oder Versus 5 Feinde, während du slidest",
+                    "es-ES": "Mata a 5 enemigos mientras te deslizas en Cooperativo o en Competitivo.",
+                    "fr-FR": "Tuer 5 ennemis au cours de glissades en Coopération ou en Conflit.",
+                    "it-IT": "Uccidi 5 nemici in scivolata in modalità Cooperativa o Versus",
+                    "ja-JP": "協力プレイまたは対戦でスライディングしながら敵を 5 人倒す",
+                    "pl-PL": "Zabij 5 wrogów podczas wślizgu w ramach rozgrywki w trybie „Współpraca” lub „Wojna”",
+                    "pt-PT": "Mate 5 inimigos enquanto desliza no modo Cooperativo ou Versus",
+                    "ru-RU": "Убейте 5 противников в подкате в Совместной игре или Конфликте"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "17.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "en-US": "Unstoppable",
+                    "de-DE": "Unaufhaltsam",
+                    "es-ES": "Imparable",
+                    "fr-FR": "Tueur en série",
+                    "it-IT": "Inarrestabile",
+                    "ja-JP": "どうにも止められない",
+                    "pl-PL": "Niepowstrzymany",
+                    "pt-PT": "Irrefreável",
+                    "ru-RU": "Неудержимый"
+                },
+                "description": {
+                    "en-US": "Earn a kill streak of 10 in Versus",
+                    "de-DE": "Hole in Versus eine 10er Kill-Serie",
+                    "es-ES": "Logra una racha de 10 muertes en Competitivo.",
+                    "fr-FR": "Tuez 10 ennemis d'affilée en Conflit.",
+                    "it-IT": "Effettua una serie di 10 uccisioni in modalità Versus",
+                    "ja-JP": "対戦で 10 連続キルを決めた",
+                    "pl-PL": "Zalicz 10 serii zabójstw w trybie „Wojna”",
+                    "pt-PT": "Consiga uma sequência de 10 eliminações no modo Versus",
+                    "ru-RU": "Убейте 10 противников подряд в Конфликте"
+                },
+                "howto": {
+                    "en-US": "Earn a kill streak of 10 in Versus",
+                    "de-DE": "Hole in Versus eine 10er Kill-Serie",
+                    "es-ES": "Logra una racha de 10 muertes en Competitivo.",
+                    "fr-FR": "Tuer 10 ennemis d'affilée en Conflit.",
+                    "it-IT": "Effettua una serie di 10 uccisioni in modalità Versus",
+                    "ja-JP": "対戦で 10 連続キルを決める",
+                    "pl-PL": "Zalicz 10 serii zabójstw w trybie „Wojna”",
+                    "pt-PT": "Consiga uma sequência de 10 eliminações no modo Versus",
+                    "ru-RU": "Убейте 10 противников подряд в Конфликте"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "18.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "en-US": "What a Mistech to Mech",
+                    "de-DE": "Eher Blech als Mech",
+                    "es-ES": "Devastación robótica",
+                    "fr-FR": "Une mécha erreur",
+                    "it-IT": "Game, set, mech",
+                    "ja-JP": "ハイテクに死角あり",
+                    "pl-PL": "Cóż za błąd",
+                    "pt-PT": "Defeito no Mech",
+                    "ru-RU": "Как одолеть робота"
+                },
+                "description": {
+                    "en-US": "Deal over 50% of the damage to any enemy boss in a Co-op mission",
+                    "de-DE": "Füge einem feindlichen Boss in einer Koop-Mission über 50 % des Schadens zu",
+                    "es-ES": "Inflige más de un 50 % de daño a un jefe enemigo en una misión Cooperativa.",
+                    "fr-FR": "Infligez plus de 50 % des dégâts à un boss ennemi dans une mission Coopération.",
+                    "it-IT": "Infliggi più del 50% dei danni a un boss in modalità Cooperativa",
+                    "ja-JP": "協力プレイ ミッションで任意の敵のボスに 50% 以上のダメージを与えた",
+                    "pl-PL": "Uzyskaj ponad 50% obrażeń u dowolnego bossa wrogów podczas misji w trybie „Współpraca”",
+                    "pt-PT": "Cause mais de 50% de dano a qualquer chefe inimigo em uma missão Cooperativa",
+                    "ru-RU": "Нанесите больше 50% урона боссу противника в Совместной игре"
+                },
+                "howto": {
+                    "en-US": "Deal over 50% of the damage to any enemy boss in a Co-op mission",
+                    "de-DE": "Füge einem feindlichen Boss in einer Koop-Mission über 50 % des Schadens zu",
+                    "es-ES": "Inflige más de un 50 % de daño a un jefe enemigo en una misión Cooperativa.",
+                    "fr-FR": "Infliger plus de 50 % des dégâts à un boss ennemi dans une mission Coopération.",
+                    "it-IT": "Infliggi più del 50% dei danni a un boss in modalità Cooperativa",
+                    "ja-JP": "協力プレイ ミッションで任意の敵のボスに 50% 以上のダメージを与える",
+                    "pl-PL": "Uzyskaj ponad 50% obrażeń u dowolnego bossa wrogów podczas misji w trybie „Współpraca”",
+                    "pt-PT": "Cause mais de 50% de dano a qualquer chefe inimigo em uma missão Cooperativa",
+                    "ru-RU": "Нанесите больше 50% урона боссу противника в Совместной игре"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "19.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "en-US": "Unbreakable",
+                    "de-DE": "Unverwüstlich",
+                    "es-ES": "Irrompible",
+                    "fr-FR": "Indestructible",
+                    "it-IT": "Indistruttibile",
+                    "ja-JP": "不屈の兵士",
+                    "pl-PL": "Niezniszczalny",
+                    "pt-PT": "Inquebrável",
+                    "ru-RU": "Непобедимый"
+                },
+                "description": {
+                    "en-US": "Complete a Co-op mission without being knocked-down or killed",
+                    "de-DE": "Schließe eine Koop-Mission ab, ohne zu Boden gebracht oder getötet zu werden",
+                    "es-ES": "Termina una misión Cooperativa sin ser derribado ni morir.",
+                    "fr-FR": "Terminez une mission Coopération sans mourir ou être renversé.",
+                    "it-IT": "Completa una missione in modalità Cooperativa senza essere ucciso o atterrato",
+                    "ja-JP": "協力プレイ ミッションをダウンしたり倒されることなくクリアした",
+                    "pl-PL": "Ukończ misję w trybie „Współpraca”, unikając obezwładnienia lub śmierci",
+                    "pt-PT": "Cumpra uma missão Cooperativa sem que lhe derrubem ou matem",
+                    "ru-RU": "Пройдите миссию в Совместной игре, ни разу не потеряв сознание и не погибнув"
+                },
+                "howto": {
+                    "en-US": "Complete a Co-op mission without being knocked-down or killed",
+                    "de-DE": "Schließe eine Koop-Mission ab, ohne zu Boden gebracht oder getötet zu werden",
+                    "es-ES": "Termina una misión Cooperativa sin ser derribado ni morir.",
+                    "fr-FR": "Terminer une mission Coopération sans mourir ou être renversé.",
+                    "it-IT": "Completa una missione in modalità Cooperativa senza essere ucciso o atterrato",
+                    "ja-JP": "協力プレイ ミッションをダウンしたり倒されることなくクリアする",
+                    "pl-PL": "Ukończ misję w trybie „Współpraca”, unikając obezwładnienia lub śmierci",
+                    "pt-PT": "Cumpra uma missão Cooperativa sem que lhe derrubem ou matem",
+                    "ru-RU": "Пройдите миссию в Совместной игре, ни разу не потеряв сознание и не погибнув"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "20.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "en-US": "Somewhere Else to Be?",
+                    "de-DE": "Wo sonst?",
+                    "es-ES": "¿Dónde iba a estar?",
+                    "fr-FR": "On vous attend ailleurs ?",
+                    "it-IT": "Di fretta?",
+                    "ja-JP": "他にどこに行けと?",
+                    "pl-PL": "Chcesz być gdzie indziej?",
+                    "pt-PT": "Por que a Pressa?",
+                    "ru-RU": "Куда спешите?"
+                },
+                "description": {
+                    "en-US": "Be the first player back to the helicopter in any Co-op mission",
+                    "de-DE": "Sei in einer beliebigen Koop-Mission der erste Spieler, der zum Hubschrauber zurückkommt",
+                    "es-ES": "Sé el primer jugador que vuelve al helicóptero en una misión cooperativa.",
+                    "fr-FR": "Revenez en premier à l'hélicoptère dans une mission Coopération.",
+                    "it-IT": "Raggiungi per primo l'elicottero in una missione Cooperativa",
+                    "ja-JP": "任意の協力プレイ ミッションで 1 番早くヘリコプターに戻った",
+                    "pl-PL": "Jako pierwszy wróć do helikoptera w dowolnej misji w trybie „Współpraca”",
+                    "pt-PT": "Seja o primeiro jogador a voltar ao helicóptero em qualquer missão Cooperativa",
+                    "ru-RU": "Первым вернитесь к вертолету в любой миссии в Совместной игре"
+                },
+                "howto": {
+                    "en-US": "Be the first player back to the helicopter in any Co-op mission",
+                    "de-DE": "Sei in einer beliebigen Koop-Mission der erste Spieler, der zum Hubschrauber zurückkommt",
+                    "es-ES": "Sé el primer jugador que vuelve al helicóptero en una misión cooperativa.",
+                    "fr-FR": "Revenir en premier à l'hélicoptère dans une mission Coopération.",
+                    "it-IT": "Raggiungi per primo l'elicottero in una missione Cooperativa",
+                    "ja-JP": "任意の協力プレイ ミッションで 1 番早くヘリコプターに戻る",
+                    "pl-PL": "Jako pierwszy wróć do helikoptera w dowolnej misji w trybie „Współpraca”",
+                    "pt-PT": "Seja o primeiro jogador a voltar ao helicóptero em qualquer missão Cooperativa",
+                    "ru-RU": "Первым вернитесь к вертолету в любой миссии в Совместной игре"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "21.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "en-US": "Buddy Up",
+                    "de-DE": "Gemeinsame Sache",
+                    "es-ES": "A reclutar",
+                    "fr-FR": "Frères d'armes",
+                    "it-IT": "Compagni al fronte",
+                    "ja-JP": "兄弟の絆",
+                    "pl-PL": "Kompania braci",
+                    "pt-PT": "Colegas",
+                    "ru-RU": "Боевые товарищи"
+                },
+                "description": {
+                    "en-US": "Create or Join a Clan",
+                    "de-DE": "Erstelle einen Clan oder tritt einem bei",
+                    "es-ES": "Crea un clan o únete a uno.",
+                    "fr-FR": "Créez ou rejoignez un clan.",
+                    "it-IT": "Crea o unisciti a un clan",
+                    "ja-JP": "クランを作成または参加した",
+                    "pl-PL": "Utwórz klan lub dołącz do niego",
+                    "pt-PT": "Crie ou entre em um Clã",
+                    "ru-RU": "Создайте клан или вступите в клан"
+                },
+                "howto": {
+                    "en-US": "Create or Join a Clan",
+                    "de-DE": "Erstelle einen Clan oder tritt einem bei",
+                    "es-ES": "Crea un clan o únete a uno.",
+                    "fr-FR": "Créer ou rejoindre un clan.",
+                    "it-IT": "Crea o unisciti a un clan",
+                    "ja-JP": "クランを作成または参加する",
+                    "pl-PL": "Utwórz klan lub dołącz do niego",
+                    "pt-PT": "Crie ou entre em um Clã",
+                    "ru-RU": "Создайте клан или вступите в клан"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "22.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "en-US": "Signed, Sealed, Delivered",
+                    "de-DE": "Abgehakt und erledigt",
+                    "es-ES": "Firmado, sellado, enviado",
+                    "fr-FR": "Marché conclu",
+                    "it-IT": "Firmato, eseguito, archiviato",
+                    "ja-JP": "手続き完了",
+                    "pl-PL": "Podpis, plomba, dostawa",
+                    "pt-PT": "Assinado, Carimbado e Cumprido",
+                    "ru-RU": "Подписано, запечатано, выслано"
+                },
+                "description": {
+                    "en-US": "Successfully complete 30 Contracts",
+                    "de-DE": "Erledige erfolgreich 30 Aufträge",
+                    "es-ES": "Completa con éxito 30 contratos.",
+                    "fr-FR": "Remplissez 30 contrats.",
+                    "it-IT": "Completa 30 contratti",
+                    "ja-JP": "30 のタスクを完遂した",
+                    "pl-PL": "Ukończ 30 zleceń",
+                    "pt-PT": "Cumpra 30 Contratos",
+                    "ru-RU": "Успешно выполните 30 контрактов"
+                },
+                "howto": {
+                    "en-US": "Successfully complete 30 Contracts",
+                    "de-DE": "Erledige erfolgreich 30 Aufträge",
+                    "es-ES": "Completa con éxito 30 contratos.",
+                    "fr-FR": "Remplir 30 contrats.",
+                    "it-IT": "Completa 30 contratti",
+                    "ja-JP": "30 のタスクを完遂する",
+                    "pl-PL": "Ukończ 30 zleceń",
+                    "pt-PT": "Cumpra 30 Contratos",
+                    "ru-RU": "Успешно выполните 30 контрактов"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "23.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "en-US": "School's Out",
+                    "de-DE": "Die Schule ist aus",
+                    "es-ES": "Se acabó la clase",
+                    "fr-FR": "L'école est finie",
+                    "it-IT": "La scuola è finita",
+                    "ja-JP": "授業終了",
+                    "pl-PL": "Czas sprawdzić swoje siły",
+                    "pt-PT": "Acabou a Aula",
+                    "ru-RU": "Последний звонок"
+                },
+                "description": {
+                    "en-US": "Complete all class training sessions",
+                    "de-DE": "Schließe alle Klassen-Tutorials ab",
+                    "es-ES": "Completa todos los tutoriales de clase.",
+                    "fr-FR": "Terminez toutes les formations de classes.",
+                    "it-IT": "Completa i tutorial per tutte le classi",
+                    "ja-JP": "すべてのクラスの訓練を完了した",
+                    "pl-PL": "Ukończ wszystkie instruktaże klas",
+                    "pt-PT": "Conclua todos os tutoriais de classe",
+                    "ru-RU": "Пройдите все обучающие курсы"
+                },
+                "howto": {
+                    "en-US": "Complete all class training sessions",
+                    "de-DE": "Schließe alle Klassen-Tutorials ab",
+                    "es-ES": "Completa todos los tutoriales de clase.",
+                    "fr-FR": "Terminer toutes les formations de classes.",
+                    "it-IT": "Completa i tutorial per tutte le classi",
+                    "ja-JP": "すべてのクラスの訓練を完了する",
+                    "pl-PL": "Ukończ wszystkie instruktaże klas",
+                    "pt-PT": "Conclua todos os tutoriais de classe",
+                    "ru-RU": "Пройдите все обучающие курсы"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "24.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "en-US": "Top Dog",
+                    "de-DE": "Der Boss",
+                    "es-ES": "Mandamás",
+                    "fr-FR": "Le meilleur",
+                    "it-IT": "Comandante",
+                    "ja-JP": "トップ ドッグ",
+                    "pl-PL": "Mistrz",
+                    "pt-PT": "Líder da Matilha",
+                    "ru-RU": "Царь горы"
+                },
+                "description": {
+                    "en-US": "Finish with the highest point total in any Versus match (minimum six players)",
+                    "de-DE": "Beende ein beliebiges Versus-Match (mindestens sechs Spieler) mit der höchsten Gesamtpunktzahl",
+                    "es-ES": "Termina una partida competitiva con la cantidad total de puntos más alta (seis jugadores mínimo).",
+                    "fr-FR": "Terminez un match Conflit avec le meilleur total de points (minimum six joueurs).",
+                    "it-IT": "Completa una partita Versus con il punteggio globale più alto (minimo sei giocatori)",
+                    "ja-JP": "任意の対戦マッチ (6 プレイヤー以上) を最高合計ポイントを上げて終えた",
+                    "pl-PL": "Zakończ dowolną rozgrywkę w trybie „Wojna” (min. 6 graczy) z najwyższą całkowitą liczbą punktów",
+                    "pt-PT": "Termine com o maior total de pontos em qualquer partida Versus (com no mínimo seis jogadores)",
+                    "ru-RU": "Завершите любой матч Конфликта (минимум шесть игроков), набрав наибольшее число очков"
+                },
+                "howto": {
+                    "en-US": "Finish with the highest point total in any Versus match (minimum six players)",
+                    "de-DE": "Beende ein beliebiges Versus-Match (mindestens sechs Spieler) mit der höchsten Gesamtpunktzahl",
+                    "es-ES": "Termina una partida competitiva con la cantidad total de puntos más alta (seis jugadores mínimo).",
+                    "fr-FR": "Terminer un match Conflit avec le meilleur total de points (minimum six joueurs).",
+                    "it-IT": "Completa una partita Versus con il punteggio globale più alto (minimo sei giocatori)",
+                    "ja-JP": "任意の対戦マッチ (6 プレイヤー以上) を最高合計ポイントを上げて終える",
+                    "pl-PL": "Zakończ dowolną rozgrywkę w trybie „Wojna” (min. 6 graczy) z najwyższą całkowitą liczbą punktów",
+                    "pt-PT": "Termine com o maior total de pontos em qualquer partida Versus (com no mínimo seis jogadores)",
+                    "ru-RU": "Завершите любой матч Конфликта (минимум шесть игроков), набрав наибольшее число очков"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "25.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "en-US": "Gunsmith",
+                    "de-DE": "Waffenschmied",
+                    "es-ES": "Armero",
+                    "fr-FR": "Armurier",
+                    "it-IT": "Armaiolo",
+                    "ja-JP": "銃職人",
+                    "pl-PL": "Rusznikarz",
+                    "pt-PT": "Armeiro",
+                    "ru-RU": "Оружейник"
+                },
+                "description": {
+                    "en-US": "Customise all slots of any primary weapon",
+                    "de-DE": "Passe alle Plätze einer beliebigen Primärwaffe an",
+                    "es-ES": "Personaliza todas las ranuras o espacios de un arma principal.",
+                    "fr-FR": "Personnalisez tous les emplacements d'une arme principale.",
+                    "it-IT": "Personalizza tutti gli slot di un'arma primaria",
+                    "ja-JP": "任意のメイン武器のスロットをすべてカスタマイズした",
+                    "pl-PL": "Dostosuj wszystkie sloty dla dowolnej broni głównej",
+                    "pt-PT": "Personalize todos os espaços de qualquer arma principal",
+                    "ru-RU": "Модифицируйте все слоты любого основного оружия"
+                },
+                "howto": {
+                    "en-US": "Customise all slots of any primary weapon",
+                    "de-DE": "Passe alle Plätze einer beliebigen Primärwaffe an",
+                    "es-ES": "Personaliza todas las ranuras o espacios de un arma principal.",
+                    "fr-FR": "Personnaliser tous les emplacements d'une arme principale.",
+                    "it-IT": "Personalizza tutti gli slot di un'arma primaria",
+                    "ja-JP": "任意のメイン武器のスロットをすべてカスタマイズする",
+                    "pl-PL": "Dostosuj wszystkie sloty dla dowolnej broni głównej",
+                    "pt-PT": "Personalize todos os espaços de qualquer arma principal",
+                    "ru-RU": "Модифицируйте все слоты любого основного оружия"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "26.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "en-US": "Here to Help",
+                    "de-DE": "Hier zum Helfen",
+                    "es-ES": "Aquí está la ayuda",
+                    "fr-FR": "Envie d'aider",
+                    "it-IT": "Qui per aiutare",
+                    "ja-JP": "援護に参上",
+                    "pl-PL": "Tu do pomocy",
+                    "pt-PT": "Vim para Ajudar",
+                    "ru-RU": "Идем на выручку"
+                },
+                "description": {
+                    "en-US": "Perform 10 climbs with your teammates in Co-op",
+                    "de-DE": "Nutze in Koop 10-mal die Räuberleiter",
+                    "es-ES": "Realiza 10 escaladas con tus compañeros en Cooperativo.",
+                    "fr-FR": "Effectuez 10 escalades avec vos coéquipiers en Coopération.",
+                    "it-IT": "Esegui 10 arrampicate in coppia in modalità Cooperativa",
+                    "ja-JP": "協力プレイでチームメイトと 10 回クライミングをした",
+                    "pl-PL": "Wykonaj 10 wspinaczek z innymi członkami drużyny w trybie „Współpraca”",
+                    "pt-PT": "Faça 10 escaladas com seus companheiros de equipe no modo Cooperativo",
+                    "ru-RU": "Вскарабкайтесь 10 раз с помощью товарища в Совместной игре"
+                },
+                "howto": {
+                    "en-US": "Perform 10 climbs with your teammates in Co-op",
+                    "de-DE": "Nutze in Koop 10-mal die Räuberleiter",
+                    "es-ES": "Realiza 10 escaladas con tus compañeros en Cooperativo.",
+                    "fr-FR": "Effectuer 10 escalades avec vos coéquipiers en Coopération.",
+                    "it-IT": "Esegui 10 arrampicate in coppia in modalità Cooperativa",
+                    "ja-JP": "協力プレイでチームメイトと 10 回クライミングをする",
+                    "pl-PL": "Wykonaj 10 wspinaczek z innymi członkami drużyny w trybie „Współpraca”",
+                    "pt-PT": "Faça 10 escaladas com seus companheiros de equipe no modo Cooperativo",
+                    "ru-RU": "Вскарабкайтесь 10 раз с помощью товарища в Совместной игре"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "27.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "en-US": "Doctor in the House",
+                    "de-DE": "Der Arzt im Haus",
+                    "es-ES": "Médico de familia",
+                    "fr-FR": "Un médecin dans la salle",
+                    "it-IT": "Medico di famiglia",
+                    "ja-JP": "現場の医者",
+                    "pl-PL": "Lekarz jest z nami",
+                    "pt-PT": "Médico em Casa",
+                    "ru-RU": "Доктора вызывали?"
+                },
+                "description": {
+                    "en-US": "Revive teammates 10 times in Co-op or Versus",
+                    "de-DE": "Belebe in Koop oder Versus 10-mal Teamkameraden wieder",
+                    "es-ES": "Revive 10 veces a compañeros en Cooperativo o Competitivo.",
+                    "fr-FR": "Réanimez 10 coéquipiers en Coopération ou en Conflit.",
+                    "it-IT": "Rianima i compagni di squadra 10 volte in modalità Cooperativa o Versus",
+                    "ja-JP": "協力プレイまたは対戦で、チームメイトを 10 回復活させた",
+                    "pl-PL": "Ożyw członków drużyny 10 razy w trybie „Współpraca” lub „Wojna”",
+                    "pt-PT": "Reviva os companheiros de equipe 10 vezes no modo Cooperativo ou Versus",
+                    "ru-RU": "10 раз оживите союзника в Совместной игре или Конфликте"
+                },
+                "howto": {
+                    "en-US": "Revive teammates 10 times in Co-op or Versus",
+                    "de-DE": "Belebe in Koop oder Versus 10-mal Teamkameraden wieder",
+                    "es-ES": "Revive 10 veces a compañeros en Cooperativo o Competitivo.",
+                    "fr-FR": "Réanimer 10 coéquipiers en Coopération ou en Conflit.",
+                    "it-IT": "Rianima i compagni di squadra 10 volte in modalità Cooperativa o Versus",
+                    "ja-JP": "協力プレイまたは対戦で、チームメイトを 10 回復活させる",
+                    "pl-PL": "Ożyw członków drużyny 10 razy w trybie „Współpraca” lub „Wojna”",
+                    "pt-PT": "Reviva os companheiros de equipe 10 vezes no modo Cooperativo ou Versus",
+                    "ru-RU": "10 раз оживите союзника в Совместной игре или Конфликте"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "28.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "en-US": "Generous to a Fault",
+                    "de-DE": "Übermäßig großzügig",
+                    "es-ES": "Generosidad sin límites",
+                    "fr-FR": "Généreux à l'extrême",
+                    "it-IT": "Generosità commovente",
+                    "ja-JP": "お人好し",
+                    "pl-PL": "Zbyt wspaniałomyślny",
+                    "pt-PT": "Generosidade Até Demais",
+                    "ru-RU": "Неслыханная щедрость"
+                },
+                "description": {
+                    "en-US": "As a Rifleman, hand out 10,000 bullets to teammates in Co-op or Versus",
+                    "de-DE": "Gib in Koop oder Versus als Schütze 10.000 Geschosse an Teamkameraden ab",
+                    "es-ES": "Reparte 10 000 balas a tus compañeros como fusilero en Cooperativo o Competitivo.",
+                    "fr-FR": "En jouant comme fusilier, distribuez 10 000 balles à des coéquipiers en Coopération ou en Conflit.",
+                    "it-IT": "Come fuciliere, rifornisci i compagni con 10.000 proiettili in modalità Cooperativa o Versus",
+                    "ja-JP": "協力プレイまたは対戦で、ライフルマンとしてチームメイトに弾を 10,000 発補給した",
+                    "pl-PL": "Jako strzelec rozdaj 10 000 nabojów członkom drużyny w trybie „Współpraca” lub „Wojna”",
+                    "pt-PT": "Como Fuzileiro, entregue 10.000 balas aos companheiros de equipe no modo Cooperativo ou Versus.",
+                    "ru-RU": "Играя за штурмовика в Совместной игре или Конфликте, выдайте товарищами 10#160;000 патронов"
+                },
+                "howto": {
+                    "en-US": "As a Rifleman, hand out 10,000 bullets to teammates in Co-op or Versus",
+                    "de-DE": "Gib in Koop oder Versus als Schütze 10.000 Geschosse an Teamkameraden ab",
+                    "es-ES": "Reparte 10 000 balas a tus compañeros como fusilero en Cooperativo o Competitivo.",
+                    "fr-FR": "En jouant comme fusilier, distribuer 10 000 balles à des coéquipiers en Coopération ou en Conflit.",
+                    "it-IT": "Come fuciliere, rifornisci i compagni con 10.000 proiettili in modalità Cooperativa o Versus",
+                    "ja-JP": "協力プレイまたは対戦で、ライフルマンとしてチームメイトに弾を 10,000 発補給する",
+                    "pl-PL": "Jako strzelec rozdaj 10 000 nabojów członkom drużyny w trybie „Współpraca” lub „Wojna”",
+                    "pt-PT": "Como Fuzileiro, entregue 10.000 balas aos companheiros de equipe no modo Cooperativo ou Versus.",
+                    "ru-RU": "Играя за штурмовика в Совместной игре или Конфликте, выдайте товарищами 10#160;000 патронов"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "29.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "en-US": "Watch Your Step",
+                    "de-DE": "Pass auf, wo du hintrittst",
+                    "es-ES": "Vigila tus pasos",
+                    "fr-FR": "Marcher sur des œufs",
+                    "it-IT": "Guarda dove metti i piedi",
+                    "ja-JP": "足元注意",
+                    "pl-PL": "Bądź ostrożny",
+                    "pt-PT": "Cuidado Onde Pisa",
+                    "ru-RU": "Смотрите под ноги!"
+                },
+                "description": {
+                    "en-US": "Get 30 kills with claymores or mines in Co-op or Versus",
+                    "de-DE": "Hole in Koop oder Versus 30 Kills mit Claymores oder Minen",
+                    "es-ES": "Realiza 30 asesinatos con claymores o minas en Cooperativo o Competitivo.",
+                    "fr-FR": "Tuez 30 ennemis avec des claymores ou des mines en Coopération ou en Conflit.",
+                    "it-IT": "Effettua 30 uccisioni con le claymore o le mine in modalità Cooperativa o Versus",
+                    "ja-JP": "協力プレイまたは対戦で、クレイモアか地雷を使って敵を 30 人倒した",
+                    "pl-PL": "Zalicz 30 zabitych przy pomocy min claymore lub innych min w trybie „Współpraca” lub „Wojna”",
+                    "pt-PT": "Faça 30 eliminações com claymores ou minas no modo Cooperativo ou Versus",
+                    "ru-RU": "Подорвите 30 противников на минах в Совместной игре или Конфликте"
+                },
+                "howto": {
+                    "en-US": "Get 30 kills with claymores or mines in Co-op or Versus",
+                    "de-DE": "Hole in Koop oder Versus 30 Kills mit Claymores oder Minen",
+                    "es-ES": "Realiza 30 asesinatos con claymores o minas en Cooperativo o Competitivo.",
+                    "fr-FR": "Tuer 30 ennemis avec des claymores ou des mines en Coopération ou en Conflit.",
+                    "it-IT": "Effettua 30 uccisioni con le claymore o le mine in modalità Cooperativa o Versus",
+                    "ja-JP": "協力プレイまたは対戦で、クレイモアか地雷を使って敵を 30 人倒す",
+                    "pl-PL": "Zalicz 30 zabitych przy pomocy min claymore lub innych min w trybie „Współpraca” lub „Wojna”",
+                    "pt-PT": "Faça 30 eliminações com claymores ou minas no modo Cooperativo ou Versus",
+                    "ru-RU": "Подорвите 30 противников на минах в Совместной игре или Конфликте"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "30.png"
+        }
+    }
+}

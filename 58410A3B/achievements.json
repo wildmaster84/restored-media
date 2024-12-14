@@ -1,0 +1,352 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Neuer Designer",
+                    "en-US": "Budding Designer",
+                    "es-ES": "Diseñador de comienzos.",
+                    "fr-FR": "Concepteur en formation",
+                    "it-IT": "Disegnatore alle Prime Armi"
+                },
+                "description": {
+                    "de-DE": "Ein Loch mit dem Karteneditor erstellt.",
+                    "en-US": "Created a hole with the map editor.",
+                    "es-ES": "Un hoyo creado con el editor de mapas.",
+                    "fr-FR": "A créé un trou avec l'Éditeur de cartes.",
+                    "it-IT": "Creato una buca con l'editor della mappa."
+                },
+                "howto": {
+                    "de-DE": "Ein Loch mit dem Karteneditor erstellen.",
+                    "en-US": "Create a hole with the map editor.",
+                    "es-ES": "Un hoyo creado con el editor de mapas.",
+                    "fr-FR": "Créez un trou avec l'Éditeur de cartes.",
+                    "it-IT": "Crea una buca con l'editor mappa."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Freundlicher Nachbar",
+                    "en-US": "Friendly Neighbor",
+                    "es-ES": "Vecino simpático",
+                    "fr-FR": "Voisin amical",
+                    "it-IT": "Vicino Amichevole"
+                },
+                "description": {
+                    "de-DE": "Hat ein Spiel mit einem benutzerdefinierten Loch gehostet.",
+                    "en-US": "Hosted a match with a custom hole.",
+                    "es-ES": "Anfitrión de una partida con un hoyo personalizado.",
+                    "fr-FR": "A accueilli une partie avec un trou personnalisé.",
+                    "it-IT": "Ospitato una partita con una buca personalizzata."
+                },
+                "howto": {
+                    "de-DE": "Ein Spiel mit einem benutzerdefinierten Loch hosten.",
+                    "en-US": "Host a match with a custom hole.",
+                    "es-ES": "Sé anfitrión de una partida con un hoyo personalizado.",
+                    "fr-FR": "Accueillez une partie avec un trou personnalisé.",
+                    "it-IT": "Ospita una partita con una buca personalizzata."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Meister von Heimgesuchtes H.",
+                    "en-US": "Haunted Manor Champion",
+                    "es-ES": "Campeón de la Mansión Encantada",
+                    "fr-FR": "Champion du Manoir Hanté",
+                    "it-IT": "Campione del Castello Infestato"
+                },
+                "description": {
+                    "de-DE": "Hat das .Turnier “Heimgesuchtes Herrenhaus” gewonnen",
+                    "en-US": "Won the Haunted Manor Tournament.",
+                    "es-ES": "Ha ganado el torneo de la Mansión Encantada.",
+                    "fr-FR": "A gagné le Tournoi du Manoir Hanté.",
+                    "it-IT": "Vinto il Torneo del Castello Infestato."
+                },
+                "howto": {
+                    "de-DE": "Das Turnier \"Heimgesuchtes Herrenhaus\" gewinnen.",
+                    "en-US": "Win the Haunted Manor Tournament.",
+                    "es-ES": "Gana el torneo de la Mansión Encantada.",
+                    "fr-FR": "Gagnez le Tournoi du Manoir Hanté.",
+                    "it-IT": "Vinci il Torneo del Castello Infestato."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Meister von Irres Museum",
+                    "en-US": "Manic Museum Champion",
+                    "es-ES": "Campeón del Museo de Locos",
+                    "fr-FR": "Champion du Musée des déments",
+                    "it-IT": "Campione del Museo delle Pazzie"
+                },
+                "description": {
+                    "de-DE": "Hat das .Turnier “Irres Museum” gewonnen",
+                    "en-US": "Won the Manic Museum Tournament.",
+                    "es-ES": "Ha ganado el torneo del Museo de Locos.",
+                    "fr-FR": "A gagné le Tournoi du Musée des déments.",
+                    "it-IT": "Vinto il torneo del Museo delle Pazzie."
+                },
+                "howto": {
+                    "de-DE": "Das Turnier “Irres Museum” gewinnen",
+                    "en-US": "Win the Manic Museum Tournament.",
+                    "es-ES": "Gana el torneo del Museo de Locos.",
+                    "fr-FR": "Gagnez le Tournoi du Musée des déments.",
+                    "it-IT": "Vinci il torneo del Museo delle Pazzie."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Meister von Winter-Wunderland",
+                    "en-US": "Winter Wonderland Champion",
+                    "es-ES": "Campeón del Mundo Invernal",
+                    "fr-FR": "Champion du Pays des merveilles",
+                    "it-IT": "Campione della Meraviglia I."
+                },
+                "description": {
+                    "de-DE": "Hat das .Turnier “Winter-Wunderland” gewonnen",
+                    "en-US": "Won the Winter Wonderland Tournament.",
+                    "es-ES": "Ha ganado el torneo del Mundo Invernal Maravilloso.",
+                    "fr-FR": "A gagné le Tournoi du Pays des merveilles hivernal.",
+                    "it-IT": "Vinto il Torneo della Meraviglia Invernale."
+                },
+                "howto": {
+                    "de-DE": "Das Turnier “Winter-Wunderland” gewinnen",
+                    "en-US": "Win the Winter Wonderland Tournament.",
+                    "es-ES": "Gana el torneo del Mundo Invernal Maravilloso.",
+                    "fr-FR": "Gagnez le Tournoi du Pays des merveilles hivernal.",
+                    "it-IT": "Vinci il Torneo della Meraviglia Invernale."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Online-Meister",
+                    "en-US": "Online Champion",
+                    "es-ES": "Campeón online",
+                    "fr-FR": "Champion en ligne",
+                    "it-IT": "Campione Online"
+                },
+                "description": {
+                    "de-DE": "Gewonnen Sie ein Online-Turnier.",
+                    "en-US": "Won an online Tournament.",
+                    "es-ES": "Ha ganado un Torneo en línea.",
+                    "fr-FR": "A gagné un Tournoi en ligne.",
+                    "it-IT": "Vinto un Torneo online."
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie ein Online-Turnier.",
+                    "en-US": "Win an online Tournament.",
+                    "es-ES": "Gana un Torneo en línea.",
+                    "fr-FR": "Gagnez un Tournoi en ligne.",
+                    "it-IT": "Vinci un Torneo online."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Online-Geselle",
+                    "en-US": "Online Journeyman",
+                    "es-ES": "Viajero en línea",
+                    "fr-FR": "Artisan en ligne",
+                    "it-IT": "Operaio a Giornata Online"
+                },
+                "description": {
+                    "de-DE": "Hat drei Spiele online gehostet.",
+                    "en-US": "Hosted 3 online games.",
+                    "es-ES": "Ha sido anfitrión en 3 partidas en línea.",
+                    "fr-FR": "A accueilli 3 parties en ligne.",
+                    "it-IT": "Ospitato 3 partite online."
+                },
+                "howto": {
+                    "de-DE": "Drei Spiele online hosten.",
+                    "en-US": "Host 3 online games.",
+                    "es-ES": "Sé anfitrión en 3 partidas en línea.",
+                    "fr-FR": "Accueillez 3 parties en ligne.",
+                    "it-IT": "Ospita 3 partite online."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Ass",
+                    "en-US": "Ace",
+                    "es-ES": "As",
+                    "fr-FR": "As",
+                    "it-IT": "Asso"
+                },
+                "description": {
+                    "de-DE": "Hatte zehn Holes-in-One in einem Turnier.",
+                    "en-US": "Made 10 holes in 1 in 1 tournament.",
+                    "es-ES": "Has hecho 10 hoyos en uno en un torneo",
+                    "fr-FR": "A fait 10 trous en 1 en 1 tournoi.",
+                    "it-IT": "Fatto 10 buche in uno, in un torneo."
+                },
+                "howto": {
+                    "de-DE": "Zehn Holes-in-One in einem Turnier haben.",
+                    "en-US": "Make 10 holes in 1 in 1 tournament.",
+                    "es-ES": "Haz 10 hoyos en un torneo",
+                    "fr-FR": "Faites 10 trous en 1 en 1 tournoi.",
+                    "it-IT": "Fa' 10 buche in uno, in un torneo."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Glückssträhne",
+                    "en-US": "Hot Streak",
+                    "es-ES": "En racha",
+                    "fr-FR": "Bonne passe",
+                    "it-IT": "Fortissimo"
+                },
+                "description": {
+                    "de-DE": "Fünf Birdies oder mehr nacheinander geschafft.",
+                    "en-US": "Made 5 birdies or better in a row.",
+                    "es-ES": "Haz 5 ó más birdies seguidos.",
+                    "fr-FR": "A fait 5 birdies ou mieux d'affilée.",
+                    "it-IT": "Fatto 5 birdie o meglio di seguito."
+                },
+                "howto": {
+                    "de-DE": "Fünf Birdies oder mehr nacheinander schaffen.",
+                    "en-US": "Make 5 birdies or better in a row.",
+                    "es-ES": "Haz 5 ó más birdies seguidos.",
+                    "fr-FR": "Faites 5 birdies ou mieux d'affilée.",
+                    "it-IT": "Fa' 5 birdie o meglio di seguito."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Neuling",
+                    "en-US": "Rookie",
+                    "es-ES": "Novato",
+                    "fr-FR": "Bleu",
+                    "it-IT": "Principiante"
+                },
+                "description": {
+                    "de-DE": "Turnier oder Testversion von Heimgesuchtes Gemälde, Termitenhügel und Schneeweher beendet.",
+                    "en-US": "Completed Haunted Canvas, Termite Mound, and Snow Blower in tournament or trial",
+                    "es-ES": " Has completado Lienzo encantado, Monte de termitas y Lanzanieves en el torneo o prueba.",
+                    "fr-FR": "A terminé Tableau hanté, Termitière, et Canon à neige en tournoi ou essai ",
+                    "it-IT": "Completati la Tela Infestata, il Termitaio e lo Spazzaneve in torneo o in prova"
+                },
+                "howto": {
+                    "de-DE": "Turnier oder Testversion von Heimgesuchtes Gemälde, Termitenhügel und Schneeweher beenden.",
+                    "en-US": "Complete Haunted Canvas, Termite Mound, and Snow Blower in tournament or trial",
+                    "es-ES": " Acaba el Lienzo encantado, el Monte de termitas y el Lanzanieves en el torneo o en las pruebas.",
+                    "fr-FR": "Terminez Tableau hanté, Termitière et Canon à neige en tournoi ou essai",
+                    "it-IT": "Completa la Tela Infestata, il Termitaio e lo Spazzaneve in torneo o in prova"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Modebewusst",
+                    "en-US": "Fashionista",
+                    "es-ES": "Fashionista",
+                    "fr-FR": "Fashionista",
+                    "it-IT": "Stilista"
+                },
+                "description": {
+                    "de-DE": "Mit jedem Charakter komplett individuell eingerichtet ein Turnier gewonnen.",
+                    "en-US": "Won a tournament with each character fully customized.",
+                    "es-ES": " Has ganado un torneo con cada personaje totalmente personalizado.",
+                    "fr-FR": "A gagné un tournoi avec chacun des personnages complètement personnalisé.",
+                    "it-IT": "Ha vinto un torneo con tutti i personaggi interamente personalizzati."
+                },
+                "howto": {
+                    "de-DE": "Mit jedem Charakter komplett individuell eingerichtet ein Turnier gewinnen.",
+                    "en-US": "Win a tournament with each character fully customized.",
+                    "es-ES": " Gana un torneo con cada personaje totalmente personalizado.",
+                    "fr-FR": "Gagnez un tournoi avec chacun des personnages complètement personnalisé.",
+                    "it-IT": "Vinci un torneo con tutti i personaggi interamente personalizzati."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Grand-Slam-Meister",
+                    "en-US": "Grand Slam Champion",
+                    "es-ES": "Campeón del Grand Slam",
+                    "fr-FR": "Champion du Grand Chelem",
+                    "it-IT": "Campione Grand Slam"
+                },
+                "description": {
+                    "de-DE": "Hat jedes Turnier in fünf unter Par oder besser geschafft.",
+                    "en-US": "Completed every tournament in 5 under par or better.",
+                    "es-ES": "Ha completado todos los torneos con al menos 5 bajo par.",
+                    "fr-FR": "A terminé chaque tournoi en 5 sous le par ou mieux.",
+                    "it-IT": "Completato ogni torneo con par meno 5 o meglio."
+                },
+                "howto": {
+                    "de-DE": "Jedes Turnier in fünf unter Par oder besser schaffen.",
+                    "en-US": "Complete every tournament in 5 under par or better.",
+                    "es-ES": "Completa todos los torneos con al menos 5 bajo par.",
+                    "fr-FR": "Terminez chaque tournoi en 5 sous le par ou mieux.",
+                    "it-IT": "Completa ogni torneo con par meno 5 o meglio."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "12.png"
+        }
+    }
+}

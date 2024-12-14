@@ -1,0 +1,388 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "n00b",
+                    "en-US": "n00b",
+                    "es-ES": "n00b",
+                    "fr-FR": "n00b",
+                    "it-IT": "n00b",
+                    "ja-JP": "n00b"
+                },
+                "description": {
+                    "de-DE": "Gewinne ein Spiel! Heftigen Glühstrumpf!",
+                    "en-US": "Win 1 quick match! Welcome to the winning team!",
+                    "es-ES": "Gana una partida. ¡Bienvenido al equipo ganador!",
+                    "fr-FR": "Remportez une partie ! Bienvenue dans l'équipe des vainqueurs !",
+                    "it-IT": "Vinci una partita: benvenuto nella squadra vincente!",
+                    "ja-JP": "マッチに1回勝利する！勝者チームへようこそ！"
+                },
+                "howto": {
+                    "de-DE": "Gewinne ein Spiel! Heftigen Glühstrumpf!",
+                    "en-US": "Win 1 quick match! Welcome to the winning team!",
+                    "es-ES": "Gana una partida. ¡Bienvenido al equipo ganador!",
+                    "fr-FR": "Remportez une partie ! Bienvenue dans l'équipe des vainqueurs !",
+                    "it-IT": "Vinci una partita: benvenuto nella squadra vincente!",
+                    "ja-JP": "マッチに1回勝利する！勝者チームへようこそ！"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "01.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Tour of the City",
+                    "en-US": "Tour of the City",
+                    "es-ES": "Tour of the City",
+                    "fr-FR": "Tour of the City",
+                    "it-IT": "Tour of the City",
+                    "ja-JP": "Tour of the City"
+                },
+                "description": {
+                    "de-DE": "Gewinne einmal auf allen Karten in allen Spielmodi!",
+                    "en-US": "Achieve a win in any game mode on every map in quick match games!",
+                    "es-ES": "Gana una partida en todos los mapas del juego en cualquier modo.",
+                    "fr-FR": "Remportez une victoire dans n'importe quel mode sur toutes les cartes !",
+                    "it-IT": "Ottieni una vittoria in ogni modalità su ogni mappa!",
+                    "ja-JP": "全マップで任意のゲームモードに勝利する！"
+                },
+                "howto": {
+                    "de-DE": "Gewinne einmal auf allen Karten in allen Spielmodi!",
+                    "en-US": "Achieve a win in any game mode on every map in quick match games!",
+                    "es-ES": "Gana una partida en todos los mapas del juego en cualquier modo.",
+                    "fr-FR": "Remportez une victoire dans n'importe quel mode sur toutes les cartes !",
+                    "it-IT": "Ottieni una vittoria in ogni modalità su ogni mappa!",
+                    "ja-JP": "全マップで任意のゲームモードに勝利する！"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "02.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Field Officer",
+                    "en-US": "Field Officer",
+                    "es-ES": "Field Officer",
+                    "fr-FR": "Field Officer",
+                    "it-IT": "Field Officer",
+                    "ja-JP": "Field Officer"
+                },
+                "description": {
+                    "de-DE": "Beförderung zum: Sergeant",
+                    "en-US": "Reach the rank of Sergeant.",
+                    "es-ES": "Alcanza el rango de Sergeant.",
+                    "fr-FR": "Atteignez le grade Sergeant.",
+                    "it-IT": "Ottieni il grado di Sergeant.",
+                    "ja-JP": "Sergeantのランクに昇進する"
+                },
+                "howto": {
+                    "de-DE": "Beförderung zum: Sergeant",
+                    "en-US": "Reach the rank of Sergeant.",
+                    "es-ES": "Alcanza el rango de Sergeant.",
+                    "fr-FR": "Atteignez le grade Sergeant.",
+                    "it-IT": "Ottieni il grado di Sergeant.",
+                    "ja-JP": "Sergeantのランクに昇進する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "5",
+            "imageId": "03.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Opportunist",
+                    "en-US": "Opportunist",
+                    "es-ES": "Opportunist",
+                    "fr-FR": "Opportunist",
+                    "it-IT": "Opportunist",
+                    "ja-JP": "Opportunist"
+                },
+                "description": {
+                    "de-DE": "Knipse 10 Gegner aus, die noch unter Wirkung einer Digi-Granate leiden.",
+                    "en-US": "Kill 10 opponents in a quick match while they are affected by a Digi Grenade.",
+                    "es-ES": "Mata a 10 enemigos mientras estén bajo los efectos de una granada digital.",
+                    "fr-FR": "Profitez des effets d'une digi grenade pour tuer 10 ennemis.",
+                    "it-IT": "Uccidi 10 avversari colpiti da una granata digitale.",
+                    "ja-JP": "Digi Grenadeで撹乱させた敵を10人倒す"
+                },
+                "howto": {
+                    "de-DE": "Knipse 10 Gegner aus, die noch unter Wirkung einer Digi-Granate leiden.",
+                    "en-US": "Kill 10 opponents in a quick match while they are affected by a Digi Grenade.",
+                    "es-ES": "Mata a 10 enemigos mientras estén bajo los efectos de una granada digital.",
+                    "fr-FR": "Profitez des effets d'une digi grenade pour tuer 10 ennemis.",
+                    "it-IT": "Uccidi 10 avversari colpiti da una granata digitale.",
+                    "ja-JP": "Digi Grenadeで撹乱させた敵を10人倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Dodge This",
+                    "en-US": "Dodge This",
+                    "es-ES": "Dodge This",
+                    "fr-FR": "Dodge This",
+                    "it-IT": "Dodge This",
+                    "ja-JP": "Dodge This"
+                },
+                "description": {
+                    "de-DE": "Stanze 25 Gegnern, die gerade ihr HRV benutzen, ein Luftloch in die Mütze.",
+                    "en-US": "Headshot 25 opponents while they are using HRV in quick match games.",
+                    "es-ES": "Abate de un tiro en la cabeza a 25 enemigos que estén usando el HRV.",
+                    "fr-FR": "Tuez 25 ennemis d'une balle dans la tête en utilisant votre VRA.",
+                    "it-IT": "Metti a segno 25 colpi alla testa contro avversari che stanno usando l'HRV.",
+                    "ja-JP": "現在HRVを使用している25名の敵にヘッドショットを決める"
+                },
+                "howto": {
+                    "de-DE": "Stanze 25 Gegnern, die gerade ihr HRV benutzen, ein Luftloch in die Mütze.",
+                    "en-US": "Headshot 25 opponents while they are using HRV in quick match games.",
+                    "es-ES": "Abate de un tiro en la cabeza a 25 enemigos que estén usando el HRV.",
+                    "fr-FR": "Tuez 25 ennemis d'une balle dans la tête en utilisant votre VRA.",
+                    "it-IT": "Metti a segno 25 colpi alla testa contro avversari che stanno usando l'HRV.",
+                    "ja-JP": "現在HRVを使用している25名の敵にヘッドショットを決める"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "05.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Hack the Gibson",
+                    "en-US": "Hack the Gibson",
+                    "es-ES": "Hack the Gibson",
+                    "fr-FR": "Hack the Gibson",
+                    "it-IT": "Hack the Gibson",
+                    "ja-JP": "Hack the Gibson"
+                },
+                "description": {
+                    "de-DE": "Hacke alle Kontrollpunkte auf allen Mehrspieler-Karten.",
+                    "en-US": "Hack every control point on every multiplayer map in quick match games.",
+                    "es-ES": "Piratea todos los puntos de control de todos los mapas multijugador.",
+                    "fr-FR": "Piratez tous les points de contrôle sur chaque carte multijoueur.",
+                    "it-IT": "Viola tutti i punti di controllo in tutte le mappe multiplayer.",
+                    "ja-JP": "すべてのマルチプレイヤーマップで全制御ポイントをハッキングする"
+                },
+                "howto": {
+                    "de-DE": "Hacke alle Kontrollpunkte auf allen Mehrspieler-Karten.",
+                    "en-US": "Hack every control point on every multiplayer map in quick match games.",
+                    "es-ES": "Piratea todos los puntos de control de todos los mapas multijugador.",
+                    "fr-FR": "Piratez tous les points de contrôle sur chaque carte multijoueur.",
+                    "it-IT": "Viola tutti i punti di controllo in tutte le mappe multiplayer.",
+                    "ja-JP": "すべてのマルチプレイヤーマップで全制御ポイントをハッキングする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "06.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Way of the Gun",
+                    "en-US": "Way of the Gun",
+                    "es-ES": "Way of the Gun",
+                    "fr-FR": "Way of the Gun",
+                    "it-IT": "Way of the Gun",
+                    "ja-JP": "Way of the Gun"
+                },
+                "description": {
+                    "de-DE": "Demonstriere an einem Gegner, dass seine eigene Waffe funktioniert.",
+                    "en-US": "Kill an opponent with their own weapon in a quick match. Ouch!",
+                    "es-ES": "Mata a un enemigo con su propia arma. ¡Ay!",
+                    "fr-FR": "Tuez un adversaire avec sa propre arme. Aïe !",
+                    "it-IT": "Uccidi un avversario con la sua stessa arma. Ahia!",
+                    "ja-JP": "敵の武器を使って敵を倒す"
+                },
+                "howto": {
+                    "de-DE": "Demonstriere an einem Gegner, dass seine eigene Waffe funktioniert.",
+                    "en-US": "Kill an opponent with their own weapon in a quick match. Ouch!",
+                    "es-ES": "Mata a un enemigo con su propia arma. ¡Ay!",
+                    "fr-FR": "Tuez un adversaire avec sa propre arme. Aïe !",
+                    "it-IT": "Uccidi un avversario con la sua stessa arma. Ahia!",
+                    "ja-JP": "敵の武器を使って敵を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "07.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Flatten and Reinstall",
+                    "en-US": "Flatten and Reinstall",
+                    "es-ES": "Flatten and Reinstall",
+                    "fr-FR": "Flatten and Reinstall",
+                    "it-IT": "Flatten and Reinstall",
+                    "ja-JP": "Flatten and Reinstall"
+                },
+                "description": {
+                    "de-DE": "Ziehe 25 Gegnern den Stecker, denen ein EMP-Ei einen Neustart empfohlen hat.",
+                    "en-US": "Kill 25 opponents in quick match games while they are EMPed!",
+                    "es-ES": "Mata a 25 enemigos mientras estén bajo los efectos de una granada de PEM.",
+                    "fr-FR": "Profitez des effets d'une grenade EMP pour tuer 25 ennemis.",
+                    "it-IT": "Uccidi 25 avversari colpiti da un EMP!",
+                    "ja-JP": "EMPを受けている敵を25名倒す"
+                },
+                "howto": {
+                    "de-DE": "Ziehe 25 Gegnern den Stecker, denen ein EMP-Ei einen Neustart empfohlen hat.",
+                    "en-US": "Kill 25 opponents in quick match games while they are EMPed!",
+                    "es-ES": "Mata a 25 enemigos mientras estén bajo los efectos de una granada de PEM.",
+                    "fr-FR": "Profitez des effets d'une grenade EMP pour tuer 25 ennemis.",
+                    "it-IT": "Uccidi 25 avversari colpiti da un EMP!",
+                    "ja-JP": "EMPを受けている敵を25名倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Command Officer",
+                    "en-US": "Command Officer",
+                    "es-ES": "Command Officer",
+                    "fr-FR": "Command Officer",
+                    "it-IT": "Command Officer",
+                    "ja-JP": "Command Officer"
+                },
+                "description": {
+                    "de-DE": "Beförderung zum: Major.",
+                    "en-US": "Reach the rank of Major.",
+                    "es-ES": "Alcanza el rango de Major.",
+                    "fr-FR": "Atteignez le grade Major.",
+                    "it-IT": "Ottieni il grado di Major.",
+                    "ja-JP": "Majorのランクに昇進する"
+                },
+                "howto": {
+                    "de-DE": "Beförderung zum: Major.",
+                    "en-US": "Reach the rank of Major.",
+                    "es-ES": "Alcanza el rango de Major.",
+                    "fr-FR": "Atteignez le grade Major.",
+                    "it-IT": "Ottieni il grado di Major.",
+                    "ja-JP": "Majorのランクに昇進する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Commissioned Officer",
+                    "en-US": "Commissioned Officer",
+                    "es-ES": "Commissioned Officer",
+                    "fr-FR": "Commissioned Officer",
+                    "it-IT": "Commissioned Officer",
+                    "ja-JP": "Commissioned Officer"
+                },
+                "description": {
+                    "de-DE": "Beförderung zum: Second Lieutenant",
+                    "en-US": "Reach the rank of Second Lieutenant.",
+                    "es-ES": "Alcanza el rango de Second Lieutenant.",
+                    "fr-FR": "Atteignez le grade Second Lieutenant.",
+                    "it-IT": "Ottieni il grado di Second Lieutenant.",
+                    "ja-JP": "Second Lieutenantのランクに昇進する"
+                },
+                "howto": {
+                    "de-DE": "Beförderung zum: Second Lieutenant",
+                    "en-US": "Reach the rank of Second Lieutenant.",
+                    "es-ES": "Alcanza el rango de Second Lieutenant.",
+                    "fr-FR": "Atteignez le grade Second Lieutenant.",
+                    "it-IT": "Ottieni il grado di Second Lieutenant.",
+                    "ja-JP": "Second Lieutenantのランクに昇進する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "General",
+                    "en-US": "General",
+                    "es-ES": "General",
+                    "fr-FR": "General",
+                    "it-IT": "General",
+                    "ja-JP": "General"
+                },
+                "description": {
+                    "de-DE": "Werde zum Brigadier General befördert.",
+                    "en-US": "Achieve the rank of Brigadier General.  Hats off to you!",
+                    "es-ES": "Alcanza el rango de Brigadier General. ¡Sí, señor!",
+                    "fr-FR": "Atteignez le grade de Brigadier Général. Avec nos félicitations !",
+                    "it-IT": "Raggiungi il grado di Brigadier Generale. Complimenti!",
+                    "ja-JP": "Brigadier Generalのランクに昇進する。君には脱帽だ！"
+                },
+                "howto": {
+                    "de-DE": "Werde zum Brigadier General befördert.",
+                    "en-US": "Achieve the rank of Brigadier General.  Hats off to you!",
+                    "es-ES": "Alcanza el rango de Brigadier General. ¡Sí, señor!",
+                    "fr-FR": "Atteignez le grade de Brigadier Général. Avec nos félicitations !",
+                    "it-IT": "Raggiungi il grado di Brigadier Generale. Complimenti!",
+                    "ja-JP": "Brigadier Generalのランクに昇進する。君には脱帽だ！"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "25",
+            "imageId": "11.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Gearhead",
+                    "en-US": "Gearhead",
+                    "es-ES": "Gearhead",
+                    "fr-FR": "Gearhead",
+                    "it-IT": "Gearhead",
+                    "ja-JP": "Gearhead"
+                },
+                "description": {
+                    "de-DE": "Schalte alle Waffen und jegliche Ausrüstung frei!",
+                    "en-US": "Unlock all gear and weapons!",
+                    "es-ES": "Desbloquea todo el equipo y las armas.",
+                    "fr-FR": "Débloquez tous les équipements et toutes les armes !",
+                    "it-IT": "Sblocca tutte le armi e gli equipaggiamenti!",
+                    "ja-JP": "すべての装備と武器をアンロックする"
+                },
+                "howto": {
+                    "de-DE": "Schalte alle Waffen und jegliche Ausrüstung frei!",
+                    "en-US": "Unlock all gear and weapons!",
+                    "es-ES": "Desbloquea todo el equipo y las armas.",
+                    "fr-FR": "Débloquez tous les équipements et toutes les armes !",
+                    "it-IT": "Sblocca tutte le armi e gli equipaggiamenti!",
+                    "ja-JP": "すべての装備と武器をアンロックする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "30",
+            "imageId": "12.png"
+        }
+    }
+}

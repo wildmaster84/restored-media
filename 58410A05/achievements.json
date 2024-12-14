@@ -1,0 +1,352 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "en-US": "Environmental Exterminator",
+                    "fr-FR": "Exterminateur vert",
+                    "it-IT": "Sterminatore ambientale",
+                    "de-DE": "Kammerjäger",
+                    "es-ES": "Exterminador ambiental"
+                },
+                "description": {
+                    "en-US": "Destroy a Spider using spikes (General)",
+                    "fr-FR": "Détruisez une Araignée avec des piques. (général)",
+                    "it-IT": "Distruggi un Ragno usando le lance (Generale)",
+                    "de-DE": "Töte eine Spinne mit Hilfe von Stacheln (Allgemein)",
+                    "es-ES": "Destruye una araña con los pinchos (general)"
+                },
+                "howto": {
+                    "en-US": "Destroy a Spider using spikes (General)",
+                    "fr-FR": "Détruisez une Araignée avec des piques. (général)",
+                    "it-IT": "Distruggi un Ragno usando le lance (Generale)",
+                    "de-DE": "Töte eine Spinne mit Hilfe von Stacheln (Allgemein)",
+                    "es-ES": "Destruye una araña con los pinchos (general)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "en-US": "That’s Teamwork",
+                    "fr-FR": "Travail d'équipe",
+                    "it-IT": "Che lavoro di squadra!",
+                    "de-DE": "Das ist Teamwork",
+                    "es-ES": "Trabajo en equipo"
+                },
+                "description": {
+                    "en-US": "Destroy an enemy using a Kamikazer (General)",
+                    "fr-FR": "Détruisez un ennemi avec un Kamikazer. (général)",
+                    "it-IT": "Distruggi un nemico usando un Kamikazer (Generale)",
+                    "de-DE": "Töte einen Feind mit einem Kamikazerangriff (Allgemein)",
+                    "es-ES": "Destruye a un enemigo con un kamikazer (general)"
+                },
+                "howto": {
+                    "en-US": "Destroy an enemy using a Kamikazer (General)",
+                    "fr-FR": "Détruisez un ennemi avec un Kamikazer. (général)",
+                    "it-IT": "Distruggi un nemico usando un Kamikazer (Generale)",
+                    "de-DE": "Töte einen Feind mit einem Kamikazerangriff (Allgemein)",
+                    "es-ES": "Destruye a un enemigo con un kamikazer (general)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "en-US": "Survivor",
+                    "fr-FR": "Survivant",
+                    "it-IT": "Sopravvissuto",
+                    "de-DE": "Überlebender",
+                    "es-ES": "Superviviente"
+                },
+                "description": {
+                    "en-US": "Kill 20 enemies in a row with only 1 health left (Individual)",
+                    "fr-FR": "Tuez 20 ennemis de suite avec 1 point de santé. (individuel)",
+                    "it-IT": "Uccidi 20 nemici di seguito mentre hai 1 vita (Individuale)",
+                    "de-DE": "Töte 20 Feinde, wenn du nur 1 Gesundheit hast (Individuell)",
+                    "es-ES": "Mata a 20 enemigos seguidos con solo 1 salud (individual)"
+                },
+                "howto": {
+                    "en-US": "Kill 20 enemies in a row with only 1 health left (Individual)",
+                    "fr-FR": "Tuez 20 ennemis de suite avec 1 point de santé. (individuel)",
+                    "it-IT": "Uccidi 20 nemici di seguito mentre hai 1 vita (Individuale)",
+                    "de-DE": "Töte 20 Feinde, wenn du nur 1 Gesundheit hast (Individuell)",
+                    "es-ES": "Mata a 20 enemigos seguidos con solo 1 salud (individual)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "en-US": "Two Birds",
+                    "fr-FR": "Deux coups",
+                    "it-IT": "Due piccioni",
+                    "de-DE": "Zwei Fliegen",
+                    "es-ES": "Dos pájaros de un tiro"
+                },
+                "description": {
+                    "en-US": "Smack a bomb so that kills two or more enemies (Individual)",
+                    "fr-FR": "Lancez 1 bombe pour tuer 2 ennemis ou plus. (individuel)",
+                    "it-IT": "Lancia una bomba che uccida almeno due nemici (Individuale)",
+                    "de-DE": "Zünde eine Bombe, die zwei oder mehr Feinde tötet (Individuell)",
+                    "es-ES": "Lanza una bomba que acabe con dos o más enemigos (individual)"
+                },
+                "howto": {
+                    "en-US": "Smack a bomb so that kills two or more enemies (Individual)",
+                    "fr-FR": "Lancez 1 bombe pour tuer 2 ennemis ou plus. (individuel)",
+                    "it-IT": "Lancia una bomba che uccida almeno due nemici (Individuale)",
+                    "de-DE": "Zünde eine Bombe, die zwei oder mehr Feinde tötet (Individuell)",
+                    "es-ES": "Lanza una bomba que acabe con dos o más enemigos (individual)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "en-US": "Overkill",
+                    "fr-FR": "Surenchère",
+                    "it-IT": "Massacro",
+                    "de-DE": "Vernichtung",
+                    "es-ES": "Matanza"
+                },
+                "description": {
+                    "en-US": "Destroy six enemies with one Beam Shot (Individual)",
+                    "fr-FR": "Détruisez six ennemis avec un Rayon. (individuel)",
+                    "it-IT": "Distruggi sei nemici con un Attacco con raggio (Individuale)",
+                    "de-DE": "Töte 6 Feinde mit nur einem Strahlenschuss (Individuell)",
+                    "es-ES": "Destruye a seis enemigos con un haz de energía (individual)"
+                },
+                "howto": {
+                    "en-US": "Destroy six enemies with one Beam Shot (Individual)",
+                    "fr-FR": "Détruisez six ennemis avec un Rayon. (individuel)",
+                    "it-IT": "Distruggi sei nemici con un Attacco con raggio (Individuale)",
+                    "de-DE": "Töte 6 Feinde mit nur einem Strahlenschuss (Individuell)",
+                    "es-ES": "Destruye a seis enemigos con un haz de energía (individual)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "en-US": "Untouchable",
+                    "fr-FR": "Intouchable",
+                    "it-IT": "Intoccabile",
+                    "de-DE": "Unnahbar",
+                    "es-ES": "Intocable"
+                },
+                "description": {
+                    "en-US": "Defeat any boss without taking damage (General)",
+                    "fr-FR": "Vainquez un gardien sans prendre aucun dégât. (général)",
+                    "it-IT": "Sconfiggi un guardiano senza subire danni (Generale)",
+                    "de-DE": "Besiege einen Wächter ohne Schaden einzustecken (Allgemein)",
+                    "es-ES": "Acaba con cualquier enemigo final sin sufrir daños (general)"
+                },
+                "howto": {
+                    "en-US": "Defeat any boss without taking damage (General)",
+                    "fr-FR": "Vainquez un gardien sans prendre aucun dégât. (général)",
+                    "it-IT": "Sconfiggi un guardiano senza subire danni (Generale)",
+                    "de-DE": "Besiege einen Wächter ohne Schaden einzustecken (Allgemein)",
+                    "es-ES": "Acaba con cualquier enemigo final sin sufrir daños (general)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "en-US": "Don’t Go Alone",
+                    "fr-FR": "Plus on est de fous",
+                    "it-IT": "Non andare da solo",
+                    "de-DE": "Nimm jemanden mit",
+                    "es-ES": "Mejor en compañía"
+                },
+                "description": {
+                    "en-US": "Complete any Co-op Challenge Room (General)",
+                    "fr-FR": "Réussissez un défi coop. (général)",
+                    "it-IT": "Completa una sala Sfida cooperativa (Generale)",
+                    "de-DE": "Schließe einen Koop-Herausforderungsraum ab (Allgemein)",
+                    "es-ES": "Completa cualquier sala de desafío cooperativo (general)"
+                },
+                "howto": {
+                    "en-US": "Complete any Co-op Challenge Room (General)",
+                    "fr-FR": "Réussissez un défi coop. (général)",
+                    "it-IT": "Completa una sala Sfida cooperativa (Generale)",
+                    "de-DE": "Schließe einen Koop-Herausforderungsraum ab (Allgemein)",
+                    "es-ES": "Completa cualquier sala de desafío cooperativo (general)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "en-US": "Arcade Master",
+                    "fr-FR": "Maître de l'arcade",
+                    "it-IT": "Maestro Arcade",
+                    "de-DE": "Arcade-Meister",
+                    "es-ES": "Maestro del arcade"
+                },
+                "description": {
+                    "en-US": "Complete any Arcade Chapter below the target time (General)",
+                    "fr-FR": "Terminez 1 chapitre Arcade avant la fin du chrono. (général)",
+                    "it-IT": "Completa un capitolo Arcade nel tempo assegnato (Generale)",
+                    "de-DE": "Schließe ein Arcade-Kapitel unter der Zeit ab (Allgemein)",
+                    "es-ES": "Acaba un capítulo de arcade en el tiempo señalado (gral.)"
+                },
+                "howto": {
+                    "en-US": "Complete any Arcade Chapter below the target time (General)",
+                    "fr-FR": "Terminez 1 chapitre Arcade avant la fin du chrono. (général)",
+                    "it-IT": "Completa un capitolo Arcade nel tempo assegnato (Generale)",
+                    "de-DE": "Schließe ein Arcade-Kapitel unter der Zeit ab (Allgemein)",
+                    "es-ES": "Acaba un capítulo de arcade en el tiempo señalado (gral.)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "en-US": "Enthusiast",
+                    "fr-FR": "Enthousiaste",
+                    "it-IT": "Entusiasta",
+                    "de-DE": "Enthusiast",
+                    "es-ES": "Entusiasta"
+                },
+                "description": {
+                    "en-US": "Collect 10 Marks of the Gods (Single Player only)",
+                    "fr-FR": "Collectionnez 10 Signes des dieux. (solo uniquement)",
+                    "it-IT": "Raccogli 10 Segni degli Dèi (Solo giocatore singolo)",
+                    "de-DE": "Sammele 10 Zeichen der Götter ein (nur Einzelspieler)",
+                    "es-ES": "Colecciona diez marcas de los dioses (solo 1 jugador)"
+                },
+                "howto": {
+                    "en-US": "Collect 10 Marks of the Gods (Single Player only)",
+                    "fr-FR": "Collectionnez 10 Signes des dieux. (solo uniquement)",
+                    "it-IT": "Raccogli 10 Segni degli Dèi (Solo giocatore singolo)",
+                    "de-DE": "Sammele 10 Zeichen der Götter ein (nur Einzelspieler)",
+                    "es-ES": "Colecciona diez marcas de los dioses (solo 1 jugador)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "en-US": "Collector",
+                    "fr-FR": "Collectionneur",
+                    "it-IT": "Collezionista",
+                    "de-DE": "Sammler",
+                    "es-ES": "Coleccionista"
+                },
+                "description": {
+                    "en-US": "Collect all Marks of the Gods (Single Player only)",
+                    "fr-FR": "Collectionnez tous les Signes des dieux. (solo uniquement)",
+                    "it-IT": "Raccogli tutti i Segni degli Dèi (Solo giocatore singolo)",
+                    "de-DE": "Sammele alle Zeichen der Götter ein (nur Einzelspieler)",
+                    "es-ES": "Consigue todas las marcas de los dioses (solo 1 jugador)"
+                },
+                "howto": {
+                    "en-US": "Collect all Marks of the Gods (Single Player only)",
+                    "fr-FR": "Collectionnez tous les Signes des dieux. (solo uniquement)",
+                    "it-IT": "Raccogli tutti i Segni degli Dèi (Solo giocatore singolo)",
+                    "de-DE": "Sammele alle Zeichen der Götter ein (nur Einzelspieler)",
+                    "es-ES": "Consigue todas las marcas de los dioses (solo 1 jugador)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "en-US": "Millionaire",
+                    "fr-FR": "Millionnaire",
+                    "it-IT": "Milionario",
+                    "de-DE": "Millionär",
+                    "es-ES": "Millonario"
+                },
+                "description": {
+                    "en-US": "Collect 1 000 000 Doubloons (Single Player only)",
+                    "fr-FR": "Collectionnez 1 000 000 Doublons. (solo uniquement)",
+                    "it-IT": "Raccogli 1.000.000 di dobloni (Solo giocatore singolo)",
+                    "de-DE": "Sammele 1.000.000 Dublonen ein (nur Einzelspieler)",
+                    "es-ES": "Consigue 1 000 000 de doblones (solo 1 jugador)"
+                },
+                "howto": {
+                    "en-US": "Collect 1 000 000 Doubloons (Single Player only)",
+                    "fr-FR": "Collectionnez 1 000 000 Doublons. (solo uniquement)",
+                    "it-IT": "Raccogli 1.000.000 di dobloni (Solo giocatore singolo)",
+                    "de-DE": "Sammele 1.000.000 Dublonen ein (nur Einzelspieler)",
+                    "es-ES": "Consigue 1 000 000 de doblones (solo 1 jugador)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "en-US": "Grand Master",
+                    "fr-FR": "Grand maître",
+                    "it-IT": "Gran maestro",
+                    "de-DE": "Großmeister",
+                    "es-ES": "Gran maestro"
+                },
+                "description": {
+                    "en-US": "Complete the full game (Individual)",
+                    "fr-FR": "Terminez le jeu complet. (individuel)",
+                    "it-IT": "Completa tutto il gioco (Individuale)",
+                    "de-DE": "Schließe das vollständige Spiel ab (Individuell)",
+                    "es-ES": "Completa todo el juego (individual)"
+                },
+                "howto": {
+                    "en-US": "Complete the full game (Individual)",
+                    "fr-FR": "Terminez le jeu complet. (individuel)",
+                    "it-IT": "Completa tutto il gioco (Individuale)",
+                    "de-DE": "Schließe das vollständige Spiel ab (Individuell)",
+                    "es-ES": "Completa todo el juego (individual)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "12.png"
+        }
+    }
+}

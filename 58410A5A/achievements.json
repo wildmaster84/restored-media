@@ -1,0 +1,496 @@
+{
+    "Achievements": {
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Nostalgie",
+                    "en-US": "Nostalgia",
+                    "es-ES": "Nostalgia",
+                    "fr-FR": "Nostalgie",
+                    "it-IT": "Nostalgia",
+                    "ja-JP": "ノスタルジア",
+                    "ko-KR": "향수",
+                    "pt-PT": "Nostalgia",
+                    "zh-CHT": "緬懷好時光"
+                },
+                "description": {
+                    "de-DE": "Du hast eine Warp-Zone gefunden. Jetzt bezahl mich für die Reparatur!",
+                    "en-US": "You found a warp zone! Now pay me for the door repair!",
+                    "es-ES": "¡Encontraste una zona de distorsión! ¡Ya me estás pagando la reparación de la puerta!",
+                    "fr-FR": "Tu as trouvé une zone de distorsion ! Maintenant, rembourse-moi la réparation de la porte !",
+                    "it-IT": "Hai trovato una zona di teletrasporto! Ora pagami per la riparazione!",
+                    "ja-JP": "ワープ ゾーンを発見! ...でも壊したドアは弁償してね。",
+                    "ko-KR": "순간이동 지역을 발견했군요! 이제 대문 수리비를 지불하세요!",
+                    "pt-PT": "Encontraste uma zona de distorção! Agora paga-me pelo arranjo da porta!",
+                    "zh-CHT": "你找到一個異次元區！快賠我修理門的費用！"
+                },
+                "howto": {
+                    "de-DE": "Finde und schalte eine Warp-Zone frei.",
+                    "en-US": "Find and unlock a warp zone.",
+                    "es-ES": "Encuentra y desbloquea una zona de distorsión.",
+                    "fr-FR": "Trouve et déverrouille une zone de distorsion.",
+                    "it-IT": "Trova e sblocca una zona di teletrasporto.",
+                    "ja-JP": "ワープ ゾーンを 1 個見つけて解除する。",
+                    "ko-KR": "워프 존을 찾아 잠금 해제하세요.",
+                    "pt-PT": "Encontra e desbloqueia uma zona de distorção.",
+                    "zh-CHT": "找出並解除一個異次元區的鎖定。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "01.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "In der Vergangenheit leben",
+                    "en-US": "Living in the Past",
+                    "es-ES": "Living in the Past",
+                    "fr-FR": "À l'ancienne",
+                    "it-IT": "Vivere nel passato",
+                    "ja-JP": "過去に住む人",
+                    "ko-KR": "과거에 머무름",
+                    "pt-PT": "Viver no passado",
+                    "zh-CHT": "英雄憶當年"
+                },
+                "description": {
+                    "de-DE": "Du hast 5 Warp-Zonen erobert! Du bist aber so etwas von alte Schule...",
+                    "en-US": "You conquered 5 warp zones! you're so old school...",
+                    "es-ES": "¡Conquistaste cinco zonas de distorsión ! Perteneces a la vieja escuela...",
+                    "fr-FR": "Tu as conquis 5 zones de distorsion ! Tu es vraiment de la vieille école...",
+                    "it-IT": "Hai conquistato 5 zone di teletrasporto! Sei così retro...",
+                    "ja-JP": "5 つのワープ ゾーンを制圧した! ホント、レトロだよね...",
+                    "ko-KR": "5개의 순간이동 지역을 정복했습니다! 아주 지루한 분이시군요…",
+                    "pt-PT": "Conquistaste 5 zonas de distorção! és tão velha guarda...",
+                    "zh-CHT": "你征服了5 個異次元區！你還真老派..."
+                },
+                "howto": {
+                    "de-DE": "Finde und löse 5 Warp-Zonen.",
+                    "en-US": "Find and complete 5 warp zones.",
+                    "es-ES": "Encuentra y desbloquea cinco zonas de distorsión.",
+                    "fr-FR": "Trouve et franchis 5 zones de distorsion.",
+                    "it-IT": "Trova e completa 5 zone di teletrasporto.",
+                    "ja-JP": "ワープ ゾーンを 5 個見つけて、クリアする。",
+                    "ko-KR": "5개의 워프 존을 찾아 완료하세요.",
+                    "pt-PT": "Encontra e conclui 5 zonas de distorção.",
+                    "zh-CHT": "找出並通過 5 個異次元區。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "02.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "The Commander",
+                    "en-US": "The Commander",
+                    "es-ES": "The Commander",
+                    "fr-FR": "The Commander",
+                    "it-IT": "Il comandante",
+                    "ja-JP": "コマンダー",
+                    "ko-KR": "커맨더",
+                    "pt-PT": "The Commander",
+                    "zh-CHT": "指揮官"
+                },
+                "description": {
+                    "de-DE": "Du hast das Commander-Video freigeschaltet! Supergenial, wirklich!",
+                    "en-US": "You unlocked Commander Video! Double rainbow all da way!",
+                    "es-ES": "¡Desbloqueaste el Commander Video! ¡Da paso al arco iris doble!",
+                    "fr-FR": "Tu as déverrouillé Commander Video ! Un double arc-en-ciel pour toi !",
+                    "it-IT": "Hai sbloccato Commander Video! Doppio arcobaleno per tutti!",
+                    "ja-JP": "Commander Video を解除した! これからずっとダブルの虹が拝めるぞ!",
+                    "ko-KR": "커맨더 비디오를 잠금 해제했습니다! 쌍무지개가 떴어요!",
+                    "pt-PT": "Desbloqueaste o Commandervideo! Arco-íris duplo sempre a dar-lhe!",
+                    "zh-CHT": "你解除了電玩指揮官的鎖定！兩道彩虹一路到底！"
+                },
+                "howto": {
+                    "de-DE": "Finde und schalte das Commander-Video frei.",
+                    "en-US": "Find and unlock Commander Video.",
+                    "es-ES": "Encuentra y desbloquea a Commander Video.",
+                    "fr-FR": "Trouve et déverrouille Commander Video.",
+                    "it-IT": "Trova e sblocca Commander Video.",
+                    "ja-JP": "Commander Video を見つけて解除する。",
+                    "ko-KR": "커맨더 비디오를 찾아 잠금 해제하세요.",
+                    "pt-PT": "Encontra e desbloqueia o Commandervideo.",
+                    "zh-CHT": "找出並解除電玩指揮官的鎖定。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "The Kid",
+                    "en-US": "The Kid",
+                    "es-ES": "The Kid",
+                    "fr-FR": "The Kid",
+                    "it-IT": "The Kid",
+                    "ja-JP": "The Kid",
+                    "ko-KR": "어린이",
+                    "pt-PT": "The Kid",
+                    "zh-CHT": "帥小子"
+                },
+                "description": {
+                    "de-DE": "Du hast The Kid freigeschaltet!  ",
+                    "en-US": "You unlocked The Kid!  ",
+                    "es-ES": "¡Desbloqueaste a The Kid!",
+                    "fr-FR": "Tu as déverrouillé The Kid !",
+                    "it-IT": "Hai sbloccato The Kid!  ",
+                    "ja-JP": "The Kid を解除した!  ",
+                    "ko-KR": "어린이를 잠금 해제했습니다.",
+                    "pt-PT": "Desbloqueaste o The Kid!  ",
+                    "zh-CHT": "你解除了帥小子的鎖定！  "
+                },
+                "howto": {
+                    "de-DE": "Finde und schalte The Kid frei.",
+                    "en-US": "Find and unlock The Kid.",
+                    "es-ES": "Encuentra y desbloquea a The Kid.",
+                    "fr-FR": "Trouve et déverrouille The Kid.",
+                    "it-IT": "Trova e sblocca The Kid.",
+                    "ja-JP": "The Kid を見つけて解除する。",
+                    "ko-KR": "어린이를 찾아 잠금 해제하세요.",
+                    "pt-PT": "Encontra e desbloqueia o The Kid.",
+                    "zh-CHT": "找出並解除帥小子的鎖定。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "Tin Boy",
+                    "en-US": "Tin Boy",
+                    "es-ES": "Tin Boy",
+                    "fr-FR": "Costaud",
+                    "it-IT": "Carne dura",
+                    "ja-JP": "ブロンズ ボーイ",
+                    "ko-KR": "깡통 소년",
+                    "pt-PT": "Tin Boy",
+                    "zh-CHT": "罐頭哥"
+                },
+                "description": {
+                    "de-DE": "Du hast 10 Level geschafft, ohne umgebracht zu werden! Meat Boy liebt dich dafür!",
+                    "en-US": "You just beat 10 levels without getting killed! Meat Boy loves you for that!",
+                    "es-ES": "¡Acabas de superar 10 niveles sin que te maten! ¡Por esa razón, Meat Boy te adora!",
+                    "fr-FR": "Tu viens de passer 10 niveaux sans te faire tuer ! C'est pour ça que Meat Boy t'aime !",
+                    "it-IT": "Hai completato 10 livelli senza morire! Meat Boy ti ama per questo!",
+                    "ja-JP": "一度もやられずに 10 レベルをクリアした! Meat Boy も大感激だ!",
+                    "ko-KR": "10개의 레벨을 죽지 않고 완료했습니다!",
+                    "pt-PT": "Passaste 10 níveis sem seres morto! O Meat Boy adora-te por isso!",
+                    "zh-CHT": "你居然過了 10 關還毫髮無傷！肉肉哥超崇拜你的啦！"
+                },
+                "howto": {
+                    "de-DE": "Löse 10 Level nacheinander, ohne zu sterben.",
+                    "en-US": "Complete 10 levels consecutively without dying.",
+                    "es-ES": "Completa 10 niveles seguidos sin que te maten.",
+                    "fr-FR": "Passe 10 niveaux de suite sans mourir.",
+                    "it-IT": "Completa 10 livelli di fila senza morire.",
+                    "ja-JP": "一度もやられずに連続 10 レベルをクリアする。",
+                    "ko-KR": "10개의 레벨을 죽지 않고 완료하세요.",
+                    "pt-PT": "Conclui 10 níveis de seguida sem morrer.",
+                    "zh-CHT": "連續通過 10 個關卡而不失去生命。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "05.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Iron Boy!",
+                    "en-US": "Iron Boy!",
+                    "es-ES": "Iron Boy!",
+                    "fr-FR": "Iron Boy !",
+                    "it-IT": "Carne durissima!",
+                    "ja-JP": "アイアン ボーイ!",
+                    "ko-KR": "강철 소년!",
+                    "pt-PT": "Rapaz de Ferro!",
+                    "zh-CHT": "鋼鐵哥！"
+                },
+                "description": {
+                    "de-DE": "Du hast ein ganzes Kapitel gelöst, ohne zu sterben! Gut für dich!",
+                    "en-US": "You completed a full chapter without dying! Good for you!",
+                    "es-ES": "¡Completaste un capítulo entero sin que te mataran! ¡Bien hecho!",
+                    "fr-FR": "Tu viens de terminer un chapitre entier sans te faire tuer ! Félicitations !",
+                    "it-IT": "Hai completato un capitolo senza morire! Buon per te!",
+                    "ja-JP": "一度もやられずに 1 チャプターを丸ごとクリアした! すごいぞ!",
+                    "ko-KR": "모든 장을 죽지 않고 완료했습니다! 잘했어요!",
+                    "pt-PT": "Concluíste um nível completo sem morrer! Que bom para ti!",
+                    "zh-CHT": "你通過了一整個章節還毫髮無傷！算你厲害！"
+                },
+                "howto": {
+                    "de-DE": "Löse ein volles Kapitel, ohne zu sterben.",
+                    "en-US": "Complete a full chapter without dying.",
+                    "es-ES": "Completa un capítulo completo sin que te maten.",
+                    "fr-FR": "Termine un chapitre entier sans mourir.",
+                    "it-IT": "Completa un capitolo senza morire.",
+                    "ja-JP": "一度もやられずに 1 チャプターをクリアする。",
+                    "ko-KR": "죽지 않고 전체 장을 완료하세요.",
+                    "pt-PT": "Conclui um capítulo inteiro sem morrer.",
+                    "zh-CHT": "過完一整個章節而不失去生命。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "06.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Klebrige Finger",
+                    "en-US": "Sticky fingers",
+                    "es-ES": "Sticky fingers",
+                    "fr-FR": "Ça colle",
+                    "it-IT": "Dita appiccicose",
+                    "ja-JP": "ファスト フィンガー",
+                    "ko-KR": "끈적한 손가락",
+                    "pt-PT": "Dedos pegajosos",
+                    "zh-CHT": "黏手指"
+                },
+                "description": {
+                    "de-DE": "Du hast Gish freigeschaltet, indem du 10 Bandagen gesammelt hast! Weiter so!",
+                    "en-US": "You unlocked Gish by collecting 10 bandages! Go you!",
+                    "es-ES": "¡Desbloqueaste a Gish consiguiendo 10 vendas! ¡Así se hace!",
+                    "fr-FR": " Tu as déverrouillé Gish en ramassant 10 pansements ! T'es le meilleur !",
+                    "it-IT": "Hai sbloccato Gish raccogliendo 10 bende! Vai così!",
+                    "ja-JP": "バンデージを 10 個集めて Gish を解除した! その調子!",
+                    "ko-KR": "붕대를 10개 모아 키시를 잠금 해제했습니다! 계속하세요!",
+                    "pt-PT": "Desbloqueaste o Gish ao apanhar 10 ligaduras! Parabéns!",
+                    "zh-CHT": "你集滿 10 條繃帶，解除了瀝青球的鎖定！好樣的！"
+                },
+                "howto": {
+                    "de-DE": "Sammle 10 Bandagen.",
+                    "en-US": "Collect 10 bandages.",
+                    "es-ES": "Consigue 10 vendas.",
+                    "fr-FR": "Ramasse 10 pansements.",
+                    "it-IT": "Raccogli 10 bende.",
+                    "ja-JP": "バンデージを 10 個集める。",
+                    "ko-KR": "붕대를 10개 모으세요.",
+                    "pt-PT": "Apanha 10 ligaduras.",
+                    "zh-CHT": "收集 10 條繃帶。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "07.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Zeit für Geschäfte",
+                    "en-US": "Business Time",
+                    "es-ES": "Business Time",
+                    "fr-FR": "C'est l'heure",
+                    "it-IT": "Affari",
+                    "ja-JP": "ビジネス タイム",
+                    "ko-KR": "업무 시간",
+                    "pt-PT": "Vamos Negociar",
+                    "zh-CHT": "工作時間"
+                },
+                "description": {
+                    "de-DE": "Du hast Tim freigeschaltet, indem du 50 Bandagen gesammelt hast! Abgefahren ...",
+                    "en-US": "You unlocked Tim by collecting 50 bandages! He's weird...",
+                    "es-ES": "¡Desbloqueaste a Tim consiguiendo 50 vendas! Es rarito...",
+                    "fr-FR": "Tu as déverrouillé Tim en ramassant 50 pansements ! Il est bizarre...",
+                    "it-IT": "Hai sbloccato Tim raccogliendo 50 bende! Che strambo...",
+                    "ja-JP": "バンデージを 50 個集めて Tim を解除した! こいつ、ちょっとヘンだよね...",
+                    "ko-KR": "붕대를 50개 모아 팀을 잠금 해제했습니다! 팀은 좀 이상해요...",
+                    "pt-PT": "Desbloqueaste o Tim ao apanhar 50 ligaduras! Ele é esquisito...",
+                    "zh-CHT": "你集滿 50 條繃帶，解除了提姆的鎖定！不過他怪怪的喔..."
+                },
+                "howto": {
+                    "de-DE": "Sammle 50 Bandagen.",
+                    "en-US": "Collect 50 bandages.",
+                    "es-ES": "Consigue 50 vendas.",
+                    "fr-FR": "Ramasse 50 pansements.",
+                    "it-IT": "Raccogli 50 bende.",
+                    "ja-JP": "バンデージを 50 個集める。",
+                    "ko-KR": "붕대를 50개 모으세요.",
+                    "pt-PT": "Apanha 50 ligaduras.",
+                    "zh-CHT": "收集 50 條繃帶。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "08.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Das Ende",
+                    "en-US": "The End",
+                    "es-ES": "The End",
+                    "fr-FR": "Fin",
+                    "it-IT": "Fine",
+                    "ja-JP": "ジ エンド",
+                    "ko-KR": "끝",
+                    "pt-PT": "Fim",
+                    "zh-CHT": "終章"
+                },
+                "description": {
+                    "de-DE": "Du hast das Spiel gelöst! ... Aber das ist noch nicht alles, oder?",
+                    "en-US": "You beat the game!... but that's not the end, is it?",
+                    "es-ES": "¡Has ganado el juego!... Pero no es el fin, ¿verdad?",
+                    "fr-FR": "Tu as terminé le jeu !... Mais ce n'est pas fini, n'est-ce pas ?",
+                    "it-IT": "Hai finito il gioco! ... Ma non è la fine, vero?",
+                    "ja-JP": "ゲームをクリアした! ...けどこれでおしまいじゃないよね?",
+                    "ko-KR": "게임을 완료했습니다!... 하지만 진정한 끝은 아니겠죠?",
+                    "pt-PT": "Ganhaste!... mas não acaba aqui, pois não?",
+                    "zh-CHT": "遊戲全破！... 不過一切還沒結束，對吧？"
+                },
+                "howto": {
+                    "de-DE": "Schließe das Hauptspiel ab.",
+                    "en-US": "Complete the main game.",
+                    "es-ES": "Completa el juego principal.",
+                    "fr-FR": "Termine le jeu principal.",
+                    "it-IT": "Completa il gioco principale.",
+                    "ja-JP": "メインのゲームをクリアする。",
+                    "ko-KR": "메인 게임을 완료하세요.",
+                    "pt-PT": "Conclui o jogo principal.",
+                    "zh-CHT": "過完主遊戲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "65",
+            "imageId": "09.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "Das wahre Ende",
+                    "en-US": "The Real End",
+                    "es-ES": "The Real End",
+                    "fr-FR": "La fin réelle",
+                    "it-IT": "Fine (davvero)",
+                    "ja-JP": "リアル エンド",
+                    "ko-KR": "진짜 끝",
+                    "pt-PT": "O Fim a Sério",
+                    "zh-CHT": "真正的終章"
+                },
+                "description": {
+                    "de-DE": "Du hast di Dunkle Welt gelöst... Du bist unglaublich.",
+                    "en-US": "You completed the Dark World... you are awesome.",
+                    "es-ES": "Completaste el Dark World... Eres increíble.",
+                    "fr-FR": "Tu as terminé le monde noir… tu es génial.",
+                    "it-IT": "Hai completato il mondo oscuro... sei grande.",
+                    "ja-JP": "ダーク ワールドをクリアした... なんてスゴいんだ。",
+                    "ko-KR": "어두운 세상을 완료했습니다. 정말 대단해요.",
+                    "pt-PT": "Concluíste o Dark World... és espectacular.",
+                    "zh-CHT": "你通過了黑暗世界... 不愧是強者。"
+                },
+                "howto": {
+                    "de-DE": "Beende die Dark World.",
+                    "en-US": "Complete the Dark World.",
+                    "es-ES": "Completa el Dark World.",
+                    "fr-FR": "Termine le monde noir.",
+                    "it-IT": "Completa il mondo oscuro.",
+                    "ja-JP": "ダーク ワールドをクリアする。",
+                    "ko-KR": "어두운 세상을 완료하세요.",
+                    "pt-PT": "Conclui o Dark World.",
+                    "zh-CHT": "通過黑暗世界。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "10.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Suffragette",
+                    "en-US": "Suffragette",
+                    "es-ES": "Suffragette",
+                    "fr-FR": "Suffragette",
+                    "it-IT": "Suffragetta",
+                    "ja-JP": "スーパー活動家",
+                    "ko-KR": "여성 운동가",
+                    "pt-PT": "Suffragette",
+                    "zh-CHT": "巾幗不讓鬚眉"
+                },
+                "description": {
+                    "de-DE": "Du hast die Cotten Alley ganz allein gelöst! ",
+                    "en-US": "You've beaten the Cotten Alley all by yourself! ",
+                    "es-ES": "¡Has vencido a Cotten Alley tú solito!",
+                    "fr-FR": "Tu as battu Cotten Alley tout seul !",
+                    "it-IT": "Hai completato Vicolo del cotone tutto da solo! ",
+                    "ja-JP": "誰の手も借りずに Cotten Alley を倒した! ",
+                    "ko-KR": "목화 골목을 모두 완료했습니다!",
+                    "pt-PT": "Derrotaste o Cotten Alley sozinho! ",
+                    "zh-CHT": "你單打獨鬥通過了棉花小巷！ "
+                },
+                "howto": {
+                    "de-DE": "Löse die Cotten Alley.",
+                    "en-US": "Complete the Cotten Alley.",
+                    "es-ES": "Completa el Cotten Alley.",
+                    "fr-FR": "Termine la Cotten Alley.",
+                    "it-IT": "Completa Vicolo del cotone.",
+                    "ja-JP": "Cotten Alley をクリアする。",
+                    "ko-KR": "목화 골목을 완료하세요.",
+                    "pt-PT": "Conclui o Cotten Alley.",
+                    "zh-CHT": "通過棉花小巷。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Ich bin ein Gott aus Gold!",
+                    "en-US": "I'm A Golden God!",
+                    "es-ES": "¡Soy un dios!",
+                    "fr-FR": "Je suis un Dieu d'or !",
+                    "it-IT": "Sono un dio d'oro!",
+                    "ja-JP": "スーパー プレイヤー!",
+                    "ko-KR": "난 황금의 신이다!",
+                    "pt-PT": "Eu sou um deus dourado!",
+                    "zh-CHT": "我是黃金戰神！"
+                },
+                "description": {
+                    "de-DE": "Du hast 100% von Super Meat Boy, jetzt kannst du angeben! ",
+                    "en-US": "You got 100% on Super Meat Boy, start bragging! ",
+                    "es-ES": "Conseguiste el 100% en Super Meat Boy, ¡empieza a vacilar!",
+                    "fr-FR": "Tu as fait un score parfait dans Super Meat Boy. Tu peux être fier !",
+                    "it-IT": "Hai completato Super Meat Boy al 100%, ora vantati con tutti! ",
+                    "ja-JP": "Super Meat Boy で 100% を達成! さあ自慢して回ろう! ",
+                    "ko-KR": "수퍼 고기 소년을 100% 끝냈으니, 이제 자랑하고 다니세요!",
+                    "pt-PT": "Atingiste 100% no Super Meat Boy, já te podes gabar! ",
+                    "zh-CHT": "你 100% 通過了 Super Meat Boy，快大大炫耀一番吧！ "
+                },
+                "howto": {
+                    "de-DE": "100% des Spiels",
+                    "en-US": "100% the game",
+                    "es-ES": "100% del juego",
+                    "fr-FR": "Termine le jeu",
+                    "it-IT": "Completa il gioco al 100%",
+                    "ja-JP": "ゲームを 100% クリアする",
+                    "ko-KR": "게임의 100%",
+                    "pt-PT": "jogo a 100%",
+                    "zh-CHT": "達成 100% 遊戲"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "12.png"
+        }
+    }
+}

@@ -1,0 +1,2204 @@
+{
+    "Achievements": {
+        "2": {
+            "text": {
+                "name": {
+                    "en-US": "Hero, Their Health Is Low",
+                    "fr-FR": "Allô, Héros, bobo",
+                    "ko-KR": "영웅님, 저들이 죽어갑니다 ",
+                    "ru-RU": "Герой, пора их подлечить",
+                    "pt-PT": "Herói, Eles Estão Fracos",
+                    "it-IT": "Eroe, l'energia è bassa",
+                    "de-DE": "Anhänger mit wenig Gesundheit",
+                    "es-ES": "Héroe, vela por su salud",
+                    "ja-JP": "まずい、弱ってる…",
+                    "zh-CHT": "英雄，他們已經奄奄一息了"
+                },
+                "description": {
+                    "en-US": "The healing is not as rewarding as the hurting!",
+                    "fr-FR": "Soigner est moins gratifiant que cogner !",
+                    "ko-KR": "살리는 건 죽이는 것만큼 돈이 벌리지 않습니다!",
+                    "ru-RU": "Лечить не так выгодно, как калечить!",
+                    "pt-PT": "Curar não é tão gratificante quanto causar dor!",
+                    "it-IT": "Guarire non dà la stessa soddisfazione che infliggere danni!",
+                    "de-DE": "Das Heilen ist nicht so befriedigend wie das Verwunden!",
+                    "es-ES": "¡La curación no es tan satisfactoria como el dolor!",
+                    "ja-JP": "そりゃ、癒すより痛めつけるほうが楽しいですが",
+                    "zh-CHT": "治療別人的報酬，比不上傷害別人的好處！"
+                },
+                "howto": {
+                    "en-US": "Heal a follower on an Escort Quest. No, not *that* kind of 'escort'.",
+                    "fr-FR": "Soignez un suivant au cours d'une quête d'escorte. Non, pas *ce* genre d'escorte...",
+                    "ko-KR": "호위 퀘스트에서 추종자를 치료하십시오.",
+                    "ru-RU": "Вылечите своего спутника на задании \"Сопровождение\". Нет, не спутника жизни.",
+                    "pt-PT": "Cure um acompanhante em uma Missão de Escolta. Não, não *esse* tipo de 'acompanhante'.",
+                    "it-IT": "Guarisci un seguace in una missione scorta. E speriamo che la missione non sia troppo corta!",
+                    "de-DE": "Heilt einen Anhänger eines Eskortier-Quests. Nein, nicht *so* eine \"Eskorte\".",
+                    "es-ES": "Cura a un seguidor durante un encargo de escolta. No, esa clase de \"escolta\" no.",
+                    "ja-JP": "護衛するクエストで同行者を回復させる",
+                    "zh-CHT": "在護送任務中治療跟隨者。不對，不是那種伴遊性質的護送啦！"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "01.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "en-US": "Ass Creed",
+                    "fr-FR": "Air assassin",
+                    "ko-KR": "암살자 엉덩이의 신조",
+                    "ru-RU": "Лига ассасинов",
+                    "pt-PT": "Assassino? Credo!",
+                    "it-IT": "Chiappe assassine",
+                    "de-DE": "Ass Creed",
+                    "es-ES": "Asesino gaseoso",
+                    "ja-JP": "暗殺者の信条",
+                    "zh-CHT": "臭屁教條"
+                },
+                "description": {
+                    "en-US": "You were deadly alright; look at the size of that hole in your trousers! Quick, find a haystack!",
+                    "fr-FR": "Mortel, vous l'étiez ! Regardez ce trou dans votre pantalon ! Trouvez-vous vite une meule de foin !",
+                    "ko-KR": "다행히 무사했군요. 바지에 엄청 큰 구멍이 났네요! 어서요, 건초더미를 찾으세요!",
+                    "ru-RU": "Вы едва не погибли - взгляните только на огромную дыру у вас на штанах. Скорее, найдите стог сена!",
+                    "pt-PT": "Você é fatal, né? Olha o tamanho do buraco nas suas calças! Rápido, se esconda em uma pilha de feno!",
+                    "it-IT": "Sei stato abbastanza letale. Guarda che buco che hai nei pantaloni! Presto, trova un pagliaio!",
+                    "de-DE": "Ihr wart erbarmungslos! Seht nur das Riesenloch in Eurer Hose! Schnell, sucht Euch einen Heuhaufen!",
+                    "es-ES": "Pues sí que has sido mortal, ¡mira el agujero de tus pantalones! ¡Rápido, busca un pajar!",
+                    "ja-JP": "ズボンにあいた大きな穴が、これまでの戦いを物語っています。さあ、早く隠して！",
+                    "zh-CHT": "您認為自己很致命？沒看見自己褲子上那個大洞嗎！還不快去找個稻草堆遮羞！"
+                },
+                "howto": {
+                    "en-US": "Whilst dressed as an Assassin, be silent but deadly.",
+                    "fr-FR": "Habillé en assassin, soyez aussi silencieux que mortel.",
+                    "ko-KR": "암살자처럼 입고 있는 동안에는 조용하게, 하지만 치명적으로 행동하십시오.",
+                    "ru-RU": "Одевшись ассасином, сейте смерть быстро и тихо.",
+                    "pt-PT": "Ao se vestir como um Assassino, seja silencioso, mas mortal.",
+                    "it-IT": "Con il costume da Assassino, cerca di essere silenzioso ma letale.",
+                    "de-DE": "Geht leise, aber erbarmungslos vor, während Ihr als Attentäter gekleidet seid.",
+                    "es-ES": "Vestido de asesino, sé silencioso pero mortal.",
+                    "ja-JP": "暗殺者の服を着ている間、おしゃべりを控えて戦いに専念する。",
+                    "zh-CHT": "穿著刺客服裝時，請牢記「臭屁不響」的真理。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "02.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "en-US": "I Did This For A Cheevo",
+                    "fr-FR": "Tout ça pour un succès",
+                    "ko-KR": "도전 과제만 아니면 이런 거 안 해",
+                    "ru-RU": "Все ради ачивки",
+                    "pt-PT": "Fiz Isso Pela Conquista",
+                    "it-IT": "Per un obiettivo, questo e altro",
+                    "de-DE": "Hab's der Erfolge wegen getan",
+                    "es-ES": "Lo hice por la perilla",
+                    "ja-JP": "条件は厭わず",
+                    "zh-CHT": "全都是為了成就"
+                },
+                "description": {
+                    "en-US": "Achievement Unlocked; You look ridiculous.",
+                    "fr-FR": "Succès débloqué. Vous avez l'air ridicule.",
+                    "ko-KR": "도전 과제를 완료했습니다. 정말 우스꽝스러워 보입니다.",
+                    "ru-RU": "Открыто достижение: вы выглядите нелепо.",
+                    "pt-PT": "Conquista Desbloqueada. Você está ridículo.",
+                    "it-IT": "Obiettivo sbloccato. Ma ti sei visto? Sei ridicolo!",
+                    "de-DE": "Erfolg freigeschaltet; Ihr seht lächerlich aus.",
+                    "es-ES": "Logro desbloqueado. Estás ridículo.",
+                    "ja-JP": "なりふりかまわず、とはまさにこのこと",
+                    "zh-CHT": "已解除成就鎖定。您看起來還真好笑。"
+                },
+                "howto": {
+                    "en-US": "Perform a headshot with a Crossbow whilst dressed as a woman wearing a beard and the Redhead Wig.",
+                    "fr-FR": "Réussir un tir dans la tête avec une arbalète, déguisé en femme à barbe avec une perruque rouge.",
+                    "ko-KR": "수염을 기르고 빨간 머리 가발을 쓴 채로 여자 옷을 입고 석궁으로 머리를 날려 버리십시오.",
+                    "ru-RU": "Поразите врага в голову при помощи арбалета, одевшись бородатой женщиной и нацепив рыжий парик.",
+                    "pt-PT": "Use Balestra para acertar uma flechada na cabeça ao vestir como mulher usando Barba e Peruca Ruiva.",
+                    "it-IT": "Vestito da donna, con barba e parrucca rossa, metti a segno un colpo alla testa con la balestra.",
+                    "de-DE": "Landet als mit Bart und Rotschopfperücke verkleidete Frau einen Kopfschuss mit der Armbrust.",
+                    "es-ES": "Logra un disparo a la cabeza con una ballesta vestido de mujer barbuda con peluca pelirroja.",
+                    "ja-JP": "女装しヒゲをつけ赤毛のかつらをかぶった状態で、クロスボウで頭を撃つ",
+                    "zh-CHT": "打扮成戴著鬍鬚與紅色假髮的女人時，使用十字弓來完成 1 次爆頭攻擊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "03.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "en-US": "There Is No Spoon",
+                    "fr-FR": "La cuillère n'existe pas",
+                    "ko-KR": "숟가락은 없다",
+                    "ru-RU": "Ложки нет",
+                    "pt-PT": "A Colher Não Existe",
+                    "it-IT": "Il cucchiaio non esiste",
+                    "de-DE": "Es gibt keinen Löffel",
+                    "es-ES": "No hay cuchara",
+                    "ja-JP": "真実を見つける",
+                    "zh-CHT": "這裡沒有湯匙"
+                },
+                "description": {
+                    "en-US": "Mind control is great, but with great power comes responsibility. Or the fun of irresponsibility.",
+                    "fr-FR": "Manipuler les gens, c'est bien. Mais à grand pouvoir, grandes responsabilités. Ou irresponsabilité.",
+                    "ko-KR": "마인드 컨트롤은 위대합니다, 하지만 위대한 힘은 책임감이 따릅니다. 아니면 웃기는 무책임이 따르겠지요. ",
+                    "ru-RU": "Помните, с великой силой приходит великая ответственность. Ну или веселая безответственность.",
+                    "pt-PT": "Controlar a mente é ótimo, mas o poder exige responsabilidade. Ou a diversão da irresponsabilidade.",
+                    "it-IT": "Un grande potere comporta grandi responsabilità. O il divertimento che deriva dall'irresponsabilità.",
+                    "de-DE": "Gedankenkontrolle ist toll, aber Macht verlangt Verantwortung. VerantwortungsLOSIGKEIT macht Spaß.",
+                    "es-ES": "El control mental está bien, pero un gran poder conlleva responsabilidad... y diversión.",
+                    "ja-JP": "マインド コントロールは強力だ。だが大きな力には責任が伴うのに、無責任にやっちまったな",
+                    "zh-CHT": "心靈控制是很厲害，但一個人的能力越強，他的責任就越大。或者也可以說，不負責任的樂趣就越大。"
+                },
+                "howto": {
+                    "en-US": "Use the power of mind control on an enemy, and have them kill one of their allies.",
+                    "fr-FR": "Manipulez l'esprit d'un ennemi pour le forcer à tuer un de ses alliés.",
+                    "ko-KR": "적 한 명의 정신을 조종하여 적의 동료 중 한 명을 죽이게 하십시오.",
+                    "ru-RU": "Управляйте разумом врага, заставьте его убить кого-то из своих.",
+                    "pt-PT": "Use o poder da mente em um inimigo e faça-o matar um dos aliados dele.",
+                    "it-IT": "Usa il potere del controllo mentale su un nemico e convincilo a uccidere uno dei suoi alleati.",
+                    "de-DE": "Bringt einen Gegner mithilfe von Gedankenkontrolle dazu, einen seiner Verbündeten zu erledigen.",
+                    "es-ES": "Usa el poder del control mental sobre un enemigo y que mate a uno de sus aliados.",
+                    "ja-JP": "マインド コントロールの力を使って、敵に仲間を倒させる",
+                    "zh-CHT": "對敵人使用心靈控制的力量，讓他殺死自己的夥伴。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "en-US": "Combat, Evolved",
+                    "fr-FR": "Combat 2.0",
+                    "ko-KR": "전투가 시작됩니다.",
+                    "ru-RU": "Новые методы",
+                    "pt-PT": "Evoluído em Combate",
+                    "it-IT": "Combattimento evoluto",
+                    "de-DE": "Kampf, weiterentwickelt",
+                    "es-ES": "Evolución de combate",
+                    "ja-JP": "戦って、成長する",
+                    "zh-CHT": "戰鬥進化"
+                },
+                "description": {
+                    "en-US": "Spend your new experience wisely, and yes - you're welcome for the top tip.",
+                    "fr-FR": "Utilisez votre nouvelle Expérience avec sagesse. Ça, c'est du conseil qui tue, non ?",
+                    "ko-KR": "경험치를 현명하게 사용하십시오. 너무 고마워하지 않으셔도 됩니다.",
+                    "ru-RU": "Тратьте полученный опыт с умом. И мы ждем от вас советов!",
+                    "pt-PT": "Use sua nova experiência com sabedoria e, sim, você é bem-vindo ao primeiro escalão.",
+                    "it-IT": "Usa con attenzione la nuova esperienza... non c'è bisogno che mi ringrazi per il prezioso consiglio.",
+                    "de-DE": "Setzt Eure neue Erfahrung klug ein, und ja – gern geschehen.",
+                    "es-ES": "Gasta sabiamente tu nueva experiencia. Y sí, puedes apurar hasta el fondo.",
+                    "ja-JP": "新しい経験を有効に使ったな。誰よりも歓迎されてるぞ",
+                    "zh-CHT": "好好利用您剛獲得的經驗值喔。對了，這個重要的遊戲技巧就當我送您的，別客氣了。"
+                },
+                "howto": {
+                    "en-US": "Use an \"Ages of...\" Potion with a combat multiplier of 20 or more.",
+                    "fr-FR": "Utilisez une potion PX avec un Multiplicateur de combat égal ou supérieur à 20.",
+                    "ko-KR": "20 이상의 전투 보너스가 있을 때 경험치 포션을 사용하십시오.",
+                    "ru-RU": "Используйте Эликсир вечного чего-нибудь с боевым множителем 20 или больше.",
+                    "pt-PT": "Use uma Poção de \"Épocas de...\" com um multiplicador de combate x20 ou mais.",
+                    "it-IT": "Usa una pozione \"... eterna\" con un moltiplicatore combattimento superiore o uguale a 20.",
+                    "de-DE": "Benutzt einen \"...zeitalter\"-Trank mit einem Kampfmultiplikator von 20 oder mehr.",
+                    "es-ES": "Usa una poción \"Eras de...\" con un multiplicador de combate de 20 o más.",
+                    "ja-JP": "連続ヒット 20 回以上で「古の … 」ポーションを使う",
+                    "zh-CHT": "當戰鬥加成達到至少 20 時，使用「陳年」系列的藥劑。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "05.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "en-US": "Out Of The Frying Pan…",
+                    "fr-FR": "Ça va se friter...",
+                    "ko-KR": "프라이팬 바깥으로...",
+                    "ru-RU": "С пылу, с жару",
+                    "pt-PT": "Pela Frigideira...",
+                    "it-IT": "Dalla padella...",
+                    "de-DE": "Der Hund in der Pfanne wird ...",
+                    "es-ES": "Salir de la sartén...",
+                    "ja-JP": "フライパンから抜け出せたら …",
+                    "zh-CHT": "拿著煎鍋…"
+                },
+                "description": {
+                    "en-US": "You showed someone how you felt about them... With the underside of a Frying Pan.",
+                    "fr-FR": "Vous avez exprimé vos sentiments pour quelqu'un... avec un bon coup de poêle à frire.",
+                    "ko-KR": "당신은 누군가에게 그 사람에 대한 감정을 보여 주었습니다. 프라이팬 밑면을 사용해서 말입니다.",
+                    "ru-RU": "Вы выразили мнение о собеседнике при помощи сковородки.",
+                    "pt-PT": "Você mostrou o que sentiu a respeito deles... Com a parte de baixo de uma Frigideira.",
+                    "it-IT": "Hai mostrato a qualcuno i sentimenti che provavi... con il fondo di una padella.",
+                    "de-DE": "Ihr habt jemandem gezeigt, was Ihr von ihm haltet ... Mit der Unterseite einer Bratpfanne.",
+                    "es-ES": "Le enseñaste a alguien lo que sientes por él... de un sartenazo.",
+                    "ja-JP": "フライパンを使って、自分の気持ちをうまく表現した",
+                    "zh-CHT": "您已經用煎鍋的鍋底給別人一點顏色瞧瞧。"
+                },
+                "howto": {
+                    "en-US": "…Into your face! Express your feelings through the medium of Frying Pan.",
+                    "fr-FR": "En pleine tête ! Exprimez vos sentiments par le biais d'une poêle à frire.",
+                    "ko-KR": "누군가에게 그 사람에 대한 감정을 표출하십시오. 프라이팬의 가운데로 말입니다.",
+                    "ru-RU": "Полная сковорода наказания! Выразите мнение о собеседнике при помощи сковородки.",
+                    "pt-PT": "... Na sua cara! Expresse seus sentimentos com a Frigideira.",
+                    "it-IT": "...dritto in faccia! Esprimi i tuoi sentimenti con una padella.",
+                    "de-DE": "... buchstäblich be-\"kloppt\"! Bringt Eure Gefühle durch eine Bratpfanne zum Ausdruck.",
+                    "es-ES": "... ¡para caer en tu cara! Expresa tus sentimientos a través de la sartén.",
+                    "ja-JP": "… 顔だ! フライパンを使って、自分の気持ちを表現せよ",
+                    "zh-CHT": "砸對方的臉！透過煎鍋來表達自己的感覺。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "06.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "en-US": "As Quiet As A Whisper",
+                    "fr-FR": "Whisper à terre",
+                    "ko-KR": "위스퍼처럼 조용하게",
+                    "ru-RU": "Слабый пол",
+                    "pt-PT": "O Silêncio de Whisper",
+                    "it-IT": "Silenzioso come un sussurro",
+                    "de-DE": "So leise wie ein Whisper-n",
+                    "es-ES": "Como un susurro",
+                    "ja-JP": "無駄口をたたかない",
+                    "zh-CHT": "靜如耳語"
+                },
+                "description": {
+                    "en-US": "You silenced Whisper in combat, who said chivalry was dead?",
+                    "fr-FR": "Vous avez réduit Whisper au silence. Qui a dit que la galanterie se perdait ?",
+                    "ko-KR": "당신은 전투에서 위스퍼를 침묵시켰습니다. 기사도가 죽었다고 한 게 누구인가요?",
+                    "ru-RU": "Вы угомонили Уиспер в бою. А еще говорят, что рыцарей больше нет!",
+                    "pt-PT": "Você silenciou Whisper em combate, quem disse que o cavalheirismo acabou?",
+                    "it-IT": "Hai messo a tacere Sussurro in combattimento. Chi ha detto che la cavalleria era morta?",
+                    "de-DE": "Ihr bringt Whisper im Kampf zum Schweigen. Wer behauptet, die Ritterlichkeit wäre tot?",
+                    "es-ES": "Has silenciado a Whisper en combate. ¿Quién dijo que no quedan caballeros?",
+                    "ja-JP": "戦闘でウィスパーに勝利した。立派な騎士道精神だ",
+                    "zh-CHT": "您在戰鬥中殺死了微語。是誰說騎士精神已死了呢？"
+                },
+                "howto": {
+                    "en-US": "Defeat Whisper in a battle without losing any health.",
+                    "fr-FR": "Terrassez Whisper au combat sans subir de dégâts.",
+                    "ko-KR": "체력을 잃지 않고 전투에서 위스퍼를 쓰러뜨리십시오.",
+                    "ru-RU": "Победите Уиспер в бою, не потеряв ни капли здоровья.",
+                    "pt-PT": "Derrote Whisper em um combate sem perder nada de saúde.",
+                    "it-IT": "Sconfiggi Sussurro in combattimento senza perdere punti salute.",
+                    "de-DE": "Besiegt Whisper im Kampf, ohne Gesundheit einzubüßen.",
+                    "es-ES": "Derrota a Whisper en combate sin perder salud.",
+                    "ja-JP": "ヒットポイントを減らさずにウィスパーに勝利する",
+                    "zh-CHT": "在戰鬥中，不損失生命值就擊敗微語。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "07.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "en-US": "Feed The Troll",
+                    "fr-FR": "Sus au troll !",
+                    "ko-KR": "트롤에게 먹이를 주시오",
+                    "ru-RU": "Еда для тролля",
+                    "pt-PT": "Alimentar o Troll",
+                    "it-IT": "Dai da mangiare al troll",
+                    "de-DE": "Futter vor die Trolle",
+                    "es-ES": "Da de comer al troll",
+                    "ja-JP": "トロールの餌付け",
+                    "zh-CHT": "餵食巨魔"
+                },
+                "description": {
+                    "en-US": "Apart from this one time, remember; never, EVER feed the Troll.",
+                    "fr-FR": "Il faut toujours ignorer un troll. Sauf dans ce cas précis.",
+                    "ko-KR": "이번 한 번만입니다. 기억하세요, 결코, 결코 트롤에게 먹이를 주지 마세요.",
+                    "ru-RU": "Пускай этот случай станет исключением. Вообще кормить троллей строго не рекомендуется.",
+                    "pt-PT": "Fora esta vez, lembre-se, nunca, JAMAIS alimente um Troll.",
+                    "it-IT": "A parte questa volta, ricorda: mai, e dico MAI, dar da mangiare al troll.",
+                    "de-DE": "Abgesehen von dieser einen Ausnahme: Füttert NIEMALS einen Troll!",
+                    "es-ES": "Aparte de esta excepción, recuerda: nunca jamás des de comer a los trolls.",
+                    "ja-JP": "今回だけだぞ。肝に銘じておけ。決して決してトロールに餌を与えるな",
+                    "zh-CHT": "請記住，這次算是例外。以後千萬、千萬別餵食巨魔喔。"
+                },
+                "howto": {
+                    "en-US": "Give a Troll a taste of its own medicine.",
+                    "fr-FR": "Donnez une bonne leçon à un troll.",
+                    "ko-KR": "트롤에게 트롤만의 약을 주십시오.",
+                    "ru-RU": "Дайте троллю отведать собственной стряпни.",
+                    "pt-PT": "Dê a um Troll uma dose do seu próprio remédio.",
+                    "it-IT": "Dai al troll un assaggino di quello che si merita.",
+                    "de-DE": "Lasst einen Troll seine eigene Medizin schmecken.",
+                    "es-ES": "Da a un troll una ración de su propia medicina.",
+                    "ja-JP": "トロールからしっぺ返しをくらう",
+                    "zh-CHT": "讓巨魔自食惡果。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "08.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "en-US": "The Summoner's Tail",
+                    "fr-FR": "Invocateur accompli",
+                    "ko-KR": "소환사의 꼬리",
+                    "ru-RU": "Всеобщий призыв",
+                    "pt-PT": "A Cauda do Conjurador",
+                    "it-IT": "La voce dell'evocatore",
+                    "de-DE": "Des Herbeirufers Anhang",
+                    "es-ES": "La cola del invocador",
+                    "ja-JP": "サモナーの如く",
+                    "zh-CHT": "召喚師的尾巴"
+                },
+                "description": {
+                    "en-US": "Because creatures are better when they're fighting for you!",
+                    "fr-FR": "Les créatures, c'est quand même bien mieux quand elles se battent pour vous !",
+                    "ko-KR": "괴물들은 당신을 위해 싸울 때가 더 낫습니다!",
+                    "ru-RU": "Намного лучше, когда чудовища сражаются на вашей стороне!",
+                    "pt-PT": "Porque é melhor quando as criaturas lutam por você!",
+                    "it-IT": "Perché le creature valgono di più quando combattono per te!",
+                    "de-DE": "Denn Kreaturen taugen mehr, wenn sie für Euch kämpfen!",
+                    "es-ES": "¡Porque las criaturas no están tan mal cuando luchan por ti!",
+                    "ja-JP": "モンスターを敵に回すより、味方につけるほうがずっといい!",
+                    "zh-CHT": "能為您而戰的生物，比會攻擊您的生物棒多了！"
+                },
+                "howto": {
+                    "en-US": "Summon a powerful creature to fight by your side.",
+                    "fr-FR": "Invoquez une créature puissante afin qu'elle se batte à vos côtés.",
+                    "ko-KR": "강력한 괴물을 아군으로 소환하십시오.",
+                    "ru-RU": "Вызовите могучее создание, чтобы оно сражалось на вашей стороне.",
+                    "pt-PT": "Conjure uma criatura poderosa para lutar ao seu lado.",
+                    "it-IT": "Evoca una potente creatura per farla combattere al tuo fianco.",
+                    "de-DE": "Ruft eine mächtige Kreatur herbei, um an Eurer Seite zu kämpfen.",
+                    "es-ES": "Invoca a una poderosa criatura para que luche a tu lado.",
+                    "ja-JP": "戦闘中、強力なモンスターを召喚する",
+                    "zh-CHT": "召喚威力強大的生物來與您並肩作戰。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "en-US": "The Swinging Sword",
+                    "fr-FR": "Épée dansante",
+                    "ko-KR": "흔들리는 검",
+                    "ru-RU": "Одним махом",
+                    "pt-PT": "A Espada Oscilante",
+                    "it-IT": "La spada ballerina",
+                    "de-DE": "Das schwingende Schwert",
+                    "es-ES": "A golpe de espada",
+                    "ja-JP": "両断の剣",
+                    "zh-CHT": "放浪劍"
+                },
+                "description": {
+                    "en-US": "Now that's what I call a Swinging Sword! Oh, you thought we meant \"Singing Sword\"?",
+                    "fr-FR": "Ça, c'est une épée qui swingue ! Et on ne parle même pas de l'Épée Chantante !",
+                    "ko-KR": "저것이 제가 흔들리는 검이라 부르는 것입니다! 오, 우리가 \"노래하는 검\"이라 했다고 생각하십니까?",
+                    "ru-RU": "Одним махом семерых убивахом! Ой, всего троих?",
+                    "pt-PT": "Agora, isso é o que eu chamo de Espada Oscilante! Ah, você pensou que fosse \"Espada Cantante\"?",
+                    "it-IT": "Questa sì che è una spada ballerina! Oh, credevi che intendessimo \"spada canterina\"?",
+                    "de-DE": "Das nenne ich mal ein schwingendes Schwert! Oh, Ihr dachtet, wir meinten ein \"singendes Schwert\"?",
+                    "es-ES": "¡Así se maneja una espada! ¡Estás hecho un artista!",
+                    "ja-JP": "それは両断の剣じゃないか!「両断の剣」がどんな剣が知ってるか?",
+                    "zh-CHT": "這才是貨真價實的放浪劍啊！呃，您以為我們在說「方狼劍」嗎？"
+                },
+                "howto": {
+                    "en-US": "Hit 3 enemies simultaneously with a single flourish like you're a real swinger.",
+                    "fr-FR": "Frappez 3 ennemis simultanément avec une seule Botte pour vous la jouer.",
+                    "ko-KR": "진정한 검술사처럼 단 한번의 특수 공격으로 동시에 3명의 적을 치십시오.",
+                    "ru-RU": "Одновременно поразите троих врагов с одного замаха.",
+                    "pt-PT": "Acerte 3 inimigos com um único floreio como o verdadeiro espadachim que você é.",
+                    "it-IT": "Colpisci 3 nemici con un'unica mossa fiorente come se fossi un ballerino provetto.",
+                    "de-DE": "Aller guten Dinge sind drei, also trefft 3 Gegner gleichzeitig mit nur einer Abschlussbewegung.",
+                    "es-ES": "Golpea a 3 enemigos simultáneamente con una sola floritura, como un auténtico espadachín.",
+                    "ja-JP": "1 回のフラッシュムーブで敵を 3 体同時に攻撃する",
+                    "zh-CHT": "利用 1 次重砍來同時攻擊 3 個敵人，就像個花花公子一樣。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "10.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "en-US": "You Are A Super Player",
+                    "fr-FR": "Vous êtes un super joueur",
+                    "ko-KR": "당신은 슈퍼 플레이어",
+                    "ru-RU": "Полон ваш брелок",
+                    "pt-PT": "Um Superjogador",
+                    "it-IT": "Sei un super giocatore!",
+                    "de-DE": "Ihr seid ein Spitzenspieler",
+                    "es-ES": "Eres un superjugador",
+                    "ja-JP": "優秀なプレイヤー",
+                    "zh-CHT": "超級玩家"
+                },
+                "description": {
+                    "en-US": "You found all the Silver Keys! If you've done this twice since 2004, then you are a super player!",
+                    "fr-FR": "Vous avez trouvé toutes les clés d'argent ! Si vous l'avez fait deux fois depuis 2004, bravo !",
+                    "ko-KR": "당신은 실버 키를 전부 찾았군요! 2004년 이후로 이러한 업적을 두 번 완수했다면, 당신은 슈퍼 플레이어입니다!",
+                    "ru-RU": "Вы нашли все Серебряные ключи! А если вы с 2004 года сделали это дважды, то вы просто супер-ключник!",
+                    "pt-PT": "Você encontrou todas as Chaves de Prata! Se fez isso duas vezes desde 2004, você é um superjogador!",
+                    "it-IT": "Hai trovato tutte le chiavi d'argento! Se l'hai fatto due volte dal 2004, sei un super giocatore!",
+                    "de-DE": "Alle Silberschlüssel gefunden! Habt Ihr das seit 2004 2 Mal geschafft, seid Ihr ein Spitzenspieler!",
+                    "es-ES": "¡Has encontrado todas las llaves de plata! Si es la segunda vez desde 2004, ¡eres un superjugador!",
+                    "ja-JP": "シルバーキーを全部手に入れた! 2004 年以来 2 回目だな。優秀なプレイヤーだ!",
+                    "zh-CHT": "您找到了所有的銀鑰匙！如果您從 2004 年到現在已經找到了所有的銀鑰匙兩次，那您就是超級玩家！"
+                },
+                "howto": {
+                    "en-US": "Find all 30 silver keys. In unrelated news; the Fable Anniversary Strategy guide is available now!",
+                    "fr-FR": "Trouvez les 30 clés d'argent. À part ça, le guide stratégique de Fable Anniversary est disponible !",
+                    "ko-KR": "30개의 실버 키를 모두 찾으십시오. 상관없는 이야기지만, Fable Anniversary 공략 가이드를 지금 만나볼 수 있습니다!",
+                    "ru-RU": "Найдите все 30 Серебряных ключей. Новости не по теме: опубликовано юбилейное руководство по Fable!",
+                    "pt-PT": "Ache 30 chaves de prata. Fontes dizem que o Guia Estratégico do Fable Anniversary está disponível!",
+                    "it-IT": "Trova tutte le 30 chiavi d'argento. Ah, è disponibile la guida strategica di Fable Anniversary!",
+                    "de-DE": "Findet alle 30 Silberschlüssel. Übrigens, das \"Fable Anniversary\"-Strategiehandbuch ist draußen!",
+                    "es-ES": "Encuentra las 30 llaves de plata. Y oye, ¡ya ha salido la Guía de estrategia de Fable Anniversary!",
+                    "ja-JP": "30 個のシルバーキーをすべて見つける",
+                    "zh-CHT": "尋找所有 30 把銀鑰匙。新聞插播：Fable Anniversary 攻略本上市囉！"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "11.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "en-US": "Fable Heroes",
+                    "fr-FR": "Fable Heroes",
+                    "ko-KR": "Fable의 영웅들",
+                    "ru-RU": "Fable Heroes",
+                    "pt-PT": "Fable Heroes",
+                    "it-IT": "Fable Heroes",
+                    "de-DE": "Fable-Helden",
+                    "es-ES": "Héroes de Fable",
+                    "ja-JP": "伝説の英雄",
+                    "zh-CHT": "Fable 英雄"
+                },
+                "description": {
+                    "en-US": "The Bowerstone Teacher loves Fable Heroes, more than 55% of him anyway.",
+                    "fr-FR": "Plus de 55% du professeur de Bowerstone aime Fable Heroes.",
+                    "ko-KR": "바워스톤의 선생님은 Fable의 영웅들을 사랑합니다, 55% 이상으로 말이죠.",
+                    "ru-RU": "Учитель из Глушвилля любит Fable Heroes. Ну, более чем на 55% любит.",
+                    "pt-PT": "O Professor de Bowerstone adora o Fable Heroes, mais de 55% dele, de certo modo.",
+                    "it-IT": "L'insegnante di Bowerstone adora Fable Heroes... perlomeno più del 55% di lui.",
+                    "de-DE": "Der Lehrer von Bowerstone liebt Fable-Helden. Zumindest 55 % von ihm.",
+                    "es-ES": "Al maestro de Bowerstone le encantan los héroes de Fable. O al menos una parte.",
+                    "ja-JP": "バウワーストーンの教師は伝説の英雄たちのコレクターです。",
+                    "zh-CHT": "包爾斯頓的老師非常喜愛 Fable Heroes，至少有 55% 的他很喜歡啦！"
+                },
+                "howto": {
+                    "en-US": "The Bowerstone Teacher is on the lookout for Hero Dolls, help him find them!",
+                    "fr-FR": "Le professeur de Bowerstone recherche des poupées de héros. Aidez-le à en trouver !",
+                    "ko-KR": "바워스톤의 선생님은 영웅의 인형을 찾고 있습니다, 그가 인형을 찾도록 도와주십시오!",
+                    "ru-RU": "Учитель из Глушвилля ищет коллекционных кукол. Помогите ему их найти!",
+                    "pt-PT": "O Professor de Bowerstone está à procura de Miniaturas de Heróis, ajude-o a encontrá-las!",
+                    "it-IT": "L'insegnante di Bowerstone sta cercando le bambole degli eroi. Aiutalo a trovarle!",
+                    "de-DE": "Der Lehrer von Bowerstone sucht nach Heldenpuppen. Helft ihm bei der Suche!",
+                    "es-ES": "El maestro de Bowerstone busca muñecos de héroes. ¡Ayúdalo a encontrarlos!",
+                    "ja-JP": "バウワーストーンスクールの教師に、英雄の人形を届ける",
+                    "zh-CHT": "包爾斯頓的老師正在收集英雄布偶，快幫他找找看吧！"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "12.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "en-US": "Education Rules The Nation",
+                    "fr-FR": "Priorité à l'éducation",
+                    "ko-KR": "교육은 백년지대계",
+                    "ru-RU": "Учиться и еще раз учиться",
+                    "pt-PT": "A Educação Comanda a Nação",
+                    "it-IT": "L'istruzione guida la nazione",
+                    "de-DE": "Bildung braucht das Land",
+                    "es-ES": "Qué importante es la educación",
+                    "ja-JP": "教育こそ宝",
+                    "zh-CHT": "教育的重要性"
+                },
+                "description": {
+                    "en-US": "The children are literate again, you have made Albion a more intelligent place. For now.",
+                    "fr-FR": "Grâce à vous, l'Albion n'est plus une terre d'incultes. Pour l'instant.",
+                    "ko-KR": "아이들은 이제 좀 유식해졌습니다. 당신이 알비온을 더 지적인 곳으로 만들었습니다. 일단 지금은 말입니다.",
+                    "ru-RU": "Вы сделали Альбион более просвещенным местом, здешние дети снова умеют читать. На какое-то время.",
+                    "pt-PT": "As crianças voltaram a ser alfabetizadas, você tornou Albion um lugar mais inteligente. Até agora.",
+                    "it-IT": "I bambini sanno di nuovo leggere e scrivere. Hai reso Albion un luogo più intelligente. Per ora.",
+                    "de-DE": "Die Kinder können wieder lesen. Ihr habt Albion intelligenter gemacht. Vorerst.",
+                    "es-ES": "Los niños vuelven a leer y Albión es un sitio más inteligente. De momento.",
+                    "ja-JP": "子どもたちは再び読み書きができるようになった。アルビオンはより知的な街になった",
+                    "zh-CHT": "這些孩子又能讀書寫字了。至少現在，您讓阿爾比恩成為了更有智慧的地方。"
+                },
+                "howto": {
+                    "en-US": "The children in Bowerstone have no books to read! You don't want illiterate children, do you?",
+                    "fr-FR": "Les enfants de Bowerstone n'ont pas de livres ! Vous ne voudriez pas d'une génération d'illettrés ?",
+                    "ko-KR": "바워스톤의 아이들은 읽을 책이 없습니다! 아이들이 무식하게 되는 걸 바라는 건 아니겠지요?",
+                    "ru-RU": "Детям Альбиона нечего читать, у них нет книг! Вы же не хотите, чтобы они выросли неграмотными?",
+                    "pt-PT": "As crianças de Bowerstone não têm livros para ler! Você não quer que elas sejam analfabetas, não é?",
+                    "it-IT": "I bambini di Bowerstone non hanno libri da leggere! Non vuoi bambini analfabeti, vero?",
+                    "de-DE": "Die Kinder von Bowerstone haben keine Lesebücher! Ihr wollt doch keine Analphabeten, oder?",
+                    "es-ES": "¡Los niños de Bowerstone no tienen libros que leer! No quieres niños analfabetos, ¿no?",
+                    "ja-JP": "バウワーストーンの子供たちには読む本がない。本を見つけて届けよう",
+                    "zh-CHT": "包爾斯頓的孩子都沒書可讀！您可不想讓孩子目不識丁，對吧？"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "13.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "en-US": "Get It Off Your Chest",
+                    "fr-FR": "Maître des clés",
+                    "ko-KR": "상자를 터놓고",
+                    "ru-RU": "Первое вскрытие",
+                    "pt-PT": "Tire do Baú",
+                    "it-IT": "Uno scrigno tira l'altro",
+                    "de-DE": "Offen für alles",
+                    "es-ES": "Me muero de curiosidad",
+                    "ja-JP": "宝箱",
+                    "zh-CHT": "開箱囉"
+                },
+                "description": {
+                    "en-US": "That's one Silver Key Chest down! You're going to go on to open them all now, right?",
+                    "fr-FR": "Et un coffre à clé d'argent, un ! Bon, vous allez ouvrir tous les autres maintenant, pas vrai ?",
+                    "ko-KR": "실버 키 상자 하나를 열었습니다. 이제 나머지 상자들도 다 열어야겠죠?",
+                    "ru-RU": "Один Серебряный ключ использован. Теперь остановиться будет непросто, да?",
+                    "pt-PT": "Um Baú de Chave de Prata a menos! Você vai abrir todos agora, certo?",
+                    "it-IT": "Un altro scrigno della chiave d'argento! Li aprirai tutti, no?",
+                    "de-DE": "Eine Silberschlüsseltruhe geknackt! Jetzt wollt Ihr aber auch alle aufbekommen, oder?",
+                    "es-ES": "¡Un cofre de llave de plata menos! Ahora tendrás que abrirlos todos, ¿no?",
+                    "ja-JP": "シルバーキーで宝箱が開いた! 他も全部開けられるかな?",
+                    "zh-CHT": "已經打開 1 個銀鑰箱囉！您接下來會把所有銀鑰箱一個個打開，對吧？"
+                },
+                "howto": {
+                    "en-US": "Open your first Silver Key Chest to reveal the amazing surprise inside!",
+                    "fr-FR": "Ouvrez un coffre à clé d'argent pour découvrir la surprise extraordinaire qu'il vous réserve !",
+                    "ko-KR": "첫 번째 실버 키 상자를 열어 그 안의 놀라운 내용물을 보십시오!",
+                    "ru-RU": "Откройте первый Серебряный сундук, чтобы узнать, что за удивительный сюрприз скрывается внутри!",
+                    "pt-PT": "Abra seu primeiro Baú de Chave de Prata para revelar a incrível surpresa que há dentro!",
+                    "it-IT": "Apri il tuo primo scrigno della chiave d'argento per scoprire la stupenda sorpresa che contiene!",
+                    "de-DE": "Öffnet die erste Silberschlüsseltruhe und entdeckt eine tolle Überraschung darin!",
+                    "es-ES": "¡Abre tu primer cofre de llave de plata para revelar la gran sorpresa que contiene!",
+                    "ja-JP": "シルバーキーのついた宝箱を初めて開き、中に入っている秘密のアイテムを見つける",
+                    "zh-CHT": "打開您的第一個銀鑰箱，找出裡頭的大驚喜！"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "14.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "en-US": "Horde Mode",
+                    "fr-FR": "Mode Horde",
+                    "ko-KR": "호드 모드",
+                    "ru-RU": "Барахольщик",
+                    "pt-PT": "Modo Horda",
+                    "it-IT": "Modalità Orda",
+                    "de-DE": "Massenweise",
+                    "es-ES": "Modo Acaparador",
+                    "ja-JP": "集合モード",
+                    "zh-CHT": "多多益善"
+                },
+                "description": {
+                    "en-US": "You collected 10 Legendary weapons! Although some might call that, \"overcompensating\"...",
+                    "fr-FR": "Vous avez obtenu 10 armes légendaires ! Chercheriez-vous à compenser quelque chose ?",
+                    "ko-KR": "당신은 10개의 전설의 무기를 모았습니다! 비록 어떤 사람들은 \"과잉 보상\"이라 부를 지라도...",
+                    "ru-RU": "Вы собрали 10 образчиков легендарного оружия! Возможно, вы этим пытаетесь что-то компенсировать...",
+                    "pt-PT": "Você pegou 10 armas Lendárias! Embora alguns possam chamar isso de \"exagero\" ...",
+                    "it-IT": "Hai raccolto 10 armi leggendarie! Anche se qualcuno potrebbe dire che è un po' un'esagerazione...",
+                    "de-DE": "Ihr habt 10 legendäre Waffen gesammelt! Manche nennen so etwas \"Überkompensation\" ...",
+                    "es-ES": "¡Tienes 10 armas legendarias! Alguno podría pensar que lo haces para compensar alguna carencia...",
+                    "ja-JP": "伝説の武器を 10 個手に入れたな!けどそれはちょっと「持ちすぎ」かな ...",
+                    "zh-CHT": "您收集了 10 個傳奇武器！雖然有人會說這是「自卑心作祟」啦。"
+                },
+                "howto": {
+                    "en-US": "Some weapons are Legendary, and we feel it's worth you collecting at least 10 of them.",
+                    "fr-FR": "Certaines armes sont légendaires et valent la peine que vous en obteniez pas moins de 10.",
+                    "ko-KR": "전설의 무기라는 게 존재합니다, 적어도 10개는 모을 가치가 있다고 생각합니다. ",
+                    "ru-RU": "Некоторые виды оружия считаются легендарными. Вам стоит собрать не меньше десятка.",
+                    "pt-PT": "Algumas armas são Lendárias e achamos que vale a pena você pegar pelo menos 10 delas.",
+                    "it-IT": "Alcune armi sono leggendarie e vale la pena raccoglierne almeno 10.",
+                    "de-DE": "Manche Waffen sind legendär, und wir finden, es lohnt sich, wenn Ihr mindestens 10 davon sammelt.",
+                    "es-ES": "Algunas armas son legendarias, y creemos que merece la pena conseguir al menos 10 de ellas.",
+                    "ja-JP": "貴重な「伝説の武器」を 10 個以上集める",
+                    "zh-CHT": "有些武器是很有價值的傳奇武器，值得您收藏 10 個。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "15.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "en-US": "The Ultimate Warrior",
+                    "fr-FR": "Guerrier suprême",
+                    "ko-KR": "궁극의 전사",
+                    "ru-RU": "Воин из воинов",
+                    "pt-PT": "O Guerreiro Supremo",
+                    "it-IT": "Il guerriero supremo",
+                    "de-DE": "Der ultimative Krieger",
+                    "es-ES": "El guerrero definitivo",
+                    "ja-JP": "究極の戦士",
+                    "zh-CHT": "終極戰士"
+                },
+                "description": {
+                    "en-US": "Your Hero looks badass! Why not share an image of them on the Lionhead forums? [wink] [wink]",
+                    "fr-FR": "Quel style ! Et si vous partagiez une image de votre Héros sur les forums Lionhead ? [wink] [wink]",
+                    "ko-KR": "꽤 강한 영웅 같아 보입니다! Lionhead 포럼에 사진을 공유하는 게 어떻습니까? [윙크] [윙크]",
+                    "ru-RU": "Ваш Герой отлично выглядит! Почему бы не похвастаться его портретом на форуме Lionhead? ;) ;)",
+                    "pt-PT": "Seu Herói parece barra pesada! Que tal compartilhar sua imagem nos fóruns da Lionhead? [piscada]",
+                    "it-IT": "Il tuo eroe è proprio un duro! Perché non condividi un'immagine sui forum di Lionhead? ; ) ; )",
+                    "de-DE": "Euer Held wirkt wie ein harter Typ! Zeigt doch ein Bild von ihm in den Lionhead-Foren! [zwinker]",
+                    "es-ES": "¡Tu héroe es la caña! ¿Y si compartes una imagen suya en los foros de Lionhead? [guiño]",
+                    "ja-JP": "君の英雄はすごいな! Lionhead フォーラムでイメージを共有しないか?",
+                    "zh-CHT": "您的英雄看起來真是殺氣十足！要不要去 Lionhead 論壇分享您英雄的照片呢？[wink] [wink]"
+                },
+                "howto": {
+                    "en-US": "Treat yourself to a beard, haircut and tattoo, the 'Toupée And Tattoo Society' demands it.",
+                    "fr-FR": "Offrez-vous une barbe, une coiffure et un tatouage. Ordre de la Compagnie des Tatoués à Postiche.",
+                    "ko-KR": "수염, 헤어스타일과 타투를 하십시오. '가발과 타투 협회'의 요구 사항입니다.",
+                    "ru-RU": "Подстригитесь, отпустите бороду, сделайте тату, как того требует Братство стриженых и татуированных.",
+                    "pt-PT": "Descole uma barba, corte de cabelo e tatuagem para você. A \"Sociedade de Peruca e Tatuagem\" exige.",
+                    "it-IT": "Hai pensato a barba, capelli e tatuaggio? Sono un must della \"Società dei trico-tatuatori\".",
+                    "de-DE": "Gönnt Euch Bart, Haarschnitt und Tätowierung. Die \"Toupet-und-Tattoo-Gesellschaft\" will es so.",
+                    "es-ES": "Decórate con barba, peinado y tatuaje. Así lo exige la Sociedad del Tupé y el Tatuaje.",
+                    "ja-JP": "「duraとタトゥーの社会」のしきたりに従い、ヒゲをたくわえ、髪を整え、タトゥーを入れる",
+                    "zh-CHT": "「假髮與刺青協會」要求您，戴上鬍鬚、髮型和刺青吧。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "16.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "en-US": "That's My Man!",
+                    "fr-FR": "Coup de maître",
+                    "ko-KR": "이게 나다!",
+                    "ru-RU": "Наш человек!",
+                    "pt-PT": "Esse é o Cara!",
+                    "it-IT": "È il mio uomo!",
+                    "de-DE": "Wahnsinns-Leistung!",
+                    "es-ES": "¡Ese es mi hombre!",
+                    "ja-JP": "すごい奴だ!",
+                    "zh-CHT": "好傢伙！"
+                },
+                "description": {
+                    "en-US": "You levelled up a complete abilities tree! Will you now become a real Hero and master all three?",
+                    "fr-FR": "Vous avez terminé un arbre de compétences ! Maîtrisez les trois pour devenir un vrai Héros !",
+                    "ko-KR": "능력 하나를 완전히 레벨업하셨습니다! 이제 진정한 영웅이 되어 세 가지 모두를 마스터하시겠습니까?",
+                    "ru-RU": "Вы вырастили полное древо навыков! Сможете ли вы стать настоящим Героем и управиться со всеми тремя?",
+                    "pt-PT": "Você alcançou o nível máximo da árvore de habilidades! Vai se tornar um Herói e dominar os três?",
+                    "it-IT": "Hai fatto salire di livello un intero albero delle abilità! Saprai usarle tutte e tre al meglio?",
+                    "de-DE": "Ihr habt einen Fähigkeitenbaum erklommen! Werdet Ihr jetzt ein wahrer Held und meistert alle drei?",
+                    "es-ES": "¡Has completado un árbol de aptitudes! ¿Por qué no eres un héroe de verdad y vas a por los tres?",
+                    "ja-JP": "1 の能力を極めた! 3 つの能力すべてを極めて、真の英雄にならないか?",
+                    "zh-CHT": "您已完整升級了一項屬性！您會成為精通 3 種屬性的真正英雄嗎？"
+                },
+                "howto": {
+                    "en-US": "Level up a complete abilities tree, be it Strength, Skill or Will.",
+                    "fr-FR": "Apprenez tout un arbre de compétences (Force, Adresse ou Volonté).",
+                    "ko-KR": "체력, 기술 또는 마법 중 하나를 완전히 레벨업합니다, ",
+                    "ru-RU": "Вырастите полное древо навыков, будь то сила, ловкость или воля.",
+                    "pt-PT": "Alcance o nível máximo de toda a árvore de habilidades, seja Força, Perícia ou Vontade.",
+                    "it-IT": "Fai salire di livello un intero albero delle abilità: forza, abilità o volontà.",
+                    "de-DE": "Kämpft Euch durch einen Fähigkeitenbaum, egal ob \"Stärke\", \"Fertigkeit\" oder \"Willenskraft\".",
+                    "es-ES": "Lleva al máximo un árbol de aptitudes completo, ya sea Fuerza, Habilidad o Voluntad.",
+                    "ja-JP": "強さ、スキル、ウィルのいずれか能力を、レベル アップさせて極める",
+                    "zh-CHT": "讓力量、技能或精神力的所有能力都升級。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "17.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "en-US": "I Am Legendary",
+                    "fr-FR": "Je suis une légende",
+                    "ko-KR": "나는 전설이다",
+                    "ru-RU": "Я - легенда",
+                    "pt-PT": "Eu Sou a Lenda",
+                    "it-IT": "Sono leggendario",
+                    "de-DE": "Ich bin legendär",
+                    "es-ES": "Soy legendario",
+                    "ja-JP": "伝説の戦士",
+                    "zh-CHT": "我是傳奇"
+                },
+                "description": {
+                    "en-US": "You've gone from a Chicken Chaser to a Legendary Hero. All in a day's work, I guess.",
+                    "fr-FR": "Vous êtes passé du statut de Chasse-Poulet à celui de Héros légendaire. Bon boulot !",
+                    "ko-KR": "당신은 치킨 체이서에서 전설적인 영웅이 되었습니다. 제 생각에는 모두 하루 동안의 일입니다.",
+                    "ru-RU": "Вы проделали долгий путь от Курощупа до Легендарного Героя. Ничего необычного, да?",
+                    "pt-PT": "Você evoluiu de Perseguidor de Galinhas para Herói Lendário. Tudo em um dia de trabalho, imagino.",
+                    "it-IT": "Sei passato da sciupafemmine a eroe leggendario. Tutto in una sola giornata di lavoro, credo.",
+                    "de-DE": "Ihr habt Euch vom Hühnerschreck zum legendären Helden hochgearbeitet. Auch nichts Besonderes.",
+                    "es-ES": "Has pasado de persiguepollos a héroe legendario. ¡Eres un monstruo!",
+                    "ja-JP": "チキン チェイサーから伝説の戦士になれたな。まあ当然だな",
+                    "zh-CHT": "您從毛頭小子變成了傳奇英雄。這對您來說應該是輕而易舉吧？"
+                },
+                "howto": {
+                    "en-US": "Earn enough Renown to be known in Albion as \"Legendary\".",
+                    "fr-FR": "Gagnez suffisamment de Renom pour atteindre le rang \"Légendaire\" en Albion.",
+                    "ko-KR": "충분한 명성을 얻어 알비온에서 \"전설적\"으로 알려졌습니다.",
+                    "ru-RU": "Нужно повысить известность настолько, чтобы стать легендой Альбиона.",
+                    "pt-PT": "Consiga Renome suficiente para ser conhecido em Albion como \"Lendário\".",
+                    "it-IT": "Ottieni abbastanza fama per essere considerato \"leggendario\" in tutta Albion.",
+                    "de-DE": "Erlangt genug Bekanntheit, um in Albion als \"legendär\" zu gelten.",
+                    "es-ES": "Gana renombre suficiente para ser conocido como \"Legendario\" en Albión.",
+                    "ja-JP": "名声を上げ、「伝説」としてアルビオン中に知られるようになる",
+                    "zh-CHT": "在阿爾比恩獲得足夠的聲望，來成為「傳奇」。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "18.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "en-US": "Are You Not Entertained?!",
+                    "fr-FR": "N'êtes-vous pas divertis ?!",
+                    "ko-KR": "당신은 즐겁지 않습니까?!",
+                    "ru-RU": "Разве ж не весело?",
+                    "pt-PT": "Que Tédio!",
+                    "it-IT": "Non ti stai divertendo?",
+                    "de-DE": "Nicht genug Unterhaltung?!",
+                    "es-ES": "¡¿Os divertís o no?!",
+                    "ja-JP": "疲れないのか!?",
+                    "zh-CHT": "還沒結束啊？！"
+                },
+                "description": {
+                    "en-US": "You completed the Arena without rest, is this not why you were here?",
+                    "fr-FR": "Vous avez terminé l'Arène d'une traite, n'étiez-vous pas ici pour ça ?",
+                    "ko-KR": "당신은 휴식 없이 투기장을 완료하였습니다, 여기 온 이유가 그것 아니었습니까?",
+                    "ru-RU": "Вы победили на Арене без отдыха. Разве не это было вашей целью?",
+                    "pt-PT": "Você concluiu a Arena sem descansar. Não é por isso que veio aqui?",
+                    "it-IT": "Hai completato l'arena senza pause. Non sei venuto qui per questo?",
+                    "de-DE": "Ihr habt die Arena ohne Verschnaufpause gemeistert. Wart Ihr nicht deswegen hier?",
+                    "es-ES": "Has completado la Arena sin descansar. ¿No era esto para lo que estabas aquí?",
+                    "ja-JP": "休憩も取らずにアリーナをクリアしたのに、なぜこんなところにいるんだ?",
+                    "zh-CHT": "您不眠不休就完成了競技場的所有戰鬥，難道這不是您的目的嗎？"
+                },
+                "howto": {
+                    "en-US": "Complete all 8 rounds of the Arena without taking a break.",
+                    "fr-FR": "Terminez les 8 manches de l'Arène sans faire de pause.",
+                    "ko-KR": "휴식을 취하지 않고 투기장의 8라운드 모두를 완료하십시오.",
+                    "ru-RU": "Пройдите все 8 раундов на Арене без отдыха.",
+                    "pt-PT": "Conclua as 8 rodadas da Arena sem parar.",
+                    "it-IT": "Completa tutti gli 8 round dell'Arena senza mai fermarti.",
+                    "de-DE": "Absolviert alle 8 Runden in der Arena ohne Verschnaufpause.",
+                    "es-ES": "Completa las 8 rondas de la Arena sin descansar.",
+                    "ja-JP": "休憩を取らずに、アリーナの 8 ラウンドすべてをクリアする",
+                    "zh-CHT": "連續完成競技場的所有 8 個回合戰鬥。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "19.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "en-US": "See The Future",
+                    "fr-FR": "Vision du futur",
+                    "ko-KR": "미래를 보다",
+                    "ru-RU": "Будущее уже настало",
+                    "pt-PT": "Enxergue o Futuro",
+                    "it-IT": "Osserva il futuro",
+                    "de-DE": "Blick in die Zukunft",
+                    "es-ES": "Ve el futuro",
+                    "ja-JP": "未来を覗く",
+                    "zh-CHT": "預見未來"
+                },
+                "description": {
+                    "en-US": "Have you ever seen such smart-glass?! (Nice play on words there, smart-arse).",
+                    "fr-FR": "Avec SmartGlass, vous aurez la classe. Oui, bon, passons.",
+                    "ko-KR": "이런 스마트한 장치와 스마트한 게이머를 본 적이 있습니까?!",
+                    "ru-RU": "А не хотите ли в глаз? (Это такая шутка про SmartGlass).",
+                    "pt-PT": "Você já viu uma tela esperta como essa?! (belo jogo de palavras, espertinho).",
+                    "it-IT": "Hai mai visto uno smart-glass come questo?! (Mi piace fare lo smargiasso).",
+                    "de-DE": "SmartGlass ist voll krass, findet Ihr nicht?",
+                    "es-ES": "¿Habías visto alguna vez un cristal más listo que este?",
+                    "ja-JP": "接続した! ゾクゾクするほどスマート! ",
+                    "zh-CHT": "有看過那麼聰明的科技產品嗎？！"
+                },
+                "howto": {
+                    "en-US": "Connect Xbox SmartGlass™ to Fable Anniversary, isn't technology amazing!",
+                    "fr-FR": "Connectez Xbox SmartGlass à Fable Anniversary. C'est fou, le progrès, non ?",
+                    "ko-KR": "Fable Anniversary에 Xbox SmartGlass™를 연결하십시오. 놀라운 기술입니다!",
+                    "ru-RU": "Подключите SmartGlass™ к Fable Anniversary. До чего дошли технологии!",
+                    "pt-PT": "Conecte o Xbox SmartGlass™ ao Fable Anniversary. A tecnologia não é incrível?",
+                    "it-IT": "Collega Xbox SmartGlass a Fable Anniversary. La tecnologia è incredibile, non credi?",
+                    "de-DE": "Verbindet Xbox SmartGlass™ mit \"Fable Anniversary\". Technik ist doch was Feines, oder?",
+                    "es-ES": "Conecta Xbox SmartGlass™ a Fable Anniversary. ¿No es asombrosa la tecnología?",
+                    "ja-JP": "Xbox SmartGlass(TM) を Fable Anniversaryに接続する。技術の進歩とはすばらしいものだ",
+                    "zh-CHT": "讓 Xbox SmartGlass™ 連線到 Fable Anniversary，這真是了不起的技術！"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "20.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "en-US": "From The Smallest Acorn",
+                    "fr-FR": "Du gland...",
+                    "ko-KR": "가장 작은 도토리로부터",
+                    "ru-RU": "Из крохотного семечка",
+                    "pt-PT": "Do Menor Fruto",
+                    "it-IT": "All'inizio fu la ghianda",
+                    "de-DE": "Aus der kleinsten Eichel",
+                    "es-ES": "De la más humilde bellota",
+                    "ja-JP": "子どもから大人へ",
+                    "zh-CHT": "發芽茁壯"
+                },
+                "description": {
+                    "en-US": "Your childhood is behind you, next stop: puberty. 5 years of out-of-control hormones awaits you.",
+                    "fr-FR": "Votre enfance est derrière vous. Prochain arrêt : la puberté et 5 ans de perturbations hormonales.",
+                    "ko-KR": "어린 시절이 끝났습니다. 다음 단계: 사춘기. 5년 동안 분출될 통제 불능의 호르몬이 당신을 기다리고 있습니다.",
+                    "ru-RU": "Детство позади, следующая остановка - подростковый период. Пять лет гормонального бешенства.",
+                    "pt-PT": "Sua infância acabou. Agora, vem a puberdade. 5 anos de hormônios descontrolados esperam você.",
+                    "it-IT": "L'infanzia è andata. Prossima fermata: pubertà. Ti aspettano 5 anni di ormoni impazziti.",
+                    "de-DE": "Kindheit ade, nächster Halt: Pubertät. 5 Jahre voller kopfloser Hormone erwarten Euch.",
+                    "es-ES": "La niñez ha quedado atrás. Próxima parada: pubertad. 5 años de hormonas descontroladas te aguardan.",
+                    "ja-JP": "少年時代は終わった。5 年くらいは反抗期で自分を抑えられなくなるからな",
+                    "zh-CHT": "您的童年已經結束，接下來是青春期，整整 5 年活蹦亂跳的賀爾蒙正等著您。"
+                },
+                "howto": {
+                    "en-US": "Every tall oak tree needs to have its acorn moment, this is yours.",
+                    "fr-FR": "Même le plus majestueux des chênes n'a été qu'un simple gland. Vous aussi.",
+                    "ko-KR": "거대한 오크나무들도 다 도토리일 때를 거쳐야 합니다. 당신도 마찬가지입니다.",
+                    "ru-RU": "Каждый огромный дуб когда-то был крохотным желудем. Вот так же и с вами.",
+                    "pt-PT": "Todo carvalho alto passou por seu momento pequeno, agora é a sua vez.",
+                    "it-IT": "Ogni quercia ha avuto il suo periodo da ghianda. Questo è il tuo.",
+                    "de-DE": "Jede stramme Eiche hat so ihre Eichel-Momente. Dieser ist Eurer.",
+                    "es-ES": "Todo gran roble fue en su día una pequeña bellota. Esta es la tuya.",
+                    "ja-JP": "子どもから大人へと成長していく",
+                    "zh-CHT": "每株高大的橡樹都曾經是顆橡實，現在就是您的橡實時期。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "21.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "en-US": "The Graduation",
+                    "fr-FR": "Examen de passage",
+                    "ko-KR": "졸업",
+                    "ru-RU": "Выпускной",
+                    "pt-PT": "A Formatura",
+                    "it-IT": "Il diploma",
+                    "de-DE": "Der Abschluss",
+                    "es-ES": "La graduación",
+                    "ja-JP": "卒業",
+                    "zh-CHT": "畢業典禮"
+                },
+                "description": {
+                    "en-US": "Your student loan has ended, it will be years before you can buy a house, but hey; you've graduated!",
+                    "fr-FR": "Vous êtes endetté et ne serez pas propriétaire avant très longtemps. Souriez, vous êtes diplômé !",
+                    "ko-KR": "당신의 학자금 대출이 끝났습니다, 집을 마련하려면 몇 년은 걸리겠지만 어쨌든, 당신은 졸업했습니다!",
+                    "ru-RU": "Стипендии больше нет, пройдет еще пара лет, прежде чем вы сможете купить лошадь. Зато вы выпускник!",
+                    "pt-PT": "Seu empréstimo estudantil acabou, vai demorar para você comprar uma casa, mas e daí? Você se formou!",
+                    "it-IT": "Il tuo prestito per studenti è finito. Non potrai più fare grandi acquisti, però... hai il diploma!",
+                    "de-DE": "Das Studium geschafft, die Studienschulden noch lange nicht! Aber hey: Ihr habt den Abschluss!",
+                    "es-ES": "Tu crédito se estudiante acabó. Tardarás años en poder comprar una casa, pero ¡eh! ¡Te has graduado!",
+                    "ja-JP": "奨学金は終わりだ。家を持てるようになるにはまだ何年もかかるだろうが、これで卒業だ!",
+                    "zh-CHT": "您要開始償還助學貸款，會有好幾年沒辦法買房子。沒關係啦，您畢業了耶！"
+                },
+                "howto": {
+                    "en-US": "Graduate from the Heroes Guild to become a real Hero.",
+                    "fr-FR": "Réussissez l'examen de passage de la Guilde des Héros pour devenir un vrai Héros.",
+                    "ko-KR": "진정한 영웅이 되기 위해 영웅 길드를 졸업하십시오.",
+                    "ru-RU": "Завершите обучение в Гильдии, чтобы стать настоящим Героем.",
+                    "pt-PT": "Forme-se na Guilda dos Heróis para se tornar um Herói de verdade.",
+                    "it-IT": "Consegui il diploma alla gilda degli eroi per diventare un vero eroe.",
+                    "de-DE": "Macht Euren Abschluss bei der Heldengilde, damit Ihr endlich ein wahrer Held seid.",
+                    "es-ES": "Gradúate en el Gremio de héroes para ser un auténtico héroe.",
+                    "ja-JP": "英雄ギルドを卒業して、本物の英雄になる",
+                    "zh-CHT": "從英雄公會畢業，來成為真正的英雄。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "22.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "en-US": "Becoming A Man",
+                    "fr-FR": "Quête initiatique",
+                    "ko-KR": "남자 되기",
+                    "ru-RU": "Возмужание",
+                    "pt-PT": "Ser um Adulto",
+                    "it-IT": "Quasi uomo",
+                    "de-DE": "Zum Manne werden",
+                    "es-ES": "Hacerse un hombre",
+                    "ja-JP": "大人になる",
+                    "zh-CHT": "敢做敢當"
+                },
+                "description": {
+                    "en-US": "You went to Orchard Farm, made some decisions, and will now live by them.",
+                    "fr-FR": "Vous vous êtes rendu à la Ferme au verger et vous avez fait des choix que vous devrez assumer.",
+                    "ko-KR": "당신은 과수원에 가서 몇 가지 결정을 내렸습니다. 이제 그 결정을 안고 살게 됩니다.",
+                    "ru-RU": "Вы отправились на Фруктовую ферму, приняли определенные решения, теперь уже ничего не изменить.",
+                    "pt-PT": "Você foi para Orchard Farm, tomou algumas decisões e agora terá que viver com elas.",
+                    "it-IT": "Sei andato al frutteto, hai preso delle decisioni e ora devi solo metterle in pratica.",
+                    "de-DE": "Ihr wart auf der Obstfarm, habt ein paar Entscheidungen gefällt, und müsst nun damit leben.",
+                    "es-ES": "Fuiste a la Granja Huerto, tomaste algunas decisiones y ahora debes vivir con ellas.",
+                    "ja-JP": "果樹園に行き、自らの意志で行動した",
+                    "zh-CHT": "您去了果園、做了些決定，而現在您就得依照這些決定生活下去。"
+                },
+                "howto": {
+                    "en-US": "Pay a visit to Orchard Farm to see if you can be of help or hindrance.",
+                    "fr-FR": "Rendez-vous à la Ferme au verger pour voir si vous pouvez rendre service ou semer la pagaille.",
+                    "ko-KR": "과수원에 방문하고 당신이 도움이 될지 방해가 될지 알아보세요.",
+                    "ru-RU": "Посетите Фруктовую ферму и узнайте, нужны ли там ваши услуги.",
+                    "pt-PT": "Vá visitar Orchard Farm para ver se pode ajudar ou atrapalhar.",
+                    "it-IT": "Vai al frutteto per vedere se puoi essere utile o solo un ostacolo.",
+                    "de-DE": "Besucht die Obstfarm und seht, ob Ihr dort helfen oder hindern könnt.",
+                    "es-ES": "Visita la Granja Huerto para ver si puedes ayudar o entorpecer.",
+                    "ja-JP": "果樹園をたずねて、手助けをするか、邪魔をしてみる",
+                    "zh-CHT": "到果園走一趟，看看自己會成為助力還是阻力。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "23.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "en-US": "The Bloodline Part I",
+                    "fr-FR": "La lignée, 1re partie",
+                    "ko-KR": "혈통 파트 I",
+                    "ru-RU": "Дела семейные, часть 1",
+                    "pt-PT": "A Linhagem Parte I",
+                    "it-IT": "La discendenza - parte I",
+                    "de-DE": "Die Blutlinie, Teil I",
+                    "es-ES": "La línea de sangre 1",
+                    "ja-JP": "血族 I",
+                    "zh-CHT": "血統：第一章"
+                },
+                "description": {
+                    "en-US": "You located your sister, but little does she know how relevant she is to the future of Albion.",
+                    "fr-FR": "Vous avez retrouvé votre soeur. Elle ignore à quel point son existence est cruciale pour l'Albion...",
+                    "ko-KR": "당신은 누나를 찾았습니다, 그러나 그녀는 자신이 알비온의 미래에 얼마나 연관되어 있는지 잘 알지 못합니다. ",
+                    "ru-RU": "Вы нашли сестру, но она совершенно не представляет важность своей роли для будущего Альбиона.",
+                    "pt-PT": "Você localizou sua irmã, mas ela nem faz ideia do quão importante é para o futuro de Albion.",
+                    "it-IT": "Hai trovato tua sorella, ma lei non sa quasi nulla di quanto sia importante per il futuro di Albion.",
+                    "de-DE": "Ihr habt Eure Schwester aufgespürt, aber sie ahnt nicht, wie wichtig sie für Albions Zukunft ist.",
+                    "es-ES": "Encontraste a tu hermana, que poco sabe de lo relevante que es para el futuro de Albión.",
+                    "ja-JP": "姉を見つけた。しかし彼女は、自分がアルビオンの未来にどんな影響を与えるのかをまったく知らない",
+                    "zh-CHT": "您找到了姊姊，但她不明白自己與阿爾比恩的未來有何關聯。"
+                },
+                "howto": {
+                    "en-US": "Find the whereabouts of your sister, she's very important to the future of Albion.",
+                    "fr-FR": "Retrouvez votre soeur. C'est une personne très importante pour l'avenir de l'Albion.",
+                    "ko-KR": "누나의 행방을 찾으십시오, 그녀는 알비온의 미래에 매우 중요합니다.",
+                    "ru-RU": "Нужно узнать, где ваша сестра. Будущее Альбиона зависит от нее.",
+                    "pt-PT": "Ache o paradeiro da sua irmã, ela é crucial para o futuro de Albion.",
+                    "it-IT": "Scopri dove si trova tua sorella: è molto importante per il futuro di Albion.",
+                    "de-DE": "Spürt Eure Schwester auf. Sie spielt eine große Rolle für die Zukunft von Albion.",
+                    "es-ES": "Halla el paradero de tu hermana. Es muy importante para el futuro de Albión.",
+                    "ja-JP": "姉の行方を探す。アルビオンの未来は彼女にかかっている",
+                    "zh-CHT": "尋找您的姊姊的下落，因為她對阿爾比恩的未來很重要。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "24.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "en-US": "Under A Full Moon",
+                    "fr-FR": "Pleine lune",
+                    "ko-KR": "보름달 아래",
+                    "ru-RU": "Полнолуние",
+                    "pt-PT": "Sob a Lua Cheia",
+                    "it-IT": "Sotto la luna piena",
+                    "de-DE": "Bei Vollmond",
+                    "es-ES": "Bajo la luna llena",
+                    "ja-JP": "満月の下で",
+                    "zh-CHT": "滿月之下"
+                },
+                "description": {
+                    "en-US": "You slayed the White Balverine, formally known as Jimmy. Ironic that he was allergic to dogs.",
+                    "fr-FR": "Vous avez terrassé la balverine blanche, Jimmy pour les intimes. Il était allergique aux chiens.",
+                    "ko-KR": "당신은 공식적으로 지미라고 알려진 화이트 밸버린을 죽였습니다. 아이러니하게도 그는 개 알레르기가 있었습니다.",
+                    "ru-RU": "Вы убили белого оборотня, известного под именем Джимми. Забавно, что у него была аллергия на собак.",
+                    "pt-PT": "Você assassinou um Balverine Branco, conhecido como Jimmy. A ironia é que ele era alérgico a cães.",
+                    "it-IT": "Hai eliminato il balverino bianco, noto a tutti come Jimmy. Lo sapevi che era allergico ai cani?",
+                    "de-DE": "Ihr habt den weißen Balverin, ehemals Jimmy, erschlagen. Ironisch: Er war allergisch gegen Hunde.",
+                    "es-ES": "Has matado al balverino blanco conocido como Jimmy. Qué irónico que fuera alérgico a los perros.",
+                    "ja-JP": "ジミーとして知られている、ホワイトバルバリンを倒した。皮肉にも、奴は犬嫌いだった",
+                    "zh-CHT": "您殺了被稱為吉米的白種狼人。但諷刺的是，他居然對狗過敏。"
+                },
+                "howto": {
+                    "en-US": "There's something going on in Knothole Glade under a full moon. Cliché? Never.",
+                    "fr-FR": "Il se trame quelque chose à Knothole Glade les nuits de pleine lune. Comment ça, c'est cliché ?",
+                    "ko-KR": "보름달일 때, 노트홀 글레이드에서 무언가 벌어지고 있습니다. 뻔하다고요? 절대 아닙니다.",
+                    "ru-RU": "В Сучковой просеке что-то происходит по полнолуниям. Сюжетный штамп? Да ничуть.",
+                    "pt-PT": "Tem algo acontecendo em Knothole Glade sob a lua cheia. Clichê? Jamais.",
+                    "it-IT": "Alla radura di Knothole sta succedendo qualcosa sotto la luna piena. Cliché? Mai.",
+                    "de-DE": "Bei Vollmond geht in Knothole Glade etwas vor sich. Ein Klischee? Niemals.",
+                    "es-ES": "Algo sucede en el Claro Knothole durante la luna llena. ¿Un cliché? Va a ser que no.",
+                    "ja-JP": "満月の下、ノットホール村で何かが起きる。常識では考えられないようなことが",
+                    "zh-CHT": "滿月時納特叢林裡會發生一些事情。這樣很老套嗎？不會啊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "25.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "en-US": "Gladiator, Ready!",
+                    "fr-FR": "Âme de gladiateur",
+                    "ko-KR": "전투 준비!",
+                    "ru-RU": "Битва",
+                    "pt-PT": "Gladiador, prepare-se!",
+                    "it-IT": "Gladiatore, preparati!",
+                    "de-DE": "Gladiator, macht Euch bereit!",
+                    "es-ES": "¡Listo, gladiador!",
+                    "ja-JP": "戦闘準備",
+                    "zh-CHT": "劍俠，現身！"
+                },
+                "description": {
+                    "en-US": "You won the Arena, the highest accolade there is for a Hero! Now, onwards to saving the world!",
+                    "fr-FR": "Vous avez remporté l'Arène, le triomphe suprême ! Maintenant, il ne vous reste qu'à sauver le monde.",
+                    "ko-KR": "당신은 투기장에서 승리했습니다, 영웅이 가질 수 있는 최고의 영예입니다! 이제, 세계를 구하기 위한 길을 계속 가십시오!",
+                    "ru-RU": "Вы победили на Арене, чего еще может желать Герой?",
+                    "pt-PT": "Você venceu na Arena, o maior reconhecimento para um Herói! Agora, vá em frente para salvar o mundo!",
+                    "it-IT": "Hai vinto l'arena, il titolo più alto che può ottenere un eroe! Ora vai avanti e salva il mondo!",
+                    "de-DE": "Ihr habt in der Arena gesiegt, die höchste Auszeichnung für einen Helden! Und nun rettet die Welt!",
+                    "es-ES": "¡Has ganado la Arena, y no hay mayor premio para un héroe! ¡Ahora, a salvar el mundo!",
+                    "ja-JP": "アリーナでの勝利は、勇者にとって最高の称号だ! さあ、世界を救う旅に出よう!",
+                    "zh-CHT": "您在競技場贏得了勝利，這可是英雄能獲得的最高榮譽！現在，去拯救世界吧！"
+                },
+                "howto": {
+                    "en-US": "Take on the might of everything that Albion has to offer. Well, almost everything…",
+                    "fr-FR": "Mesurez-vous à tout ce que l'Albion a à offrir. Enfin, presque tout...",
+                    "ko-KR": "알비온에 있는 모든 강한 것들과 대결하십시오. 음, 거의 모든 강한 것들입니다...",
+                    "ru-RU": "Нужно победить всех, кого может выставить против вас Альбион. Ну, почти всех...",
+                    "pt-PT": "Assuma o poder de tudo o que Albion tem para oferecer. Bem, quase tudo...",
+                    "it-IT": "Affronta tutto quello che Albion può offrire. Beh, quasi tutto...",
+                    "de-DE": "Nehmt es mit allem auf, das Albion zu bieten hat. Na ja, mit fast allem ...",
+                    "es-ES": "Enfréntate a todo lo que Albión puede ofrecer. Bueno, a casi todo.",
+                    "ja-JP": "アルビオンの猛者をすべて倒す。いや、「すべて」とは言い切れないかも...",
+                    "zh-CHT": "接受阿爾比恩所有強敵的挑戰。呃，幾乎所有啦。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "26.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "en-US": "A Family Friend",
+                    "fr-FR": "Ami de la famille",
+                    "ko-KR": "가족의 친구",
+                    "ru-RU": "Друг семьи",
+                    "pt-PT": "Um Amigo da Família",
+                    "it-IT": "Un amico di famiglia",
+                    "de-DE": "Freund der Familie",
+                    "es-ES": "Amigo de la familia",
+                    "ja-JP": "家族ぐるみの友人の救出",
+                    "zh-CHT": "家族好友"
+                },
+                "description": {
+                    "en-US": "Did you spell a rude word on the stones? It doesn't matter now, the annoying Archaeologist is saved!",
+                    "fr-FR": "Vous avez écrit des insanités sur les pierres ? Peu importe ! L'archéologue est sauvé, maintenant !",
+                    "ko-KR": "돌에 무례한 낙서를 했습니까? 이제는 상관이 없습니다, 짜증스러운 고고학자가 구출되었으니까요!",
+                    "ru-RU": "Кто это грубое слово написал на камнях? Впрочем, не важно. Надоедливый Археолог все равно спасен!",
+                    "pt-PT": "Você falou algo rude sobre as pedras? Não importa, o Arqueólogo chato está salvo!",
+                    "it-IT": "Hai detto delle parolacce sulle pietre? Adesso non importa, il fastidioso archeologo è salvo!",
+                    "de-DE": "Habt Ihr ein Schimpfwort auf die Steine geschmiert?! Egal, der lästige Archäologe ist gerettet!",
+                    "es-ES": "¿Dijiste alguna palabrota a las piedras? Ya da igual: ¡el molesto Arqueólogo está a salvo!",
+                    "ja-JP": "石に変な言葉を刻んだって? それは大した問題じゃない。はた迷惑な考古学者が何とかしてくれるさ!",
+                    "zh-CHT": "您對石頭說了粗魯的話嗎？沒關係，因為討厭的考古學家安全了！"
+                },
+                "howto": {
+                    "en-US": "Rescue the Archaeologist, and find the secret entrance into Bargate Prison.",
+                    "fr-FR": "Sauvez l'archéologue et trouvez l'entrée secrète de la prison de Bargate.",
+                    "ko-KR": "고고학자를 구출하고 그리고 바게이트 감옥으로 가는 비밀의 입구를 찾으십시오.",
+                    "ru-RU": "Нужно спасти Археолога и найти тайный вход в Баргейтскую тюрьму.",
+                    "pt-PT": "Salve o Arqueólogo e ache a entrada secreta para a Prisão Bargate.",
+                    "it-IT": "Salva l'archeologo e trova l'entrata segreta della prigione di Bargate.",
+                    "de-DE": "Rettet den Archäologen und findet den geheimen Eingang ins Bargate-Gefängnis.",
+                    "es-ES": "Rescata al Arqueólogo y encuentra la entrada secreta a la prisión Bargate.",
+                    "ja-JP": "考古学者を救出して、バーゲイト収容所への入口を見つける",
+                    "zh-CHT": "拯救考古學家，然後尋找通往巴蓋特監獄的密道。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "27.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "en-US": "Fishing In A Graveyard",
+                    "fr-FR": "Pêche au cimetière",
+                    "ko-KR": "묘지에서 낚시하기",
+                    "ru-RU": "Рыбалка на кладбище",
+                    "pt-PT": "Pescando no Cemitério",
+                    "it-IT": "A pesca nel cimitero",
+                    "de-DE": "Angeln auf dem Friedhof",
+                    "es-ES": "Pesca en un camposanto",
+                    "ja-JP": "墓地での釣り",
+                    "zh-CHT": "在墓園釣魚"
+                },
+                "description": {
+                    "en-US": "Who goes fishing in graveyards? It seems you do! Nostro is at peace, so go fish somewhere normal.",
+                    "fr-FR": "Pêcher dans un cimetière ? Franchement... Nostro repose en paix. Allez pêcher ailleurs !",
+                    "ko-KR": "누가 묘지에 낚시를 하러 갑니까? 당신이군요! 노스트로는 평화로이 누워 있습니다, 그러니 다른 정상적인 곳에서 낚시하세요.",
+                    "ru-RU": "Кто же ловит рыбу на кладбище? Вы. Ностро упокоился, так что перебирайтесь в более подходящее место.",
+                    "pt-PT": "Quem vai pescar em cemitérios? Parece que você! Nostro está em paz, vá pescar num lugar normal.",
+                    "it-IT": "Chi va a pescare al cimitero? Tu! Nostro riposa in pace, quindi vai a pescare in un posto normale.",
+                    "de-DE": "Wer angelt schon auf dem Friedhof? Ihr offenbar! Nostro ruht in Frieden, also angelt woanders!",
+                    "es-ES": "¿Quién pesca en un cementerio? Pues tú... Nostro está en paz, así que ve por sitios más normales.",
+                    "ja-JP": "墓地で釣りだって? やめとけ、ノストロに構うな。釣りならどっか他所へ行けよ",
+                    "zh-CHT": "誰會去墓園釣魚啊？看來就是您了！既然諾斯楚長眠了，那就去正常一點的地方釣魚吧。"
+                },
+                "howto": {
+                    "en-US": "Go fishing and digging in a graveyard, as if it's a completely normal thing to do.",
+                    "fr-FR": "Pêchez et creusez dans un cimetière, comme si c'était la chose la plus naturelle au monde.",
+                    "ko-KR": "묘지로 가서 마치 완전히 정상적인 행동인 것처럼 낚시하고 땅을 파십시오.",
+                    "ru-RU": "Отправляйтесь половить рыбу и покопаться на кладбище, словно места лучше не бывает.",
+                    "pt-PT": "Vá pescar e cavar em um cemitério, como se fosse a coisa mais normal a se fazer.",
+                    "it-IT": "Vai a pescare e a scavare in un cimitero, come se fossero attività normalissime.",
+                    "de-DE": "Geht auf einem Friedhof angeln und buddeln, so als ob es das Normalste der Welt wäre.",
+                    "es-ES": "Ve a pescar y a excavar en un cementerio, como si fuera lo más normal del mundo.",
+                    "ja-JP": "釣りをして、墓地を掘り返す。全く普通のことのようにだ",
+                    "zh-CHT": "到墓園釣魚和挖墓，彷彿這是完全合乎常理的事。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "28.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "en-US": "The Bloodline Part II",
+                    "fr-FR": "La lignée, 2e partie",
+                    "ko-KR": "혈통 파트 II",
+                    "ru-RU": "Дела семейные, часть 2",
+                    "pt-PT": "A Linhagem Parte II",
+                    "it-IT": "La discendenza - parte II",
+                    "de-DE": "Die Blutlinie, Teil II",
+                    "es-ES": "La línea de sangre 2",
+                    "ja-JP": "血族 II",
+                    "zh-CHT": "血統：第二章"
+                },
+                "description": {
+                    "en-US": "You located your mother, but little does she know how irrelevant she is to the future of Albion.",
+                    "fr-FR": "Vous avez retrouvé votre mère. Elle ignore à quel point son existence est futile pour l'Albion...",
+                    "ko-KR": "당신은 어머니를 찾았습니다, 하지만 그녀는 자신이 알비온의 미래에 얼마나 연관이 없는지 잘 알지 못합니다. ",
+                    "ru-RU": "Найдена мать Героя, но она совершенно не представляет важность своей роли для будущего Альбиона.",
+                    "pt-PT": "Você localizou sua mãe, mas ela nem faz ideia do quão importante é para o futuro de Albion.",
+                    "it-IT": "Hai trovato tua madre, ma lei non sa quasi nulla di quanto sia irrilevante per il futuro di Albion.",
+                    "de-DE": "Ihr habt Eure Mutter aufgespürt, aber sie ahnt nicht, wie unwichtig sie für Albions Zukunft ist.",
+                    "es-ES": "Has localizado a tu madre, que poco sabe de lo irrelevante que es para el futuro de Albión.",
+                    "ja-JP": "母を見つけた。しかし彼女は、自分がアルビオンの未来にどんな影響を与えるのかをまったく知らない",
+                    "zh-CHT": "您找到了母親，但她不明白自己與阿爾比恩的未來毫無關聯。"
+                },
+                "howto": {
+                    "en-US": "Now it's your mother that has gone missing, so it's time to find her too. Families, who needs 'em?",
+                    "fr-FR": "Votre mère a disparu à son tour. Il va falloir que vous la retrouviez. Quel boulet, cette famille !",
+                    "ko-KR": "이제, 어머니가 실종되었습니다, 그러니 그녀를 찾을 시간입니다. 가족이란 게 정말 필요할까요?",
+                    "ru-RU": "Ну, теперь мать Героя пропала. Нужно ее тоже найти. Одни проблемы от этих родственников.",
+                    "pt-PT": "Agora foi sua mãe que sumiu, então é hora de encontrá-la também. Família, quem precisa dela?",
+                    "it-IT": "Adesso è tua madre a essere sparita, devi trovarla. A chi servono i parenti?",
+                    "de-DE": "Jetzt ist Eure Mutter verschwunden, also geht auch sie suchen! Nichts als Ärger mit der Familie!",
+                    "es-ES": "Ahora es tu madre la que ha desaparecido, así que búscala. Familia, ¿quién la necesita?",
+                    "ja-JP": "母親が行方不明になったので、母親も探す。必要とする誰かのために",
+                    "zh-CHT": "您的母親失蹤了，現在該去把她找回來了。家人？有誰需要家人嗎？"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "29.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "en-US": "There's Always A Lighthouse",
+                    "fr-FR": "Il y a toujours un phare",
+                    "ko-KR": "그곳에는 언제나 등대가 있어요",
+                    "ru-RU": "Всегда есть маяк",
+                    "pt-PT": "Sempre Há Um Farol",
+                    "it-IT": "C'è sempre una luce",
+                    "de-DE": "Einen Leuchtturm gibt's immer",
+                    "es-ES": "Siempre hay un faro",
+                    "ja-JP": "灯台の明かり",
+                    "zh-CHT": "那裡總是會有座燈塔"
+                },
+                "description": {
+                    "en-US": "With Maze out of the picture, it's time to save your big sister. You know, the powerful one.",
+                    "fr-FR": "Maintenant que Maze est hors jeu, vous devez sauver votre soeur. La vraie star de la famille...",
+                    "ko-KR": "메이즈를 제거했으니 이제 당신의 누나를 구해야 합니다. 강력한 누나 말입니다.",
+                    "ru-RU": "Теперь, когда Мейз списан со счетов, пришла пора спасти Большую сестричку. Ту, со способностями.",
+                    "pt-PT": "Com o Maze fora do caminho, é hora de salvar sua irmã mais velha. Sabe, aquela toda poderosa.",
+                    "it-IT": "Dopo esserti liberato di Dedalo, è ora di salvare tua sorella maggiore. Massì, quella potente.",
+                    "de-DE": "Maze ist aus dem Spiel, jetzt rettet Eure große Schwester. Ihr wisst schon, die starke.",
+                    "es-ES": "Con Maze fuera de juego, es hora de salvar a tu hermana mayor. Ya sabes, la poderosa.",
+                    "ja-JP": "メイズはもういない。姉さんを救わなければ",
+                    "zh-CHT": "既然梅茲已不再是個問題，該是時候拯救您的大姊姊了。您應該知道的，就是有強大力量的那位。"
+                },
+                "howto": {
+                    "en-US": "Would you kindly rid Albion of its greatest traitor.",
+                    "fr-FR": "Merci de bien vouloir débarrasser l'Albion du pire traître ayant jamais foulé ses terres.",
+                    "ko-KR": "알비온의 가장 강력한 반역자를 없애 주시지 않겠습니까.",
+                    "ru-RU": "Будьте так любезны, избавьте Альбион от самого гнусного изменника.",
+                    "pt-PT": "Faria a gentileza de livrar Albion do seu maior traidor?",
+                    "it-IT": "Ti dispiacerebbe liberare Albion dal suo più grande traditore?",
+                    "de-DE": "Wärt Ihr so freundlich, Albion von seinem größten Verräter zu befreien?",
+                    "es-ES": "¿Querrías librar a Albión de su mayor traidor?",
+                    "ja-JP": "アルビオンの最大の裏切り者を倒してほしい。",
+                    "zh-CHT": "麻煩您解決掉阿爾比恩最危險的叛徒。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "30.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "en-US": "A Wild Jack Appears",
+                    "fr-FR": "Un Jack sauvage apparaît",
+                    "ko-KR": "야생의 잭이 나타났다",
+                    "ru-RU": "Враг у ворот",
+                    "pt-PT": "Surge um Jack Selvagem",
+                    "it-IT": "Jack in arrivo",
+                    "de-DE": "Ein wilder Jack erscheint",
+                    "es-ES": "Aparece alguien inesperado",
+                    "ja-JP": "野蛮なジャックの登場",
+                    "zh-CHT": "瘋狂傑克出現了"
+                },
+                "description": {
+                    "en-US": "You caught up with Jack, and made the toughest choice of all.",
+                    "fr-FR": "Vous avez rattrapé Jack et fait le choix le plus difficile.",
+                    "ko-KR": "당신은 잭을 따라잡았습니다, 그리고 가장 힘든 선택을 했습니다.",
+                    "ru-RU": "Вы разыскали Валета и приняли очень непростое решение.",
+                    "pt-PT": "Você achou o Jack e tomou a decisão mais difícil de todas.",
+                    "it-IT": "Hai preso Jack e fatto la scelta più difficile.",
+                    "de-DE": "Ihr habt Jack eingeholt und die schwierigste Entscheidung von allen getroffen.",
+                    "es-ES": "Has alcanzado a Jack y has tomado la decisión más difícil de todas.",
+                    "ja-JP": "ジャックを捕まえて、何よりも厳しい選択をした",
+                    "zh-CHT": "您抓住了傑克，還下了最艱難的決定。"
+                },
+                "howto": {
+                    "en-US": "From the Void to the Guild, it's time to fight the big bad guy.",
+                    "fr-FR": "Du néant à la Guilde, l'heure est venue d'affronter le gros méchant.",
+                    "ko-KR": "보이드에서 길드까지를 무대로, 거대한 나쁜 놈과 싸울 시간입니다.",
+                    "ru-RU": "От Бездны до Гильдии, всем пора дать отпор злыдню.",
+                    "pt-PT": "Do Vácuo à Guilda, é hora de combater o grande vilão.",
+                    "it-IT": "Dal Vuoto alla gilda, è ora di combattere quell'uomo potente e cattivo.",
+                    "de-DE": "Von der Leere hin zur Gilde, es wird Zeit, dem Schurken den Kampf anzusagen.",
+                    "es-ES": "Es hora de combatir al malo maloso desde el Vacío hasta el Gremio.",
+                    "ja-JP": "世界を救うため、力を合わせて巨大な悪と戦う",
+                    "zh-CHT": "從漩渦空間追到公會，該與大壞蛋一決勝負了。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "31.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "en-US": "Winter Is Coming",
+                    "fr-FR": "L'hiver vient",
+                    "ko-KR": "겨울이 오고 있다",
+                    "ru-RU": "Зима настала",
+                    "pt-PT": "O Inverno Está Chegando",
+                    "it-IT": "L'inverno si avvicina",
+                    "de-DE": "Der Winter naht",
+                    "es-ES": "Se acerca el invierno",
+                    "ja-JP": "冬の到来",
+                    "zh-CHT": "寒冬將至"
+                },
+                "description": {
+                    "en-US": "Sailing to the Lost Bay earned 500 miles on your BoatMiles(tm) card, earn 1,000,000 for a free trip!",
+                    "fr-FR": "Votre voyage vous a rapporté 500 MilesMarins(tm). Plus qu'un million pour un voyage gratuit !",
+                    "ko-KR": "로스트 만으로 항해하여 500마일의 마일리지를 획득하였습니다, 1,000,000마일을 획득하면 공짜 여행입니다!",
+                    "ru-RU": "Плавание в Затерянную бухту дало вам 500 бонусных миль, но чтобы сплавать бесплатно, нужно 1000000!",
+                    "pt-PT": "Navegou por Lost Bay e somou 500 no cartão de Milhas Marítimas. Com 1.000.000 a viagem é grátis!",
+                    "it-IT": "Hai ricevuto 500 miglia per la tessera MigliaMarine(tm). Raggiungi 1.000.000 per un viaggio gratis!",
+                    "de-DE": "Die Segeltour zur vergessenen Bucht brachte 500 BoatMiles™ ein. 1.000.000 bringen eine Gratisreise!",
+                    "es-ES": "El viaje a la Bahía Perdida te dio 500 millas para la tarjeta BoatMiles. ¡Un millón y viaje gratis!",
+                    "ja-JP": "失われた入り江の航海で、ボートマイル (tm) カードでマイルを 500 稼げた。特典旅行で 100 万マイルだ!",
+                    "zh-CHT": "航行至失落灣讓您的 BoatMiles(tm) 卡獲得 500 英哩的里程數。只要累積 1,000,000 英哩的里程數，就能免費旅行 1 次！"
+                },
+                "howto": {
+                    "en-US": "Travel to the Northern Wastes, because it sounds like just the place you'd want to visit.",
+                    "fr-FR": "Rendez-vous dans les Terres Désolées du nord. Vous mourez sûrement d'envie d'y aller.",
+                    "ko-KR": "북쪽 불모지로 여행하십시오. 그곳이 당신이 가봐야 할 곳인 것 같습니다.",
+                    "ru-RU": "Нужно отправиться в Северные пустоши, потому что само их название вас так и манит.",
+                    "pt-PT": "Viaje até Northern Wastes, porque é justamente o lugar que você não gostaria de visitar.",
+                    "it-IT": "Raggiungi le distese settentrionali: sembra proprio il posto che vorresti visitare.",
+                    "de-DE": "Reist zur Nördlichen Einöde. Klingt doch nach einem Ort, den Ihr unbedingt gesehen haben solltet.",
+                    "es-ES": "Viaja a los Páramos del Norte: parece un sitio ideal para visitar.",
+                    "ja-JP": "北の荒れ地へ行く。きっと、いい旅になるだろうよ!",
+                    "zh-CHT": "去北蠻荒丘吧，因為這地名聽起來就像是您會想去的地方。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "32.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "en-US": "Are You Listening To Me?",
+                    "fr-FR": "Gens du village",
+                    "ko-KR": "잘 듣고 있나?",
+                    "ru-RU": "Знание - сила",
+                    "pt-PT": "Está me Ouvindo?",
+                    "it-IT": "Mi ascolti quando parlo?",
+                    "de-DE": "Hört Ihr mir zu?",
+                    "es-ES": "¿Me estás escuchando?",
+                    "ja-JP": "我が言葉を聞け",
+                    "zh-CHT": "你在聽我說話嗎？"
+                },
+                "description": {
+                    "en-US": "Who knew that the letters Y, M, C and A would hold so much knowledge. Must be the outfits.",
+                    "fr-FR": "Qui se doutait que les lettres Y, M, C et A renfermaient un tel savoir ? Ça doit venir des tenues...",
+                    "ko-KR": "Y, M, C, A 네 글자가 그렇게 많은 지식을 갖고 있을 줄 누가 알았을까요. 팀이 되어야 할 것입니다. ",
+                    "ru-RU": "Кто знал, что за буквами Y, M, C и A стоит такая бездна смысла. Наверное, дело в костюмах.",
+                    "pt-PT": "Quem diria que as letras A, C e M possuem um grande conhecimento. Devem ser as roupas.",
+                    "it-IT": "Chi poteva sapere che le lettere Y, M, C e A avevano un tale significato? Sarà per i vestiti.",
+                    "de-DE": "Wer hätte gedacht, dass sich hinter den Buchstaben Y, M, C und A so viel Wissen verbirgt.",
+                    "es-ES": "¿Quién iba a decir que las letras Y M C A guardarían tanto saber? Será la ropa.",
+                    "ja-JP": "Y、M、 C、そして A。これらの文字が持つ深い知恵に耳を傾けよ",
+                    "zh-CHT": "誰會知道 Y、M、C 和 A 這四個字母有這麼大的學問。一定是服裝的關係。"
+                },
+                "howto": {
+                    "en-US": "Few things are smarter in Albion than a talking stone door, so imagine a door that knows the YMCA.",
+                    "fr-FR": "On trouve difficilement plus intelligent qu'une porte qui parle, alors une porte qui connaît YMCA...",
+                    "ko-KR": "알비온에서 말하는 돌문보다 더 똑똑한 것은 거의 없습니다, 그러니 그 문이 YMCA를 알 거라 생각해요.",
+                    "ru-RU": "Нет созданий умнее, чем Демон-страж. А теперь вообразите Демона-стража, который знает про YMCA.",
+                    "pt-PT": "Pouco em Albion é mais inteligente do que uma porta falante, então, imagine uma que conheça a YMCA.",
+                    "it-IT": "L'intelligenza di una porta parlante è unica, figurati una porta che sa il significato di YMCA.",
+                    "de-DE": "Wenig in Albion ist klüger als eine sprechende Steintür. Stellt Euch vor, die Tür würde YMCA kennen.",
+                    "es-ES": "Pocas cosas hay más listas que una puerta de piedra parlante. Imagina una que conozca el YMCA.",
+                    "ja-JP": "アルビオンで一番の知恵者は YMCA の文字を刻んだ固い岩の砦だ",
+                    "zh-CHT": "在阿爾比恩很少有東西比會說話的石門還聰明，一扇懂得 YMCA 的門就更了不起了。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "33.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "en-US": "Making Tough Decisions",
+                    "fr-FR": "Le choix du Héros",
+                    "ko-KR": "힘든 결정",
+                    "ru-RU": "Непростые решения",
+                    "pt-PT": "Tomando Decisões Difíceis",
+                    "it-IT": "Decisioni difficili",
+                    "de-DE": "Schwere Entscheidungen fällen",
+                    "es-ES": "Decisiones complicadas",
+                    "ja-JP": "厳しい選択",
+                    "zh-CHT": "下困難的決定"
+                },
+                "description": {
+                    "en-US": "Will you hear the words \"Hero, your health is low\" again? Choices were made, but were they right…",
+                    "fr-FR": "Entendrez-vous à nouveau les mots \"Héros, votre santé est faible\" ? Avez-vous fait les bons choix ?",
+                    "ko-KR": "당신은 \"영웅이여, 체력이 낮습니다\"라는 말을 다시 듣게 될까요? 선택은 이루어졌지만, 그 선택이 옳은 것일까요...",
+                    "ru-RU": "Услышите ли вы снова слова \"Тебе нужно восстановить здоровье\"? Были приняты решения, но верные ли...",
+                    "pt-PT": "Será que você vai ouvir \"Herói, você está fraco\"? Escolhas foram feitas, mas foram as certas...",
+                    "it-IT": "Sentirai di nuovo la parola \"Eroe\"? Sono state fatte delle scelte, che poi siano giuste...",
+                    "de-DE": "Werdet Ihr die Worte \"Held, Eure Gesundheit schwindet\" erneut hören? Habt Ihr richtig entschieden?",
+                    "es-ES": "¿Volverás a oír las palabras \"Héroe, vuestra salud está baja\"? ¿Elegiste correctamente?",
+                    "ja-JP": "「ヒットポイントが少ないぞ」という声をまた聞くことになるだろう。確かに選択はされた。だが、果たして正しかったのかどうか...",
+                    "zh-CHT": "您會再聽到「英雄，你的生命值很低」這句話嗎？您已經下了決定，只是不知道這決定對不對。"
+                },
+                "howto": {
+                    "en-US": "Behind the Bronze Gate lies your destiny, and all it needs is the death of your closest allies.",
+                    "fr-FR": "La Porte de Bronze s'ouvre sur votre destin. Il vous suffit de consentir à la mort de vos proches.",
+                    "ko-KR": "청동 문 뒤에 당신의 운명이 있습니다, 그리고 운명이 원하는 것은 당신의 가장 가까운 동료들의 죽음입니다.",
+                    "ru-RU": "Судьба ждет вас за Бронзовыми вратами. Дело лишь за смертью одного из ваших ближайших друзей.",
+                    "pt-PT": "Por trás do Portão de Bronze está seu destino e só é preciso a morte de seus aliados mais próximos.",
+                    "it-IT": "Il destino ti attende dietro il cancello di bronzo: aspetta solo la morte dei tuoi alleati più cari.",
+                    "de-DE": "Jenseits des Bronzetors liegt Euer Schicksal, und es fordert nur den Tod Eurer engsten Verbündeten.",
+                    "es-ES": "Tras la puerta de bronce aguarda tu destino. Solo falta la muerte de tus principales aliados.",
+                    "ja-JP": "ブロンズゲートの向こう側に行くため、身近な人々の命を犠牲にしなければならない",
+                    "zh-CHT": "您的命運就在那扇沉銅巨門之後，而您現在需要去做的，就是犧牲最親近盟友的性命。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "34.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "en-US": "(#SPOILERS)",
+                    "fr-FR": "(#RÉVÉLATIONS)",
+                    "ko-KR": "(#누설 주의)",
+                    "ru-RU": "(#СПОЙЛЕРЫ)",
+                    "pt-PT": "(#SPOILERS)",
+                    "it-IT": "(#SOFFIATE)",
+                    "de-DE": "(#SPOILERS)",
+                    "es-ES": "(#INFORMACIÓN SECRETA)",
+                    "ja-JP": "(#ネタバレ)",
+                    "zh-CHT": "(小心劇情洩漏)"
+                },
+                "description": {
+                    "en-US": "You defeated the Dragon, and cast away Jack's mask into the lava, (or put it on and became him!).",
+                    "fr-FR": "Vous avez vaincu le dragon et jeté le masque de Jack (ou vous l'avez mis et pris son identité !).",
+                    "ko-KR": "당신은 용을 무찔렀습니다, 그리고 잭의 가면을 용암에 던져 넣었습니다. (또는 가면을 쓰고 그가 되었습니다!).",
+                    "ru-RU": "Вы победили дракона и бросили маску Валета в лаву (или надели ее и стали им!).",
+                    "pt-PT": "Você derrotou o Dragão e jogou a máscara de Jack na lava (ou a colocou e se transformou nele!).",
+                    "it-IT": "Hai sconfitto il drago e gettato la maschera di Jack nella lava (oppure l'hai indossata tu!).",
+                    "de-DE": "Ihr habt den Drachen besiegt und Jacks Maske in die Lava geworfen (oder aufgesetzt und seid nun er).",
+                    "es-ES": "Derrotaste al dragón y echaste la máscara de Jack a la lava (¡o te la pusiste para ser él!).",
+                    "ja-JP": "ドラゴンを倒し、ジャックの仮面を溶岩に投げ捨てた (もしくは仮面をかぶって奴になったか!)",
+                    "zh-CHT": "您擊敗了惡龍傑克，還把傑克的面具丟進熔岩 (或是戴上面具並成為他的化身！)。"
+                },
+                "howto": {
+                    "en-US": "It's time to defeat the super awesome boss, the one you will see if you unlock this achievement.",
+                    "fr-FR": "Préparez-vous à vaincre le super méga boss, celui que vous affronterez si vous débloquez ce succès.",
+                    "ko-KR": "완전 무서운 보스를 쓰러뜨릴 차례입니다, 이 도전 과제를 완료하면 만나게 될 것입니다.",
+                    "ru-RU": "Пора победить наиболее страшного противника. Того, которого вы встретите, открыв это достижение.",
+                    "pt-PT": "É hora de derrotar o chefe superincrível, aquele que você vai ver se desbloquear esta conquista.",
+                    "it-IT": "È ora di sconfiggere il terribile boss, quello che vedrai se sblocchi questo obiettivo.",
+                    "de-DE": "Zeit, den mega-grausigen Boss zu besiegen, den Ihr nach Freischaltung dieses Erfolges findet.",
+                    "es-ES": "Es hora de derrotar al superjefe, al que verás si desbloqueas este logro.",
+                    "ja-JP": "成果を積むことで見える、最強の敵を倒す",
+                    "zh-CHT": "您該去擊敗那個超酷的頭目了。如果您解除了這個成就的鎖定，就能看見他。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "100",
+            "imageId": "35.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "en-US": "For Every Choice, An Achievement",
+                    "fr-FR": "À chaque choix son succès",
+                    "ko-KR": "모든 선택에는 도전 과제가 따르기 마련",
+                    "ru-RU": "Достижение за каждое из решений",
+                    "pt-PT": "Uma Conquista a Cada Escolha",
+                    "it-IT": "Ogni scelta vale un obiettivo",
+                    "de-DE": "Für jede Wahl einen Erfolg",
+                    "es-ES": "Un logro para cada elección",
+                    "ja-JP": "栄光のための選択",
+                    "zh-CHT": "每個決定都是為了成就"
+                },
+                "description": {
+                    "en-US": "Horns or Halo? Your choice of headgear has far reaching consequences.",
+                    "fr-FR": "Des cornes ou une auréole ? Votre choix sera lourd de conséquences.",
+                    "ko-KR": "뿔로 할까요 후광으로 할까요? 당신의 선택이 결과를 낳습니다.",
+                    "ru-RU": "Рожки или нимб? Выбор головного убора рождает серьезные последствия.",
+                    "pt-PT": "Chifres ou Auréola? O acessório para cabeça escolhido terá certa consequência.",
+                    "it-IT": "Corna o aureola? Dalla scelta del copricapo può dipendere il tuo destino.",
+                    "de-DE": "Hörner oder Heiligenschein? Die Wahl Eures Kopfschmucks hat weitreichende Konsequenzen.",
+                    "es-ES": "¿Cuernos o aureola? Tu elección de tocado tendrá importantes consecuencias.",
+                    "ja-JP": "ホムスとヘイロー、どっちにした? 選んだ帽子で結末が大きく変わるぞ",
+                    "zh-CHT": "要長角還是要光環？您對頭飾的選擇，對您有重大的影響。"
+                },
+                "howto": {
+                    "en-US": "Become holier than Avo, or more evil than Skorm!",
+                    "fr-FR": "Devenez plus exemplaire qu'Avo ou plus diabolique que Skorm !",
+                    "ko-KR": "아보보다 더 신성해지거나, 스컴보다 더 사악해지십시오!",
+                    "ru-RU": "Станьте святее Эйво или злобнее Скорма!",
+                    "pt-PT": "Torne-se mais santo que Avo, ou mais diabólico que Skorm!",
+                    "it-IT": "Diventa più santo di Avo o più malvagio di Skorm!",
+                    "de-DE": "Werdet heiliger als Avo oder böser als Skorm!",
+                    "es-ES": "¡Hazte más buenazo que Avo o más malandro que Skorm!",
+                    "ja-JP": "アヴォよりも神聖、もしくはスコームよりも邪悪な存在になる",
+                    "zh-CHT": "變得比善神還神聖，或是比邪神更邪惡！"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "36.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "en-US": "But You're A Wizard, Hero",
+                    "fr-FR": "Vous êtes un sorcier, Héros",
+                    "ko-KR": "하지만 당신은 마법사입니다, 영웅이여",
+                    "ru-RU": "Я только учусь",
+                    "pt-PT": "Mas Você é um Feiticeiro, Herói",
+                    "it-IT": "Ma sei un mago, eroe.",
+                    "de-DE": "Aber Ihr seid ein Zauberer, Held",
+                    "es-ES": "Pero eres un mago, héroe",
+                    "ja-JP": "魔法使いか英雄か",
+                    "zh-CHT": "英雄，可是您是個巫師耶"
+                },
+                "description": {
+                    "en-US": "What kind of Hero are you; The Jack of All Trades, or The Master of One?",
+                    "fr-FR": "Quel genre de Héros êtes-vous ? Un touche-à-tout ou un spécialiste ?",
+                    "ko-KR": "당신은 팔방미인형 영웅입니까, 한 가지 재주에 능한 영웅입니까?",
+                    "ru-RU": "Каким Героем вы будете - мастером на все руки или неумехой?",
+                    "pt-PT": "Que tipo de Herói é você, O Polivalente ou O Especialista?",
+                    "it-IT": "Che tipo di eroe sei: uno che sa fare di tutto o uno che eccelle in un'abilità?",
+                    "de-DE": "Was für ein Held seid Ihr? Ein Hansdampf in ALLEN Gassen oder Meister auf EINEM Gebiet?",
+                    "es-ES": "¿Qué clase de héroe eres, el que sabe un poco de todo o el especialista?",
+                    "ja-JP": "英雄って何なんだろう。何でも屋か? それとも道を究めた者か?",
+                    "zh-CHT": "您是什麼樣的英雄；是萬事通，還是專精其一呢？"
+                },
+                "howto": {
+                    "en-US": "Learn one of each spell type, or own one of each weapon type.",
+                    "fr-FR": "Apprenez un sort de chaque type ou ayez en votre possession une arme de chaque type.",
+                    "ko-KR": "각 주문 유형 중 하나를 배우거나, 각 무기 종류 중 하나를 소유하십시오.",
+                    "ru-RU": "Разучите по заклинанию каждого типа, добудьте по образцу оружия каждого типа.",
+                    "pt-PT": "Aprenda um feitiço de cada tipo, ou domine uma arma de cada tipo.",
+                    "it-IT": "Impara un incantesimo di ogni tipo oppure ottieni un'arma di ogni tipo.",
+                    "de-DE": "Erlernt von jedem Zaubertyp je einen Zauber, oder besorgt Euch von jedem Waffentyp je eine Waffe.",
+                    "es-ES": "Aprende un conjuro de cada tipo o ten un arma de cada clase.",
+                    "ja-JP": "スペルをタイプごとに 1 つずつ習得する。もしくは、武器のタイプごとに 1 つずつ所有する",
+                    "zh-CHT": "學習每種法術類型中各 1 個法術，或是獲得所有武器類型中各 1 樣武器。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "37.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "en-US": "That's A Real Lunker!",
+                    "fr-FR": "Belle prise !",
+                    "ko-KR": "큼직한 게 펄떡펄떡하네!",
+                    "ru-RU": "Вот это громадина!",
+                    "pt-PT": "Um Verdadeiro Peixão!",
+                    "it-IT": "Questo sì che è un pesce!",
+                    "de-DE": "Ein echter Brocken!",
+                    "es-ES": "¡Vaya captura!",
+                    "ja-JP": "まさに大物だ!",
+                    "zh-CHT": "真是條大魚！"
+                },
+                "description": {
+                    "en-US": "You got your tackle out, one way or the other.",
+                    "fr-FR": "Vous avez sorti l'hameçon, d'une façon ou d'une autre.",
+                    "ko-KR": "당신은 어떤 식으로든 길쭉한 것을 꺼내게 될 겁니다.",
+                    "ru-RU": "Расчехляйте удилище.",
+                    "pt-PT": "Você ficou sem equipamento, de qualquer maneira.",
+                    "it-IT": "Hai tirato fuori la tua attrezzatura, in un modo o nell'altro.",
+                    "de-DE": "Ihr habt den Köder ausgeworfen, so oder so.",
+                    "es-ES": "Has enseñado la caña, de un modo u otro.",
+                    "ja-JP": "いずれにせよ、たいしたもんだ",
+                    "zh-CHT": "您用不同的方式釣到了大魚。"
+                },
+                "howto": {
+                    "en-US": "Win 1st prize in the Fisherman's competition, or complete the boast for doing any quest naked.",
+                    "fr-FR": "Gagnez le concours de pêche ou effectuez l'esbroufe Tout Nu en accomplissant une quête... tout nu.",
+                    "ko-KR": "낚시 대회에서 1등 상품을 따거나, 나체로 퀘스트에 대한 서약을 완료하십시오.",
+                    "ru-RU": "Получите 1-й приз на соревновании рыбаков, либо на спор выполните какое-нибудь задание голышом.",
+                    "pt-PT": "Ganhe o 1º prêmio da competição de pesca, ou vanglorie-se de realizar qualquer missão sem nada.",
+                    "it-IT": "Vinci il primo premio nel torneo di pesca oppure vinci la scommessa completando le missioni nudo.",
+                    "de-DE": "Gewinnt den 1. Preis beim Angelwettbewerb oder meistert als Großtat einen beliebigen Quest nackt. ",
+                    "es-ES": "Gana el concurso de pescadores o alardea de haber completado un encargo en pelota picada.",
+                    "ja-JP": "釣りコンテストで優勝する。もしくは、裸でクエストを実行してそれを自慢する",
+                    "zh-CHT": "在漁夫競賽中獲得第一名，或是完成裸露執行任務的吹牛挑戰。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "38.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "en-US": "Fight Cluck",
+                    "fr-FR": "Voler dans les plumes",
+                    "ko-KR": "얼간이와 싸우기",
+                    "ru-RU": "Пиноцып",
+                    "pt-PT": "Briga de Cacarejo",
+                    "it-IT": "Pollestra",
+                    "de-DE": "Hühnerkampf",
+                    "es-ES": "Lucha de gallinas",
+                    "ja-JP": "熱血漢",
+                    "zh-CHT": "打咕咕雞"
+                },
+                "description": {
+                    "en-US": "Punching people or kicking Chickens; it's all considered an achievement in Albion.",
+                    "fr-FR": "Frapper des gens ou des poulets a beaucoup de succès en Albion.",
+                    "ko-KR": "사람을 때리는 것도 닭을 발로 차는 것도 모두 알비온에서의 도전 과제로 인정됩니다.",
+                    "ru-RU": "Бить людей, пинать кур - в Альбионе все это вполне допустимо.",
+                    "pt-PT": "Esmurrar pessoas ou chutar galinhas, vale tudo para uma conquista em Albion.",
+                    "it-IT": "Prendere a pugni le persone o a calci i polli: ad Albion valgono entrambi come obiettivi.",
+                    "de-DE": "Menschen boxen oder Hühner treten – in Albion gilt beides als Erfolg.",
+                    "es-ES": "Pegarle a la gente o patear pollos, da igual: todo se considera un logro en Albión.",
+                    "ja-JP": "人間を殴っても、鶏を蹴っても、アルビオンでは英雄だ",
+                    "zh-CHT": "無論是揍人還是踢雞，在阿爾比恩都算是種成就。"
+                },
+                "howto": {
+                    "en-US": "Become the Fist Fighter's World Champion, or win the Chicken Hat in the Chicken Kicking Competition.",
+                    "fr-FR": "Remportez le titre au combat à mains nues ou le chapeau de poulet au concours de shoot de poulet.",
+                    "ko-KR": "펀치 클럽 챔피언이 되거나, 닭 차기 대회에서 닭 모자를 따십시오.",
+                    "ru-RU": "Станьте чемпионом клуба \"Тумак\" либо заслужите Курошапку на соревновании по куроболу.",
+                    "pt-PT": "Torne-se um Lutador Desarmado Campeão ou ganhe o Chapéu de Galinha na Competição de Chutar Galinhas.",
+                    "it-IT": "Diventa campione di combattimento oppure vinci il cappello da pollo nella gara di Calcia il pollo.",
+                    "de-DE": "Werdet Faustkampf-Weltmeister oder gewinnt beim Hühnertritt-Wettkampf den Hühnerhut.",
+                    "es-ES": "Hazte campeón del club del puñetazo o gana el gorro de pollo en el concurso Patear al pollo.",
+                    "ja-JP": "拳闘クラブのチャンピオンになる。もしくは、チキンキック コンテストで優勝してチキンハットをもらう",
+                    "zh-CHT": "在拳擊俱樂部獲得世界冠軍，或是在飛雞踢大賽中贏得雞飛帽。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "39.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "en-US": "Arthur or Robin?",
+                    "fr-FR": "Arthur ou Robin ?",
+                    "ko-KR": "아서냐 로빈이냐",
+                    "ru-RU": "Артур или Робин?",
+                    "pt-PT": "Arthur ou Robin?",
+                    "it-IT": "Re Artù o Robin Hood?",
+                    "de-DE": "Artus oder Robin?",
+                    "es-ES": "¿Arthur o Robin?",
+                    "ja-JP": "アーサー? それともロビン?",
+                    "zh-CHT": "要當亞瑟王還是羅賓漢？"
+                },
+                "description": {
+                    "en-US": "Whether you chose large biceps, or a hawk's-eye - you chose well.",
+                    "fr-FR": "Que vous ayez opté pour les biceps en acier ou l'oeil de lynx, vous avez fait le bon choix.",
+                    "ko-KR": "당신이 거대 이두박근을 골랐건, 매의 눈을 골랐건 좋은 선택이었습니다.",
+                    "ru-RU": "Что большой бицепс, что орлиный глаз - все пригодится.",
+                    "pt-PT": "Se escolheu bíceps musculosos ou um olho de falcão, mandou bem.",
+                    "it-IT": "Grossi bicipiti o occhio di lince: sono entrambe una buona scelta.",
+                    "de-DE": "Ob Ihr Euch nun für Riesenbizeps oder Adlerauge entschieden habt – es war eine gute Wahl.",
+                    "es-ES": "Ya optases por los bíceps o por el ojo de águila... has elegido bien.",
+                    "ja-JP": "腕力で勝負するか、それとも視力か? どちらか選べ!",
+                    "zh-CHT": "無論您選擇當猛男還是神射手，都是個好選擇。"
+                },
+                "howto": {
+                    "en-US": "Pull the sword from the stone, or earn the top prize in the Archery Competition.",
+                    "fr-FR": "Retirez l'épée de la pierre ou remportez le premier prix de la compétition de tir à l'arc.",
+                    "ko-KR": "돌에서 검을 뽑거나, 활쏘기 대회에서 최고 상품을 타십시오.",
+                    "ru-RU": "Вытащите меч из камня либо заслужите высшую награду на состязании стрелков.",
+                    "pt-PT": "Puxe a espada da pedra, ou obtenha o prêmio máximo da Competição de Arco e Flecha.",
+                    "it-IT": "Estrai la spada dalla roccia oppure ottieni il primo premio nella gara di tiro con l'arco.",
+                    "de-DE": "Zieht das Schwert aus dem Stein oder gewinnt den Hauptpreis beim Bogenschützen-Wettkampf.",
+                    "es-ES": "Saca la espada de la piedra o gana la competición de tiro con arco.",
+                    "ja-JP": "岩から剣を引き抜く。もしくはアーチェリー大会で賞をもらう",
+                    "zh-CHT": "拔出石頭裡的劍，或是在射箭大賽中獲得首獎。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "40.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "en-US": "Choosing My Religion",
+                    "fr-FR": "Générosité exemplaire",
+                    "ko-KR": "종교 선택",
+                    "ru-RU": "Сторону выбрать надо тебе",
+                    "pt-PT": "Escolhendo a Religião",
+                    "it-IT": "Scegliere la religione",
+                    "de-DE": "Religiöse Entscheidungen",
+                    "es-ES": "Elección de religión",
+                    "ja-JP": "儀式の選択",
+                    "zh-CHT": "宗教信仰"
+                },
+                "description": {
+                    "en-US": "Making a sacrifice is never easy. The decisions, the expense. . . the wriggling. ",
+                    "fr-FR": "C'est dur de faire un sacrifice. La décision, les frais que ça engendre... et les tortillements.",
+                    "ko-KR": "헌납은 결코 쉬운 일이 아닙니다. 결심, 비용... 회피.",
+                    "ru-RU": "Приносить жертву - нелегкое дело. Расходы, решения... да еще и жертва сопротивляется!",
+                    "pt-PT": "Nunca é fácil fazer um sacrifício. As decisões, o custo. . . a tremedeira.",
+                    "it-IT": "Un sacrificio non è una cosa semplice. Decisioni, spese... e la vittima non vuole mai stare ferma. ",
+                    "de-DE": "Opfer zu bringen, ist nie leicht. Die Entscheidungen, der Aufwand ... das Gezappel.",
+                    "es-ES": "Hacer sacrificios nunca es fácil. Las decisiones, el precio... El reconcome.",
+                    "ja-JP": "犠牲を産むのはいつも辛い。決断して、犠牲を払い . . . 苦しみに身もだえる",
+                    "zh-CHT": "為信仰而犧牲是很困難的。要下定決心、付出代價、歷經曲折。"
+                },
+                "howto": {
+                    "en-US": "Donate a total of 100,000 Gold to the Temple of Avo, or sacrifice 10 people to the Chapel of Skorm.",
+                    "fr-FR": "Donnez 100 000 pièces d'or au temple d'Avo ou sacrifiez 10 personnes à la chapelle de Skorm.",
+                    "ko-KR": "아보의 신전에 총 100,000골드를 기부하거나, 스컴의 교회에 10명의 사람을 제물로 바치십시오.",
+                    "ru-RU": "Пожертвуйте 100 000 золотых храму Эйво либо принесите в жертву 10 человек в часовне Скорма.",
+                    "pt-PT": "Doe 100.000 peças de ouro ao Templo de Avo, ou sacrifique 10 pessoas à Capela de Skorm.",
+                    "it-IT": "Dona 100.000 pezzi d'oro al tempio di Avo oppure sacrifica 10 persone alla cappella di Skorm.",
+                    "de-DE": "Spendet dem Tempel von Avo 100.000 Gold oder bringt Skorms Kapelle 10 Menschenopfer dar.",
+                    "es-ES": "Dona un total de 100.000 de oro al Templo de Avo o sacrifica a 10 personas en la Capilla de Skorm.",
+                    "ja-JP": "アヴォ寺院に総額 10 万ゴールドを寄付する。もしくは、スコーム礼拝堂にいけにえを 10 人差し出す",
+                    "zh-CHT": "總共捐獻 100,000 枚金幣給光明殿，或是獻祭 10 條人命給邪惡教堂。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "41.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "en-US": "Open Saysamemiddlefinger",
+                    "fr-FR": "Sésame, ouvre-toi !",
+                    "ko-KR": "열려라 참깨 열려라 들깨",
+                    "ru-RU": "Сезам, Откройсяиидиты",
+                    "pt-PT": "Abre-te Sésamededodomeio",
+                    "it-IT": "Apriti sesamo",
+                    "de-DE": "Sesam, öffne d...ukannstmichmal",
+                    "es-ES": "Ábrete de una maldita vez",
+                    "ja-JP": "扉を開く呪文",
+                    "zh-CHT": "芝麻開什麼門"
+                },
+                "description": {
+                    "en-US": "Talking stone doors that give you ridiculous riddles? We've seen it all now!",
+                    "fr-FR": "Des portes qui parlent et vous soumettent des énigmes ridicules ? On aura vraiment tout vu !",
+                    "ko-KR": "말하는 돌문이 당신에게 터무니없는 수수께끼를 주었나요? 우리는 이미 모든 걸 알고 있습니다!",
+                    "ru-RU": "Говорящие каменные двери, которые загадывают нелепые загадки? А, это уже старо!",
+                    "pt-PT": "Portas de pedra falantes que dizem enigmas ridículos? Já vimos isso tudo!",
+                    "it-IT": "Porte parlanti che dicono strani enigmi? Adesso le abbiamo viste proprio tutte!",
+                    "de-DE": "Sprechende Steintüren, die lächerliche Rätsel aufgeben? Jetzt haben wir wirklich alles gesehen!",
+                    "es-ES": "¿Puertas de piedra parlantes con acertijos ridículos? Ya lo hemos visto todo.",
+                    "ja-JP": "馬鹿げた謎をかけてくる石の扉の話か? もう全部わかっちゃったよ!",
+                    "zh-CHT": "會講可笑謎語的石頭門？不稀奇啦！"
+                },
+                "howto": {
+                    "en-US": "Open all the Demon Doors, or show a closed Demon Door what you think of it.",
+                    "fr-FR": "Ouvrez toutes les Portes Démoniaques ou signifiez le fond de votre pensée à une Porte Démoniaque.",
+                    "ko-KR": "마법의 문을 모두 열거나, 닫힌 마법의 문에 당신이 생각하는 것을 보여주십시오.",
+                    "ru-RU": "Откройте двери всех Демонов-стражей либо покажите закрытому демону, что вы о нем думаете.",
+                    "pt-PT": "Abra todas as Portas Demoníacas. Ou que tal mostrar à Porta Demoníaca fechada o que você pensa dela?",
+                    "it-IT": "Apri tutte le porte del demonio oppure mostra a una porta del demonio chiusa che cosa pensi di lei.",
+                    "de-DE": "Öffnet alle Dämonentüren oder zeigt einer verschlossenen Dämonentür, was Ihr von ihr haltet.",
+                    "es-ES": "Abre todas las puertas demoníacas o enséñale a una puerta demoníaca cerrada lo que opinas de ella.",
+                    "ja-JP": "デーモンの扉をすべて開く。もしくは閉じたデーモンの扉に向かって、自分の思いをあらわにする",
+                    "zh-CHT": "打開所有的惡魔之門，或是讓關閉的惡魔之門知道您的心裡話。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "42.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "en-US": "Project Ego",
+                    "fr-FR": "Projet Ego",
+                    "ko-KR": "프로젝트 에고",
+                    "ru-RU": "Хвастовство",
+                    "pt-PT": "Projeto Ego",
+                    "it-IT": "Progetto ego",
+                    "de-DE": "Projekt Ego",
+                    "es-ES": "Proyecto Ego",
+                    "ja-JP": "エゴをさらす",
+                    "zh-CHT": "展現自我"
+                },
+                "description": {
+                    "en-US": "The world has seen your ego for what it is, don't let it go to your head.",
+                    "fr-FR": "Le monde entier connaît votre ego. Que cela ne vous monte pas à la tête.",
+                    "ko-KR": "세상은 당신의 자부심을 똑똑히 보았습니다. 하지만 너무 자만하지 마세요.",
+                    "ru-RU": "Мир уже понял, что вы из себя представляете. Постарайтесь не возгордиться.",
+                    "pt-PT": "O mundo tem visto seu ego como ele é, não fique convencido.",
+                    "it-IT": "Il mondo ha visto il tuo ego per quello che è, non montarti la testa.",
+                    "de-DE": "Die Welt hat Euer Ego als das erkannt, was es ist. Lasst es Euch nicht zu Kopf steigen!",
+                    "es-ES": "El mundo ha visto tu ego en toda su plenitud. Que no se te suba a la cabeza.",
+                    "ja-JP": "自分大好き人間め。調子に乗るな",
+                    "zh-CHT": "現在全世界都知道您的驕傲成就，不過別被自負沖昏頭。"
+                },
+                "howto": {
+                    "en-US": "Show all available witnesses a trophy in the trophy mini-game, or decorate your home with a trophy.",
+                    "fr-FR": "Exhibez un trophée lors du mini-jeu des trophées ou décorez votre maison avec un trophée.",
+                    "ko-KR": "트로피 미니 게임에서 모든 목격자들에게 트로피를 보여 주거나, 트로피로 집을 장식하십시오.",
+                    "ru-RU": "Покажите всем возможным свидетелям трофей в мини-игре либо украсьте дом этим трофеем.",
+                    "pt-PT": "Mostre a todas as testemunhas um troféu no minijogo de troféus, ou use um para decorar a sua casa.",
+                    "it-IT": "Mostra a tutti i testimoni un trofeo nel minigioco dei trofei oppure esponi un trofeo a casa tua.",
+                    "de-DE": "Zeigt allen verfügbaren Zeugen eine Trophäe im Trophäen-Minispiel oder schmückt Euer Heim mit einer.",
+                    "es-ES": "Muestra a todos los testigos un trofeo en el minijuego del trofeo o decora tu casa con uno.",
+                    "ja-JP": "トロフィー ミニゲームで、できる限り大勢の人々にトロフィーを自慢する。もしくは、自分の家にトロフィーを飾る",
+                    "zh-CHT": "在戰利品小遊戲中，將戰利品展現給所有在場的目擊者，或是用戰利品裝飾您的房子。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "43.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "en-US": "What Are Ya Sellin'?",
+                    "fr-FR": "Qu'avez-vous en stock ?",
+                    "ko-KR": "당신 뭘 팔고 있나요?",
+                    "ru-RU": "Чем торгуете?",
+                    "pt-PT": "O Que Você Está Vendendo?",
+                    "it-IT": "Che cosa vendi?",
+                    "de-DE": "Was verkauft Ihr?",
+                    "es-ES": "Y tú ¿qué vendes?",
+                    "ja-JP": "何を売ってるんだ? ",
+                    "zh-CHT": "您在賣些什麼東西啊？"
+                },
+                "description": {
+                    "en-US": "Is that all, stranger? Come back anytime.",
+                    "fr-FR": "Ce sera tout, étranger ? Revenez quand vous voulez !",
+                    "ko-KR": "다 끝나셨나요, 처음 보는 손님? 언제든 다시 오십시오.",
+                    "ru-RU": "Это все? Заходите еще, в любое время.",
+                    "pt-PT": "Isso é tudo, estranho? Volte quando quiser.",
+                    "it-IT": "È tutto, straniero? Torna quando vuoi.",
+                    "de-DE": "War das alles, Fremder? Ihr seid jederzeit willkommen.",
+                    "es-ES": "¿Eso es todo, extraño? Vuelve cuando quieras.",
+                    "ja-JP": "そういう訳ならいつでも来なよ。よそ者さん",
+                    "zh-CHT": "陌生人，滿意了嗎？歡迎下次再來。"
+                },
+                "howto": {
+                    "en-US": "Make a profit from selling to a trader, or steal an item using the \"Steal\" expression from a trader.",
+                    "fr-FR": "Réalisez un profit en vendant un objet à un marchand ou volez un objet avec l'expression Voler.",
+                    "ko-KR": "상인에게 물건을 팔아 이윤을 남기거나, 훔치기 표현을 사용해서 상인에게서 물건을 훔쳐 오십시오.",
+                    "ru-RU": "Заработайте на продаже товаров торговцу, либо украдите у него предмет при помощи выражения \"Кража\".",
+                    "pt-PT": "Lucre vendendo para um comerciante, ou roube um item usando a expressão \"Roubar\" com um comerciante.",
+                    "it-IT": "Vendi a un mercante oppure ruba un oggetto usando l'espressione \"a ruba\" dei mercanti.",
+                    "de-DE": "Profitiert durch einen Verkauf an einen Händler oder bestehlt ihn mit dem Ausdrucksmittel \"Stehlen\".",
+                    "es-ES": "Saca beneficio vendiendo a un mercader o roba un objeto a uno con la expresión \"robar\".",
+                    "ja-JP": "商人にアイテムを売って利益をあげる。もしくは「盗む」のアクションで商人からアイテムを盗むか",
+                    "zh-CHT": "賣東西給商人來賺錢，或是使用「偷竊」表情來竊取商人的物品。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "44.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "en-US": "The Hero Of Time",
+                    "fr-FR": "Héros du temps",
+                    "ko-KR": "시간의 영웅",
+                    "ru-RU": "Герой во все времена",
+                    "pt-PT": "O Herói do Tempo",
+                    "it-IT": "Eroe del tempo",
+                    "de-DE": "Der Held der Zeit",
+                    "es-ES": "El héroe del tiempo",
+                    "ja-JP": "時間を操る",
+                    "zh-CHT": "時間英雄"
+                },
+                "description": {
+                    "en-US": "A true Hero is one that can control time. Bonus points if you were wearing a green hat.",
+                    "fr-FR": "Un vrai Héros est capable de contrôler le temps. Un point en plus si vous portiez un chapeau vert.",
+                    "ko-KR": "진정한 영웅은 시간을 제어할 수 있는 사람입니다. 녹색 모자를 쓰면 보너스 포인트를 얻게 됩니다.",
+                    "ru-RU": "Настоящему Герою даже время подвластно. Особую награду получите, если будете носить зеленую шляпу.",
+                    "pt-PT": "Um verdadeiro Herói é aquele que controla o tempo. Pontos de bônus se estava usando um chapéu verde.",
+                    "it-IT": "Un vero eroe sa controllare il tempo. Ottieni dei punti bonus indossando un cappello verde.",
+                    "de-DE": "Ein wahrer Held ist der, der die Zeit beherrscht. Bonuspunkte, wenn Ihr einen grünen Hut tragt.",
+                    "es-ES": "Un auténtico héroe es el que puede controlar el tiempo. Y con extra si lo hiciste con gorro verde.",
+                    "ja-JP": "本物の英雄は時間を操ることができる。緑の帽子をかぶっていたらボーナス ポイントだ",
+                    "zh-CHT": "真正的英雄可以操控時間。如果您戴著綠帽的話，會得到額外的獎勵喔。"
+                },
+                "howto": {
+                    "en-US": "Eat a Moonfish in Bowerstone during the day, or a Golden Carrot at night.",
+                    "fr-FR": "Mangez un poisson-lune à Bowerstone en journée ou une carotte dorée la nuit.",
+                    "ko-KR": "낮에 바워스톤에서 은빛 물고기를 먹거나, 밤에 황금 당근을 먹으십시오.",
+                    "ru-RU": "Съешьте рыбу-луну в Глушвилле днем, либо золотистую морковь ночью.",
+                    "pt-PT": "Coma um Peixe-lua em Bowerstone durante o dia, ou uma Cenoura Dourada à noite.",
+                    "it-IT": "Mangia un pesce luna a Bowerstone in pieno giorno oppure una carota dorata in piena notte.",
+                    "de-DE": "Verspeist in Bowerstone einen Mondfisch bei Tag oder eine goldgelbe Möhre bei Nacht.",
+                    "es-ES": "Come un brosmio en Bowerstone de día o una zanahoria dorada de noche.",
+                    "ja-JP": "バウワーストーンで昼にムーンフィッシュを食べる。もしくは夜にゴールデンキャロットを食べる",
+                    "zh-CHT": "白天在包爾斯頓吃月魚，或是在晚上吃黃金胡蘿蔔。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "45.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "en-US": "Beauty Or The Beast",
+                    "fr-FR": "Le Beau ou la Bête",
+                    "ko-KR": "미녀 또는 야수",
+                    "ru-RU": "Красавица или чудовище",
+                    "pt-PT": "Bela ou Fera",
+                    "it-IT": "Il bello e la bestia",
+                    "de-DE": "Der Schöne oder das Biest",
+                    "es-ES": "El bello o la bestia",
+                    "ja-JP": "美女か野獣か",
+                    "zh-CHT": "美女或野獸"
+                },
+                "description": {
+                    "en-US": "Mirror, mirror, on the wall. Who's the (insert choice here) of them all?",
+                    "fr-FR": "Miroir, mon beau miroir, dis-moi qui est le plus (insérez l'adjectif adéquat) !",
+                    "ko-KR": "거울아, 벽에 걸린 거울아. 세상에서 제일 잘(혹은 못) 생긴 게 누구지?",
+                    "ru-RU": "Свет мой, зеркальце, скажи! Я ль на свете всех (милее/страшнее, нужное подчеркнуть)?",
+                    "pt-PT": "Espelho, espelho meu. Existe alguém mais (insira sua escolha aqui) do que eu?",
+                    "it-IT": "Specchio, specchio delle mie brame, chi è il più (inserisci qui la scelta) del reame?",
+                    "de-DE": "Spieglein, Spieglein an der Wand. Wer ist der (Wahl hier einfügen) im ganzen Land?",
+                    "es-ES": "Espejito, espejito, ¿quién es el más (elija opción) del reino?",
+                    "ja-JP": "鏡よ鏡よ鏡さん、世界で一番◯◯なのはだあれ?",
+                    "zh-CHT": "魔鏡啊，魔鏡，誰是世界上最 (請填入您的選擇) 的人？"
+                },
+                "howto": {
+                    "en-US": "Reach the maximum of your chosen attractiveness; ugly or beautiful!",
+                    "fr-FR": "Atteignez le niveau maximum de beauté... ou de laideur, selon vos préférences !",
+                    "ko-KR": "당신이 선택한 매력의 최대치에 도달하십시오. 못생기거나 또는 아름답거나!",
+                    "ru-RU": "Доведите свою внешность до предела, будь то красота или уродство!",
+                    "pt-PT": "Alcance o máximo da sua escolha de atratividade; feia ou bela!",
+                    "it-IT": "Raggiungi il massimo del fascino che hai scelto: brutto o bello!",
+                    "de-DE": "Erreicht das Maximum Eurer gewählten Attraktivität, egal ob hässlich oder schön!",
+                    "es-ES": "Alcanza el máximo en tu escala de atractivo, ¡ya sea por feo o por guapo!",
+                    "ja-JP": "世界一の不細工になる。もしくは世界一の美人になる",
+                    "zh-CHT": "讓您選擇的魅力達到滿點，無論是醜陋或美麗都行！"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "46.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "en-US": "Marital Relations",
+                    "fr-FR": "Relations conjugales",
+                    "ko-KR": "부부 관계",
+                    "ru-RU": "Супружеские отношения",
+                    "pt-PT": "Relações Matrimoniais",
+                    "it-IT": "Relazioni matrimoniali",
+                    "de-DE": "Eheliche Beziehungen",
+                    "es-ES": "Relaciones conyugales",
+                    "ja-JP": "婚姻関係",
+                    "zh-CHT": "婚姻關係"
+                },
+                "description": {
+                    "en-US": "Marriage - two's company, three's a crowd!",
+                    "fr-FR": "À deux, ça va. À trois...",
+                    "ko-KR": "결혼: 둘이 있으면 좋지만, 하나 더 끼면 불편해!",
+                    "ru-RU": "Брак - вдвоем хорошо, втроем тесно!",
+                    "pt-PT": "Casamento - dois é bom, três é demais!",
+                    "it-IT": "Matrimonio: in due ci si fa compagnia, in tre si è in troppi!",
+                    "de-DE": "Ehe: Drei sind einer zu viel!",
+                    "es-ES": "Matrimonio: dos es compañía, ¡tres es multitud!",
+                    "ja-JP": "結婚ってのは 2 人でちょうどいいんだ。 3 人じゃ台無しだ!",
+                    "zh-CHT": "婚姻：兩人成伴， 三人不歡！"
+                },
+                "howto": {
+                    "en-US": "Receive a gift from your spouse, or flirt with an admirer in front of your spouse.",
+                    "fr-FR": "Recevez un cadeau de la part de votre moitié ou flirtez avec quelqu'un devant votre moitié.",
+                    "ko-KR": "배우자로부터 선물을 받거나, 배우자가 보는 앞에서 다른 이에게 추파를 던지십시오.",
+                    "ru-RU": "Получите подарок от второй половинки либо на глазах у нее затейте флирт с кем-то из поклонников!",
+                    "pt-PT": "Receba um presente de seu cônjuge, ou flerte com um admirador na frente dele.",
+                    "it-IT": "Ricevi un regalo dalla tua metà oppure flirta con qualcuno sotto i suoi occhi.",
+                    "de-DE": "Bekommt ein Geschenk von Eurem Ehepartner oder flirtet vor dessen Augen mit einem/einer Verehrer/in.",
+                    "es-ES": "Recibe un regalo de tu cónyuge o flirtea con un admirador frente a tu cónyuge.",
+                    "ja-JP": "配偶者から贈り物をもらう。もしくは配偶者の前で恋人といちゃつく",
+                    "zh-CHT": "收下配偶的禮物，或是在配偶面前與仰慕者打情罵俏。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "47.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "en-US": "The Drinking Game",
+                    "fr-FR": "Jeu de la soif",
+                    "ko-KR": "음주 게임",
+                    "ru-RU": "Кто кого перепьет",
+                    "pt-PT": "O Jogo da Bebida",
+                    "it-IT": "Gioco di bevute",
+                    "de-DE": "Das Trinkspiel",
+                    "es-ES": "El juego de beber",
+                    "ja-JP": "飲み比べ",
+                    "zh-CHT": "喝酒遊戲"
+                },
+                "description": {
+                    "en-US": "Remember to drink responsibly, and whatever you do: you should not drink and bake.",
+                    "fr-FR": "N'oubliez pas de boire avec modération et de ne jamais mélanger les substances.",
+                    "ko-KR": "책임감 있게 마셔야 한다는 것을 기억하십시오.",
+                    "ru-RU": "Пейте осторожно и помните: нельзя одновременно пить и печь!",
+                    "pt-PT": "Lembre-se de beber com responsabilidade e, faça o que fizer, você não deve beber e cozinhar.",
+                    "it-IT": "Ricordati di bere responsabilmente e qualsiasi cosa tu faccia: non devi mai mischiare. ",
+                    "de-DE": "Trinkt stets mit Bedacht, und ganz gleich, was Ihr tut: Trinkt niemals, wenn Ihr noch backen müsst!",
+                    "es-ES": "Recuerda beber con responsabilidad y, hagas lo que hagas, nunca uses un horno estando cocido.",
+                    "ja-JP": "どれくらい飲めるか考えてみろ。何があったとしても、そんな勢いで飲んじゃダメだ",
+                    "zh-CHT": "請記住，要以負責任的態度喝酒，而且無論如何都不要在酒後烤麵包。"
+                },
+                "howto": {
+                    "en-US": "Drink until you vomit, or 'help' a friendly villager get drunk.",
+                    "fr-FR": "Buvez jusqu'à en vomir ou \"aidez\" un gentil villageois à se saouler.",
+                    "ko-KR": "토할 때까지 마시거나, 친절한 마을 주민이 취하도록 '도와' 주십시오.",
+                    "ru-RU": "Напейтесь до рвоты либо помогите дружественному горожанину напиться.",
+                    "pt-PT": "Beba até vomitar, ou 'ajude' um aldeão simpático a ficar bêbado.",
+                    "it-IT": "Bevi fino a vomitare oppure \"aiuta\" un simpatico abitante del villaggio a ubriacarsi.",
+                    "de-DE": "Trinkt, bis es Euch hochkommt oder \"verhelft\" einem netten Dorfbewohner zu einem Schwips.",
+                    "es-ES": "Bebe hasta vomitar o \"ayuda\" a un amigable conciudadano a emborracharse.",
+                    "ja-JP": "吐くまで飲む。もしくは親しくなった村人を酔わせる",
+                    "zh-CHT": "喝到吐，或是「幫助」1 名友善的村民喝醉。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "48.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "en-US": "Definitely Not On Rails",
+                    "fr-FR": "Des rails ? Quels rails ?",
+                    "ko-KR": "분명히 보통은 아님",
+                    "ru-RU": "Точно не по рельсам",
+                    "pt-PT": "Definitivamente Descontrolado",
+                    "it-IT": "Decisamente fuori dai binari",
+                    "de-DE": "Definitiv nicht in der Spur",
+                    "es-ES": "Como una sílfide no está",
+                    "ja-JP": "決して順調ではない",
+                    "zh-CHT": "還沒上軌道"
+                },
+                "description": {
+                    "en-US": "You've either explored the world of Albion, or you're now the size of the world of Albion.",
+                    "fr-FR": "Vous avez exploré l'Albion ou vous avez les mensurations de l'Albion.",
+                    "ko-KR": "당신은 알비온 전체를 탐험하였거나, 현재 알비온 전체만큼 큼직할 것입니다.",
+                    "ru-RU": "Либо вы исследовали весь мир Альбиона, либо стали с него размером.",
+                    "pt-PT": "Você explorou o mundo de Albion, ou agora está do tamanho do mundo de Albion.",
+                    "it-IT": "Hai esplorato tutto il mondo di Albion oppure sei della stessa dimensione del mondo di Albion.",
+                    "de-DE": "Entweder habt Ihr die Welt von Albion erkundet oder Ihr habt jetzt die Größe der Welt von Albion.",
+                    "es-ES": "O has explorado el mundo de Albión o ahora tienes el tamaño del mundo de Albión.",
+                    "ja-JP": "アルビオンの世界を探検したか。大きな男になったな。",
+                    "zh-CHT": "您要不是已經探索了整個阿爾比恩，就是讓自己變得非常胖。"
+                },
+                "howto": {
+                    "en-US": "Visit every region (excluding Demon Doors), or increase your waistline so that you don't have to.",
+                    "fr-FR": "Visitez toutes les régions (sauf les Portes Démoniaques) ou augmentez votre tour de taille.",
+                    "ko-KR": "알비온의 모든 지역(마법의 문 제외)을 탐험하거나, 허리 치수를 증가시켜 그럴 필요가 없도록 하십시오.",
+                    "ru-RU": "Побывайте везде, кроме пещер Демонов-стражей, либо растолстейте, чтобы не пришлось этого делать.",
+                    "pt-PT": "Visite todas as regiões (exceto as Portas Demoníacas), ou engorde para não precisar fazê-lo.",
+                    "it-IT": "Visita le regioni (tranne le porte del demonio) oppure allarga il girovita per non doverlo più fare.",
+                    "de-DE": "Besucht jede Region (außer Dämonentüren) oder erweitert Eure Taille, damit Euch das erspart bleibt.",
+                    "es-ES": "Visita cada región (excepto las puertas demoníacas) o aumenta tu cintura hasta no tener que hacerlo.",
+                    "ja-JP": "アルビオンの全エリア (デーモンの扉を除く) を探検する。もしくは、ものすごく太る",
+                    "zh-CHT": "造訪所有的區域 (惡魔之門除外)，或是增加自己的腰圍，讓您不必再這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "49.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "en-US": "Get Rich Or Die Tryin'",
+                    "fr-FR": "La richesse ou la mort",
+                    "ko-KR": "부자가 되거나 되려다 죽거나",
+                    "ru-RU": "Разбогатей или сдохни",
+                    "pt-PT": "Enriqueça ou Morra Tentando",
+                    "it-IT": "Diventa ricco o muori provandoci",
+                    "de-DE": "Werdet reich oder krepiert",
+                    "es-ES": "Ser rico o morir en el intento",
+                    "ja-JP": "運命の選択",
+                    "zh-CHT": "誓死都要當大富翁"
+                },
+                "description": {
+                    "en-US": "Being a landlord is a bit like being the Grim Reaper, so why not combine the two!",
+                    "fr-FR": "Propriétaire ou Faucheuse, c'est un peu la même chose, alors pourquoi ne pas combiner les deux ?",
+                    "ko-KR": "지주가 되는 일은 저승사자가 되는 것과 다소 비슷합니다, 그러니 그 둘을 결합하는 게 어떤가요!",
+                    "ru-RU": "Быть землевладельцем - все равно, что быть Смертью во плоти. Так почему бы это не совместить?",
+                    "pt-PT": "Ser um dono de terras é como ser um pouco o Anjo da Morte, então, por que não combinar os dois?!",
+                    "it-IT": "Il padrone di casa è un po' come il tristo mietitore, quindi perché non mettere insieme le due cose?",
+                    "de-DE": "Ein Vermieter ist dem Sensenmann nicht unähnlich, warum also nicht beides kombinieren?",
+                    "es-ES": "Ser casero es un poco como ser la parca. ¿Por qué no combinar ambas cosas?",
+                    "ja-JP": "大家ってのは死神みたいなもんだから、どっちも一緒だ!",
+                    "zh-CHT": "當個房東有點像是成為死神，那何不把兩者合而為一呢？"
+                },
+                "howto": {
+                    "en-US": "Earn 10,000 Gold from property rental, or die.",
+                    "fr-FR": "Gagnez 10 000 pièces d'or de revenus immobiliers, ou mourez.",
+                    "ko-KR": "부동산 임대로 10,000골드를 벌거나, 죽으십시오.",
+                    "ru-RU": "Заработайте 10 000 золотых, сдавая жилплощадь в аренду, либо умрите.",
+                    "pt-PT": "Ganhe 10.000 peças de ouro por locação de propriedade, ou morra.",
+                    "it-IT": "Guadagna 10.000 pezzi d'oro affittando proprietà oppure muori.",
+                    "de-DE": "Nehmt 10.000 Gold aus Vermietungen ein oder sterbt.",
+                    "es-ES": "Gana 10.000 de oro por alquiler de propiedades o muérete.",
+                    "ja-JP": "不動産を貸して 1 万ゴールド稼ぐ。もしくは、死ぬ",
+                    "zh-CHT": "靠租金收入獲得 10,000 枚金幣，不然就受死吧。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "50.png"
+        }
+    }
+}
