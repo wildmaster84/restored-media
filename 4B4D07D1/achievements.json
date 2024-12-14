@@ -1,0 +1,1176 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Das lebende Monument",
+                    "en-US": "The Living Monument",
+                    "es-ES": "Símbolo viviente",
+                    "fr-FR": "Le Monument vivant",
+                    "it-IT": "Monumento vivente",
+                    "pl-PL": "Żyjący monument"
+                },
+                "description": {
+                    "de-DE": "Dein Tempelwächter erreicht Stufe 15.",
+                    "en-US": "Your Temple Guardian reaches Level 15.",
+                    "es-ES": "Tu guarda del templo llega al nivel 15.",
+                    "fr-FR": "Le Gardien du temple a atteint le niveau 15.",
+                    "it-IT": "Il tuo Guardiano del Tempio ha raggiunto il livello 15.",
+                    "pl-PL": "Twój Strażnik Świątyni osiąga poziom 15."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Gefürchtete",
+                    "en-US": "The Dreadful",
+                    "es-ES": "Terrible",
+                    "fr-FR": "Le Redouté",
+                    "it-IT": "Terrore incarnato",
+                    "pl-PL": "Straszliwy"
+                },
+                "description": {
+                    "de-DE": "Dein Inquisitor erreicht Stufe 15.",
+                    "en-US": "Your Inquisitor reaches Level 15.",
+                    "es-ES": "Tu inquisidor llega al nivel 15.",
+                    "fr-FR": "L'Inquisiteur a atteint le niveau 15.",
+                    "it-IT": "Il tuo Inquisitore ha raggiunto il livello 15.",
+                    "pl-PL": "Twój Inkwizytor osiąga poziom 15."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Held von Tyr Lysia",
+                    "en-US": "Tyr Lysia's Hero",
+                    "es-ES": "Héroe de Tyr Lysia",
+                    "fr-FR": "Héros de Tyr Lysia",
+                    "it-IT": "Eroe di Tyr Lysia",
+                    "pl-PL": "Bohater Tyr Lysia"
+                },
+                "description": {
+                    "de-DE": "Deine Hochelfe erreicht Stufe 15.",
+                    "en-US": "Your High Elf attaining Level 15.",
+                    "es-ES": "Tu alto elfo llega al nivel 15.",
+                    "fr-FR": "Le Haut elfe a atteint le niveau 15.",
+                    "it-IT": "La tua Alta Elfa ha raggiunto il livello 15.",
+                    "pl-PL": "Twoja Wysoka Elfka osiąga poziom 15."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Eins mit der Natur",
+                    "en-US": "Treehugger",
+                    "es-ES": "Ecologista",
+                    "fr-FR": "Arboricole",
+                    "it-IT": "Forza della natura",
+                    "pl-PL": "Drzewogłaszczka"
+                },
+                "description": {
+                    "de-DE": "Deine Dryade erreicht Stufe 15.",
+                    "en-US": "Your Dryad attaining Level 15.",
+                    "es-ES": "Dríadas que alcanzan el nivel 15",
+                    "fr-FR": "La Dryade atteint le niveau 15.",
+                    "it-IT": "La tua Driade ha raggiunto il livello 15.",
+                    "pl-PL": "Twoja Driada osiągająca poziom 15."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Der jagende Geist",
+                    "en-US": "Vengeful Spirit",
+                    "es-ES": "Espíritu vengador",
+                    "fr-FR": "Esprit fugace",
+                    "it-IT": "Spirito vendicativo",
+                    "pl-PL": "Mściwy duch"
+                },
+                "description": {
+                    "de-DE": "Dein Schattenkrieger erreicht Stufe 15.",
+                    "en-US": "Your Shadow Warrior attaining Level 15.",
+                    "es-ES": "Tu guerrero de las sombras alcanza el nivel 15.",
+                    "fr-FR": "Le Guerrier noir atteint le niveau 15.",
+                    "it-IT": "Il tuo Guerriero ombra ha raggiunto il livello 15.",
+                    "pl-PL": "Twój wojownik cienia osiągnął poziom 15."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "05.png"
+        },
+        "52": {
+            "text": {
+                "name": {},
+                "description": {},
+                "howto": {}
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "52.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Gesegnete",
+                    "en-US": "Blessed",
+                    "es-ES": "Bendecido",
+                    "fr-FR": "Béni",
+                    "it-IT": "Benedetta",
+                    "pl-PL": "Błogosławiona"
+                },
+                "description": {
+                    "de-DE": "Deine Seraphim erreicht Stufe 15.",
+                    "en-US": "Your Seraphim attaining Level 15.",
+                    "es-ES": "Tu Seraphín alcanza el nivel 15.",
+                    "fr-FR": "Le Séraphin atteint le niveau 15",
+                    "it-IT": "La tua Serafina ha raggiunto il livello 15.",
+                    "pl-PL": "Twoja Serafia, osiągająca poziom 15."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Legendär",
+                    "en-US": "Legendary",
+                    "es-ES": "Legendario",
+                    "fr-FR": "Légendaire",
+                    "it-IT": "Leggendario",
+                    "pl-PL": "Legenda"
+                },
+                "description": {
+                    "de-DE": "Ein Held erreicht Stufe 35.",
+                    "en-US": "Any Hero attaining Level 35.",
+                    "es-ES": "Cualquier héroe que alcance el nivel 35.",
+                    "fr-FR": "Un personnage atteint le niveau 35.",
+                    "it-IT": "Un eroe ha raggiunto il livello 35.",
+                    "pl-PL": "Postacie osiągające poziom 35."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "07.png"
+        },
+        "50": {
+            "text": {
+                "name": {},
+                "description": {},
+                "howto": {}
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "50.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "Geizkragen",
+                    "en-US": "Scrooge",
+                    "es-ES": "Avaricioso",
+                    "fr-FR": "Avare",
+                    "it-IT": "Taccagno",
+                    "pl-PL": "Harpagon"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat die Hauptquest absolviert ohne etwas zu kaufen.",
+                    "en-US": "Any Hero has completed the main quest without buying anything.",
+                    "es-ES": "Cualquier héroe que haya completado la aventura principal sin comprar nada.",
+                    "fr-FR": "Un personnage a fini la quête principale sans rien acheter.",
+                    "it-IT": "Un eroe ha completato la missione principale senza fare acquisti.",
+                    "pl-PL": "Każda postać, która zakończyła  misję główną bez kupowania czegokolwiek."
+                },
+                "howto": {}
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "49.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "de-DE": "Medizinmann",
+                    "en-US": "Medicine Man",
+                    "es-ES": "Curandero",
+                    "fr-FR": "Médecin malgré lui",
+                    "it-IT": "Guaritore",
+                    "pl-PL": "Medyk"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat 1.000 Heiltränke getrunken.",
+                    "en-US": "Any Hero has consumed 1,000 healing potions.",
+                    "es-ES": "Cualquier héroe que haya consumido 1.000 pociones de curación.",
+                    "fr-FR": "Un personnage a utilisé 1000 potions de soin.",
+                    "it-IT": "Un eroe ha bevuto 1.000 pozioni guaritrici.",
+                    "pl-PL": "Każda postać, która spożyła  ponad 1000 napojów leczących."
+                },
+                "howto": {}
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "48.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Zähigkeit",
+                    "en-US": "Toughness",
+                    "es-ES": "Robustez",
+                    "fr-FR": "Force",
+                    "it-IT": "Tenacia",
+                    "pl-PL": "Nieustępliwy"
+                },
+                "description": {
+                    "de-DE": "Ein Held erreicht den Schwierigkeitsgrad Gold.",
+                    "en-US": "Any Hero reaching difficulty level Gold.",
+                    "es-ES": "Cualquier héroe que llegue el nivel de dificultad oro.",
+                    "fr-FR": "Un personnage atteint le niveau Or.",
+                    "it-IT": "Un eroe ha raggiunto il livello di difficoltà Oro.",
+                    "pl-PL": "Każda postać, która osiągnęła złoty poziom trudności."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Heldenhafte Zähigkeit",
+                    "en-US": "Heroic Perseverance",
+                    "es-ES": "Perseverancia heroica",
+                    "fr-FR": "Persévérance héroïque",
+                    "it-IT": "Perseveranza eroica",
+                    "pl-PL": "Heroiczna nieustępliwość"
+                },
+                "description": {
+                    "de-DE": "Ein Held erreicht den Schwierigkeitsgrad Platin.",
+                    "en-US": "Any Hero reaching difficulty level Platin.",
+                    "es-ES": "Cualquier héroe que llegue el nivel de dificultad platino.",
+                    "fr-FR": "Un personnage atteint le niveau Platine.",
+                    "it-IT": "Un eroe ha raggiunto il livello di difficoltà Platino.",
+                    "pl-PL": "Każda postać, która osiągnęła platynowy poziom trudności."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Sagenhafte Zähigkeit",
+                    "en-US": "Legendary Perseverance",
+                    "es-ES": "Perseverancia legendaria",
+                    "fr-FR": "Persévérance légendaire",
+                    "it-IT": "Perseveranza leggendaria",
+                    "pl-PL": "Legendarna wytrwałość"
+                },
+                "description": {
+                    "de-DE": "Ein Held erreicht den Schwierigkeitsgrad Niob.",
+                    "en-US": "Any Hero reaching difficulty level Niob.",
+                    "es-ES": "Cualquier héroe que llegue al nivel de dificultad Niobio.",
+                    "fr-FR": "Un personnage a atteint le niveau Niob.",
+                    "it-IT": "Un eroe ha raggiunto il livello di difficoltà Niobio.",
+                    "pl-PL": "Każda postać, która osiągnęła niobowy poziom trudności."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Spaziergänger",
+                    "en-US": "Ambler",
+                    "es-ES": "Paseante",
+                    "fr-FR": "Arpenteur",
+                    "it-IT": "Camminatore",
+                    "pl-PL": "Wędrowiec"
+                },
+                "description": {
+                    "de-DE": "Ein Held erreicht Nor Plat, Land der Orks und nimmt dort eine Quest an.",
+                    "en-US": "Any Hero reaching the Orc region and accepting a quest there.",
+                    "es-ES": "Cualquier héroe que llegue a la región de los orcos y acepte una misión.",
+                    "fr-FR": "Un héros atteint la région des Orcs et y accepte une quête.",
+                    "it-IT": "Un eroe ha accettato una missione nella regione degli Orchi.",
+                    "pl-PL": "Dotrzyj jednym z bohaterów na tereny orków i przyjmij tam zadanie do wykonania."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Wanderer",
+                    "en-US": "Wanderer",
+                    "es-ES": "Peregrino",
+                    "fr-FR": "Vagabond",
+                    "it-IT": "Girovago",
+                    "pl-PL": "Podróżnik"
+                },
+                "description": {
+                    "de-DE": "Ein Held erreicht das Drachenreich und nimmt dort eine Quest an.",
+                    "en-US": "Any Hero reaching the Dragon realm and accepting a quest there.",
+                    "es-ES": "Cualquier héroe que llegue al reino del dragón y acepte una misión.",
+                    "fr-FR": "Un héros atteint la région des Dragons et y accepte une quête.",
+                    "it-IT": "Un eroe ha accettato una missione nella regione dei Draghi.",
+                    "pl-PL": "Dotrzyj jednym z bohaterów do królestwa smoków i przyjmij tam zadanie do wykonania."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "12.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "Handlungsreisender",
+                    "en-US": "Journeyman",
+                    "es-ES": "Viajero",
+                    "fr-FR": "Voyageur",
+                    "it-IT": "Viaggiatore",
+                    "pl-PL": "Obieżyświat"
+                },
+                "description": {
+                    "de-DE": "Ein Held erreicht die Sümpfe von Hissil'Ta und nimmt dort eine Quest an.",
+                    "en-US": "Any Hero reaching the Marshes of Hissil'Ta and accepting a quest there.",
+                    "es-ES": "Cualquier héroe que llegue a los los pantanos de Hissil'Ta y acepte una misión.",
+                    "fr-FR": "Un héros atteint les Marais de Hissil'Ta et y accepte une quête.",
+                    "it-IT": "Un eroe ha accettato una missione nelle paludi di Hissil'Ta.",
+                    "pl-PL": "Dotrzyj jednym z bohaterów do Moczarów Hissil'Ta i przyjmij tam zadanie do wykonania."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "13.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "Abenteurer",
+                    "en-US": "Adventurer",
+                    "es-ES": "Aventurero",
+                    "fr-FR": "Aventurier",
+                    "it-IT": "Avventuriero",
+                    "pl-PL": "Awanturnik"
+                },
+                "description": {
+                    "de-DE": "Ein Held erreicht die Wüsten von Bengaresh und nimmt dort eine Quest an.",
+                    "en-US": "Any Hero reaching the Deserts of Bengaresh and accepting a quest there.",
+                    "es-ES": "Cualquier héroe que llegue a los desiertos de Bengaresh y acepte una misión.",
+                    "fr-FR": "Un héros atteint le Désert de Bengaresh et y accepte une quête.",
+                    "it-IT": "Un eroe ha accettato una missione nel deserto del Bengaresh.",
+                    "pl-PL": "Dotrzyj jednym z bohaterów na Pustynie Bengaresh i przyjmij tam zadanie do wykonania."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "14.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "de-DE": "Weltenbummler",
+                    "en-US": "Globetrotter",
+                    "es-ES": "Trotamundos",
+                    "fr-FR": "Marcheur",
+                    "it-IT": "Giramondo",
+                    "pl-PL": "Globtroter"
+                },
+                "description": {
+                    "de-DE": "Ein Held erreicht die Dschungelregion und nimmt dort eine Quest an.",
+                    "en-US": "Any Hero reaching the Jungle region and accepting a quest there.",
+                    "es-ES": "Cualquier héroe que llegue a la región de la selva y acepte una misión.",
+                    "fr-FR": "Un héros atteint la Jungle et y accepte une quête.",
+                    "it-IT": "Un eroe ha accettato una missione nella regione della giungla.",
+                    "pl-PL": "Dotrzyj jednym z bohaterów do dżungli i przyjmij tam zadanie do wykonania."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "15.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Entdecker",
+                    "en-US": "Explorer",
+                    "es-ES": "Explorador",
+                    "fr-FR": "Explorateur",
+                    "it-IT": "Esploratore",
+                    "pl-PL": "Odkrywca"
+                },
+                "description": {
+                    "de-DE": "Ein Held erreicht Dyr-Lain, die Insel der Dryaden und nimmt dort eine Quest an.",
+                    "en-US": "Any Hero reaching Dyr-Lain, the Isle of Dryads and accepting a quest there.",
+                    "es-ES": "Cualquier héroe que llegue a Dyr-Lain, la isla de las dríadas y acepte una misión.",
+                    "fr-FR": "Un héros atteint Dyr-Lain, l'Ile des Dryades, et y accepte une quête.",
+                    "it-IT": "Un eroe ha accettato una missione a Dyr-Lain, l'isola delle Driadi.",
+                    "pl-PL": "Dotrzyj jednym z bohaterów do Dyr-Lain, Wyspy Driad i przyjmij tam zadanie do wykonania."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "16.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "Expeditionsleiter",
+                    "en-US": "Discoverer",
+                    "es-ES": "Descubridor",
+                    "fr-FR": "Découvreur",
+                    "it-IT": "Scopritore",
+                    "pl-PL": "Objawiciel"
+                },
+                "description": {
+                    "de-DE": "Ein Held erreicht das Ödland und nimmt dort eine Quest an.",
+                    "en-US": "Any Hero reaching the Wastelands and accepting a quest there.",
+                    "es-ES": "Cualquier héroe que llegue a los yermos y acepte una misión.",
+                    "fr-FR": "Un héros atteint les Terres Arides et y accepte une quête.",
+                    "it-IT": "Un eroe ha accettato una missione nelle Terre desolate.",
+                    "pl-PL": "Dotrzyj jednym z bohaterów na Pustkowia i przyjmij tam zadanie do wykonania."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "17.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "de-DE": "Strahlender Retter Ancarias",
+                    "en-US": "Ancaria's Lightbringer",
+                    "es-ES": "Portador de la Luz de Ancaria",
+                    "fr-FR": "Porte-lumière d'Ancaria",
+                    "it-IT": "Faro luminoso di Ancaria",
+                    "pl-PL": "Światło Ankarii"
+                },
+                "description": {
+                    "de-DE": "Ein Held beendet die Lichtkampagne.",
+                    "en-US": "Any Hero completing the Light Campaign.",
+                    "es-ES": "Cualquier héroe que complete la campaña Luz.",
+                    "fr-FR": "Un personnage a terminé la quête principale Lumière.",
+                    "it-IT": "Un eroe ha completato la Campagna della Luce.",
+                    "pl-PL": "Każda postać, która zakończyła  kampanię Światłości."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "18.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "Dunkler Herrscher Ancarias",
+                    "en-US": "Ancaria's Dark Lord",
+                    "es-ES": "Señor Oscuro de Ancaria",
+                    "fr-FR": "Seigneur noir d'Ancaria",
+                    "it-IT": "Signore oscuro di Ancaria",
+                    "pl-PL": "Mroczny Władca Ankarii"
+                },
+                "description": {
+                    "de-DE": "Ein Held beendet die Schattenkampagne.",
+                    "en-US": "Any Hero completing the Shadow Campaign.",
+                    "es-ES": "Cualquier héroe que complete la campaña Sombras.",
+                    "fr-FR": "Un personnage a terminé la quête principale Ténèbres.",
+                    "it-IT": "Un eroe ha completato la Campagna dell'Ombra.",
+                    "pl-PL": "Każda postać, która zakończyła  kampanię Cienia."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "19.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "de-DE": "Unterhändler",
+                    "en-US": "Bargainer",
+                    "es-ES": "Negociante",
+                    "fr-FR": "Commerçant",
+                    "it-IT": "Venditore",
+                    "pl-PL": "Sprzedawca"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat 30 magische Gegenstände verkauft.",
+                    "en-US": "Any Hero has sold 30 magic items.",
+                    "es-ES": "Cualquier héroe que haya vendido 30 objetos mágicos.",
+                    "fr-FR": "Un personnage a vendu 30 objets magiques.",
+                    "it-IT": "Un eroe ha venduto 30 oggetti magici.",
+                    "pl-PL": "Każda postać, która sprzedała 30 magicznych przedmiotów."
+                },
+                "howto": {}
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "47.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "Veredler",
+                    "en-US": "Annealer",
+                    "es-ES": "Endurecido",
+                    "fr-FR": "Bricoleur",
+                    "it-IT": "Forgiatore",
+                    "pl-PL": "Hartownik"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat zum ersten Mal etwas eingeschmiedet.",
+                    "en-US": "Any Hero has forged something into an item for the first time.",
+                    "es-ES": "Cualquier héroe que haya forjado un objeto por primera vez.",
+                    "fr-FR": "Un personnage a forgé son premier objet.",
+                    "it-IT": "Un eroe ha forgiato qualcosa in un oggetto per la prima volta.",
+                    "pl-PL": "Każda postać, która po raz pierwszy ukuła  z czegoś przedmiot."
+                },
+                "howto": {}
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "46.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "Markentreue",
+                    "en-US": "Fashion Police",
+                    "es-ES": "Vanguardista",
+                    "fr-FR": "Victime de la mode",
+                    "it-IT": "Completista",
+                    "pl-PL": "Modniś"
+                },
+                "description": {
+                    "de-DE": "Ein Held trägt zum ersten Mal ein vollständiges Rüstungsset.",
+                    "en-US": "Any Hero wearing a complete armor set for the first time.",
+                    "es-ES": "Cualquier héroe que lleve un conjunto de armadura completo por primera vez.",
+                    "fr-FR": "Un personnage porte un ensemble complet pour la première fois.",
+                    "it-IT": "Un eroe ha indossato un set completo per la prima volta.",
+                    "pl-PL": "Każda postać nosząca po raz pierwszy całkowity zestaw pancerza."
+                },
+                "howto": {}
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "45.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "Pflichtbewusst",
+                    "en-US": "Diligent",
+                    "es-ES": "Diligente 1",
+                    "fr-FR": "Diligent 1",
+                    "it-IT": "Diligente 1",
+                    "pl-PL": "Pilny 1"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat 20% aller Nebenquests erfüllt.",
+                    "en-US": "Any Hero completed 20% of all sidequests.",
+                    "es-ES": "Cualquier héroe que complete el 20% de las aventuras secundarias. ",
+                    "fr-FR": "Un personnage a résolu au moins 20% des quêtes secondaires.",
+                    "it-IT": "Un eroe ha completato almeno il 20% di tutte le missioni secondarie.",
+                    "pl-PL": "Każda postać, która wykonała co najmniej 20% misji pobocznych."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "20.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "Kampfkunst-Experte",
+                    "en-US": "Expert",
+                    "es-ES": "Experto",
+                    "fr-FR": "Expert",
+                    "it-IT": "Esperto",
+                    "pl-PL": "Ekspert"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat eine Modifikation eines Aspektes bis auf die Höchststufe ausgebaut.",
+                    "en-US": "Any Hero has maximized one modification of one aspect.",
+                    "es-ES": "Cualquier héroe que haya aprovechado al máximo una modificación de un aspecto.",
+                    "fr-FR": "Un personnage a amélioré au maximum un aspect.",
+                    "it-IT": "Un eroe ha aumentato al massimo una modifica di una specialità.",
+                    "pl-PL": "Każda postać, która zmaksymalizowała jedną modyfikację bądź jeden aspekt."
+                },
+                "howto": {}
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "43.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "de-DE": "Millionär",
+                    "en-US": "Millionaire",
+                    "es-ES": "Millonario",
+                    "fr-FR": "Millionnaire",
+                    "it-IT": "Milionario",
+                    "pl-PL": "Milioner"
+                },
+                "description": {
+                    "de-DE": "Ein Held besitzt 1.000.000 Gold.",
+                    "en-US": "Any Hero owning 1,000,000 gold.",
+                    "es-ES": "Cualquier héroe con 1.000.000 monedas de oro.",
+                    "fr-FR": "Un personnage possède 1 million de PO.",
+                    "it-IT": "Un eroe ha accumulato 1.000.000 di pezzi d'oro.",
+                    "pl-PL": "Każda postać posiadająca 1000000 sztuk złota."
+                },
+                "howto": {}
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "44.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "Überlebenskünstler",
+                    "en-US": "Survivalist",
+                    "es-ES": "Superviviente",
+                    "fr-FR": "Survivant",
+                    "it-IT": "Superstite",
+                    "pl-PL": "Surwiwalista"
+                },
+                "description": {
+                    "de-DE": "Ein Held absolviert die Hauptquest im Schwierigkeitsgrad Bronze oder Silber ohne zu sterben.",
+                    "en-US": "Any Hero completed the main quest in Bronze or Silver difficulty without dying.",
+                    "es-ES": "Cualquier héroe que complete la aventura principal en la dificultad bronce o plata sin morir.",
+                    "fr-FR": "Un héros a terminé la quête principale en mode Bronze ou Argent sans mourir.",
+                    "it-IT": "Un eroe ha completato la missione principale senza morire (difficoltà Bronzo o Argento).\n\n\n\n",
+                    "pl-PL": "Każda postać, która ukończyła misję główną na brązowym lub srebrnym poziomie trudności."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "21.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "de-DE": "Zielstrebig",
+                    "en-US": "Dedicated",
+                    "es-ES": "Consagrado",
+                    "fr-FR": "Concentré",
+                    "it-IT": "Rapido",
+                    "pl-PL": "Oddany"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat die Kampagne absolviert und dabei nicht mehr als 20 % der Karte aufgedeckt.\n\n\n\n",
+                    "en-US": "Any Hero completed the main quest without exploring more than 20 % of the map.",
+                    "es-ES": "Cualquier héroe que complete la aventura principal sin explorar más del 20% del mapa.\n\n\n\n",
+                    "fr-FR": "Un personnage a terminé la quête principale avec moins de 20% de la carte exploré.\n\n\n\n",
+                    "it-IT": "Un eroe ha completato esplorando non più del 20% della mappa.\n\n\n\n",
+                    "pl-PL": "Każda postać, która ukończyła główny wątek, nie odkrywając więcej niż 20% mapy.\n\n\n\n"
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "22.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "Drachentöter",
+                    "en-US": "Dragonslayer",
+                    "es-ES": "Cazador de dragones",
+                    "fr-FR": "Pendragon",
+                    "it-IT": "Uccisore di draghi",
+                    "pl-PL": "Zabójca smoków"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat fünf Drachen erlegt.",
+                    "en-US": "Any Hero has slain five Dragons.",
+                    "es-ES": "Cualquier héroe que haya matado a cinco dragones.",
+                    "fr-FR": "Un personnage a tué cinq Dragons.",
+                    "it-IT": "Un eroe ha ucciso cinque Draghi.",
+                    "pl-PL": "Każda postać, która zabiła 5 smoków."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "23.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "Schlachthaus",
+                    "en-US": "Slaughterer",
+                    "es-ES": "Asesino",
+                    "fr-FR": "Massacreur",
+                    "it-IT": "Massacratore",
+                    "pl-PL": "Rezun"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat 10.000 Gegner beseitigt.",
+                    "en-US": "Any Hero slayed 10,000 opponents.",
+                    "es-ES": "Cualquier héroe que mate a 10.000 rivales.",
+                    "fr-FR": "Un personnage a tué 10000 ennemis.",
+                    "it-IT": "Un eroe ha ucciso almeno 10.000 nemici.",
+                    "pl-PL": "Każda postać, która zabiła 10000 przeciwników."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "24.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "Beam mich hoch!",
+                    "en-US": "Beam me up!",
+                    "es-ES": "Salvador",
+                    "fr-FR": "Téléporté",
+                    "it-IT": "Attivare!",
+                    "pl-PL": "Teleportacja!"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat zum ersten Mal einen Teleporter verwendet.",
+                    "en-US": "You have used a teleporter for the first time.",
+                    "es-ES": "Has usado un teletransportador por primera vez.",
+                    "fr-FR": "Un personnage a utilisé un téléporteur pour la première fois.",
+                    "it-IT": "Un eroe ha usato un teletrasporto per la prima volta.",
+                    "pl-PL": "Twoja postać po raz pierwszy skorzystała z teleportu."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "30",
+            "imageId": "27.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "Lonesome Rider",
+                    "en-US": "Lone Ranger",
+                    "es-ES": "Montaraz solitario",
+                    "fr-FR": "Vengeur solitaire",
+                    "it-IT": "Ranger solitario",
+                    "pl-PL": "Samotny wilk"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat 200 Meilen auf seinem besonderen Reittier zurückgelegt.",
+                    "en-US": "Any Hero traveled a distance of 200 miles on his special mount.",
+                    "es-ES": "Cualquier héroe que haya viajado más de 322 kilómetros en su montura especial.",
+                    "fr-FR": "Un personnage a parcouru 300 kilomètres sur sa monture spéciale.",
+                    "it-IT": "Un eroe ha percorso almeno 200 miglia sulla propria cavalcatura speciale.",
+                    "pl-PL": "Każda postać, która przejechała co najmniej 200 mil na swoim klasowym wierzchowcu."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "28.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "Junior-Kartograph",
+                    "en-US": "Junior Cartographer",
+                    "es-ES": "Aprendiz de cartógrafo",
+                    "fr-FR": "Cartographe apprenti",
+                    "it-IT": "Cartografo principiante",
+                    "pl-PL": "Młodszy kartograf"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat 30% der Karte erforscht.",
+                    "en-US": "Any Hero has explored 30 % of the map.",
+                    "es-ES": "Cualquier héroe que haya explorado el 30% del mapa.",
+                    "fr-FR": "Un personnage a exploré 30% de la carte.",
+                    "it-IT": "Un eroe ha esplorato almeno il 30% della mappa.",
+                    "pl-PL": "Postacie, które odkryły co najmniej 30% mapy."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "29.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Meister-Kartograph",
+                    "en-US": "Master Cartographer",
+                    "es-ES": "Maestro cartógrafo",
+                    "fr-FR": "Maître cartographe",
+                    "it-IT": "Cartografo esperto",
+                    "pl-PL": "Mistrz kartograf"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat 50% der Karte erforscht.",
+                    "en-US": "Any Hero has explored 50 % of the map.",
+                    "es-ES": "Cualquier héroe que haya explorado el 50% del mapa.",
+                    "fr-FR": "Un personnage a exploré 50% de la carte.",
+                    "it-IT": "Un eroe ha esplorato almeno il 50% della mappa.",
+                    "pl-PL": "Postacie, które odkryły co najmniej 50% mapy."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "10",
+            "imageId": "30.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Grabräuber",
+                    "en-US": "Tomb Raider",
+                    "es-ES": "Ladrón de tumbas",
+                    "fr-FR": "Pilleur de tombes",
+                    "it-IT": "Sciacallo",
+                    "pl-PL": "Łupieżca grobów"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat 100 Grabinschriften gelesen.",
+                    "en-US": "Any Hero has read 100 epitaphs (graves).",
+                    "es-ES": "Cualquier héroe que haya leído 100 epitafios (tumbas).",
+                    "fr-FR": "Un personnage a lu 100 épitaphes.",
+                    "it-IT": "Un eroe ha letto almeno 100 epitaffi (tombe).",
+                    "pl-PL": "Każda postać, która odczytała co najmniej 90% epitafiów (groby)."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "10",
+            "imageId": "31.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Polytheist",
+                    "en-US": "Polytheist",
+                    "es-ES": "Politeísta",
+                    "fr-FR": "Polythéiste",
+                    "it-IT": "Politeista",
+                    "pl-PL": "Politeista"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat 20 Tempel besucht.",
+                    "en-US": "Any Hero has discovered all 20 temples.",
+                    "es-ES": "Cualquier héroe que haya descubierto los 20 templos.",
+                    "fr-FR": "Un personnage a découvert les 20 temples.",
+                    "it-IT": "Un eroe ha scoperto tutti i 20 templi.",
+                    "pl-PL": "Każda postać, która zbadała wszystkie 20 świątyń."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "10",
+            "imageId": "32.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "de-DE": "Easy Rider",
+                    "en-US": "Easy Rider",
+                    "es-ES": "Hábil",
+                    "fr-FR": "Fier cavalier",
+                    "it-IT": "Fantino",
+                    "pl-PL": "Swobodny jeździec"
+                },
+                "description": {
+                    "de-DE": "Ein Held ist erstmals auf seinem besonderen Reittier geritten.",
+                    "en-US": "Any Hero rides his special mount for the first time.",
+                    "es-ES": "Cualquier héroe que haya cabalgado en su montura especial por primera vez.",
+                    "fr-FR": "Un personnage chevauche une monture spéciale pour la première fois.",
+                    "it-IT": "Un eroe ha utilizzato per la prima volta la propria cavalcatura speciale.",
+                    "pl-PL": "Każda postać korzystająca po raz pierwszy ze swojego specjalnego wierzchowca."
+                },
+                "howto": {}
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "41.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "Bauchladen",
+                    "en-US": "Hawker",
+                    "es-ES": "Buhonero",
+                    "fr-FR": "Colporteur",
+                    "it-IT": "Commerciante",
+                    "pl-PL": "Komiwojażer"
+                },
+                "description": {
+                    "de-DE": "Du hast zum ersten Mal erfolgreich mit einem Mitspieler gehandelt.",
+                    "en-US": "You successfully traded with another user.",
+                    "es-ES": "Has comerciado con otro usuario.",
+                    "fr-FR": "Vous avez commercé avec un autre joueur.",
+                    "it-IT": "Hai commerciato con un altro giocatore.",
+                    "pl-PL": "Udało ci się pohandlować z innym użytkownikiem."
+                },
+                "howto": {}
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "40.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Bücherwurm",
+                    "en-US": "Bookworm",
+                    "es-ES": "Bibliófilo",
+                    "fr-FR": "Rat de bibliothèque",
+                    "it-IT": "Topo di biblioteca",
+                    "pl-PL": "Mól książkowy"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat 33 Bücher gelesen.",
+                    "en-US": "Any Hero has read 33 Books.",
+                    "es-ES": "Cualquier héroe que haya conseguido 33 libros.",
+                    "fr-FR": "Vous avez collecté 33 livres.",
+                    "it-IT": "Un eroe ha trovato tutti i 33 libri.",
+                    "pl-PL": "Każda postać, która zebrała co najmniej 33 książki."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "33.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "Äußerst pflichtbewusst",
+                    "en-US": "Extremely Diligent",
+                    "es-ES": "Diligente 2",
+                    "fr-FR": "Diligent 2",
+                    "it-IT": "Diligente 2",
+                    "pl-PL": "Pilny 2"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat 40% aller Nebenquests erfüllt.",
+                    "en-US": "Any Hero completed 40% of all sidequests.",
+                    "es-ES": "Cualquier héroe que complete el 40% de las aventuras secundarias. ",
+                    "fr-FR": "Un personnage a résolu au moins 40% des quêtes secondaires.",
+                    "it-IT": "Un eroe ha completato almeno il 40% di tutte le missioni secondarie.",
+                    "pl-PL": "Każda postać, która wykonała co najmniej 40% misji pobocznych."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "34.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Ascaron Fan",
+                    "en-US": "Ascaron Fan",
+                    "es-ES": "Fan de Ascaron",
+                    "fr-FR": "Fan d'Ascaron",
+                    "it-IT": "Fan di Ascaron",
+                    "pl-PL": "Fan Ascaronu"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat die geheimen Hallen von Ascaron gefunden.",
+                    "en-US": "Any Hero has found the secret halls of Ascaron.",
+                    "es-ES": "Cualquier héroe que haya encontrado los salones secretos de Ascaron.",
+                    "fr-FR": "Un personnage a découvert les halls secrets d'Ascaron.",
+                    "it-IT": "Un eroe ha trovato le stanze segrete di Ascaron.",
+                    "pl-PL": "Postacie, które znalazły tajne komnaty Ascaronu."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "35.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Tratschtante",
+                    "en-US": "Chatterbox",
+                    "es-ES": "Charlatán",
+                    "fr-FR": "Pipelette",
+                    "it-IT": "Chiacchierone",
+                    "pl-PL": "Katarynka"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat mit 200 NPCs gesprochen.",
+                    "en-US": "Any Hero has talked to 200 NPCs.",
+                    "es-ES": "Cualquier héroe que haya hablado con 200 PNJ.",
+                    "fr-FR": "Un personnage a parlé à 200 PNJ.",
+                    "it-IT": "Un eroe ha parlato con almeno 200 PNG.",
+                    "pl-PL": "Każda postać, która rozmawiała z co najmniej 200 bohaterami niezależnymi."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "36.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "Städteführer",
+                    "en-US": "City Guide",
+                    "es-ES": "Guía de la ciudad",
+                    "fr-FR": "Guide des cités",
+                    "it-IT": "Guida cittadina",
+                    "pl-PL": "Przewodnik po mieście"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat alle 42 Städte besucht.",
+                    "en-US": "Any Hero has visited all 42 towns.",
+                    "es-ES": "Cualquier héroe que haya visitado las 42 ciudades.",
+                    "fr-FR": "Un personnage a visité les 42 villes.",
+                    "it-IT": "Un eroe ha visitato tutte le 42 città.",
+                    "pl-PL": "Dowolny bohater, który odwiedził 42 miasta."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "37.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "de-DE": "Gruppenkuscheln",
+                    "en-US": "Group Hug",
+                    "es-ES": "Compañero",
+                    "fr-FR": "Sociable",
+                    "it-IT": "Socievole",
+                    "pl-PL": "Grupowy uścisk"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat mit drei anderen Helden in einer Mehrspielerpartie gekämpft.",
+                    "en-US": "Any Hero fighting alongside 3 other heroes in multiplayer mode.",
+                    "es-ES": "Cualquier héroe que haya jugado junto a otros tres héroes en el modo multijugador.",
+                    "fr-FR": "Un personnage a joué avec 3 autres personnages en multijoueur.",
+                    "it-IT": "Un eroe ha combattuto insieme a 3 eroi diversi in modalità multigiocatore.",
+                    "pl-PL": "Każdy bohater walczący wraz z 3 innymi graczami w trybie wieloosobowym."
+                },
+                "howto": {}
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "38.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "Kampfmaschine",
+                    "en-US": "Dreadnought",
+                    "es-ES": "Acorazado",
+                    "fr-FR": "Féroce",
+                    "it-IT": "Implacabile",
+                    "pl-PL": "Pancernik"
+                },
+                "description": {
+                    "de-DE": "Ein Held hat 25 Bossmonster eliminiert.",
+                    "en-US": "Any Hero slayed 25 boss monsters.",
+                    "es-ES": "Cualquier héroe que mate a 25 monstruos jefe.",
+                    "fr-FR": "Un personnage a tué 25 boss.",
+                    "it-IT": "Un eroe ha ucciso 25 Boss.",
+                    "pl-PL": "Każda postać, która pokonała 25 potworów-bossów."
+                },
+                "howto": {}
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "26.png"
+        }
+    }
+}
