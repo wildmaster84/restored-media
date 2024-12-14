@@ -1,0 +1,479 @@
+{
+    "properties": {
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000045": {
+            "info": "Badges Bit Mask",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000049": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x2000004A": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x2000004B": {
+            "info": "Kill Death Difference",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000045": {
+            "info": "Badges Bit Mask",
+            "method": "last",
+            "statId": 3
+        },
+        "0x2000004C": {
+            "info": "Total Money Earned",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000045": {
+            "info": "Badges Bit Mask",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000006D": {
+            "info": "Wins",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x2000006E": {
+            "info": "Losses",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x2000006F": {
+            "info": "Win Loss Difference",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000045": {
+            "info": "Badges Bit Mask",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000070": {
+            "info": "Wins",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x20000071": {
+            "info": "Losses",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000072": {
+            "info": "Win Loss Difference",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000045": {
+            "info": "Badges Bit Mask",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000073": {
+            "info": "Wins",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x20000074": {
+            "info": "Losses",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000075": {
+            "info": "Win Loss Difference",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000055": {
+            "info": "Best Throw Distance",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000005C": {
+            "info": "Player Kills",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000052": {
+            "info": "Gold Stars",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x20000053": {
+            "info": "Silver Stars",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000054": {
+            "info": "Bronze Stars",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000052": {
+            "info": "Gold Stars",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000053": {
+            "info": "Silver Stars",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x20000054": {
+            "info": "Bronze Stars",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000052": {
+            "info": "Gold Stars",
+            "method": "last",
+            "statId": 2
+        },
+        "0x20000053": {
+            "info": "Silver Stars",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000054": {
+            "info": "Bronze Stars",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000056": {
+            "info": "Total Gang Kills",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x20000076": {
+            "info": "Total Cop Kills",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000077": {
+            "info": "Total Civilian Kills",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000056": {
+            "info": "Total Gang Kills",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000076": {
+            "info": "Total Cop Kills",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x20000077": {
+            "info": "Total Civilian Kills",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000056": {
+            "info": "Total Gang Kills",
+            "method": "last",
+            "statId": 2
+        },
+        "0x20000076": {
+            "info": "Total Cop Kills",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000077": {
+            "info": "Total Civilian Kills",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000004F": {
+            "info": "Single Player Time",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x2000005B": {
+            "info": "Co-op Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000004F": {
+            "info": "Single Player Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000005B": {
+            "info": "Co-op Time",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000057": {
+            "info": "Jump Distance",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x20000058": {
+            "info": "Jump Height",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000005A": {
+            "info": "Jump Spin",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000057": {
+            "info": "Jump Distance",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000058": {
+            "info": "Jump Height",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x2000005A": {
+            "info": "Jump Spin",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000057": {
+            "info": "Jump Distance",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000058": {
+            "info": "Jump Height",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000005A": {
+            "info": "Jump Spin",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000051": {
+            "info": "Gang",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x20000050": {
+            "info": "Police",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000051": {
+            "info": "Gang",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000050": {
+            "info": "Police",
+            "method": "last",
+            "statId": 65534
+        }
+    }
+}

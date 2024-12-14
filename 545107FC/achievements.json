@@ -1,0 +1,2259 @@
+{
+    "Achievements": {
+        "53": {
+            "text": {
+                "name": {
+                    "de-DE": "Willkommen zurück",
+                    "en-US": "Welcome Back",
+                    "es-ES": "Bienvenido",
+                    "fr-FR": "Bienvenue",
+                    "it-IT": "Bentornato",
+                    "ja-JP": "生還",
+                    "ko-KR": "복귀",
+                    "pl-PL": "Witaj w domu",
+                    "ru-RU": "С возвращением"
+                },
+                "description": {
+                    "de-DE": "Prolog, Wiederaufleben der Saints beendet",
+                    "en-US": "Completed the Saints Revival prologue",
+                    "es-ES": "Has completado el prólogo El renacer de los Saints",
+                    "fr-FR": "Prologue terminé: la Résurrection des Saints",
+                    "it-IT": "Completato il prologo Saints Revival",
+                    "ja-JP": "「セインツ再興」のプロローグをクリアした",
+                    "ko-KR": "세인츠 재건 프롤로그를 완료했습니다.",
+                    "pl-PL": "Ukończono prolog Odrodzenia Świętych.",
+                    "ru-RU": "Пролог \"Воскрешение Святых\" пройден"
+                },
+                "howto": {
+                    "de-DE": "Schaffe den Prolog, Wiederaufleben der Saints",
+                    "en-US": "Complete the Saints Revival prologue",
+                    "es-ES": "Haz el prólogo El renacer de los Saints",
+                    "fr-FR": "Prologue terminé: la Résurrection des Saints",
+                    "it-IT": "Completa il prologo Saints Revival",
+                    "ja-JP": "「セインツ再興」のプロローグをクリアする",
+                    "ko-KR": "세인츠 재건 프롤로그를 완료하십시오.",
+                    "pl-PL": "Ukończ prolog Odrodzenia Świętych.",
+                    "ru-RU": "Пройдите пролог \"Воскрешение Святых\""
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "01.png"
+        },
+        "54": {
+            "text": {
+                "name": {
+                    "de-DE": "Seppuku",
+                    "en-US": "Seppuku",
+                    "es-ES": "Seppuku",
+                    "fr-FR": "Seppuku",
+                    "it-IT": "Seppuku",
+                    "ja-JP": "セップク",
+                    "ko-KR": "할복",
+                    "pl-PL": "Seppuku",
+                    "ru-RU": "Сэппуку"
+                },
+                "description": {
+                    "de-DE": "Ronin besiegt",
+                    "en-US": "Defeated the Ronin",
+                    "es-ES": "Has derrotado a los Ronin",
+                    "fr-FR": "Ronin vaincus",
+                    "it-IT": "Sconfitto i Ronin",
+                    "ja-JP": "ローニンを打ち破った",
+                    "ko-KR": "낭인단을 섬멸했습니다.",
+                    "pl-PL": "Pokonano Roninów.",
+                    "ru-RU": "Победили ронинов"
+                },
+                "howto": {
+                    "de-DE": "Besiege die Ronin",
+                    "en-US": "Defeat the Ronin",
+                    "es-ES": "Derrota a los Ronin",
+                    "fr-FR": "Triomphe des Ronin",
+                    "it-IT": "Sconfiggi i Ronin",
+                    "ja-JP": "ローニンを打倒する",
+                    "ko-KR": "낭인단을 섬멸하십시오.",
+                    "pl-PL": "Pokonaj Roninów.",
+                    "ru-RU": "Победите ронинов."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "02.png"
+        },
+        "55": {
+            "text": {
+                "name": {
+                    "de-DE": "Brüder erledigt",
+                    "en-US": "Brother's Keeper",
+                    "es-ES": "Guardián del hermano",
+                    "fr-FR": "Le gardien du troupeau",
+                    "it-IT": "Custode del fratello",
+                    "ja-JP": "ブラザーズキーパー",
+                    "ko-KR": "큰 형님",
+                    "pl-PL": "Stróż brata swego",
+                    "ru-RU": "Охранник для Брата"
+                },
+                "description": {
+                    "de-DE": "Bruderschaft besiegt",
+                    "en-US": "Defeated the Brotherhood",
+                    "es-ES": "Has derrotado a la Brotherhood",
+                    "fr-FR": "Brotherhood vaincue",
+                    "it-IT": "Sconfitto i Brotherhood",
+                    "ja-JP": "ブラザーフッドを打ち破った",
+                    "ko-KR": "형제단을 섬멸했습니다.",
+                    "pl-PL": "Pokonano Bractwo.",
+                    "ru-RU": "Победили членов Братства"
+                },
+                "howto": {
+                    "de-DE": "Besiege die Bruderschaft",
+                    "en-US": "Defeat the Brotherhood",
+                    "es-ES": "Derrota a la Brotherhood",
+                    "fr-FR": "Triomphe de la Brotherhood",
+                    "it-IT": "Sconfiggi i Brotherhood",
+                    "ja-JP": "ブラザーフッドを打倒する",
+                    "ko-KR": "형제단을 섬멸하십시오.",
+                    "pl-PL": "Pokonaj Bractwo.",
+                    "ru-RU": "Победите Братство"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "03.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "de-DE": "Erinnere mich an das Baby",
+                    "en-US": "Remind Me of the Babe",
+                    "es-ES": "Recuerdo tierno",
+                    "fr-FR": "Rappelle-moi la nana",
+                    "it-IT": "Ricordami della pupa",
+                    "ja-JP": "昔の女の記憶",
+                    "ko-KR": "그녀와의 추억",
+                    "pl-PL": "Przypomnij mi o małej",
+                    "ru-RU": "Напомни мне о Детке"
+                },
+                "description": {
+                    "de-DE": "Die Söhne von Samedi besiegt",
+                    "en-US": "Defeated the Sons of Samedi",
+                    "es-ES": "Has derrotado a los Sons of Samedi",
+                    "fr-FR": "Sons of Samedi vaincus",
+                    "it-IT": "Sconfitto i Sons of Samedi",
+                    "ja-JP": "サンズ オブ サムディを打ち破った",
+                    "ko-KR": "사메디의 후손들을 섬멸했습니다.",
+                    "pl-PL": "Pokonano Synów Samedi.",
+                    "ru-RU": "Победили Детей Самеди"
+                },
+                "howto": {
+                    "de-DE": "Besiege die Söhne von Samedi",
+                    "en-US": "Defeat the Sons of Samedi",
+                    "es-ES": "Derrota a los Sons of Samedi",
+                    "fr-FR": "Triomphe des Sons of Samedi",
+                    "it-IT": "Sconfiggi i Sons of Samedi",
+                    "ja-JP": "サンズ オブ サムディを打倒する",
+                    "ko-KR": "사메디의 후손들을 섬멸하십시오.",
+                    "pl-PL": "Pokonaj Synów Samedi.",
+                    "ru-RU": "Победите Детей Самеди"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "04.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "de-DE": "Eine bessere Zukunft",
+                    "en-US": "A Brighter Future",
+                    "es-ES": "Un futuro brillante",
+                    "fr-FR": "Un avenir radieux",
+                    "it-IT": "Un futuro più luminoso",
+                    "ja-JP": "明るい未来",
+                    "ko-KR": "밝은 미래",
+                    "pl-PL": "Nadzieja na przyszłość",
+                    "ru-RU": "Яркое Будущее"
+                },
+                "description": {
+                    "de-DE": "Epilog, Ultor Corporation besiegt",
+                    "en-US": "Defeated the Ultor Corporation epilogue",
+                    "es-ES": "Has derrotado a la corporación Ultor",
+                    "fr-FR": "Épilogue: la Corporation Ultor vaincue",
+                    "it-IT": "Sconfitto Ultor nell'epilogo",
+                    "ja-JP": "「アルターコーポレーション」のエピローグをクリアした",
+                    "ko-KR": "얼터 주식회사 에필로그를 완료했습니다.",
+                    "pl-PL": "Epilog: pokonano Ultor Corp.",
+                    "ru-RU": "Эпилог. Поражение корпорации Ultor"
+                },
+                "howto": {
+                    "de-DE": "Schlage der Schlange den Kopf ab",
+                    "en-US": "Chop off the snake's head",
+                    "es-ES": "Corta la cabeza de la serpiente",
+                    "fr-FR": "Coupe la tête du serpent",
+                    "it-IT": "Taglia la testa al serpente",
+                    "ja-JP": "蛇の頭を切り落とす",
+                    "ko-KR": "뱀의 머리를 떨어뜨리십시오.",
+                    "pl-PL": "Odetnij wężowi łeb.",
+                    "ru-RU": "Отрежьте голову змеи"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "80",
+            "imageId": "05.png"
+        },
+        "58": {
+            "text": {
+                "name": {
+                    "de-DE": "Vergeltung",
+                    "en-US": "Vengeance",
+                    "es-ES": "Venganza",
+                    "fr-FR": "Vengeance",
+                    "it-IT": "Vendetta",
+                    "ja-JP": "復讐",
+                    "ko-KR": "복수",
+                    "pl-PL": "Zemsta",
+                    "ru-RU": "Месть"
+                },
+                "description": {
+                    "de-DE": "Rache an Julius",
+                    "en-US": "Exacted revenge on Julius",
+                    "es-ES": "Has vengado a Julius",
+                    "fr-FR": "La vengeance contre Julius",
+                    "it-IT": "Ti sei vendicato di Julius",
+                    "ja-JP": "ジュリアスに復讐した",
+                    "ko-KR": "줄리어스에게 복수했습니다.",
+                    "pl-PL": "Zemszczono się na Juliusie.",
+                    "ru-RU": "Месть над Джулиусом свешрена"
+                },
+                "howto": {
+                    "de-DE": "Finde heraus, wer das Boot in die Luft gejagt hat, und zahle es ihm heim",
+                    "en-US": "Figure out who blew up the boat and pay them back",
+                    "es-ES": "Averigua quién voló el barco y házselo pagar",
+                    "fr-FR": "Découvre qui a fait sauter le bateau et fais-le payer",
+                    "it-IT": "Scopri chi ha fatto saltare la barca e fagliela pagare",
+                    "ja-JP": "ボートを爆破したヤツを割り出してつけを払わせる",
+                    "ko-KR": "보트를 망가뜨린 범인을 찾아내고 빚을 갚으십시오.",
+                    "pl-PL": "Dowiedz się, kto wysadził łódź i odpłać mu pięknym za nadobne",
+                    "ru-RU": "Узнайте, кто взорвал лодку и отплатите им за это"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "06.png"
+        },
+        "59": {
+            "text": {
+                "name": {
+                    "de-DE": "Fürst des Verbrechens",
+                    "en-US": "Crime Lord",
+                    "es-ES": "Señor del crimen",
+                    "fr-FR": "Seigneur du crime",
+                    "it-IT": "Signore del crimine",
+                    "ja-JP": "犯罪王",
+                    "ko-KR": "범죄 왕",
+                    "pl-PL": "Mistrz zbrodni",
+                    "ru-RU": "Бог Преступного мира"
+                },
+                "description": {
+                    "de-DE": "Alle Level aller Aktivitäten geschafft",
+                    "en-US": "Completed all levels of all activities",
+                    "es-ES": "Has completado los niveles de todas las actividades",
+                    "fr-FR": "Terminé: tous les niveaux de toutes les activités",
+                    "it-IT": "Completato modalità a tutti i livelli",
+                    "ja-JP": "全アクティビティの全レベルをクリアした",
+                    "ko-KR": "모든 보조 임무의 모든 단계를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie poziomy wszystkich akcji.",
+                    "ru-RU": "Выполнены все уровни заданий"
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Level von allen Aktivitäten",
+                    "en-US": "Complete all levels of all activities",
+                    "es-ES": "Haz los niveles de todas las actividades",
+                    "fr-FR": "Terminé: tous les niveaux de toutes les activités",
+                    "it-IT": "Completa tutti i livelli di tutte le modalità",
+                    "ja-JP": "全アクティビティの全レベルをクリアする",
+                    "ko-KR": "모든 보조 임무의 모든 단계를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie poziomy wszystkich akcji.",
+                    "ru-RU": "выполните все уровни всех заданий"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "07.png"
+        },
+        "60": {
+            "text": {
+                "name": {
+                    "de-DE": "Samtenes Seil",
+                    "en-US": "Velvet Rope",
+                    "es-ES": "Cuerda de terciopelo",
+                    "fr-FR": "Corde de velours",
+                    "it-IT": "Corda di velluto",
+                    "ja-JP": "ベルベットロープ",
+                    "ko-KR": "안전 선",
+                    "pl-PL": "Aksamitny sznur",
+                    "ru-RU": "Цепочка с бархатом"
+                },
+                "description": {
+                    "de-DE": "Alle Level von 'Wilde Menge' geschafft",
+                    "en-US": "Completed all levels of Crowd Control",
+                    "es-ES": "Has completado todos los niveles de Control de multitud",
+                    "fr-FR": "Terminé: tous les niveaux de Gros bras",
+                    "it-IT": "Completato tutti i livelli Controlla la Folla",
+                    "ja-JP": "「群集整理」の全レベルをクリアした",
+                    "ko-KR": "군중 제어의 모든 단계를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie poziomy \"Kontroli nad tłumem\".",
+                    "ru-RU": "Выполнены все уровни \"Укрощения фанатов\""
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Level von 'Wilde Menge'",
+                    "en-US": "Complete all levels of Crowd Control",
+                    "es-ES": "Haz todos los niveles de Control de multitud",
+                    "fr-FR": "Terminé: tous les niveaux de Gros bras",
+                    "it-IT": "Completa tutti i livelli di Controlla la folla",
+                    "ja-JP": "「群集整理」の全レベルをクリアする",
+                    "ko-KR": "군중 제어의 모든 단계를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie poziomy \"Kontroli nad tłumem\".",
+                    "ru-RU": "Выполните все уровни \"Укрощения фанатов\""
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "08.png"
+        },
+        "61": {
+            "text": {
+                "name": {
+                    "de-DE": "Zerstörer",
+                    "en-US": "Demolition Man",
+                    "es-ES": "Destructor",
+                    "fr-FR": "Demolition Man",
+                    "it-IT": "Demolition Man",
+                    "ja-JP": "破壊王",
+                    "ko-KR": "데몰리션 맨",
+                    "pl-PL": "Człowiek demolka",
+                    "ru-RU": "Разрушитель "
+                },
+                "description": {
+                    "de-DE": "Alle Level von 'Demolition Derby' geschafft",
+                    "en-US": "Completed all levels of Demolition Derby",
+                    "es-ES": "Has completado todos los niveles de Carrera de destrucción",
+                    "fr-FR": "Terminé: tous les niveaux de Tournoi de démolition",
+                    "it-IT": "Completato tutti i livelli di Demolition Derby",
+                    "ja-JP": "「デモリッション バトル」の全レベルをクリアした",
+                    "ko-KR": "폭주 배틀의 모든 단계를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie poziomy \"Rozwałki\".",
+                    "ru-RU": "Выполнены все уровни гонки на выживание"
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Level von 'Demolition Derby'",
+                    "en-US": "Complete all levels of Demolition Derby",
+                    "es-ES": "Haz todos los niveles de Carrera de destrucción",
+                    "fr-FR": "Terminé: tous les niveaux de Tournoi de démolition",
+                    "it-IT": "Completa tutti i livelli di Demolition Derby",
+                    "ja-JP": "「デモリッション バトル」の全レベルをクリアする",
+                    "ko-KR": "폭주 배틀의 모든 단계를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie poziomy \"Rozwałki\".",
+                    "ru-RU": "Выполните все уровни Гонки на выживание"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "09.png"
+        },
+        "62": {
+            "text": {
+                "name": {
+                    "de-DE": "Lila Dunst",
+                    "en-US": "Purple Haze",
+                    "es-ES": "Bruma violeta",
+                    "fr-FR": "Purple Haze",
+                    "it-IT": "Foschia viola",
+                    "ja-JP": "パープルヘイズ",
+                    "ko-KR": "보라색 안개",
+                    "pl-PL": "Purpurowa mgła",
+                    "ru-RU": "Лиловая дымка"
+                },
+                "description": {
+                    "de-DE": "Alle Level von 'Drogenhandel' geschafft",
+                    "en-US": "Completed all levels of Drug Trafficking",
+                    "es-ES": "Has completado todos los niveles de Tráfico de drogas",
+                    "fr-FR": "Terminé: tous les niveaux de Trafic de drogue",
+                    "it-IT": "Completato tutti i livelli di Trafficante di droga",
+                    "ja-JP": "「デリバリー」の全レベルをクリアした",
+                    "ko-KR": "마약 밀매의 모든 단계를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie poziomy \"Przemytu narkotyków\".",
+                    "ru-RU": "Выполнены все уровни Наркотрафика"
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Level von 'Drogenhandel'",
+                    "en-US": "Complete all levels of Drug Trafficking",
+                    "es-ES": "Haz todos los niveles de Tráfico de drogas",
+                    "fr-FR": "Terminé: tous les niveaux de Trafic de drogue",
+                    "it-IT": "Completa tutti i livelli di Trafficante di droga",
+                    "ja-JP": "「デリバリー」の全レベルをクリアする",
+                    "ko-KR": "마약 밀매의 모든 단계를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie poziomy \"Przemytu narkotyków\".",
+                    "ru-RU": "Пройдите все уровни Наркотрафика"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "10.png"
+        },
+        "63": {
+            "text": {
+                "name": {
+                    "de-DE": "Trickser",
+                    "en-US": "Trickster",
+                    "es-ES": "Timador",
+                    "fr-FR": "Manipulation",
+                    "it-IT": "Imbroglione",
+                    "ja-JP": "トリックスター",
+                    "ko-KR": "사기꾼",
+                    "pl-PL": "Oszust",
+                    "ru-RU": "Приколист"
+                },
+                "description": {
+                    "de-DE": "Alle Level von 'Eskorte' geschafft",
+                    "en-US": "Completed all levels of Escort",
+                    "es-ES": "Has completado todos los niveles de Escolta",
+                    "fr-FR": "Terminé: tous les niveaux d'Escorte",
+                    "it-IT": "Completato tutti i livelli di Escort",
+                    "ja-JP": "「エスコート」の全レベルをクリアした",
+                    "ko-KR": "에스코트의 모든 단계를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie poziomy \"Eskorty\".",
+                    "ru-RU": "Выполнены все уровни Эскорта"
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Level von 'Eskorte'",
+                    "en-US": "Complete all levels of Escort",
+                    "es-ES": "Haz todos los niveles de Escolta",
+                    "fr-FR": "Terminé: tous les niveaux d'Escorte",
+                    "it-IT": "Completa tutti i livelli di Escort",
+                    "ja-JP": "「エスコート」の全レベルをクリアする",
+                    "ko-KR": "에스코트의 모든 단계를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie poziomy \"Eskorty\".",
+                    "ru-RU": "Выполните все уровни Эскорта"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "11.png"
+        },
+        "64": {
+            "text": {
+                "name": {
+                    "de-DE": "Sprich nicht drüber",
+                    "en-US": "Do Not Talk About It",
+                    "es-ES": "No lo menciones",
+                    "fr-FR": "Classé confidentiel",
+                    "it-IT": "Non parlarne",
+                    "ja-JP": "誰にも話すな",
+                    "ko-KR": "대화는 필요 없다",
+                    "pl-PL": "Cicho sza",
+                    "ru-RU": "Не говори об этом"
+                },
+                "description": {
+                    "de-DE": "Alle Level von 'Fight Club' geschafft",
+                    "en-US": "Completed all levels of Fight Club",
+                    "es-ES": "Has completado todos los niveles de Club de lucha",
+                    "fr-FR": "Terminé: tous les niveaux de Club de combat",
+                    "it-IT": "Completato tutti i livelli di Fight Club",
+                    "ja-JP": "「ファイトクラブ」の全レベルをクリアした",
+                    "ko-KR": "파이트 클럽의 모든 단계를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie poziomy \"Klubu walki\".",
+                    "ru-RU": "Выполнены все уровни Бойцовского Клуба"
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Level von 'Fight Club'",
+                    "en-US": "Complete all levels of Fight Club",
+                    "es-ES": "Haz todos los niveles de Club de lucha",
+                    "fr-FR": "Terminé: tous les niveaux de Club de combat",
+                    "it-IT": "Completa tutti i livelli di Fight Club",
+                    "ja-JP": "「ファイトクラブ」の全レベルをクリアする",
+                    "ko-KR": "파이트 클럽의 모든 단계를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie poziomy \"Klubu walki\".",
+                    "ru-RU": "Выполните все уровни Бойцовского Клуба"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "12.png"
+        },
+        "65": {
+            "text": {
+                "name": {
+                    "de-DE": "Reality-TV-Star",
+                    "en-US": "Reality Star",
+                    "es-ES": "Estrella de la realidad",
+                    "fr-FR": "Star ordinaire",
+                    "it-IT": "Star di reality",
+                    "ja-JP": "TVスター",
+                    "ko-KR": "TV 스타",
+                    "pl-PL": "Prawdziwa gwiazda",
+                    "ru-RU": "Звезда Реалити-Шоу"
+                },
+                "description": {
+                    "de-DE": "Alle Level von 'FUZZ' geschafft",
+                    "en-US": "Completed all levels of FUZZ",
+                    "es-ES": "Has completado todos los niveles de FUZZ",
+                    "fr-FR": "Terminé: tous les niveaux de FUZZ",
+                    "it-IT": "Completato tutti i livelli di FUZZ",
+                    "ja-JP": "「治安密着24時」の全レベルをクリアした",
+                    "ko-KR": "경찰 24시의 모든 단계를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie poziomy \"Glin\".",
+                    "ru-RU": "Выполнены все уровни \"Легавых\""
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Level von 'FUZZ'",
+                    "en-US": "Complete all levels of FUZZ",
+                    "es-ES": "Haz todos los niveles de FUZZ",
+                    "fr-FR": "Terminé: tous les niveaux de FUZZ",
+                    "it-IT": "Completa tutti i livelli di FUZZ",
+                    "ja-JP": "「治安密着24時」の全レベルをクリアする",
+                    "ko-KR": "경찰 24시의 모든 단계를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie poziomy \"Glin\".",
+                    "ru-RU": "Пройдите все уровни \"Легавых\""
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "13.png"
+        },
+        "67": {
+            "text": {
+                "name": {
+                    "de-DE": "Hubschraubergott",
+                    "en-US": "HeliGood",
+                    "es-ES": "HeliBueno",
+                    "fr-FR": "Hélicool",
+                    "it-IT": "Elicotterock",
+                    "ja-JP": "ヘリグッド",
+                    "ko-KR": "헬리굿",
+                    "pl-PL": "Świetnykopter",
+                    "ru-RU": "Воздушный Мир"
+                },
+                "description": {
+                    "de-DE": "Alle Level von 'Hubschrauberangriff' geschafft",
+                    "en-US": "Completed all levels of Heli Assault",
+                    "es-ES": "Has completado todos los niveles de Asalto de helicóptero",
+                    "fr-FR": "Terminé: tous les niveaux d'Assaut hélico",
+                    "it-IT": "Completato tutti i livelli di Assalto in elicottero",
+                    "ja-JP": "「ヘリアサルト」の全レベルをクリアした",
+                    "ko-KR": "헬리콥터 습격의 모든 단계를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie poziomy \"Ataku z powietrza\".",
+                    "ru-RU": "Выполнены все уровни Воздушной Атаки"
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Level von 'Hubschrauberangriff'",
+                    "en-US": "Complete all levels of Heli Assault",
+                    "es-ES": "Haz todos los niveles de Asalto de helicóptero",
+                    "fr-FR": "Terminé: tous les niveaux d'Assaut hélico",
+                    "it-IT": "Completa tutti i livelli di Assalto in elicottero",
+                    "ja-JP": "「ヘリアサルト」の全レベルをクリアする",
+                    "ko-KR": "헬리콥터 습격의 모든 단계를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie poziomy \"Ataku z powietrza\".",
+                    "ru-RU": "Выполните все уровни Воздушной Атаки"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "14.png"
+        },
+        "68": {
+            "text": {
+                "name": {
+                    "de-DE": "Stuntman",
+                    "en-US": "Stuntman",
+                    "es-ES": "Doble",
+                    "fr-FR": "Cascadeur",
+                    "it-IT": "Stuntman",
+                    "ja-JP": "スタントマン",
+                    "ko-KR": "스턴트맨",
+                    "pl-PL": "Kaskader",
+                    "ru-RU": "Трюкач"
+                },
+                "description": {
+                    "de-DE": "Alle Level von 'Amokfahrt' geschafft",
+                    "en-US": "Completed all levels of Trail Blazing",
+                    "es-ES": "Has completado todos los niveles de Rastro llameante",
+                    "fr-FR": "Terminé: tous les niveaux de Traînée ardente",
+                    "it-IT": "Completato tutti i livelli di Palla di fuoco",
+                    "ja-JP": "「火だるまレース」の全レベルをクリアした",
+                    "ko-KR": "화염 질주의 모든 단계를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie poziomy \"Wypalania szlaku\".",
+                    "ru-RU": "Выполнены все уровни Пути огня"
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Level von 'Amokfahrt'",
+                    "en-US": "Complete all levels of Trail Blazing",
+                    "es-ES": "Haz todos los niveles de Carrera de fuego",
+                    "fr-FR": "Terminé: tous les niveaux de Traînée ardente",
+                    "it-IT": "Completa tutti i livelli di Palla di fuoco",
+                    "ja-JP": "「火だるまレース」の全レベルをクリアする",
+                    "ko-KR": "화염 질주의 모든 단계를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie poziomy \"Wypalania szlaku\".",
+                    "ru-RU": "Выполните все уровни Пути огня"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "15.png"
+        },
+        "69": {
+            "text": {
+                "name": {
+                    "de-DE": "Springer",
+                    "en-US": "Ambulance Chaser",
+                    "es-ES": "Perseguidor de ambulancias",
+                    "fr-FR": "Chasseur d'ambulances",
+                    "it-IT": "Cacciatore di ambulanze",
+                    "ja-JP": "天才詐欺師",
+                    "ko-KR": "악덕 변호사",
+                    "pl-PL": "Pościg za karetką",
+                    "ru-RU": "Преследователь Скорой помощи"
+                },
+                "description": {
+                    "de-DE": "Alle Level von 'Versicherungsbetrug' geschafft",
+                    "en-US": "Completed all levels of Insurance Fraud",
+                    "es-ES": "Has completado todos los niveles de Fraude al seguro",
+                    "fr-FR": "Terminé: tous les niveaux de Fraude à l'assurance",
+                    "it-IT": "Completato tutti i livelli di Frode assicurativa",
+                    "ja-JP": "「保険金詐欺」の全レベルをクリアした",
+                    "ko-KR": "보험 사기의 모든 단계를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie poziomy \"Przekrętu z ubezpieczeniem\".",
+                    "ru-RU": "Выполненные уровни Страхового Мошенничества"
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Level von 'Versicherungsbetrug'",
+                    "en-US": "Complete all levels of Insurance Fraud",
+                    "es-ES": "Haz todos los niveles de Fraude al seguro",
+                    "fr-FR": "Terminé: tous les niveaux de Fraude à l'assurance",
+                    "it-IT": "Completa tutti i livelli di Frode assicurativa",
+                    "ja-JP": "「保険金詐欺」の全レベルをクリアする",
+                    "ko-KR": "보험 사기의 모든 단계를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie poziomy \"Przekrętu z ubezpieczeniem\".",
+                    "ru-RU": "Пройдите все уровни Страхового Мошенничества"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "16.png"
+        },
+        "70": {
+            "text": {
+                "name": {
+                    "de-DE": "Abrissbirne",
+                    "en-US": "Wrecking Crew",
+                    "es-ES": "Demoledores",
+                    "fr-FR": "Équipe de choc",
+                    "it-IT": "Ciurma di naufraghi",
+                    "ja-JP": "解体業者",
+                    "ko-KR": "해체업자",
+                    "pl-PL": "Łomiarze",
+                    "ru-RU": "Команда по разлому"
+                },
+                "description": {
+                    "de-DE": "Alle Level von 'Vandalismus' geschafft",
+                    "en-US": "Completed all levels of Mayhem",
+                    "es-ES": "Has completado todos los niveles de Caos",
+                    "fr-FR": "Terminé: tous les niveaux de Chaos",
+                    "it-IT": "Completato tutti i livelli di Vandalismo",
+                    "ja-JP": "「メイヘム」の全レベルをクリアした",
+                    "ko-KR": "대난동의 모든 단계를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie poziomy \"Chaosu\".",
+                    "ru-RU": "Выполнены все уровни Насилия"
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Level von 'Vandalismus'",
+                    "en-US": "Complete all levels of Mayhem",
+                    "es-ES": "Haz todos los niveles de Caos",
+                    "fr-FR": "Terminé: tous les niveaux de Chaos",
+                    "it-IT": "Completa tutti i livelli di Vandalismo",
+                    "ja-JP": "「破壊」の全レベルをクリアする",
+                    "ko-KR": "대난동의 모든 단계를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie poziomy \"Chaosu\".",
+                    "ru-RU": "Выполните все уровни Насилия"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "17.png"
+        },
+        "71": {
+            "text": {
+                "name": {
+                    "de-DE": "Ferkeleiboss",
+                    "en-US": "Splatster Chief",
+                    "es-ES": "Jefe salpicador",
+                    "fr-FR": "Maître Aspergeur",
+                    "it-IT": "Master Schif",
+                    "ja-JP": "スプラットスター",
+                    "ko-KR": "악취미",
+                    "pl-PL": "Mistrz Chlapania",
+                    "ru-RU": "Шеф Грязи"
+                },
+                "description": {
+                    "de-DE": "Alle Level von 'Septischer Rächer' geschafft",
+                    "en-US": "Completed all levels of Septic Avenger",
+                    "es-ES": "Has completado todos los niveles de Vengador séptico",
+                    "fr-FR": "Terminé: tous les niveaux de Vidange-man",
+                    "it-IT": "Completato tutti i livelli di Vendicatore settico",
+                    "ja-JP": "「正義の汚水」の全レベルをクリアした",
+                    "ko-KR": "분뇨의 역류의 모든 단계를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie poziomy \"Zemsty szambiarza\".",
+                    "ru-RU": "Выполнены все уровни Грязного Мстителя"
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Level von 'Septischer Rächer'",
+                    "en-US": "Complete all levels of Septic Avenger",
+                    "es-ES": "Haz todos los niveles de Vengador séptico",
+                    "fr-FR": "Terminé: tous les niveaux de Vidange-man",
+                    "it-IT": "Completa tutti i livelli di Vendicatore settico",
+                    "ja-JP": "「正義の汚水」の全レベルをクリアする",
+                    "ko-KR": "분뇨의 역류의 모든 단계를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie poziomy \"Zemsty szambiarza\".",
+                    "ru-RU": "Выполните все уровни Грязного Мстителя"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "18.png"
+        },
+        "72": {
+            "text": {
+                "name": {
+                    "de-DE": "... Aber es macht Spaß",
+                    "en-US": "...But It Sure Is Fun",
+                    "es-ES": "... Seguro que mola",
+                    "fr-FR": "… Bonjour l'éclate",
+                    "it-IT": "...Ma certo che è divertente",
+                    "ja-JP": "でもやっぱり面白い",
+                    "ko-KR": "그래도 재미 하나는 확실하군",
+                    "pl-PL": "...Grunt to mieć radochę",
+                    "ru-RU": "…Но уверен, что это весело"
+                },
+                "description": {
+                    "de-DE": "Alle Level von 'Abgreifen' geschafft",
+                    "en-US": "Completed all levels of Snatch",
+                    "es-ES": "Has completado todos los niveles de Chuleo",
+                    "fr-FR": "Terminé: tous les niveaux de Mac à dames",
+                    "it-IT": "Completati tutti i livelli di Pappone",
+                    "ja-JP": "「スカウト」の全レベルをクリアした",
+                    "ko-KR": "스카우트의 모든 단계를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie poziomy \"Dziewczyn do wzięcia\".",
+                    "ru-RU": "Выполнены все уровни Пелотажа"
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Level von 'Abgreifen'",
+                    "en-US": "Complete all levels of Snatch",
+                    "es-ES": "Haz todos los niveles de Chuleo",
+                    "fr-FR": "Terminé: tous les niveaux de Mac à dames",
+                    "it-IT": "Completa tutti i livelli di Pappone",
+                    "ja-JP": "「スカウト」の全レベルをクリアする",
+                    "ko-KR": "스카우트의 모든 단계를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie poziomy \"Dziewczyn do wzięcia\".",
+                    "ru-RU": "Выполните все уровни Пелотажа"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "19.png"
+        },
+        "73": {
+            "text": {
+                "name": {
+                    "de-DE": "Blaues Halsband",
+                    "en-US": "Blue Collar",
+                    "es-ES": "Trabajador",
+                    "fr-FR": "Col bleu",
+                    "it-IT": "Collare blu",
+                    "ja-JP": "ブルーカラー",
+                    "ko-KR": "블루 칼라",
+                    "pl-PL": "Między nami robolami",
+                    "ru-RU": "Синий Воротник"
+                },
+                "description": {
+                    "de-DE": "Alle Level von 'Abschleppwagen', 'Feuerwehrwagen', 'Rettungswagen' und 'Taxi' geschafft",
+                    "en-US": "Completed all levels of Tow Truck, Fire Truck, Ambulance, and Taxi diversions",
+                    "es-ES": "Has superado todos los niveles de las distracciones Grúa, Coche de bomberos, Ambulancia y Taxi",
+                    "fr-FR": "Terminé: tous les niveaux des distractions Dépanneuse, Camion de pompier, Ambulance et Taxi",
+                    "it-IT": "Completato tutti i livelli di Carro attrezzi, Autopompa, Ambulanza e Taxi",
+                    "ja-JP": "「レッカー移動」、「消防士」、「救急救命士」、「タクシードライバー」のデバージョンの全レベルをクリアした",
+                    "ko-KR": "견인차, 소방차, 구급차, 택시 도전의 모든 단계를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie poziomy dywersji \"Pomoc drogowa\", \"Wóz strażacki\", \"Karetka\" i \"Taksówka\".",
+                    "ru-RU": "Выполнены все уровни Эвакуатора, Пожарной машины, Скорой помощи и Такси"
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Level von 'Abschleppwagen', 'Feuerwehrwagen', 'Rettungswagen' und 'Taxi'",
+                    "en-US": "Complete all levels of Tow Truck, Fire Truck, Ambulance, and Taxi diversions",
+                    "es-ES": "Haz todos los niveles de las distracciones Grúa, Coche de bomberos, Ambulancia y Taxi",
+                    "fr-FR": "Terminé: tous les niveaux des distractions Dépanneuse, Camion de pompier, Ambulance et Taxi",
+                    "it-IT": "Completa tutti i livelli di Carro attrezzi, Autopompa, Ambulanza e Taxi",
+                    "ja-JP": "「レッカー移動」、「消防士」、「救急救命士」、「タクシードライバー」のデバージョンの全レベルをクリアする",
+                    "ko-KR": "견인차, 소방차, 구급차, 택시 도전의 모든 단계를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie poziomy dywersji \"Pomoc drogowa\", \"Wóz strażacki\", \"Karetka\" i \"Taksówka\".",
+                    "ru-RU": "Выполните все уровни хулиганства Эвакуатора, Пожарной машины, Скорой помощи и Такси"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "20.png"
+        },
+        "74": {
+            "text": {
+                "name": {
+                    "de-DE": "Frosch von Stilwater",
+                    "en-US": "Duke of Stilwater",
+                    "es-ES": "Duque de Stilwater",
+                    "fr-FR": "Le duc de Stilwater",
+                    "it-IT": "Duca di Stilwater",
+                    "ja-JP": "デューク・オブ・スティルウォーター",
+                    "ko-KR": "스틸워터의 공작",
+                    "pl-PL": "Książę Stilwater",
+                    "ru-RU": "Герцог Стилуотера"
+                },
+                "description": {
+                    "de-DE": "Alle Stunt-Sprünge in Stilwater gefunden",
+                    "en-US": "Found all stunt jumps in Stilwater",
+                    "es-ES": "Has encontrado todos los saltos acrobáticos de Stilwater",
+                    "fr-FR": "Tous les stunts de Stilwater trouvés",
+                    "it-IT": "Trovato tutti i salti di Stilwater",
+                    "ja-JP": "スティルウォーター内の全スタントジャンプを発見した",
+                    "ko-KR": "스틸워터의 모든 스턴트 점프를 발견했습니다.",
+                    "pl-PL": "Znaleziono wszystkie przeszkody kaskaderskie w Stilwater.",
+                    "ru-RU": "Найдены все трюковые прыжки в Стилуотере"
+                },
+                "howto": {
+                    "de-DE": "Finde alle Stunt-Sprünge in Stilwater",
+                    "en-US": "Find all stunt jumps in Stilwater",
+                    "es-ES": "Encuentra todos los saltos acrobáticos de Stilwater",
+                    "fr-FR": "Tous les stunts de Stilwater trouvés",
+                    "it-IT": "Trova tutti i salti stunt di Stilwater",
+                    "ja-JP": "スティルウォーター内の全スタントジャンプを発見する",
+                    "ko-KR": "스틸워터에 있는 모든 스턴트 점프를 발견하십시오.",
+                    "pl-PL": "Znajdź wszystkie przeszkody w Stilwater.",
+                    "ru-RU": "Найдите все Трюковые прыжки в Стилуотере"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "21.png"
+        },
+        "75": {
+            "text": {
+                "name": {
+                    "de-DE": "Fliegerass",
+                    "en-US": "Maverick Goose",
+                    "es-ES": "Maverick Goose",
+                    "fr-FR": "Maverick et Goose ",
+                    "it-IT": "Mina vagante",
+                    "ja-JP": "マベリックグース",
+                    "ko-KR": "미운 거위 새끼",
+                    "pl-PL": "Samotna gęś",
+                    "ru-RU": "Маверик Гусь"
+                },
+                "description": {
+                    "de-DE": "Alle Flug-Stunts in Stilwater gefunden",
+                    "en-US": "Found all flying stunt locations in Stilwater",
+                    "es-ES": "Has encontrado todos los puntos de acrobacias aéreas de Stilwater",
+                    "fr-FR": "Tous les stunts aériens de Stilwater trouvés",
+                    "it-IT": "Trovato tutti i voli di Stilwater",
+                    "ja-JP": "スティルウォーター内の全空中スタントを発見した",
+                    "ko-KR": "스틸워터의 모든 비행 스턴트 지역을 발견했습니다.",
+                    "pl-PL": "Znaleziono wszystkie punkty akrobatyczne w Stilwater.",
+                    "ru-RU": "Найдены все воздушные точки Трюков в Стилуотере"
+                },
+                "howto": {
+                    "de-DE": "Finde alle Flug-Stunts in Stilwater",
+                    "en-US": "Find all flying stunt locations in Stilwater",
+                    "es-ES": "Encuentra todos los puntos de acrobacias aéreas de Stilwater",
+                    "fr-FR": "Tous les stunts aériens de Stilwater trouvés",
+                    "it-IT": "Trova tutti i voli stunt di Stilwater",
+                    "ja-JP": "スティルウォーター内の全空中スタントを発見する",
+                    "ko-KR": "스틸워터에 있는 모든 비행 스턴트 지역을 발견하십시오.",
+                    "pl-PL": "Znajdź wszystkie punkty akrobatyczne w Stilwater.",
+                    "ru-RU": "Найдите все воздушные трюки в Стилуотере"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "22.png"
+        },
+        "76": {
+            "text": {
+                "name": {
+                    "de-DE": "HiFi",
+                    "en-US": "Hi Fidelity",
+                    "es-ES": "Alta fidelidad",
+                    "fr-FR": "Haute Fidélité",
+                    "it-IT": "Alta fedeltà",
+                    "ja-JP": "ハイファイ",
+                    "ko-KR": "고음질",
+                    "pl-PL": "Hi-Fi",
+                    "ru-RU": "Высокое качество"
+                },
+                "description": {
+                    "de-DE": "Alle CDs in Stilwater gefunden",
+                    "en-US": "Found all CDs in Stilwater",
+                    "es-ES": "Has encontrado todos los CD de Stilwater",
+                    "fr-FR": "Tous les CD de Stilwater trouvés",
+                    "it-IT": "Trovato tutti i CD di Stilwater",
+                    "ja-JP": "スティルウォーター内の全 CD を発見した",
+                    "ko-KR": "스틸워터의 모든 CD를 발견했습니다.",
+                    "pl-PL": "Znaleziono wszystkie płyty CD w Stilwater.",
+                    "ru-RU": "Найдены все диски в Стилуотере"
+                },
+                "howto": {
+                    "de-DE": "Finde alle CDs in Stilwater",
+                    "en-US": "Find all CDs in Stilwater",
+                    "es-ES": "Encuentra todos los CD de Stilwater",
+                    "fr-FR": "Trouve tous les CD dans Stilwater",
+                    "it-IT": "Trova tutti i CD di Stilwater",
+                    "ja-JP": "スティルウォーター内の CD をすべて発見する",
+                    "ko-KR": "스틸워터에 있는 모든 CD를 발견하십시오.",
+                    "pl-PL": "Znajdź wszystkie płyty CD w Stilwater.",
+                    "ru-RU": "Найдите все CD в Стилуотере"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "23.png"
+        },
+        "77": {
+            "text": {
+                "name": {
+                    "de-DE": "Die ganze Stadt",
+                    "en-US": "All-City",
+                    "es-ES": "Toda la ciudad",
+                    "fr-FR": "À travers la ville",
+                    "it-IT": "Tutta la città",
+                    "ja-JP": "ストリートアーティスト",
+                    "ko-KR": "그라피티 제왕",
+                    "pl-PL": "Całe miasto",
+                    "ru-RU": "Весь город"
+                },
+                "description": {
+                    "de-DE": "Alle 50 Markierungsstellen in Stilwater gefunden",
+                    "en-US": "Found and sprayed all 50 tags in Stilwater",
+                    "es-ES": "Has encontrado y hecho los 50 graffitis de Stilwater",
+                    "fr-FR": "Tous les 50 tags de Stilwater trouvés et posés",
+                    "it-IT": "Trovato e dipinto tutte le 50 tag di Stilwater",
+                    "ja-JP": "スティルウォーター内の全 50タグを発見しスプレーした",
+                    "ko-KR": "스틸워터에 있는 50개의 모든 그라피티를 완료했습니다.",
+                    "pl-PL": "Znaleziono i zasprejowano wszystkie 50 miejsc do sprejowania w Stilwater.",
+                    "ru-RU": "Найдено и разрисовано 50 точек в Стилуотере"
+                },
+                "howto": {
+                    "de-DE": "Finde alle 50 Markierungsstellen in Stilwater",
+                    "en-US": "Find and spray all 50 tags in Stilwater",
+                    "es-ES": "Encuentra y haz los 50 graffitis de Stilwater",
+                    "fr-FR": "Trouve et pose les 50 tags de Stilwater",
+                    "it-IT": "Trova e dipingi tutte e 50 le tag a Stilwater",
+                    "ja-JP": "スティルウォーター内の 50個のタグをすべて発見しスプレーする",
+                    "ko-KR": "스틸워터에 있는 50개의 그라피티를 찾아 완료하십시오.",
+                    "pl-PL": "Znajdź i zasprejuj wszystkie 50 miejsc do zasprejowania w Stilwater.",
+                    "ru-RU": "Найдите и разрисуйте все 50 точек Стилуотера"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "24.png"
+        },
+        "78": {
+            "text": {
+                "name": {
+                    "de-DE": "Wo ist mein Auto?",
+                    "en-US": "Where's My Car?",
+                    "es-ES": "¿Dónde está mi coche?",
+                    "fr-FR": "Elle est où ma caisse?",
+                    "it-IT": "Dov'è la mia auto?",
+                    "ja-JP": "車はどこだ？",
+                    "ko-KR": "내 차 어디 있어?",
+                    "pl-PL": "Gdzie moja bryka?",
+                    "ru-RU": "Где моя машина?"
+                },
+                "description": {
+                    "de-DE": "Alle Autos zu den Werkstätten geliefert",
+                    "en-US": "Delivered all the cars to the chop shops",
+                    "es-ES": "Has llevado todos los coches a los talleres ilegales",
+                    "fr-FR": "Toutes les voitures demandées livrées au garage clandestin",
+                    "it-IT": "Consegnato tutte le auto ai rivenditori",
+                    "ja-JP": "全車をヤミ改造工場に配達した",
+                    "ko-KR": "불법 정비소로 모든 차를 전달했습니다.",
+                    "pl-PL": "Dostarczono wszystkie bryki do odpowiednich dziupli.",
+                    "ru-RU": "Доставлены все машины в мастерские."
+                },
+                "howto": {
+                    "de-DE": "Liefere alle Autos an die Werkstätten",
+                    "en-US": "Deliver all the cars to the chop shops",
+                    "es-ES": "Lleva todos los coches a los talleres ilegales",
+                    "fr-FR": "Livre toutes les voitures aux garages clandestins",
+                    "it-IT": "Consegna tutte le auto ai rivenditori",
+                    "ja-JP": "全車をヤミ改造工場に配達する",
+                    "ko-KR": "불법 정비소로 모든 차를 전달하십시오.",
+                    "pl-PL": "Dostarcz wszystkie bryki do odpowiednich dziupli.",
+                    "ru-RU": "Доставьте все машины в мастерскую"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "25.png"
+        },
+        "79": {
+            "text": {
+                "name": {
+                    "de-DE": "Hallo 47",
+                    "en-US": "Hello 47",
+                    "es-ES": "Hola 47",
+                    "fr-FR": "Salut 47",
+                    "it-IT": "Pronto 47",
+                    "ja-JP": "サインコード 47",
+                    "ko-KR": "안녕하신가? 47번",
+                    "pl-PL": "Cześć, 47",
+                    "ru-RU": "Привет 47"
+                },
+                "description": {
+                    "de-DE": "Alle Prügelknabenziele getötet",
+                    "en-US": "Killed all Hitman targets",
+                    "es-ES": "Has matado a todos los objetivos de sicario",
+                    "fr-FR": "Toutes les cibles Tueur à gages éliminées",
+                    "it-IT": "Ucciso tutti i bersagli da Killer",
+                    "ja-JP": "ヒットマンの標的をすべて始末した",
+                    "ko-KR": "히트맨 표적을 모두 살해했습니다.",
+                    "pl-PL": "Zabito wszystkie ofiary w \"Płatnym mordercy\".",
+                    "ru-RU": "Все цели киллера поражены"
+                },
+                "howto": {
+                    "de-DE": "Töte alle Prügelknabenziele",
+                    "en-US": "Kill all Hitman targets",
+                    "es-ES": "Mata a todos los objetivos de sicario",
+                    "fr-FR": "Élimine toutes les cibles Tueur à gages",
+                    "it-IT": "Uccidi tutti i bersagli da Killer",
+                    "ja-JP": "「ヒットマン」の標的をすべて始末する",
+                    "ko-KR": "히트맨 표적을 모두 살해하십시오.",
+                    "pl-PL": "Zabij wszystkie ofiary w \"Płatnym mordercy\".",
+                    "ru-RU": "Поразите все цели киллера"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "26.png"
+        },
+        "80": {
+            "text": {
+                "name": {
+                    "de-DE": "Pistensau",
+                    "en-US": "2 Quick 2 Pissed",
+                    "es-ES": "Muy rápido y muy borracho",
+                    "fr-FR": "Rapide et énervé",
+                    "it-IT": "Rapido e incazzato",
+                    "ja-JP": "ワイルドなスピード",
+                    "ko-KR": "너무 빨라 짜증",
+                    "pl-PL": "Szybcy i wkurzeni",
+                    "ru-RU": "Посмешишь - людей насмешишь"
+                },
+                "description": {
+                    "de-DE": "Alle Rennen in Stilwater geschafft",
+                    "en-US": "Completed all races in Stilwater",
+                    "es-ES": "Has completado todas las carreras de Stilwater",
+                    "fr-FR": "Terminé: toutes les courses de Stilwater",
+                    "it-IT": "Completato tutte le corse di Stilwater",
+                    "ja-JP": "スティルウォーター内の全レースをクリアした",
+                    "ko-KR": "스틸워터의 모든 경주를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie wyścigi w Stilwater.",
+                    "ru-RU": "Проведены все гонки в Стилуотере"
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Rennen in Stilwater",
+                    "en-US": "Complete all races in Stilwater",
+                    "es-ES": "Haz todas las carreras de Stilwater",
+                    "fr-FR": "Terminé: toutes les courses de Stilwater",
+                    "it-IT": "Completa tutte le corse di Stilwater",
+                    "ja-JP": "スティルウォーター内の全レースをクリアする",
+                    "ko-KR": "스틸워터의 모든 경주를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie wyścigi w Stilwater.",
+                    "ru-RU": "Выиграйте все гонки Стилуотера"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "27.png"
+        },
+        "81": {
+            "text": {
+                "name": {
+                    "de-DE": "Romeros Held",
+                    "en-US": "Romero's Hero",
+                    "es-ES": "Héroe de Romero",
+                    "fr-FR": "Le héros de Romero",
+                    "it-IT": "Eroe di Romero",
+                    "ja-JP": "ロメロ ヒーロー",
+                    "ko-KR": "로메로의 영웅",
+                    "pl-PL": "Bohater Romero",
+                    "ru-RU": "Герой Ромеро"
+                },
+                "description": {
+                    "de-DE": "Videospiel 'Aufstand der Zombies' geschafft",
+                    "en-US": "Completed the Zombie Uprising video game",
+                    "es-ES": "Has completado el videojuego Zombie Uprising",
+                    "fr-FR": "Terminé: le jeu vidéo Zombie Uprising",
+                    "it-IT": "Completato il gioco Attacco degli zombi",
+                    "ja-JP": "ゲーム「ゾンビの反乱」をクリアした",
+                    "ko-KR": "좀비들의 반란 비디오 게임을 완료했습니다.",
+                    "pl-PL": "Ukończono grę video Powstanie Zombie.",
+                    "ru-RU": "Пройдена игра \"Восстание зомби\""
+                },
+                "howto": {
+                    "de-DE": "Schaffe das Videospiel 'Aufstand der Zombies'",
+                    "en-US": "Complete the Zombie Uprising video game",
+                    "es-ES": "Completa el videojuego Zombie Uprising",
+                    "fr-FR": "Terminé: le jeu vidéo the Zombie Uprising ",
+                    "it-IT": "Completa il gioco Attacco degli zombi",
+                    "ja-JP": "ゲーム「ゾンビの反乱」をクリアする",
+                    "ko-KR": "좀비들의 반란 비디오 게임을 완료하십시오.",
+                    "pl-PL": "Ukończ grę video Powstanie Zombie.",
+                    "ru-RU": "Пройдите видеоигру \"Восстание зомби\""
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "28.png"
+        },
+        "82": {
+            "text": {
+                "name": {
+                    "de-DE": "Surf-König",
+                    "en-US": "Surf's Up",
+                    "es-ES": "Estrellas de surf",
+                    "fr-FR": "Surf",
+                    "it-IT": "Vai col surf!",
+                    "ja-JP": "サーフアップ",
+                    "ko-KR": "서핑의 계절",
+                    "pl-PL": "Surfujemy",
+                    "ru-RU": "Лови Волну"
+                },
+                "description": {
+                    "de-DE": "3 Goldsterne beim Fahrzeugsurfen geholt",
+                    "en-US": "Got 3 gold stars in Vehicle Surfing",
+                    "es-ES": "Has conseguido 3 estrellas de oro en Surfeo de vehículos",
+                    "fr-FR": "Trois étoiles d'or obtenues en Surf véhicules",
+                    "it-IT": "3 stelle d'oro in Surf su veicoli",
+                    "ja-JP": "「カーサーフィン」でゴールドスター 3個を獲得した",
+                    "ko-KR": "차량 서핑에서 금별 3개를 획득했습니다.",
+                    "pl-PL": "Zdobyto 3 złote gwiazdki w surfowaniu na samochodach.",
+                    "ru-RU": "Получены 3 золотых звезды в Серфинге на Машине"
+                },
+                "howto": {
+                    "de-DE": "Hole 3 Goldsterne bei 'Fahrzeugsurfen'",
+                    "en-US": "Get 3 gold stars in Vehicle Surfing",
+                    "es-ES": "Consigue 3 estrellas de oro en Surfeo de vehículos",
+                    "fr-FR": "Obtiens 3 étoiles d'or en Surf véhicules",
+                    "it-IT": "Ottieni 3 stelle d'oro in Surf su veicoli",
+                    "ja-JP": "「カーサーフィン」でゴールドスター 3個を獲得する",
+                    "ko-KR": "차량 서핑에서 금별 3개를 획득하십시오.",
+                    "pl-PL": "Zdobądź 3 złote gwiazdki w surfowaniu na samochodach.",
+                    "ru-RU": "Получите 3 золотых звезды за Серфинг На Машине"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "29.png"
+        },
+        "83": {
+            "text": {
+                "name": {
+                    "de-DE": "Willkommenskomitee",
+                    "en-US": "Stilwater Welcoming Commitee",
+                    "es-ES": "Comité de bienvenida",
+                    "fr-FR": "Comité d'accueil de Stilwater",
+                    "it-IT": "Comitato di accoglienza",
+                    "ja-JP": "スティルウォーター歓迎委員会",
+                    "ko-KR": "스틸워터 환영 위원회",
+                    "pl-PL": "Komitet powitalny Stilwater",
+                    "ru-RU": "Центр Приветствия Стилуотер"
+                },
+                "description": {
+                    "de-DE": "50 Bürger von Stilwater ausgeraubt",
+                    "en-US": "Mugged 50 citizens of Stilwater",
+                    "es-ES": "Has atracado a 50 ciudadanos de Stilwater",
+                    "fr-FR": "50 citoyens de Stilwater agressés",
+                    "it-IT": "Scippato 50 cittadini di Stilwater",
+                    "ja-JP": "スティルウォーター市民 50人から金品を強奪した",
+                    "ko-KR": "스틸워터의 시민 50명을 처치했습니다.",
+                    "pl-PL": "Napadnięto 50 obywateli Stilwater.",
+                    "ru-RU": "Ограблено 50 градан Стилуотера"
+                },
+                "howto": {
+                    "de-DE": "Meisterräuber",
+                    "en-US": "Master mugging",
+                    "es-ES": "Maestro en atracos",
+                    "fr-FR": "Maître braqueur",
+                    "it-IT": "Maestro scippatore",
+                    "ja-JP": "「強奪」をマスターする",
+                    "ko-KR": "강도질의 달인이 되십시오.",
+                    "pl-PL": "Mistrz rozboju",
+                    "ru-RU": "Мастер разбоя"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "30.png"
+        },
+        "84": {
+            "text": {
+                "name": {
+                    "de-DE": "Ich bin nicht süchtig!",
+                    "en-US": "I'm Not Addicted!",
+                    "es-ES": "¡No me he enganchado!",
+                    "fr-FR": "J'suis pas accro!",
+                    "it-IT": "Non ho il vizio!",
+                    "ja-JP": "中毒じゃない！",
+                    "ko-KR": "난 중독자가 아니야!",
+                    "pl-PL": "Nie mam żadnego nałogu!",
+                    "ru-RU": "Я не заражен!"
+                },
+                "description": {
+                    "de-DE": "Insgesamt $500.000 erspielt",
+                    "en-US": "Gambled $500,000 total lifetime",
+                    "es-ES": "Te has jugado un total acumulado de 500.000 $",
+                    "fr-FR": "500 000$ pariés",
+                    "it-IT": "Giocato d'azzardo 500.000$",
+                    "ja-JP": "合計で 50万ドルをギャンブルに使用した",
+                    "ko-KR": "총 $500,000의 현금을 도박에 사용했습니다.",
+                    "pl-PL": "Postawiono w sumie $500,000 w grach hazardowych.",
+                    "ru-RU": "Всего заработано на азартных играх: $500,000"
+                },
+                "howto": {
+                    "de-DE": "Casino-Ratte",
+                    "en-US": "Casino rat",
+                    "es-ES": "Rata de casino",
+                    "fr-FR": "Rat de casino",
+                    "it-IT": "Topo da casinò",
+                    "ja-JP": "カジノラット",
+                    "ko-KR": "인생은 도박입니다.",
+                    "pl-PL": "Szczur z kasyna",
+                    "ru-RU": "Крыса Казино"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "31.png"
+        },
+        "85": {
+            "text": {
+                "name": {
+                    "de-DE": "Au weia, meine Eia!",
+                    "en-US": "Aww Nuts!",
+                    "es-ES": "¡Toooma!",
+                    "fr-FR": "Dans les bijoux!",
+                    "it-IT": "Ohh cacchio!",
+                    "ja-JP": "集中攻撃",
+                    "ko-KR": "알 깨진다!",
+                    "pl-PL": "Ale jaja!",
+                    "ru-RU": "Ой, мои яйца!"
+                },
+                "description": {
+                    "de-DE": "100 Eierschüsse geschafft",
+                    "en-US": "Hit 100 lifetime nut shots",
+                    "es-ES": "Has pegado en total 100 tiros en la entrepierna",
+                    "fr-FR": "100 tirs dans les bijoux de famille",
+                    "it-IT": "Totalizzato 100 colpi bassi vita",
+                    "ja-JP": "合計で急所攻撃を 100回命中させた",
+                    "ko-KR": "100번의 급소 공격을 성공했습니다.",
+                    "pl-PL": "Strzelono 100 kopów w krocze.",
+                    "ru-RU": "100 попаданий в пах в течение игры."
+                },
+                "howto": {
+                    "de-DE": "Gehe ans Eingemachte",
+                    "en-US": "Aim for the family jewels",
+                    "es-ES": "Apunta a “donde más duele”",
+                    "fr-FR": "Vise les bijoux de famille",
+                    "it-IT": "Mira ai gioielli di famiglia",
+                    "ja-JP": "あそこを狙え",
+                    "ko-KR": "급소를 노리십시오.",
+                    "pl-PL": "Celuj w klejnoty.",
+                    "ru-RU": "Нацельтесь на семейные драгоценности"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "32.png"
+        },
+        "86": {
+            "text": {
+                "name": {
+                    "de-DE": "Labertasche",
+                    "en-US": "Trash Talker",
+                    "es-ES": "Pico de oro",
+                    "fr-FR": "Mauvaise langue",
+                    "it-IT": "Tamarro",
+                    "ja-JP": "口ばっかり",
+                    "ko-KR": "욕쟁이",
+                    "pl-PL": "Mistrz wyzwisk",
+                    "ru-RU": "Грязный Язык"
+                },
+                "description": {
+                    "de-DE": "50 Bandenmitglieder beleidigt",
+                    "en-US": "Taunted 50 gang members",
+                    "es-ES": "Has provocado a 50 miembros de bandas",
+                    "fr-FR": "50 membres de gangs adverses vannés",
+                    "it-IT": "Insultato 50 membri di gang",
+                    "ja-JP": "ギャング 50人を挑発した",
+                    "ko-KR": "50명의 갱 조직원을 도발했습니다.",
+                    "pl-PL": "Wydrwiono 50 członków gangów.",
+                    "ru-RU": "Оскорблено 50 членов вражеских банд"
+                },
+                "howto": {
+                    "de-DE": "Sei ein Hasser",
+                    "en-US": "Be a hater",
+                    "es-ES": "Sé un bocazas",
+                    "fr-FR": "Sois méchant",
+                    "it-IT": "Odia!",
+                    "ja-JP": "皆を憎め",
+                    "ko-KR": "세상을 마음껏 욕하십시오.",
+                    "pl-PL": "Zacznij nienawidzić wszystkiego i wszystkich.",
+                    "ru-RU": "Быть ненавистником"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "33.png"
+        },
+        "87": {
+            "text": {
+                "name": {
+                    "de-DE": "Wurfmeister",
+                    "en-US": "Going the Distance",
+                    "es-ES": "Hasta el final",
+                    "fr-FR": "À fond la caisse",
+                    "it-IT": "Arrivare in fondo",
+                    "ja-JP": "大遠投",
+                    "ko-KR": "멀리 멀리",
+                    "pl-PL": "Podróż w nieznane",
+                    "ru-RU": "Длинная дистанция"
+                },
+                "description": {
+                    "de-DE": "Jemanden 20 Meter oder weiter geworfen",
+                    "en-US": "Threw someone a long, long way",
+                    "es-ES": "Has lanzado a alguien a 20 metros o más",
+                    "fr-FR": "Personnage lancé à 20 mètres ou plus",
+                    "it-IT": "Lanciato qualcuno 20m o più",
+                    "ja-JP": "人間を遠方に投げた",
+                    "ko-KR": "누군가를 아주 멀리 던져버렸습니다.",
+                    "pl-PL": "Rzucono człowiekiem na 20 metrów lub dalej.",
+                    "ru-RU": "Бросил человека на 20 метров или дальше"
+                },
+                "howto": {
+                    "de-DE": "Wirf sehr weit",
+                    "en-US": "Throw down",
+                    "es-ES": "Lánzalo",
+                    "fr-FR": "Bagarre",
+                    "it-IT": "Lancia con tutte le tue forze",
+                    "ja-JP": "投げ落とせ",
+                    "ko-KR": "던져 버리십시오.",
+                    "pl-PL": "Wykonaj rzut.",
+                    "ru-RU": "Сброшен вниз"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "34.png"
+        },
+        "88": {
+            "text": {
+                "name": {
+                    "de-DE": "Liebe deinen Nächsten",
+                    "en-US": "Love Thy Neighbor",
+                    "es-ES": "Ama a tu vecino",
+                    "fr-FR": "Aime ton prochain",
+                    "it-IT": "Ama il prossimo tuo",
+                    "ja-JP": "隣人愛",
+                    "ko-KR": "이웃을 사랑하라",
+                    "pl-PL": "Miłuj sąsiada swego",
+                    "ru-RU": "Возлюби ближнего своего"
+                },
+                "description": {
+                    "de-DE": "50 menschliche Schilde benutzt",
+                    "en-US": "Grabbed 50 human shields",
+                    "es-ES": "Has usado a 50 personas como escudos humanos",
+                    "fr-FR": "50 boucliers humains attrapés",
+                    "it-IT": "Totalizzato 50 scudi umani",
+                    "ja-JP": "50人以上をヒューマンシールドとして使った",
+                    "ko-KR": "50명을 인간 방패로 사용했습니다.",
+                    "pl-PL": "Złapano 50 ludzkich tarcz.",
+                    "ru-RU": "Захвачено 50 человек в качестве живого щита"
+                },
+                "howto": {
+                    "de-DE": "Halte zu deinen Freunden",
+                    "en-US": "Hold on to your friends",
+                    "es-ES": "Sé amigo de tus amigos",
+                    "fr-FR": "Garde tes amis",
+                    "it-IT": "Supporta i tuoi amici",
+                    "ja-JP": "友達を大事にしろ",
+                    "ko-KR": "친구를 소중히 대하십시오.",
+                    "pl-PL": "Trzymaj się przyjaciół.",
+                    "ru-RU": "Держитесь с друзьями"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "35.png"
+        },
+        "89": {
+            "text": {
+                "name": {
+                    "de-DE": "Soprano",
+                    "en-US": "Soprano",
+                    "es-ES": "Soprano",
+                    "fr-FR": "Soprano",
+                    "it-IT": "Soprano",
+                    "ja-JP": "ソプラノ",
+                    "ko-KR": "소프라노",
+                    "pl-PL": "Soprano",
+                    "ru-RU": "Сопрано"
+                },
+                "description": {
+                    "de-DE": "Zum Radio gesungen",
+                    "en-US": "Sung along to the radio",
+                    "es-ES": "Has cantado con la radio",
+                    "fr-FR": "A chanté avec la radio",
+                    "it-IT": "Cantato insieme alla radio",
+                    "ja-JP": "ラジオに合わせて歌った",
+                    "ko-KR": "라디오에 맞춰 노래했습니다.",
+                    "pl-PL": "Śpiewano razem z radiem.",
+                    "ru-RU": "Исполнено по радио"
+                },
+                "howto": {
+                    "de-DE": "Finde den Song, der zu dir singt",
+                    "en-US": "Find that song that sings to you",
+                    "es-ES": "Encuentra esa canción que te hace cantar",
+                    "fr-FR": "Trouve cette chanson",
+                    "it-IT": "Trova la tua canzone preferita",
+                    "ja-JP": "心に響くあの歌を見つけろ",
+                    "ko-KR": "플레이어에게 맞는 노래를 찾으십시오.",
+                    "pl-PL": "Znajdź tę specjalną piosenkę dla siebie.",
+                    "ru-RU": "Найдите песню"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "36.png"
+        },
+        "91": {
+            "text": {
+                "name": {
+                    "de-DE": "Duellant",
+                    "en-US": "Duelist",
+                    "es-ES": "Duelista",
+                    "fr-FR": "Duelliste",
+                    "it-IT": "Duellante",
+                    "ja-JP": "決闘者",
+                    "ko-KR": "결투의 대가",
+                    "pl-PL": "Pojedynek",
+                    "ru-RU": "Дуэлянт"
+                },
+                "description": {
+                    "de-DE": "Alle Ronin-Aufträge im Koop-Modus geschafft",
+                    "en-US": "Completed all Ronin missions in co-op",
+                    "es-ES": "Has completado en modo cooperativo todas las misiones de los Ronin",
+                    "fr-FR": "Terminé: toutes les missions Ronin en Coop",
+                    "it-IT": "Completato tutte le missioni Ronin in coop",
+                    "ja-JP": "協力プレイでローニンのミッションをすべてクリアした",
+                    "ko-KR": "협동 모드로 모든 낭인단 임무를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie misje Roninów w trybie współpracy.",
+                    "ru-RU": "Пройдены все миссии Ронинов в совместной игре"
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Ronin-Aufträge im Koop-Modus",
+                    "en-US": "Complete all Ronin missions in co-op",
+                    "es-ES": "Haz en modo cooperativo todas las misiones de los Ronin",
+                    "fr-FR": "Terminé: toutes les missions Ronin en Coop",
+                    "it-IT": "Completa tutte le missioni Ronin in coop",
+                    "ja-JP": "協力プレイでローニンのミッションをすべてクリアする",
+                    "ko-KR": "협동 모드에서 모든 낭인단 임무를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie misje Roninów w trybie współpracy.",
+                    "ru-RU": "Выполните все совместные миссии Ронин"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "37.png"
+        },
+        "92": {
+            "text": {
+                "name": {
+                    "de-DE": "Grasglück",
+                    "en-US": "Pot Luck",
+                    "es-ES": "Fin de fiesta",
+                    "fr-FR": "Lucky ganja",
+                    "it-IT": "Pro fumato",
+                    "ja-JP": "持ち寄りパーティー",
+                    "ko-KR": "끼니 때우기",
+                    "pl-PL": "Trawiaste szczęście",
+                    "ru-RU": "Шанс"
+                },
+                "description": {
+                    "de-DE": "Alle Samedi-Aufträge im Koop-Modus geschafft",
+                    "en-US": "Completed all Samedi missions in co-op",
+                    "es-ES": "Has completado en modo cooperativo todas las misiones de los Samedi",
+                    "fr-FR": "Terminé: toutes les missions Samedi en Coop",
+                    "it-IT": "Completato tutte le missioni Samedi in coop",
+                    "ja-JP": "協力プレイでサムディのミッションをすべてクリアした",
+                    "ko-KR": "협동 모드로 모든 사메디 임무를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie misje Samedi w trybie współpracy.",
+                    "ru-RU": "Пройдены все миссии Самеди в совместной игре"
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Samedi-Aufträge im Koop-Modus",
+                    "en-US": "Complete all Samedi missions in co-op",
+                    "es-ES": "Haz en modo cooperativo todas las misiones de los Samedi",
+                    "fr-FR": "Terminé: toutes les missions Samedi en Coop",
+                    "it-IT": "Completa tutte le missioni Samedi in coop",
+                    "ja-JP": "協力プレイでサムディのミッションをすべてクリアする",
+                    "ko-KR": "협동 모드에서 모든 사메디 임무를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie misje Samedi w trybie współpracy.",
+                    "ru-RU": "Выполните все миссии Самеди в совместной игре"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "38.png"
+        },
+        "93": {
+            "text": {
+                "name": {
+                    "de-DE": "Von Geburt an getrennt",
+                    "en-US": "Separated at Birth",
+                    "es-ES": "Separados al nacer",
+                    "fr-FR": "Séparés à la naissance",
+                    "it-IT": "Separati alla nascita",
+                    "ja-JP": "生き別れ",
+                    "ko-KR": "고아로 태어나",
+                    "pl-PL": "Rozdzieleni w kolebce",
+                    "ru-RU": "Разделенные при рождении"
+                },
+                "description": {
+                    "de-DE": "Alle Bruderschaft-Aufträge im Koop-Modus geschafft",
+                    "en-US": "Completed all Brotherhood missions in co-op",
+                    "es-ES": "Has completado en modo cooperativo todas las misiones de la Brotherhood",
+                    "fr-FR": "Terminé: toutes les missions Brotherhood en Coop",
+                    "it-IT": "Completato tutte le missioni Brotherhood in coop",
+                    "ja-JP": "協力プレイでブラザーフッドのミッションをすべてクリアした",
+                    "ko-KR": "협동 모드로 모든 형제단 임무를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie misje Bractwa w trybie współpracy.",
+                    "ru-RU": "Пройдены все миссии Братства в совместной игре"
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Bruderschaft-Aufträge im Koop-Modus",
+                    "en-US": "Complete all Brotherhood missions in co-op",
+                    "es-ES": "Haz en modo cooperativo todas las misiones de la Brotherhood",
+                    "fr-FR": "Terminé: toutes les missions Brotherhood en Coop",
+                    "it-IT": "Completa tutte le missioni Brotherhood in coop",
+                    "ja-JP": "協力プレイでブラザーフッドのミッションをすべてクリアする",
+                    "ko-KR": "협동 모드에서 모든 형제단 임무를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie misje Bractwa w trybie współpracy.",
+                    "ru-RU": "Выполните все миссии Братства в совместной игре."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "39.png"
+        },
+        "94": {
+            "text": {
+                "name": {
+                    "de-DE": "Verbrechenspartner",
+                    "en-US": "Partners in Crime",
+                    "es-ES": "Socios en el crimen",
+                    "fr-FR": "Association de malfaiteurs",
+                    "it-IT": "Partner nel crimine",
+                    "ja-JP": "共犯者たち",
+                    "ko-KR": "공범자들",
+                    "pl-PL": "Wspólnicy",
+                    "ru-RU": "Сообщники"
+                },
+                "description": {
+                    "de-DE": "Alle Kampagnen-Aufträge im Koop-Modus geschafft",
+                    "en-US": "Completed all campaign missions in co-op",
+                    "es-ES": "Has completado en modo cooperativo todas las misiones de campaña",
+                    "fr-FR": "Terminé: toutes les missions de campagne en Coop",
+                    "it-IT": "Completato tutte le missioni campagna in coop",
+                    "ja-JP": "協力プレイでストーリーミッションをすべてクリアした",
+                    "ko-KR": "협동 모드로 모든 캠페인 임무를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie misje kampanii w trybie współpracy.",
+                    "ru-RU": "Пройдены все миссии кампании в совместной игре"
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Kampagnen-Aufträge im Koop-Modus",
+                    "en-US": "Complete all campaign missions in co-op",
+                    "es-ES": "Haz en modo cooperativo todas las misiones de campaña",
+                    "fr-FR": "Terminé: toutes les missions de campagne en Coop",
+                    "it-IT": "Completa tutte le missioni campagna in coop",
+                    "ja-JP": "協力プレイでストーリーミッションをすべてクリアする",
+                    "ko-KR": "협동 모드에서 모든 캠페인 임무를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie misje kampanii w trybie współpracy.",
+                    "ru-RU": "Выполните все миссии Кампании в Совместной Игре"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "100",
+            "imageId": "40.png"
+        },
+        "96": {
+            "text": {
+                "name": {
+                    "de-DE": "Tolles Team",
+                    "en-US": "Confidence Men",
+                    "es-ES": "Estafadores",
+                    "fr-FR": "Des hommes de confidence",
+                    "it-IT": "Uomini sicuri di sé",
+                    "ja-JP": "ペテン師",
+                    "ko-KR": "컨피던스 맨",
+                    "pl-PL": "Naciągacze",
+                    "ru-RU": "Мошенники"
+                },
+                "description": {
+                    "de-DE": "Alle Aktivitäten im Koop-Modus geschafft",
+                    "en-US": "Completed all levels of all activities in co-op",
+                    "es-ES": "Has completado en modo cooperativo los niveles de todas las actividades",
+                    "fr-FR": "Terminé: tous les niveaux de toutes les activités en Coop",
+                    "it-IT": "Completato tutti i livelli di tutti i diversivi in coop",
+                    "ja-JP": "協力プレイで全アクティビティの全レベルをクリアした",
+                    "ko-KR": "협동 모드에서 모든 보조 임무의 모든 단계를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie poziomy wszystkich akcji w trybie współpracy.",
+                    "ru-RU": "Пройдены все уровни заданий в совместной игре"
+                },
+                "howto": {
+                    "de-DE": "Schaffe alle Level von allen Aktivitäten im Koop-Modus",
+                    "en-US": "Complete all levels of all activities in co-op",
+                    "es-ES": "Haz en modo cooperativo los niveles de todas las actividades",
+                    "fr-FR": "Terminé: tous les niveaux de toutes les activités en Coop",
+                    "it-IT": "Completa tutti i livelli di tutte le modalità in coop",
+                    "ja-JP": "協力プレイで全アクティビティの全レベルをクリアする",
+                    "ko-KR": "협동 모드에서 모든 보조 임무의 모든 단계를 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie poziomy wszystkich akcji w trybie współpracy.",
+                    "ru-RU": "Выполните все уровни совместных заданий"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "41.png"
+        },
+        "99": {
+            "text": {
+                "name": {
+                    "de-DE": "Saints Sieben",
+                    "en-US": "Saint's Seven",
+                    "es-ES": "Los siete de Saints",
+                    "fr-FR": "Les sept Saints",
+                    "it-IT": "I Sette Saints",
+                    "ja-JP": "セインツセブン",
+                    "ko-KR": "세인츠 세븐",
+                    "pl-PL": "Siódemka Świętego",
+                    "ru-RU": "Семерка Святых"
+                },
+                "description": {
+                    "de-DE": "Alle sieben Ranglisten-Aktivitäten auf allen sieben Karten von 'Starker Arm' gewonnen",
+                    "en-US": "Won all seven Ranked Strong Arm Activities, and won on all seven Strong Arm maps",
+                    "es-ES": "Has ganado las siete actividades de partida igualada y los siete mapas de Mano dura.",
+                    "fr-FR": "Victoire dans les sept activités de Bras de fer avec classement et sur les sept cartes Bras de fer",
+                    "it-IT": "Vinte le sette partite classificate della modalità Picchiatore vincendo su ognuna delle sette mappe",
+                    "ja-JP": "7 つのストロングアームのアクティビティ、および 7つのストロングアームのマップすべてで勝利した",
+                    "ko-KR": "모든 일곱 개의 랭킹 구역 쟁탈전의 보조 임무에서 승리하고 모든 일곱 개의 구역 쟁탈전의 지도에서 승리",
+                    "pl-PL": "Wygrano wszystkich siedem rankingowych akcji Silnej Ręki i wygrano na siedmiu mapach Silnej Ręki.",
+                    "ru-RU": "Победа во всех семи рейтинговых деятельностях Применения силы и всех семи картах Применения силы"
+                },
+                "howto": {
+                    "de-DE": "Gewinne alle sieben Ranglisten-Aktivitäten auf allen sieben Karten von 'Starker Arm'",
+                    "en-US": "Win all seven Ranked Strong Arm Activities, and win on all seven Strong Arm maps",
+                    "es-ES": "Gana las siete actividades de partida igualada y los siete mapas de Mano dura.",
+                    "fr-FR": "Gagne les sept activités de Bras de fer avec classement et les sept cartes Bras de fer",
+                    "it-IT": "Vinte le sette partite classificate della modalità Picchiatore vincendo su ognuna delle sette mappe",
+                    "ja-JP": "7つのストロングアームのアクティビティ、および 7つのストロングアームのマップすべてで勝利する",
+                    "ko-KR": "일곱 개의 모든 랭킹 구역 쟁탈전의 보조 임무에서 승리하고 모든 일곱 개의 구역 쟁탈전의 지도에서 승리하십시오.",
+                    "pl-PL": "Wygraj wszystkich siedem rankingowych akcji Silnej Ręki i wygraj na siedmiu mapach Silnej Ręki.",
+                    "ru-RU": "Выиграйте все семь ранговых подработок Применения силы и все карты Применения силы"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "42.png"
+        },
+        "100": {
+            "text": {
+                "name": {
+                    "de-DE": "Verbreite die Liebe",
+                    "en-US": "Spread the Love",
+                    "es-ES": "Reparte amor",
+                    "fr-FR": "La bonne parole",
+                    "it-IT": "Diffondi l'amore",
+                    "ja-JP": "愛のお裾分け",
+                    "ko-KR": "사랑의 메신저",
+                    "pl-PL": "Dziel się miłością",
+                    "ru-RU": "Благотворительная вечеринка"
+                },
+                "description": {
+                    "de-DE": "Ein Xbox LIVE-Gruppenspiel gehostet und gewonnen",
+                    "en-US": "Created and won an Xbox LIVE Party Game",
+                    "es-ES": "Partida Xbox LIVE de grupo creada y ganada",
+                    "fr-FR": "A créé et gagné une Partie libre sur Xbox LIVE",
+                    "it-IT": "Partita party Xbox LIVE creata e vinta",
+                    "ja-JP": "パーティーゲームを作成し、勝利した",
+                    "ko-KR": "파티 게임을 생성하고 승리했습니다.",
+                    "pl-PL": "Stworzono i wygrano grę towarzyską Xbox LIVE",
+                    "ru-RU": "Создана командная игра и выиграна"
+                },
+                "howto": {
+                    "de-DE": "Ein Xbox LIVE-Gruppenspiel hosten und gewinnen",
+                    "en-US": "Host and win an Xbox LIVE Party Game",
+                    "es-ES": "Aloja y gana una partida Xbox LIVE de grupo",
+                    "fr-FR": "Héberge et remporte une Partie libre sur Xbox LIVE",
+                    "it-IT": "Ospita e vinci Partita party Xbox LIVE",
+                    "ja-JP": "Xbox LIVE パーティーゲームを作成し、勝利する",
+                    "ko-KR": "파티 게임의 호스트가 되어 승리하십시오.",
+                    "pl-PL": "Stwórz i wygraj grę towarzyską Xbox LIVE.",
+                    "ru-RU": "Создайте командную игру и победите в ней"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "43.png"
+        },
+        "102": {
+            "text": {
+                "name": {
+                    "de-DE": "Rowdy",
+                    "en-US": "Hoodlum",
+                    "es-ES": "Matón",
+                    "fr-FR": "Voyou",
+                    "it-IT": "Malvivente",
+                    "ja-JP": "チンピラ",
+                    "ko-KR": "깡패",
+                    "pl-PL": "Bandzior",
+                    "ru-RU": "Громила"
+                },
+                "description": {
+                    "de-DE": "Im Mehrspielermodus 7 Abzeichen verdient",
+                    "en-US": "Earned 7 Badges in multiplayer",
+                    "es-ES": "Has conseguido 7 insignias en modo multijugador",
+                    "fr-FR": "A gagné 7 badges en multijoueur",
+                    "it-IT": "7 tesserini guadagnati in multigiocatore",
+                    "ja-JP": "マルチプレイヤーで 7個のバッジを獲得した",
+                    "ko-KR": "멀티 플레이에서 7개의 배지를 획득했습니다.",
+                    "pl-PL": "Zdobyto 7 odznak w grze wieloosobowej.",
+                    "ru-RU": "Заработано 7 жетонов в многопользовательской игре"
+                },
+                "howto": {
+                    "de-DE": "Verdiene dir 7 Mehrspieler-Abzeichen",
+                    "en-US": "Earn 7 Multiplayer Badges",
+                    "es-ES": "Gana 7 insignias de multijugador",
+                    "fr-FR": "Gagne 7 badges en multijoueur",
+                    "it-IT": "Guadagna 7 tesserini multigiocatore",
+                    "ja-JP": "マルチプレイヤーで 7個のバッジを獲得する",
+                    "ko-KR": "7개의 멀티 플레이 배지를 획득하십시오.",
+                    "pl-PL": "Zdobądź 7 odznak w grze wieloosobowej.",
+                    "ru-RU": "Получите 7 жетонов Боевиков"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "44.png"
+        },
+        "103": {
+            "text": {
+                "name": {
+                    "de-DE": "Könner",
+                    "en-US": "Made",
+                    "es-ES": "Curtido",
+                    "fr-FR": "Affranchi",
+                    "it-IT": "Arrivato",
+                    "ja-JP": "幹部候補",
+                    "ko-KR": "행동 대장",
+                    "pl-PL": "Przyjęty",
+                    "ru-RU": "Сделано"
+                },
+                "description": {
+                    "de-DE": "Im Mehrspielermodus 15 Abzeichen verdient",
+                    "en-US": "Earned 15 Badges in multiplayer",
+                    "es-ES": "Has conseguido 15 insignias en modo multijugador",
+                    "fr-FR": "A gagné 15 badges en multijoueur",
+                    "it-IT": "15 tesserini guadagnati in multigiocatore",
+                    "ja-JP": "マルチプレイヤーで 15個のバッジを獲得した",
+                    "ko-KR": "멀티 플레이에서 15개의 배지를 획득했습니다.",
+                    "pl-PL": "Zdobyto 15 odznak w grze wieloosobowej.",
+                    "ru-RU": "Заработано 15 жетонов в многопользовательской игре"
+                },
+                "howto": {
+                    "de-DE": "Verdiene dir 15 Mehrspieler-Abzeichen",
+                    "en-US": "Earn 15 Multiplayer Badges",
+                    "es-ES": "Gana 15 insignias de multijugador",
+                    "fr-FR": "Gagne 15 badges en multijoueur",
+                    "it-IT": "Guadagna 15 tesserini multigiocatore",
+                    "ja-JP": "マルチプレイヤーで 15個のバッジを獲得する",
+                    "ko-KR": "15개의 멀티 플레이 배지를 획득하십시오.",
+                    "pl-PL": "Zdobądź 15 odznak w grze wieloosobowej.",
+                    "ru-RU": "Получите 15 жетонов Боевиков"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "45.png"
+        },
+        "104": {
+            "text": {
+                "name": {
+                    "de-DE": "Don",
+                    "en-US": "Kingpin",
+                    "es-ES": "Capo",
+                    "fr-FR": "Big Boss",
+                    "it-IT": "Boss",
+                    "ja-JP": "大物",
+                    "ko-KR": "두목",
+                    "pl-PL": "Gruba ryba",
+                    "ru-RU": "Босс"
+                },
+                "description": {
+                    "de-DE": "Im Mehrspielermodus 30 Abzeichen verdient",
+                    "en-US": "Earned 30 Badges in multiplayer",
+                    "es-ES": "Has conseguido 30 insignias en modo multijugador",
+                    "fr-FR": "A gagné 30 badges en multijoueur",
+                    "it-IT": "30 tesserini guadagnati in multigiocatore",
+                    "ja-JP": "マルチプレイヤーで 30個のバッジを獲得した",
+                    "ko-KR": "멀티 플레이에서 30개의 배지를 획득했습니다.",
+                    "pl-PL": "Zdobyto 30 odznak w grze wieloosobowej.",
+                    "ru-RU": "Заработаны все 30 жетонов в многопользовательской игре"
+                },
+                "howto": {
+                    "de-DE": "Verdiene dir 30 Mehrspieler-Abzeichen",
+                    "en-US": "Earn 30 Multiplayer Badges",
+                    "es-ES": "Gana 30 insignias de multijugador",
+                    "fr-FR": "Gagne 30 badges en multijoueur",
+                    "it-IT": "Guadagna 30 tesserini multigiocatore",
+                    "ja-JP": "マルチプレイヤーで 30個のバッジを獲得する",
+                    "ko-KR": "30개의 멀티 플레이 배지를 획득하십시오.",
+                    "pl-PL": "Zdobądź 30 odznak w grze wieloosobowej.",
+                    "ru-RU": "Получите все жетоны Боевиков"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "46.png"
+        },
+        "101": {
+            "text": {
+                "name": {
+                    "de-DE": "Getestet",
+                    "en-US": "Tested",
+                    "es-ES": "Probado",
+                    "fr-FR": "Le test",
+                    "it-IT": "Testato",
+                    "ja-JP": "試験済み",
+                    "ko-KR": "시험 통과",
+                    "pl-PL": "Sprawdzony",
+                    "ru-RU": "Проверено"
+                },
+                "description": {
+                    "de-DE": "10 Xbox LIVE Spiele von 'Starker Arm' gewonnen",
+                    "en-US": "Won 10 Xbox LIVE Strong Arm matches",
+                    "es-ES": "Has ganado 10 Xbox LIVE partidas de Mano dura",
+                    "fr-FR": "10 Xbox LIVE matchs Bras de fer gagnés",
+                    "it-IT": "Vinte 10 Xbox LIVE partite Picchiatore",
+                    "ja-JP": "ストロングアームのマッチで 10勝を上げた",
+                    "ko-KR": "10개의 Xbox LIVE 구역 쟁탈전 매치에서 승리",
+                    "pl-PL": "Wygrano 10 Xbox LIVE gier Silnej Ręki.",
+                    "ru-RU": "Выиграно 10 матчей Применения силы Xbox LIVE"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 10 Xbox LIVE Spiele bei 'Starker Arm'",
+                    "en-US": "Win 10 Xbox LIVE Strong Arm matches",
+                    "es-ES": "Has ganado 10 Xbox LIVE partidas de Mano dura",
+                    "fr-FR": "Gagne 10 Xbox LIVE matchs Bras de fer",
+                    "it-IT": "Vinte 10 Xbox LIVE partite Picchiatore",
+                    "ja-JP": "Xbox LIVEのストロングアームマッチで 10勝する",
+                    "ko-KR": "10개의 Xbox LIVE 구역 쟁탈전 매치에서 승리하십시오.",
+                    "pl-PL": "Wygraj 10 Xbox LIVE gier Silnej Ręki",
+                    "ru-RU": "Выиграйте 10 матчей Применения силы Xbox LIVE"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "47.png"
+        },
+        "98": {
+            "text": {
+                "name": {
+                    "de-DE": "Mit Starkem Arm",
+                    "en-US": "Strong Armed",
+                    "es-ES": "Con mano dura",
+                    "fr-FR": "Bras de fer",
+                    "it-IT": "Picchiatore",
+                    "ja-JP": "ストロングアーム",
+                    "ko-KR": "구역 쟁탈전",
+                    "pl-PL": "Silna Ręka",
+                    "ru-RU": "Реально силен"
+                },
+                "description": {
+                    "de-DE": "Das Tutorial von 'Starker Arm' geschafft",
+                    "en-US": "Completed the Strong Arm tutorial",
+                    "es-ES": "Has hecho el tutorial de Mano dura",
+                    "fr-FR": "Terminé: didacticiel du Bras de fer",
+                    "it-IT": "Completato il tutorial Picchiatore",
+                    "ja-JP": "「ストロングアーム」のチュートリアルをクリアする",
+                    "ko-KR": "구역 쟁탈전 튜토리얼을 완료했습니다.",
+                    "pl-PL": "Ukończono samouczek Silnej Ręki.",
+                    "ru-RU": "Обучение Применению силы пройдено"
+                },
+                "howto": {
+                    "de-DE": "Schaffe das Tutorial von 'Starker Arm'",
+                    "en-US": "Complete the Strong Arm tutorial",
+                    "es-ES": "Haz el tutorial de Mano dura",
+                    "fr-FR": "Terminé: didacticiel du Bras de fer",
+                    "it-IT": "Completa il tutorial Picchiatore",
+                    "ja-JP": "「ストロングアーム」のチュートリアルをクリアする",
+                    "ko-KR": "구역 쟁탈전 튜토리얼을 완료하십시오.",
+                    "pl-PL": "Ukończ samouczek Silnej Ręki.",
+                    "ru-RU": "Завершите обучение Применению силы"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "48.png"
+        },
+        "97": {
+            "text": {
+                "name": {
+                    "de-DE": "Wahrer Kumpel",
+                    "en-US": "True Pal",
+                    "es-ES": "Amigo de verdad",
+                    "fr-FR": "Vrai pote",
+                    "it-IT": "Vero amico",
+                    "ja-JP": "真の友人",
+                    "ko-KR": "진정한 친구",
+                    "pl-PL": "Prawdziwy kumpel",
+                    "ru-RU": "Настоящий друг"
+                },
+                "description": {
+                    "de-DE": "Partner in einem Koop-Minispiel besiegt",
+                    "en-US": "Defeated your partner in a co-op diversion",
+                    "es-ES": "Has derrotado a tu compañero en una distracción en modo cooperativo",
+                    "fr-FR": "Coéquipier battu dans une distraction Coop",
+                    "it-IT": "Sconfitto l'altro giocatore in diversivo coop",
+                    "ja-JP": "協力プレイのデバージョンでパートナーを打倒した",
+                    "ko-KR": "협동 모드의 도전에서 동료 플레이어를 죽였습니다.",
+                    "pl-PL": "Udało ci się pokonać partnera w dywersji w trybie współpracy.",
+                    "ru-RU": "Превзошел партнера в совместном хулиганстве"
+                },
+                "howto": {
+                    "de-DE": "Besiege deinen Partner in einem Koop-Minispiel",
+                    "en-US": "Defeat your partner in a co-op diversion",
+                    "es-ES": "Derrota a tu compañero en una distracción en modo cooperativo",
+                    "fr-FR": "Mets ton coéquipier à l'amende dans une distraction Coop",
+                    "it-IT": "Sconfiggi l'altro giocatore in un diversivo coop",
+                    "ja-JP": "協力プレイのデバージョンでパートナーを打倒する",
+                    "ko-KR": "협동 모드의 도전에서 동료 플레이어를 처치하십시오.",
+                    "pl-PL": "Pokonaj partnera w dywersji w trybie współpracy.",
+                    "ru-RU": "Превзойдите партнера в хулиганстве."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "49.png"
+        },
+        "90": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Row verfallen",
+                    "en-US": "Still Addicted to tha Row",
+                    "es-ES": "Sigo enganchado al Row",
+                    "fr-FR": "Toujours accro au Row",
+                    "it-IT": "Drogato di Saints Row",
+                    "ja-JP": "まだまだローはやめられない",
+                    "ko-KR": "세인츠 로우 중독자",
+                    "pl-PL": "Nadal w nałogu Row",
+                    "ru-RU": "Все еще привязан к кварталу"
+                },
+                "description": {
+                    "de-DE": "Saints Row 2 in Einzelspieler- oder Koop-Modus für gesamt mindestens 50 Stunden gespielt",
+                    "en-US": "Played Saints Row 2 in single player or co-op for a combined 50 hours",
+                    "es-ES": "Has jugado a Saints Row 2 para un jugador o en modo cooperativo un total de 50 horas",
+                    "fr-FR": "Tu as joué à Saints Row 2 en solo ou Coop pendant un total de 50 heures",
+                    "it-IT": "Giocato Saints Row 2 giocatore singolo o coop per 50 ore",
+                    "ja-JP": "Saints Row 2 をシングルプレイヤーまたは協力プレイで合わせて50時間プレイした",
+                    "ko-KR": "50시간 동안 세인츠 로우 2의 싱글 모드를 플레이했습니다.",
+                    "pl-PL": "Gra w Saints Row 2 w trybie gry jednoosobowej albo w trybie współpracy trwała w sumie 50 godzin.",
+                    "ru-RU": "Общее время во всех режимах игры Saints Row 2 - 50 часов"
+                },
+                "howto": {
+                    "de-DE": "Verbringe viel Zeit in Stilwater",
+                    "en-US": "Spend a lot of time in Stilwater",
+                    "es-ES": "Pasa un montón de tiempo en Stilwater",
+                    "fr-FR": "Passe beaucoup de temps à Stilwater",
+                    "it-IT": "Passa un sacco di tempo a Stilwater",
+                    "ja-JP": "スティルウォーターで長く過ごす",
+                    "ko-KR": "스틸워터에서 많은 시간을 보내십시오.",
+                    "pl-PL": "Spędź dużo czasu w Stilwater.",
+                    "ru-RU": "Проведите много времени в Стилуотере."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "50.png"
+        },
+        "105": {
+            "text": {
+                "name": {
+                    "de-DE": "Held",
+                    "en-US": "Fluffer",
+                    "es-ES": "Chulazo",
+                    "fr-FR": "Redresseur de torts",
+                    "it-IT": "Guardia del corpo",
+                    "ja-JP": "真実を暴け",
+                    "ko-KR": "보조 출연자",
+                    "pl-PL": "Fluffer",
+                    "ru-RU": "Fluffer"
+                },
+                "description": {
+                    "de-DE": "Hat den Auftrag Ultor im Visier beendet",
+                    "en-US": "Completed the Ultor Exposed mission arc",
+                    "es-ES": "Has completado el segmento de misión Ultor descubierto.",
+                    "fr-FR": "A réussi toutes les missions Ultor démasqué",
+                    "it-IT": "Hai completato la missione Smaschera Ultor",
+                    "ja-JP": "「アルター社の秘密を暴け」のミッションをすべてクリアした",
+                    "ko-KR": "얼터 폭로 미션을 완료했습니다.",
+                    "pl-PL": "Completed the Ultor Exposed mission arc",
+                    "ru-RU": "Completed the Ultor Exposed mission arc"
+                },
+                "howto": {
+                    "de-DE": "Den Auftrag Ultor im Visier beenden",
+                    "en-US": "Complete the Ultor Exposed misison arc",
+                    "es-ES": "Completa el segmento de misión Ultor descubierto.",
+                    "fr-FR": "Réussir toutes les missions Ultor démasqué",
+                    "it-IT": "Completa la missione Smaschera Ultor",
+                    "ja-JP": "「アルター社の秘密を暴け」のミッションをすべてクリアする",
+                    "ko-KR": "얼터 폭로 미션을 완료하십시오.",
+                    "pl-PL": "Complete the Ultor Exposed misison arc",
+                    "ru-RU": "Complete the Ultor Exposed misison arc"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "35",
+            "imageId": "51.png"
+        },
+        "106": {
+            "text": {
+                "name": {
+                    "de-DE": "Meta-Spieler",
+                    "en-US": "Meta-Gamer",
+                    "es-ES": "Jugador extra",
+                    "fr-FR": "Joueur Coop",
+                    "it-IT": "Giocatore coop",
+                    "ja-JP": "メタゲーマー",
+                    "ko-KR": "메타 게이머",
+                    "pl-PL": "Meta-Gamer",
+                    "ru-RU": "Meta-Gamer"
+                },
+                "description": {
+                    "de-DE": "Hat das Koop-Spiel einmal durchgespielt",
+                    "en-US": "Played the Co-op Mission game once",
+                    "es-ES": "Has jugado una vez la partida de misión cooperativa.",
+                    "fr-FR": "A joué les missions Coop une fois",
+                    "it-IT": "Hai giocato alla missione cooperativa una volta",
+                    "ja-JP": "協力プレイ対戦モードをプレイした",
+                    "ko-KR": "협동 임무를 한 번 플레이했습니다.",
+                    "pl-PL": "Played the Co-op Mission game once",
+                    "ru-RU": "Played the Co-op Mission game once"
+                },
+                "howto": {
+                    "de-DE": "Das Koop-Spiel einmal durchspielen",
+                    "en-US": "Play the Co-op Mission game once",
+                    "es-ES": "Juega una vez la partida de misión cooperativa.",
+                    "fr-FR": "Jouer les missions Coop une fois",
+                    "it-IT": "Gioca alla missione cooperativa una volta",
+                    "ja-JP": "協力プレイ対戦モードをプレイする",
+                    "ko-KR": "협동 임무를 한 번 플레이하십시오.",
+                    "pl-PL": "Play the Co-op Mission game once",
+                    "ru-RU": "Play the Co-op Mission game once"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "52.png"
+        },
+        "107": {
+            "text": {
+                "name": {
+                    "de-DE": "Bester Spieler",
+                    "en-US": "MVP",
+                    "es-ES": "Jugador más valioso",
+                    "fr-FR": "Jackpot",
+                    "it-IT": "Miglior giocatore",
+                    "ja-JP": "MVP",
+                    "ko-KR": "MVP",
+                    "pl-PL": "MVP",
+                    "ru-RU": "MVP"
+                },
+                "description": {
+                    "de-DE": "Hat Koop-Auftragsspiel 5 mal gewonnen.",
+                    "en-US": "Won the Co-op competitive mission game 5 times",
+                    "es-ES": "Has ganado la misión del modo Cooperación competitiva 5 veces.",
+                    "fr-FR": "A remporté 5 parties en mode Coop compétitif",
+                    "it-IT": "Hai vinto 5 volte la missione competitiva cooperativa",
+                    "ja-JP": "協力プレイ対戦モードで5回勝利した",
+                    "ko-KR": "협동 임무에서 5회 승리했습니다.",
+                    "pl-PL": "Won the Co-op competitive mission game 5 times",
+                    "ru-RU": "Won the Co-op competitive mission game 5 times"
+                },
+                "howto": {
+                    "de-DE": "Koop-Auftragsspiel 5 mal gewinnen.",
+                    "en-US": "Win the Co-op competitive mission game 5 times",
+                    "es-ES": "Gana la misión del modo Cooperación competitiva 5 veces.",
+                    "fr-FR": "Remporter 5 parties en mode Coop compétitif",
+                    "it-IT": "Vinci per 5 volte la missione competitiva cooperativa",
+                    "ja-JP": "協力プレイ対戦モードで5回勝利する",
+                    "ko-KR": "협동 임무에서 5회 승리하십시오.",
+                    "pl-PL": "Win the Co-op competitive mission game 5 times",
+                    "ru-RU": "Win the Co-op competitive mission game 5 times"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "53.png"
+        },
+        "108": {
+            "text": {
+                "name": {
+                    "de-DE": "Telefonsex",
+                    "en-US": "Phone Sex",
+                    "es-ES": "Sexo telefónico",
+                    "fr-FR": "Téléphone rose",
+                    "it-IT": "Sesso telefonico",
+                    "ja-JP": "テラ依存",
+                    "ko-KR": "폰 섹스",
+                    "pl-PL": "Phone Sex",
+                    "ru-RU": "Phone Sex"
+                },
+                "description": {
+                    "de-DE": "Tera als Begleiterin gerufen.",
+                    "en-US": "Called Tera as a homie",
+                    "es-ES": "Te has hecho colega de Tera.",
+                    "fr-FR": "A débloqué Tera comme pote",
+                    "it-IT": "Hai chiamato Tera come amica",
+                    "ja-JP": "テラを電話で呼んだ",
+                    "ko-KR": "동료로서 테라와 통화했습니다.",
+                    "pl-PL": "Called Tera as a homie",
+                    "ru-RU": "Called Tera as a homie"
+                },
+                "howto": {
+                    "de-DE": "Tera als Begleiterin rufen.",
+                    "en-US": "Call Tera as a homie",
+                    "es-ES": "Hazte colega de Tera.",
+                    "fr-FR": "Débloquer Tera comme pote",
+                    "it-IT": "Chiama Tera come amica",
+                    "ja-JP": "テラを電話で呼ぶ",
+                    "ko-KR": "동료로서 테라와 통화하십시오.",
+                    "pl-PL": "Call Tera as a homie",
+                    "ru-RU": "Call Tera as a homie"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "54.png"
+        },
+        "109": {
+            "text": {
+                "name": {
+                    "de-DE": "Party-Zeit",
+                    "en-US": "Party Time",
+                    "es-ES": "Fiesta",
+                    "fr-FR": "C'est la fête",
+                    "it-IT": "Festa",
+                    "ja-JP": "パーティータイム",
+                    "ko-KR": "파티 타임",
+                    "pl-PL": "<Translated text>",
+                    "ru-RU": "<Translated text>"
+                },
+                "description": {
+                    "de-DE": "Hat auf Xbox LIVE ein Spiel als Host oder Mitspieler gespielt",
+                    "en-US": "Hosted or played in a party match on Xbox LIVE",
+                    "es-ES": "Has albergado o jugado una partida de grupo en Xbox LIVE.",
+                    "fr-FR": "A été hôte ou joueur d'une partie sur Xbox LIVE",
+                    "it-IT": "Sei stato host o giocatore in una partita su Xbox LIVE",
+                    "ja-JP": "Xbox LIVEでパーティーゲームをホストした",
+                    "ko-KR": "Xbox LIVE의 파티 게임에서 호스트 또는 게스트로 참가했습니다.",
+                    "pl-PL": "Hosted or played in a party match on Xbox LIVE",
+                    "ru-RU": "Hosted or played in a party match on Xbox LIVE"
+                },
+                "howto": {
+                    "de-DE": "Auf Xbox LIVE ein Spiel als Host oder Mitspieler spielen",
+                    "en-US": "Host or play in a party match on Xbox LIVE",
+                    "es-ES": "Alberga o juega una partida de grupo en Xbox LIVE.",
+                    "fr-FR": "Être hôte ou joueur d'une partie sur Xbox LIVE",
+                    "it-IT": "Diventa host o giocatore in una partita su Xbox LIVE",
+                    "ja-JP": "Xbox LIVEでパーティーゲームをホストする",
+                    "ko-KR": "Xbox LIVE의 파티 게임에서 호스트 또는 게스트로 참가하십시오.",
+                    "pl-PL": "Host or play in a party match on Xbox LIVE",
+                    "ru-RU": "Host or play in a party match on Xbox LIVE"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "55.png"
+        }
+    }
+}
