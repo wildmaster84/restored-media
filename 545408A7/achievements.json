@@ -1,0 +1,2730 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "en-US": "Welcome to Los Santos",
+                    "fr-FR": "Bienvenue à Los Santos",
+                    "pt-PT": "Bem-vindo a Los Santos",
+                    "it-IT": "Questa è Los Santos!",
+                    "de-DE": "Willkommen in Los Santos",
+                    "ja-JP": "ロスサントスへようこそ",
+                    "es-ES": "Bienvenido a Los Santos",
+                    "ko-KR": "로스 산토스에 오신 것을 환영합니다",
+                    "ru-RU": "Добро пожаловать в Лос-Сантос",
+                    "pl-PL": "Witamy w Los Santos",
+                    "zh-CHT": "歡迎來到洛聖都"
+                },
+                "description": {
+                    "en-US": "You repo'd a car and raced it through the heart of a sun-soaked metropolis.",
+                    "fr-FR": "Vous avez saisi une voiture avant de faire la course dans les rues d’une métropole ensoleillée.",
+                    "pt-PT": "Você retomou um carro e correu com ele pelo centro de uma metrópole ensolarada.",
+                    "it-IT": "Hai confiscato una macchina e l'hai tirata al massimo in una metropoli baciata dal sole.",
+                    "de-DE": "Du hast ein Auto wieder in Besitz genommen und es durch das Herz einer sonnigen Metropole gefahren.",
+                    "ja-JP": "車を回収し、太陽が輝く街の中心を走り抜けた。",
+                    "es-ES": "Has embargado un coche para echar una carrera por el centro de una metrópolis soleada.",
+                    "ko-KR": "차량을 압류해서 태양이 쏟아지는 메트로폴리스의 심장부에서 레이스를 했습니다.",
+                    "ru-RU": "Вы реквизировали автомобиль и пронеслись на нем по залитым солнцем улицам города.",
+                    "pl-PL": "Zarekwirowano samochód i ścigano się nim po skąpanym w Słońcu mieście.",
+                    "zh-CHT": "您已成功回收一輛車子，並駕駛它穿越沐浴在陽光裡的市中心。"
+                },
+                "howto": {
+                    "en-US": "Complete Franklin and Lamar",
+                    "fr-FR": "Terminez \"Franklin et Lamar\".",
+                    "pt-PT": "Conclua Franklin e Lamar.",
+                    "it-IT": "Completa Franklin e Lamar.",
+                    "de-DE": "Schließe \"Franklin und Lamar\" ab.",
+                    "ja-JP": "「フランクリンとラマー」をクリアする。",
+                    "es-ES": "Completa \"Franklin y Lamar\".",
+                    "ko-KR": "프랭클린과 라마를 완료하십시오.",
+                    "ru-RU": "Выполните задание \"Франклин и Ламар\".",
+                    "pl-PL": "Ukończ \"Franklin i Lamar\".",
+                    "zh-CHT": "完成「富蘭克林和拉瑪」。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "en-US": "A Friendship Resurrected",
+                    "fr-FR": "Amitié ressuscitée",
+                    "pt-PT": "Uma Amizade Ressuscitada",
+                    "it-IT": "Un amico risorto",
+                    "de-DE": "Wiederbelebte Freundschaft",
+                    "ja-JP": "腐れ縁",
+                    "es-ES": "Una amistad resucitada",
+                    "ko-KR": "우정의 부활",
+                    "ru-RU": "Воскрешенная дружба",
+                    "pl-PL": "Odrodzona przyjaźń",
+                    "zh-CHT": "重修舊誼"
+                },
+                "description": {
+                    "en-US": "With friends like this who needs enemies?",
+                    "fr-FR": "Avec des amis comme ça, qui a besoin d'ennemis ?",
+                    "pt-PT": "Com amigos como esses, quem precisa de inimigos?",
+                    "it-IT": "Con amici così, chi ha bisogno di nemici?",
+                    "de-DE": "Wer braucht schon Feinde bei solchen Freunden?",
+                    "ja-JP": "とんだ友達もあったものだ。",
+                    "es-ES": "Con amigos así, ¿quién necesita enemigos?",
+                    "ko-KR": "친구인지 적인지 알 수가 없군요.",
+                    "ru-RU": "Кому нужны враги, когда у тебя такие друзья.",
+                    "pl-PL": "Na co komu wrogowie, jak się ma takich przyjaciół?",
+                    "zh-CHT": "有這樣的朋友誰還需要敵人？"
+                },
+                "howto": {
+                    "en-US": "Complete Fame Or Shame.",
+                    "fr-FR": "Terminez Star ou Tocard.",
+                    "pt-PT": "Complete Fama ou Desgrama.",
+                    "it-IT": "Completa Fame or Shame.",
+                    "de-DE": "Schließe \"Fame or Shame\" ab.",
+                    "ja-JP": "「フェイム・オア・シェイム」をクリアする。",
+                    "es-ES": "Completa \"Fama o drama\".",
+                    "ko-KR": "명예냐 굴욕이냐를 완료하십시오.",
+                    "ru-RU": "Завершить \"Стыд или славу\".",
+                    "pl-PL": "Ukończ \"Chwałę lub chałę\".",
+                    "zh-CHT": "完成「出名或出醜」。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "en-US": "A Fair Day's Pay",
+                    "fr-FR": "Salaire honnête",
+                    "pt-PT": "O Salário Nosso de Cada Dia",
+                    "it-IT": "Il nostro pane quotidiano",
+                    "de-DE": "Ein guter Tageslohn",
+                    "ja-JP": "当然の報い",
+                    "es-ES": "Un sueldo justo",
+                    "ko-KR": "화창한 날의 보상",
+                    "ru-RU": "Плата за труды",
+                    "pl-PL": "Dobra dniówka",
+                    "zh-CHT": "辛苦報酬"
+                },
+                "description": {
+                    "en-US": "It's time for a little getaway.",
+                    "fr-FR": "Il est temps de faire un petit voyage...",
+                    "pt-PT": "É hora de dar uma escapadinha.",
+                    "it-IT": "È ora di darsi a una piccola... fuga.",
+                    "de-DE": "Zeit für einen Kurzurlaub.",
+                    "ja-JP": "ずらかった方がいいぞ。",
+                    "es-ES": "Es hora de una escapadita.",
+                    "ko-KR": "잠시 몸을 숨길 시간입니다.",
+                    "ru-RU": "Самое время немного отдохнуть.",
+                    "pl-PL": "Czas na małą ucieczkę.",
+                    "zh-CHT": "該逃亡一下子了。"
+                },
+                "howto": {
+                    "en-US": "Complete Caida Libre.",
+                    "fr-FR": "Terminez Atterrissage forcé.",
+                    "pt-PT": "Complete Caida Libre.",
+                    "it-IT": "Completa Caida libre.",
+                    "de-DE": "Schließe \"Caida Libre\" ab.",
+                    "ja-JP": "「フリーフォール」をクリアする。",
+                    "es-ES": "Completa \"Caída libre\".",
+                    "ko-KR": "자유 낙하를 완료하십시오.",
+                    "ru-RU": "Завершить \"Свободное падение\".",
+                    "pl-PL": "Ukończ \"Caida Libre\".",
+                    "zh-CHT": "完成「飛行事故」。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "en-US": "The Moment of Truth",
+                    "fr-FR": "Moment de vérité",
+                    "pt-PT": "A Hora da Verdade",
+                    "it-IT": "Il momento della verità",
+                    "de-DE": "Der Augenblick der Wahrheit",
+                    "ja-JP": "正念場",
+                    "es-ES": "El momento de la verdad",
+                    "ko-KR": "진실의 순간",
+                    "ru-RU": "Момент истины",
+                    "pl-PL": "Chwila prawdy",
+                    "zh-CHT": "真相大白"
+                },
+                "description": {
+                    "en-US": "You have uncovered the truth about Brad.",
+                    "fr-FR": "Vous avez découvert ce qui est vraiment arrivé à Brad.",
+                    "pt-PT": "Você descobriu a verdade sobre Brad.",
+                    "it-IT": "Hai scoperto la verità su Brad.",
+                    "de-DE": "Du hast die Wahrheit über Brad herausgefunden.",
+                    "ja-JP": "ブラッドにまつわる真相を知った。",
+                    "es-ES": "Has descubierto la verdad sobre Brad.",
+                    "ko-KR": "브래드에 대한 진실을 알아냈습니다.",
+                    "ru-RU": "Вы узнали правду о Брэде.",
+                    "pl-PL": "Udało ci się odkryć prawdę na temat Brada.",
+                    "zh-CHT": "您已發現了布萊德背後的真相。"
+                },
+                "howto": {
+                    "en-US": "Discover the truth about Brad.",
+                    "fr-FR": "Découvrez ce qui est vraiment arrivé à Brad.",
+                    "pt-PT": "Descubra a verdade sobre Brad.",
+                    "it-IT": "Scopri la verità su Brad.",
+                    "de-DE": "Finde die Wahrheit über Brad heraus.",
+                    "ja-JP": "ブラッドにまつわる真相を知る。",
+                    "es-ES": "Descubre la verdad sobre Brad.",
+                    "ko-KR": "브래드에 대한 진실을 알아내십시오.",
+                    "ru-RU": "Узнать правду о Брэде.",
+                    "pl-PL": "Odkryj prawdę na temat Brada.",
+                    "zh-CHT": "發現布萊德背後的真相。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "en-US": "To Live or Die in Los Santos",
+                    "fr-FR": "Vivre ou mourir à Los Santos",
+                    "pt-PT": "Viver ou Morrer em Los Santos",
+                    "it-IT": "Vivere e morire a Los Santos",
+                    "de-DE": "Leben oder Sterben in Los Santos",
+                    "ja-JP": "狼たちの街",
+                    "es-ES": "Vivir o morir en Los Santos",
+                    "ko-KR": "로스 산토스에서 죽기 아니면 살기",
+                    "ru-RU": "Жизнь и смерть в Лос-Сантосе",
+                    "pl-PL": "Żyć lub zginąć w Los Santos",
+                    "zh-CHT": "洛聖都生存之戰"
+                },
+                "description": {
+                    "en-US": "Completed the final mission.",
+                    "fr-FR": "Vous avez terminé la dernière mission.",
+                    "pt-PT": "Você completou a missão final.",
+                    "it-IT": "Hai completato l'ultima missione.",
+                    "de-DE": "Du hast die letzte Mission abgeschlossen.",
+                    "ja-JP": "最後のミッションをクリアした。",
+                    "es-ES": "Has completado la última misión.",
+                    "ko-KR": "마지막 임무를 완료했습니다.",
+                    "ru-RU": "Вы выполнили последнее задание.",
+                    "pl-PL": "Udało ci się skończyć ostatnią misję.",
+                    "zh-CHT": "完成了最終任務。"
+                },
+                "howto": {
+                    "en-US": "Complete the final mission.",
+                    "fr-FR": "Terminez la dernière mission.",
+                    "pt-PT": "Complete a missão final.",
+                    "it-IT": "Completa l'ultima missione.",
+                    "de-DE": "Schließe die letzte Mission ab.",
+                    "ja-JP": "最後のミッションをクリアする。",
+                    "es-ES": "Completa la última misión.",
+                    "ko-KR": "마지막 임무를 완료하십시오.",
+                    "ru-RU": "Выполнить последнее задание.",
+                    "pl-PL": "Ukończ ostatnią misję.",
+                    "zh-CHT": "完成最終任務。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "en-US": "Diamond Hard",
+                    "fr-FR": "Dur comme le diamant",
+                    "pt-PT": "Duro como Diamante",
+                    "it-IT": "Duro come un diamante",
+                    "de-DE": "Hart wie Diamant",
+                    "ja-JP": "ダイヤモンド・ハード",
+                    "es-ES": "Duro como el diamante",
+                    "ko-KR": "다이아몬드 하드",
+                    "ru-RU": "Крепкий алмазик",
+                    "pl-PL": "Twardy jak diament",
+                    "zh-CHT": "珠光寶盡"
+                },
+                "description": {
+                    "en-US": "You cleaned out Vangelico to pay back Martin Madrazo.",
+                    "fr-FR": "Vous avez dévalisé Vangelico pour payer votre dette envers Martin Madrazo.",
+                    "pt-PT": "Você fez a limpa na Vangelico para pagar o Martin Madrazo.",
+                    "it-IT": "Hai ripulito la gioielleria Vangelico per saldare i debiti con Martin Madrazo.",
+                    "de-DE": "Du hast Vangelico ausgeräumt, um deine Schuld bei Martin Madrazo zu begleichen.",
+                    "ja-JP": "ヴァンゲリコ宝石店からごっそり奪って、マーティン・マドラッゾに借りを返した。",
+                    "es-ES": "Has desvalijado Vangelico para pagar a Martín Madrazo.",
+                    "ko-KR": "마틴 마드라조에게 돈을 갚기 위해 반젤리코를 털었습니다.",
+                    "ru-RU": "Вы обчистили Vangelico, чтобы расплатиться с Мартином Мадрасо. ",
+                    "pl-PL": "Udało ci się wyczyścić Vangelico i spłacić Martina Madrazo.",
+                    "zh-CHT": "您掃光了凡潔莉寇以還清馬丁‧瑪德拉索的帳。"
+                },
+                "howto": {
+                    "en-US": "Complete the Jewel Store Job.",
+                    "fr-FR": "Réussissez le braquage de la bijouterie.",
+                    "pt-PT": "Complete o Golpe à Joalheria.",
+                    "it-IT": "Completa il Colpo alla gioielleria.",
+                    "de-DE": "Schließe \"Der Juwelenraub\" ab.",
+                    "ja-JP": "「強盗：宝石店」をクリアする。",
+                    "es-ES": "Completa el trabajo de la joyería.",
+                    "ko-KR": "보석 상점 작업을 완료하십시오.",
+                    "ru-RU": "Провести \"Ограбление ювелирного\".",
+                    "pl-PL": "Ukończ robótkę u jubilera.",
+                    "zh-CHT": "完成「珠光寶氣」。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "en-US": "Subversive",
+                    "fr-FR": "Subversion",
+                    "pt-PT": "Subversivo",
+                    "it-IT": "Sovversivo",
+                    "de-DE": "Subversiv",
+                    "ja-JP": "反社会的行動",
+                    "es-ES": "Subversivo",
+                    "ko-KR": "반역자",
+                    "ru-RU": "Подрывная деятельность",
+                    "pl-PL": "Podwodnik",
+                    "zh-CHT": "翻雲覆雨"
+                },
+                "description": {
+                    "en-US": "You stole an experimental super weapon from Merryweather... and gave it back.",
+                    "fr-FR": "Vous avez volé une super arme expérimentale à Merryweather... et vous l'avez rendue.",
+                    "pt-PT": "Você roubou uma super arma experimental da Merryweather... e devolveu para eles.",
+                    "it-IT": "Hai rubato una super arma sperimentale alla Merryweather... e poi l'hai restituita.",
+                    "de-DE": "Du hast Merryweather eine experimentelle Superwaffe gestohlen ... und wieder zurückgegeben.",
+                    "ja-JP": "メリーウェザーから実験的な超強力兵器を盗んで… 返却した。",
+                    "es-ES": "Has robado una superarma experimental a Merryweather... y la has devuelto.",
+                    "ko-KR": "메리웨더에게서 실험 중인 슈퍼 무기를 훔쳐서 돌려주었습니다.",
+                    "ru-RU": "Вы украли у \"Мерриуэзер\" экспериментальное супероружие... а потом вернули.",
+                    "pl-PL": "Udało ci się wykraść najemnikom z Merryweather eksperymentalną broń... i ją oddać.",
+                    "zh-CHT": "您從梅利威瑟那偷走了一個實驗性超級武器……然後將它物歸原主。"
+                },
+                "howto": {
+                    "en-US": "Complete The Merryweather Heist.",
+                    "fr-FR": "Réussissez le coup de Merryweather.",
+                    "pt-PT": "Complete o Golpe da Merryweather.",
+                    "it-IT": "Completa il Colpo alla Merrywheater.",
+                    "de-DE": "Schließe \"Der Merryweather-Raubüberfall\" ab.",
+                    "ja-JP": "「強盗：メリーウェザー」をクリアする。",
+                    "es-ES": "Completa el golpe a Merryweather.",
+                    "ko-KR": "메리웨더 습격을 완료하십시오.",
+                    "ru-RU": "Провести \"Ограбление Мерриуэзер\".",
+                    "pl-PL": "Ukończ skok na Merryweather.",
+                    "zh-CHT": "完成「搶劫梅利威瑟」。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "en-US": "Blitzed",
+                    "fr-FR": "Rentre-dedans",
+                    "pt-PT": "Levou um sacode",
+                    "it-IT": "Blitz",
+                    "de-DE": "Blitzschnell",
+                    "ja-JP": "電撃戦",
+                    "es-ES": "Bloqueado",
+                    "ko-KR": "블리츠",
+                    "ru-RU": "Блиц",
+                    "pl-PL": "Stuknięty",
+                    "zh-CHT": "閃電突擊"
+                },
+                "description": {
+                    "en-US": "You performed a classic blitz play.",
+                    "fr-FR": "Vous avez réussi une mise à sac dans les règles.",
+                    "pt-PT": "Você realizou uma Jogada Ensaiada clássica.",
+                    "it-IT": "Hai eseguito un classico blitz.",
+                    "de-DE": "Du hast eine klassische Blitzaktion durchgezogen.",
+                    "ja-JP": "ブリッツ・プレイを見事に発揮した。",
+                    "es-ES": "Has llevado a cabo un bloqueo clásico.",
+                    "ko-KR": "고전적인 기습 공격을 했습니다.",
+                    "ru-RU": "Проведен классический блиц.",
+                    "pl-PL": "Udało ci się wykonać klasyczne stuknięcie na szybko.",
+                    "zh-CHT": "你已實施了一場經典的閃電突擊戰。"
+                },
+                "howto": {
+                    "en-US": "Complete Blitz Play",
+                    "fr-FR": "Complétez la mission \"Mise à sac\".",
+                    "pt-PT": "Conclua a Jogada Ensaiada",
+                    "it-IT": "Completa Blitz Play.",
+                    "de-DE": "Schließe \"Blitzaktion\" ab.",
+                    "ja-JP": "ブリッツ・プレイをクリアする。",
+                    "es-ES": "Completa \"El bloqueo\".",
+                    "ko-KR": "블리츠 플레이 완료",
+                    "ru-RU": "Завершить \"Блиц-игру\".",
+                    "pl-PL": "Ukończ \"Szybką robotę\".",
+                    "zh-CHT": "完成「閃電突擊」。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "en-US": "Small Town, Big Job",
+                    "fr-FR": "Trouble-fête",
+                    "pt-PT": "Pequena Cidade, Grande Golpe",
+                    "it-IT": "Piccola cittadina, grande colpo",
+                    "de-DE": "Kleine Stadt, große Sache",
+                    "ja-JP": "小さな町の大仕事",
+                    "es-ES": "Pequeña ciudad, gran golpe",
+                    "ko-KR": "작은 마을, 큰 작업",
+                    "ru-RU": "Большое дело в маленьком городе",
+                    "pl-PL": "Małe miasto, wielka robota",
+                    "zh-CHT": "小鎮大事"
+                },
+                "description": {
+                    "en-US": "You made a big impression at the Paleto Bay Chicken Festival.",
+                    "fr-FR": "Vous avez fait forte impression au Festival du poulet de Paleto Bay.",
+                    "pt-PT": "Você impressionou no Festival da Galinha de Paleto Bay.",
+                    "it-IT": "Hai lasciato un ricordo indelebile di te al Paleto Bay Chicken Festival.",
+                    "de-DE": "Du hast beim Hühnerfest von Paleto Bay einen bleibenden Eindruck hinterlassen.",
+                    "ja-JP": "パレト・ベイのニワトリ祭りで強い印象を残した。",
+                    "es-ES": "Has causado una gran impresión en el pueblo de Paleto Bay.",
+                    "ko-KR": "팔레토 항구 닭 축제에서 아주 인상적인 일을 벌였습니다.",
+                    "ru-RU": "Вы наделали много шуму на Курином фестивале в Палето-Бэй.",
+                    "pl-PL": "Udało ci się zrobić dobre wrażenie podczas festiwalu kurczaków Paleto Bay.",
+                    "zh-CHT": "您在佩立托灣雞節中表現亮眼。"
+                },
+                "howto": {
+                    "en-US": "Complete The Paleto Score.",
+                    "fr-FR": "Réussissez le coup de Paleto Bay.",
+                    "pt-PT": "Complete o Golpe de Paleto Bay.",
+                    "it-IT": "Completa il Colpo a Paleto.",
+                    "de-DE": "Schließe \"Das Ding in Paleto\" ab.",
+                    "ja-JP": "「強盗：パレト」をクリアする。",
+                    "es-ES": "Completa el golpe de Paleto.",
+                    "ko-KR": "팔레토 사건을 완료하십시오.",
+                    "ru-RU": "Провести \"Ограбление в Палето\".",
+                    "pl-PL": "Ukończ skok w Paleto.",
+                    "zh-CHT": "完成「搶劫佩立托」。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "en-US": "The Government Gimps",
+                    "fr-FR": "Larbins du gouvernement",
+                    "pt-PT": "Os Escravos do Governo",
+                    "it-IT": "Quegli stupidi federali",
+                    "de-DE": "Trottel im Auftrag der Regierung",
+                    "ja-JP": "役立たずの官僚",
+                    "es-ES": "Los inútiles del gobierno",
+                    "ko-KR": "정부의 꼭두각시",
+                    "ru-RU": "Сволочи из правительства",
+                    "pl-PL": "Na usługach rządu",
+                    "zh-CHT": "政府無能"
+                },
+                "description": {
+                    "en-US": "You recovered sensitive information from a highly defended federal building.",
+                    "fr-FR": "Vous avez volé des informations confidentielles dans un bâtiment fédéral sécurisé.",
+                    "pt-PT": "Você recuperou informações confidenciais de um prédio federal altamente protegido.",
+                    "it-IT": "Hai recuperato informazioni sensibili da un edificio federale strettamente sorvegliato.",
+                    "de-DE": "Du hast geheime Informationen aus einem schwer bewachten Regierungsgebäude beschafft.",
+                    "ja-JP": "警備の厳重な連邦ビルから機密情報を回収した。",
+                    "es-ES": "Has recuperado información confidencial de un edificio federal muy bien protegido.",
+                    "ko-KR": "삼엄한 경비의 정보국 건물에서 민감한 정보를 빼냈습니다.",
+                    "ru-RU": "Вы добыли ценные сведения, проникнув в хорошо охраняемое федеральное здание.",
+                    "pl-PL": "Udało ci się ukraść tajne dane z mocno strzeżonego budynku federalnego.",
+                    "zh-CHT": "您從警戒森嚴的 FIB 大樓中取得敏感資訊。"
+                },
+                "howto": {
+                    "en-US": "Complete The Bureau Raid.",
+                    "fr-FR": "Réussissez l'attaque du FIB.",
+                    "pt-PT": "Complete a Invasão do FIB.",
+                    "it-IT": "Completa l'Irruzione al Bureau.",
+                    "de-DE": "Schließe \"Der Bureau-Überfall\" ab.",
+                    "ja-JP": "「FIB襲撃」をクリアする。",
+                    "es-ES": "Completa el asalto al FIB.",
+                    "ko-KR": "정보국 습격을 완료하십시오.",
+                    "ru-RU": "Провести \"Налет на Бюро\".",
+                    "pl-PL": "Ukończ napad na Biuro.",
+                    "zh-CHT": "完成「突襲 FIB」。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "en-US": "The Big One!",
+                    "fr-FR": "Le coup du siècle",
+                    "pt-PT": "O Grande Golpe!",
+                    "it-IT": "Il grande colpo!",
+                    "de-DE": "Das große Ding!",
+                    "ja-JP": "デカいヤマ！",
+                    "es-ES": "¡El grande!",
+                    "ko-KR": "큰 거 한 방!",
+                    "ru-RU": "Бешеные бабки!",
+                    "pl-PL": "Wielki skok!",
+                    "zh-CHT": "成功大幹一票！"
+                },
+                "description": {
+                    "en-US": "This ain't no dream no more.",
+                    "fr-FR": "Le rêve est devenu réalité.",
+                    "pt-PT": "Isso não é mais um sonho.",
+                    "it-IT": "Non è più un sogno.",
+                    "de-DE": "Jetzt ist es kein Traum mehr.",
+                    "ja-JP": "もはや夢ではない。",
+                    "es-ES": "Esto ya no es un sueño.",
+                    "ko-KR": "이건 더 이상 꿈이 아닙니다.",
+                    "ru-RU": "Вот и сбылась мечта.",
+                    "pl-PL": "To już nie jest sen.",
+                    "zh-CHT": "別無所求。"
+                },
+                "howto": {
+                    "en-US": "Complete The Big Score.",
+                    "fr-FR": "Réussissez le coup du siècle.",
+                    "pt-PT": "Complete o Grande Golpe.",
+                    "it-IT": "Completa il Grande colpo.",
+                    "de-DE": "Schließe \"Das große Ding\" ab.",
+                    "ja-JP": "「大強盗ミッション」をクリアする。",
+                    "es-ES": "Completa el gran golpe.",
+                    "ko-KR": "큰 거 한 방을 완료하십시오.",
+                    "ru-RU": "Провести операцию \"Огромный куш\".",
+                    "pl-PL": "Ukończ wielką fuchę.",
+                    "zh-CHT": "完成「大幹一票」。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "en-US": "Solid Gold, Baby!",
+                    "fr-FR": "Cousu d'or",
+                    "pt-PT": "Ouro Maciço!",
+                    "it-IT": "Oro colato, baby!",
+                    "de-DE": "Pures Gold, Baby!",
+                    "ja-JP": "ソリッド・ゴールド！",
+                    "es-ES": "¡Oro puro!",
+                    "ko-KR": "금덩어리야, 친구!",
+                    "ru-RU": "Чистое золото, детка!",
+                    "pl-PL": "Szczere złoto jak ta lala!",
+                    "zh-CHT": "真金不怕火煉！"
+                },
+                "description": {
+                    "en-US": "You earned 70 Gold Medals on Missions and Strangers and Freaks.",
+                    "fr-FR": "Vous avez gagné 70 médailles d'or dans les missions de l'histoire et des inconnus et détraqués.",
+                    "pt-PT": "Você ganhou 70 Medalhas de Ouro em Missões e Estranhos e Doidos.",
+                    "it-IT": "Hai guadagnato 70 medaglie d'oro nelle missioni principali e in quelle degli sconosciuti e folli.",
+                    "de-DE": "Du hast dir mit Story-Missionen und Fremden und Freaks 70 Goldmedaillen verdient.",
+                    "ja-JP": "ストーリーミッションと不審者と変質者ミッションで、ゴールドメダルを70個獲得した。",
+                    "es-ES": "Has conseguido 70 medallas de oro en misiones y en extraños y locos.",
+                    "ko-KR": "스토리 임무와 낯선 사람/괴짜에서 골드 메달을 70개 획득했습니다.",
+                    "ru-RU": "Вы заработали 70 золотых медалей, проходя сюжетные задания, а также задания незнакомцев и чудаков.",
+                    "pl-PL": "Udało ci się zdobyć 70 złotych medali w misjach fabularnych i zleceniach od nieznajomych i dziwaków.",
+                    "zh-CHT": "您已從故事與陌生人和怪咖任務中獲得了 70 面金牌。"
+                },
+                "howto": {
+                    "en-US": "Earn 70 Gold Medals on Missions and Strangers and Freaks.",
+                    "fr-FR": "Gagnez 70 médailles d'or dans les missions de l'histoire et des inconnus et détraqués.",
+                    "pt-PT": "Ganhe 70 Medalhas de Ouro jogando Missões da História e Estranhos e Doidos.",
+                    "it-IT": "Guadagna 70 medaglie d'oro nelle missioni principali e in quelle degli sconosciuti e folli.",
+                    "de-DE": "Verdiene dir mit Story-Missionen und Fremden und Freaks 70 Goldmedaillen.",
+                    "ja-JP": "ストーリーミッションと不審者と変質者ミッションで、ゴールドメダルを70個獲得する。",
+                    "es-ES": "Repite misiones y extraños y locos y consigue 70 medallas de oro.",
+                    "ko-KR": "스토리 임무와 낯선 사람/괴짜를 다시 플레이해 골드 메달 70개 획득",
+                    "ru-RU": "Заработать 70 золотых медалей, проходя сюжетные задания, а также задания незнакомцев и чудаков.",
+                    "pl-PL": "Zdobądź 70 złotych medali, powtarzając misje fabularne i zlecenia od nieznajomych i dziwaków.",
+                    "zh-CHT": "在故事與陌生人和怪咖任務中獲得 70 面金牌。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "12.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "en-US": "Career Criminal",
+                    "fr-FR": "Criminel de carrière",
+                    "pt-PT": "Vida Bandida",
+                    "it-IT": "Carriera nel crimine",
+                    "de-DE": "Berufsverbrecher",
+                    "ja-JP": "常習犯",
+                    "es-ES": "Criminal profesional",
+                    "ko-KR": "전과자",
+                    "ru-RU": "Профессиональный преступник",
+                    "pl-PL": "Kariera kryminalna",
+                    "zh-CHT": "完美罪犯"
+                },
+                "description": {
+                    "en-US": "You attained 100% Game Completion.",
+                    "fr-FR": "Vous avez terminé le jeu à 100 %.",
+                    "pt-PT": "Você atingiu 100% de Conclusão de Jogo.",
+                    "it-IT": "Hai completato il gioco al 100%.",
+                    "de-DE": "Du hast das Spiel zu 100% abgeschlossen.",
+                    "ja-JP": "ゲーム達成度100%に到達した。",
+                    "es-ES": "Has conseguido completar el juego al 100%.",
+                    "ko-KR": "게임 완료율 100%를 달성했습니다.",
+                    "ru-RU": "Вы завершили игру на 100%.",
+                    "pl-PL": "Udało ci się ukończyć grę w 100%.",
+                    "zh-CHT": "您的遊戲進度已達 100%。"
+                },
+                "howto": {
+                    "en-US": "Attain 100% Game Completion.",
+                    "fr-FR": "Terminez le jeu à 100 %.",
+                    "pt-PT": "Atinja 100% de Conclusão de Jogo.",
+                    "it-IT": "Completa il gioco al 100%.",
+                    "de-DE": "Schließe das Spiel zu 100% ab.",
+                    "ja-JP": "ゲーム達成度100%に到達する。",
+                    "es-ES": "Consigue completar el juego al 100%.",
+                    "ko-KR": "게임 완료율 100% 달성",
+                    "ru-RU": "Завершить игру на 100%.",
+                    "pl-PL": "Ukończ grę na 100%.",
+                    "zh-CHT": "使遊戲進度達到 100%。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "100",
+            "imageId": "13.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "en-US": "San Andreas Sightseer",
+                    "fr-FR": "Visite (pas) guidée",
+                    "pt-PT": "Turista em San Andreas",
+                    "it-IT": "Esploratore di San Andreas",
+                    "de-DE": "Zuhause in San Andreas",
+                    "ja-JP": "サンアンドレアスの探検家",
+                    "es-ES": "Explorador de San Andreas",
+                    "ko-KR": "산 안드레아스 관광객",
+                    "ru-RU": "Турист в Сан-Андреасе",
+                    "pl-PL": "Zwiedzanie San Andreas",
+                    "zh-CHT": "聖安地列斯觀光客"
+                },
+                "description": {
+                    "en-US": "You explored all of Los Santos and Blaine County.",
+                    "fr-FR": "Vous avez exploré Los Santos et Blaine County de fond en comble.",
+                    "pt-PT": "Você explorou toda a Los Santos e Blaine County. ",
+                    "it-IT": "Hai esplorato l'intera area della Los Santos e Blaine County.",
+                    "de-DE": "Du hast ganz Los Santos und Blaine County erkundet.",
+                    "ja-JP": "ロスサントスとブレイン郡のあらゆる所を探検した。",
+                    "es-ES": "Has explorado todo Los Santos y el condado de Blaine.",
+                    "ko-KR": "로스 산토스와 블레인 카운티를 모두 탐험했습니다.",
+                    "ru-RU": "Вы исследовали весь Лос-Сантос и округ Блэйн.",
+                    "pl-PL": "Udało ci się zwiedzić całe Los Santos i Hrabstwo Blaine.",
+                    "zh-CHT": "您已探索了整個洛聖都和布雷恩郡。"
+                },
+                "howto": {
+                    "en-US": "Explore all of Los Santos and Blaine County.",
+                    "fr-FR": "Explorez tous les recoins de Los Santos et Blaine County.",
+                    "pt-PT": "Explore toda a Los Santos e Blaine County  ",
+                    "it-IT": "Esplora l'intera area della Los Santos e Blaine County.",
+                    "de-DE": "Erkunde ganz Los Santos und Blaine County.",
+                    "ja-JP": "ロスサントスとブレイン郡のあらゆる所を探検する。",
+                    "es-ES": "Explora todo Los Santos y el condado de Blaine.",
+                    "ko-KR": "로스 산토스와 블레인 카운티를 모두 탐험",
+                    "ru-RU": "Исследуйте весь Лос-Сантос и округ Блэйн.",
+                    "pl-PL": "Zwiedź całe Los Santos i Hrabstwo Blaine.",
+                    "zh-CHT": "探索整個洛聖都和布雷恩郡。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "14.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "en-US": "All's Fare in Love and War",
+                    "fr-FR": "Résultat des courses",
+                    "pt-PT": "Na Vida, Somos Todos Passageiros",
+                    "it-IT": "Segua quell'auto!",
+                    "de-DE": "Freie Fahrt für betuchte Bürger",
+                    "ja-JP": "タクシーに命をたくしー",
+                    "es-ES": "Guerra y paz a la carrera",
+                    "ko-KR": "사랑과 전쟁의 모든 요금",
+                    "ru-RU": "Такси все возрасты покорны",
+                    "pl-PL": "Kapucha na sałacie",
+                    "zh-CHT": "搶錢載客"
+                },
+                "description": {
+                    "en-US": "You purchased Downtown Cab Co. and completed a private fare.",
+                    "fr-FR": "Vous avez acheté Downtown Cab Co. et terminé une course privée.",
+                    "pt-PT": "Você comprou a Downtown Cab Co. e completou uma corrida de cliente particular.",
+                    "it-IT": "Hai acquistato la Downtown Cab Co. e completato una corsa privata.",
+                    "de-DE": "Du hast die Downtown Cab Co. gekauft und eine private Taxifahrt abgeschlossen.",
+                    "ja-JP": "ダウンタウン・キャブを購入し、特別送迎をクリアした。",
+                    "es-ES": "Has comprado Downtown Cab Co. y has terminado una carrera privada.",
+                    "ko-KR": "다운타운 캡 회사를 구입하고 특별 승객 임무를 완료했습니다.",
+                    "ru-RU": "Вы купили Downtown Cab Co. и завершили частный извоз.",
+                    "pl-PL": "Udało ci się przejąć firmę Downtown Cab Co. i zaliczyć dowolny prywatny kurs.",
+                    "zh-CHT": "您買下了市中心計程車行並完成一次接私人客戶的任務。"
+                },
+                "howto": {
+                    "en-US": "Purchase Downtown Cab Co. and complete a private fare.",
+                    "fr-FR": "Achetez Downtown Cab Co. et terminez une course privée.",
+                    "pt-PT": "Compre a Downtown Cab Co. e complete uma corrida de cliente particular.",
+                    "it-IT": "Acquista la Downtown Cab Co. e completa una corsa privata.",
+                    "de-DE": "Kaufe die Downtown Cab Co. und schließe eine private Taxifahrt ab.",
+                    "ja-JP": "ダウンタウン・キャブを購入し、特別送迎をクリアする。",
+                    "es-ES": "Compra Downtown Cab Co. y termina una carrera privada.",
+                    "ko-KR": "다운타운 캡 회사를 구입 후 특별 승객 임무 완료.",
+                    "ru-RU": "Купить Downtown Cab Co. и завершить частный извоз. ",
+                    "pl-PL": "Kup firmę Downtown Cab Co. i zalicz dowolny prywatny kurs.",
+                    "zh-CHT": "買下市中心計程車行並完成一次接私人客戶的任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "15.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "en-US": "TP Industries Arms Race",
+                    "fr-FR": "Armé jusqu'aux dents",
+                    "pt-PT": "TP Industries Logística Bélica",
+                    "it-IT": "La TP Industries si espande",
+                    "de-DE": "TP Industries: Rüstungs-Wettflug",
+                    "ja-JP": "トレバー・フィリップス工業大活躍",
+                    "es-ES": "Escalada bélica de Industrias TP",
+                    "ko-KR": "TP 공업 무기 밀매 레이스",
+                    "ru-RU": "Гонка вооружений \"ТФ Индастриз\"",
+                    "pl-PL": "Wyścig zbrojeń TP Industries",
+                    "zh-CHT": "軍火競售"
+                },
+                "description": {
+                    "en-US": "You purchased McKenzie Field Hangar and won the arms race.",
+                    "fr-FR": "Vous avez acheté le hangar de McKenzie Field et remporté la course aux armements.",
+                    "pt-PT": "Você comprou o Hangar da Pista de Pouso McKenzie e venceu a corrida armamentista.",
+                    "it-IT": "Hai acquistato l'hangar McKenzie e hai vinto la corsa agli armamenti.",
+                    "de-DE": "Du hast den McKenzie-Feldhangar gekauft und das Aufrüstungs-Rennen gewonnen.",
+                    "ja-JP": "マッケンジーフィールド格納庫を購入し、武器密売業のトップになった。",
+                    "es-ES": "Has comprado el hangar del aeródromo de McKenzie y has ganado la carrera armamentística.",
+                    "ko-KR": "매켄지 필드 격납고를 구입하고 무기 밀매 레이스에서 승리했습니다.",
+                    "ru-RU": "Вы купили аэродром Маккензи и победили в гонке вооружений.",
+                    "pl-PL": "Udało ci się zakupić hangar polowy McKenziego i wygrać wyścig zbrojeń.",
+                    "zh-CHT": "您買下了麥肯錫機場機庫並贏得武器非法買賣競賽。"
+                },
+                "howto": {
+                    "en-US": "Purchase McKenzie Field Hangar and win the arms race.",
+                    "fr-FR": "Achetez le hangar de McKenzie Field et remportez la course aux armements.",
+                    "pt-PT": "Compre o Hangar da Pista de Pouso McKenzie e vença a corrida armamentista.",
+                    "it-IT": "Acquista l'hangar McKenzie e vinci la corsa agli armamenti.",
+                    "de-DE": "Kaufe den McKenzie-Feldhangar und gewinne das Aufrüstungs-Rennen.",
+                    "ja-JP": "マッケンジーフィールド格納庫を購入し、武器密売業を繁栄させる。",
+                    "es-ES": "Compra el hangar del aeródromo de McKenzie y gana la carrera armamentística.",
+                    "ko-KR": "매켄지 필드 격납고 구입 후 무기 밀매 레이스 승리",
+                    "ru-RU": "Купить аэродром Маккензи и победить в гонке вооружений.",
+                    "pl-PL": "Kup hangar polowy McKenziego i wygraj wyścig zbrojeń.",
+                    "zh-CHT": "買下麥肯錫機場機庫並贏得武器非法買賣競賽。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "16.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "en-US": "Multi-Disciplined",
+                    "fr-FR": "Touche-à-tout",
+                    "pt-PT": "Multidisciplinado",
+                    "it-IT": "Multidisciplinare",
+                    "de-DE": "Vielseitig talentiert",
+                    "ja-JP": "オールスター",
+                    "es-ES": "Multidisciplinar",
+                    "ko-KR": "다양한 훈련",
+                    "ru-RU": "Многоборец",
+                    "pl-PL": "Wieloklasowiec",
+                    "zh-CHT": "多才多藝"
+                },
+                "description": {
+                    "en-US": "You attained a gold medal in all applicable hobbies and pastimes.",
+                    "fr-FR": "Vous avez gagné une médaille d'or dans tous les hobbies et passe-temps où c'est possible.",
+                    "pt-PT": "Você conquistou medalha de ouro em todos os hobbies e passatempos.",
+                    "it-IT": "Hai ottenuto una medaglia d'oro in tutti gli sport e passatempi.",
+                    "de-DE": "Du hast eine Goldmedaille in allen entsprechenden Hobbys und Zeitvertreiben erhalten.",
+                    "ja-JP": "全ての趣味と娯楽において、ゴールドメダルを獲得した。",
+                    "es-ES": "Has conseguido una medalla de oro en todas las aficiones y pasatiempos posibles.",
+                    "ko-KR": "메달 획득이 가능한 모든 취미 활동/기분 전환에서 골드 메달을 획득했습니다.",
+                    "ru-RU": "Вы заработали золотую медаль во всех видах хобби и развлечений.",
+                    "pl-PL": "Udało ci się zdobyć złoty medal we wszystkich odpowiednich hobby i rozrywkach.",
+                    "zh-CHT": "您在所有可進行的愛好和消遣任務中都獲得了一面金牌。"
+                },
+                "howto": {
+                    "en-US": "Attain a gold medal in all applicable hobbies and pastimes.",
+                    "fr-FR": "Gagnez une médaille d'or dans tous les hobbies et passe-temps où c'est possible.",
+                    "pt-PT": "Conquiste a medalha de ouro em todos os hobbies e passatempos possíveis.",
+                    "it-IT": "Ottieni una medaglia d'oro in tutti gli sport e passatempi.",
+                    "de-DE": "Erhalte eine Goldmedaille in allen entsprechenden Hobbys und Zeitvertreiben.",
+                    "ja-JP": "全ての趣味と娯楽において、ゴールドメダルを獲得する。",
+                    "es-ES": "Consigue una medalla de oro en todas las aficiones y pasatiempos posibles.",
+                    "ko-KR": "메달 획득이 가능한 모든 취미 활동/기분 전환에서 골드 메달 획득",
+                    "ru-RU": "Заработать золотую медаль во всех видах хобби и развлечений.",
+                    "pl-PL": "Zdobądź złoty medal we wszystkich odpowiednich hobby i rozrywkach.",
+                    "zh-CHT": "在所有可進行的愛好和消遣任務中各獲得一面金牌。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "17.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "en-US": "From Beyond the Stars",
+                    "fr-FR": "Aux 50 coins de la galaxie",
+                    "pt-PT": "Muito Além das Estrelas",
+                    "it-IT": "Dallo spazio profondo",
+                    "de-DE": "Von jenseits der Sterne",
+                    "ja-JP": "星々の彼方から",
+                    "es-ES": "Más allá de las estrellas",
+                    "ko-KR": "머나먼 우주 저편에서",
+                    "ru-RU": "По ту сторону звезд",
+                    "pl-PL": "Sięgnij gwiazd",
+                    "zh-CHT": "外星之物"
+                },
+                "description": {
+                    "en-US": "You collected and returned all spaceship parts to Omega.",
+                    "fr-FR": "Vous avez récupéré toutes les pièces du vaisseau spatial et les avez apportées à Omega.",
+                    "pt-PT": "Você coletou e devolveu todas as peças da nave espacial para Omega.",
+                    "it-IT": "Hai recuperato e consegnato a Omega tutte le parti dell'astronave.",
+                    "de-DE": "Du hast alle Raumschiffteile gesammelt und zu Omega zurückgebracht.",
+                    "ja-JP": "「宇宙船のパーツ」を全て集めて、オメガに返却した。",
+                    "es-ES": "Has recogido y devuelto todas las piezas de la nave espacial a Omega.",
+                    "ko-KR": "모든 우주선 부품을 수집해서 오메가에게 돌려주었습니다.",
+                    "ru-RU": "Вы нашли все обломки космического корабля и вернули их Омеге.",
+                    "pl-PL": "Udało ci się zebrać wszystkie części statku kosmicznego i oddać je do Omegi.",
+                    "zh-CHT": "您已將所有太空船零件收齊並送回給歐米伽。"
+                },
+                "howto": {
+                    "en-US": "Collect and return all spaceship parts.",
+                    "fr-FR": "Récupérez toutes les pièces du vaisseau spatial.",
+                    "pt-PT": "Colete e devolva todas as peças da nave espacial.",
+                    "it-IT": "Recupera e consegna tutte le parti dell'astronave.",
+                    "de-DE": "Sammle alle Raumschiffteile und bringe sie zurück.",
+                    "ja-JP": "「宇宙船のパーツ」を全て集めて返却する。",
+                    "es-ES": "Recoge y devuelve todas las piezas de la nave espacial.",
+                    "ko-KR": "모든 우주선 부품을 수집해서 전달",
+                    "ru-RU": "Найти и вернуть все обломки космического корабля.",
+                    "pl-PL": "Zbierz i oddaj wszystkie części statku kosmicznego.",
+                    "zh-CHT": "收齊並送回所有太空船零件。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "18.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "en-US": "A Mystery, Solved",
+                    "fr-FR": "Affaire classée",
+                    "pt-PT": "Um Mistério Solucionado",
+                    "it-IT": "Un mistero risolto",
+                    "de-DE": "Ein gelöstes Rätsel",
+                    "ja-JP": "LSノワール",
+                    "es-ES": "Un misterio resuelto",
+                    "ko-KR": "미스테리 해결",
+                    "ru-RU": "Тайна разгадана",
+                    "pl-PL": "Zagadka rozwiązana",
+                    "zh-CHT": "解開謎團"
+                },
+                "description": {
+                    "en-US": "You solved the mystery of Leonora Johnson.",
+                    "fr-FR": "Vous avez résolu le mystère de Leonora Johnson.",
+                    "pt-PT": "Você solucionou o mistério de Leonora Johnson.",
+                    "it-IT": "Hai risolto il mistero di Leonora Johnson.",
+                    "de-DE": "Du hast das Rätsel um Leonora Johnson gelöst.",
+                    "ja-JP": "レオノーラ・ジョンソン殺害の謎を解いた。",
+                    "es-ES": "Has resuelto el misterio de Leonora Johnson.",
+                    "ko-KR": "레오노라 존슨의 죽음에 대한 미스테리를 밝혀냈습니다.",
+                    "ru-RU": "Вы выяснили, что случилось с Леонорой Джонсон.",
+                    "pl-PL": "Udało ci się rozwiązać kryminalną zagadkę Leonory Johnson.",
+                    "zh-CHT": "您解開了里奧諾拉‧強森謀殺案之謎。"
+                },
+                "howto": {
+                    "en-US": "Solve the mystery of Leonora Johnson.",
+                    "fr-FR": "Résolvez le mystère de Leonora Johnson.",
+                    "pt-PT": "Solucione o mistério de Leonora Johnson.",
+                    "it-IT": "Risolvi il mistero di Leonora Johnson.",
+                    "de-DE": "Löse das Rätsel um Leonora Johnson.",
+                    "ja-JP": "レオノーラ・ジョンソン殺害の謎を解く。",
+                    "es-ES": "Resuelve el misterio de Leonora Johnson.",
+                    "ko-KR": "레오노라 존슨의 죽음에 대한 미스테리 해결",
+                    "ru-RU": "Выяснить, что случилось с Леонорой Джонсон.",
+                    "pl-PL": "Rozwiąż kryminalną zagadkę Leonory Johnson.",
+                    "zh-CHT": "解開里奧諾拉‧強森謀殺案之謎。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "19.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "en-US": "Waste Management ",
+                    "fr-FR": "Gestion des déchets",
+                    "pt-PT": "Gestão de Resíduos ",
+                    "it-IT": "Gestione rifiuti",
+                    "de-DE": "Abfallbeseitigung",
+                    "ja-JP": "地球を大切に",
+                    "es-ES": "Gestión de residuos ",
+                    "ko-KR": "폐기물 관리",
+                    "ru-RU": "Обработка отходов",
+                    "pl-PL": "Gospodarka odpadami",
+                    "zh-CHT": "廢料管理"
+                },
+                "description": {
+                    "en-US": "You purchased the old dock and collected all nuclear waste.",
+                    "fr-FR": "Vous avez acheté le vieux quai et collecté tous les déchets nucléaires.",
+                    "pt-PT": "Você comprou a antiga doca e coletou todo o lixo nuclear.",
+                    "it-IT": "Hai acquistato il vecchio molo e recuperato tutte le scorie nucleari.",
+                    "de-DE": "Du hast das alte Dock gekauft und allen Atommüll eingesammelt.",
+                    "ja-JP": "古い埠頭を購入し、全ての放射性廃棄物を回収した。",
+                    "es-ES": "Has comprado el viejo muelle y has recogido todo el desperdicio nuclear.",
+                    "ko-KR": "오래된 부두를 구입하고 모든 핵폐기물을 수거했습니다.",
+                    "ru-RU": "Вы купили старую пристань и собрали все ядерные отходы.",
+                    "pl-PL": "Udało ci się kupić stary dok i zebrać cały transport odpadów radioaktywnych.",
+                    "zh-CHT": "您買下舊碼頭並收集到所有核廢料。"
+                },
+                "howto": {
+                    "en-US": "Purchase the old dock and collect all nuclear waste.",
+                    "fr-FR": "Achetez le vieux quai et collectez tous les déchets nucléaires.",
+                    "pt-PT": "Compre a antiga doca e colete todo o lixo nuclear.",
+                    "it-IT": "Acquista il vecchio molo e recupera tutte le scorie nucleari.",
+                    "de-DE": "Kaufe das alte Dock und sammle allen Atommüll ein.",
+                    "ja-JP": "古い埠頭を購入し、全ての放射性廃棄物を回収する。",
+                    "es-ES": "Compra el viejo muelle y recoge todo el desperdicio nuclear.",
+                    "ko-KR": "오래된 부두를 구입 후 모든 핵폐기물 수거",
+                    "ru-RU": "Купить старую пристань и собрать все ядерные отходы.",
+                    "pl-PL": "Kup stary dok i zbierz cały transport odpadów radioaktywnych.",
+                    "zh-CHT": "購買舊碼頭並收集所有核廢料。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "20.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "en-US": "Red Mist",
+                    "fr-FR": "Folie furieuse",
+                    "pt-PT": "Sangue no Zóio",
+                    "it-IT": "Ci ho visto rosso",
+                    "de-DE": "Roter Nebel",
+                    "ja-JP": "怒り",
+                    "es-ES": "Niebla de furia",
+                    "ko-KR": "진짜 열 받았군",
+                    "ru-RU": "Кровавая пелена",
+                    "pl-PL": "Czerwona mgła",
+                    "zh-CHT": "血光滿天"
+                },
+                "description": {
+                    "en-US": "You completed all Rampages.",
+                    "fr-FR": "Vous avez terminé tous les carnages.",
+                    "pt-PT": "Você completou todas as Matanças.",
+                    "it-IT": "Hai completato tutte le Violenze.",
+                    "de-DE": "Du hast alle Randale abgeschlossen.",
+                    "ja-JP": "全ての妄想ミッションをクリアした。",
+                    "es-ES": "Has completado todas las masacres.",
+                    "ko-KR": "모든 난동을 완료했습니다.",
+                    "ru-RU": "Вы завершили все \"бойни\".",
+                    "pl-PL": "Udało ci się ukończyć wszystkie rzeźnie.",
+                    "zh-CHT": "您完成了所有的瘋狂殺戮任務。"
+                },
+                "howto": {
+                    "en-US": "Complete all Rampages.",
+                    "fr-FR": "Terminez tous les carnages.",
+                    "pt-PT": "Complete todas as Matanças.",
+                    "it-IT": "Completa tutte le Violenze.",
+                    "de-DE": "Schließe alle Randale ab.",
+                    "ja-JP": "全ての妄想ミッションをクリアする。",
+                    "es-ES": "Completa todas las masacres.",
+                    "ko-KR": "모든 난동 완료",
+                    "ru-RU": "Завершить все \"бойни\".",
+                    "pl-PL": "Ukończ wszystkie rzeźnie.",
+                    "zh-CHT": "完成所有瘋狂殺戮任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "21.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "en-US": "Show Off",
+                    "fr-FR": "Frimeur",
+                    "pt-PT": "Exibicionista",
+                    "it-IT": "Esibizionista",
+                    "de-DE": "Hoch hinaus",
+                    "ja-JP": "目立ちたがり屋",
+                    "es-ES": "Exhibicionista",
+                    "ko-KR": "나 이런 사람이야",
+                    "ru-RU": "Выпендрежник",
+                    "pl-PL": "Ryzykant",
+                    "zh-CHT": "我行我秀"
+                },
+                "description": {
+                    "en-US": "You completed all Stunt Jumps.",
+                    "fr-FR": "Vous avez réussi toutes les cascades.",
+                    "pt-PT": "Você completou todos os Saltos Únicos.",
+                    "it-IT": "Hai completato tutte le acrobazie folli.",
+                    "de-DE": "Du hast alle Monster-Stunts abgeschlossen.",
+                    "ja-JP": "全てのスタントジャンプをクリアした。",
+                    "es-ES": "Has completado todos los saltos acrobáticos.",
+                    "ko-KR": "모든 스턴트 점프를 완료했습니다.",
+                    "ru-RU": "Вы выполнили все каскадерские прыжки.",
+                    "pl-PL": "Udało ci się wykonać wszystkie skoki kaskaderskie.",
+                    "zh-CHT": "您完成了所有飛車特技。"
+                },
+                "howto": {
+                    "en-US": "Complete all Stunt Jumps. ",
+                    "fr-FR": "Réussissez toutes les cascades.",
+                    "pt-PT": "Complete todos os Saltos Únicos. ",
+                    "it-IT": "Completa tutte le acrobazie folli.",
+                    "de-DE": "Schließe alle Monster-Stunts ab.",
+                    "ja-JP": "全てのスタントジャンプをクリアする。",
+                    "es-ES": "Completa todos los saltos acrobáticos. ",
+                    "ko-KR": "모든 스턴트 점프 완료",
+                    "ru-RU": "Выполнить все каскадерские прыжки.",
+                    "pl-PL": "Wykonaj wszystkie skoki kaskaderskie.",
+                    "zh-CHT": "完成所有飛車特技。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "22.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "en-US": "Kifflom!",
+                    "fr-FR": "Kifflom !",
+                    "pt-PT": "Kifflom!",
+                    "it-IT": "Kifflom!",
+                    "de-DE": "Kifflom!",
+                    "ja-JP": "キフロム！",
+                    "es-ES": "¡Kifflom!",
+                    "ko-KR": "키플롬!",
+                    "ru-RU": "Киффлом!",
+                    "pl-PL": "Kifflom!",
+                    "zh-CHT": "至高基甫隆！"
+                },
+                "description": {
+                    "en-US": "You completed the Epsilon program and achieved inner peace.",
+                    "fr-FR": "Vous avez terminé le programme Epsilon et trouvé la paix intérieure.",
+                    "pt-PT": "Você completou o Programa Epsilon e alcançou a paz interior.",
+                    "it-IT": "Hai completato il Programma Epsilon e raggiunto la pace interiore.",
+                    "de-DE": "Du hast das Epsilon-Programm abgeschlossen und inneren Frieden gefunden.",
+                    "ja-JP": "イプシロン・プログラムを終了し、心の平穏を得た。",
+                    "es-ES": "Has completado el programa Epsilon y has alcanzado la paz interior.",
+                    "ko-KR": "엡실론 프로그램을 완료하고 내면의 평화를 얻었습니다.",
+                    "ru-RU": "Вы завершили программу \"Эпсилон\" и обрели внутренний покой.",
+                    "pl-PL": "Udało ci się ukończyć program Epsilon i osiągnąć wewnętrzny pokój.",
+                    "zh-CHT": "您完成了埃普西隆計劃而且找到內心平靜。"
+                },
+                "howto": {
+                    "en-US": "Complete your path to enlightenment... or not.",
+                    "fr-FR": "Atteignez l'illumination... ou pas.",
+                    "pt-PT": "Complete o seu caminho para o entendimento... ou não.",
+                    "it-IT": "Percorri fino in fondo la strada che conduce all'illuminazione... o no.",
+                    "de-DE": "Schließe deinen Weg zur Erleuchtung ab ... oder auch nicht.",
+                    "ja-JP": "覚醒に至る道を踏破する… もしくはしない。",
+                    "es-ES": "Completa tu camino a la iluminación... o no.",
+                    "ko-KR": "깨달음을 향한 길을 완성... 하거나 말거나",
+                    "ru-RU": "Обрести прозрение... или нет.",
+                    "pl-PL": "Ukończ swoją ścieżkę do oświecenia... albo i nie.",
+                    "zh-CHT": "走完心靈的啟蒙之路了嗎？"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "30",
+            "imageId": "23.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "en-US": "Three Man Army",
+                    "fr-FR": "Trio de choc",
+                    "pt-PT": "Exército de Três Homens",
+                    "it-IT": "Tre uomini, un esercito",
+                    "de-DE": "Drei-Mann-Armee",
+                    "ja-JP": "激弾トリオ",
+                    "es-ES": "Ejército de tres hombres",
+                    "ko-KR": "막 나가는 삼총사",
+                    "ru-RU": "Три героя",
+                    "pl-PL": "Trzyosobowa armia",
+                    "zh-CHT": "三人成伍"
+                },
+                "description": {
+                    "en-US": "You survived for 3 minutes on at least a 3 star Wanted Level with all three characters together.",
+                    "fr-FR": "Vous avez survécu 3 minutes avec un indice d'au moins 3 étoiles, avec les 3 personnages ensemble.",
+                    "pt-PT": "Sobreviveu 3 min a um Nível de Procurado de 3 estrelas ou mais com os três personagens juntos.",
+                    "it-IT": "Sei sopravvissuto per 3 minuti con un livello di sospetto a 3 con tutti e tre i personaggi insieme.",
+                    "de-DE": "Du hast zu dritt mindestens drei Fahndungsterne für drei Minuten überlebt.",
+                    "ja-JP": "手配度「星3つ」以上で3人一丸となって3分間生き延びた。",
+                    "es-ES": "Has sobrevivido 3 minutos con un nivel de búsqueda de 3 estrellas y con los 3 personajes juntos.",
+                    "ko-KR": "지명수배 3단계 이상인 상태에서 세 명의 캐릭터가 모두 함께 3분 동안 살아남았습니다.",
+                    "ru-RU": "Вы продержались 3 минуты при 3-звездочном (или более) уровне розыска 3-мя персонажами сразу.",
+                    "pl-PL": "Udało ci się przetrwać co najmniej 3-gwiazdkowy pościg przez 3 minuty wszystkimi trzema postaciami.",
+                    "zh-CHT": "您已成功讓三個角色在至少 3 星通緝等級下存活總時間達到 3 分鐘。"
+                },
+                "howto": {
+                    "en-US": "Survive 3 minutes on at least a 3 star Wanted Level with all three characters together off mission.",
+                    "fr-FR": "Hors mission, réunissez les 3 protagonistes et survivez pendant 3 minutes avec au moins 3 étoiles.",
+                    "pt-PT": "Sobreviva um Nível de Procurado de pelo menos 3 estrelas 3 min com os 3 personagens fora de missão.",
+                    "it-IT": "Resisti 3 minuti con un livello di sospetto a 3 stelle con i 3 personaggi insieme non in missione.",
+                    "de-DE": "Überlebe zu dritt mindestens drei Fahndungsterne für drei Minuten außerhalb einer Mission.",
+                    "ja-JP": "ミッション外で、手配度「星3つ」以上で3人一丸となって3分間生き延びる。",
+                    "es-ES": "Has pasado 3 minutos con 3 estrellas de búsqueda y con los 3 personajes juntos fuera de una misión.",
+                    "ko-KR": "임무 중이 아닐 때 지명수배 3단계 이상인 상태로 세 명의 캐릭터가 모두 3분 동안 생존",
+                    "ru-RU": "Продержитесь 3 минуты при 3-звездочном (или более) уровне розыска вне миссий 3-мя персонажами сразу.",
+                    "pl-PL": "Przetrwaj co najmniej 3-gwiazdkowy pościg przez 3 minuty wszystkimi trzema postaciami poza misją.",
+                    "zh-CHT": "讓三個角色於非執行任務時在至少 3 星通緝等級下存活總時間達到 3 分鐘。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "24.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "en-US": "Out of Your Depth",
+                    "fr-FR": "Hors de la zone de baignade",
+                    "pt-PT": "O Mar Não Está Para Peixes",
+                    "it-IT": "Più o meno mi barcameno",
+                    "de-DE": "Zu tief für dich",
+                    "ja-JP": "身の程知らず",
+                    "es-ES": "Como pez fuera del agua",
+                    "ko-KR": "좀 깊은데 말이야",
+                    "ru-RU": "Опасные воды",
+                    "pl-PL": "Na głębokiej wodzie",
+                    "zh-CHT": "水深危險"
+                },
+                "description": {
+                    "en-US": "You needed a bigger boat... or ANY boat!",
+                    "fr-FR": "Il vous fallait un plus gros bateau... ou un bateau tout court !",
+                    "pt-PT": "Você precisava de um barco maior... ou QUALQUER barco!",
+                    "it-IT": "Ti serviva una barca più grande... o una barca qualsiasi!",
+                    "de-DE": "Du brauchtest ein größeres Boot … oder IRGENDEIN Boot!",
+                    "ja-JP": "船の事故じゃなかったそうだ…",
+                    "es-ES": "Necesitabas un barco más grande... ¡o cualquier barco!",
+                    "ko-KR": "더 큰 보트... 아니, 아무 보트라도 필요했습니다!",
+                    "ru-RU": "Вам нужна была лодка побольше... да хоть какая-нибудь!",
+                    "pl-PL": "Trzeba było wziąć większą łódź... albo JAKĄKOLWIEK łódź.",
+                    "zh-CHT": "您需要一艘更大的船……或者任何船都好！"
+                },
+                "howto": {
+                    "en-US": "You're gonna need a bigger boat...",
+                    "fr-FR": "Il va vous falloir un plus gros bateau...",
+                    "pt-PT": "Você vai precisar de um barco maior...",
+                    "it-IT": "Ti servirà una barca più grande...",
+                    "de-DE": "Du brauchst ein größeres Boot …",
+                    "ja-JP": "この船じゃ小さすぎる…",
+                    "es-ES": "Vas a necesitar un barco más grande...",
+                    "ko-KR": "상어에 의해 사살",
+                    "ru-RU": "Вам нужна лодка побольше...",
+                    "pl-PL": "Przyda ci się większa łódź...",
+                    "zh-CHT": "您需要一艘更大的船……"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "25.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "en-US": "Altruist Acolyte",
+                    "fr-FR": "Acolyte des Altruistes",
+                    "pt-PT": "Acólito Altruísta",
+                    "it-IT": "Accolito Altruista",
+                    "de-DE": "Akolyth der Altruisten",
+                    "ja-JP": "利他的な信者",
+                    "es-ES": "Acólito altruista",
+                    "ko-KR": "알트루이즘의 신봉자",
+                    "ru-RU": "Прислужник Альтруистов",
+                    "pl-PL": "Akolita altruistów",
+                    "zh-CHT": "為虎作倀"
+                },
+                "description": {
+                    "en-US": "You delivered an unsuspecting victim to the Altruist Cult.",
+                    "fr-FR": "Vous avez conduit une victime sans méfiance à la secte des Altruistes.",
+                    "pt-PT": "Você forneceu uma inocente vítima para o Culto Altruísta.",
+                    "it-IT": "Hai consegnato un'ignara vittima alla Setta degli Altruisti.",
+                    "de-DE": "Du hast dem Altruistenkult ein ahnungsloses Opfer gebracht.",
+                    "ja-JP": "無警戒の被害者を利他主義者のカルト教団に連れて行った。",
+                    "es-ES": "Has entregado una víctima desprevenida a la secta altruista.",
+                    "ko-KR": "무고한 희생자 한 명을 알트루이즘 종교 집단으로 데려갔습니다.",
+                    "ru-RU": "Вы доставили ничего не подозревающую жертву Культу Альтруистов.",
+                    "pl-PL": "Udało ci się dostarczyć nieświadomą ofiarę do kultu altruistów.",
+                    "zh-CHT": "您把一名不知情的受害者帶到利他邪教。"
+                },
+                "howto": {
+                    "en-US": "Deliver an unsuspecting victim to the Altruist Cult.",
+                    "fr-FR": "Conduisez une victime sans méfiance à la secte des Altruistes.",
+                    "pt-PT": "Forneça uma inocente vítima para o Culto Altruísta.",
+                    "it-IT": "Consegna un'ignara vittima alla Setta degli Altruisti.",
+                    "de-DE": "Bring dem Altruistenkult ein ahnungsloses Opfer.",
+                    "ja-JP": "無警戒の被害者を利他主義者のカルト教団に連れて行く。",
+                    "es-ES": "Entrega una víctima desprevenida a la secta altruista.",
+                    "ko-KR": "무고한 희생자 한 명을 알트루이즘 종교 집단에 넘김",
+                    "ru-RU": "Доставить ничего не подозревающую жертву Культу Альтруистов.",
+                    "pl-PL": "Dostarcz niczego nieświadomą ofiarę do kultu altruistów.",
+                    "zh-CHT": "帶一名不知情的受害者到利他邪教。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "5",
+            "imageId": "26.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "en-US": "A Lot of Cheddar",
+                    "fr-FR": "Panier percé",
+                    "pt-PT": "Uma Dinherama",
+                    "it-IT": "Mani bucate",
+                    "de-DE": "Ein Haufen Schotter",
+                    "ja-JP": "大枚",
+                    "es-ES": "Despilfarro",
+                    "ko-KR": "배춧잎 좀 써볼까?",
+                    "ru-RU": "Тонны бабла",
+                    "pl-PL": "Mnóstwo kapusty",
+                    "zh-CHT": "揮金如土"
+                },
+                "description": {
+                    "en-US": "You spent a total of $200 million across all three characters.",
+                    "fr-FR": "Vous avez dépensé plus de 200 millions de dollars au total entre les trois personnages.",
+                    "pt-PT": "Você gastou um total de $200 milhões entre todos os três personagens.",
+                    "it-IT": "Hai speso oltre 200 milioni di dollari tra tutti e tre i personaggi.",
+                    "de-DE": "Du hast mit den drei Charakteren insgesamt 200 Millionen Dollar ausgegeben.",
+                    "ja-JP": "3キャラクターで合計2億ドルを使った。",
+                    "es-ES": "Has gastado 200 millones de dólares entre los tres personajes.",
+                    "ko-KR": "세 명의 캐릭터로 총 200만 달러를 썼습니다.",
+                    "ru-RU": "Вы потратили тремя персонажами 200 миллионов долларов.",
+                    "pl-PL": "Udało ci się wydać 200 milionów dolarów łącznie wszystkimi trzema postaciami.",
+                    "zh-CHT": "您用三個角色的身分總共花了兩億美金。"
+                },
+                "howto": {
+                    "en-US": "Spend a total of $200 million across all three characters.",
+                    "fr-FR": "Dépensez plus de 200 millions de dollars au total entre les trois personnages.",
+                    "pt-PT": "Gaste um total de $200 milhões entre todos os três personagens.",
+                    "it-IT": "Spendi oltre 200 milioni di dollari tra tutti e tre i personaggi.",
+                    "de-DE": "Gib mit den drei Charakteren insgesamt 200 Millionen Dollar aus.",
+                    "ja-JP": "3キャラクターで合計2億ドルを使う。",
+                    "es-ES": "Gasta 200 millones de dólares entre los tres personajes.",
+                    "ko-KR": "세 명의 캐릭터로 총 200만 달러 지출",
+                    "ru-RU": "Потратить тремя персонажами 200 миллионов долларов.",
+                    "pl-PL": "Wydaj 200 milionów dolarów łącznie wszystkimi trzema postaciami.",
+                    "zh-CHT": "用三個角色的身分累計花費兩億美金。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "27.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "en-US": "Trading Pure Alpha",
+                    "fr-FR": "Homme d'actions",
+                    "pt-PT": "Aplicando em Alfa Puro",
+                    "it-IT": "Mago della finanza",
+                    "de-DE": "Echter Börsenprofi",
+                    "ja-JP": "確実な投機",
+                    "es-ES": "Macho alfa en la bolsa",
+                    "ko-KR": "거래는 타이밍",
+                    "ru-RU": "Торговля Альфой",
+                    "pl-PL": "Rekin giełdowy",
+                    "zh-CHT": "股市買賣紅不讓"
+                },
+                "description": {
+                    "en-US": "You made a profit over your total investments in the stock market.",
+                    "fr-FR": "Vous avez fait des profits sur le total des investissements à la bourse.",
+                    "pt-PT": "Você lucrou no mercado de ações em todos os investimentos. ",
+                    "it-IT": "Hai realizzato un profitto sul totale degli investimenti in borsa.",
+                    "de-DE": "Du hast an der Börse einen Gewinn gemacht, der deine gesamten Investitionen übersteigt.",
+                    "ja-JP": "株式市場で、合計投資額を上回る利益を上げた。",
+                    "es-ES": "Tus beneficios en la bolsa han cubierto el total de tus inversiones.",
+                    "ko-KR": "주식 시장에서 세 명의 캐릭터로 총 투자액이 넘는 수익을 거두었습니다.",
+                    "ru-RU": "Вы получили прибыль сверх собственных инвестиций, торгуя на бирже.",
+                    "pl-PL": "Uzyskano na giełdzie dochód przekraczający łączną wartość inwestycji.",
+                    "zh-CHT": "您在股票市場的總投資已獲利。"
+                },
+                "howto": {
+                    "en-US": "Make a profit over your total investments in the stock market.",
+                    "fr-FR": "Faites des profits sur le total de vos investissements à la bourse.",
+                    "pt-PT": "Lucre no mercado de ações cobrindo todos os investimentos.",
+                    "it-IT": "Realizza un profitto sul totale degli investimenti in borsa.",
+                    "de-DE": "Mach an der Börse einen Gewinn, der deine gesamten Investitionen übersteigt.",
+                    "ja-JP": "株式市場で、合計投資額を上回る利益を上げる。",
+                    "es-ES": "Consigue beneficios que cubran el total de tus inversiones en bolsa.",
+                    "ko-KR": "주식 시장에서 세 명의 캐릭터로 총 투자액을 넘는 수익 창출",
+                    "ru-RU": "Получить прибыль сверх собственных инвестиций, торгуя на бирже.",
+                    "pl-PL": "Uzyskaj na giełdzie dochód przekraczający łączną wartość inwestycji.",
+                    "zh-CHT": "在股票市場的總投資獲利。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "28.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "en-US": "Pimp My Sidearm",
+                    "fr-FR": "Tuning d'arme",
+                    "pt-PT": "Tunando o Meu Ferro",
+                    "it-IT": "Armi pompate",
+                    "de-DE": "Aufgemotzte Waffe",
+                    "ja-JP": "ピンプ・マイ・ガン",
+                    "es-ES": "Tunea mi arma",
+                    "ko-KR": "이거 하나면 든든하지",
+                    "ru-RU": "Пистолет на прокачку",
+                    "pl-PL": "Odpicuj mi spluwę",
+                    "zh-CHT": "改裝武器"
+                },
+                "description": {
+                    "en-US": "You fully modded a weapon.",
+                    "fr-FR": "Vous avez complètement modifié une arme.",
+                    "pt-PT": "Você modificou completamente uma arma.",
+                    "it-IT": "Hai completamente personalizzato un'arma.",
+                    "de-DE": "Du hast eine Waffe vollständig modifiziert.",
+                    "ja-JP": "1つの武器を最大限に改造した。",
+                    "es-ES": "Has modificado completamente un arma.",
+                    "ko-KR": "무기 하나를 최대로 개조했습니다.",
+                    "ru-RU": "Вы полностью модифицировали оружие.",
+                    "pl-PL": "Udało ci się całkowicie zmodyfikować swoją broń.",
+                    "zh-CHT": "您徹底改裝了一把武器。"
+                },
+                "howto": {
+                    "en-US": "Fully mod a weapon.",
+                    "fr-FR": "Modifiez complètement une arme.",
+                    "pt-PT": "Modifique completamente uma arma.",
+                    "it-IT": "Personalizza completamente un'arma.",
+                    "de-DE": "Modifiziere eine Waffe vollständig.",
+                    "ja-JP": "１つの武器を最大限に改造する。",
+                    "es-ES": "Modifica completamente un arma.",
+                    "ko-KR": "하나의 무기를 최대로 개조",
+                    "ru-RU": "Полностью модифицировать оружие.",
+                    "pl-PL": "Całkowicie zmodyfikuj swoją broń.",
+                    "zh-CHT": "徹底改裝一把武器。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "29.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "en-US": "Wanted: Alive Or Alive",
+                    "fr-FR": "Recherché vif ou vif",
+                    "pt-PT": "Procurado: Vivo ou Bem Vivo",
+                    "it-IT": "Ricercato: vivo o vivo",
+                    "de-DE": "Gesucht: lebendig oder lebendig",
+                    "ja-JP": "ウォンテッド：アライヴ",
+                    "es-ES": "Se busca vivo o muerto",
+                    "ko-KR": "산 채로 데려올 것",
+                    "ru-RU": "Разыскивается живым или живым",
+                    "pl-PL": "Poszukiwany żywy lub żywy",
+                    "zh-CHT": "只要活的"
+                },
+                "description": {
+                    "en-US": "You delivered a bail bond target alive.",
+                    "fr-FR": "Vous avez livré un criminel recherché vivant.",
+                    "pt-PT": "Você entregou o alvo de uma caça de recompensa vivo.",
+                    "it-IT": "Hai consegnato vivo un latitante ricercato.",
+                    "de-DE": "Du hast einen Kautionsflüchtling lebendig abgeliefert.",
+                    "ja-JP": "保釈逃亡者を生きたまま連行した。",
+                    "es-ES": "Has entregado a un objetivo de cazafugitivos con vida.",
+                    "ko-KR": "보석 보증인을 산 채로 전달했습니다.",
+                    "ru-RU": "Вы доставили выпущенного под залог преступника живым.",
+                    "pl-PL": "Udało ci się dostarczyć poszukiwanego żywego.",
+                    "zh-CHT": "您順利把一名棄保逃犯活捉帶回。"
+                },
+                "howto": {
+                    "en-US": "Deliver a bail bond target alive.",
+                    "fr-FR": "Livrez un criminel recherché vivant.",
+                    "pt-PT": "Entregue o alvo de uma caça de recompensa vivo.",
+                    "it-IT": "Consegna vivo un latitante ricercato.",
+                    "de-DE": "Liefere einen Kautionsflüchtling lebendig ab.",
+                    "ja-JP": "保釈逃亡者を生きたまま連行する。",
+                    "es-ES": "Entrega a un objetivo de cazafugitivos con vida.",
+                    "ko-KR": "보석 보증인을 산 채로 전달",
+                    "ru-RU": "Доставить выпущенного под залог преступника живым.",
+                    "pl-PL": "Dostarcz poszukiwanego żywego.",
+                    "zh-CHT": "把一名棄保逃犯活捉帶回。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "30.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "en-US": "Los Santos Customs",
+                    "fr-FR": "Los Santos Customs",
+                    "pt-PT": "Los Santos Customs",
+                    "it-IT": "Los Santos Customs",
+                    "de-DE": "Los Santos Customs",
+                    "ja-JP": "ロスサントス・カスタム",
+                    "es-ES": "Los Santos Customs",
+                    "ko-KR": "로스 산토스 커스텀",
+                    "ru-RU": "Los Santos Customs",
+                    "pl-PL": "Los Santos Customs",
+                    "zh-CHT": "洛聖都改車王"
+                },
+                "description": {
+                    "en-US": "You fully modded a vehicle.",
+                    "fr-FR": "Vous avez complètement modifié un véhicule.",
+                    "pt-PT": "Você modificou completamente um veículo.",
+                    "it-IT": "Hai completamente personalizzato un veicolo.",
+                    "de-DE": "Du hast ein Fahrzeug vollständig modifiziert.",
+                    "ja-JP": "１台の乗り物を最大限にチューニングした。",
+                    "es-ES": "Has modificado completamente un vehículo.",
+                    "ko-KR": "차량 한 대를 최대로 개조했습니다.",
+                    "ru-RU": "Вы полностью модифицировали транспортное средство.",
+                    "pl-PL": "Udało ci się całkowicie zmodyfikować jeden pojazd.",
+                    "zh-CHT": "您徹底改裝了一輛車。"
+                },
+                "howto": {
+                    "en-US": "Fully mod a vehicle.",
+                    "fr-FR": "Modifiez complètement un véhicule.",
+                    "pt-PT": "Modifique completamente um veículo.",
+                    "it-IT": "Personalizza completamente un veicolo.",
+                    "de-DE": "Modifiziere ein Fahrzeug vollständig.",
+                    "ja-JP": "１台の乗り物を最大限にチューニングする。",
+                    "es-ES": "Modifica completamente un vehículo.",
+                    "ko-KR": "한 대의 차량을 최대로 개조",
+                    "ru-RU": "Полностью модифицировать транспортное средство.",
+                    "pl-PL": "Całkowicie zmodyfikuj jeden pojazd.",
+                    "zh-CHT": "徹底改裝一輛車。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "31.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "en-US": "Close Shave",
+                    "fr-FR": "Haute voltige",
+                    "pt-PT": "Por Um Triz",
+                    "it-IT": "Per un pelo",
+                    "de-DE": "Knappe Angelegenheit",
+                    "ja-JP": "危機一髪",
+                    "es-ES": "Por un pelo",
+                    "ko-KR": "아슬아슬한 비행",
+                    "ru-RU": "На волосок от гибели",
+                    "pl-PL": "O grubość lakieru",
+                    "zh-CHT": "千鈞一髮"
+                },
+                "description": {
+                    "en-US": "You completed all Under the Bridge and Knife Flight challenges.",
+                    "fr-FR": "Vous avez réussi tous les défis Sous le pont et Vol sur la tranche.",
+                    "pt-PT": "Você completou todos os desafios Ponte Aérea e Voo de Faca.",
+                    "it-IT": "Hai completato tutte le sfide Sotto il ponte e Volo a coltello.",
+                    "de-DE": "Du hast alle Herausforderungen \"Unter der Brücke durch\" und \"Messerflug\" abgeschlossen.",
+                    "ja-JP": "全ての「アンダーザブリッジ」および「ナイフエッジ」チャレンジをクリアした。",
+                    "es-ES": "Has completado todos los desafíos bajo el puente y de vuelo a cuchillo.",
+                    "ko-KR": "다리 아래 비행 및 수직 비행 도전을 모두 완료했습니다.",
+                    "ru-RU": "Вы завершили все испытания \"Под мостом\" и \"Полет \"на ноже\".",
+                    "pl-PL": "Udało ci się ukończyć wszystkie wyzwania \"Pod mostem\" i \"Lot na żyletkę\".",
+                    "zh-CHT": "您完成了所有「穿橋引線」和「側飛」挑戰。"
+                },
+                "howto": {
+                    "en-US": "Complete all Under the Bridge and Knife Flight challenges.",
+                    "fr-FR": "Réussissez tous les défis Sous le pont et Vol sur la tranche.",
+                    "pt-PT": "Complete todos os desafios Ponte Aérea e Voo de Faca.",
+                    "it-IT": "Completa tutte le sfide Sotto il ponte e Volo a coltello.",
+                    "de-DE": "Schließe alle Herausforderungen \"Unter der Brücke durch\" und \"Messerflug\" ab.",
+                    "ja-JP": "全ての「アンダーザブリッジ」および「ナイフエッジ」チャレンジをクリアする。",
+                    "es-ES": "Completa todos los desafíos bajo el puente y de vuelo a cuchillo.",
+                    "ko-KR": "다리 아래 비행 및 수직 비행 도전 모두 완료",
+                    "ru-RU": "Завершить все испытания \"Под мостом\" и \"Полет \"на ноже\".",
+                    "pl-PL": "Ukończ wszystkie wyzwania \"Pod mostem\" i \"Lot na żyletkę\".",
+                    "zh-CHT": "完成所有「穿橋引線」和「側飛」挑戰。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "32.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "en-US": "Off the Plane",
+                    "fr-FR": "Premiers pas",
+                    "pt-PT": "Carne Fresca",
+                    "it-IT": "Appena sbarcato",
+                    "de-DE": "Raus aus dem Flieger",
+                    "ja-JP": "飛行機から降りた新参者",
+                    "es-ES": "Recién llegado",
+                    "ko-KR": "이제 시작이군",
+                    "ru-RU": "И еще один приезжий",
+                    "pl-PL": "Wypad z samolotu",
+                    "zh-CHT": "千里之行，始於足下"
+                },
+                "description": {
+                    "en-US": "You completed the GTA Online Introduction.",
+                    "fr-FR": "Vous avez terminé l'introduction à GTA Online.",
+                    "pt-PT": "Você completou o Tutorial do GTA Online.",
+                    "it-IT": "Hai completato l'introduzione di GTA Online.",
+                    "de-DE": "Du hast die Einleitung von GTA Online abgeschlossen.",
+                    "ja-JP": "「GTAオンライン紹介」をクリアした。",
+                    "es-ES": "Has completado la introducción a GTA Online.",
+                    "ko-KR": "GTA 온라인 튜토리얼을 완료했습니다.",
+                    "ru-RU": "Вы завершили курс обучения GTA Online.",
+                    "pl-PL": "Udało ci się ukończyć wstęp do GTA Online.",
+                    "zh-CHT": "您完成了 GTA 線上模式介紹。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Complete the Introduction.",
+                    "fr-FR": "GTA Online : Terminez l'introduction.",
+                    "pt-PT": "GTA Online: Complete o Tutorial.",
+                    "it-IT": "GTA Online: completa l'introduzione.",
+                    "de-DE": "GTA Online: Schließe die Einleitung ab.",
+                    "ja-JP": "「GTAオンライン紹介」をクリアする。",
+                    "es-ES": "Completa la introducción a GTA Online.",
+                    "ko-KR": "GTA 온라인: 튜토리얼 완료",
+                    "ru-RU": "GTA Online: Завершить курс обучения.",
+                    "pl-PL": "GTA Online: Ukończ wstęp.",
+                    "zh-CHT": "GTA 線上模式：完成介紹。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "33.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "en-US": "Three-Bit Gangster",
+                    "fr-FR": "Gangster en herbe",
+                    "pt-PT": "Criminoso Meia-boca",
+                    "it-IT": "Gangsta da quattro soldi",
+                    "de-DE": "Kleiner Ganove",
+                    "ja-JP": "チンピラ卒業",
+                    "es-ES": "Gánster de pacotilla",
+                    "ko-KR": "3류 갱스터",
+                    "ru-RU": "Почти что гангстер",
+                    "pl-PL": "Młody gangster",
+                    "zh-CHT": "大尾流氓"
+                },
+                "description": {
+                    "en-US": "You reached Rank 25 in GTA Online.",
+                    "fr-FR": "Vous avez atteint le rang 25 dans GTA Online.",
+                    "pt-PT": "Você alcançou o Nível 25 no GTA Online.",
+                    "it-IT": "Hai raggiunto il livello 25 in GTA Online.",
+                    "de-DE": "Du hast in GTA Online Rang 25 erreicht.",
+                    "ja-JP": "「GTAオンライン」でランク25に到達した。",
+                    "es-ES": "Has llegado al nivel 25 en GTA Online.",
+                    "ko-KR": "GTA 온라인에서 랭킹 25에 도달했습니다.",
+                    "ru-RU": "Вы достигли 25-го уровня в GTA Online",
+                    "pl-PL": "Udało ci się osiągnąć rangę 25 w GTA Online.",
+                    "zh-CHT": "您已於 GTA 線上模式達到 25 級。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Reach Rank 25.",
+                    "fr-FR": "GTA Online : Atteignez le rang 25.",
+                    "pt-PT": "GTA Online: Alcance o Nível 25.",
+                    "it-IT": "GTA Online: raggiungi il livello 25.",
+                    "de-DE": "GTA Online: Erreiche Rang 25.",
+                    "ja-JP": "「GTAオンライン」でランク25に到達する。",
+                    "es-ES": "Llega al nivel 25 en GTA Online.",
+                    "ko-KR": "GTA 온라인: 랭킹 25 도달",
+                    "ru-RU": "GTA Online: Достигнуть 25-го уровня.",
+                    "pl-PL": "GTA Online: Osiągnij rangę 25.",
+                    "zh-CHT": "GTA 線上模式：達到 25 級。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "34.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "en-US": "Making Moves",
+                    "fr-FR": "En progrès",
+                    "pt-PT": "Na Correria",
+                    "it-IT": "Faccio cose, vedo gente",
+                    "de-DE": "Einen Namen gemacht",
+                    "ja-JP": "幹部",
+                    "es-ES": "Poco a poco",
+                    "ko-KR": "좀 놀아봤냐?",
+                    "ru-RU": "На пути к успеху",
+                    "pl-PL": "Szczebel po szczebelku",
+                    "zh-CHT": "步步高升"
+                },
+                "description": {
+                    "en-US": "You reached Rank 50 in GTA Online.",
+                    "fr-FR": "Vous avez atteint le rang 50 dans GTA Online.",
+                    "pt-PT": "Você alcançou o Nível 50 no GTA Online.",
+                    "it-IT": "Hai raggiunto il livello 50 in GTA Online.",
+                    "de-DE": "Du hast in GTA Online Rang 50 erreicht.",
+                    "ja-JP": "「GTAオンライン」でランク50に到達した。",
+                    "es-ES": "Has llegado al nivel 50 en GTA Online.",
+                    "ko-KR": "GTA 온라인에서 랭킹 50에 도달했습니다.",
+                    "ru-RU": "Вы достигли 50-го уровня в GTA Online.",
+                    "pl-PL": "Udało ci się osiągnąć rangę 50 w GTA Online.",
+                    "zh-CHT": "您已於 GTA 線上模式達到 50 級。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Reach Rank 50.",
+                    "fr-FR": "GTA Online : Atteignez le rang 50.",
+                    "pt-PT": "GTA Online: Alcance o Nível 50.",
+                    "it-IT": "GTA Online: raggiungi il livello 50.",
+                    "de-DE": "GTA Online: Erreiche Rang 50.",
+                    "ja-JP": "「GTAオンライン」でランク50に到達する。",
+                    "es-ES": "Llega al nivel 50 en GTA Online.",
+                    "ko-KR": "GTA 온라인: 랭킹 50 도달",
+                    "ru-RU": "GTA Online: Достигнуть 50-го уровня.",
+                    "pl-PL": "GTA Online: Osiągnij rangę 50.",
+                    "zh-CHT": "GTA 線上模式：達到 50 級。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "30",
+            "imageId": "35.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "en-US": "Above the Law",
+                    "fr-FR": "Au-dessus des lois",
+                    "pt-PT": "Acima da Lei",
+                    "it-IT": "Al di sopra della legge",
+                    "de-DE": "Über dem Gesetz",
+                    "ja-JP": "親方",
+                    "es-ES": "Por encima de la ley",
+                    "ko-KR": "법 위에 내가 있다",
+                    "ru-RU": "Превыше закона",
+                    "pl-PL": "Ponad prawem",
+                    "zh-CHT": "逍遙法外"
+                },
+                "description": {
+                    "en-US": "You reached Rank 100 in GTA Online.",
+                    "fr-FR": "Vous avez atteint le rang 100 dans GTA Online.",
+                    "pt-PT": "Você alcançou o Nível 100 no GTA Online.",
+                    "it-IT": "Hai raggiunto il livello 100 in GTA Online.",
+                    "de-DE": "Du hast in GTA Online Rang 100 erreicht.",
+                    "ja-JP": "「GTAオンライン」でランク100に到達した。",
+                    "es-ES": "Has llegado al nivel 100 en GTA Online.",
+                    "ko-KR": "GTA 온라인에서 랭킹 100에 도달했습니다.",
+                    "ru-RU": "Вы достигли 100-го уровня в GTA Online.",
+                    "pl-PL": "Udało ci się osiągnąć rangę 100 w GTA Online.",
+                    "zh-CHT": "您已於 GTA 線上模式達到 100 級。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Reach Rank 100.",
+                    "fr-FR": "GTA Online : Atteignez le rang 100.",
+                    "pt-PT": "GTA Online: Alcance o Nível 100.",
+                    "it-IT": "GTA Online: raggiungi il livello 100.",
+                    "de-DE": "GTA Online: Erreiche Rang 100.",
+                    "ja-JP": "「GTAオンライン」でランク100に到達する。",
+                    "es-ES": "Llega al nivel 100 en GTA Online.",
+                    "ko-KR": "GTA 온라인: 랭킹 100 도달",
+                    "ru-RU": "GTA Online: Достигнуть 100-го уровня.",
+                    "pl-PL": "GTA Online: Osiągnij rangę 100.",
+                    "zh-CHT": "GTA 線上模式：達到 100 級。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "80",
+            "imageId": "36.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "en-US": "Numero Uno",
+                    "fr-FR": "Numero uno",
+                    "pt-PT": "Número Uno",
+                    "it-IT": "Numero Uno",
+                    "de-DE": "Numero Uno",
+                    "ja-JP": "ナンバーワン",
+                    "es-ES": "Número uno",
+                    "ko-KR": "1인자",
+                    "ru-RU": "Номер один",
+                    "pl-PL": "Numero Uno",
+                    "zh-CHT": "獨占鰲頭"
+                },
+                "description": {
+                    "en-US": "You obtained first place in all competitive game types. ",
+                    "fr-FR": "Vous vous êtes classé premier dans tous les modes compétitifs.",
+                    "pt-PT": "Você obteve o primeiro lugar em todos os jogos competitivos. ",
+                    "it-IT": "Sei arrivato primo in tutti i tipi di partite competitive. ",
+                    "de-DE": "Du hast den ersten Platz bei allen Wettkampf-Spieltypen erreicht.",
+                    "ja-JP": "全ての対戦ゲームタイプで1位になった。",
+                    "es-ES": "Has quedado el primero en todos los tipos de partidas competitivas. ",
+                    "ko-KR": "모든 순위경쟁 게임에서 1위를 차지했습니다.",
+                    "ru-RU": "Вы заняли первое место во всех видах соревнований.",
+                    "pl-PL": "Udało ci się zdobyć pierwsze miejsce we wszystkich kompetetywnych rodzajach gier.",
+                    "zh-CHT": "您已在所有類型的競賽中都得過第一名。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Obtain first place in all competitive game types.",
+                    "fr-FR": "GTA Online : Classez-vous premier dans tous les modes compétitifs.",
+                    "pt-PT": "GTA Online: Obtenha o primeiro lugar em todos os jogos competitivos.",
+                    "it-IT": "GTA Online: arriva primo in tutti i tipi di partite competitive.",
+                    "de-DE": "GTA Online: Erreiche den ersten Platz bei allen Wettkampf-Spieltypen.",
+                    "ja-JP": "GTAオンラインの全ての対戦ゲームタイプで1位になる。",
+                    "es-ES": "Queda el primero en todos los tipos de partidas competitivas en GTA Online.",
+                    "ko-KR": "GTA 온라인: 모든 순위경쟁 게임에서 1위 차지",
+                    "ru-RU": "GTA Online: Занять первое место во всех видах соревнований.",
+                    "pl-PL": "GTA Online: Zdobądź pierwsze miejsce we wszystkich kompetetywnych rodzajach gier.",
+                    "zh-CHT": "GTA 線上模式：在所有類型的競賽中都得到第一名。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "37.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "en-US": "The Midnight Club",
+                    "fr-FR": "Midnight Club LS",
+                    "pt-PT": "The Midnight Club",
+                    "it-IT": "Midnight Club",
+                    "de-DE": "Der Midnight Club",
+                    "ja-JP": "ミッドナイトクラブ",
+                    "es-ES": "Midnight Club",
+                    "ko-KR": "미드나이트 클럽",
+                    "ru-RU": "Midnight Club",
+                    "pl-PL": "Midnight Club",
+                    "zh-CHT": "午夜俱樂部"
+                },
+                "description": {
+                    "en-US": "You used custom vehicles to win 5 races. ",
+                    "fr-FR": "Vous avez remporté 5 courses avec des véhicules custom.",
+                    "pt-PT": "Você utilizou um Veículo Personalizado para ganhar 5 corridas.",
+                    "it-IT": "Hai vinto 5 gare utilizzando veicoli personalizzati.",
+                    "de-DE": "Du hast fünf Rennen in einem getunten Fahrzeug gewonnen.",
+                    "ja-JP": "カスタム車両でレースに5回勝利した。",
+                    "es-ES": "Has usado vehículos personalizados para ganar 5 carreras. ",
+                    "ko-KR": "개조 차량을 사용해 레이스에서 5번 우승했습니다.",
+                    "ru-RU": "Вы выиграли 5 гонок, выступая на модифицированном транспортном средстве.",
+                    "pl-PL": "Udało ci się wygrać 5 wyścigów w zmodyfikowanym pojeździe.",
+                    "zh-CHT": "您駕駛客製化載具贏了 5 場比賽。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Use custom vehicles to win 5 races.",
+                    "fr-FR": "GTA Online : Remportez 5 courses avec des véhicules custom.",
+                    "pt-PT": "GTA Online: Utilize um Veículo Personalizado para ganhar 5 corridas.",
+                    "it-IT": "GTA Online: utilizza veicoli personalizzati e vinci 5 gare.",
+                    "de-DE": "GTA Online: Gewinne fünf Rennen in einem getunten Fahrzeug.",
+                    "ja-JP": "GTAオンラインでカスタム車両に乗ってレースに5回勝利する。",
+                    "es-ES": "Usa vehículos personalizados para ganar 5 carreras en GTA Online.",
+                    "ko-KR": "GTA 온라인: 개조 차량을 사용해 레이스 5번 우승",
+                    "ru-RU": "GTA Online: Выиграть 5 гонок, выступая на модифицированном транспортном средстве.",
+                    "pl-PL": "GTA Online: Wykorzystaj zmodyfikowany pojazd do wygrania 5 wyścigów.",
+                    "zh-CHT": "GTA 線上模式：駕駛客製化載具贏得 5 場比賽。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "38.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "en-US": "Unnatural Selection",
+                    "fr-FR": "La loi du plus fort",
+                    "pt-PT": "Seleção Não Natural",
+                    "it-IT": "Selezione innaturale",
+                    "de-DE": "Unnatürliche Auslese",
+                    "ja-JP": "非自然淘汰",
+                    "es-ES": "Selección antinatural",
+                    "ko-KR": "아직도 살아 있다니",
+                    "ru-RU": "Неестественный отбор",
+                    "pl-PL": "Selekcja nienaturalna",
+                    "zh-CHT": "我命由我"
+                },
+                "description": {
+                    "en-US": "You completed all 10 waves of a Survival. ",
+                    "fr-FR": "Vous êtes venu à bout des 10 vagues d'une partie de Survie.",
+                    "pt-PT": "Você completou todas as 10 ondas de ataque em uma partida de Sobrevivência.",
+                    "it-IT": "Hai completato tutte e 10 le ondate di una Sopravvivenza.",
+                    "de-DE": "Du hast alle 10 Wellen eines Überlebenskampfes abgeschlossen.",
+                    "ja-JP": "「サバイバル」で10回の波状攻撃をクリアした。",
+                    "es-ES": "Has completado las 10 oleadas de una partida de supervivencia. ",
+                    "ko-KR": "서바이벌에서 10번의 공세를 모두 완료했습니다.",
+                    "ru-RU": "Вы отбили все 10 волн нападающих в \"Выживании\".",
+                    "pl-PL": "Udało ci się ukończyć wszystkie 10 fal przetrwania.",
+                    "zh-CHT": "您完成了全 10 波的生存戰。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Complete all 10 waves of a Survival.",
+                    "fr-FR": "GTA Online : Venez à bout des 10 vagues d'une partie de Survie.",
+                    "pt-PT": "GTA Online: Complete todas as 10 ondas de ataque de uma partida de Sobrevivência.",
+                    "it-IT": "GTA Online: completa tutte e 10 le ondate di una Sopravvivenza.",
+                    "de-DE": "GTA Online: Schließe alle 10 Wellen eines Überlebenskampfes ab.",
+                    "ja-JP": "GTAオンラインの「サバイバル」で10回の波状攻撃をクリアする。",
+                    "es-ES": "Completa las 10 oleadas de una partida de supervivencia en GTA Online.",
+                    "ko-KR": "GTA 온라인: 서바이벌에서 10번의 공세 모두 완료",
+                    "ru-RU": "GTA Online: Отбить все 10 волн нападающих в \"Выживании\".",
+                    "pl-PL": "GTA Online: Ukończ wszystkie 10 fal przetrwania.",
+                    "zh-CHT": "GTA 線上模式：完成全 10 波的生存戰。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "39.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "en-US": "Backseat Driver",
+                    "fr-FR": "Coopération victorieuse",
+                    "pt-PT": "Passageiro/Motorista",
+                    "it-IT": "Copilota d'oro",
+                    "de-DE": "Beifahrer-Karriere",
+                    "ja-JP": "優雅な車の旅",
+                    "es-ES": "Desde el asiento de atrás",
+                    "ko-KR": "내가 길을 알아",
+                    "ru-RU": "Опосредованное вождение",
+                    "pl-PL": "Żywy GPS",
+                    "zh-CHT": "指揮駕駛"
+                },
+                "description": {
+                    "en-US": "You directed a driver to 1st place as co-driver in Rally Mode.",
+                    "fr-FR": "Vous avez participé à un rallye comme copilote et aidé votre pilote à atteindre la première place.",
+                    "pt-PT": "Você orientou o seu motorista e ficou em 1º lugar como Co-piloto no Modo Rally.",
+                    "it-IT": "Da copilota, sei arrivato primo in una gara della modalità rally.",
+                    "de-DE": "Du hast einen Fahrer als Beifahrer im Rallye-Modus auf den 1. Platz geführt.",
+                    "ja-JP": "ラリーモードのナビゲーターとしてドライバーを補佐し、1位でフィニッシュした。",
+                    "es-ES": "Has guiado a un conductor hasta el primer puesto como copiloto en el modo rally.",
+                    "ko-KR": "랠리 모드에서 보조 운전사로 운전사를 안내해서 1위를 차지했습니다.",
+                    "ru-RU": "Вы заняли первое место в ралли, выступая в роли штурмана.",
+                    "pl-PL": "Udało ci się poprowadzić kierowcę w rajdzie do pierwszego miejsca.",
+                    "zh-CHT": "您在拉力賽中作為副駕駛成功指引主駕駛奪冠。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Direct a driver to 1st place as co-driver in Rally Mode.",
+                    "fr-FR": "GTA Online : Atteignez la première place lors d'une course de rallye en tant que copilote.",
+                    "pt-PT": "GTA Online: Oriente o seu motorista e fique em 1º lugar como Co-piloto no Modo Rally.",
+                    "it-IT": "GTA Online: da copilota, arriva primo in una gara della modalità rally.",
+                    "de-DE": "GTA Online: Führe einen Fahrer als Beifahrer im Rallye-Modus auf den 1. Platz.",
+                    "ja-JP": "GTAオンラインの「ラリーモード」のナビゲーターとしてドライバーを補佐し、1位でフィニッシュする。",
+                    "es-ES": "Guía a un conductor hasta el primer puesto como copiloto en el modo rally en GTA Online.",
+                    "ko-KR": "GTA 온라인: 랠리 모드에서 보조 운전사로 1위 차지",
+                    "ru-RU": "GTA Online: Занять первое место в ралли, выступая в роли штурмана.",
+                    "pl-PL": "GTA Online: Poprowadź kierowcę w rajdzie i zdobądźcie 1 miejsce.",
+                    "zh-CHT": "GTA 線上模式：在拉力賽中扮演副駕駛指引主駕駛奪冠。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "40.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "en-US": "Run Like The Wind",
+                    "fr-FR": "Chasse à l'homme",
+                    "pt-PT": "Corra como o Vento",
+                    "it-IT": "Corri come il vento",
+                    "de-DE": "Tot oder lebendig",
+                    "ja-JP": "疾走",
+                    "es-ES": "Correr como el viento",
+                    "ko-KR": "바람처럼 튀어라",
+                    "ru-RU": "Без оглядки",
+                    "pl-PL": "Szybki jak wiatr",
+                    "zh-CHT": "無影無蹤"
+                },
+                "description": {
+                    "en-US": "You survived for a day with a Bounty on your head.",
+                    "fr-FR": "Vous avez survécu pendant une journée avec une prime sur votre tête.",
+                    "pt-PT": "Você sobreviveu por um dia com uma Recompensa pela sua cabeça.",
+                    "it-IT": "Sei sopravvissuto per un giorno con una taglia sulla testa.",
+                    "de-DE": "Du hast einen Tag überlebt, während ein Kopfgeld auf dich ausgesetzt war.",
+                    "ja-JP": "賞金首の状態で1日生き延びた。",
+                    "es-ES": "Has sobrevivido un día con una recompensa por tu cabeza.",
+                    "ko-KR": "현상금이 걸린 상태로 하루 동안 살아남았습니다.",
+                    "ru-RU": "Вы выжили день с наградой за вашу голову.",
+                    "pl-PL": "Udało ci się przeżyć cały dzień z nagrodą za twoją głowę.",
+                    "zh-CHT": "您在受人懸賞的狀況下逃過了一天。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Survive for a day with a Bounty on your head.",
+                    "fr-FR": "GTA Online : Survivez pendant une journée avec une prime sur votre tête.",
+                    "pt-PT": "GTA Online: Sobreviva por um dia com uma Recompensa pela sua cabeça.",
+                    "it-IT": "GTA Online: sopravvivi per un giorno con una taglia sulla testa.",
+                    "de-DE": "GTA Online: Überlebe einen Tag, während ein Kopfgeld auf dich ausgesetzt ist.",
+                    "ja-JP": "GTAオンラインにて、賞金首の状態で1日生き延びる。",
+                    "es-ES": "Sobrevive un día con una recompensa por tu cabeza en GTA Online.",
+                    "ko-KR": "GTA 온라인: 현상금이 걸린 상태로 하루 동안 생존",
+                    "ru-RU": "GTA Online: Выжить день с наградой за вашу голову.",
+                    "pl-PL": "GTA Online: Przeżyj cały dzień przy wyznaczonej nagrodzie za swoją głowę.",
+                    "zh-CHT": "GTA 線上模式：在受人懸賞的狀況下逃過一天。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "41.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "en-US": "Clean Sweep",
+                    "fr-FR": "Table rase",
+                    "pt-PT": "De Lavada",
+                    "it-IT": "Pulito pulito",
+                    "de-DE": "Saubere Arbeit",
+                    "ja-JP": "一掃",
+                    "es-ES": "Barrido total",
+                    "ko-KR": "휩쓸었어!",
+                    "ru-RU": "Зачистка",
+                    "pl-PL": "Czyściciel",
+                    "zh-CHT": "一網打盡"
+                },
+                "description": {
+                    "en-US": "You finished a Gang Attack without dying and killed at least 10 enemies. ",
+                    "fr-FR": "Vous avez terminé une attaque de gang sans mourir et en tuant au moins 10 ennemis.",
+                    "pt-PT": "Você finalizou um Ataque de Gangue sem morrer e matou pelo menos 10 inimigos.",
+                    "it-IT": "Hai completato un Attacco Banda senza morire e uccidendo almeno 10 nemici.",
+                    "de-DE": "Du hast einen Gang-Angriff abgeschlossen, ohne zu sterben, und mindestens 10 Gegner erledigt.",
+                    "ja-JP": "最低10人の敵を倒し、死亡することなく「ギャング・アタック」をクリアした。",
+                    "es-ES": "Has terminado un ataque a banda sin morir y has matado al menos a 10 enemigos.",
+                    "ko-KR": "갱 어택에서 죽지 않고 10명 이상의 적을 사살했습니다.",
+                    "ru-RU": "Вы выжили в бандитской разборке и убили не менее 10 противников.",
+                    "pl-PL": "Udało ci się ukończyć atak na gang bez zgonu, zabijając przynajmniej 10 przeciwników.",
+                    "zh-CHT": "您在沒有死亡且殺害至少 10 名敵人的情況下，完成了一場幫派攻擊。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Finish a Gang Attack without dying and kill at least 10 enemies.",
+                    "fr-FR": "GTA Online : Terminez une attaque de gang sans mourir et en tuant au moins 10 ennemis.",
+                    "pt-PT": "GTA Online: Termine um Ataque de Gangue sem morrer e mate pelo menos 10 inimigos.",
+                    "it-IT": "GTA Online: completa un Attacco Banda senza morire e uccidendo almeno 10 nemici.",
+                    "de-DE": "GTA Online: Schließe einen Gang-Angriff ab, ohne zu sterben, und erledige mindestens 10 Gegner.",
+                    "ja-JP": "GTAオンラインの「ギャング・アタック」で、最低10人の敵を倒し、死亡することなくクリアする。",
+                    "es-ES": "Termina un ataque a banda sin morir y mata al menos a 10 enemigos en GTA Online.",
+                    "ko-KR": "GTA 온라인: 갱 어택에서 죽지 않고 10명 이상의 적 사살",
+                    "ru-RU": "GTA Online: Выжить в бандитской разборке и убить не менее 10 противников.",
+                    "pl-PL": "GTA Online: Ukończ atak na gang bez zgonu, zabijając przynajmniej 10 przeciwników.",
+                    "zh-CHT": "GTA 線上模式：在沒有死亡且殺害至少 10 名敵人的情況下，完成一場幫派攻擊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "42.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "en-US": "Decorated",
+                    "fr-FR": "Champion en ligne",
+                    "pt-PT": "Condecorado",
+                    "it-IT": "Decorazioni preziose",
+                    "de-DE": "Ausgezeichnet",
+                    "ja-JP": "勲章",
+                    "es-ES": "Condecorado",
+                    "ko-KR": "참 잘했어요",
+                    "ru-RU": "С отличием",
+                    "pl-PL": "Zbieracz nagród",
+                    "zh-CHT": "戰功彪炳"
+                },
+                "description": {
+                    "en-US": "You earned 30 Platinum Awards in GTA Online.",
+                    "fr-FR": "Vous avez gagné 30 récompenses de platine dans GTA Online.",
+                    "pt-PT": "Você ganhou 30 Prêmios de Platina no GTA Online.",
+                    "it-IT": "Hai ottenuto 30 medaglie di platino in GTA Online.",
+                    "de-DE": "Du hast dir in GTA Online 30 Platin-Auszeichnungen verdient.",
+                    "ja-JP": "「GTAオンライン」でプラチナ・アワードを30個獲得した。",
+                    "es-ES": "Has ganado 30 premios de platino en GTA Online.",
+                    "ko-KR": "GTA 온라인에서 30개의 플래티넘 보상을 획득했습니다.",
+                    "ru-RU": "Вы заработали 30 платиновых наград в GTA Online.",
+                    "pl-PL": "Udało ci się zdobyć 30 platynowych nagród w GTA Online.",
+                    "zh-CHT": "您在 GTA 線上模式中獲得 30 個白金獎項。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Earn 30 Platinum Awards.",
+                    "fr-FR": "GTA Online : Gagnez 30 récompenses de platine.",
+                    "pt-PT": "GTA Online: Ganhe 30 Prêmios de Platina.",
+                    "it-IT": "GTA Online: ottieni 30 medaglie di platino.",
+                    "de-DE": "GTA Online: Verdiene dir 30 Platin-Auszeichnungen.",
+                    "ja-JP": "「GTAオンライン」でプラチナ・アワードを30個獲得する。",
+                    "es-ES": "Gana 30 premios de platino en GTA Online.",
+                    "ko-KR": "GTA 온라인: 30개의 플래티넘 보상 획득",
+                    "ru-RU": "GTA Online: Заработать 30 платиновых наград.",
+                    "pl-PL": "GTA Online: Zdobądź 30 platynowych nagród.",
+                    "zh-CHT": "GTA 線上模式：獲得 30 個白金獎項。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "43.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "en-US": "Stick Up Kid",
+                    "fr-FR": "Expert cambrioleur",
+                    "pt-PT": "157",
+                    "it-IT": "Rapinatore provetto",
+                    "de-DE": "Selbsternannter Kassenwart",
+                    "ja-JP": "手を挙げろ！",
+                    "es-ES": "Atracador",
+                    "ko-KR": "털고 또 털고",
+                    "ru-RU": "Налетчик",
+                    "pl-PL": "Wietrzenie kas",
+                    "zh-CHT": "天生搶匪"
+                },
+                "description": {
+                    "en-US": "You held up all 20 Stores.",
+                    "fr-FR": "Vous avez braqué les 20 magasins.",
+                    "pt-PT": "Você assaltou todas as 20 Lojas com êxito.",
+                    "it-IT": "Hai rapinato tutti e 20 i negozi.",
+                    "de-DE": "Du hast alle 20 Läden überfallen.",
+                    "ja-JP": "20店、全ての店で略奪に成功した。",
+                    "es-ES": "Has atracado las 20 tiendas.",
+                    "ko-KR": "상점 20곳을 모두 강탈했습니다.",
+                    "ru-RU": "Вы ограбили 20 магазинов.",
+                    "pl-PL": "Udało ci się obrabować wszystkie 20 sklepów.",
+                    "zh-CHT": "您把 20 家商店全搶了一遍。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Hold up all 20 Stores.",
+                    "fr-FR": "GTA Online : Braquez les 20 magasins.",
+                    "pt-PT": "GTA Online: Assalte todas as 20 Lojas com êxito.",
+                    "it-IT": "GTA Online: rapina tutti e 20 i negozi.",
+                    "de-DE": "GTA Online: Überfalle alle 20 Läden.",
+                    "ja-JP": "GTAオンラインで20店、全ての店で略奪に成功する。",
+                    "es-ES": "Atraca las 20 tiendas de GTA Online.",
+                    "ko-KR": "GTA 온라인: 상점 20곳 모두 강탈",
+                    "ru-RU": "GTA Online: Ограбить 20 магазинов.",
+                    "pl-PL": "GTA Online: Obrabuj wszystkie 20 sklepów.",
+                    "zh-CHT": "GTA 線上模式：搶劫全部 20 家商店。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "44.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "en-US": "Enjoy Your Stay",
+                    "fr-FR": "Bon séjour !",
+                    "pt-PT": "Aproveite a Sua Estadia",
+                    "it-IT": "Buon soggiorno",
+                    "de-DE": "Schönen Aufenthalt",
+                    "ja-JP": "観光満喫",
+                    "es-ES": "Disfruta de la estancia",
+                    "ko-KR": "로스 산토스에 오신 것을 환영합니다.",
+                    "ru-RU": "Приятного отдыха",
+                    "pl-PL": "Miłego pobytu",
+                    "zh-CHT": "盡情領略"
+                },
+                "description": {
+                    "en-US": "You participated in everything Los Santos has to offer.",
+                    "fr-FR": "Vous avez participé à tout ce que Los Santos peut offrir.",
+                    "pt-PT": "Você participou de tudo o que Los Santos tem a oferecer.",
+                    "it-IT": "Hai sperimentato tutto ciò che Los Santos ha da offrire.",
+                    "de-DE": "Du hast an allem teilgenommen, das Los Santos dir zu bieten hat.",
+                    "ja-JP": "ロスサントスでやれるだけの事をやった。",
+                    "es-ES": "Has participado en todo lo que Los Santos te puede ofrecer.",
+                    "ko-KR": "로스 산토스의 모든 것을 경험했습니다.",
+                    "ru-RU": "Вы поучаствовали во всех развлечениях в Лос-Сантосе.",
+                    "pl-PL": "Udało ci się skorzystać ze wszystkiego, co ma do zaoferowania Los Santos.",
+                    "zh-CHT": "您已經參與過洛聖都所有的活動。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Participate in everything Los Santos has to offer.",
+                    "fr-FR": "GTA Online : Participez à tout ce que Los Santos peut offrir.",
+                    "pt-PT": "GTA Online: Participe de tudo o que Los Santos tem a oferecer.",
+                    "it-IT": "GTA Online: sperimenta tutto ciò che Los Santos ha da offrire.",
+                    "de-DE": "GTA Online: Nimm an allem teil, das Los Santos dir zu bieten hat.",
+                    "ja-JP": "GTAオンラインのロスサントスでやれるだけの事をやる。",
+                    "es-ES": "Participa en todo lo que Los Santos te puede ofrecer en GTA Online.",
+                    "ko-KR": "GTA 온라인: 로스 산토스의 모든 것을 경험",
+                    "ru-RU": "GTA Online: Поучаствовать во всех развлечениях в Лос-Сантосе.",
+                    "pl-PL": "GTA Online: Skorzystaj ze wszystkiego, co ma do zaoferowania Los Santos.",
+                    "zh-CHT": "GTA 線上模式：參與洛聖都所有的活動。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "45.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "en-US": "Crew Cut",
+                    "fr-FR": "Gagner sa crewte",
+                    "pt-PT": "Parte do Comando",
+                    "it-IT": "Tagliato per la crew",
+                    "de-DE": "Teil der Crew",
+                    "ja-JP": "クールクルー",
+                    "es-ES": "En equipo",
+                    "ko-KR": "우리가 남이가?",
+                    "ru-RU": "Член банды",
+                    "pl-PL": "Trybik w ekipie",
+                    "zh-CHT": "幫會份子"
+                },
+                "description": {
+                    "en-US": "You completed a Job as a member of a Crew.",
+                    "fr-FR": "Vous avez terminé une activité au sein d'un crew.",
+                    "pt-PT": "Você completou um Serviço como membro de um Comando.",
+                    "it-IT": "Hai completato un'attività quale membro di una crew.",
+                    "de-DE": "Du hast einen Job als Mitglied einer Crew abgeschlossen.",
+                    "ja-JP": "クルーの一員としてジョブをクリアした。",
+                    "es-ES": "Has completado una actividad como miembro de una Crew.",
+                    "ko-KR": "조직원이 되어 작업을 완료했습니다.",
+                    "ru-RU": "Вы выполнили дело в составе банды.",
+                    "pl-PL": "Udało ci się ukończyć akcję jako członek ekipy.",
+                    "zh-CHT": "您已經用幫會成員的身分完成一份差事。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Complete a Job as a member of a Crew.",
+                    "fr-FR": "GTA Online : Terminez une activité au sein d'un crew.",
+                    "pt-PT": "GTA Online: Complete um Serviço como membro de um Comando.",
+                    "it-IT": "GTA Online: completa un'attività quale membro di una crew.",
+                    "de-DE": "GTA Online: Schließe einen Job als Mitglied einer Crew ab.",
+                    "ja-JP": "GTAオンラインで、クルーの一員としてジョブをクリアする。",
+                    "es-ES": "Completa una actividad como miembro de una Crew en GTA Online.",
+                    "ko-KR": "GTA 온라인: 조직원이 되어 작업 완료",
+                    "ru-RU": "GTA Online: Выполнить дело в составе банды.",
+                    "pl-PL": "GTA Online: Ukończ akcję jako członek ekipy.",
+                    "zh-CHT": "GTA 線上模式：用幫會成員的身分完成一份差事。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "46.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "en-US": "Full Refund",
+                    "fr-FR": "Vengeance",
+                    "pt-PT": "Reembolso Total",
+                    "it-IT": "Rapinato e rimborsato",
+                    "de-DE": "Volle Rückerstattung",
+                    "ja-JP": "全額返金",
+                    "es-ES": "Reembolso completo",
+                    "ko-KR": "감히 누굴 건드려?",
+                    "ru-RU": "Возмещение ущерба",
+                    "pl-PL": "Pełny zwrot",
+                    "zh-CHT": "快意恩仇"
+                },
+                "description": {
+                    "en-US": "You killed the thief that mugged you.",
+                    "fr-FR": "Vous avez tué le voleur qui vous avait agressé.",
+                    "pt-PT": "Você matou o ladrão que lhe roubou.",
+                    "it-IT": "Hai ucciso il ladro che ti aveva rapinato.",
+                    "de-DE": "Du hast den Dieb erledigt, der dich ausgeraubt hat.",
+                    "ja-JP": "あなたの金を奪った強盗を殺した。",
+                    "es-ES": "Has matado al ladrón que te atracó.",
+                    "ko-KR": "당신을 습격한 도둑을 사살했습니다.",
+                    "ru-RU": "Вы убили вора, который вас ограбил.",
+                    "pl-PL": "Obrabowano cię, ale zatłukłeś drania.",
+                    "zh-CHT": "您殺了曾搶劫您的小偷。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Kill the thief that mugged you.",
+                    "fr-FR": "GTA Online : Tuez le voleur qui vous a agressé.",
+                    "pt-PT": "GTA Online: Mate o ladrão que lhe roubou.",
+                    "it-IT": "GTA Online: uccidi il ladro che ti ha rapinato.",
+                    "de-DE": "GTA Online: Erledige den Dieb, der dich ausgeraubt hat.",
+                    "ja-JP": "GTAオンラインで、あなたの金を奪った強盗を殺す。",
+                    "es-ES": "Mata al ladrón que te atracó en GTA Online.",
+                    "ko-KR": "GTA 온라인: 당신을 습격한 도둑 사살",
+                    "ru-RU": "GTA Online: Убить вора, который вас ограбил.",
+                    "pl-PL": "GTA Online: Zabij złodzieja, który cię okradł.",
+                    "zh-CHT": "GTA 線上模式：殺掉曾搶劫您的小偷。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "47.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "en-US": "Dialling Digits",
+                    "fr-FR": "3615 à l'aide",
+                    "pt-PT": "Batendo um Fio",
+                    "it-IT": "Comporre un numero",
+                    "de-DE": "Die Notfall-Nummer",
+                    "ja-JP": "今すぐお電話を",
+                    "es-ES": "Llamada de socorro",
+                    "ko-KR": "지금 바로 전화하세요",
+                    "ru-RU": "Звонок другу",
+                    "pl-PL": "Telefon do kumpla",
+                    "zh-CHT": "打電話搬救兵"
+                },
+                "description": {
+                    "en-US": "You called for gang backup for the first time.",
+                    "fr-FR": "Vous avez demandé des renforts au gang pour la première fois.",
+                    "pt-PT": "Você pediu ajuda para uma gangue pela primeira vez.",
+                    "it-IT": "Hai chiamato per ricevere rinforzi dalla banda per la prima volta.",
+                    "de-DE": "Du hast zum ersten Mal Gang-Unterstützung gerufen.",
+                    "ja-JP": "初めてギャングの応援を要請した。",
+                    "es-ES": "Has llamado para pedir apoyo de tu banda por primera vez.",
+                    "ko-KR": "갱 지원을 처음으로 요청했습니다.",
+                    "ru-RU": "Вы впервые позвали на помощь свою банду.",
+                    "pl-PL": "Po raz pierwszy wezwałeś gang do pomocy.",
+                    "zh-CHT": "您第一次打了電話向幫派搬救兵。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Call for gang backup for the first time.",
+                    "fr-FR": "GTA Online : Demandez des renforts au gang pour la première fois.",
+                    "pt-PT": "GTA Online: Peça ajuda para uma gangue pela primeira vez.",
+                    "it-IT": "GTA Online: chiama per ricevere rinforzi dalla banda per la prima volta.",
+                    "de-DE": "GTA Online: Rufe zum ersten Mal Gang-Unterstützung.",
+                    "ja-JP": "GTAオンラインで初めてギャングの応援を要請する。",
+                    "es-ES": "Llama para pedir apoyo de tu banda por primera vez en GTA Online.",
+                    "ko-KR": "GTA 온라인: 갱 지원 처음 요청",
+                    "ru-RU": "GTA Online: Позвать на помощь свою банду.",
+                    "pl-PL": "GTA Online: Zadzwoń po wsparcie gangu.",
+                    "zh-CHT": "GTA 線上模式：第一次打電話向幫派搬救兵。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "5",
+            "imageId": "48.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "en-US": "American Dream",
+                    "fr-FR": "Le rêve américain",
+                    "pt-PT": "O Sonho Americano",
+                    "it-IT": "Il sogno americano",
+                    "de-DE": "Der amerikanische Traum",
+                    "ja-JP": "アメリカンドリーム",
+                    "es-ES": "Sueño americano",
+                    "ko-KR": "아메리칸 드림",
+                    "ru-RU": "Американская мечта",
+                    "pl-PL": "Amerykańskie marzenie",
+                    "zh-CHT": "美夢成真"
+                },
+                "description": {
+                    "en-US": "You own an Apartment, Garage and an Insured Vehicle.",
+                    "fr-FR": "Vous avez une maison, un garage et un véhicule assuré.",
+                    "pt-PT": "Você é dono de uma Casa, uma Garagem e um Veículo Segurado.",
+                    "it-IT": "Adesso possiedi un appartamento, un garage e un veicolo assicurato.",
+                    "de-DE": "Du besitzt jetzt ein Apartment, eine Garage und ein versichertes Fahrzeug.",
+                    "ja-JP": "アパート、ガレージと保険つきの車を手に入れた。",
+                    "es-ES": "Tienes un apartamento, un garaje y un vehículo asegurado.",
+                    "ko-KR": "아파트와 차고, 보험에 가입된 차를 소유했습니다.",
+                    "ru-RU": "Теперь у вас есть своя квартира, гараж и застрахованное транспортное средство.",
+                    "pl-PL": "Posiadasz własny dom, garaż i ubezpieczony pojazd.",
+                    "zh-CHT": "您已擁有一棟房子、一座車庫，還有一輛已經投保的車子。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Own an Apartment, Garage and an Insured Vehicle.",
+                    "fr-FR": "GTA Online : Devenez propriétaire d'une maison, d'un garage et d'un véhicule assuré.",
+                    "pt-PT": "GTA Online: Seja dono de uma Casa, uma Garagem e um Veículo Segurado.",
+                    "it-IT": "GTA Online: possiedi un appartamento, un garage e un veicolo assicurato.",
+                    "de-DE": "GTA Online: Leg dir ein Apartment, eine Garage und ein versichertes Fahrzeug zu.",
+                    "ja-JP": "GTAオンラインでアパート、ガレージと保険つきの車を手に入れる。",
+                    "es-ES": "Consigue un apartamento, un garaje y un vehículo asegurado en GTA Online.",
+                    "ko-KR": "GTA 온라인: 아파트, 차고, 보험에 가입된 차 소유",
+                    "ru-RU": "GTA Online: Обзавестись квартирой, гаражом и застрахованным транспортным средством.",
+                    "pl-PL": "GTA Online: Zdobądź dom, garaż i ubezpieczony pojazd.",
+                    "zh-CHT": "GTA 線上模式：擁有一棟房子、一座車庫，還有一輛已經投保的車子。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "49.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "en-US": "Be Prepared",
+                    "fr-FR": "Préparateur",
+                    "pt-PT": "Esteja Preparado",
+                    "it-IT": "Preparazione",
+                    "de-DE": "Allzeit bereit",
+                    "ja-JP": "万全を期せ",
+                    "es-ES": "Prepárate",
+                    "ko-KR": "준비 운동",
+                    "ru-RU": "Будь готов",
+                    "pl-PL": "Przygotuj się",
+                    "zh-CHT": "及早準備"
+                },
+                "description": {
+                    "en-US": "You completed a Heist Setup mission.",
+                    "fr-FR": "Vous avez terminé une mission préparatoire de braquage.",
+                    "pt-PT": "Você completou um Planejamento de Golpe.",
+                    "it-IT": "Hai completato una preparazione al colpo.",
+                    "de-DE": "Du hast eine Raubüberfall-Vorbereitung geschafft.",
+                    "ja-JP": "「強盗準備」をクリアした。",
+                    "es-ES": "Has completado una misión preparatoria.",
+                    "ko-KR": "습격 계획 준비를 완료했습니다.",
+                    "ru-RU": "Вы выполнили подготовительное задание перед ограблением.",
+                    "pl-PL": "Ukończono przygotowanie do napadu.",
+                    "zh-CHT": "你已經完成一次搶劫準備。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Complete a Heist Setup mission.",
+                    "fr-FR": "GTA Online : Terminez une mission préparatoire de braquage.",
+                    "pt-PT": "GTA Online: Complete um Planejamento de Golpe.",
+                    "it-IT": "GTA Online: completa una preparazione al colpo.",
+                    "de-DE": "GTA Online: Schaffe eine Raubüberfall-Vorbereitung.",
+                    "ja-JP": "GTAオンラインで、「強盗準備」をクリアする。",
+                    "es-ES": "Completa una misión preparatoria en GTA Online.",
+                    "ko-KR": "GTA 온라인: 습격 계획 준비를 완료하십시오.",
+                    "ru-RU": "GTA Online: выполнить подготовительное задание перед ограблением.",
+                    "pl-PL": "GTA Online: Ukończ przygotowanie do napadu.",
+                    "zh-CHT": "GTA 線上模式：完成搶劫準備。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "50.png"
+        },
+        "51": {
+            "text": {
+                "name": {
+                    "en-US": "In the Name of Science",
+                    "fr-FR": "Pour la science",
+                    "pt-PT": "Em nome da ciência",
+                    "it-IT": "In nome della scienza",
+                    "de-DE": "Im Namen der Forschung",
+                    "ja-JP": "科学推進のために",
+                    "es-ES": "En nombre de la ciencia",
+                    "ko-KR": "과학의 이름으로",
+                    "ru-RU": "Во имя науки",
+                    "pl-PL": "W imię nauki",
+                    "zh-CHT": "假藉科學之名"
+                },
+                "description": {
+                    "en-US": "You completed The Humane Labs Raid and Series A Funding as Heist Leader or Crew.",
+                    "fr-FR": "Vous avez terminé les braquages \"Raid sur les Laboratoires Humane\" et \"Capital de départ\".",
+                    "pt-PT": "Completou Invasão ao Laboratório Humane e Financiamento - Série A (líder ou membro da Equipe).",
+                    "it-IT": "Hai completato Irruzione ai lab. Humane e Finanziamento stupefacente (leader o membro della squadra)",
+                    "de-DE": "Du hast Humane Labs und Serie-A-Finanzierung als Raubüberfall-Anführer oder -Crew geschafft.",
+                    "ja-JP": "「ヒューメイン研究所襲撃」と「ドラッグ強奪ビジネス」を強盗リーダー/メンバーとしてクリアした。",
+                    "es-ES": "Has completado el asalto a Lab. Humane y Financ. inicial como líder o miembro del golpe.",
+                    "ko-KR": "습격 리더 또는 조직으로 휴메인 연구소 습격 및 시리즈 A 자금 조달을 완료했습니다.",
+                    "ru-RU": "Вы завершили \"Рейд на Humane Labs\" и \"Перв. финансирование\" в роли лидера или члена банды.",
+                    "pl-PL": "Ukończono \"Skok na Humane Labs\" i \"Seria A: Fundusze\" jako przywódca napadu lub członek ekipy.",
+                    "zh-CHT": "你已經以搶劫任務隊長或隊員的身分完成「突襲人道研究實驗室」和「首輪募資」。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Complete The Humane Labs Raid and Series A Funding as Heist Leader or Crew.",
+                    "fr-FR": "GTA Online : Terminez les braquages \"Raid sur les Laboratoires Humane\" et \"Capital de départ\".",
+                    "pt-PT": "GTA Online: Complete Invasão ao L. Humane e Financiamento - Série A (líder ou membro da Equipe).",
+                    "it-IT": "GTA Online: completa Irruzione ai lab. Humane e Finanziamento stupefacente (leader o membro squadra)",
+                    "de-DE": "GTA Online: Schaffe Humane Labs und Serie-A-Finanzierung als Raubüberfall-Anführer oder -Crew.",
+                    "ja-JP": "GTAオンラインで、「ヒューメイン研究所襲撃」と「ドラッグ強奪ビジネス」を強盗リーダー/メンバーとしてクリアする。",
+                    "es-ES": "Completa el asalto a Lab. Humane y Financ. inicial como líder o miembro del golpe en GTA Online.",
+                    "ko-KR": "GTA 온라인: 습격 리더 또는 조직으로 휴메인 연구소 습격 및 시리즈 A 자금 조달을 완료하십시오.",
+                    "ru-RU": "GTA Online: завершить \"Рейд на Humane Labs\" и \"Перв. финансирование\" в роли лидера или члена банды.",
+                    "pl-PL": "GTA Online: Ukończ \"Skok na Humane Labs\" i \"Seria A: Fundusze\" jako przywódca lub członek ekipy.",
+                    "zh-CHT": "GTA 線上模式：以搶劫任務隊長或隊員的身分完成「突襲人道研究實驗室」和「首輪募資」。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "51.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "en-US": "Dead Presidents",
+                    "fr-FR": "Retrait en liquide",
+                    "pt-PT": "Saque Fácil",
+                    "it-IT": "Presidenti morti",
+                    "de-DE": "Tote Präsidenten",
+                    "ja-JP": "莫大な引き落とし",
+                    "es-ES": "Presidentes muertos",
+                    "ko-KR": "배추잎",
+                    "ru-RU": "Мертвые президенты",
+                    "pl-PL": "Martwi prezydenci",
+                    "zh-CHT": "富甲天下"
+                },
+                "description": {
+                    "en-US": "You completed The Fleeca Job and The Pacific Standard Job as Heist Leader or Crew.",
+                    "fr-FR": "Vous avez terminé les braquages \"Casse de la Fleeca\" et \"Casse de la Pacific Standard\".",
+                    "pt-PT": "Você completou o Golpe da Fleeca e o do Pacific Standard (líder ou membro da Equipe).",
+                    "it-IT": "Hai completato Il colpo alla Fleeca e il colpo alla Pacific Standard (leader o membro squadra).",
+                    "de-DE": "Du hast die Fleeca- und Pacific-Standard-Überfälle als Raubüberfall-Anführer oder -Crew geschafft.",
+                    "ja-JP": "「フリーサ強盗」と「パシフィック銀行強盗」を強盗リーダー/メンバーとしてクリアした。",
+                    "es-ES": "Has completado el golpe del Fleeca y el de Pacific Std. como líder o miembro del golpe.",
+                    "ko-KR": "습격 리더 또는 조직으로 플리카 작업 및 퍼시픽 스탠다드 작업을 완료했습니다.",
+                    "ru-RU": "Вы завершили \"Налет на Fleeca\" и \"Ограбление Pacific Standard\" в роли лидера или члена банды.",
+                    "pl-PL": "Ukończono \"Akcję we Fleeca\" i \"Akcję w Pacific Standard\" jako przywódca napadu lub członek ekipy.",
+                    "zh-CHT": "你已經以搶劫任務隊長或隊員的身分完成「全福銀行差事」和「太平洋標準差事」。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Complete The Fleeca Job and The Pacific Standard Job as Heist Leader or Crew.",
+                    "fr-FR": "GTA Online : Terminez les braquages \"Casse de la Fleeca\" et \"Casse de la Pacific Standard\".",
+                    "pt-PT": "GTA Online: Complete o Golpe da Fleeca e o do Pacific Standard (líder ou membro da Equipe).",
+                    "it-IT": "GTA Online: completa Il colpo alla Fleeca e il colpo alla Pacific Standard (leader o membro squadra)",
+                    "de-DE": "GTA Online: Schaffe die Fleeca- und Pacific-Standard-Überfälle als Raubüberfall-Anführer oder -Crew.",
+                    "ja-JP": "GTAオンラインで、「フリーサ強盗」と「パシフィック銀行強盗」を強盗リーダー/メンバーとしてクリアする。",
+                    "es-ES": "Completa el golpe del Fleeca y el de Pacific Std. como líder o miembro del golpe en GTA Online.",
+                    "ko-KR": "GTA 온라인: 습격 리더 또는 조직으로 플리카 작업 및 퍼시픽 스탠다드 작업을 완료하십시오.",
+                    "ru-RU": "GTA Online: завершить \"Налет на Fleeca\" и \"Огр. Pacific Standard\" в роли лидера или члена банды.",
+                    "pl-PL": "GTA Online: Ukończ \"Akcję we Fleeca\" i \"Akcję w Pacific Standard\" jako przywódca lub członek ekipy.",
+                    "zh-CHT": "GTA 線上模式：以搶劫任務隊長或隊員的身分完成「全福銀行差事」和「太平洋標準差事」。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "52.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "en-US": "Parole Day",
+                    "fr-FR": "Liberté inconditionnelle",
+                    "pt-PT": "Liberdade Condicional",
+                    "it-IT": "Libertà condizionale",
+                    "de-DE": "Freigänger",
+                    "ja-JP": "ブレイク・アウト",
+                    "es-ES": "Día de la condicional",
+                    "ko-KR": "큰집 나가는 날",
+                    "ru-RU": "УДО",
+                    "pl-PL": "Zwolnienie warunkowe",
+                    "zh-CHT": "假釋之日"
+                },
+                "description": {
+                    "en-US": "You completed The Prison Break as Heist Leader or Crew.",
+                    "fr-FR": "Vous avez terminé le braquage \"Sortie de prison\".",
+                    "pt-PT": "Você completou o Golpe da Fuga da Prisão (líder ou membro da Equipe).",
+                    "it-IT": "Hai completato Evasione (leader o membro squadra).",
+                    "de-DE": "Du hast den Gefängnisausbruch als Raubüberfall-Anführer oder -Crew geschafft.",
+                    "ja-JP": "「脱獄大作戦」を強盗リーダー/メンバーとしてクリアした。",
+                    "es-ES": "Has completado la fuga de la prisión como líder o miembro del golpe.",
+                    "ko-KR": "습격 리더 또는 조직으로 탈옥을 완료했습니다.",
+                    "ru-RU": "Вы завершили \"Побег из тюрьмы\" в роли лидера или члена банды.",
+                    "pl-PL": "Ukończono \"Ucieczkę z więzienia\" jako przywódca napadu bądź członek ekipy.",
+                    "zh-CHT": "你已經以搶劫任務隊長或隊員的身份完成「逃獄事件」。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Complete The Prison Break as Heist Leader or Crew.",
+                    "fr-FR": "GTA Online : Terminez le braquage \"Sortie de prison\".",
+                    "pt-PT": "GTA Online: Complete o Golpe da Fuga da Prisão (líder ou membro da Equipe).",
+                    "it-IT": "GTA Online: completa Evasione (leader o membro squadra).",
+                    "de-DE": "GTA Online: Schaffe den Gefängnisausbruch als Raubüberfall-Anführer oder -Crew.",
+                    "ja-JP": "GTAオンラインで、「脱獄大作戦」を強盗リーダー/メンバーとしてクリアする。",
+                    "es-ES": "Completa la fuga de la prisión como líder o miembro del golpe en GTA Online.",
+                    "ko-KR": "GTA 온라인: 습격 리더 또는 조직으로 탈옥을 완료하십시오.",
+                    "ru-RU": "GTA Online: завершить \"Побег из тюрьмы\" в роли лидера или члена банды.",
+                    "pl-PL": "GTA: Online: Ukończ \"Ucieczkę z więzienia\" jako przywódca napadu bądź członek ekipy.",
+                    "zh-CHT": "GTA 線上模式：以搶劫任務隊長或隊員的身分完成「逃獄事件」。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "53.png"
+        },
+        "54": {
+            "text": {
+                "name": {
+                    "en-US": "Shot Caller",
+                    "fr-FR": "Placement à risque",
+                    "pt-PT": "Manda-chuva",
+                    "it-IT": "Comandante",
+                    "de-DE": "Boss",
+                    "ja-JP": "リーダー格",
+                    "es-ES": "Mandamás",
+                    "ko-KR": "쏠 테면 쏴",
+                    "ru-RU": "Авторитет",
+                    "pl-PL": "Boss",
+                    "zh-CHT": "堂主"
+                },
+                "description": {
+                    "en-US": "You invested your hard earned cash and set up a Heist.",
+                    "fr-FR": "Vous avez investi votre propre argent dans un braquage.",
+                    "pt-PT": "Você investiu o seu dinheiro suado para montar um Golpe.",
+                    "it-IT": "Hai investito i tuoi sudati soldi nell'organizzazione di un colpo.",
+                    "de-DE": "Du hast dein sauer verdientes Geld investiert, um einen Raubüberfall vorzubereiten.",
+                    "ja-JP": "稼いだ資金を投じて「強盗」の準備を行った。",
+                    "es-ES": "Has invertido el dinero que tanto te ha costado ganar en preparar un golpe.",
+                    "ko-KR": "힘들게 번 돈을 습격 준비에 투자했습니다.",
+                    "ru-RU": "Вы внесли средства в организацию ограбления.",
+                    "pl-PL": "Zainwestowano gotówkę, aby zorganizować napad.",
+                    "zh-CHT": "你已經將辛苦賺來的血汗錢投入搶劫任務。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Invest your hard earned cash to set up a Heist.",
+                    "fr-FR": "GTA Online : Investissez votre propre argent pour organiser un braquage.",
+                    "pt-PT": "GTA Online: Invista o seu dinheiro suado para montar um Golpe.",
+                    "it-IT": "GTA Online: investi i tuoi sudati soldi nell'organizzazione di un colpo.",
+                    "de-DE": "GTA Online: Investiere dein sauer verdientes Geld, um einen Raubüberfall vorzubereiten.",
+                    "ja-JP": "GTAオンラインで、稼いだ資金を投じて「強盗」の準備を行う。",
+                    "es-ES": "Invierte el dinero que tanto te ha costado ganar en preparar un golpe en GTA Online.",
+                    "ko-KR": "GTA 온라인: 힘들게 번 돈을 습격 준비에 투자하십시오.",
+                    "ru-RU": "GTA Online: внести средства в организацию ограбления.",
+                    "pl-PL": "GTA Online: Zainwestuj swoją ciężko zarobioną gotówkę, aby zorganizować napad.",
+                    "zh-CHT": "GTA 線上模式：將辛苦賺來的血汗錢投入搶劫任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "10",
+            "imageId": "54.png"
+        },
+        "55": {
+            "text": {
+                "name": {
+                    "en-US": "Four Way",
+                    "fr-FR": "Équité totale",
+                    "pt-PT": "De Quatro",
+                    "it-IT": "A quattro",
+                    "de-DE": "Vier Wege",
+                    "ja-JP": "4等分",
+                    "es-ES": "A cuatro bandas",
+                    "ko-KR": "4인분 주세요",
+                    "ru-RU": "На четверых",
+                    "pl-PL": "Po równo",
+                    "zh-CHT": "四家平分"
+                },
+                "description": {
+                    "en-US": "As Heist Leader you set the Finale cut as 25% across all players.",
+                    "fr-FR": "En tant que chef, vous avez accordé 25 % du butin d'un braquage à chaque participant.",
+                    "pt-PT": "Como líder do Golpe, você determinou a divisão final dos ganhos em 25% para todos os jogadores.",
+                    "it-IT": "Come leader di un colpo, hai diviso il bottino in parti uguali (25%) tra tutti i giocatori.",
+                    "de-DE": "Du hast als Raubüberfall-Anführer im Finale jedem Spieler 25 % der Beute zugeteilt.",
+                    "ja-JP": "強盗リーダーとしてプレイヤー全員の「強盗フィナーレ」の分け前を25%に設定した。",
+                    "es-ES": "Como líder de un golpe, has fijado el reparto final al 25% para todos los jugadores.",
+                    "ko-KR": "습격 리더로 피날레의 수익 분배를 모든 플레이어 몫으로 25%를 설정했습니다.",
+                    "ru-RU": "Будучи руководителем ограбления, вы дали каждому из игроков по 25% добычи.",
+                    "pl-PL": "Przyznano wszystkim graczom dolę za finał napadu na poziomie 25%.",
+                    "zh-CHT": "你已經以搶劫任務隊長的身份，把搶劫的最終階段中所有玩家的分紅設為 25%。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: As Heist Leader set the Finale cut as 25% across all players.",
+                    "fr-FR": "GTA Online : En tant que chef, accordez une part de 25 % à chaque membre d'un braquage.",
+                    "pt-PT": "GTA Online: Como líder do Golpe, determine a divisão final dos ganhos em 25% a todos os jogadores.",
+                    "it-IT": "GTA Online: come leader di un colpo, dividi il bottino in parti uguali (25%) tra tutti i giocatori.",
+                    "de-DE": "GTA Online: Teile als Raubüberfall-Anführer im Finale jedem Spieler 25 % der Beute zu.",
+                    "ja-JP": "GTAオンラインで、強盗リーダーとしてプレイヤー全員の「強盗フィナーレ」の分け前を25%に設定する。",
+                    "es-ES": "Como líder de un golpe, fija el reparto final al 25% para todos los jugadores en GTA Online.",
+                    "ko-KR": "GTA 온라인: 습격 리더로 피날레의 수익 분배를 모든 플레이어 몫으로 25%를 설정하십시오.",
+                    "ru-RU": "GTA Online: будучи руководителем ограбления, дать каждому из игроков по 25% добычи.",
+                    "pl-PL": "GTA Online: Jako przywódca napadu ustal dolę wszystkich graczy za finał napadu na poziomie 25%.",
+                    "zh-CHT": "GTA 線上模式：作為搶劫任務的隊長，把搶劫最終階段中所有玩家的分紅設為 25%。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "10",
+            "imageId": "55.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "en-US": "Live a Little",
+                    "fr-FR": "On ne vit qu'une fois",
+                    "pt-PT": "Viva um Pouco",
+                    "it-IT": "Vivi un po'",
+                    "de-DE": "Leb ein bisschen",
+                    "ja-JP": "ビーハッピー",
+                    "es-ES": "Disfruta un poco",
+                    "ko-KR": "죽은 사람 없지?",
+                    "ru-RU": "Один раз живем",
+                    "pl-PL": "Pożyj trochę",
+                    "zh-CHT": "盡情揮霍"
+                },
+                "description": {
+                    "en-US": "You spent a total of $8,000,000 purchasing vehicles included as part of The Heists Update.",
+                    "fr-FR": "Vous avez dépensé un total de 8 000 000 $ en achetant des véhicules de la Mise à jour Braquages.",
+                    "pt-PT": "Você gastou um total de $8.000.000 em veículos incluídos na atualização Os Golpes.",
+                    "it-IT": "Hai speso un totale di 8.000.000$ acquistando veicoli dell'aggiornamento Colpi.",
+                    "de-DE": "Du hast insgesamt 8.000.000 $ für Fahrzeuge aus dem Heist-Update ausgegeben.",
+                    "ja-JP": "強盗アップデートの乗り物の購入に合計800万ドルを使った。",
+                    "es-ES": "Has gastado un total de 8 000 000 $ en comprar vehículos de la actualización Golpes.",
+                    "ko-KR": "습격 업데이트에 포함되는 이동 수단을 구입하는 데 총 $8,000,000를 사용했습니다.",
+                    "ru-RU": "Вы потратили 8 миллионов долларов на транспорт, добавленный с обновлением \"Ограбления\".",
+                    "pl-PL": "Wydano łącznie $8.000.000 na zakupy pojazdów z aktualizacji Napady.",
+                    "zh-CHT": "你已經花費高達八百萬元購買係屬搶劫任務內容更新的載具。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Spend a total of $8,000,000 purchasing vehicles included as part of The Heists Update.",
+                    "fr-FR": "GTA Online : Dépensez un total de 8 000 000 $ en achetant des véhicules de la Mise à jour Braquages.",
+                    "pt-PT": "GTA Online: Gaste um total de $8.000.000 em veículos incluídos na atualização Os Golpes.",
+                    "it-IT": "GTA Online: spendi un totale di 8.000.000$ acquistando veicoli dell'aggiornamento Colpi.",
+                    "de-DE": "GTA Online: Gib insgesamt 8.000.000 $ für Fahrzeuge aus dem Heist-Update aus.",
+                    "ja-JP": "GTAオンラインで、強盗アップデートの乗り物の購入に合計800万ドルを使う。",
+                    "es-ES": "Gasta un total de 8 000 000 $ en comprar vehículos de la actualización Golpes en GTA Online.",
+                    "ko-KR": "GTA 온라인: 습격 업데이트에 포함되는 이동 수단을 구입하는 데 총 $8,000,000를 사용하십시오.",
+                    "ru-RU": "GTA Online: потратить 8 миллионов долларов на транспорт, добавленный с обновлением \"Ограбления\".",
+                    "pl-PL": "GTA Online: Wydaj łącznie $8.000.000 na zakupy pojazdów z aktualizacji Napady.",
+                    "zh-CHT": "GTA 線上模式：花費高達八百萬元購買係屬搶劫任務內容更新的載具。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "56.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "en-US": "Can't Touch This",
+                    "fr-FR": "Intouchable",
+                    "pt-PT": "Intocável",
+                    "it-IT": "Intoccabile",
+                    "de-DE": "Can't Touch This",
+                    "ja-JP": "ノーダメージ",
+                    "es-ES": "Intocable",
+                    "ko-KR": "건드리지 마",
+                    "ru-RU": "Неуязвимый",
+                    "pl-PL": "Łapy precz",
+                    "zh-CHT": "所向無敵"
+                },
+                "description": {
+                    "en-US": "You completed a Heist Finale without taking any damage.",
+                    "fr-FR": "Vous avez terminé la phase finale d'un braquage sans subir de dégâts.",
+                    "pt-PT": "Completou um Final de Golpe sem sofrer dano.",
+                    "it-IT": "Hai completato un colpo conclusivo senza subire danni.",
+                    "de-DE": "Du hast ein Raubüberfall-Finale abgeschlossen, ohne verletzt zu werden.",
+                    "ja-JP": "一切ダメージを受けずに「強盗フィナーレ」をクリアした。",
+                    "es-ES": "Has completado un final de golpe sin sufrir daños.",
+                    "ko-KR": "습격 피날레를 아무런 피해 없이 완료했습니다.",
+                    "ru-RU": "Вы выполнили завершающую операцию ограбления, не получив урона.",
+                    "pl-PL": "Ukończono finał napadu bez odniesienia żadnych obrażeń.",
+                    "zh-CHT": "你已經完成一次搶劫任務最終階段且毫髮無傷。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Complete a Heist Finale without taking any damage.",
+                    "fr-FR": "GTA Online : Terminez la phase finale d'un braquage sans subir de dégâts.",
+                    "pt-PT": "GTA Online: Complete um Final de Golpe sem sofrer dano.",
+                    "it-IT": "GTA Online: completa un colpo conclusivo senza subire danni.",
+                    "de-DE": "GTA Online: Schließe ein Raubüberfall-Finale ab, ohne verletzt zu werden.",
+                    "ja-JP": "GTAオンラインで、一切ダメージを受けずに「強盗フィナーレ」をクリアする。",
+                    "es-ES": "Completa un final de golpe sin sufrir daños en GTA Online.",
+                    "ko-KR": "GTA 온라인: 습격 피날레를 아무런 피해 없이 완료하십시오.",
+                    "ru-RU": "GTA Online: выполнить завершающую операцию ограбления, не получив урона.",
+                    "pl-PL": "GTA Online: Ukończ finał napadu bez odniesienia żadnych obrażeń.",
+                    "zh-CHT": "GTA 線上模式：完成一次搶劫任務最終階段且毫髮無傷。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "57.png"
+        },
+        "58": {
+            "text": {
+                "name": {
+                    "en-US": "Mastermind",
+                    "fr-FR": "Génie du crime",
+                    "pt-PT": "Cérebro da Operação",
+                    "it-IT": "Genio del crimine",
+                    "de-DE": "Verbrechergenie",
+                    "ja-JP": "黒幕",
+                    "es-ES": "Cerebro",
+                    "ko-KR": "마스터마인드",
+                    "ru-RU": "Зачинщик",
+                    "pl-PL": "Geniusz zbrodni",
+                    "zh-CHT": "犯罪首腦"
+                },
+                "description": {
+                    "en-US": "You earned 25 platinum medals across Heist Setups and Finales.",
+                    "fr-FR": "Vous avez gagné 25 médailles de platine dans des missions préparatoires ou finales de braquages.",
+                    "pt-PT": "Você ganhou 25 medalhas de platina em Planejamentos e Finais de Golpes.",
+                    "it-IT": "Hai guadagnato 25 medaglie di platino tra preparazioni e colpi conclusivi.",
+                    "de-DE": "Du hast bei Raubüberfall-Vorbereitungen und -Finalen insgesamt 25 Platinmedaillen verdient.",
+                    "ja-JP": "「強盗準備」と「強盗フィナーレ」でプラチナメダルを25個獲得した。",
+                    "es-ES": "Has ganado 25 medallas de platino en misiones preparatorias y finales de golpes.",
+                    "ko-KR": "습격 계획 준비와 피날레에서 25개의 플래티넘 메달을 획득했습니다.",
+                    "ru-RU": "Вы получили 25 платиновых медалей в подготовительных заданиях и финальных стадиях ограблений.",
+                    "pl-PL": "Zdobyto 25 platynowych medali za przygotowania i finały napadów.",
+                    "zh-CHT": "你已經在搶劫準備和最終階段中贏得 25 面白金牌。"
+                },
+                "howto": {
+                    "en-US": "GTA Online: Earn 25 platinum medals across Heist Setups and Finales.",
+                    "fr-FR": "GTA Online : Gagnez 25 médailles de platine dans des missions préparatoires ou finales de braquages.",
+                    "pt-PT": "GTA Online: Ganhe 25 medalhas de platina em Planejamentos e Finais de Golpes.",
+                    "it-IT": "GTA Online: guadagna 25 medaglie di platino tra preparazioni e colpi conclusivi.",
+                    "de-DE": "GTA Online: Verdiene bei Raubüberfall-Vorbereitungen und -Finalen insgesamt 25 Platinmedaillen.",
+                    "ja-JP": "GTAオンラインの「強盗準備」と「強盗フィナーレ」でプラチナメダルを25個獲得する。",
+                    "es-ES": "Gana 25 medallas de platino en misiones preparatorias y finales de golpes en GTA Online.",
+                    "ko-KR": "GTA 온라인: 습격 계획 준비와 피날레에서 25개의 플래티넘 메달을 획득하십시오.",
+                    "ru-RU": "GTA Online: получить 25 платиновых медалей в подготовке заданий и финальных стадиях ограблений.",
+                    "pl-PL": "GTA Online: Zdobądź 25 platynowych medali za przygotowania i finały napadów.",
+                    "zh-CHT": "GTA 線上模式：在搶劫準備和最終階段中贏得 25 面白金牌。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "58.png"
+        }
+    }
+}
