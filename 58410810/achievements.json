@@ -1,0 +1,460 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Großer roter Knopf",
+                    "en-US": "Big Red Button",
+                    "es-ES": "Gran Botón Rojo",
+                    "fr-FR": "Gros bouton rouge",
+                    "it-IT": "Pulsantone rosso",
+                    "ja-JP": "赤い大きなボタン",
+                    "ko-KR": "큰 빨간 버튼",
+                    "pt-PT": "Big Red Button"
+                },
+                "description": {
+                    "de-DE": "Lass krachen ... Benutz deine erste Atombombe!",
+                    "en-US": "Go Ballistic... Use your first Nuke!",
+                    "es-ES": "Usar tu primera bomba atómica.",
+                    "fr-FR": "Frappez fort… Lancez votre première Bombe-A !",
+                    "it-IT": "Scatenati… Usa l'ordigno nucleare primario!",
+                    "ja-JP": "怒りを叩きつけろ！最初の核爆弾を使え！",
+                    "ko-KR": "격노하십시오... 첫 핵무기를 사용하십시오!",
+                    "pt-PT": "Go Ballistic... Use your first Nuke!"
+                },
+                "howto": {
+                    "de-DE": "Lass krachen ... Benutz deine erste Atombombe!",
+                    "en-US": "Go Ballistic... Use your first Nuke!",
+                    "es-ES": "Usa tu primera bomba atómica.",
+                    "fr-FR": "Frappez fort… Lancez votre première Bombe-A !",
+                    "it-IT": "Scatenati… Usa l'ordigno nucleare primario!",
+                    "ja-JP": "怒りを叩きつけろ！最初の核爆弾を使え！",
+                    "ko-KR": "격노하십시오... 첫 핵무기를 사용하십시오!",
+                    "pt-PT": "Go Ballistic... Use your first Nuke!"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Superwaffe!",
+                    "en-US": "Supaweapon!",
+                    "es-ES": "¡Superarma!",
+                    "fr-FR": "Arme absolue",
+                    "it-IT": "Superarma!",
+                    "ja-JP": "スーパーウェポン！",
+                    "ko-KR": "슈퍼웨폰!",
+                    "pt-PT": "Supaweapon!"
+                },
+                "description": {
+                    "de-DE": "Sammle Komponenten, um einen Megalaser zu bauen.",
+                    "en-US": "Collect components to complete a Megalaser.",
+                    "es-ES": "Reunir los componentes para completar el Megaláser.",
+                    "fr-FR": "Collectez les composants du Mégalaser.",
+                    "it-IT": "Raccogli i componenti per creare un megalaser.",
+                    "ja-JP": "メガレーザーを完成させるためのコンポーネントを収集します。",
+                    "ko-KR": "메가 레이저를 완성하려면 부품들을 모으십시오.",
+                    "pt-PT": "Collect components to complete a Megalaser."
+                },
+                "howto": {
+                    "de-DE": "Sammle Komponenten, um einen Megalaser zu bauen.",
+                    "en-US": "Collect components to complete a Megalaser.",
+                    "es-ES": "Reúne los componentes para completar un Megaláser.",
+                    "fr-FR": "Collectez les composants du Mégalaser.",
+                    "it-IT": "Raccogli i componenti per creare un megalaser.",
+                    "ja-JP": "メガレーザーを完成させるためのコンポーネントを収集します。",
+                    "ko-KR": "메가 레이저를 완성하려면 부품들을 모으십시오.",
+                    "pt-PT": "Collect components to complete a Megalaser."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Gemeinsames Kommando",
+                    "en-US": "Joint Command",
+                    "es-ES": "Comando conjunto",
+                    "fr-FR": "Coopération",
+                    "it-IT": "Comando congiunto",
+                    "ja-JP": "ジョイントコマンド",
+                    "ko-KR": "연합 사령부",
+                    "pt-PT": "Joint Command"
+                },
+                "description": {
+                    "de-DE": "Steh einem anderen Spieler zur Seite, um eine Mission abzuschließen.",
+                    "en-US": "Stand together with another player to complete one mission.",
+                    "es-ES": "Unirte a otro jugador para completar una misión.",
+                    "fr-FR": "Alliez-vous à un autre joueur pour terminer une mission.",
+                    "it-IT": "Associati a un altro giocatore per completare una missione.",
+                    "ja-JP": "他のプレイヤーとともに作戦を 1 つ完了します。",
+                    "ko-KR": "하나의 미션을 완료하려면 다른 플레이어와 단결하십시오.",
+                    "pt-PT": "Stand together with another player to complete one mission."
+                },
+                "howto": {
+                    "de-DE": "Steh einem anderen Spieler zur Seite, um eine Mission abzuschließen.",
+                    "en-US": "Stand together with another player to complete one mission.",
+                    "es-ES": "Únete a otro jugador para completar una misión.",
+                    "fr-FR": "Alliez-vous à un autre joueur pour terminer une mission.",
+                    "it-IT": "Associati a un altro giocatore per completare una missione.",
+                    "ja-JP": "他のプレイヤーとともに作戦を 1 つ完了します。",
+                    "ko-KR": "하나의 미션을 완료하려면 다른 플레이어와 단결하십시오.",
+                    "pt-PT": "Stand together with another player to complete one mission."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "ComSat-Uplink",
+                    "en-US": "ComSat Uplink",
+                    "es-ES": "Conexión por satélite",
+                    "fr-FR": "Liaison satellite",
+                    "it-IT": "Alleanza satellitare",
+                    "ja-JP": "通信衛星アップリンク",
+                    "ko-KR": "통신위성으로 전송",
+                    "pt-PT": "ComSat Uplink"
+                },
+                "description": {
+                    "de-DE": "Spiel wenigstens eine Minute lang mit 3 anderen Spielern über Xbox Live.",
+                    "en-US": "Play over Xbox Live with 3 other players for at least 1 minute.",
+                    "es-ES": "Jugar en Xbox Live con otros 3 jugadores durante al menos 1 minuto.",
+                    "fr-FR": "Jouez avec trois autres joueurs via Xbox Live pendant au moins une minute.",
+                    "it-IT": "Gioca con xbox live insieme ad altri 3 giocatori per almeno 1 minuto.",
+                    "ja-JP": "XBox Live で他の 3 人のプレイヤーと 1 分以上プレイします。",
+                    "ko-KR": "XBox Live에서 다른 3명의 플레이어와 최소 1분 동안 게임을 하십시오.",
+                    "pt-PT": "Play over Xbox Live with 3 other players for at least 1 minute."
+                },
+                "howto": {
+                    "de-DE": "Spiel wenigstens eine Minute lang mit 3 anderen Spielern über Xbox Live.",
+                    "en-US": "Play over Xbox Live with 3 other players for at least 1 minute.",
+                    "es-ES": "Juega en Xbox Live con otros 3 jugadores durante al menos 1 minuto.",
+                    "fr-FR": "Jouez avec trois autres joueurs via Xbox Live pendant au moins une minute.",
+                    "it-IT": "Gioca con xbox live insieme ad altri 3 giocatori per almeno 1 minuto.",
+                    "ja-JP": "XBox Live で他の 3 人のプレイヤーと 1 分以上プレイします。",
+                    "ko-KR": "XBox Live에서 다른 3명의 플레이어와 최소 1분 동안 게임을 하십시오.",
+                    "pt-PT": "Play over Xbox Live with 3 other players for at least 1 minute."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Welt Tour",
+                    "en-US": "World Tour",
+                    "es-ES": "Tour Global",
+                    "fr-FR": "Tour du Monde",
+                    "it-IT": "Giro del Mondo",
+                    "ja-JP": "ワールドツアー",
+                    "ko-KR": "추악한 미국인",
+                    "pt-PT": "World Tour"
+                },
+                "description": {
+                    "de-DE": "Reise durch alle Länder und mach sie platt! Schließ die ersten 9 Missionen ab.",
+                    "en-US": "Take a tour of each Red Star country and trash the place! Complete the first 9 missions.",
+                    "es-ES": "¡Hacer un tour arrasando todos los países! Completar las primeras 9 misiones.",
+                    "fr-FR": "Détruisez chaque pays de l'Etoile Rouge ! Terminez les 9 premières missions.",
+                    "it-IT": "Invadi tutti i paesi della Stella rossa e fai piazza pulita! Completa le prime 9 missioni.",
+                    "ja-JP": "レッドスター軍の国々を回て破壊します。最初の 9 つの作戦を完了します。",
+                    "ko-KR": "각 레드 스타 국가를 돌며 모두 부숴버리십시오! 첫 9개의 미션을 완료하십시오.",
+                    "pt-PT": "Take a tour of each Red Star country and trash the place! Complete the first 9 missions.\n\n"
+                },
+                "howto": {
+                    "de-DE": "Reise durch alle Länder und mach sie platt! Schließ die ersten 9 Missionen ab.",
+                    "en-US": "Take a tour of each Red Star country and trash the place! Complete the first 9 missions.",
+                    "es-ES": "¡Haz un tour arrasando todos los países! Completa las primeras 9 misiones.",
+                    "fr-FR": "Détruisez chaque pays de l'Etoile Rouge ! Terminez les 9 premières missions.",
+                    "it-IT": "Invadi tutti i paesi della Stella rossa e fai piazza pulita! Completa le prime 9 missioni.",
+                    "ja-JP": "レッドスター軍の国々を回て破壊します。最初の 9 つの作戦を完了します。",
+                    "ko-KR": "각 레드 스타 국가를 돌며 모두 부숴버리십시오! 첫 9개의 미션을 완료하십시오.",
+                    "pt-PT": "Take a tour of each Red Star country and trash the place! Complete the first 9 missions.\n\n"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Reserve",
+                    "en-US": "Stockpile",
+                    "es-ES": "Provisiones",
+                    "fr-FR": "Réserve",
+                    "it-IT": "Stoccaggio",
+                    "ja-JP": "ストックパイル",
+                    "ko-KR": "비축",
+                    "pt-PT": "Stockpile"
+                },
+                "description": {
+                    "de-DE": "Häuf 5.000.000 Punkte an.",
+                    "en-US": "Amass 5,000,000 points.",
+                    "es-ES": "Acumular 5.000.000 de puntos.",
+                    "fr-FR": "Marquez 5 000 000 points.",
+                    "it-IT": "Metti insieme 5.000.000 di punti.",
+                    "ja-JP": "5,000,000 ポイントを獲得します。",
+                    "ko-KR": "득점 5.000.000 포인트.",
+                    "pt-PT": "Amass 5,000,000 points."
+                },
+                "howto": {
+                    "de-DE": "Häuf 5.000.000 Punkte an.",
+                    "en-US": "Amass 5,000,000 points.",
+                    "es-ES": "Acumula 5.000.000 de puntos.",
+                    "fr-FR": "Marquez 5 000 000 points.",
+                    "it-IT": "Metti insieme 5.000.000 di punti.",
+                    "ja-JP": "5,000,000 ポイントを獲得します。",
+                    "ko-KR": "득점 5.000.000 포인트.",
+                    "pt-PT": "Amass 5,000,000 points."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Kakerlake der Freiheit",
+                    "en-US": "Cockroach of Freedom\n\n",
+                    "es-ES": "Cucaracha de libertad",
+                    "fr-FR": "Résistant de la liberté",
+                    "it-IT": "Scarafaggio della libertà",
+                    "ja-JP": "コックローチフリーダム",
+                    "ko-KR": "자유의 바퀴벌레",
+                    "pt-PT": "Cockroach of Freedom"
+                },
+                "description": {
+                    "de-DE": "Widersteh in einem beliebigen Überleben-Spiel 8 Minuten lang dem Angriff des roten Sterns.",
+                    "en-US": "Withstand 8 minutes of the Red Star onslaught in any Survival game.",
+                    "es-ES": "Aguantar la embestida de la Estrella Roja durante 8 minutos en el modo Supervivencia.",
+                    "fr-FR": "Résistez pendant 8 minutes aux assauts de l'Etoile Rouge dans toute partie de survie.",
+                    "it-IT": "Resisti per 8 minuti all'assalto forsennato della Stella rossa in modalità sopravvivenza.",
+                    "ja-JP": "サバイバルモードでレッドスター軍の猛攻に 8 分以上耐えます。",
+                    "ko-KR": "서바이벌 게임에서 레드 스타의 공격을 8분 동안 견디십시오.",
+                    "pt-PT": "Withstand 8 minutes of the Red Star onslaught in any Survival game."
+                },
+                "howto": {
+                    "de-DE": "Widersteh in einem beliebigen Überleben-Spiel 8 Minuten lang dem Angriff des roten Sterns.",
+                    "en-US": "Withstand 8 minutes of the Red Star onslaught in any Survival game.",
+                    "es-ES": "Aguanta la embestida de la Estrella Roja durante 8 minutos en el modo Supervivencia.",
+                    "fr-FR": "Résistez pendant 8 minutes aux assauts de l'Etoile Rouge dans toute partie de survie.",
+                    "it-IT": "Resisti per 8 minuti all'assalto forsennato della Stella rossa in modalità sopravvivenza.",
+                    "ja-JP": "サバイバルモードでレッドスター軍の猛攻に 8 分以上耐えます。",
+                    "ko-KR": "서바이벌 게임에서 레드 스타의 공격을 8분 동안 견디십시오.",
+                    "pt-PT": "Withstand 8 minutes of the Red Star onslaught in any Survival game."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Schießfreudig",
+                    "en-US": "Cannon Happy",
+                    "es-ES": "Cañón feliz",
+                    "fr-FR": "Fou du canon",
+                    "it-IT": "Cannonate in simpatia",
+                    "ja-JP": "キャノンハッピー",
+                    "ko-KR": "대포전",
+                    "pt-PT": "Cannon Happy"
+                },
+                "description": {
+                    "de-DE": "Schließ 11 Missionen ohne Atombomben oder Verstärkungen ab.",
+                    "en-US": "Complete 11 missions without Nukes or reinforcements.",
+                    "es-ES": "Completar 11 misiones sin bombas atómicas ni refuerzos.",
+                    "fr-FR": "Terminez 11 missions sans Bombe-A ni renforts.",
+                    "it-IT": "Completa 11 missioni senza ordigni nucleari o rinforzi.",
+                    "ja-JP": "核爆弾または援軍を使わずに 11 の 作戦を完了します。",
+                    "ko-KR": "11개의 미션을 핵무기나 지원 없이 완료하십시오.",
+                    "pt-PT": "Complete 11 missions without Nukes or reinforcements."
+                },
+                "howto": {
+                    "de-DE": "Schließ 11 Missionen ohne Atombomben oder Verstärkungen ab.",
+                    "en-US": "Complete 11 missions without Nukes or reinforcements.",
+                    "es-ES": "Completa 11 misiones sin bombas atómicas ni refuerzos.",
+                    "fr-FR": "Terminez 11 missions sans Bombe-A ni renforts.",
+                    "it-IT": "Completa 11 missioni senza ordigni nucleari o rinforzi.",
+                    "ja-JP": "核爆弾または援軍を使わずに 11 の 作戦を完了します。",
+                    "ko-KR": "11개의 미션을 핵무기나 지원 없이 완료하십시오.",
+                    "pt-PT": "Complete 11 missions without Nukes or reinforcements."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Ultimativer Tanker",
+                    "en-US": "Ultimate Tanker",
+                    "es-ES": "Tanque definitivo",
+                    "fr-FR": "Tankiste ultime",
+                    "it-IT": "Carrista supremo",
+                    "ja-JP": "究極のタンカー",
+                    "ko-KR": "최후의 탱커",
+                    "pt-PT": "Ultimate Tanker"
+                },
+                "description": {
+                    "de-DE": "Beseitige die Feinde der Freiheit. Schließ den Missionen-Modus ab.",
+                    "en-US": "Dispel the enemies of liberty.  Finish Mission mode.",
+                    "es-ES": "Acabar con los enemigos de la libertad. Terminar el modo Misión.",
+                    "fr-FR": "Eliminez les ennemis de la liberté. Terminez le mode Mission.",
+                    "it-IT": "Sbaraglia i nemici della libertà. Termina la modalità Missione.",
+                    "ja-JP": "自由の敵を撃退します。作戦モードを完了します。",
+                    "ko-KR": "자유의 적들을 쫓아버립시다.  미션 모드를 완수하십시오.",
+                    "pt-PT": "Dispel the enemies of liberty.  Finish Mission mode."
+                },
+                "howto": {
+                    "de-DE": "Beseitige die Feinde der Freiheit. Schließ den Missionen-Modus ab.",
+                    "en-US": "Dispel the enemies of liberty.  Finish Mission mode.",
+                    "es-ES": "Acaba con los enemigos de la libertad. Termina el modo Misión.",
+                    "fr-FR": "Eliminez les ennemis de la liberté. Terminez le mode Mission.",
+                    "it-IT": "Sbaraglia i nemici della libertà. Termina la modalità Missione.",
+                    "ja-JP": "自由の敵を撃退します。作戦モードを完了します。",
+                    "ko-KR": "자유의 적들을 쫓아버립시다.  미션 모드를 완수하십시오.",
+                    "pt-PT": "Dispel the enemies of liberty.  Finish Mission mode."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Letzte Bastion der Freiheit",
+                    "en-US": "Freedom’s Last Stand",
+                    "es-ES": "Última esperanza de la libertad",
+                    "fr-FR": "Dernier espoir de la liberté",
+                    "it-IT": "Ultimo baluardo della libertà",
+                    "ja-JP": "自由の最後の砦",
+                    "ko-KR": "자유를 위한 최후의 수단",
+                    "pt-PT": "Freedom’s Last Stand"
+                },
+                "description": {
+                    "de-DE": "Besieg im Boss-Blitz-Modus alle 19 Meister des roten Sterns.",
+                    "en-US": "Defeat all 19 Red Star champions in Boss Blitz mode.",
+                    "es-ES": "Derrotar a los 19 campeones de la Estrella Roja en el Asalto al Jefe.",
+                    "fr-FR": "Battez les 19 champions de l'Etoile Rouge en mode Blitz Boss.",
+                    "it-IT": "Sconfiggi i 19 migliori combattenti della Stella rossa in modalità Annientamento boss.",
+                    "ja-JP": "ボス ブリッツ モードで 19 のレッドスター戦士をすべて倒します",
+                    "ko-KR": "보스 공격 모드에서 19 레드 스타 전사들을 물리치십시오.",
+                    "pt-PT": "Defeat all 19 Red Star champions in Boss Blitz mode."
+                },
+                "howto": {
+                    "de-DE": "Besieg im Boss-Blitz-Modus alle 19 Meister des roten Sterns.",
+                    "en-US": "Defeat all 19 Red Star champions in Boss Blitz mode.",
+                    "es-ES": "Derrota a los 19 campeones de la Estrella Roja en el Asalto al Jefe.",
+                    "fr-FR": "Battez les 19 champions de l'Etoile Rouge en mode Blitz Boss.",
+                    "it-IT": "Sconfiggi i 19 giganti della Stella rossa in modalità Annientamento boss.",
+                    "ja-JP": "ボス ブリッツ モードで 19 のレッドスター戦士をすべて倒します",
+                    "ko-KR": "보스 공격 모드에서 19 레드 스타 전사들을 물리치십시오.",
+                    "pt-PT": "Defeat all 19 Red Star champions in Boss Blitz mode."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Meister der Freiheit",
+                    "en-US": "Champion of Freedom",
+                    "es-ES": "Campeón de la libertad",
+                    "fr-FR": "Champion de la liberté",
+                    "it-IT": "Eroe della libertà",
+                    "ja-JP": "自由の戦士",
+                    "ko-KR": "자유의 전사",
+                    "pt-PT": "Champion of Freedom"
+                },
+                "description": {
+                    "de-DE": "Übersteh 12 Minuten lang in einem beliebigen Überleben-Spiel den feindlichen Angriff.",
+                    "en-US": "Survive 12 minutes of the enemy's attack in any Survival game.",
+                    "es-ES": "Sobrevivir al ataque enemigo durante 12 minutos en cualquier partida de Supervivencia.",
+                    "fr-FR": "Résistez pendant 12 minutes à l'ennemi dans toute partie de survie.",
+                    "it-IT": "Sopravvivi per 12 minuti all'attacco nemico in qualsiasi partita sopravvivenza.",
+                    "ja-JP": "サバイバルモードでレッドスター軍の猛攻に 12 分以上耐えます。",
+                    "ko-KR": "서바이벌 게임에서 적의 공격으로부터 12분을 버티십시오.",
+                    "pt-PT": "Survive 12 minutes of the enemy's attack in any Survival game."
+                },
+                "howto": {
+                    "de-DE": "Übersteh 12 Minuten lang in einem beliebigen Überleben-Spiel den feindlichen Angriff.",
+                    "en-US": "Survive 12 minutes of the enemy's attack in any Survival game.",
+                    "es-ES": "Sobrevive al ataque enemigo durante 12 minutos en cualquier partida de Supervivencia.",
+                    "fr-FR": "Résistez pendant 12 minutes à l'ennemi dans toute partie de survie.",
+                    "it-IT": "Sopravvivi per 12 minuti all'attacco nemico in qualsiasi partita Sopravvivenza.",
+                    "ja-JP": "サバイバルモードでレッドスター軍の猛攻に 12 分以上耐えます。",
+                    "ko-KR": "서바이벌 게임에서 적의 공격으로부터 12분을 버티십시오.",
+                    "pt-PT": "Survive 12 minutes of the enemy's attack in any Survival game."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Massive Zerstörung",
+                    "en-US": "Massive Destruction",
+                    "es-ES": "Destrucción masiva",
+                    "fr-FR": "Destruction Massive",
+                    "it-IT": "Distruzione di massa",
+                    "ja-JP": "大規模破壊",
+                    "ko-KR": "대량 파괴",
+                    "pt-PT": "Massive Destruction"
+                },
+                "description": {
+                    "de-DE": "Zerstör mit einer einzigen Atombombe 12 Feinde.",
+                    "en-US": "Destroy 12 enemies with a single Nuke.",
+                    "es-ES": "Destruir 12 enemigos con una sola bomba atómica.",
+                    "fr-FR": "Détruisez 12 ennemis avec une seule Bombe-A.",
+                    "it-IT": "Distruggi 12 nemici con un solo ordigno nucleare.",
+                    "ja-JP": "1 つの核爆弾で 12 の敵を破壊します。",
+                    "ko-KR": "한 개의 핵무기로 12 적군을 파괴하십시오.",
+                    "pt-PT": "Destroy 12 enemies with a single Nuke."
+                },
+                "howto": {
+                    "de-DE": "Zerstör mit einer einzigen Atombombe 12 Feinde.",
+                    "en-US": "Destroy 12 enemies with a single Nuke.",
+                    "es-ES": "Destruye 12 enemigos con una sola bomba atómica.",
+                    "fr-FR": "Détruisez 12 ennemis avec une seule Bombe-A.",
+                    "it-IT": "Distruggi 12 nemici con un solo ordigno nucleare.",
+                    "ja-JP": "1 つの核爆弾で 12 の敵を破壊します。",
+                    "ko-KR": "한 개의 핵무기로 12 적군을 파괴하십시오.",
+                    "pt-PT": "Destroy 12 enemies with a single Nuke."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "12.png"
+        }
+    }
+}

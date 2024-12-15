@@ -1,0 +1,334 @@
+{
+    "properties": {
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "LB_F_Mission1p_Score",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x2000000D": {
+            "info": "LB_F_Mission1p_Level",
+            "method": "last",
+            "statId": 4
+        },
+        "0x20000003": {
+            "info": "LB_F_Mission1p_EnemyDestroy",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000004": {
+            "info": "LB_F_Mission1p_KillPercentage",
+            "method": "last",
+            "statId": 3
+        },
+        "0x2000000E": {
+            "info": "LB_F_Mission1p_VideoMode",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "LB_F_Mission2p_Score",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x2000000D": {
+            "info": "LB_F_Mission2p_Level",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000003": {
+            "info": "LB_F_Mission2p_EnemyDestroy",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000004": {
+            "info": "LB_F_Mission2p_KillPercentage",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000000E": {
+            "info": "LB_F_Mission2p_VideoMode",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000006": {
+            "info": "LB_F_Boss_BossKilled",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x20000001": {
+            "info": "LB_F_Boss_Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000000E": {
+            "info": "LB_F_Boss_VideoMode",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "LB_F_Surv_Time",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x20000003": {
+            "info": "LB_F_Surv_EnemyDestroy",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000004": {
+            "info": "LB_F_Surv_KillPercentage",
+            "method": "last",
+            "statId": 2
+        },
+        "0x20000002": {
+            "info": "LB_F_Surv_Damage",
+            "method": "last",
+            "statId": 3
+        },
+        "0x1000000F": {
+            "info": "LB_F_Surv_PlayersNum",
+            "method": "last",
+            "statId": 4
+        },
+        "0x2000000E": {
+            "info": "LB_F_Surv_VideoMode",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "LB_F_LiveSurv_Time",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x20000003": {
+            "info": "LB_F_LiveSurv_EnemyDestroy",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000004": {
+            "info": "LB_F_LiveSurv_KillPercentage",
+            "method": "last",
+            "statId": 2
+        },
+        "0x20000002": {
+            "info": "LB_F_LiveSurv_Damage",
+            "method": "last",
+            "statId": 3
+        },
+        "0x1000000F": {
+            "info": "LB_F_LiveSurv_PlayersNum",
+            "method": "last",
+            "statId": 4
+        },
+        "0x2000000E": {
+            "info": "LB_F_LiveSurv_VideoMode",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "LB_F_Surv_Pr_Time",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x20000003": {
+            "info": "LB_F_Surv_Pr_EnemyDestroy",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000004": {
+            "info": "LB_F_Surv_Pr_KillPercentage",
+            "method": "last",
+            "statId": 2
+        },
+        "0x20000002": {
+            "info": "LB_F_Surv_Pr_Damage",
+            "method": "last",
+            "statId": 3
+        },
+        "0x1000000F": {
+            "info": "LB_F_Surv_Pr_PlayersNum",
+            "method": "last",
+            "statId": 4
+        },
+        "0x2000000E": {
+            "info": "LB_F_Surv_Pr_VideoMode",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "LB_F_LiveSurv_Pt_Time",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x20000003": {
+            "info": "LB_F_LiveSurv_Pt_EnemyDestroy",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000004": {
+            "info": "LB_F_LiveSurv_Pt_KillPercentage",
+            "method": "last",
+            "statId": 2
+        },
+        "0x20000002": {
+            "info": "LB_F_LiveSurv_Pt_Damage",
+            "method": "last",
+            "statId": 3
+        },
+        "0x1000000F": {
+            "info": "LB_F_LiveSurv_Pt_PlayersNum",
+            "method": "last",
+            "statId": 4
+        },
+        "0x2000000E": {
+            "info": "LB_F_LiveSurv_Pt_VideoMode",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "LB_F_Mission1p_Score",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x2000000D": {
+            "info": "LB_F_Mission1p_Level",
+            "method": "last",
+            "statId": 4
+        },
+        "0x20000003": {
+            "info": "LB_F_Mission1p_EnemyDestroy",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000004": {
+            "info": "LB_F_Mission1p_KillPercentage",
+            "method": "last",
+            "statId": 3
+        },
+        "0x2000000E": {
+            "info": "LB_F_Mission1p_VideoMode",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "LB_F_Surv_Pr_Time",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x20000003": {
+            "info": "LB_F_Surv_Pr_EnemyDestroy",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000004": {
+            "info": "LB_F_Surv_Pr_KillPercentage",
+            "method": "last",
+            "statId": 2
+        },
+        "0x20000002": {
+            "info": "LB_F_Surv_Pr_Damage",
+            "method": "last",
+            "statId": 3
+        },
+        "0x1000000F": {
+            "info": "LB_F_Surv_Pr_PlayersNum",
+            "method": "last",
+            "statId": 4
+        },
+        "0x2000000E": {
+            "info": "LB_F_Surv_Pr_VideoMode",
+            "method": "last",
+            "statId": 5
+        }
+    }
+}
