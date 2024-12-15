@@ -1,0 +1,639 @@
+{
+    "properties": {
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "Kills",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10000003": {
+            "info": "Deaths",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kill/Death Ratio",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001B": {
+            "info": "Kill Streak",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000021": {
+            "info": "Total XP",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000026": {
+            "info": "Prestige Level",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000001C": {
+            "info": "Wins",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000001D": {
+            "info": "Losses",
+            "method": "last",
+            "statId": 1
+        },
+        "0x1000001E": {
+            "info": "Win/Loss Ratio",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001F": {
+            "info": "Win Streak",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000021": {
+            "info": "Total XP",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000026": {
+            "info": "Prestige Level",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "Score",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10000020": {
+            "info": "Time Played",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000021": {
+            "info": "Total XP",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000026": {
+            "info": "Prestige Level",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000024": {
+            "info": "Accuracy",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10000022": {
+            "info": "Hits",
+            "method": "last",
+            "statId": 1
+        },
+        "0x10000023": {
+            "info": "Misses",
+            "method": "last",
+            "statId": 2
+        },
+        "0x20000021": {
+            "info": "Total XP",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000026": {
+            "info": "Prestige Level",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002C": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002D": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002E": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002F": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000030": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000002B": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000031": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000032": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000033": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000034": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000035": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000036": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000037": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000038": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000039": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000003A": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000003B": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000003C": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000003D": {
+            "info": "Score",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000003E": {
+            "info": "Time",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000003": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000001B": {
+            "info": "Kill Streak",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000021": {
+            "info": "Total XP",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000026": {
+            "info": "Prestige Level",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "Score",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000020": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000021": {
+            "info": "Total XP",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000026": {
+            "info": "Prestige Level",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000001C": {
+            "info": "Wins",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x1000001D": {
+            "info": "Losses",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000021": {
+            "info": "Total XP",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10000026": {
+            "info": "Prestige Level",
+            "method": "last",
+            "statId": 5
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000003": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000001B": {
+            "info": "Kill Streak",
+            "method": "max",
+            "statId": 2
+        },
+        "0x20000021": {
+            "info": "Total XP",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000026": {
+            "info": "Prestige Level",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "Score",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000020": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000021": {
+            "info": "Total XP",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000026": {
+            "info": "Prestige Level",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x2000001C": {
+            "info": "Wins",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x1000001D": {
+            "info": "Losses",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000021": {
+            "info": "Total XP",
+            "method": "last",
+            "statId": 2
+        },
+        "0x10000026": {
+            "info": "Prestige",
+            "method": "last",
+            "statId": 3
+        }
+    }
+}

@@ -1,0 +1,1754 @@
+{
+    "Achievements": {
+        "75": {
+            "text": {
+                "name": {
+                    "de-DE": "Zurück im Sattel",
+                    "en-US": "Back in the Saddle",
+                    "es-ES": "De nuevo en acción",
+                    "fr-FR": "Remise en selle",
+                    "it-IT": "Di nuovo in sella",
+                    "pl-PL": "Z powrotem w siodle",
+                    "ru-RU": "Возвращение в строй"
+                },
+                "description": {
+                    "de-DE": "Helfen Sie, die örtliche Miliz auszubilden.",
+                    "en-US": "Help train the local militia.",
+                    "es-ES": "Adiestra a la milicia local.",
+                    "fr-FR": "Formation de la milice locale.",
+                    "it-IT": "Aiuta ad addestrare la milizia locale.",
+                    "pl-PL": "Pomóż w szkoleniu milicji",
+                    "ru-RU": "Принять участие в тренировке местного ополчения."
+                },
+                "howto": {
+                    "de-DE": "Helfen Sie, die örtliche Miliz auszubilden.",
+                    "en-US": "Help train the local militia.",
+                    "es-ES": "Adiestra a la milicia local.",
+                    "fr-FR": "Formation de la milice locale.",
+                    "it-IT": "Aiuta ad addestrare la milizia locale.",
+                    "pl-PL": "Pomóż w szkoleniu milicji",
+                    "ru-RU": "Принять участие в тренировке местного ополчения."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "01.png"
+        },
+        "76": {
+            "text": {
+                "name": {
+                    "de-DE": "Direkte Gefahr",
+                    "en-US": "Danger Close",
+                    "es-ES": "Peligro cercano",
+                    "fr-FR": "Danger rapproché",
+                    "it-IT": "Pericolo in avvicinamento",
+                    "pl-PL": "Bliskie zagrożenie",
+                    "ru-RU": "Взрывная волна"
+                },
+                "description": {
+                    "de-DE": "Werden Sie für Shepherds Elitetruppe ausgewählt.",
+                    "en-US": "Get hand picked for Shepherd's elite squad.",
+                    "es-ES": "Haz que te escojan para el pelotón de Shepherd.",
+                    "fr-FR": "Se faire sélectionner pour l'unité d'élite de Shepherd.",
+                    "it-IT": "Fatti scegliere per la squadra d'élite di Shepherd.",
+                    "pl-PL": "Zostań wybrany do elitarnego oddziału Shepherda.",
+                    "ru-RU": "Пройти отбор в элитный отряд Шепарда."
+                },
+                "howto": {
+                    "de-DE": "Werden Sie für Shepherds Elitetruppe ausgewählt.",
+                    "en-US": "Get hand picked for Shepherd's elite squad.",
+                    "es-ES": "Haz que te escojan para el pelotón de Shepherd.",
+                    "fr-FR": "Se faire sélectionner pour l'unité d'élite de Shepherd.",
+                    "it-IT": "Fatti scegliere per la squadra d'élite di Shepherd.",
+                    "pl-PL": "Zostań wybrany do elitarnego oddziału Shepherda.",
+                    "ru-RU": "Пройти отбор в элитный отряд Шепарда."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "02.png"
+        },
+        "77": {
+            "text": {
+                "name": {
+                    "de-DE": "Kalte Schulter",
+                    "en-US": "Cold Shoulder",
+                    "es-ES": "Recibimiento frío",
+                    "fr-FR": "Sueurs froides",
+                    "it-IT": "Sangue freddo",
+                    "pl-PL": "Oziębienie",
+                    "ru-RU": "Холодный расчет"
+                },
+                "description": {
+                    "de-DE": "Infiltrieren Sie die verschneite Bergbasis.",
+                    "en-US": "Infiltrate the snowy mountain side base.",
+                    "es-ES": "Infíltrate en la base de la ladera nevada.",
+                    "fr-FR": "Infiltrer la base sur la montagne enneigée.",
+                    "it-IT": "Infiltrati nella base nella montagna innevata.",
+                    "pl-PL": "Przedostań się do bazy znajdującej się w ośnieżonej górze.",
+                    "ru-RU": "Проникните на заснеженную базу."
+                },
+                "howto": {
+                    "de-DE": "Infiltrieren Sie die verschneite Bergbasis.",
+                    "en-US": "Infiltrate the snowy mountain side base.",
+                    "es-ES": "Infíltrate en la base de la ladera nevada.",
+                    "fr-FR": "Infiltrer la base sur la montagne enneigée.",
+                    "it-IT": "Infiltrati nella base nella montagna innevata.",
+                    "pl-PL": "Przedostań się do bazy znajdującej się w ośnieżonej górze.",
+                    "ru-RU": "Проникните на заснеженную базу."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "03.png"
+        },
+        "78": {
+            "text": {
+                "name": {
+                    "de-DE": "Hab dich",
+                    "en-US": "Tag 'em and bag 'em",
+                    "es-ES": "Cárgatelos y embólsalos",
+                    "fr-FR": "L'affaire est dans le sac",
+                    "it-IT": "Registrali e ficcali nel sacco",
+                    "pl-PL": "Odszukaj i zabij",
+                    "ru-RU": "В хвост и в гриву"
+                },
+                "description": {
+                    "de-DE": "Finden Sie Rojas im Elendsviertel.",
+                    "en-US": "Find Rojas in the Favelas.",
+                    "es-ES": "Encuentra a Rojas en las favelas.",
+                    "fr-FR": "Trouver Rojas dans la favela.",
+                    "it-IT": "Trova Rojas nelle favelas.",
+                    "pl-PL": "Znajdź Rojasa w faveli.",
+                    "ru-RU": "Найти Рохаса в трущобах."
+                },
+                "howto": {
+                    "de-DE": "Finden Sie Rojas im Elendsviertel.",
+                    "en-US": "Find Rojas in the Favelas.",
+                    "es-ES": "Encuentra a Rojas en las favelas.",
+                    "fr-FR": "Trouver Rojas dans la favela.",
+                    "it-IT": "Trova Rojas nelle favelas.",
+                    "pl-PL": "Znajdź Rojasa w faveli.",
+                    "ru-RU": "Найти Рохаса в трущобах."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "04.png"
+        },
+        "79": {
+            "text": {
+                "name": {
+                    "de-DE": "Royal mit Käse.",
+                    "en-US": "Royale with Cheese",
+                    "es-ES": "Royale con queso",
+                    "fr-FR": "Menu sur place",
+                    "it-IT": "Royale con formaggio",
+                    "pl-PL": "Royal z serem",
+                    "ru-RU": "Двойной чизбургер"
+                },
+                "description": {
+                    "de-DE": "Verteidigen Sie das Burger Town.",
+                    "en-US": "Defend Burger Town.",
+                    "es-ES": "Defiende el Burgertown.",
+                    "fr-FR": "Défendre le Burgertown.",
+                    "it-IT": "Difendi Burger Town.",
+                    "pl-PL": "Obroń Burger Town.",
+                    "ru-RU": "Защитить закусочную \"Бургер Таун\"."
+                },
+                "howto": {
+                    "de-DE": "Verteidigen Sie das Burger Town.",
+                    "en-US": "Defend Burger Town.",
+                    "es-ES": "Defiende el Burgertown.",
+                    "fr-FR": "Défendre le Burgertown.",
+                    "it-IT": "Difendi Burger Town.",
+                    "pl-PL": "Obroń Burger Town.",
+                    "ru-RU": "Защитить закусочную \"Бургер Таун\"."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "05.png"
+        },
+        "80": {
+            "text": {
+                "name": {
+                    "de-DE": "Soap am Seil.",
+                    "en-US": "Soap on a Rope",
+                    "es-ES": "Soap en apuros",
+                    "fr-FR": "Soap sur la corde raide",
+                    "it-IT": "Corda e sapone",
+                    "pl-PL": "Soap na linie",
+                    "ru-RU": "Мыло на веревке"
+                },
+                "description": {
+                    "de-DE": "Stürmen Sie den Gulag.",
+                    "en-US": "Storm the gulag.",
+                    "es-ES": "Asalta el gulag.",
+                    "fr-FR": "Prendre d'assaut le goulag.",
+                    "it-IT": "Conquista il gulag.",
+                    "pl-PL": "Zaatakuj Gułag.",
+                    "ru-RU": "Взять штурмом колонию."
+                },
+                "howto": {
+                    "de-DE": "Stürmen Sie den Gulag.",
+                    "en-US": "Storm the gulag.",
+                    "es-ES": "Asalta el gulag.",
+                    "fr-FR": "Prendre d'assaut le goulag.",
+                    "it-IT": "Conquista il gulag.",
+                    "pl-PL": "Zaatakuj Gułag.",
+                    "ru-RU": "Взять штурмом колонию."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "06.png"
+        },
+        "81": {
+            "text": {
+                "name": {
+                    "de-DE": "Schlimme Zeiten",
+                    "en-US": "Desperate Times",
+                    "es-ES": "Tiempos desesperados",
+                    "fr-FR": "Situation désespérée",
+                    "it-IT": "Tempi disperati",
+                    "pl-PL": "Ciężkie czasy",
+                    "ru-RU": "Лихие времена"
+                },
+                "description": {
+                    "de-DE": "Führen Sie den Plan aus, um den Amerikanern zu helfen.",
+                    "en-US": "Execute the plan to help the Americans.",
+                    "es-ES": "Ejecuta el plan para ayudar a los americanos.",
+                    "fr-FR": "Mettre à exécution le plan pour aider les Américains.",
+                    "it-IT": "Esegui il piano per aiutare gli americani.",
+                    "pl-PL": "Wykonaj plan i pomóż Amerykanom.",
+                    "ru-RU": "Помочь американцам, выполнив план."
+                },
+                "howto": {
+                    "de-DE": "Führen Sie den Plan aus, um den Amerikanern zu helfen.",
+                    "en-US": "Execute the plan to help the Americans.",
+                    "es-ES": "Ejecuta el plan para ayudar a los americanos.",
+                    "fr-FR": "Mettre à exécution le plan pour aider les Américains.",
+                    "it-IT": "Esegui il piano per aiutare gli americani.",
+                    "pl-PL": "Wykonaj plan i pomóż Amerykanom.",
+                    "ru-RU": "Помочь американцам, выполнив план."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "07.png"
+        },
+        "82": {
+            "text": {
+                "name": {
+                    "de-DE": "Weißes Haus",
+                    "en-US": "Whiskey Hotel",
+                    "es-ES": "Whiskey Hotel",
+                    "fr-FR": "Whiskey Hotel",
+                    "it-IT": "Whiskey Hotel",
+                    "pl-PL": "Hotel Whiskey",
+                    "ru-RU": "Виски-Хоутел"
+                },
+                "description": {
+                    "de-DE": "Erobern Sie das Weiße Haus zurück.",
+                    "en-US": "Take back Whiskey Hotel.",
+                    "es-ES": "Recupera Whiskey Hotel.",
+                    "fr-FR": "Reprendre Whiskey Hotel.",
+                    "it-IT": "Riconquista Whiskey Hotel.",
+                    "pl-PL": "Odzyskaj hotel Whiskey.",
+                    "ru-RU": "Восстановить контроль над объектом \"Виски-Хоутел\"."
+                },
+                "howto": {
+                    "de-DE": "Erobern Sie das Weiße Haus zurück.",
+                    "en-US": "Take back Whiskey Hotel.",
+                    "es-ES": "Recupera Whiskey Hotel.",
+                    "fr-FR": "Reprendre Whiskey Hotel.",
+                    "it-IT": "Riconquista Whiskey Hotel.",
+                    "pl-PL": "Odzyskaj hotel Whiskey.",
+                    "ru-RU": "Восстановить контроль над объектом \"Виски-Хоутел\"."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "08.png"
+        },
+        "83": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Bauer",
+                    "en-US": "The Pawn",
+                    "es-ES": "El títere",
+                    "fr-FR": "Le pion",
+                    "it-IT": "La parola data",
+                    "pl-PL": "Pionek",
+                    "ru-RU": "Пешка"
+                },
+                "description": {
+                    "de-DE": "Greifen Sie Makarovs Unterschlupf an.",
+                    "en-US": "Assault Makarov's safe house.",
+                    "es-ES": "Ataca el piso franco de Makarov.",
+                    "fr-FR": "Prendre d'assaut la planque de Makarov.",
+                    "it-IT": "Attacca il nascondiglio di Makarov.",
+                    "pl-PL": "Zaatakuj kryjówkę Makarowa.",
+                    "ru-RU": "Взять штурмом убежище Макарова."
+                },
+                "howto": {
+                    "de-DE": "Greifen Sie Makarovs Unterschlupf an.",
+                    "en-US": "Assault Makarov's safe house.",
+                    "es-ES": "Ataca el piso franco de Makarov.",
+                    "fr-FR": "Prendre d'assaut la planque de Makarov.",
+                    "it-IT": "Attacca il nascondiglio di Makarov.",
+                    "pl-PL": "Zaatakuj kryjówkę Makarowa.",
+                    "ru-RU": "Взять штурмом убежище Макарова."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "09.png"
+        },
+        "84": {
+            "text": {
+                "name": {
+                    "de-DE": "Raus aus der Bratpfanne ...",
+                    "en-US": "Out of the Frying Pan…",
+                    "es-ES": "De la sartén a las brasas",
+                    "fr-FR": "De Charybde en Scylla",
+                    "it-IT": "Dalla padella alla brace",
+                    "pl-PL": "Z deszczu pod...",
+                    "ru-RU": "Из огня..."
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Mission auf dem Flugzeugfriedhof.",
+                    "en-US": "Complete the mission in the airplane graveyard.",
+                    "es-ES": "Completa la misión en el cementerio de aviones.",
+                    "fr-FR": "Accomplir la mission dans le cimetière d'avions.",
+                    "it-IT": "Completa la missione al cimitero degli aerei.",
+                    "pl-PL": "Wykonaj misję na złomowisku samolotów.",
+                    "ru-RU": "Выполнить задание на кладбище самолетов."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Mission auf dem Flugzeugfriedhof.",
+                    "en-US": "Complete the mission in the airplane graveyard.",
+                    "es-ES": "Completa la misión en el cementerio de aviones.",
+                    "fr-FR": "Accomplir la mission dans le cimetière d'avions.",
+                    "it-IT": "Completa la missione al cimitero degli aerei.",
+                    "pl-PL": "Wykonaj misję na złomowisku samolotów.",
+                    "ru-RU": "Выполнить задание на кладбище самолетов."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "10.png"
+        },
+        "85": {
+            "text": {
+                "name": {
+                    "de-DE": "Für die Akten",
+                    "en-US": "For the Record",
+                    "es-ES": "Para que conste",
+                    "fr-FR": "Pour la forme",
+                    "it-IT": "Per la cronaca",
+                    "pl-PL": "Do akt",
+                    "ru-RU": "Личное дело"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Einzelspielerkampagne auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Complete the Single Player campaign on any difficulty.",
+                    "es-ES": "Completa la campaña individual en cualquier dificultad.",
+                    "fr-FR": "Terminer la campagne solo (n'importe quel niveau de difficulté).",
+                    "it-IT": "Completa la campagna Giocatore singolo a qualsiasi livello.",
+                    "pl-PL": "Ukończ kampanię dla jednego gracza na dowolnym poziomie trudności.",
+                    "ru-RU": "Завершить кампанию индивидуальной игры на любом уровне сложности."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Einzelspielerkampagne auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Complete the Single Player campaign on any difficulty.",
+                    "es-ES": "Completa la campaña individual en cualquier dificultad.",
+                    "fr-FR": "Terminer la campagne solo (n'importe quel niveau de difficulté).",
+                    "it-IT": "Completa la campagna Giocatore singolo a qualsiasi livello.",
+                    "pl-PL": "Ukończ kampanię dla jednego gracza na dowolnym poziomie trudności.",
+                    "ru-RU": "Завершить кампанию индивидуальной игры на любом уровне сложности."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "35",
+            "imageId": "11.png"
+        },
+        "86": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Preis des Krieges",
+                    "en-US": "The Price of War",
+                    "es-ES": "El precio de la guerra",
+                    "fr-FR": "Le prix de la guerre",
+                    "it-IT": "Il prezzo della guerra",
+                    "pl-PL": "Cena wojny",
+                    "ru-RU": "Цена войны"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Einzelspielerkampagne auf dem Schwierigkeitsgrad Söldner oder Veteran.",
+                    "en-US": "Complete the single player campaign on Hardened or Veteran Difficulty.",
+                    "es-ES": "Completa la campaña individual en dificultad curtido o veterano.",
+                    "fr-FR": "Terminer la campagne solo (difficulté Commando ou Vétéran).",
+                    "it-IT": "Completa la campagna Giocatore singolo a livello Esperto o Veterano.",
+                    "pl-PL": "Ukończ kampanię dla jednego gracza na poziomie Doświadczony lub Weteran.",
+                    "ru-RU": "Завершить кампанию индивидуальной игры на уровне сложности \"Офицер\" или \"Ветеран\"."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Einzelspielerkampagne auf dem Schwierigkeitsgrad Söldner oder Veteran.",
+                    "en-US": "Complete the single player campaign on Hardened or Veteran Difficulty.",
+                    "es-ES": "Completa la campaña individual en dificultad curtido o veterano.",
+                    "fr-FR": "Terminer la campagne solo (difficulté Commando ou Vétéran).",
+                    "it-IT": "Completa la campagna Giocatore singolo a livello Esperto o Veterano.",
+                    "pl-PL": "Ukończ kampanię dla jednego gracza na poziomie Doświadczony lub Weteran.",
+                    "ru-RU": "Завершить кампанию индивидуальной игры на уровне сложности \"Офицер\" или \"Ветеран\"."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "90",
+            "imageId": "12.png"
+        },
+        "87": {
+            "text": {
+                "name": {
+                    "de-DE": "Erster Schultag",
+                    "en-US": "First Day of School",
+                    "es-ES": "Primer día de clase",
+                    "fr-FR": "Premier jour d'école",
+                    "it-IT": "Primo giorno di scuola",
+                    "pl-PL": "Pierwszy dzień szkoły",
+                    "ru-RU": "Первоклассник"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie 'Die alte Leier' und 'Team-Spieler' auf dem Schwierigkeitsgrad Veteran.",
+                    "en-US": "Complete 'S.S.D.D' and 'Team Player' on Veteran Difficulty.",
+                    "es-ES": "Completa \"Otro día, la misma mierda\" y \"Jugador de equipo\" en dificultad veterano.",
+                    "fr-FR": "Terminer les missions \"S.S.D.D\" et \"Travail d'équipe\" au niveau de difficulté Vétéran.",
+                    "it-IT": "Completa \"Stessa merda, altro giorno\" e \"Gioco di squadra\" a livello Veterano.",
+                    "pl-PL": "Ukończ 'S.J.C.D' i 'Gracz zespołowy' na poziomie Weteran.",
+                    "ru-RU": "Завершить эпизоды \"Т.Х.Д.Д.\" и \"Командный игрок\" на уровне сложности \"Ветеран\"."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie 'Die alte Leier' und 'Team-Spieler' auf dem Schwierigkeitsgrad Veteran.",
+                    "en-US": "Complete 'S.S.D.D' and 'Team Player' on Veteran Difficulty.",
+                    "es-ES": "Completa \"Otro día, la misma mierda\" y \"Jugador de equipo\" en dificultad veterano.",
+                    "fr-FR": "Terminer les missions \"S.S.D.D\" et \"Travail d'équipe\" au niveau de difficulté Vétéran.",
+                    "it-IT": "Completa \"Stessa merda, altro giorno\" e \"Gioco di squadra\" a livello Veterano.",
+                    "pl-PL": "Ukończ 'S.J.C.D' i 'Gracz zespołowy' na poziomie Weteran.",
+                    "ru-RU": "Завершить эпизоды \"Т.Х.Д.Д.\" и \"Командный игрок\" на уровне сложности \"Ветеран\"."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "13.png"
+        },
+        "88": {
+            "text": {
+                "name": {
+                    "de-DE": "Schwarzer Diamant",
+                    "en-US": "Black Diamond",
+                    "es-ES": "Diamante negro",
+                    "fr-FR": "Diamant noir",
+                    "it-IT": "Diamante nero",
+                    "pl-PL": "Podstawowy typ gry",
+                    "ru-RU": "Черный бриллиант"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie 'Cliffhanger' auf dem Schwierigkeitsgrad Veteran.",
+                    "en-US": "Complete 'Cliffhanger' on Veteran Difficulty.",
+                    "es-ES": "Completa \"Máximo riesgo\" en dificultad veterano.",
+                    "fr-FR": "Terminer la mission \"Périlleuse escalade\" au niveau de difficulté Vétéran.",
+                    "it-IT": "Completa \"Cliffhanger\" a livello Veterano.",
+                    "pl-PL": "Ukończ 'Alpinistę'  na poziomie Weteran.",
+                    "ru-RU": "Завершить эпизод \"Скалолаз\" на уровне сложности \"Ветеран\"."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie 'Cliffhanger' auf dem Schwierigkeitsgrad Veteran.",
+                    "en-US": "Complete 'Cliffhanger' on Veteran Difficulty.",
+                    "es-ES": "Completa \"Máximo riesgo\" en dificultad veterano.",
+                    "fr-FR": "Terminer la mission \"Périlleuse escalade\" au niveau de difficulté Vétéran.",
+                    "it-IT": "Completa \"Cliffhanger\" a livello Veterano.",
+                    "pl-PL": "Ukończ 'Alpinistę'  na poziomie Weteran.",
+                    "ru-RU": "Завершить эпизод \"Скалолаз\" на уровне сложности \"Ветеран\"."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "14.png"
+        },
+        "89": {
+            "text": {
+                "name": {
+                    "de-DE": "Touristen",
+                    "en-US": "Turistas",
+                    "es-ES": "Turistas",
+                    "fr-FR": "Dur à cuire",
+                    "it-IT": "Turistas",
+                    "pl-PL": "Turyści",
+                    "ru-RU": "Туристы"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie 'Zugriff' und 'Das Hornissennest' auf dem Schwierigkeitsgrad Veteran.",
+                    "en-US": "Complete 'Takedown' and 'The Hornet's Nest' on Veteran Difficulty.",
+                    "es-ES": "Completa \"Aterrizaje\" y \"El avispero\" en dificultad veterano.",
+                    "fr-FR": "Terminer les missions \"Confrontation\" et \"Un nid de frelons\" au niveau de difficulté Vétéran.",
+                    "it-IT": "Completa \"Atterramento\" e \"Vespaio\" a livello Veterano.",
+                    "pl-PL": "Ukończ 'Wejście' i 'Gniazdo szerszeni' na poziomie Weteran.",
+                    "ru-RU": "Завершить эпизоды \"Охота\" и \"Осиное гнездо\" на уровне сложности \"Ветеран\"."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie 'Zugriff' und 'Das Hornissennest' auf dem Schwierigkeitsgrad Veteran.",
+                    "en-US": "Complete 'Takedown' and 'The Hornet's Nest' on Veteran Difficulty.",
+                    "es-ES": "Completa \"Aterrizaje\" y \"El avispero\" en dificultad veterano.",
+                    "fr-FR": "Terminer les missions \"Confrontation\" et \"Un nid de frelons\" au niveau de difficulté Vétéran.",
+                    "it-IT": "Completa \"Atterramento\" e \"Vespaio\" a livello Veterano.",
+                    "pl-PL": "Ukończ 'Wejście' i 'Gniazdo szerszeni' na poziomie Weteran.",
+                    "ru-RU": "Завершить эпизоды \"Охота\" и \"Осиное гнездо\" на уровне сложности \"Ветеран\"."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "15.png"
+        },
+        "90": {
+            "text": {
+                "name": {
+                    "de-DE": "Roter Morgen",
+                    "en-US": "Red Dawn",
+                    "es-ES": "Amanecer rojo",
+                    "fr-FR": "Aube rouge",
+                    "it-IT": "Alba rossa",
+                    "pl-PL": "Czerwony Świt",
+                    "ru-RU": "Алый рассвет"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie 'Wolverines!' und 'Exodus' auf dem Schwierigkeitsgrad Veteran.",
+                    "en-US": "Complete 'Wolverines!' and 'Exodus' on Veteran Difficulty.",
+                    "es-ES": "Completa \"¡Wolverines!\" y \"Éxodo\" en dificultad veterano.",
+                    "fr-FR": "Terminer les missions \"Wolverines !\" et \"Exode\" au niveau de difficulté Vétéran.",
+                    "it-IT": "Completa \"Wolverine!\" e \"Esodo\" a livello Veterano.",
+                    "pl-PL": "Ukończ 'Rosomaki' i 'Eksodus' na poziomie Weteran.",
+                    "ru-RU": "Завершить эпизоды \"Росомахи!\" и \"Исход\" на уровне сложности \"Ветеран\"."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie 'Wolverines!' und 'Exodus' auf dem Schwierigkeitsgrad Veteran.",
+                    "en-US": "Complete 'Wolverines!' and 'Exodus' on Veteran Difficulty.",
+                    "es-ES": "Completa \"¡Wolverines!\" y \"Éxodo\" en dificultad veterano.",
+                    "fr-FR": "Terminer les missions \"Wolverines !\" et \"Exode\" au niveau de difficulté Vétéran.",
+                    "it-IT": "Completa \"Wolverine!\" e \"Esodo\" a livello Veterano.",
+                    "pl-PL": "Ukończ 'Rosomaki' i 'Eksodus' na poziomie Weteran.",
+                    "ru-RU": "Завершить эпизоды \"Росомахи!\" и \"Исход\" на уровне сложности \"Ветеран\"."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "16.png"
+        },
+        "91": {
+            "text": {
+                "name": {
+                    "de-DE": "Gefangener 627",
+                    "en-US": "Prisoner #627",
+                    "es-ES": "Prisionero 627",
+                    "fr-FR": "Prisonnier 627",
+                    "it-IT": "Prigioniero # 627",
+                    "pl-PL": "Więzień nr 627",
+                    "ru-RU": "Заключенный №627"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie 'Der einzig schöne Tag ... war gestern' und 'Der Gulag' auf Veteran.",
+                    "en-US": "Complete 'The Only Easy Day... Was Yesterday' and 'The Gulag' on Veteran Difficulty.",
+                    "es-ES": "Completa \"El único día sencillo... fue ayer\" y \"El gulag\" en dificultad veterano.",
+                    "fr-FR": "Finir les missions \"La seule journée paisible, c'était hier...\" et \"Le goulag\" en mode Vétéran.",
+                    "it-IT": "Completa \"L'unico giorno facile... era ieri\" e \"Il gulag\" a livello Veterano.",
+                    "pl-PL": "Ukończ 'Jedyny łatwy dzień... był wczoraj' i 'Gułag' na poziomie Weteran.",
+                    "ru-RU": "Завершить эпизоды \"Отдыхать надо было вчера\" и \"Колония\" на уровне сложности \"Ветеран\"."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie 'Der einzig schöne Tag ... war gestern' und 'Der Gulag' auf Veteran.",
+                    "en-US": "Complete 'The Only Easy Day... Was Yesterday' and 'The Gulag' on Veteran Difficulty.",
+                    "es-ES": "Completa \"El único día sencillo... fue ayer\" y \"El gulag\" en dificultad veterano.",
+                    "fr-FR": "Finir les missions \"La seule journée paisible, c'était hier...\" et \"Le goulag\" en mode Vétéran.",
+                    "it-IT": "Completa \"L'unico giorno facile... era ieri\" e \"Il gulag\" a livello Veterano.",
+                    "pl-PL": "Ukończ 'Jedyny łatwy dzień... był wczoraj' i 'Gułag' na poziomie Weteran.",
+                    "ru-RU": "Завершить эпизоды \"Отдыхать надо было вчера\" и \"Колония\" на уровне сложности \"Ветеран\"."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "17.png"
+        },
+        "92": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Zweck heiligt die Mittel",
+                    "en-US": "Ends Justify the Means",
+                    "es-ES": "El fin justifica los medios",
+                    "fr-FR": "La fin justifie les moyens",
+                    "it-IT": "Il fine giustifica i mezzi",
+                    "pl-PL": "Cel uświęca środki",
+                    "ru-RU": "Цель оправдывает средства"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie 'Notfall' auf dem Schwierigkeitsgrad Veteran.",
+                    "en-US": "Complete 'Contingency' on Veteran Difficulty",
+                    "es-ES": "Completa \"Contingencia\" en dificultad veterano.",
+                    "fr-FR": "Terminer la mission \"Imprévu\" au niveau de difficulté Vétéran.",
+                    "it-IT": "Completa \"Imprevisto\" a livello Veterano.",
+                    "pl-PL": "Ukończ 'Ewentualność' na poziomie Weteran.",
+                    "ru-RU": "Завершить эпизод \"Досадная случайность\" на уровне сложности \"Ветеран\"."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie 'Notfall' auf dem Schwierigkeitsgrad Veteran.",
+                    "en-US": "Complete 'Contingency' on Veteran Difficulty",
+                    "es-ES": "Completa \"Contingencia\" en dificultad veterano.",
+                    "fr-FR": "Terminer la mission \"Imprévu\" au niveau de difficulté Vétéran.",
+                    "it-IT": "Completa \"Imprevisto\" a livello Veterano.",
+                    "pl-PL": "Ukończ 'Ewentualność' na poziomie Weteran.",
+                    "ru-RU": "Завершить эпизод \"Досадная случайность\" на уровне сложности \"Ветеран\"."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "18.png"
+        },
+        "93": {
+            "text": {
+                "name": {
+                    "de-DE": "Heimkehr",
+                    "en-US": "Homecoming",
+                    "es-ES": "Vuelta a casa",
+                    "fr-FR": "Retour à la maison",
+                    "it-IT": "Ritorno a casa",
+                    "pl-PL": "Powrót do domu",
+                    "ru-RU": "Путь домой"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie 'Auf eigene Verantwortung', 'Zweite Sonne' und 'Das Weiße Haus' auf Veteran.",
+                    "en-US": "Complete 'Of Their Own Accord', 'Second Sun', and 'Whiskey Hotel' on Veteran Difficulty.",
+                    "es-ES": "Completa \"Por propia voluntad\", \"Segundo sol\" y \"Whiskey Hotel\" en dificultad veterano.",
+                    "fr-FR": "Finir les missions \"Sans contrainte\", \"Deuxième soleil\" et \"Whiskey Hotel\" en mode Vétéran.",
+                    "it-IT": "Completa \"Secondo le loro fonti\", \"Il secondo sole\" e \"Whiskey Hotel\" a livello Veterano.",
+                    "pl-PL": "Ukończ 'Z własnej woli' i 'Drugie słońce' i 'Hotel Whiskey' na poziomie Weteran.",
+                    "ru-RU": "Завершить эпизоды \"Отдыхать надо было вчера\" и \"Колония\" на уровне сложности \"Ветеран\"."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie 'Auf eigene Verantwortung', 'Zweite Sonne' und 'Das Weiße Haus' auf Veteran.",
+                    "en-US": "Complete 'Of Their Own Accord', 'Second Sun', and 'Whiskey Hotel' on Veteran Difficulty.",
+                    "es-ES": "Completa \"Por propia voluntad\", \"Segundo sol\" y \"Whiskey Hotel\" en dificultad veterano.",
+                    "fr-FR": "Finir les missions \"Sans contrainte\", \"Deuxième soleil\" et \"Whiskey Hotel\" en mode Vétéran.",
+                    "it-IT": "Completa \"Secondo le loro fonti\", \"Il secondo sole\" e \"Whiskey Hotel\" a livello Veterano.",
+                    "pl-PL": "Ukończ 'Z własnej woli' i 'Drugie słońce' i 'Hotel Whiskey' na poziomie Weteran.",
+                    "ru-RU": "Завершить эпизоды \"Отдыхать надо было вчера\" и \"Колония\" на уровне сложности \"Ветеран\"."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "19.png"
+        },
+        "94": {
+            "text": {
+                "name": {
+                    "de-DE": "Dame schlägt Turm",
+                    "en-US": "Queen takes Rook",
+                    "es-ES": "La reina se come a la torre",
+                    "fr-FR": "La reine prend la tour",
+                    "it-IT": "La regina mangia la torre",
+                    "pl-PL": "Królowa bije wieżę",
+                    "ru-RU": "Ферзь бьет ладью"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie 'Lose Enden' und 'Der Feind meines Feindes' auf dem Schwierigkeitsgrad Veteran.",
+                    "en-US": "Complete 'Loose Ends' and 'The Enemy of My Enemy' on Veteran Difficulty.",
+                    "es-ES": "Completa \"Cabos sueltos\" y \"El enemigo de mi enemigo\" en dificultad veterano.",
+                    "fr-FR": "Finir les missions \"Derniers détails\" et \"L'ennemi de mon ennemi...\" en mode Vétéran.",
+                    "it-IT": "Completa \"Conti in sospeso\" e \"Il nemico del mio nemico\" a livello Veterano.",
+                    "pl-PL": "Ukończ 'Niedokończone sprawy' i 'Wróg mojego wroga' na poziomie Weteran.",
+                    "ru-RU": "Завершить эпизоды \"Неоконченные дела\" и \"Враг моего врага\" на уровне сложности \"Ветеран\"."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie 'Lose Enden' und 'Der Feind meines Feindes' auf dem Schwierigkeitsgrad Veteran.",
+                    "en-US": "Complete 'Loose Ends' and 'The Enemy of My Enemy' on Veteran Difficulty.",
+                    "es-ES": "Completa \"Cabos sueltos\" y \"El enemigo de mi enemigo\" en dificultad veterano.",
+                    "fr-FR": "Finir les missions \"Derniers détails\" et \"L'ennemi de mon ennemi...\" en mode Vétéran.",
+                    "it-IT": "Completa \"Conti in sospeso\" e \"Il nemico del mio nemico\" a livello Veterano.",
+                    "pl-PL": "Ukończ 'Niedokończone sprawy' i 'Wróg mojego wroga' na poziomie Weteran.",
+                    "ru-RU": "Завершить эпизоды \"Неоконченные дела\" и \"Враг моего врага\" на уровне сложности \"Ветеран\"."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "20.png"
+        },
+        "95": {
+            "text": {
+                "name": {
+                    "de-DE": "Aussteiger",
+                    "en-US": "Off the Grid",
+                    "es-ES": "Autosuficiente",
+                    "fr-FR": "Indépendance",
+                    "it-IT": "Autarchia",
+                    "pl-PL": "Na własny rachunek",
+                    "ru-RU": "Вне системы"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie 'Wie in alten Zeiten' und 'Das Ende' auf Veteran.",
+                    "en-US": "Complete 'Just Like Old Times' and 'Endgame' on Veteran Difficulty.",
+                    "es-ES": "Completa \"Como en los viejos tiempos\" y \"Fin de partida\" en dificultad veterano.",
+                    "fr-FR": "Finir les missions \"Comme au bon vieux temps\" et \"Échec et mat\" en mode Vétéran.",
+                    "it-IT": "Completa \"Come ai vecchi tempi\" e \"La fine\" a livello Veterano.",
+                    "pl-PL": "Ukończ 'Jak za dawnych czasów' i 'Koniec gry' na poziomie Weteran.",
+                    "ru-RU": "Завершить эпизоды \"Как в былые времена\" и \"Финал\" на сложности \"Ветеран\"."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie 'Wie in alten Zeiten' und 'Das Ende' auf Veteran.",
+                    "en-US": "Complete 'Just Like Old Times' and 'Endgame' on Veteran Difficulty.",
+                    "es-ES": "Completa \"Como en los viejos tiempos\" y \"Fin de partida\" en dificultad veterano.",
+                    "fr-FR": "Finir les missions \"Comme au bon vieux temps\" et \"Échec et mat\" en mode Vétéran.",
+                    "it-IT": "Completa \"Come ai vecchi tempi\" e \"La fine\" a livello Veterano.",
+                    "pl-PL": "Ukończ 'Jak za dawnych czasów' i 'Koniec gry' na poziomie Weteran.",
+                    "ru-RU": "Завершить эпизоды \"Как в былые времена\" и \"Финал\" на сложности \"Ветеран\"."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "21.png"
+        },
+        "96": {
+            "text": {
+                "name": {
+                    "de-DE": "Grubenarbeiter",
+                    "en-US": "Pit Boss",
+                    "es-ES": "Jefe del foso",
+                    "fr-FR": "Roi de la fosse",
+                    "it-IT": "Il direttore",
+                    "pl-PL": "Szef Piekiełka",
+                    "ru-RU": "Герой Полигона"
+                },
+                "description": {
+                    "de-DE": "Rennen Sie durch 'Die Grube' in 'Die alte Leier' und beenden Sie den Parcours in unter 30 Sekunden.",
+                    "en-US": "Run The Pit in 'S.S.D.D' and finish with a final time under 30 seconds.",
+                    "es-ES": "Recorre el foso en \"Otro día, la misma mierda\" y acaba en menos de 30 segundos.",
+                    "fr-FR": "Parcourir la fosse dans la mission \"S.S.D.D\" et terminer avec un temps final inférieur à 30 s.",
+                    "it-IT": "Percorri il pozzo in \"Stessa merda, altro giorno\" e finisci sotto i 30 secondi.",
+                    "pl-PL": "Pokonaj Piekiełko w 'S.J.C.D' i uzyskaj czas ostateczny poniżej 30 sekund.",
+                    "ru-RU": "Пройти Полигон в эпизоде \"Курс обучение\" менее чем за 30 секунд."
+                },
+                "howto": {
+                    "de-DE": "Rennen Sie durch 'Die Grube' in 'Die alte Leier' und beenden Sie den Parcours in unter 30 Sekunden.",
+                    "en-US": "Run The Pit in 'S.S.D.D' and finish with a final time under 30 seconds.",
+                    "es-ES": "Recorre el foso en \"Otro día, la misma mierda\" y acaba en menos de 30 segundos.",
+                    "fr-FR": "Parcourir la fosse dans la mission \"S.S.D.D\" et terminer avec un temps final inférieur à 30 s.",
+                    "it-IT": "Percorri il pozzo in \"Stessa merda, altro giorno\" e finisci sotto i 30 secondi.",
+                    "pl-PL": "Pokonaj Piekiełko w 'S.J.C.D' i uzyskaj czas ostateczny poniżej 30 sekund.",
+                    "ru-RU": "Пройти Полигон в эпизоде \"Курс обучение\" менее чем за 30 секунд."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "22.png"
+        },
+        "97": {
+            "text": {
+                "name": {
+                    "de-DE": "Geist",
+                    "en-US": "Ghost",
+                    "es-ES": "Fantasma",
+                    "fr-FR": "Fantôme",
+                    "it-IT": "Ghost",
+                    "pl-PL": "Ghost",
+                    "ru-RU": "Призрак"
+                },
+                "description": {
+                    "de-DE": "Platzieren Sie in 'Cliffhanger' C4, ohne jemanden im Schneesturm zu verletzen oder zu alarmieren.",
+                    "en-US": "Plant the C4 in 'Cliffhanger' without alerting or injuring anyone in the blizzard.",
+                    "es-ES": "Coloca el C4 en \"Máximo riesgo\" sin alertar ni herir a nadie en la ventisca.",
+                    "fr-FR": "Placer le C4 dans \"Périlleuse escalade\" sans alerter ou blesser qui que ce soit dans le blizzard.",
+                    "it-IT": "Piazza il C4 in \"Cliffhanger\" senza allarmare o ferire nessuno nella tormenta.",
+                    "pl-PL": "Podłóż C4 w 'Alpiniście', nie alarmując, ani nie raniąc nikogo podczas zamieci śnieżnej.",
+                    "ru-RU": "Заложить заряд в эпизоде \"Скалолаз\", не потревожив и не ранив ни одного противника."
+                },
+                "howto": {
+                    "de-DE": "Platzieren Sie in 'Cliffhanger' C4, ohne jemanden im Schneesturm zu verletzen oder zu alarmieren.",
+                    "en-US": "Plant the C4 in 'Cliffhanger' without alerting or injuring anyone in the blizzard.",
+                    "es-ES": "Coloca el C4 en \"Máximo riesgo\" sin alertar ni herir a nadie en la ventisca.",
+                    "fr-FR": "Placer le C4 dans \"Périlleuse escalade\" sans alerter ou blesser qui que ce soit dans le blizzard.",
+                    "it-IT": "Piazza il C4 in \"Cliffhanger\" senza allarmare o ferire nessuno nella tormenta.",
+                    "pl-PL": "Podłóż C4 w 'Alpiniście', nie alarmując, ani nie raniąc nikogo podczas zamieci śnieżnej.",
+                    "ru-RU": "Заложить заряд в эпизоде \"Скалолаз\", не потревожив и не ранив ни одного противника."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "23.png"
+        },
+        "98": {
+            "text": {
+                "name": {
+                    "de-DE": "Colonel Sanderson",
+                    "en-US": "Colonel Sanderson",
+                    "es-ES": "Coronel Sanderson",
+                    "fr-FR": "Colonel Sanderson",
+                    "it-IT": "Polletto alla diavola",
+                    "pl-PL": "Pułkownik Sanderson",
+                    "ru-RU": "Полковник Сандерсон"
+                },
+                "description": {
+                    "de-DE": "Erledigen Sie in 'Das Hornissennest' 7 Hühner in unter 10 Sekunden.",
+                    "en-US": "Kill 7 chickens in under 10 seconds in 'The Hornet's Nest'.",
+                    "es-ES": "Mata a 7 gallinas en menos de 10 segundos en \"El avispero\".",
+                    "fr-FR": "Tuer 7 poulets en moins de 10 secondes durant la mission \"Un nid de frelons\".",
+                    "it-IT": "Uccidi 7 galline in meno di 10 secondi in \"Vespaio\".",
+                    "pl-PL": "W 'Gnieździe szerszeni' zabij 7 kurczaków w czasie krótszym niż 10 sekund.",
+                    "ru-RU": "Убейте 7 цыплят менее чем за 10 секунд в эпизоде \"Осиное гнездо\"."
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie in 'Das Hornissennest' 7 Hühner in unter 10 Sekunden.",
+                    "en-US": "Kill 7 chickens in under 10 seconds in 'The Hornet's Nest'.",
+                    "es-ES": "Mata a 7 gallinas en menos de 10 segundos en \"El avispero\".",
+                    "fr-FR": "Tuer 7 poulets en moins de 10 secondes durant la mission \"Un nid de frelons\".",
+                    "it-IT": "Uccidi 7 galline in meno di 10 secondi in \"Vespaio\".",
+                    "pl-PL": "W 'Gnieździe szerszeni' zabij 7 kurczaków w czasie krótszym niż 10 sekund.",
+                    "ru-RU": "Убейте 7 цыплят менее чем за 10 секунд в эпизоде \"Осиное гнездо\"."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "24.png"
+        },
+        "99": {
+            "text": {
+                "name": {
+                    "de-DE": "Goldstern",
+                    "en-US": "Gold Star",
+                    "es-ES": "Estrella de oro",
+                    "fr-FR": "Étoile dorée",
+                    "it-IT": "Stella d'oro",
+                    "pl-PL": "Złota gwiazda",
+                    "ru-RU": "Золотая звезда"
+                },
+                "description": {
+                    "de-DE": "Verdienen Sie 1 Stern im Spezialeinheit-Modus.",
+                    "en-US": "Earn 1 star in Special Ops.",
+                    "es-ES": "Gana 1 estrella en Operaciones especiales.",
+                    "fr-FR": "Gagner 1 étoile en mode Opérations spéciales.",
+                    "it-IT": "Ottieni 1 stella in Operazioni speciali.",
+                    "pl-PL": "Zdobądź 1 gwiazdkę w misjach specjalnych.",
+                    "ru-RU": "Получить 1 звезду в режиме \"Спецоперации\"."
+                },
+                "howto": {
+                    "de-DE": "Verdienen Sie 1 Stern im Spezialeinheit-Modus.",
+                    "en-US": "Earn 1 star in Special Ops.",
+                    "es-ES": "Gana 1 estrella en Operaciones especiales.",
+                    "fr-FR": "Gagner 1 étoile en mode Opérations spéciales.",
+                    "it-IT": "Ottieni 1 stella in Operazioni speciali.",
+                    "pl-PL": "Zdobądź 1 gwiazdkę w misjach specjalnych.",
+                    "ru-RU": "Получить 1 звезду в режиме \"Спецоперации\"."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "25.png"
+        },
+        "100": {
+            "text": {
+                "name": {
+                    "de-DE": "Hotel Bravo",
+                    "en-US": "Hotel Bravo",
+                    "es-ES": "Hotel Bravo",
+                    "fr-FR": "Hotel Bravo",
+                    "it-IT": "Hotel Bravo",
+                    "pl-PL": "Hotel Bravo",
+                    "ru-RU": "Хоутел-Браво"
+                },
+                "description": {
+                    "de-DE": "Verdienen Sie 4 Sterne im Spezialeinheit-Modus.",
+                    "en-US": "Earn 4 stars in Special Ops.",
+                    "es-ES": "Gana 4 estrellas en Operaciones especiales.",
+                    "fr-FR": "Gagner 4 étoiles en mode Opérations spéciales.",
+                    "it-IT": "Ottieni 4 stelle in Operazioni speciali.",
+                    "pl-PL": "Zdobądź 4 gwiazdki w misjach specjalnych.",
+                    "ru-RU": "Получить 4 звезды в режиме \"Спецоперации\"."
+                },
+                "howto": {
+                    "de-DE": "Verdienen Sie 4 Sterne im Spezialeinheit-Modus.",
+                    "en-US": "Earn 4 stars in Special Ops.",
+                    "es-ES": "Gana 4 estrellas en Operaciones especiales.",
+                    "fr-FR": "Gagner 4 étoiles en mode Opérations spéciales.",
+                    "it-IT": "Ottieni 4 stelle in Operazioni speciali.",
+                    "pl-PL": "Zdobądź 4 gwiazdki w misjach specjalnych.",
+                    "ru-RU": "Получить 4 звезды в режиме \"Спецоперации\"."
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "20",
+            "imageId": "26.png"
+        },
+        "101": {
+            "text": {
+                "name": {
+                    "de-DE": "Gegner auf 6 Uhr",
+                    "en-US": "Charlie On Our Six",
+                    "es-ES": "Charlie a las seis",
+                    "fr-FR": "Charlie à six heures",
+                    "it-IT": "Charlie a ore 6",
+                    "pl-PL": "Wróg na szóstej",
+                    "ru-RU": "Восьмерка"
+                },
+                "description": {
+                    "de-DE": "Verdienen Sie 8 Sterne im Spezialeinheit-Modus.",
+                    "en-US": "Earn 8 stars in Special Ops.",
+                    "es-ES": "Gana 8 estrellas en Operaciones especiales.",
+                    "fr-FR": "Gagner 8 étoiles en mode Opérations spéciales.",
+                    "it-IT": "Ottieni 8 stelle in Operazioni speciali.",
+                    "pl-PL": "Zdobądź 8 gwiazdek w misjach specjalnych.",
+                    "ru-RU": "Получить 8 звезд в режиме \"Спецоперации\"."
+                },
+                "howto": {
+                    "de-DE": "Verdienen Sie 8 Sterne im Spezialeinheit-Modus.",
+                    "en-US": "Earn 8 stars in Special Ops.",
+                    "es-ES": "Gana 8 estrellas en Operaciones especiales.",
+                    "fr-FR": "Gagner 8 étoiles en mode Opérations spéciales.",
+                    "it-IT": "Ottieni 8 stelle in Operazioni speciali.",
+                    "pl-PL": "Zdobądź 8 gwiazdek w misjach specjalnych.",
+                    "ru-RU": "Получить 8 звезд в режиме \"Спецоперации\"."
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "20",
+            "imageId": "27.png"
+        },
+        "102": {
+            "text": {
+                "name": {
+                    "de-DE": "Jetzt schlägt's 11",
+                    "en-US": "It Goes to Eleven",
+                    "es-ES": "Hasta once",
+                    "fr-FR": "Jusqu'à 11",
+                    "it-IT": "Arriva fino a 11.",
+                    "pl-PL": "Jedenastka",
+                    "ru-RU": "Уже одиннадцать"
+                },
+                "description": {
+                    "de-DE": "Verdienen Sie mindestens 1 Stern in 11 verschiedenen Spezialeinheit-Missionen.",
+                    "en-US": "Earn at least 1 star in 11 different Special Op missions.",
+                    "es-ES": "Gana al menos 1 estrella en 11 misiones diferentes de Operaciones especiales.",
+                    "fr-FR": "Gagner au moins 1 étoile dans 11 missions différentes en mode Opérations spéciales.",
+                    "it-IT": "Ottieni almeno 1 stella in 11 diverse missioni Operazioni speciali.",
+                    "pl-PL": "Zdobądź co najmniej 1 gwiazdkę w 11 różnych w misjach specjalnych.",
+                    "ru-RU": "Получить как минимум по 1 звезде в 11 разных спецоперациях."
+                },
+                "howto": {
+                    "de-DE": "Verdienen Sie mindestens 1 Stern in 11 verschiedenen Spezialeinheit-Missionen.",
+                    "en-US": "Earn at least 1 star in 11 different Special Op missions.",
+                    "es-ES": "Gana al menos 1 estrella en 11 misiones diferentes de Operaciones especiales.",
+                    "fr-FR": "Gagner au moins 1 étoile dans 11 missions différentes en mode Opérations spéciales.",
+                    "it-IT": "Ottieni almeno 1 stella in 11 diverse missioni Operazioni speciali.",
+                    "pl-PL": "Zdobądź co najmniej 1 gwiazdkę w 11 różnych w misjach specjalnych.",
+                    "ru-RU": "Получить как минимум по 1 звезде в 11 разных спецоперациях."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "28.png"
+        },
+        "103": {
+            "text": {
+                "name": {
+                    "de-DE": "Star des Einsatzes",
+                    "en-US": "Operational Asset",
+                    "es-ES": "Baza operativa",
+                    "fr-FR": "Atout opérationnel",
+                    "it-IT": "Assetto operativo",
+                    "pl-PL": "Zasób operacyjny",
+                    "ru-RU": "Оперативная работа"
+                },
+                "description": {
+                    "de-DE": "Verdienen Sie alle 3 Sterne in mindestens 5 verschiedenen Spezialeinheit-Missionen.",
+                    "en-US": "Earn all 3 stars in at least 5 different Special Op missions.",
+                    "es-ES": "Gana las 3 estrellas en 5 misiones diferentes de Operaciones especiales.",
+                    "fr-FR": "Gagner les 3 étoiles dans au moins 5 missions différentes en mode Opérations spéciales.",
+                    "it-IT": "Ottieni tutte e 3 le stelle in 5 diverse missioni Operazioni speciali.",
+                    "pl-PL": "Zdobądź 3 gwiazdki w co najmniej 5 różnych w misjach specjalnych.",
+                    "ru-RU": "Получить по 3 звезды в 5 разных спецоперациях."
+                },
+                "howto": {
+                    "de-DE": "Verdienen Sie alle 3 Sterne in mindestens 5 verschiedenen Spezialeinheit-Missionen.",
+                    "en-US": "Earn all 3 stars in at least 5 different Special Op missions.",
+                    "es-ES": "Gana las 3 estrellas en 5 misiones diferentes de Operaciones especiales.",
+                    "fr-FR": "Gagner les 3 étoiles dans au moins 5 missions différentes en mode Opérations spéciales.",
+                    "it-IT": "Ottieni tutte e 3 le stelle in 5 diverse missioni Operazioni speciali.",
+                    "pl-PL": "Zdobądź 3 gwiazdki w co najmniej 5 różnych w misjach specjalnych.",
+                    "ru-RU": "Получить по 3 звезды в 5 разных спецоперациях."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "29.png"
+        },
+        "104": {
+            "text": {
+                "name": {
+                    "de-DE": "Siebzehn und vier",
+                    "en-US": "Blackjack",
+                    "es-ES": "Blackjack",
+                    "fr-FR": "Black Jack",
+                    "it-IT": "Blackjack",
+                    "pl-PL": "Oczko",
+                    "ru-RU": "Двадцать одно"
+                },
+                "description": {
+                    "de-DE": "Verdienen Sie 21 Sterne im Spezialeinheit-Modus.",
+                    "en-US": "Earn 21 stars in Special Ops.",
+                    "es-ES": "Gana 21 estrellas en Operaciones especiales.",
+                    "fr-FR": "Gagner 21 étoiles en mode Opérations spéciales.",
+                    "it-IT": "Ottieni 21 stelle in Operazioni speciali.",
+                    "pl-PL": "Zdobądź 21 gwiazdek w misjach specjalnych.",
+                    "ru-RU": "Получить 21 звезду в режиме \"Спецоперации\"."
+                },
+                "howto": {
+                    "de-DE": "Verdienen Sie 21 Sterne im Spezialeinheit-Modus.",
+                    "en-US": "Earn 21 stars in Special Ops.",
+                    "es-ES": "Gana 21 estrellas en Operaciones especiales.",
+                    "fr-FR": "Gagner 21 étoiles en mode Opérations spéciales.",
+                    "it-IT": "Ottieni 21 stelle in Operazioni speciali.",
+                    "pl-PL": "Zdobądź 21 gwiazdek w misjach specjalnych.",
+                    "ru-RU": "Получить 21 звезду в режиме \"Спецоперации\"."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "30.png"
+        },
+        "105": {
+            "text": {
+                "name": {
+                    "de-DE": "Ausgezeichnet",
+                    "en-US": "Honor Roll",
+                    "es-ES": "Cuadro de honor",
+                    "fr-FR": "Avec les honneurs",
+                    "it-IT": "Parata d'onore",
+                    "pl-PL": "Lista zasłużonych",
+                    "ru-RU": "Круг почета"
+                },
+                "description": {
+                    "de-DE": "Verdienen Sie mindestens 1 Stern in jeder Spezialeinheit-Mission.",
+                    "en-US": "Earn at least 1 star in each Special Op mission.",
+                    "es-ES": "Gana al menos 1 estrella en cada misión de Operaciones especiales.",
+                    "fr-FR": "Gagner au moins 1 étoile dans chaque mission du mode Opérations spéciales.",
+                    "it-IT": "Ottieni almeno 1 stella in tutte le missioni Operazioni speciali.",
+                    "pl-PL": "Zdobądź co najmniej 1 gwiazdkę w każdej misji specjalnej.",
+                    "ru-RU": "Получить как минимум по 1 звезде в каждой спецоперации."
+                },
+                "howto": {
+                    "de-DE": "Verdienen Sie mindestens 1 Stern in jeder Spezialeinheit-Mission.",
+                    "en-US": "Earn at least 1 star in each Special Op mission.",
+                    "es-ES": "Gana al menos 1 estrella en cada misión de Operaciones especiales.",
+                    "fr-FR": "Gagner au moins 1 étoile dans chaque mission du mode Opérations spéciales.",
+                    "it-IT": "Ottieni almeno 1 stella in tutte le missioni Operazioni speciali.",
+                    "pl-PL": "Zdobądź co najmniej 1 gwiazdkę w każdej misji specjalnej.",
+                    "ru-RU": "Получить как минимум по 1 звезде в каждой спецоперации."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "31.png"
+        },
+        "106": {
+            "text": {
+                "name": {
+                    "de-DE": "Agent",
+                    "en-US": "Operative",
+                    "es-ES": "Agente",
+                    "fr-FR": "Agent",
+                    "it-IT": "Operativo",
+                    "pl-PL": "Agent specjalny",
+                    "ru-RU": "Боец"
+                },
+                "description": {
+                    "de-DE": "Verdienen Sie alle 3 Sterne in mindestens 10 verschiedenen Spezialeinheit-Missionen.",
+                    "en-US": "Earn all 3 stars in at least 10 different Special Op missions.",
+                    "es-ES": "Gana las 3 estrellas en 10 misiones diferentes de Operaciones especiales.",
+                    "fr-FR": "Gagner les 3 étoiles dans au moins 10 missions différentes en mode Opérations spéciales.",
+                    "it-IT": "Ottieni tutte e 3 le stelle in 10 diverse missioni Operazioni speciali.",
+                    "pl-PL": "Zdobądź 3 gwiazdki w co najmniej 10 różnych w misjach specjalnych.",
+                    "ru-RU": "Получить по 3 звезды в 10 разных спецоперациях."
+                },
+                "howto": {
+                    "de-DE": "Verdienen Sie alle 3 Sterne in mindestens 10 verschiedenen Spezialeinheit-Missionen.",
+                    "en-US": "Earn all 3 stars in at least 10 different Special Op missions.",
+                    "es-ES": "Gana las 3 estrellas en 10 misiones diferentes de Operaciones especiales.",
+                    "fr-FR": "Gagner les 3 étoiles dans au moins 10 missions différentes en mode Opérations spéciales.",
+                    "it-IT": "Ottieni tutte e 3 le stelle in 10 diverse missioni Operazioni speciali.",
+                    "pl-PL": "Zdobądź 3 gwiazdki w co najmniej 10 różnych w misjach specjalnych.",
+                    "ru-RU": "Получить по 3 звезды в 10 разных спецоперациях."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "32.png"
+        },
+        "107": {
+            "text": {
+                "name": {
+                    "de-DE": "Spezialist",
+                    "en-US": "Specialist",
+                    "es-ES": "Especialista",
+                    "fr-FR": "Spécialiste",
+                    "it-IT": "Soldato scelto",
+                    "pl-PL": "Specjalista",
+                    "ru-RU": "Специалист"
+                },
+                "description": {
+                    "de-DE": "Verdienen Sie 30 Sterne im Spezialeinheit-Modus.",
+                    "en-US": "Earn 30 stars in Special Ops.",
+                    "es-ES": "Gana 30 estrellas en Operaciones especiales.",
+                    "fr-FR": "Gagner 30 étoiles en mode Opérations spéciales.",
+                    "it-IT": "Ottieni 30 stelle in Operazioni speciali.",
+                    "pl-PL": "Zdobądź 30 gwiazdek w misjach specjalnych.",
+                    "ru-RU": "Получить 30 звезд в режиме \"Спецоперации\"."
+                },
+                "howto": {
+                    "de-DE": "Verdienen Sie 30 Sterne im Spezialeinheit-Modus.",
+                    "en-US": "Earn 30 stars in Special Ops.",
+                    "es-ES": "Gana 30 estrellas en Operaciones especiales.",
+                    "fr-FR": "Gagner 30 étoiles en mode Opérations spéciales.",
+                    "it-IT": "Ottieni 30 stelle in Operazioni speciali.",
+                    "pl-PL": "Zdobądź 30 gwiazdek w misjach specjalnych.",
+                    "ru-RU": "Получить 30 звезд в режиме \"Спецоперации\"."
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "30",
+            "imageId": "33.png"
+        },
+        "108": {
+            "text": {
+                "name": {
+                    "de-DE": "Profi",
+                    "en-US": "Professional",
+                    "es-ES": "Profesional",
+                    "fr-FR": "Professionnel",
+                    "it-IT": "Professionale",
+                    "pl-PL": "Specjalnych.",
+                    "ru-RU": "Профессионал"
+                },
+                "description": {
+                    "de-DE": "Verdienen Sie alle 3 Sterne in mindestens 15 verschiedenen Spezialeinheit-Missionen.",
+                    "en-US": "Earn all 3 stars in at least 15 different Special Op missions.",
+                    "es-ES": "Gana las 3 estrellas en 15 misiones diferentes de Operaciones especiales.",
+                    "fr-FR": "Gagner les 3 étoiles dans au moins 15 missions différentes en mode Opérations spéciales.",
+                    "it-IT": "Ottieni tutte e 3 le stelle in 15 diverse missioni Operazioni speciali.",
+                    "pl-PL": "Zdobądź 3 gwiazdki w co najmniej 15 różnych w misjach specjalnych.",
+                    "ru-RU": "Получить по 3 звезды в 15 разных спецоперациях."
+                },
+                "howto": {
+                    "de-DE": "Verdienen Sie alle 3 Sterne in mindestens 15 verschiedenen Spezialeinheit-Missionen.",
+                    "en-US": "Earn all 3 stars in at least 15 different Special Op missions.",
+                    "es-ES": "Gana las 3 estrellas en 15 misiones diferentes de Operaciones especiales.",
+                    "fr-FR": "Gagner les 3 étoiles dans au moins 15 missions différentes en mode Opérations spéciales.",
+                    "it-IT": "Ottieni tutte e 3 le stelle in 15 diverse missioni Operazioni speciali.",
+                    "pl-PL": "Zdobądź 3 gwiazdki w co najmniej 15 różnych w misjach specjalnych.",
+                    "ru-RU": "Получить по 3 звезды в 15 разных спецоперациях."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "34.png"
+        },
+        "109": {
+            "text": {
+                "name": {
+                    "de-DE": "Stern 69",
+                    "en-US": "Star 69",
+                    "es-ES": "Estrella 69",
+                    "fr-FR": "69",
+                    "it-IT": "69 stelle",
+                    "pl-PL": "69 gwiazd",
+                    "ru-RU": "69 звезд"
+                },
+                "description": {
+                    "de-DE": "Verdienen Sie 69 Sterne im Spezialeinheit-Modus.",
+                    "en-US": "Earn 69 stars in Special Ops.",
+                    "es-ES": "Gana 69 estrellas en Operaciones especiales.",
+                    "fr-FR": "Gagner 69 étoiles en mode Opérations spéciales.",
+                    "it-IT": "Ottieni 69 stelle in Operazioni speciali.",
+                    "pl-PL": "Zdobądź 69 gwiazdek w misjach specjalnych.",
+                    "ru-RU": "Получить 69 звезд в режиме \"Спецоперации\"."
+                },
+                "howto": {
+                    "de-DE": "Verdienen Sie 69 Sterne im Spezialeinheit-Modus.",
+                    "en-US": "Earn 69 stars in Special Ops.",
+                    "es-ES": "Gana 69 estrellas en Operaciones especiales.",
+                    "fr-FR": "Gagner 69 étoiles en mode Opérations spéciales.",
+                    "it-IT": "Ottieni 69 stelle in Operazioni speciali.",
+                    "pl-PL": "Zdobądź 69 gwiazdek w misjach specjalnych.",
+                    "ru-RU": "Получить 69 звезд в режиме \"Спецоперации\"."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "90",
+            "imageId": "35.png"
+        },
+        "111": {
+            "text": {
+                "name": {
+                    "de-DE": "Immer noch da",
+                    "en-US": "Downed but Not Out",
+                    "es-ES": "Caído, pero no muerto",
+                    "fr-FR": "À terre mais en vie",
+                    "it-IT": "Colpito, ma non affondato",
+                    "pl-PL": "Trafiony, niezatopiony",
+                    "ru-RU": "Сбит, но не побежден"
+                },
+                "description": {
+                    "de-DE": "Erledigen Sie 4 Gegner hintereinander, während Sie in 'Spezialeinheit' verletzt wurden.",
+                    "en-US": "Kill 4 enemies in a row while downed in Special Ops.",
+                    "es-ES": "Mata a 4 enemigos seguidos desde el suelo en Operaciones especiales.",
+                    "fr-FR": "Tuer 4 ennemis d'affilée en étant à terre en mode Opérations spéciales.",
+                    "it-IT": "Uccidi 4 nemici di fila mentre sei a terra in Operazioni speciali.",
+                    "pl-PL": "Zabij 4 nieprzyjaciół z rzędu, kiedy zostaniesz ranny podczas misji specjalnej.",
+                    "ru-RU": "Убить 4 противников подряд, будучи сбитым во время спецоперации."
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie 4 Gegner hintereinander, während Sie in 'Spezialeinheit' verletzt wurden.",
+                    "en-US": "Kill 4 enemies in a row while downed in Special Ops.",
+                    "es-ES": "Mata a 4 enemigos seguidos desde el suelo en Operaciones especiales.",
+                    "fr-FR": "Tuer 4 ennemis d'affilée en étant à terre en mode Opérations spéciales.",
+                    "it-IT": "Uccidi 4 nemici di fila mentre sei a terra in Operazioni speciali.",
+                    "pl-PL": "Zabij 4 nieprzyjaciół z rzędu, kiedy zostaniesz ranny podczas misji specjalnej.",
+                    "ru-RU": "Убить 4 противников подряд, будучи сбитым во время спецоперации."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "36.png"
+        },
+        "113": {
+            "text": {
+                "name": {
+                    "de-DE": "Mein Name ist Juggernaut ...",
+                    "en-US": "I'm the Juggernaut…",
+                    "es-ES": "Soy el titán",
+                    "fr-FR": "Je suis le Mastodonte...",
+                    "it-IT": "Juggernaut",
+                    "pl-PL": "Jestem Kolosem...",
+                    "ru-RU": "\"Джаггернаут\" здесь я!"
+                },
+                "description": {
+                    "de-DE": "Schalten Sie einen Juggernaut in 'Spezialeinheit' aus.",
+                    "en-US": "Kill a Juggernaut in Special Ops.",
+                    "es-ES": "Mata a un titán en Operaciones especiales.",
+                    "fr-FR": "Tuer un Mastodonte en mode Opérations spéciales.",
+                    "it-IT": "Elimina un Juggernaut in Operazioni speciali.",
+                    "pl-PL": "Zabij Kolosa w misji specjalnej.",
+                    "ru-RU": "Убить \"Джаггернаута\" в режиме спецоперации."
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie einen Juggernaut in 'Spezialeinheit' aus.",
+                    "en-US": "Kill a Juggernaut in Special Ops.",
+                    "es-ES": "Mata a un titán en Operaciones especiales.",
+                    "fr-FR": "Tuer un Mastodonte en mode Opérations spéciales.",
+                    "it-IT": "Elimina un Juggernaut in Operazioni speciali.",
+                    "pl-PL": "Zabij Kolosa w misji specjalnej.",
+                    "ru-RU": "Убить \"Джаггернаута\" в режиме спецоперации."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "37.png"
+        },
+        "115": {
+            "text": {
+                "name": {
+                    "de-DE": "Mehr als 10 Gegner",
+                    "en-US": "Ten plus foot-mobiles",
+                    "es-ES": "Más de 10 enemigos",
+                    "fr-FR": "Une dizaine de soldats",
+                    "it-IT": "10 pedoni",
+                    "pl-PL": "Ponad dziesięciu zabitych",
+                    "ru-RU": "10 одним ударом"
+                },
+                "description": {
+                    "de-DE": "Erledigen Sie mind. 10 Gegner mit einer Predator-Rakete im Einzelspieler- oder Spezialeinheit-Modus.",
+                    "en-US": "Kill at least 10 enemies with one Predator missile in Single Player or Special Ops.",
+                    "es-ES": "Mata al menos a 10 enemigos con un misil del Predator en Individual o en Operaciones especiales.",
+                    "fr-FR": "Tuer au moins 10 ennemis avec un missile Predator en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Uccidi almeno 10 nemici con un missile Predator in Giocatore singolo o Operazioni speciali.",
+                    "pl-PL": "Zabij, co najmniej 10 wrogów pociskiem Predator,  w trybie dla 1-ego gracza lub misjach specjalnych.",
+                    "ru-RU": "Убить не менее 10 противников одной ракетой \"Предэйтора\" в индивидуальной игре или спецоперации."
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie mind. 10 Gegner mit einer Predator-Rakete im Einzelspieler- oder Spezialeinheit-Modus.",
+                    "en-US": "Kill at least 10 enemies with one Predator missile in Single Player or Special Ops.",
+                    "es-ES": "Mata al menos a 10 enemigos con un misil del Predator en Individual o en Operaciones especiales.",
+                    "fr-FR": "Tuer au moins 10 ennemis avec un missile Predator en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Uccidi almeno 10 nemici con un missile Predator in Giocatore singolo o Operazioni speciali.",
+                    "pl-PL": "Zabij, co najmniej 10 wrogów pociskiem Predator,  w trybie dla 1-ego gracza lub misjach specjalnych.",
+                    "ru-RU": "Убить не менее 10 противников одной ракетой \"Предэйтора\" в индивидуальной игре или спецоперации."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "38.png"
+        },
+        "116": {
+            "text": {
+                "name": {
+                    "de-DE": "Übertriebene Härte",
+                    "en-US": "Unnecessary Roughness",
+                    "es-ES": "Violencia innecesaria",
+                    "fr-FR": "Brutalité gratuite",
+                    "it-IT": "Violenza gratuita",
+                    "pl-PL": "Niepotrzebna brutalność",
+                    "ru-RU": "Неоправданная грубость"
+                },
+                "description": {
+                    "de-DE": "Schlagen Sie einen Gegner im Einzelspieler- oder Spezialeinheit-Modus mit dem Einsatzschild nieder.",
+                    "en-US": "Use a riot shield to beat down an enemy in Single Player or Special Ops.",
+                    "es-ES": "Usa un escudo para derribar a un enemigo en Individual o en Operaciones especiales.",
+                    "fr-FR": "Utiliser un bouclier antiémeute pour vaincre un ennemi en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Usa uno scudo antisommossa per abbattere un nemico in Giocatore singolo o Operazioni speciali.",
+                    "pl-PL": "Użyj tarczy i zaatakuj nią przeciwnika w trybie dla jednego gracza lub podczas misji specjalnej.",
+                    "ru-RU": "Сбить противника с ног щитом в индивидуальной игре или спецоперации."
+                },
+                "howto": {
+                    "de-DE": "Schlagen Sie einen Gegner im Einzelspieler- oder Spezialeinheit-Modus mit dem Einsatzschild nieder.",
+                    "en-US": "Use a riot shield to beat down an enemy in Single Player or Special Ops.",
+                    "es-ES": "Usa un escudo para derribar a un enemigo en Individual o en Operaciones especiales.",
+                    "fr-FR": "Utiliser un bouclier antiémeute pour vaincre un ennemi en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Usa uno scudo antisommossa per abbattere un nemico in Giocatore singolo o Operazioni speciali.",
+                    "pl-PL": "Użyj tarczy i zaatakuj nią przeciwnika w trybie dla jednego gracza lub podczas misji specjalnej.",
+                    "ru-RU": "Сбить противника с ног щитом в индивидуальной игре или спецоперации."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "39.png"
+        },
+        "117": {
+            "text": {
+                "name": {
+                    "de-DE": "Klopf, klopf",
+                    "en-US": "Knock-knock",
+                    "es-ES": "Toc toc",
+                    "fr-FR": "Toc ! Toc !",
+                    "it-IT": "Toc-toc",
+                    "pl-PL": "Puk-puk",
+                    "ru-RU": "Тук-тук"
+                },
+                "description": {
+                    "de-DE": "Erledigen Sie im Einzelsp.- oder Speziale.-Modus 4 Gegner mit 4 Schüssen in einem Zeitlupen-Vorstoß.",
+                    "en-US": "Kill 4 enemies with 4 shots during a slow-mo breach in Single Player or Special Ops.",
+                    "es-ES": "Mata a 4 enemigos con 4 disparos a cámara lenta en Individual o en Operaciones especiales.",
+                    "fr-FR": "Tuer 4 ennemis avec 4 tirs durant une attaque au ralenti en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Uccidi 4 nemici con 4 colpi in un'irruzione con tempo rallentato in Gioc singolo o Operaz. speciali.",
+                    "pl-PL": "Zabij 4 nieprzyjaciół 4 strzałami podczas wyłomu w trybie dla 1-ego gracza lub misjach specjalnych.",
+                    "ru-RU": "Убить 4 врагов 4 выстрелами во время прорыва с замедлением в индивидуальной игре или спецоперации."
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie im Einzelsp.- oder Speziale.-Modus 4 Gegner mit 4 Schüssen in einem Zeitlupen-Vorstoß.",
+                    "en-US": "Kill 4 enemies with 4 shots during a slow-mo breach in Single Player or Special Ops.",
+                    "es-ES": "Mata a 4 enemigos con 4 disparos a cámara lenta en Individual o en Operaciones especiales.",
+                    "fr-FR": "Tuer 4 ennemis avec 4 tirs durant une attaque au ralenti en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Uccidi 4 nemici con 4 colpi in un'irruzione con tempo rallentato in Gioc singolo o Operaz. speciali.",
+                    "pl-PL": "Zabij 4 nieprzyjaciół 4 strzałami podczas wyłomu w trybie dla 1-ego gracza lub misjach specjalnych.",
+                    "ru-RU": "Убить 4 врагов 4 выстрелами во время прорыва с замедлением в индивидуальной игре или спецоперации."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "40.png"
+        },
+        "119": {
+            "text": {
+                "name": {
+                    "de-DE": "Manche mögen's heiß",
+                    "en-US": "Some Like it Hot",
+                    "es-ES": "En caliente",
+                    "fr-FR": "Certains l'aiment chaud",
+                    "it-IT": "A qualcuno piace caldo",
+                    "pl-PL": "Niektórzy lubią na gorąco",
+                    "ru-RU": "Любитель горяченького"
+                },
+                "description": {
+                    "de-DE": "Erledigen Sie 6 Gegner hintereinander mit einer Thermalwaffe im Einzelspieler- oder Speziale.-Modus.",
+                    "en-US": "Kill 6 enemies in a row using a thermal weapon in Single Player or Special Ops.",
+                    "es-ES": "Mata a 6 enemigos seguidos con un arma térmica en Individual o en Operaciones especiales.",
+                    "fr-FR": "Tuer 6 ennemis d'affilée avec une arme à lunette thermique en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Uccidi 6 nemici di fila usando un'arma termica in Giocatore singolo o Operazioni speciali.",
+                    "pl-PL": "Zabij 5 wrogów z broni z cel. termowizyjnym,  w trybie dla 1-ego gracza lub misjach specjalnych",
+                    "ru-RU": "Убить 6 противников подряд, используя оружие с тепловизором, в одиночной игре или спецоперации."
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie 6 Gegner hintereinander mit einer Thermalwaffe im Einzelspieler- oder Speziale.-Modus.",
+                    "en-US": "Kill 6 enemies in a row using a thermal weapon in Single Player or Special Ops.",
+                    "es-ES": "Mata a 6 enemigos seguidos con un arma térmica en Individual o en Operaciones especiales.",
+                    "fr-FR": "Tuer 6 ennemis d'affilée avec une arme à lunette thermique en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Uccidi 6 nemici di fila usando un'arma termica in Giocatore singolo o Operazioni speciali.",
+                    "pl-PL": "Zabij 5 wrogów z broni z cel. termowizyjnym,  w trybie dla 1-ego gracza lub misjach specjalnych",
+                    "ru-RU": "Убить 6 противников подряд, используя оружие с тепловизором, в одиночной игре или спецоперации."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "41.png"
+        },
+        "120": {
+            "text": {
+                "name": {
+                    "de-DE": "Zwei Vögel, ein Stein",
+                    "en-US": "Two Birds with One Stone",
+                    "es-ES": "Dos pájaros de un tiro",
+                    "fr-FR": "D'une pierre deux coups",
+                    "it-IT": "Due piccioni con una fava",
+                    "pl-PL": "Dwie pieczenie na jednym ogniu",
+                    "ru-RU": "Двух зайцев одним выстрелом"
+                },
+                "description": {
+                    "de-DE": "Erledigen Sie 2 Gegner mit nur einer Kugel im Einzelspieler- oder Spezialeinheit-Modus.",
+                    "en-US": "Kill 2 enemies with a single bullet in Single Player or Special Ops.",
+                    "es-ES": "Mata a 2 enemigos con una sola bala en Individual o en Operaciones especiales.",
+                    "fr-FR": "Tuer 2 ennemis d'une seule balle en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Uccidi 2 nemici con un proiettile in Giocatore singolo o Operazioni speciali.",
+                    "pl-PL": "Zabij 2 nieprzyjaciół, jednym pociskiem, w trybie dla jednego gracza lub podczas misji specjalnej.",
+                    "ru-RU": "Убить 2 противников одной пулей в индивидуальной игре или спецоперации."
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie 2 Gegner mit nur einer Kugel im Einzelspieler- oder Spezialeinheit-Modus.",
+                    "en-US": "Kill 2 enemies with a single bullet in Single Player or Special Ops.",
+                    "es-ES": "Mata a 2 enemigos con una sola bala en Individual o en Operaciones especiales.",
+                    "fr-FR": "Tuer 2 ennemis d'une seule balle en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Uccidi 2 nemici con un proiettile in Giocatore singolo o Operazioni speciali.",
+                    "pl-PL": "Zabij 2 nieprzyjaciół, jednym pociskiem, w trybie dla jednego gracza lub podczas misji specjalnej.",
+                    "ru-RU": "Убить 2 противников одной пулей в индивидуальной игре или спецоперации."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "42.png"
+        },
+        "121": {
+            "text": {
+                "name": {
+                    "de-DE": "Sammelwut",
+                    "en-US": "The Road Less Traveled",
+                    "es-ES": "El camino menos transitado",
+                    "fr-FR": "Chemins détournés",
+                    "it-IT": "Il percorso meno trafficato",
+                    "pl-PL": "Mniej uczęszczana droga",
+                    "ru-RU": "Любопытство - не порок"
+                },
+                "description": {
+                    "de-DE": "Sammeln Sie 22 feindliche Informationen.",
+                    "en-US": "Collect 22 enemy intel items.",
+                    "es-ES": "Consigue 22 objetos con información enemiga.",
+                    "fr-FR": "Récupérer 22 éléments de renseignements ennemis.",
+                    "it-IT": "Trova 22 documenti intelligence nemici.",
+                    "pl-PL": "Zbierz 22 materiały wywiadowcze nieprzyjaciela.",
+                    "ru-RU": "Собрать 22 фрагмента разведданных."
+                },
+                "howto": {
+                    "de-DE": "Sammeln Sie 22 feindliche Informationen.",
+                    "en-US": "Collect 22 enemy intel items.",
+                    "es-ES": "Consigue 22 objetos con información enemiga.",
+                    "fr-FR": "Récupérer 22 éléments de renseignements ennemis.",
+                    "it-IT": "Trova 22 documenti intelligence nemici.",
+                    "pl-PL": "Zbierz 22 materiały wywiadowcze nieprzyjaciela.",
+                    "ru-RU": "Собрать 22 фрагмента разведданных."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "43.png"
+        },
+        "122": {
+            "text": {
+                "name": {
+                    "de-DE": "Mir entgeht nichts",
+                    "en-US": "Leave No Stone Unturned",
+                    "es-ES": "Remover cielo y tierra",
+                    "fr-FR": "Une fouille en règle",
+                    "it-IT": "Guarda dappertutto",
+                    "pl-PL": "Przeszukaj każdy kąt",
+                    "ru-RU": "Дотошный исследователь"
+                },
+                "description": {
+                    "de-DE": "Sammeln Sie 45 feindliche Informationen.",
+                    "en-US": "Collect 45 enemy intel items.",
+                    "es-ES": "Consigue 45 objetos con información enemiga.",
+                    "fr-FR": "Récupérer 45 éléments de renseignements ennemis.",
+                    "it-IT": "Trova 45 documenti intelligence nemici.",
+                    "pl-PL": "Zbierz 45 materiałów wywiadowczych nieprzyjaciela.",
+                    "ru-RU": "Собрать 45 фрагментов разведданных."
+                },
+                "howto": {
+                    "de-DE": "Sammeln Sie 45 feindliche Informationen.",
+                    "en-US": "Collect 45 enemy intel items.",
+                    "es-ES": "Consigue 45 objetos con información enemiga.",
+                    "fr-FR": "Récupérer 45 éléments de renseignements ennemis.",
+                    "it-IT": "Trova 45 documenti intelligence nemici.",
+                    "pl-PL": "Zbierz 45 materiałów wywiadowczych nieprzyjaciela.",
+                    "ru-RU": "Собрать 45 фрагментов разведданных."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "44.png"
+        },
+        "123": {
+            "text": {
+                "name": {
+                    "de-DE": "Im Vorbeifahren",
+                    "en-US": "Drive By",
+                    "es-ES": "Tiroteo en marcha",
+                    "fr-FR": "Fusillade",
+                    "it-IT": "Sparatoria",
+                    "pl-PL": "Przejazdem",
+                    "ru-RU": "Водила"
+                },
+                "description": {
+                    "de-DE": "Erledigen Sie im Einzelsp.- oder Spezialeinheit-Modus 20 Gegner hintereinander beim Fahren.",
+                    "en-US": "Kill 20 enemies in a row while driving a vehicle in Single Player or Special Ops.",
+                    "es-ES": "Mata a 20 enemigos seguidos conduciendo un vehículo en Individual o en Operaciones especiales.",
+                    "fr-FR": "Tuer 20 ennemis d'affilée en pilotant un véhicule en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Uccidi 20 nemici di fila guidando un veicolo in Giocatore singolo o Operazioni speciali.",
+                    "pl-PL": "Zabij 20 nieprzyjaciół z rzędu, kierując pojazdem w trybie dla 1-ego gracza lub misjach specjalnych.",
+                    "ru-RU": "Убить 20 противников подряд, управляя транспортным средством в индивидуальной игре или спецоперации."
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie im Einzelsp.- oder Spezialeinheit-Modus 20 Gegner hintereinander beim Fahren.",
+                    "en-US": "Kill 20 enemies in a row while driving a vehicle in Single Player or Special Ops.",
+                    "es-ES": "Mata a 20 enemigos seguidos conduciendo un vehículo en Individual o en Operaciones especiales.",
+                    "fr-FR": "Tuer 20 ennemis d'affilée en pilotant un véhicule en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Uccidi 20 nemici di fila guidando un veicolo in Giocatore singolo o Operazioni speciali.",
+                    "pl-PL": "Zabij 20 nieprzyjaciół z rzędu, kierując pojazdem w trybie dla 1-ego gracza lub misjach specjalnych.",
+                    "ru-RU": "Убить 20 противников подряд, управляя транспортным средством в индивидуальной игре или спецоперации."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "45.png"
+        },
+        "124": {
+            "text": {
+                "name": {
+                    "de-DE": "Tiefer Fall",
+                    "en-US": "The Harder They Fall",
+                    "es-ES": "Más dura será la caída",
+                    "fr-FR": "Plus dure sera la chute",
+                    "it-IT": "Più si fanno male cadendo",
+                    "pl-PL": "Upadek",
+                    "ru-RU": "Охота влет"
+                },
+                "description": {
+                    "de-DE": "Erledigen Sie im Einzelsp.- oder Spez.-Modus 2 Gegner am Seil, bevor sie auf ihren Füßen landen.",
+                    "en-US": "Kill 2 rappelling enemies in a row before they land on their feet in Single Player or Special Ops.",
+                    "es-ES": "Mata a 2 enemigos seguidos que hagan rápel antes de que aterricen en Individual u Op. Especiales.",
+                    "fr-FR": "Tuer 2 ennemis en train de faire du rappel d'affilée en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Uccidi 2 nemici che si stanno calando di fila prima che atterrino in Gioc. singolo o Op. speciali.",
+                    "pl-PL": "Zabij 2 wrogów, opuszczających się na linie. W trybie dla 1-ego gracza lub w misjach specjalnych.",
+                    "ru-RU": "Убить 2  спускающихся врагов, прежде чем они коснутся земли, в индивидуальной игре или спецоперации."
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie im Einzelsp.- oder Spez.-Modus 2 Gegner am Seil, bevor sie auf ihren Füßen landen.",
+                    "en-US": "Kill 2 rappelling enemies in a row before they land on their feet in Single Player or Special Ops.",
+                    "es-ES": "Mata a 2 enemigos seguidos que hagan rápel antes de que aterricen en Individual u Op. Especiales.",
+                    "fr-FR": "Tuer 2 ennemis en train de faire du rappel d'affilée en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Uccidi 2 nemici che si stanno calando di fila prima che atterrino in Gioc. singolo o Op. speciali.",
+                    "pl-PL": "Zabij 2 wrogów, opuszczających się na linie. W trybie dla 1-ego gracza lub w misjach specjalnych.",
+                    "ru-RU": "Убить 2  спускающихся врагов, прежде чем они коснутся земли, в индивидуальной игре или спецоперации."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "46.png"
+        },
+        "125": {
+            "text": {
+                "name": {
+                    "de-DE": "Desperado",
+                    "en-US": "Desperado",
+                    "es-ES": "Desperado",
+                    "fr-FR": "Desperado",
+                    "it-IT": "Desperado",
+                    "pl-PL": "Desperado",
+                    "ru-RU": "Десперадо"
+                },
+                "description": {
+                    "de-DE": "Schalten Sie im Einzels.- oder Spez.-Modus 5 Gegner nacheinander mit 5 versch. Waffen/Aufsätzen aus.",
+                    "en-US": "Kill 5 enemies in a row using 5 different weapons or attachments in Single Player or Special Ops.",
+                    "es-ES": "Mata a 5 rivales seguidos con 5 armas o accesorios distintos en Individual u Op. especiales.",
+                    "fr-FR": "Tuer 5 ennemis d'affilée avec 5 armes ou accessoires différents en Solo ou Opérations spéciales.",
+                    "it-IT": "Uccidi 5 nemici di fila con 5 armi o accessori diversi in Giocatore singolo o Operazioni speciali.",
+                    "pl-PL": "Zabij 5 wrogów z rzędu, używając 5 różnych broni,  w trybie dla 1-ego gracza lub misji specjalnych.",
+                    "ru-RU": "Убить 5 противников подряд, используя 5 разных видов вооружения, в одиночной игре или спецоперации."
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie im Einzels.- oder Spez.-Modus 5 Gegner nacheinander mit 5 versch. Waffen/Aufsätzen aus.",
+                    "en-US": "Kill 5 enemies in a row using 5 different weapons or attachments in Single Player or Special Ops.",
+                    "es-ES": "Mata a 5 rivales seguidos con 5 armas o accesorios distintos en Individual u Op. especiales.",
+                    "fr-FR": "Tuer 5 ennemis d'affilée avec 5 armes ou accessoires différents en Solo ou Opérations spéciales.",
+                    "it-IT": "Uccidi 5 nemici di fila con 5 armi o accessori diversi in Giocatore singolo o Operazioni speciali.",
+                    "pl-PL": "Zabij 5 wrogów z rzędu, używając 5 różnych broni,  w trybie dla 1-ego gracza lub misji specjalnych.",
+                    "ru-RU": "Убить 5 противников подряд, используя 5 разных видов вооружения, в одиночной игре или спецоперации."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "47.png"
+        },
+        "126": {
+            "text": {
+                "name": {
+                    "de-DE": "Schau mal, mit zwei Händen",
+                    "en-US": "Look Ma Two Hands",
+                    "es-ES": "Mamá, con las dos manos",
+                    "fr-FR": "Avec les deux mains",
+                    "it-IT": "Guarda mamma! Con due mani!",
+                    "pl-PL": "Dwuręczny",
+                    "ru-RU": "Две руки лучше"
+                },
+                "description": {
+                    "de-DE": "Schalten Sie im Einzelsp.- oder Spezialeinheit-Modus 10 Gegner nacheinander mit Akimbo-Waffen aus.",
+                    "en-US": "Kill 10 enemies in a row using akimbo weapons in Single Player or Special Ops.",
+                    "es-ES": "Mata a 10 enemigos seguidos con armas duales en Individual o en Operaciones especiales.",
+                    "fr-FR": "Tuer 10 ennemis d'affilée en utilisant des armes Akimbo en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Uccidi 10 nemici di fila usando armi Akimbo in Giocatore singolo o Operazioni speciali.",
+                    "pl-PL": "Zabij 10 wrogów z rzędu, używając broni z akimbo w trybie dla 1-ego gracza lub misjach specjalnych.",
+                    "ru-RU": "Убить 10 противников подряд, используя парное оружие, в индивидуальной игре или спецоперации."
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie im Einzelsp.- oder Spezialeinheit-Modus 10 Gegner nacheinander mit Akimbo-Waffen aus.",
+                    "en-US": "Kill 10 enemies in a row using akimbo weapons in Single Player or Special Ops.",
+                    "es-ES": "Mata a 10 enemigos seguidos con armas duales en Individual o en Operaciones especiales.",
+                    "fr-FR": "Tuer 10 ennemis d'affilée en utilisant des armes Akimbo en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Uccidi 10 nemici di fila usando armi Akimbo in Giocatore singolo o Operazioni speciali.",
+                    "pl-PL": "Zabij 10 wrogów z rzędu, używając broni z akimbo w trybie dla 1-ego gracza lub misjach specjalnych.",
+                    "ru-RU": "Убить 10 противников подряд, используя парное оружие, в индивидуальной игре или спецоперации."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "48.png"
+        },
+        "127": {
+            "text": {
+                "name": {
+                    "de-DE": "Keine Ruhe für die Wachsamen",
+                    "en-US": "No Rest For the Wary",
+                    "es-ES": "Los cautos no descansan",
+                    "fr-FR": "Pas de repos pour les braves",
+                    "it-IT": "Non c'è posto per i deboli",
+                    "pl-PL": "Po cichu",
+                    "ru-RU": "Нет покоя грешным душам"
+                },
+                "description": {
+                    "de-DE": "Schalten Sie im Einzelsp.- oder Speziale.-Modus einen Gegner unbemerkt mit dem Messer aus.",
+                    "en-US": "Knife an enemy without him ever knowing you were there in Single Player or Special Ops.",
+                    "es-ES": "Apuñala a un enemigo sin que se percate de tu presencia en Individual o en Operaciones especiales.",
+                    "fr-FR": "Poignarder un ennemi sans qu'il remarque votre présence en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Accoltella un nemico senza che si accorga di te in Giocatore singolo o Operazioni speciali.",
+                    "pl-PL": "Zaatakuj niespodziewanie nieprzyjaciela nożem w trybie dla 1-ego gracza lub misjach specjalnych.",
+                    "ru-RU": "Незаметно убить врага ножом  в индивидуальной игре или спецоперации."
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie im Einzelsp.- oder Speziale.-Modus einen Gegner unbemerkt mit dem Messer aus.",
+                    "en-US": "Knife an enemy without him ever knowing you were there in Single Player or Special Ops.",
+                    "es-ES": "Apuñala a un enemigo sin que se percate de tu presencia en Individual o en Operaciones especiales.",
+                    "fr-FR": "Poignarder un ennemi sans qu'il remarque votre présence en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Accoltella un nemico senza che si accorga di te in Giocatore singolo o Operazioni speciali.",
+                    "pl-PL": "Zaatakuj niespodziewanie nieprzyjaciela nożem w trybie dla 1-ego gracza lub misjach specjalnych.",
+                    "ru-RU": "Незаметно убить врага ножом  в индивидуальной игре или спецоперации."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "49.png"
+        },
+        "128": {
+            "text": {
+                "name": {
+                    "de-DE": "Dreier",
+                    "en-US": "Three-some",
+                    "es-ES": "Trío",
+                    "fr-FR": "Plus on est de fous...",
+                    "it-IT": "Triangolo",
+                    "pl-PL": "Potrójnie",
+                    "ru-RU": "Тройка"
+                },
+                "description": {
+                    "de-DE": "Erledigen Sie mind. 3 Gegner mit nur einem Granatwerferschuss im Einzels.- oder Speziale.-Modus.",
+                    "en-US": "Kill at least 3 enemies with a single shot from a grenade launcher in Single Player or Special Ops.",
+                    "es-ES": "Mata al menos a 3 enemigos de un solo tiro de lanzagranadas en Individual u Operaciones especiales.",
+                    "fr-FR": "Tuer au moins 3 ennemis avec un seul tir de lance-grenades en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Uccidi almeno 3 nemici con un colpo di lanciagranate in Giocatore singolo o Operazioni speciali.",
+                    "pl-PL": "Zabij co najmniej 3 wrogów z granatnika, w trybie dla 1-ego gracza lub w misjach specjalnych.",
+                    "ru-RU": "Убить не менее 3 противников одним выстрелом из гранатомета в индивидуальной игре или спецоперации."
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie mind. 3 Gegner mit nur einem Granatwerferschuss im Einzels.- oder Speziale.-Modus.",
+                    "en-US": "Kill at least 3 enemies with a single shot from a grenade launcher in Single Player or Special Ops.",
+                    "es-ES": "Mata al menos a 3 enemigos de un solo tiro de lanzagranadas en Individual u Operaciones especiales.",
+                    "fr-FR": "Tuer au moins 3 ennemis avec un seul tir de lance-grenades en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Uccidi almeno 3 nemici con un colpo di lanciagranate in Giocatore singolo o Operazioni speciali.",
+                    "pl-PL": "Zabij co najmniej 3 wrogów z granatnika, w trybie dla 1-ego gracza lub w misjach specjalnych.",
+                    "ru-RU": "Убить не менее 3 противников одним выстрелом из гранатомета в индивидуальной игре или спецоперации."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "50.png"
+        }
+    }
+}
