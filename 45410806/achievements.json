@@ -1,0 +1,1668 @@
+{
+    "Achievements": {
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "So gut wie neu",
+                    "en-US": "Lookin' Good",
+                    "es-ES": "Buen aspecto",
+                    "fr-FR": "Chirurgie esthétique",
+                    "it-IT": "Figurone",
+                    "ja-JP": "グッドルッキング"
+                },
+                "description": {
+                    "de-DE": "Ersten Totalschaden repariert.",
+                    "en-US": "Repaired your first wrecked car",
+                    "es-ES": "Has reparado tu primer coche siniestrado",
+                    "fr-FR": "Réparer ta première épave.",
+                    "it-IT": "Hai riparato la tua prima auto distrutta.",
+                    "ja-JP": "初めて故障したクルマを修理"
+                },
+                "howto": {
+                    "de-DE": "Repariere deinen ersten Totalschaden.",
+                    "en-US": "Repair your first wrecked car",
+                    "es-ES": "Repara tu primer coche siniestrado",
+                    "fr-FR": "Réparer ta première épave",
+                    "it-IT": "Ripara la tua prima auto distrutta.",
+                    "ja-JP": "初めて故障したクルマを修理する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "01.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Gib Gummi",
+                    "en-US": "Watt?",
+                    "es-ES": "¿Watt-ios?",
+                    "fr-FR": "Mets les watts",
+                    "it-IT": "Watt?",
+                    "ja-JP": "Watt？"
+                },
+                "description": {
+                    "de-DE": "Zeitrekord auf der Watt Street aufgestellt.",
+                    "en-US": "Time Road Rule beaten on Watt St",
+                    "es-ES": "Has batido la Ley de la Calle de Tiempo en Watt St",
+                    "fr-FR": "Défi route Chrono battu sur Watt Street.",
+                    "it-IT": "Hai battuto la Regola della strada Tempo su Watt St.",
+                    "ja-JP": "Watt Stでタイムロードルールを更新"
+                },
+                "howto": {
+                    "de-DE": "Stelle einen Zeitrekord auf der Watt St auf.",
+                    "en-US": "Set a Time Road Rule on Watt St",
+                    "es-ES": "Establece la Ley de la Calle de Tiempo en Watt St",
+                    "fr-FR": "Fixer un Défi route Chrono sur Watt Street.",
+                    "it-IT": "Batti la Regola della strada Tempo su Watt St.",
+                    "ja-JP": "Watt Stでタイムロードルールを更新する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "It's Showtime",
+                    "en-US": "It's Showtime",
+                    "es-ES": "Hora del Espectáculo",
+                    "fr-FR": "L'heure du show",
+                    "it-IT": "Si alza il sipario!",
+                    "ja-JP": "イッツショータイム！"
+                },
+                "description": {
+                    "de-DE": "Showtime-Rekord auf dem East Crawford Drive aufgestellt.",
+                    "en-US": "Showtime Road Rule beaten on East Crawford Drive\n\n",
+                    "es-ES": "Has batido la Ley de la Calle de Espectáculo en East Crawford Drive",
+                    "fr-FR": "Défi route Showtime battu sur East Crawford Drive.",
+                    "it-IT": "Hai battuto la Regola della strada Spettacolo su East Crawford Drive.",
+                    "ja-JP": "East Crawford Driveでショータイムロードルールを更新"
+                },
+                "howto": {
+                    "de-DE": "Stelle einen Showtime-Rekord auf dem East Crawford Drive auf.",
+                    "en-US": "Set a Showtime Road Rule East Crawford Drive",
+                    "es-ES": "Bate la Ley de la Calle de Espectáculo en East Crawford Drive",
+                    "fr-FR": "Fixer un Défi route Showtime sur East Crawford Drive.",
+                    "it-IT": "Batti la Regola della strada Spettacolo su East Crawford Drive.",
+                    "ja-JP": "East Crawford Driveでショータイムロードルールを更新する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "Glanzstart",
+                    "en-US": "Great Start",
+                    "es-ES": "Buen comienzo",
+                    "fr-FR": "Débuts prometteurs",
+                    "it-IT": "Grande debutto",
+                    "ja-JP": "グレートスタート"
+                },
+                "description": {
+                    "de-DE": "Ein Rennen gewonnen.",
+                    "en-US": "Won a Race",
+                    "es-ES": "Has ganado una Carrera",
+                    "fr-FR": "Une Course gagnée.",
+                    "it-IT": "Hai vinto una gara.",
+                    "ja-JP": "レースに勝利"
+                },
+                "howto": {
+                    "de-DE": "Gewinne dein erstes Rennen.",
+                    "en-US": "Win a Race",
+                    "es-ES": "Gana tu primera Carrera",
+                    "fr-FR": "Gagner ta première Course.",
+                    "it-IT": "Vinci la tua prima gara.",
+                    "ja-JP": "レースに初勝利する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "Wandale",
+                    "en-US": "Misdemeanor",
+                    "es-ES": "Delito menor",
+                    "fr-FR": "Infraction",
+                    "it-IT": "Trasgressore",
+                    "ja-JP": "マイナークライム"
+                },
+                "description": {
+                    "de-DE": "5 Werbetafeln gefunden.",
+                    "en-US": "5 Billboards collected",
+                    "es-ES": "Has conseguido 5 carteles",
+                    "fr-FR": "5 Panneaux détruits.",
+                    "it-IT": "Hai sfondato 5 cartelloni pubblicitari.",
+                    "ja-JP": "5ビルボードを達成"
+                },
+                "howto": {
+                    "de-DE": "Finde 5 Werbetafeln.",
+                    "en-US": "Collect 5 Billboards",
+                    "es-ES": "Consigue 5 carteles",
+                    "fr-FR": "Détruire 5 Panneaux.",
+                    "it-IT": "Sfonda 5 cartelloni pubblicitari.",
+                    "ja-JP": "5ビルボードを達成する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "de-DE": "Zerstörungswut",
+                    "en-US": "Off the Beaten Path",
+                    "es-ES": "Se hace camino al andar",
+                    "fr-FR": "Hors des sentiers battus",
+                    "it-IT": "Fuoripista",
+                    "ja-JP": "オープンバックストリート"
+                },
+                "description": {
+                    "de-DE": "25 Smashes gesammelt.",
+                    "en-US": "25 Smashes collected",
+                    "es-ES": "Has conseguido 25 colisiones",
+                    "fr-FR": "25 smashs réussis.",
+                    "it-IT": "Hai sfondato 25 cancelli.",
+                    "ja-JP": "25スマッシュを達成"
+                },
+                "howto": {
+                    "de-DE": "Sammle 25 Smashes.",
+                    "en-US": "Collect 25 Smashes",
+                    "es-ES": "Consigue 25 colisiones",
+                    "fr-FR": "Réussir 25 smashs.",
+                    "it-IT": "Sfonda 25 cancelli.",
+                    "ja-JP": "25スマッシュを達成する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "06.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "Schlachtross",
+                    "en-US": "Perfect Rage",
+                    "es-ES": "Furia total",
+                    "fr-FR": "Rage canalisée",
+                    "it-IT": "Furia perfetta",
+                    "ja-JP": "パーフェクトレイジ"
+                },
+                "description": {
+                    "de-DE": "10 Takedowns in einer Road Rage erzielt, ohne einen Totalschaden zu erleiden.",
+                    "en-US": "Got 10 Takedowns in Road Rage without Wrecking",
+                    "es-ES": "Has conseguido 10 Takedowns en Furia al Volante sin destrozar el coche",
+                    "fr-FR": "Réussir 10 takedowns en mode Road Rage sans se crasher.",
+                    "it-IT": "Hai eseguito 10 Takedown in Furia stradale senza distruggerti.",
+                    "ja-JP": "ロードレイジでクラッシュなしで10テイクダウンを達成"
+                },
+                "howto": {
+                    "de-DE": "Erziele 10 Takedowns in einer Road Rage, ohne einen Totalschaden zu erleiden.",
+                    "en-US": "Get 10 Takedowns in Road Rage without Wrecking",
+                    "es-ES": "Consigue 10 Takedowns en Furia al Volante sin destrozar el coche",
+                    "fr-FR": "Réussir 10 takedowns en mode Road Rage sans se crasher.",
+                    "it-IT": "Esegui 10 Takedown in Furia stradale senza distruggerti.",
+                    "ja-JP": "ロードレイジでクラッシュなしで10テイクダウンを達成する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "07.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Die erste Stufe der Leiter",
+                    "en-US": "Bottom of the Class",
+                    "es-ES": "El lerdo de la clase",
+                    "fr-FR": "Dernier de la classe",
+                    "it-IT": "Ultimo della classe",
+                    "ja-JP": "ファーストステップ"
+                },
+                "description": {
+                    "de-DE": "Klasse D-Lizenz geholt.",
+                    "en-US": "Got your D Class License",
+                    "es-ES": "Has conseguido el carné de clase D",
+                    "fr-FR": "Permis catégorie D obtenu.",
+                    "it-IT": "Hai ottenuto la patente di classe D.",
+                    "ja-JP": "クラスDライセンスを獲得"
+                },
+                "howto": {
+                    "de-DE": "Hol dir die Klasse D-Lizenz.",
+                    "en-US": "Get your D Class License",
+                    "es-ES": "Consigue el carné de clase D",
+                    "fr-FR": "Obtenir le permis catégorie D.",
+                    "it-IT": "Ottieni la patente di classe D.",
+                    "ja-JP": "クラスDライセンスを獲得する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "Aus Alt mach Neu",
+                    "en-US": "Rising From the Ashes",
+                    "es-ES": "Resurgir de las cenizas",
+                    "fr-FR": "Renaître de ses cendres",
+                    "it-IT": "Rinascita dalle ceneri",
+                    "ja-JP": "ミラクルカムバック"
+                },
+                "description": {
+                    "de-DE": "Kritischen Schaden in einem Road Rage-Event behoben.",
+                    "en-US": "Repaired your car at critical damage in a Road Rage event",
+                    "es-ES": "Has reparado tu coche con daño crítico en una prueba de Furia al Volante",
+                    "fr-FR": "Dégâts critiques sur ta voiture réparés dans une épreuve Road Rage.",
+                    "it-IT": "Hai riparato un danno critico durante un evento Furia stradale.",
+                    "ja-JP": "ロードレイジのイベントでクリティカル・ダメージを受けたクルマを修理"
+                },
+                "howto": {
+                    "de-DE": "Behebe einen kritischen Schaden in einem Road Rage-Event.",
+                    "en-US": "Repair your car at critical damage in a Road Rage event",
+                    "es-ES": "Repara tu coche con daño crítico en una prueba de Furia al Volante",
+                    "fr-FR": "Réparer des dégâts critiques sur ta voiture dans une épreuve Road Rage.",
+                    "it-IT": "Ripara un danno critico durante un evento Furia stradale.",
+                    "ja-JP": "ロードレイジのイベントでクリティカル・ダメージを受けたクルマを修理する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "Tiefstapler",
+                    "en-US": "Underachiever",
+                    "es-ES": "Mal estudiante",
+                    "fr-FR": "Doit travailler plus",
+                    "it-IT": "Scansafatiche",
+                    "ja-JP": "スモールサクセス"
+                },
+                "description": {
+                    "de-DE": "Klasse C-Lizenz geholt.",
+                    "en-US": "Got your C Class License",
+                    "es-ES": "Has conseguido el carné de clase C",
+                    "fr-FR": "Permis catégorie C obtenu.",
+                    "it-IT": "Hai ottenuto la patente di classe C.",
+                    "ja-JP": "クラスCライセンスを獲得"
+                },
+                "howto": {
+                    "de-DE": "Hol dir die Klasse C-Lizenz.",
+                    "en-US": "Get your C Class License",
+                    "es-ES": "Consigue el carné de clase C",
+                    "fr-FR": "Obtenir le permis catégorie C.",
+                    "it-IT": "Ottieni la patente di classe C.",
+                    "ja-JP": "クラスCライセンスを獲得する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "30",
+            "imageId": "10.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "Flugversuch",
+                    "en-US": "Learning to Fly",
+                    "es-ES": "Aprendiendo a volar",
+                    "fr-FR": "Baptême de l'air",
+                    "it-IT": "Lezioni di volo",
+                    "ja-JP": "フライトレーニング"
+                },
+                "description": {
+                    "de-DE": "5 Sprünge erfolgreich ausgeführt.",
+                    "en-US": "Successfully landed 5 SUPERJUMPS\n\n",
+                    "es-ES": "Has finalizado con éxito 5 saltos",
+                    "fr-FR": "5 sauts réussis.",
+                    "it-IT": "Hai eseguito con successo 5 Super-salti.",
+                    "ja-JP": "ジャンプに5回成功"
+                },
+                "howto": {
+                    "de-DE": "Führe 5 Sprünge erfolgreich aus.",
+                    "en-US": "Successfully land 5 SUPERJUMPS",
+                    "es-ES": "Finaliza con éxito 5 saltos",
+                    "fr-FR": "Réussir 5 sauts.",
+                    "it-IT": "Esegui con successo 5 Super-salti.",
+                    "ja-JP": "ジャンプに5回成功する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "Kratz die Kurve",
+                    "en-US": "Duckin' and Weavin'",
+                    "es-ES": "Esquiva y golpea",
+                    "fr-FR": "Traqué mais pas coulé",
+                    "it-IT": "Genio della fuga",
+                    "ja-JP": "ノーテイクダウン"
+                },
+                "description": {
+                    "de-DE": "Marked Man gewonnen, ohne gecrasht worden zu sein.",
+                    "en-US": "Won a Marked man without being taken down",
+                    "es-ES": "Has ganado una Caza y Captura sin recibir un Takedown",
+                    "fr-FR": "Traque gagnée sans avoir subi de takedown.",
+                    "it-IT": "Hai vinto una sfida Uomo nel mirino senza essere distrutto.",
+                    "ja-JP": "テイクダウンされずに、マークドマンに勝利"
+                },
+                "howto": {
+                    "de-DE": "Gewinne ein Marked Man-Event, ohne gecrasht zu werden.",
+                    "en-US": "Win a Marked man without being taken down",
+                    "es-ES": "Gana una Caza y Captura sin recibir un Takedown",
+                    "fr-FR": "Gagner une Traque sans avoir subi de takedown.",
+                    "it-IT": "Vinci una sfida Uomo nel mirino senza essere distrutto.",
+                    "ja-JP": "テイクダウンされずに、マークドマンに勝利する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "12.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Kurz vor dem Ziel",
+                    "en-US": "Must Try Harder",
+                    "es-ES": "Esfuérzate más",
+                    "fr-FR": "Peut mieux faire",
+                    "it-IT": "Ancora un po'",
+                    "ja-JP": "ミディアムサクセス"
+                },
+                "description": {
+                    "de-DE": "Klasse B-Lizenz geholt.",
+                    "en-US": "Got your B Class License",
+                    "es-ES": "Has conseguido el carné de clase B",
+                    "fr-FR": "Permis catégorie B obtenu.",
+                    "it-IT": "Hai ottenuto la patente di classe B.",
+                    "ja-JP": "クラスBライセンスを獲得"
+                },
+                "howto": {
+                    "de-DE": "Hol dir die Klasse B-Lizenz.",
+                    "en-US": "Get your B Class License",
+                    "es-ES": "Consigue el carné de clase B",
+                    "fr-FR": "Obtenir le permis catégorie B.",
+                    "it-IT": "Ottieni la patente di classe B.",
+                    "ja-JP": "クラスBライセンスを獲得する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "40",
+            "imageId": "13.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "Draufgänger",
+                    "en-US": "Daredevil",
+                    "es-ES": "El temerario",
+                    "fr-FR": "Casse-cou",
+                    "it-IT": "Scavezzacollo",
+                    "ja-JP": "デアデビル"
+                },
+                "description": {
+                    "de-DE": "2 Barrelrolls ausgeführt.",
+                    "en-US": "Land a 2 barrel roll jump",
+                    "es-ES": "Has finalizado con éxito 2 vueltas de campana",
+                    "fr-FR": "Un saut à 2 Tonneaux réussi.",
+                    "it-IT": "Hai eseguito con successo un salto con 2 avvitamenti.",
+                    "ja-JP": "ダブルバレルロールジャンプに成功"
+                },
+                "howto": {
+                    "de-DE": "Führe 2 Barrelrolls aus.",
+                    "en-US": "Landed a 2 barrel roll jump",
+                    "es-ES": "Finaliza con éxito 2 vueltas de campana",
+                    "fr-FR": "Réussir un saut à 2 Tonneaux.",
+                    "it-IT": "Esegui con successo un salto con 2 avvitamenti.",
+                    "ja-JP": "ダブルバレルロールジャンプを成功させる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "14.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "Mit Glanz und Gloria",
+                    "en-US": "Flying Colors",
+                    "es-ES": "Has aprobado",
+                    "fr-FR": "Avec les félicitations",
+                    "it-IT": "Colori volanti",
+                    "ja-JP": "ビッグサクセス"
+                },
+                "description": {
+                    "de-DE": "Klasse A-Lizenz geholt.",
+                    "en-US": "Got your A Class License",
+                    "es-ES": "Has conseguido el carné de clase A",
+                    "fr-FR": "Permis catégorie A obtenu.",
+                    "it-IT": "Hai ottenuto la patente di classe A.",
+                    "ja-JP": "クラスAライセンスを獲得"
+                },
+                "howto": {
+                    "de-DE": "Hol dir die Klasse A-Lizenz.",
+                    "en-US": "Get your A Class License",
+                    "es-ES": "Consigue el carné de clase A",
+                    "fr-FR": "Obtenir le permis catégorie A.",
+                    "it-IT": "Ottieni la patente di classe A.",
+                    "ja-JP": "クラスAライセンスを獲得する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "50",
+            "imageId": "15.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "Die ersten Millionen",
+                    "en-US": "Millionaire's Club",
+                    "es-ES": "Club de millonarios",
+                    "fr-FR": "Club des millionnaires",
+                    "it-IT": "Club dei milionari",
+                    "ja-JP": "ミリオネアクラブ"
+                },
+                "description": {
+                    "de-DE": "Über 1.000.000 in Stuntrennen erzielt.",
+                    "en-US": "Scored over a 1,000,000 in Stunt Run",
+                    "es-ES": "Has sumado más de 1.000.000 de puntos en una Prueba de Trucos",
+                    "fr-FR": "Plus de 1 000 000 de points marqués en Séquence cascade.",
+                    "it-IT": "Hai totalizzato più di 1 milione di punti in una prova Stunt.",
+                    "ja-JP": "スタントランで1,000,000点を突破"
+                },
+                "howto": {
+                    "de-DE": "Erziele über 1.000.000 in einem Stuntrennen.",
+                    "en-US": "Score over a 1,000,000 in Stunt Run",
+                    "es-ES": "Suma más de 1.000.000 de puntos en una Prueba de Trucos",
+                    "fr-FR": "Marquer plus de 1 000 000 de points en Séquence cascade.",
+                    "it-IT": "Totalizza più di 1 milione di punti in una prova Stunt.",
+                    "ja-JP": "スタントランで1,000,000点を突破する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "16.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "de-DE": "Turbopower",
+                    "en-US": "Supercharged",
+                    "es-ES": "Supercargado",
+                    "fr-FR": "Surcompression",
+                    "it-IT": "Sovraccarico",
+                    "ja-JP": "スーパーチャージ"
+                },
+                "description": {
+                    "de-DE": "25 Burning Routes gewonnen.",
+                    "en-US": "Won 25 Burning Routes",
+                    "es-ES": "Has ganado 25 Rutas al rojo vivo",
+                    "fr-FR": "25 Parcours burning gagnés.",
+                    "it-IT": "Hai vinto 25 sfide Strada rovente.",
+                    "ja-JP": "バーニングルートで25勝"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 25 Burning Routes.",
+                    "en-US": "Win 25 Burning Routes",
+                    "es-ES": "Gana 25 Rutas al rojo vivo",
+                    "fr-FR": "Gagner 25 Parcours burning.",
+                    "it-IT": "Vinci 25 sfide Strada rovente.",
+                    "ja-JP": "バーニングルートで25勝する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "20",
+            "imageId": "17.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "de-DE": "Auto im Porzellanladen",
+                    "en-US": "Car in a China Shop",
+                    "es-ES": "Un coche en el Chino",
+                    "fr-FR": "Spécialiste du takedown",
+                    "it-IT": "Auto in una cristalleria",
+                    "ja-JP": "バイオレントカー"
+                },
+                "description": {
+                    "de-DE": "500 Takedowns erzielt (online und offline).",
+                    "en-US": "You got 500 Takedowns (online and offline)",
+                    "es-ES": "Has conseguido 500 Takedowns (tanto online como offline)",
+                    "fr-FR": "500 takedowns effectués (en et hors ligne).",
+                    "it-IT": "Hai eseguito 500 Takedown (online e offline).",
+                    "ja-JP": "テイクダウンを500回達成（オンライン、オフライン含む）"
+                },
+                "howto": {
+                    "de-DE": "Erziele 500 Takedowns (online und offline).",
+                    "en-US": "Get 500 Takedowns (online and offline)",
+                    "es-ES": "Consigue 500 Takedowns (tanto online como offline)",
+                    "fr-FR": "Effectuer 500 takedowns (en et hors ligne).",
+                    "it-IT": "Esegui 500 Takedown (online e offline).",
+                    "ja-JP": "テイクダウンを500回達成する（オンライン、オフライン含む）"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "18.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "de-DE": "Willkommen im Paradies",
+                    "en-US": "Paradise Won",
+                    "es-ES": "Las puertas de Paradise",
+                    "fr-FR": "Accès au paradis",
+                    "it-IT": "Finalmente in paradiso",
+                    "ja-JP": "グレイトサクセス"
+                },
+                "description": {
+                    "de-DE": "Burnout-Fahrerlizenz gewonnen.",
+                    "en-US": "Won your Burnout Driving License",
+                    "es-ES": "Has conseguido el carné de piloto Burnout",
+                    "fr-FR": "Permis Burnout obtenu.",
+                    "it-IT": "Hai ottenuto la patente di Burnout.",
+                    "ja-JP": "Burnout ドライビングライセンスを獲得"
+                },
+                "howto": {
+                    "de-DE": "Gewinne die Burnout-Fahrerlizenz.",
+                    "en-US": "Win your Burnout Driving License",
+                    "es-ES": "Consigue el carné de piloto Burnout",
+                    "fr-FR": "Obtenir le permis Burnout",
+                    "it-IT": "Ottieni la patente Burnout.",
+                    "ja-JP": "Burnout ドライビングライセンスを獲得する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "60",
+            "imageId": "19.png"
+        },
+        "66": {
+            "text": {
+                "name": {
+                    "de-DE": "Elite",
+                    "en-US": "Elite",
+                    "es-ES": "Élite",
+                    "fr-FR": "Elite",
+                    "it-IT": "Élite",
+                    "ja-JP": "エリート"
+                },
+                "description": {
+                    "de-DE": "Burnout-Elite-Lizenz gewonnen.",
+                    "en-US": "Won your Burnout Elite Licence",
+                    "es-ES": "Has conseguido el carné de piloto Burnout de Élite",
+                    "fr-FR": "Permis Burnout Elite obtenu.",
+                    "it-IT": "Hai ottenuto la patente Élite di Burnout.",
+                    "ja-JP": "Burnout エリートライセンスを獲得"
+                },
+                "howto": {
+                    "de-DE": "Gewinne die Burnout-Elite-Lizenz.",
+                    "en-US": "Win your Burnout Elite Licence",
+                    "es-ES": "Consigue el carné de piloto Burnout de Élite",
+                    "fr-FR": "Obtenir le Permis Burnout Elite.",
+                    "it-IT": "Ottieni la patente Élite di Burnout.",
+                    "ja-JP": "Burnout エリートライセンスを獲得する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "70",
+            "imageId": "20.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "de-DE": "Gut geparkt ist halb gewonnen",
+                    "en-US": "Paid and Displayed",
+                    "es-ES": "Pago por información",
+                    "fr-FR": "Tarif horodateur",
+                    "it-IT": "Paga e metti in mostra",
+                    "ja-JP": "ペイアンドディスプレイ"
+                },
+                "description": {
+                    "de-DE": "Alle Parkplätze gefunden.",
+                    "en-US": "Found all Car Parks",
+                    "es-ES": "Has encontrado todos los aparcamientos",
+                    "fr-FR": "Tous les parkings trouvés.",
+                    "it-IT": "Hai trovato tutti i parcheggi.",
+                    "ja-JP": "全てのパーキングガレージをディスカバー"
+                },
+                "howto": {
+                    "de-DE": "Weitere Infos erhältst du unter www.burnout.ea.com",
+                    "en-US": "Visit www.burnout.ea.com to find out more",
+                    "es-ES": "Visita www.burnout.ea.com para averiguar más",
+                    "fr-FR": "Se rendre sur www.burnout.ea.com pour en savoir plus.",
+                    "it-IT": "Per maggiori informazioni visita www.burnout.ea.com.",
+                    "ja-JP": "www.japan.ea.comでさらに調べる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "21.png"
+        },
+        "58": {
+            "text": {
+                "name": {
+                    "de-DE": "Außer Rand und Band",
+                    "en-US": "Bustin' Out",
+                    "es-ES": "Fuera carteles",
+                    "fr-FR": "Dans le panneau",
+                    "it-IT": "Sfondamento",
+                    "ja-JP": "バスティンアウト"
+                },
+                "description": {
+                    "de-DE": "Alle Werbetafeln gesammelt.",
+                    "en-US": "Collected all Billboards",
+                    "es-ES": "Has conseguido todos los carteles",
+                    "fr-FR": "Tous les Panneaux détruits.",
+                    "it-IT": "Hai sfondato tutti i cartelloni pubblicitari.",
+                    "ja-JP": "全てのビルボードを達成"
+                },
+                "howto": {
+                    "de-DE": "Sammle alle Werbetafeln.",
+                    "en-US": "Collect all Billboards",
+                    "es-ES": "Consigue todos los carteles",
+                    "fr-FR": "Détruire tous les Panneaux.",
+                    "it-IT": "Sfonda tutti i cartelloni pubblicitari.",
+                    "ja-JP": "全てのビルボードを達成する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "22.png"
+        },
+        "59": {
+            "text": {
+                "name": {
+                    "de-DE": "In Schutt und Asche",
+                    "en-US": "Totally Smashed",
+                    "es-ES": "Destrozo total",
+                    "fr-FR": "100 % smash",
+                    "it-IT": "Sfonda-tutto",
+                    "ja-JP": "トータルスマッシュ"
+                },
+                "description": {
+                    "de-DE": "Alle Smashes gesammelt.",
+                    "en-US": "Collected all Smashes",
+                    "es-ES": "Has conseguido todas las colisiones",
+                    "fr-FR": "Tous les smashs réussis.",
+                    "it-IT": "Hai sfondato tutti i cancelli.",
+                    "ja-JP": "全てのスマッシュを達成"
+                },
+                "howto": {
+                    "de-DE": "Sammle alle Smashes.",
+                    "en-US": "Collect all Smashes",
+                    "es-ES": "Consigue todas las colisiones",
+                    "fr-FR": "Réussir tous les smashs.",
+                    "it-IT": "Sfonda tutti i cancelli.",
+                    "ja-JP": "全てのスマッシュを達成する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "23.png"
+        },
+        "61": {
+            "text": {
+                "name": {
+                    "de-DE": "Höhenflug",
+                    "en-US": "Flying High",
+                    "es-ES": "Volando alto",
+                    "fr-FR": "Pilote de ligne",
+                    "it-IT": "Volare alto",
+                    "ja-JP": "フライハイ"
+                },
+                "description": {
+                    "de-DE": "Alle Sprünge gesammelt.",
+                    "en-US": "Successfully land all SUPERJUMPS",
+                    "es-ES": "Has conseguido todos los saltos",
+                    "fr-FR": "Tous les sauts effectués.",
+                    "it-IT": "Hai eseguito tutti i Super-salti.",
+                    "ja-JP": "全てのスーパージャンプに成功"
+                },
+                "howto": {
+                    "de-DE": "Sammle alle Sprünge.",
+                    "en-US": "Successfully landed all SUPERJUMPS",
+                    "es-ES": "Consigue todos los saltos",
+                    "fr-FR": "Effectuer tous les sauts.",
+                    "it-IT": "Esegui con successo tutti i Super-salti.",
+                    "ja-JP": "全てのスーパージャンプに成功する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "24.png"
+        },
+        "62": {
+            "text": {
+                "name": {
+                    "de-DE": "Tempojagd",
+                    "en-US": "Speed King",
+                    "es-ES": "Rey de la velocidad",
+                    "fr-FR": "Dieu de la vitesse",
+                    "it-IT": "Re della velocità",
+                    "ja-JP": "スピードキング"
+                },
+                "description": {
+                    "de-DE": "Zeitrekord auf allen Straßen aufgestellt.",
+                    "en-US": "Set a Time Road Rule on every road",
+                    "es-ES": "Has establecido una Ley de la Calle de Tiempo en todas las calles",
+                    "fr-FR": "Un Défi route Chrono fixé sur toutes les routes.",
+                    "it-IT": "Hai battuto le Regole della strada Tempo di ogni strada.",
+                    "ja-JP": "全てのロードでタイムロードルールを更新"
+                },
+                "howto": {
+                    "de-DE": "Stelle den Zeitrekord auf allen Straßen auf.",
+                    "en-US": "Set a Time Road Rule on every road",
+                    "es-ES": "Establece una Ley de la Calle de Tiempo en todas las calles",
+                    "fr-FR": "Fixer un Défi route Chrono sur toutes les routes.",
+                    "it-IT": "Batti le Regole della strada Tempo di ogni strada.",
+                    "ja-JP": "全てのロードでタイムロードルールを更新する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "25.png"
+        },
+        "63": {
+            "text": {
+                "name": {
+                    "de-DE": "Meister des Chaos",
+                    "en-US": "Crashin' All Over The World",
+                    "es-ES": "Comiéndote el mundo",
+                    "fr-FR": "Globetrotter du crash",
+                    "it-IT": "Re degli incidenti",
+                    "ja-JP": "クラッシュ・ザ・ワールド"
+                },
+                "description": {
+                    "de-DE": "Showtime-Rekord auf allen Straßen aufgestellt.",
+                    "en-US": "Showtime Road Rule set on every road",
+                    "es-ES": "Has establecido una Ley de la Calle de Espectáculo en todas las calles",
+                    "fr-FR": "Un Défi route Showtime fixé sur toutes les routes.",
+                    "it-IT": "Hai battuto le Regole della strada Spettacolo di ogni strada.",
+                    "ja-JP": "全てのロードでショータイムロードルールを更新"
+                },
+                "howto": {
+                    "de-DE": "Stelle auf allen Straßen den Showtime-Rekord auf.",
+                    "en-US": "Set a Showtime Road Rule on every road",
+                    "es-ES": "Establece una Ley de la Calle de Espectáculo en todas las calles",
+                    "fr-FR": "Fixer un Défi route Showtime sur toutes les routes.",
+                    "it-IT": "Batti le Regole della strada Spettacolo di ogni strada.",
+                    "ja-JP": "全てのロードでショータイムロードルールを更新する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "26.png"
+        },
+        "64": {
+            "text": {
+                "name": {
+                    "de-DE": "Kaufrausch",
+                    "en-US": "Shopaholic",
+                    "es-ES": "Comprador compulsivo",
+                    "fr-FR": "Accro du drive-in",
+                    "it-IT": "Maniaco dello shopping",
+                    "ja-JP": "ショッピングアディクト"
+                },
+                "description": {
+                    "de-DE": "Alle Drive-Thrus und Parkplätze gefunden.",
+                    "en-US": "Found all Drive Thrus and Car Parks",
+                    "es-ES": "Has encontrado todos los garitos y aparcamientos",
+                    "fr-FR": "Tous les Drive-in et Parkings trouvés.",
+                    "it-IT": "Hai trovato tutti i negozi e tutti i parcheggi.",
+                    "ja-JP": "全てのドライブスルーとパーキングガレージをディスカバー"
+                },
+                "howto": {
+                    "de-DE": "Finde alle Drive-Thrus und Parkplätze.",
+                    "en-US": "Find all Drive Thrus and Car Parks",
+                    "es-ES": "Encuentra todos los garitos y aparcamientos",
+                    "fr-FR": "Trouver tous les Drive-in et Parkings.",
+                    "it-IT": "Trova tutti i negozi e tutti gli sfasciacarrozze.",
+                    "ja-JP": "全てのドライブスルーとパーキングガレージをディスカバーする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "27.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "de-DE": "Forscher",
+                    "en-US": "Explorer",
+                    "es-ES": "Explorador",
+                    "fr-FR": "Explorateur",
+                    "it-IT": "Esploratore",
+                    "ja-JP": "エクスプローラー"
+                },
+                "description": {
+                    "de-DE": "Alle Events gefunden.",
+                    "en-US": "Found all Events",
+                    "es-ES": "Encontradas todas las pruebas",
+                    "fr-FR": "Toutes les épreuves trouvées.",
+                    "it-IT": "Hai trovato tutti gli eventi.",
+                    "ja-JP": "全てのイベントをディスカバー"
+                },
+                "howto": {
+                    "de-DE": "Finde alle Events.",
+                    "en-US": "Find all Events",
+                    "es-ES": "Encuentra todas las pruebas",
+                    "fr-FR": "Trouver toutes les épreuves.",
+                    "it-IT": "Trova tutti gli eventi.",
+                    "ja-JP": "全てのイベントをディスカバーする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "28.png"
+        },
+        "68": {
+            "text": {
+                "name": {
+                    "de-DE": "Online-Heizer",
+                    "en-US": "Online Racer",
+                    "es-ES": "Piloto online",
+                    "fr-FR": "Pilote en ligne",
+                    "it-IT": "Pilota online",
+                    "ja-JP": "オンラインレーサー"
+                },
+                "description": {
+                    "de-DE": "Online-Rennen abgeschlossen.",
+                    "en-US": "Completed an online Race",
+                    "es-ES": "Has completado una Carrera online",
+                    "fr-FR": "Une Course en ligne terminée.",
+                    "it-IT": "Hai completato una gara online.",
+                    "ja-JP": "オンラインレースをコンプリート"
+                },
+                "howto": {
+                    "de-DE": "Schließe ein Online-Rennen ab.",
+                    "en-US": "Complete an online Race",
+                    "es-ES": "Completa una Carrera online",
+                    "fr-FR": "Terminer une Course en ligne.",
+                    "it-IT": "Completa una gara online.",
+                    "ja-JP": "オンラインレースをコンプリートする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "29.png"
+        },
+        "69": {
+            "text": {
+                "name": {
+                    "de-DE": "Erster Sieg",
+                    "en-US": "First Win",
+                    "es-ES": "Tu primera victoria",
+                    "fr-FR": "Première victoire",
+                    "it-IT": "Prima vittoria",
+                    "ja-JP": "ファーストウィン"
+                },
+                "description": {
+                    "de-DE": "8-Spieler-Online-Rennen gewonnen.",
+                    "en-US": "Won an 8 Player online Race",
+                    "es-ES": "Has ganado una Carrera online de 8 jugadores",
+                    "fr-FR": "Une Course en ligne à 8 joueurs gagnée.",
+                    "it-IT": "Hai vinto una gara online a 8 giocatori.",
+                    "ja-JP": "8人対戦オンラインレースで勝利"
+                },
+                "howto": {
+                    "de-DE": "Gewinne dein erstes 8-Spieler-Online-Rennen.",
+                    "en-US": "Win Your first 8 Player online Race",
+                    "es-ES": "Gana tu primera Carrera online de 8 jugadores",
+                    "fr-FR": "Gagner ta première Course en ligne à 8 joueurs.",
+                    "it-IT": "Vinci la tua prima gara online a 8 giocatori.",
+                    "ja-JP": "初めての8人対戦オンラインレースで勝利する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "30.png"
+        },
+        "75": {
+            "text": {
+                "name": {
+                    "de-DE": "Unruhestifter",
+                    "en-US": "Firestarter",
+                    "es-ES": "A primera sangre",
+                    "fr-FR": "Allumeur de mèches",
+                    "it-IT": "Istigatore",
+                    "ja-JP": "バトルスターター"
+                },
+                "description": {
+                    "de-DE": "50 Online-Fahrer zum Gegner gemacht.",
+                    "en-US": "Made 50 online Rivals",
+                    "es-ES": "Has conseguido 50 rivales online",
+                    "fr-FR": "50 Rivaux en ligne créés.",
+                    "it-IT": "Ti sei guadagnato 50 rivali online.",
+                    "ja-JP": "50人のオンラインライバルを達成"
+                },
+                "howto": {
+                    "de-DE": "Mache dir 50 Online-Fahrer zum Gegner.",
+                    "en-US": "Make 50 online Rivals",
+                    "es-ES": "Consigue 50 rivales online",
+                    "fr-FR": "Se créer 50 Rivaux en ligne.",
+                    "it-IT": "Guadagnati 50 rivali online.",
+                    "ja-JP": "50人のオンラインライバルを作る"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "31.png"
+        },
+        "74": {
+            "text": {
+                "name": {
+                    "de-DE": "Online und nicht zu bremsen",
+                    "en-US": "Online and Kicking",
+                    "es-ES": "Dando cera online",
+                    "fr-FR": "Aligne en ligne",
+                    "it-IT": "Online e agguerrito",
+                    "ja-JP": "オンラインフィーバー"
+                },
+                "description": {
+                    "de-DE": "20 Online-Events abgeschlossen.",
+                    "en-US": "Completed 20 online Events",
+                    "es-ES": "20 desafíos online completados",
+                    "fr-FR": "20 épreuves en ligne réussies.",
+                    "it-IT": "Hai completato 20 eventi online.",
+                    "ja-JP": "20オンラインイベントをコンプリート"
+                },
+                "howto": {
+                    "de-DE": "Schließe 20 Online-Events ab.",
+                    "en-US": "Complete 20 online Events",
+                    "es-ES": "Completa 20 desafíos online",
+                    "fr-FR": "Réussir 20 épreuves en ligne.",
+                    "it-IT": "Completa 20 eventi online.",
+                    "ja-JP": "20オンラインイベントをコンプリートする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "32.png"
+        },
+        "76": {
+            "text": {
+                "name": {
+                    "de-DE": "Bitte lächeln",
+                    "en-US": "Just for Pics",
+                    "es-ES": "Para que conste",
+                    "fr-FR": "Pour le fun",
+                    "it-IT": "Solo per una foto",
+                    "ja-JP": "オンラインライバル"
+                },
+                "description": {
+                    "de-DE": "Online-Fahrer zum Gegner gemacht.",
+                    "en-US": "Made Your First online Rival",
+                    "es-ES": "Has conseguido un rival online",
+                    "fr-FR": "Un Rival en ligne créé.",
+                    "it-IT": "Ti sei guadagnato un rivale online.",
+                    "ja-JP": "オンラインライバルが出現"
+                },
+                "howto": {
+                    "de-DE": "Mache dir einen Online-Fahrer zum Gegner.",
+                    "en-US": "Make Your First online Rival",
+                    "es-ES": "Consigue tu primer rival online",
+                    "fr-FR": "Créer ton premier Rival en ligne.",
+                    "it-IT": "Guadagnati il tuo primo rivale online.",
+                    "ja-JP": "1人目のオンラインライバルを作る"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "33.png"
+        },
+        "77": {
+            "text": {
+                "name": {
+                    "de-DE": "Potz Blitz!",
+                    "en-US": "Happy Snapper",
+                    "es-ES": "El fotógrafo feliz",
+                    "fr-FR": "Journaliste photo",
+                    "it-IT": "Fotografo amatoriale",
+                    "ja-JP": "フォトマニア"
+                },
+                "description": {
+                    "de-DE": "5 Schnappschüsse gesendet.",
+                    "en-US": "Sent 5 Camera Shots",
+                    "es-ES": "Has enviado 5 fotografías",
+                    "fr-FR": "5 Photos flag Mugshots envoyés.",
+                    "it-IT": "Hai inviato 5 mugshot.",
+                    "ja-JP": "カメラショットを5枚送信"
+                },
+                "howto": {
+                    "de-DE": "Sende 5 Schnappschüsse.",
+                    "en-US": "Send 5 Camera Shots",
+                    "es-ES": "Envía 5 fotografías",
+                    "fr-FR": "Envoyer 5 Photos flag Mugshots.",
+                    "it-IT": "Invia 5 mugshot.",
+                    "ja-JP": "カメラショットを5枚送信する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "34.png"
+        },
+        "78": {
+            "text": {
+                "name": {
+                    "de-DE": "Knipswut",
+                    "en-US": "Notorious",
+                    "es-ES": "Célebre",
+                    "fr-FR": "Paparazzo",
+                    "it-IT": "Famigerato",
+                    "ja-JP": "バッドセレブ"
+                },
+                "description": {
+                    "de-DE": "50 Schnappschüsse gesendet.",
+                    "en-US": "Sent 50 Camera Shots",
+                    "es-ES": "Has enviado 50 fotografías",
+                    "fr-FR": "50 Photos flag Mugshots envoyés.",
+                    "it-IT": "Hai inviato 50 mugshot.",
+                    "ja-JP": "カメラショットを50枚送信"
+                },
+                "howto": {
+                    "de-DE": "Sende 50 Schnappschüsse.",
+                    "en-US": "Send 50 Camera Shots",
+                    "es-ES": "Envía 50 fotografías",
+                    "fr-FR": "Envoyer 50 Photos flag Mugshots.",
+                    "it-IT": "Invia 50 mugshot.",
+                    "ja-JP": "カメラショットを50枚送信する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "35.png"
+        },
+        "80": {
+            "text": {
+                "name": {
+                    "de-DE": "Verbrecherakte",
+                    "en-US": "Hotshots",
+                    "es-ES": "Instantáneas",
+                    "fr-FR": "Collectionneur",
+                    "it-IT": "Collezionista",
+                    "ja-JP": "ホットショット"
+                },
+                "description": {
+                    "de-DE": "50 Schnappschüsse im Album gesammelt.",
+                    "en-US": "Got 50 Snapshots in your Lineup",
+                    "es-ES": "Has conseguido 50 fotos para tu Rueda de identificación",
+                    "fr-FR": "50 Photos postées dans ta Galerie.",
+                    "it-IT": "Hai raccolto 50 mugshot nella tua collezione.",
+                    "ja-JP": "ラインアップにスナップショットを50枚コレクト"
+                },
+                "howto": {
+                    "de-DE": "Sammle 50 Schnappschüsse im Album.",
+                    "en-US": "Get 50 Snapshots in your Lineup",
+                    "es-ES": "Consigue 50 fotos para tu Rueda de identificación",
+                    "fr-FR": "Poster 50 Photos dans ta Galerie.",
+                    "it-IT": "Raccogli 50 mugshot nella tua Collezione.",
+                    "ja-JP": "ラインアップにスナップショットを50枚コレクトする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "36.png"
+        },
+        "81": {
+            "text": {
+                "name": {
+                    "de-DE": "Mach Party!",
+                    "en-US": "Join the Party",
+                    "es-ES": "Únete a la fiesta",
+                    "fr-FR": "Rejoins la fête",
+                    "it-IT": "Join the Party",
+                    "ja-JP": "パーティープレイ"
+                },
+                "description": {
+                    "de-DE": "1 Online-Challenge abgeschlossen.",
+                    "en-US": "Completed 1 online Challenge",
+                    "es-ES": "1 desafío online completado",
+                    "fr-FR": "1 défi en ligne réussi.",
+                    "it-IT": "Hai completato 1 sfida online.",
+                    "ja-JP": "オンラインチャレンジを1つコンプリート"
+                },
+                "howto": {
+                    "de-DE": "Schließe 1 Online-Challenge ab.",
+                    "en-US": "Complete 1 online Challenge",
+                    "es-ES": "Completa 1 desafío online",
+                    "fr-FR": "Réussir 1 défi en ligne.",
+                    "it-IT": "Completa 1 sfida online.",
+                    "ja-JP": "オンラインチャレンジを1つコンプリートする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "37.png"
+        },
+        "83": {
+            "text": {
+                "name": {
+                    "de-DE": "Partyknaller",
+                    "en-US": "Party Crasher",
+                    "es-ES": "El aguafiestas",
+                    "fr-FR": "Trouble-fête",
+                    "it-IT": "Guastafeste",
+                    "ja-JP": "パーティークラッシャー"
+                },
+                "description": {
+                    "de-DE": "25 Online-Challenges abgeschlossen.",
+                    "en-US": "Completed 25 online Challenges",
+                    "es-ES": "25 desafíos online completados",
+                    "fr-FR": "25 défis en ligne réussis.",
+                    "it-IT": "Hai completato 25 sfide online.",
+                    "ja-JP": "25オンラインチャレンジをコンプリート"
+                },
+                "howto": {
+                    "de-DE": "Schließe 25 Online-Challenges ab.",
+                    "en-US": "Complete 25 online Challenges",
+                    "es-ES": "Completa 25 desafíos online",
+                    "fr-FR": "Réussir 25 défis en ligne.",
+                    "it-IT": "Completa 25 sfide online",
+                    "ja-JP": "25オンラインチャレンジをコンプリートする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "38.png"
+        },
+        "85": {
+            "text": {
+                "name": {
+                    "de-DE": "Absahner",
+                    "en-US": "Block Party",
+                    "es-ES": "Bloqueos a gogó",
+                    "fr-FR": "Rubrique à brac",
+                    "it-IT": "Stritolatore",
+                    "ja-JP": "ブロックパーティー"
+                },
+                "description": {
+                    "de-DE": "2 Online-Challenges-Bereiche abgeschlossen (außer PDLC).\n\n\n\n",
+                    "en-US": "Completed 2 whole sections of online Challenges (excluding PDLC)",
+                    "es-ES": "Has completado 2 secciones completas de desafíos online (excepto PDLC)",
+                    "fr-FR": "2 séries de défis en ligne réussies (sauf contenu téléchargeable postérieur).",
+                    "it-IT": "Hai completato due intere sezioni delle sfide online (contenuti scaricabili esclusi).",
+                    "ja-JP": "オンラインチャレンジの2つのセクションをコンプリート（プレミアムダウンロードコンテンツを除く）"
+                },
+                "howto": {
+                    "de-DE": "Schließe 2 komplette Online-Challenges-Bereiche ab (außer PDLC).\n\n",
+                    "en-US": "Complete 2 whole sections of online Challenges (excluding PDLC)",
+                    "es-ES": "Completa 2 secciones de desafíos online (excepto PDLC)",
+                    "fr-FR": "Réussir 2 séries de défis en ligne (sauf contenu téléchargeable postérieur).",
+                    "it-IT": "Completa due intere sezioni delle sfide online (contenuti scaricabili esclusi).",
+                    "ja-JP": "オンラインチャレンジの2つのセクションをコンプリートする（プレミアムダウンロードコンテンツを除く）"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "35",
+            "imageId": "39.png"
+        },
+        "86": {
+            "text": {
+                "name": {
+                    "de-DE": "Burnout-Profi",
+                    "en-US": "Burnout Skills",
+                    "es-ES": "Habilidad en Burnout",
+                    "fr-FR": "Talent Burnout",
+                    "it-IT": "Abilità Burnout",
+                    "ja-JP": "バーンアウトスキル"
+                },
+                "description": {
+                    "de-DE": "Im 8-Spieler-Online-Freeburn 6 Tagesbester-Platzierungen erzielt.",
+                    "en-US": "In 8 player online Freeburn led 6 of the Today's Best Scores",
+                    "es-ES": "Has liderado 6 de las puntuaciones de El Mejor del Día en un Freeburn online de 8 jugadores",
+                    "fr-FR": "En mode Freeburn en ligne à 8 joueurs, a été en tête de 6 des scores Pilote du jour.",
+                    "it-IT": "Hai stabilito 6 record del giorno in modalità Freeburn online a 8 giocatori.",
+                    "ja-JP": "オンライン8人対戦のフリーバーンで、 トゥデイズベストを6スキル達成"
+                },
+                "howto": {
+                    "de-DE": "Erziele im 8-Spieler-Online-Freeburn 6 Tagesbester-Platzierungen.",
+                    "en-US": "In 8 Player online Freeburn lead 6 of the Today's Best Scores",
+                    "es-ES": "Lidera 6 de las puntuaciones de El Mejor del Día en un Freeburn online de 8 jugadores",
+                    "fr-FR": "En mode Freeburn en ligne à 8 joueurs, être en tête de 6 des scores Pilote du jour.",
+                    "it-IT": "Domina in 6 record del giorno in modalità Freeburn online a 8 giocatori.",
+                    "ja-JP": "オンライン8人対戦のフリーバーンで、トゥデイズベストを6スキル達成する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "40.png"
+        },
+        "87": {
+            "text": {
+                "name": {
+                    "de-DE": "Criterion-Fieber",
+                    "en-US": "Criterion Fever",
+                    "es-ES": "Fiebre de Criterion",
+                    "fr-FR": "Fièvre de Criterion",
+                    "it-IT": "Febbre Criterion",
+                    "ja-JP": "クライテリオンフィーバー"
+                },
+                "description": {
+                    "de-DE": "Mit Criterion-Fieber infiziert.",
+                    "en-US": "Caught Criterion Fever",
+                    "es-ES": "Has contraído la fiebre de Criterion",
+                    "fr-FR": "Fièvre de Criterion attrapée.",
+                    "it-IT": "Hai preso la febbre Criterion.",
+                    "ja-JP": "クライテリオンフィーバーをキャッチ"
+                },
+                "howto": {
+                    "de-DE": "Infizier dich mit dem Criterion-Fieber - Weitere Infos erhältst du unter www.burnout.ea.com\n\n",
+                    "en-US": "Catch Criterion Fever - Visit www.burnout.ea.com to find out more",
+                    "es-ES": "Contrae la fiebre de Criterion - Visita www.burnout.ea.com para averiguar más",
+                    "fr-FR": "Attraper la fièvre de Criterion - Se rendre sur www.burnout.ea.com pour en savoir plus.",
+                    "it-IT": "Prendi la febbre Criterion - Per maggiori informazioni visita www.burnout.ea.com.",
+                    "ja-JP": "クライテリオンフィーバーをキャッチしよう www.japan.ea.comへGO!"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "41.png"
+        },
+        "84": {
+            "text": {
+                "name": {
+                    "de-DE": "Partylöwe",
+                    "en-US": "Party Animal",
+                    "es-ES": "El fiestero",
+                    "fr-FR": "Le roi de la fête",
+                    "it-IT": "Festaiolo",
+                    "ja-JP": "パーティーアニマル"
+                },
+                "description": {
+                    "de-DE": "250 Online-Challenges abgeschlossen.",
+                    "en-US": "Completed 250 online Challenges",
+                    "es-ES": "250 desafíos online completados",
+                    "fr-FR": "250 défis en ligne réussis.",
+                    "it-IT": "Hai completato 250 sfide online.",
+                    "ja-JP": "250オンラインチャレンジをコンプリート"
+                },
+                "howto": {
+                    "de-DE": "Schließe 250 Online-Challenges ab.",
+                    "en-US": "Complete 250 online Challenges",
+                    "es-ES": "Completa 250 desafíos online",
+                    "fr-FR": "Réussir 250 défis en ligne.",
+                    "it-IT": "Completa 250 sfide online.",
+                    "ja-JP": "250オンラインチャレンジをコンプリートする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "42.png"
+        },
+        "72": {
+            "text": {
+                "name": {
+                    "de-DE": "Online-Champion",
+                    "en-US": "Online Champion",
+                    "es-ES": "Campeón online",
+                    "fr-FR": "Champion en ligne",
+                    "it-IT": "Campione online",
+                    "ja-JP": "オンラインチャンピオン"
+                },
+                "description": {
+                    "de-DE": "10 Online-Rennen gewonnen.",
+                    "en-US": "Won 10 online Races",
+                    "es-ES": "Has ganado 10 Carreras online",
+                    "fr-FR": "10 Courses en ligne gagnées.",
+                    "it-IT": "Hai vinto 10 gare online.",
+                    "ja-JP": "オンラインレースで10勝"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 10 Online-Rennen.",
+                    "en-US": "Win 10 online Races",
+                    "es-ES": "Gana 10 Carreras online",
+                    "fr-FR": "Gagner 10 Courses en ligne.",
+                    "it-IT": "Vinci 10 gare online.",
+                    "ja-JP": "オンラインレースで10勝する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "43.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "Lustig im Kreis herum",
+                    "en-US": "Spinnin' Around",
+                    "es-ES": "Girando sin parar",
+                    "fr-FR": "Toupie",
+                    "it-IT": "Girotondo",
+                    "ja-JP": "パーフェクトスピン"
+                },
+                "description": {
+                    "de-DE": "Ersten 360-Grad-Flatspin ausgeführt.",
+                    "en-US": "Got your first 360 Flatspin",
+                    "es-ES": "Has conseguido tu primer giro de 360º",
+                    "fr-FR": "Première Vrille à plat de 360° réussie.",
+                    "it-IT": "Hai eseguito il tuo primo testacoda a 360 gradi.",
+                    "ja-JP": "360度フラットスピンに初成功"
+                },
+                "howto": {
+                    "de-DE": "Führe deinen ersten 360-Grad-Flatspin aus.",
+                    "en-US": "Perform a 360 Flatspin in any car",
+                    "es-ES": "Consigue un giro de 360º con cualquier coche",
+                    "fr-FR": "Réussir ta première Vrille à plat de 360°.",
+                    "it-IT": "Esegui un testacoda a 360 gradi con qualsiasi auto.",
+                    "ja-JP": "クルマを問わず、360度フラットスピンを決める"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "44.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "The Show Must Go On",
+                    "en-US": "The Show Must Go On",
+                    "es-ES": "El espectáculo debe continuar",
+                    "fr-FR": "Que le show continue",
+                    "it-IT": "Lo spettacolo deve continuare",
+                    "ja-JP": "ロングラン"
+                },
+                "description": {
+                    "de-DE": "x10-Multiplikator in Showtime erzielt.",
+                    "en-US": "Got a x10 multiplier in Showtime",
+                    "es-ES": "Has conseguido un multiplicador x10 en Espectáculo",
+                    "fr-FR": "Multiplicateur x10 en Showtime.",
+                    "it-IT": "Hai ottenuto un moltiplicatore x10 in Spettacolo.",
+                    "ja-JP": "ショータイムで×10マルチプライアを達成"
+                },
+                "howto": {
+                    "de-DE": "Erziele einen x10-Multiplikator in Showtime.",
+                    "en-US": "Get a 10x multiplier in Showtime",
+                    "es-ES": "Consigue un multiplicador x10 en Espectáculo",
+                    "fr-FR": "Bénéficier d'un multiplicateur x10 en Showtime.",
+                    "it-IT": "Ottieni un moltiplicatore x10 in Spettacolo.",
+                    "ja-JP": "ショータイムで×10マルチプライアを達成する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "45.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Randale!",
+                    "en-US": "Rampage!",
+                    "es-ES": "¡Salvajada!",
+                    "fr-FR": "Pillage !",
+                    "it-IT": "Follia!",
+                    "ja-JP": "フィーバー！"
+                },
+                "description": {
+                    "de-DE": "Takedown-Randale hingelegt.",
+                    "en-US": "Got a Takedown Rampage",
+                    "es-ES": "¡Has conseguido una Salvajada de Takedown!",
+                    "fr-FR": "Démence de takedowns obtenu.",
+                    "it-IT": "Hai scatenato una Follia Takedown.",
+                    "ja-JP": "テイクダウンフィーバーを獲得"
+                },
+                "howto": {
+                    "de-DE": "Lege eine Takedown-Randale hin.",
+                    "en-US": "Get a Takedown Rampage",
+                    "es-ES": "¡Consigue una Salvajada de Takedown!",
+                    "fr-FR": "Obtenir une Démence de takedowns.",
+                    "it-IT": "Scatena una Follia Takedown.",
+                    "ja-JP": "テイクダウンフィーバーを獲得する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "46.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "de-DE": "Parkprofi",
+                    "en-US": "Parallel Park",
+                    "es-ES": "Aparcamiento en paralelo",
+                    "fr-FR": "Monsieur 100 %",
+                    "it-IT": "Parcheggio parallelo",
+                    "ja-JP": "パラレルパーキング"
+                },
+                "description": {
+                    "de-DE": "100 % beim Powerparken erzielt.",
+                    "en-US": "Power Park achieved with a 100% rating",
+                    "es-ES": "Has aparcado con derrape con un 100% de calificación ",
+                    "fr-FR": "Méga-créneau réussi avec au moins 100 %.",
+                    "it-IT": "Hai eseguito un parcheggio in sbandata con una percentuale del 100%.",
+                    "ja-JP": "100%のレーティングでパワーパーク"
+                },
+                "howto": {
+                    "de-DE": "Erziele 100 % beim Powerparken.",
+                    "en-US": "Power Park with a 100% rating",
+                    "es-ES": "Aparca con derrape con un 100% de calificación ",
+                    "fr-FR": "Réussir un Méga-créneau avec au moins 100 %.",
+                    "it-IT": "Esegui un parcheggio in sbandata con una percentuale del 100%.",
+                    "ja-JP": "100%のレーティングでパワーパークする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "47.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "Mit Volldampf voraus",
+                    "en-US": "Boosting Around the World",
+                    "es-ES": "Con turbo y a lo loco",
+                    "fr-FR": "Booste le monde",
+                    "it-IT": "Sempre al massimo",
+                    "ja-JP": "ブースト・ザ・ワールド"
+                },
+                "description": {
+                    "de-DE": "x20-Boost-Serie erzielt.",
+                    "en-US": "Got a x20 Boost Chain",
+                    "es-ES": "Has conseguido una cadena de turbo x20",
+                    "fr-FR": "Une Chaîne de boost x20 obtenue.",
+                    "it-IT": "Hai ottenuto una catena turbo x20.",
+                    "ja-JP": "×20ブーストチェーンを達成"
+                },
+                "howto": {
+                    "de-DE": "Erziele eine x20-Boost-Serie.",
+                    "en-US": "Get a x20 Boost Chain",
+                    "es-ES": "Consigue una cadena de turbo x20",
+                    "fr-FR": "Obtenir une Chaîne de boost x20.",
+                    "it-IT": "Ottieni una catena turbo x20.",
+                    "ja-JP": "×20ブーストチェーンを達成する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "48.png"
+        },
+        "54": {
+            "text": {
+                "name": {
+                    "de-DE": "Das Beste vom Besten",
+                    "en-US": "All Pimped Out",
+                    "es-ES": "Todos chuleados",
+                    "fr-FR": "Que de chemin parcouru",
+                    "it-IT": "Estintore",
+                    "ja-JP": "フルチューンド"
+                },
+                "description": {
+                    "de-DE": "Alle Burning Routes gewonnen.",
+                    "en-US": "Won all Burning Routes",
+                    "es-ES": "Has ganado todas las Rutas al rojo vivo",
+                    "fr-FR": "Tous les Parcours burning gagnés.",
+                    "it-IT": "Hai vinto tutte le sfide Strada rovente.",
+                    "ja-JP": "バーニングルートで全勝"
+                },
+                "howto": {
+                    "de-DE": "Gewinne alle Burning Routes.",
+                    "en-US": "Win all Burning Routes",
+                    "es-ES": "Gana todas las Rutas al rojo vivo",
+                    "fr-FR": "Gagner tous les Parcours burning.",
+                    "it-IT": "Vinci tutte le sfide Strada rovente.",
+                    "ja-JP": "バーニングルートで全勝する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "49.png"
+        },
+        "67": {
+            "text": {
+                "name": {
+                    "de-DE": "Criterion Elite",
+                    "en-US": "Criterion Elite",
+                    "es-ES": "Élite de Criterion",
+                    "fr-FR": "Elite Criterion",
+                    "it-IT": "Élite Criterion",
+                    "ja-JP": "クライテリオンエリート"
+                },
+                "description": {
+                    "de-DE": "Elite-Lizenz erhalten, alle Events gewonnen, versteckten Objekte gefunden & Straßenrekorde gebrochen",
+                    "en-US": "Got your Elite License, won every event, found all discoverables and beat every Road Rule",
+                    "es-ES": "Has conseguido el carné de Élite. Has ganado y encontrado todo, pruebas, calles y descubrimientos.",
+                    "fr-FR": "Permis Elite obtenu, toutes épreuves gagnées, tous éléments découverts et tous Défis route réussis.",
+                    "it-IT": "Ottenuta la patente Élite, vinti tutti gli eventi, trovato tutto e battuta ogni Regola della strada.",
+                    "ja-JP": "エリートライセンス獲得、イベント全勝、全ての隠し要素をディスカバー、全てのロードルールを更新"
+                },
+                "howto": {
+                    "de-DE": "Für Elite-Lizenz, gewinne jedes Event, finde alle versteckten Objekte, brich alle Straßenrekorde",
+                    "en-US": "Get your Elite License, win every event, find all discoverables and beat every Road Rule",
+                    "es-ES": "Consigue el carné de Élite. Gana y encuentra  todo, pruebas, Leyes de la Calle y descubrimientos.",
+                    "fr-FR": "Obtenir Permis Elite, gagner chaque épreuve, découvrir chaque élément et réussir chaque Défi route.",
+                    "it-IT": "Ottieni la patente Élite, vinci tutti gli eventi, trova tutto e batti ogni Regola della strada.",
+                    "ja-JP": "エリートライセンスを獲得して、イベントに全勝、全ての隠し要素をディスカバーし、全てのロードルールを更新する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "50.png"
+        },
+        "88": {
+            "text": {
+                "name": {
+                    "de-DE": "Die perfekte Party",
+                    "en-US": "Perfect Party Game",
+                    "es-ES": "Partida Party perfecta",
+                    "fr-FR": "Course en mode Party parfaite",
+                    "it-IT": "Party perfetto",
+                    "ja-JP": "パーフェクトパーティーゲーム"
+                },
+                "description": {
+                    "de-DE": "Party-Spiel abgeschlossen, bei dem jeder Spieler in jeder Runde Punkte erzielt hat.",
+                    "en-US": "Completed a Party game where every player scored in every round\n\n",
+                    "es-ES": "Completada partida Party donde todos los jugadores han puntuado en cada ronda",
+                    "fr-FR": "Course terminée en mode Party où chaque joueur a marqué des points à chaque tour ",
+                    "it-IT": "Hai completato una partita in modalità Party in cui ogni giocatore ha ottenuto punti in ogni turno.",
+                    "ja-JP": "パーティーゲームで全プレイヤーが全ラウンドでスコア"
+                },
+                "howto": {
+                    "de-DE": "Schließe ein Party-Spiel ab, bei dem jeder Spieler in jeder Runde Punkte erzielen muss.",
+                    "en-US": "Complete a Party game where every player scores in every round\n\n",
+                    "es-ES": "Completa una partida Party donde todos los jugadores puntúan en cada ronda",
+                    "fr-FR": "Terminer une course en mode Party où chaque joueur marque des points à chaque tour",
+                    "it-IT": "Completa una partita in modalità Party in cui ogni giocatore ottiene punti in ogni turno.",
+                    "ja-JP": "パーティーゲームで全プレイヤーが全ラウンドでスコアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "51.png"
+        },
+        "89": {
+            "text": {
+                "name": {
+                    "de-DE": "Massive Party Game",
+                    "en-US": "Massive Party Game",
+                    "es-ES": "Partida Party Masiva",
+                    "fr-FR": "Course en mode Party multijoueur",
+                    "it-IT": "Party gigantesco",
+                    "ja-JP": "マッシブパーティーゲーム"
+                },
+                "description": {
+                    "de-DE": "Party-Spiel über 8 Runden mit 8 Spielern abgeschlossen.",
+                    "en-US": "Completed a Party game of 8 rounds with 8 players\n\n",
+                    "es-ES": "Partida Party de 8 rondas con 8 jugadores completada",
+                    "fr-FR": " Course de 8 tours avec 8 joueurs en mode Party terminée",
+                    "it-IT": "Hai completato una partita in modalità Party di 8 turni con 8 giocatori.",
+                    "ja-JP": "8人のプレイヤーで8ラウンドのパーティーゲームをコンプリート"
+                },
+                "howto": {
+                    "de-DE": "Schließe ein Party-Spiel über 8 Runden mit 8 Spielern ab.",
+                    "en-US": "Complete a Party game of 8 rounds with 8 players\n\n",
+                    "es-ES": "Completa una partida Party de 8 rondas con 8 jugadores",
+                    "fr-FR": "Terminer une course de 8 tours avec 8 joueurs en mode Party",
+                    "it-IT": "Completa una partita in modalità Party di 8 turni con 8 giocatori.",
+                    "ja-JP": "8人のプレイヤーで8ラウンドのパーティーゲームをコンプリートする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "52.png"
+        }
+    }
+}
