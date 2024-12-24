@@ -1,0 +1,2212 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Erste geht auf's Haus",
+                    "en-US": "First One's Free",
+                    "es-ES": "La primera es gratis",
+                    "fr-FR": "C'est moi qui régale",
+                    "it-IT": "Il primo giro è gratis",
+                    "ja-JP": "最初だけはタダだ"
+                },
+                "description": {
+                    "de-DE": "Mission \"Meine erste Knarre\" abgeschlossen",
+                    "en-US": "Completed the mission \"My First Gun\"",
+                    "es-ES": "Completaste la misión \"Mi primer arma\".",
+                    "fr-FR": "Vous avez terminé la mission \"Mon premier flingue\" ",
+                    "it-IT": "Hai completato la missione \"La mia prima arma\"",
+                    "ja-JP": "「初めての銃」をクリアした"
+                },
+                "howto": {
+                    "de-DE": "<String Placeholder>",
+                    "en-US": null,
+                    "es-ES": "<String Placeholder>",
+                    "fr-FR": "<String Placeholder>",
+                    "it-IT": "<String Placeholder>",
+                    "ja-JP": "<String Placeholder>"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Drachentöter",
+                    "en-US": "Dragon Slayer",
+                    "es-ES": "Matadragones",
+                    "fr-FR": "Pourfendeur de dragons",
+                    "it-IT": "Ammazzadraghi",
+                    "ja-JP": "ドラゴン ハンター"
+                },
+                "description": {
+                    "de-DE": "Mission \"Bester Handlanger aller Zeiten\" abgeschlossen",
+                    "en-US": "Completed the mission \"Best Minion Ever\"",
+                    "es-ES": "Completaste la misión \"El mejor esbirro del mundo\".",
+                    "fr-FR": "Vous avez terminé la mission \"Le meilleur sbire du monde\" ",
+                    "it-IT": "Hai completato la missione \"Il miglior tirapiedi di sempre\"",
+                    "ja-JP": "「史上最高のしもべ」をクリアした"
+                },
+                "howto": {
+                    "de-DE": "<String Placeholder>",
+                    "en-US": null,
+                    "es-ES": "<String Placeholder>",
+                    "fr-FR": "<String Placeholder>",
+                    "it-IT": "<String Placeholder>",
+                    "ja-JP": "<String Placeholder>"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Die wenig befahrene Straße",
+                    "en-US": "A Road Less Traveled",
+                    "es-ES": "Un camino poco transitado",
+                    "fr-FR": "Une route toute tracée",
+                    "it-IT": "Una strada poco battuta",
+                    "ja-JP": "カントリーロード"
+                },
+                "description": {
+                    "de-DE": "Mission \"Die Straße nach Sanctuary\" abgeschlossen",
+                    "en-US": "Completed the mission \"The Road To Sanctuary\"",
+                    "es-ES": "Completaste la misión \"El camino a Sanctuary\".",
+                    "fr-FR": "Vous avez terminé la mission \"En route vers Sanctuary\" ",
+                    "it-IT": "Hai completato la missione \"La strada per Sanctuary\"",
+                    "ja-JP": "「Sanctuary への道」をクリアした"
+                },
+                "howto": {
+                    "de-DE": "<String Placeholder>",
+                    "en-US": null,
+                    "es-ES": "<String Placeholder>",
+                    "fr-FR": "<String Placeholder>",
+                    "it-IT": "<String Placeholder>",
+                    "ja-JP": "<String Placeholder>"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Neu in der Stadt",
+                    "en-US": "New In Town",
+                    "es-ES": "Nuevo en la ciudad",
+                    "fr-FR": "Quand on arrive en ville...",
+                    "it-IT": "Nuovo arrivato",
+                    "ja-JP": "新参者"
+                },
+                "description": {
+                    "de-DE": "Mission \"Plan B\" abgeschlossen",
+                    "en-US": "Completed the mission \"Plan B\"",
+                    "es-ES": "Completaste la misión \"Plan B\".",
+                    "fr-FR": "Vous avez terminé la mission \"Plan B\" ",
+                    "it-IT": "Hai completato la missione \"Piano B\"",
+                    "ja-JP": "「プラン B」をクリアした"
+                },
+                "howto": {
+                    "de-DE": "<String Placeholder>",
+                    "en-US": null,
+                    "es-ES": "<String Placeholder>",
+                    "fr-FR": "<String Placeholder>",
+                    "it-IT": "<String Placeholder>",
+                    "ja-JP": "<String Placeholder>"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Eine alte Flamme",
+                    "en-US": "An Old Flame",
+                    "es-ES": "Rescoldos del pasado",
+                    "fr-FR": "Une vieille connaissance",
+                    "it-IT": "Una vecchia fiamma",
+                    "ja-JP": "不死鳥が如く"
+                },
+                "description": {
+                    "de-DE": "Mission \"Jagd auf den Firehawk\" abgeschlossen",
+                    "en-US": "Completed the mission \"Hunting The Firehawk\"",
+                    "es-ES": "Completaste la misión \"A la caza del Halcón de fuego\".",
+                    "fr-FR": "Vous avez terminé la mission \"La chasse au Faucon ardent\" ",
+                    "it-IT": "Hai completato la missione \"A caccia di Aquila di fuoco\"",
+                    "ja-JP": "「Firehawk」をクリアした"
+                },
+                "howto": {
+                    "de-DE": "<String Placeholder>",
+                    "en-US": null,
+                    "es-ES": "<String Placeholder>",
+                    "fr-FR": "<String Placeholder>",
+                    "it-IT": "<String Placeholder>",
+                    "ja-JP": "<String Placeholder>"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Kein Mann wird zurückgelassen",
+                    "en-US": "No Man Left Behind",
+                    "es-ES": "Sin dejar a nadie atrás",
+                    "fr-FR": "Personne derrière",
+                    "it-IT": "Non si lascia indietro nessuno",
+                    "ja-JP": "誰も見捨てない"
+                },
+                "description": {
+                    "de-DE": "Mission \"Eine verDAMMt gelungene Rettung\" abgeschlossen",
+                    "en-US": "Completed the mission \"A Dam Fine Rescue\"",
+                    "es-ES": "Completaste la misión \"Preso en la presa\".",
+                    "fr-FR": "Vous avez terminé la mission \"Opération sauvetage\" ",
+                    "it-IT": "Hai completato la missione \"Un salvataggio inarrestabile\"",
+                    "ja-JP": "「華麗なる救出」をクリアした"
+                },
+                "howto": {
+                    "de-DE": "<String Placeholder>",
+                    "en-US": null,
+                    "es-ES": "<String Placeholder>",
+                    "fr-FR": "<String Placeholder>",
+                    "it-IT": "<String Placeholder>",
+                    "ja-JP": "<String Placeholder>"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Wilhelms Schreie",
+                    "en-US": "Wilhelm Screamed",
+                    "es-ES": "El grito de Wilhelm",
+                    "fr-FR": "Un vrai boute-en-train",
+                    "it-IT": "Wilhelm ha urlato",
+                    "ja-JP": " Wilhelm の悲鳴"
+                },
+                "description": {
+                    "de-DE": "Mission \"Erwisch den Zug\" abgeschlossen",
+                    "en-US": "Completed the mission \"A Train To Catch\"",
+                    "es-ES": "Completaste la misión \"Viajeros al tren\".",
+                    "fr-FR": "Vous avez terminé la mission \"Un train à prendre\" ",
+                    "it-IT": "Hai completato la missione \"Un treno da prendere\"",
+                    "ja-JP": "「列車襲撃」をクリアした"
+                },
+                "howto": {
+                    "de-DE": "<String Placeholder>",
+                    "en-US": null,
+                    "es-ES": "<String Placeholder>",
+                    "fr-FR": "<String Placeholder>",
+                    "it-IT": "<String Placeholder>",
+                    "ja-JP": "<String Placeholder>"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Nach oben gibt es keine Grenzen",
+                    "en-US": "Sky's The Limit",
+                    "es-ES": "El cielo es el límite",
+                    "fr-FR": "Au plus haut des cieux",
+                    "it-IT": "Il limite è il cielo",
+                    "ja-JP": "天高く昇れ"
+                },
+                "description": {
+                    "de-DE": "Mission \"Abgehobene Action\" abgeschlossen",
+                    "en-US": "Completed the mission \"Rising Action\"",
+                    "es-ES": "Completaste la misión \"Altos vuelos\".",
+                    "fr-FR": "Vous avez terminé la mission \"Envolée héroïque\" ",
+                    "it-IT": "Hai completato la missione \"Azione crescente\"",
+                    "ja-JP": "「ライジング アクション」をクリアした"
+                },
+                "howto": {
+                    "de-DE": "<String Placeholder>",
+                    "en-US": null,
+                    "es-ES": "<String Placeholder>",
+                    "fr-FR": "<String Placeholder>",
+                    "it-IT": "<String Placeholder>",
+                    "ja-JP": "<String Placeholder>"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Ich seh mein Haus von hier oben",
+                    "en-US": "Can See My House From Here",
+                    "es-ES": "Puedo ver mi casa desde aquí",
+                    "fr-FR": "D'ici, je peux voir ma maison !",
+                    "it-IT": "Riesco a vedere casa mia da qua",
+                    "ja-JP": "空中楽園"
+                },
+                "description": {
+                    "de-DE": "Mission \"Schwebendes Verfahren\" abgeschlossen",
+                    "en-US": "Completed the mission \"Bright Lights, Flying City\"",
+                    "es-ES": "Completaste la misión \"Luces brillantes, ciudad voladora\".",
+                    "fr-FR": "Vous avez terminé la mission \"Les lumières de la ville volante\" ",
+                    "it-IT": "Hai completato la missione \"Luci scintillanti, città volante\"",
+                    "ja-JP": "「ブライトライツ フライングシティ」をクリアした"
+                },
+                "howto": {
+                    "de-DE": "<String Placeholder>",
+                    "en-US": null,
+                    "es-ES": "<String Placeholder>",
+                    "fr-FR": "<String Placeholder>",
+                    "it-IT": "<String Placeholder>",
+                    "ja-JP": "<String Placeholder>"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Lebe wohl, altes Mädchen",
+                    "en-US": "Farewell, Old Girl",
+                    "es-ES": "Adiós, amigo",
+                    "fr-FR": "Adieu, ma jolie",
+                    "it-IT": "Addio, vecchio mio",
+                    "ja-JP": "さらば、友よ"
+                },
+                "description": {
+                    "de-DE": "Mission \"Das Wildtier-Reservat\" abgeschlossen",
+                    "en-US": "Completed the mission \"Wildlife Preservation\"",
+                    "es-ES": "Completaste la misión \"Reserva natural\".",
+                    "fr-FR": "Vous avez terminé la mission \"Protection de la nature\" ",
+                    "it-IT": "Hai completato la missione \"Salvaguardia della fauna selvatica\"",
+                    "ja-JP": "「保護区」をクリアした"
+                },
+                "howto": {
+                    "de-DE": "<String Placeholder>",
+                    "en-US": null,
+                    "es-ES": "<String Placeholder>",
+                    "fr-FR": "<String Placeholder>",
+                    "it-IT": "<String Placeholder>",
+                    "ja-JP": "<String Placeholder>"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Band wieder zusammengebracht",
+                    "en-US": "Got The Band Back Together",
+                    "es-ES": "El grupo se reúne",
+                    "fr-FR": "Reformation du groupe",
+                    "it-IT": "Rimettere insieme la banda",
+                    "ja-JP": "大集合"
+                },
+                "description": {
+                    "de-DE": "Mission \"Der einstige und zuküftige Slab\" abgeschlossen",
+                    "en-US": "Completed the mission \"The Once and Future Slab\"",
+                    "es-ES": "Completaste la misión \"Antiguo y futuro Tajo\".",
+                    "fr-FR": "Vous avez terminé la mission \"Mastoc un jour, Mastoc toujours\" ",
+                    "it-IT": "Hai completato la missione \"Lo Slab del passato e del futuro\"",
+                    "ja-JP": "「Slab の王」をクリアした"
+                },
+                "howto": {
+                    "de-DE": "<String Placeholder>",
+                    "en-US": null,
+                    "es-ES": "<String Placeholder>",
+                    "fr-FR": "<String Placeholder>",
+                    "it-IT": "<String Placeholder>",
+                    "ja-JP": "<String Placeholder>"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Identitätsraub",
+                    "en-US": "Identity Theft",
+                    "es-ES": "Robo de identidad",
+                    "fr-FR": "Usurpation d'identité",
+                    "it-IT": "Furto d'identità",
+                    "ja-JP": "顔を盗んだ男"
+                },
+                "description": {
+                    "de-DE": "Mission \"Der Mann, der Jack werden würde\" abgeschlossen",
+                    "en-US": "Completed the mission \"The Man Who Would Be Jack\"",
+                    "es-ES": "Completaste la misión \"El hombre que debía ser Jack\".",
+                    "fr-FR": "Vous avez terminé la mission \"L'homme qui voulait être Jack\" ",
+                    "it-IT": "Hai completato la missione \"L'uomo che voleva essere Jack\"",
+                    "ja-JP": "「Jack という男」をクリアした"
+                },
+                "howto": {
+                    "de-DE": "<String Placeholder>",
+                    "en-US": null,
+                    "es-ES": "<String Placeholder>",
+                    "fr-FR": "<String Placeholder>",
+                    "it-IT": "<String Placeholder>",
+                    "ja-JP": "<String Placeholder>"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "12.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Wunsch eines Engels",
+                    "en-US": "An Angel's Wish",
+                    "es-ES": "El deseo de un ángel",
+                    "fr-FR": "Un ange passe...",
+                    "it-IT": "Desiderio di un angelo",
+                    "ja-JP": "彼女の願い"
+                },
+                "description": {
+                    "de-DE": "Mission \"Engel und Narren\" abgeschlossen",
+                    "en-US": "Completed the mission \"Where Angels Fear To Tread\"",
+                    "es-ES": "Completaste la misión \"Donde los ángeles temen adentrarse\".",
+                    "fr-FR": "Vous avez terminé la mission \"Interdit aux Anges\" ",
+                    "it-IT": "Hai completato la missione \"Dove gli angeli non osano andare\"",
+                    "ja-JP": "「天使の涙」をクリアした"
+                },
+                "howto": {
+                    "de-DE": "<String Placeholder>",
+                    "en-US": null,
+                    "es-ES": "<String Placeholder>",
+                    "fr-FR": "<String Placeholder>",
+                    "it-IT": "<String Placeholder>",
+                    "ja-JP": "<String Placeholder>"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "13.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "Feuer frei!",
+                    "en-US": "Bombs Away",
+                    "es-ES": "¡Bombas fuera!",
+                    "fr-FR": "Bombes larguées !",
+                    "it-IT": "Bombe fuori!",
+                    "ja-JP": "爆撃開始！"
+                },
+                "description": {
+                    "de-DE": "Mission \"Blut, Schweiß und jede Menge Ärger\" abgeschlossen",
+                    "en-US": "Completed the mission \"Toil And Trouble\"",
+                    "es-ES": "Completaste la misión \"Esfuerzos y penurias\".",
+                    "fr-FR": "Vous avez terminé la mission \"Efforts et difficultés\" ",
+                    "it-IT": "Hai completato la missione \"Lavoro e travaglio\"",
+                    "ja-JP": "「苦労と災難」をクリアした"
+                },
+                "howto": {
+                    "de-DE": "<String Placeholder>",
+                    "en-US": null,
+                    "es-ES": "<String Placeholder>",
+                    "fr-FR": "<String Placeholder>",
+                    "it-IT": "<String Placeholder>",
+                    "ja-JP": "<String Placeholder>"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "14.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "de-DE": "Wissen ist der halbe Sieg",
+                    "en-US": "Knowing Is Half The Battle",
+                    "es-ES": "La información es tu mejor arma",
+                    "fr-FR": "Le savoir, c'est le pouvoir",
+                    "it-IT": "La conoscenza è metà battaglia",
+                    "ja-JP": "まずは敵を知れ"
+                },
+                "description": {
+                    "de-DE": "Mission \"Data-Mining\" abgeschlossen",
+                    "en-US": "Completed the mission \"Data Mining\"",
+                    "es-ES": "Completaste la misión \"Prospección de datos\".",
+                    "fr-FR": "Vous avez terminé la mission \"Extraction de données\"",
+                    "it-IT": "Hai completato la missione \"Ricerca dati\"",
+                    "ja-JP": "「データマイニング」をクリアした"
+                },
+                "howto": {
+                    "de-DE": "<String Placeholder>",
+                    "en-US": null,
+                    "es-ES": "<String Placeholder>",
+                    "fr-FR": "<String Placeholder>",
+                    "it-IT": "<String Placeholder>",
+                    "ja-JP": "<String Placeholder>"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "15.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Coole Story, Bruder",
+                    "en-US": "Cool Story, Bro",
+                    "es-ES": "¡Una historia genial!",
+                    "fr-FR": "C'est ça, cause toujours...",
+                    "it-IT": "Bella storia, amico!",
+                    "ja-JP": "物語はこれでおしまい"
+                },
+                "description": {
+                    "de-DE": "Jack besiegt",
+                    "en-US": "Defeated Jack",
+                    "es-ES": "Derrotaste a Jack.",
+                    "fr-FR": "Vous avez vaincu Jack",
+                    "it-IT": "Jack sconfitto",
+                    "ja-JP": "Jack を倒した"
+                },
+                "howto": {
+                    "de-DE": "<String Placeholder>",
+                    "en-US": null,
+                    "es-ES": "<String Placeholder>",
+                    "fr-FR": "<String Placeholder>",
+                    "it-IT": "<String Placeholder>",
+                    "ja-JP": "<String Placeholder>"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "16.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "Herausforderung angenommen",
+                    "en-US": "Challenge Accepted",
+                    "es-ES": "Desafío aceptado",
+                    "fr-FR": "Défi accepté !",
+                    "it-IT": "Sfida accettata",
+                    "ja-JP": "受けて立つ！"
+                },
+                "description": {
+                    "de-DE": "Level 1 aller nicht-Level-bezogenen Herausforderungen mit einem einzigen Charakter abgeschlossen",
+                    "en-US": "Completed level 1 of all non-level-specific challenges with a single character",
+                    "es-ES": "Completaste el nivel 1 de todos los desafíos no específicos de nivel con un personaje.",
+                    "fr-FR": "Vous avez terminé le niveau 1 de tous les défis non liés au niveau avec un seul personnage",
+                    "it-IT": "Hai completato il livello 1 di tutte le sfide non vincolate ad un livello con un singolo personaggio",
+                    "ja-JP": "1人のキャラクターで、全てのチャレンジのレベル1を完了した（キャラクター レベルに依存するものを除く）"
+                },
+                "howto": {
+                    "de-DE": "Schließe Level 1 aller nicht-Level-bezogenen Herausforderungen mit einem einzigen Charakter ab",
+                    "en-US": "Complete level 1 of all non-level-specific challenges with a single character",
+                    "es-ES": "Completa el nivel 1 de todos los desafíos no específicos de nivel con un personaje.",
+                    "fr-FR": "Terminer le niveau 1 de tous les défis non liés au niveau avec un seul personnage",
+                    "it-IT": "Completa il livello 1 di tutte le sfide non vincolate ad un livello con un singolo personaggio",
+                    "ja-JP": "1人のキャラクターで、全てのチャレンジのレベル1を完了する（キャラクター レベルに依存するものを除く）"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "17.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "de-DE": "Goliath, ich stelle vor: David.",
+                    "en-US": "Goliath, Meet David",
+                    "es-ES": "Goliat, este es David",
+                    "fr-FR": "Goliath ? Voici David",
+                    "it-IT": "Golia, ti presento Davide",
+                    "ja-JP": "Goliath、こちらはダビデだよ"
+                },
+                "description": {
+                    "de-DE": "Du hast einen Goliath 4-mal im Level aufsteigen lassen, bevor du ihn umgelegt hast",
+                    "en-US": "Allowed a Goliath to level up four times before killing him",
+                    "es-ES": "Dejaste que un goliat subiese de nivel cuatro veces antes de matarlo.",
+                    "fr-FR": "Vous avez permis à un Goliath d'augmenter quatre fois de niveau avant de le tuer",
+                    "it-IT": "Hai permesso a un golia di salire di livello 4 volte, prima di ucciderlo",
+                    "ja-JP": "Goliath を4回レベル アップさせてから倒した"
+                },
+                "howto": {
+                    "de-DE": "Lass einen Goliath 4-mal im Level aufsteigen, bevor du ihn umlegst",
+                    "en-US": "Allow a Goliath to level up four times before killing him",
+                    "es-ES": "Deja que un goliat suba de nivel cuatro veces antes de matarlo.",
+                    "fr-FR": "Permettre à un Goliath d'augmenter quatre fois de niveau avant de le tuer",
+                    "it-IT": "Permetti a un golia di salire di livello 4 volte, prima di ucciderlo",
+                    "ja-JP": "Goliath を4回レベル アップさせてから倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "18.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "Über fünf Runden gegangen",
+                    "en-US": "Went Five Rounds",
+                    "es-ES": "5 rondas a la espalda",
+                    "fr-FR": "Tenir la distance",
+                    "it-IT": "Cinque round",
+                    "ja-JP": "5ラウンドマッチ"
+                },
+                "description": {
+                    "de-DE": "Runde 5 eines Ring des Gemetzels abgeschlossen",
+                    "en-US": "Completed Round 5 of any Circle of Slaughter",
+                    "es-ES": "Completaste la ronda 5 de un círculo de masacre.",
+                    "fr-FR": "Round 5 d'un Cercle du massacre terminé",
+                    "it-IT": "Hai completato il 5° round di un qualunque Cerchio della strage",
+                    "ja-JP": "“殺戮の宴”の1つで、第5ラウンドまでクリアした"
+                },
+                "howto": {
+                    "de-DE": "Schließe Runde 5 eines Ring des Gemetzels ab",
+                    "en-US": "Complete Round 5 of any Circle of Slaughter",
+                    "es-ES": "Completa la ronda 5 de cualquier círculo de masacre.",
+                    "fr-FR": "Terminer le round 5 de n'importe quel Cercle du massacre",
+                    "it-IT": "Completa il 5° round di un qualunque Cerchio della strage",
+                    "ja-JP": "“殺戮の宴”の1つで、第5ラウンドまでクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "19.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "Doch nicht GANZ tot",
+                    "en-US": "Not Quite Dead",
+                    "es-ES": "Sigo en pie",
+                    "fr-FR": "Pas tout à fait mort",
+                    "it-IT": "Non del tutto morto",
+                    "ja-JP": "蘇るハンター"
+                },
+                "description": {
+                    "de-DE": "Level 5 erreicht",
+                    "en-US": "Reached level 5",
+                    "es-ES": "Llegaste al nivel 5.",
+                    "fr-FR": "Vous avez atteint le niveau 5",
+                    "it-IT": "Hai raggiunto il livello 5",
+                    "ja-JP": "レベル5になった"
+                },
+                "howto": {
+                    "de-DE": "Erreiche Level 5",
+                    "en-US": "Reach level 5",
+                    "es-ES": "Llega al nivel 5.",
+                    "fr-FR": "Atteindre le niveau 5",
+                    "it-IT": "Raggiungi il livello 5",
+                    "ja-JP": "レベル5になる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "20.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "Beste Aufstiegschancen",
+                    "en-US": "Better Than You Were",
+                    "es-ES": "Soy mejor que tú",
+                    "fr-FR": "C'est déjà mieux",
+                    "it-IT": "Meglio di prima",
+                    "ja-JP": "成長することはいいことだ"
+                },
+                "description": {
+                    "de-DE": "Level 10 erreicht",
+                    "en-US": "Reached level 10",
+                    "es-ES": "Llegaste al nivel 10.",
+                    "fr-FR": "Vous avez atteint le niveau 10",
+                    "it-IT": "Hai raggiunto il livello 10",
+                    "ja-JP": "レベル10になった"
+                },
+                "howto": {
+                    "de-DE": "Erreiche Level 10",
+                    "en-US": "Reach level 10",
+                    "es-ES": "Llega al nivel 10.",
+                    "fr-FR": "Atteindre le niveau 10",
+                    "it-IT": "Raggiungi il livello 10",
+                    "ja-JP": "レベル10になる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "21.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "de-DE": "Es geht aufwärts",
+                    "en-US": "Always Improving",
+                    "es-ES": "Siempre mejorando",
+                    "fr-FR": "C'est en forgeant...",
+                    "it-IT": "Sempre meglio",
+                    "ja-JP": "たゆまぬ努力"
+                },
+                "description": {
+                    "de-DE": "Level 25 erreicht",
+                    "en-US": "Reached level 25",
+                    "es-ES": "Llegaste al nivel 25.",
+                    "fr-FR": "Vous avez atteint le niveau 25",
+                    "it-IT": "Hai raggiunto il livello 25",
+                    "ja-JP": "レベル25になった"
+                },
+                "howto": {
+                    "de-DE": "Erreiche Level 25",
+                    "en-US": "Reach level 25",
+                    "es-ES": "Llega al nivel 25.",
+                    "fr-FR": "Atteindre le niveau 25",
+                    "it-IT": "Raggiungi il livello 25",
+                    "ja-JP": "レベル25になる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "22.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "Völlig ausgelevelt ... VORERST",
+                    "en-US": "Capped Out…For Now",
+                    "es-ES": "Al máximo... de momento",
+                    "fr-FR": "À bloc... pour l'instant",
+                    "it-IT": "Al massimo... per ora",
+                    "ja-JP": "今はこれが精いっぱい..."
+                },
+                "description": {
+                    "de-DE": "Level 50 erreicht",
+                    "en-US": "Reached level 50",
+                    "es-ES": "Llegaste al nivel 50.",
+                    "fr-FR": "Vous avez atteint le niveau 50",
+                    "it-IT": "Hai raggiunto il livello 50",
+                    "ja-JP": "レベル50になった"
+                },
+                "howto": {
+                    "de-DE": "Erreiche Level 50",
+                    "en-US": "Reach level 50",
+                    "es-ES": "Llega al nivel 50.",
+                    "fr-FR": "Atteindre le niveau 50",
+                    "it-IT": "Raggiungi il livello 50",
+                    "ja-JP": "レベル50になる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "23.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "Polarforscher",
+                    "en-US": "Arctic Explorer",
+                    "es-ES": "Explorador ártico",
+                    "fr-FR": "Explorateur arctique",
+                    "it-IT": "Esploratore artico",
+                    "ja-JP": "北極探検家"
+                },
+                "description": {
+                    "de-DE": "Alle mit Namen versehenen Orte in Three Horns, Tundra Express und Frostburn Canyon wurden entdeckt",
+                    "en-US": "Discovered all named locations in Three Horns, Tundra Express, and Frostburn Canyon",
+                    "es-ES": "Descubriste todos los lugares en Three Horns, Tundra Express y Frostburn Canyon.",
+                    "fr-FR": "Vous avez découvert tous les lieux de Three Horns, de Tundra Express et de Frostburn Canyon",
+                    "it-IT": "Hai scoperto tutti i luoghi di Three Horns, Tundra Express e Frostburn Canyon",
+                    "ja-JP": "Three Horns、Tundra Express、Frostburn Canyon の各マップで、名前のついた場所を全て発見した"
+                },
+                "howto": {
+                    "de-DE": "Entdecke Alle mit Namen versehenen Orte in Three Horns, Tundra Express und Frostburn Canyon",
+                    "en-US": "Discover all named locations in Three Horns, Tundra Express, and Frostburn Canyon",
+                    "es-ES": "Descubre todos los lugares en Three Horns, Tundra Express y Frostburn Canyon.",
+                    "fr-FR": "Découvrir tous les lieux de Three Horns, de Tundra Express et de Frostburn Canyon",
+                    "it-IT": "Scopri tutti i luoghi di Three Horns, Tundra Express e Frostburn Canyon",
+                    "ja-JP": "Three Horns、Tundra Express、Frostburn Canyon の各マップで、名前のついた場所を全て発見する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "24.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Städtereisender",
+                    "en-US": "Urban Explorer",
+                    "es-ES": "Explorador urbano",
+                    "fr-FR": "Explorateur urbain",
+                    "it-IT": "Esploratore urbano",
+                    "ja-JP": "都市探検家"
+                },
+                "description": {
+                    "de-DE": "Alle mit Namen versehenen Orte in Sanctuary, Opportunity und Lynchwood wurden entdeckt",
+                    "en-US": "Discovered all named locations in Sanctuary, Opportunity, and Lynchwood",
+                    "es-ES": "Descubriste todos los lugares en Sanctuary, Opportunity y Lynchwood.",
+                    "fr-FR": "Vous avez découvert tous les lieux de Sanctuary, d'Opportunity et de Lynchwood",
+                    "it-IT": "Hai scoperto tutti i luoghi di Sanctuary, Opportunity, e Lynchwood",
+                    "ja-JP": "Sanctuary、Opportunity、Lynchwood の各マップで、名前のついた場所を全て発見した"
+                },
+                "howto": {
+                    "de-DE": "Entdecke Alle mit Namen versehenen Orte in Sanctuary, Opportunity und Lynchwood",
+                    "en-US": "Discover all named locations in Sanctuary, Opportunity, and Lynchwood",
+                    "es-ES": "Descubre todos los lugares en Sanctuary, Opportunity y Lynchwood.",
+                    "fr-FR": "Découvrir tous les lieux de Sanctuary, d'Opportunity et de Lynchwood",
+                    "it-IT": "Scopri tutti i luoghi di Sanctuary, Opportunity e Lynchwood",
+                    "ja-JP": "Sanctuary、Opportunity、Lynchwood の各マップで、名前のついた場所を全て発見する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "25.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "Eroberer des Hochlands",
+                    "en-US": "Highlands Explorer",
+                    "es-ES": "Explorador de The Highlands",
+                    "fr-FR": "Explorateur des Highlands",
+                    "it-IT": "Esploratore delle Highlands",
+                    "ja-JP": "高原探検家"
+                },
+                "description": {
+                    "de-DE": "Alle Orte mit Namen in den Highlands, Thousand Cuts und dem Wildlife Exploitation Preserve entdeckt",
+                    "en-US": "Discovered all named locations in The Highlands, Thousand Cuts, and Wildlife Exploitation Preserve",
+                    "es-ES": "Descubriste todos los lugares en The Highlands, Thousand Cuts y Wildlife Exploitation Preserve.",
+                    "fr-FR": "Vous avez découvert tous les lieux des Highlands, de Thousand Cuts et Wildlife Exploitation Preserve",
+                    "it-IT": "Hai scoperto tutti i luoghi delle Highlands, Thousand Cuts e Wildlife Exploitation Preserve",
+                    "ja-JP": "The Highlands、Thousand Cuts、Wildlife Exploitation Preserve の各マップで、名前のついた場所を全て発見した"
+                },
+                "howto": {
+                    "de-DE": "Entdecke Alle Orte in den Highlands, in Thousand Cuts und im Wildlife Exploitation Preserve",
+                    "en-US": "Discover all named locations in The Highlands, Thousand Cuts, and Wildlife Exploitation Preserve",
+                    "es-ES": "Descubre todos los lugares en The Highlands, Thousand Cuts y Wildlife Exploitation Preserve.",
+                    "fr-FR": "Découvrir tous les lieux des Highlands, de Thousand Cuts et de Wildlife Exploitation Preserve",
+                    "it-IT": "Scopri tutti i luoghi delle Highlands, Thousand Cuts e della Wildlife Exploitation Preserve",
+                    "ja-JP": "The Highlands、Thousand Cuts、Wildlife Exploitation Preserve の各マップで、名前のついた場所を全て発見する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "26.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "Blight-Forscher",
+                    "en-US": "Blight Explorer",
+                    "es-ES": "Explorador de Blight",
+                    "fr-FR": "Explorateur du Blight",
+                    "it-IT": "Esploratore di rovine",
+                    "ja-JP": "荒地探検家"
+                },
+                "description": {
+                    "de-DE": "Alle mit Namen versehenen Orte in Eridium Blight, Arid Nexus und Sawtooth Cauldron wurden entdeckt",
+                    "en-US": "Discovered all named locations in Eridium Blight, Arid Nexus, and Sawtooth Cauldron",
+                    "es-ES": "Descubriste todos los lugares en Eridium Blight, Arid Nexus y Sawtooth Cauldron.",
+                    "fr-FR": "Vous avez découvert tous les lieux d'Eridium Blight, d'Arid Nexus et de Sawtooth Cauldron",
+                    "it-IT": "Hai scoperto tutti i luoghi di Eridium Blight, Arid Nexus e Sawtooth Cauldron",
+                    "ja-JP": "Eridium Blight、Arid Nexus、Sawtooth Cauldron の各マップで、名前のついた場所を全て発見した"
+                },
+                "howto": {
+                    "de-DE": "Entdecke Alle mit Namen versehenen Orte in Eridium Blight, Arid Nexus und Sawtooth Cauldron",
+                    "en-US": "Discover all named locations in Eridium Blight, Arid Nexus, and Sawtooth Cauldron",
+                    "es-ES": "Descubre todos los lugares en Eridium Blight, Arid Nexus y Sawtooth Cauldron.",
+                    "fr-FR": "Découvrir tous les lieux d'Eridium Blight, d'Arid Nexus et de Sawtooth Cauldron",
+                    "it-IT": "Scopri tutti i luoghi di Eridium Blight, Arid Nexus e Sawtooth Cauldron",
+                    "ja-JP": "Eridium Blight、Arid Nexus、Sawtooth Cauldron の各マップで、名前のついた場所を全て発見する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "27.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Welt ist dein Zuhause",
+                    "en-US": "World Traveler",
+                    "es-ES": "Viajero global",
+                    "fr-FR": "Globe-trotter",
+                    "it-IT": "Giramondo",
+                    "ja-JP": "世界紀行"
+                },
+                "description": {
+                    "de-DE": "Alle mit Namen versehenen Orte wurden entdeckt",
+                    "en-US": "Discovered all named locations",
+                    "es-ES": "Descubriste todos los lugares.",
+                    "fr-FR": "Vous avez découvert tous les lieux de Pandore",
+                    "it-IT": "Hai scoperto tutti i luoghi che hanno un nome",
+                    "ja-JP": "名前のついた場所を全て発見した"
+                },
+                "howto": {
+                    "de-DE": "Entdecke Alle mit Namen versehenen Orte",
+                    "en-US": "Discover all named locations",
+                    "es-ES": "Descubre todos los lugares.",
+                    "fr-FR": "Découvrir tous les lieux de Pandore",
+                    "it-IT": "Scopri tutti i luoghi che hanno un nome",
+                    "ja-JP": "名前のついた場所を全て発見する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "28.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "Edler Spender",
+                    "en-US": "Sugar Daddy",
+                    "es-ES": "Cliente con derecho a roce",
+                    "fr-FR": "Généreux donateur",
+                    "it-IT": "Paparino",
+                    "ja-JP": "シュガーダディ"
+                },
+                "description": {
+                    "de-DE": "Moxxi $ 10.000 Trinkgeld gegeben",
+                    "en-US": "Tipped Moxxi $10,000",
+                    "es-ES": "Le diste 10.000 $ de propina a Moxxi.",
+                    "fr-FR": "Vous avez donné 10 000$ de pourboire à Moxxi",
+                    "it-IT": "Hai dato a Moxxi una mancia di 10.000 dollari",
+                    "ja-JP": "Moxxi に$10,000分のチップを渡した"
+                },
+                "howto": {
+                    "de-DE": "Gib Moxxi $ 10.000 Trinkgeld",
+                    "en-US": "Tip Moxxi $10,000",
+                    "es-ES": "Dale a Moxxi 10.000 $ de propina.",
+                    "fr-FR": "Donner 10 000$ de pourboire à Moxxi",
+                    "it-IT": "Dai 10.000 dollari di mancia a Moxxi",
+                    "ja-JP": "Moxxi に$10,000分のチップを渡す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "29.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Schick herausgeputzt",
+                    "en-US": "Decked Out",
+                    "es-ES": "Bien servido",
+                    "fr-FR": "On a la classe ou on ne l'a pas",
+                    "it-IT": "Abbigliamento di classe",
+                    "ja-JP": "フル装備"
+                },
+                "description": {
+                    "de-DE": "In jedem Slot wurde mindestens lilafarbene Ausrüstung getragen",
+                    "en-US": "Had Purple-rated gear or better equipped in every slot",
+                    "es-ES": "Te equipaste con equipo morado o superior en cada ranura.",
+                    "fr-FR": "Vous avez du matériel violet ou de qualité supérieure équipé dans chaque emplacement",
+                    "it-IT": "Hai equipaggiato un oggetto viola o superiore in ogni slot",
+                    "ja-JP": "全ての装備スロットに紫色のアイテムを装備した"
+                },
+                "howto": {
+                    "de-DE": "Trage in jedem Slot mindestens lilafarbene Ausrüstung",
+                    "en-US": "Have Purple-rated gear or better equipped in every slot",
+                    "es-ES": "Equípate con equipo morado o superior en cada ranura.",
+                    "fr-FR": "Avoir du matériel violet ou de qualité supérieure équipé dans chaque emplacement",
+                    "it-IT": "Equipaggia un oggetto viola o superiore in ogni slot",
+                    "ja-JP": "全ての装備スロットに紫色のアイテムを装備する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "30.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Geschütz-Massaker",
+                    "en-US": "Sabre Rattler",
+                    "es-ES": "A sablazo limpio",
+                    "fr-FR": "Du plomb dans la tête",
+                    "it-IT": "Mastro Sabre",
+                    "ja-JP": "セイバー シューター"
+                },
+                "description": {
+                    "de-DE": "100 Feinde mit dem Geschütz getötet",
+                    "en-US": "Killed 100 enemies with the Sabre turret",
+                    "es-ES": "Mataste a 100 enemigos con la torreta Sable.",
+                    "fr-FR": "Vous avez tué 100 ennemis à l'aide d'une tourelle Sabre",
+                    "it-IT": "Hai ucciso 100 nemici con la torretta Sabre",
+                    "ja-JP": "サーベル タレットで敵を100体倒した"
+                },
+                "howto": {
+                    "de-DE": "Töte 100 Feinde mit dem Geschütz",
+                    "en-US": "Kill 100 enemies with the Sabre turret",
+                    "es-ES": "Mata a 100 enemigos con la torreta Sable.",
+                    "fr-FR": "Tuer 100 ennemis à l'aide d'une tourelle Sabre",
+                    "it-IT": "Uccidi 100 nemici con la torretta Sabre",
+                    "ja-JP": "サーベル タレットで敵を100体倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "31.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Phasenweise Feindberührung",
+                    "en-US": "Phased and Confused",
+                    "es-ES": "¡Fíjate en mí!",
+                    "fr-FR": "Sous les verrous",
+                    "it-IT": "Confusi e felici",
+                    "ja-JP": "フェーズ マスター"
+                },
+                "description": {
+                    "de-DE": "100 Feinde gephaselocked",
+                    "en-US": "Phaselocked 100 enemies",
+                    "es-ES": "Fijaste a 100 enemigos.",
+                    "fr-FR": "Vous avez lancé un Verrouillage de phase sur 100 ennemis",
+                    "it-IT": "Hai messo in blocco di fase 100 nemici",
+                    "ja-JP": "敵を100体フェーズロックした"
+                },
+                "howto": {
+                    "de-DE": "Phaselocke 100 Feinde",
+                    "en-US": "Phaselock 100 enemies",
+                    "es-ES": "Fija a 100 enemigos.",
+                    "fr-FR": "Lancer un Verrouillage de phase sur 100 ennemis",
+                    "it-IT": "Metti in blocco di fase 100 nemici.",
+                    "ja-JP": "敵を100体フェーズロックする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "32.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "So viel Blut!",
+                    "en-US": "So Much Blood!",
+                    "es-ES": "¡Cuánta sangre!",
+                    "fr-FR": "Tempête sanglante",
+                    "it-IT": "Quanto sangue!",
+                    "ja-JP": "目の前が真っ赤だ！"
+                },
+                "description": {
+                    "de-DE": "Gunzerken für 90 Sekunden ununterbrochen angewendet",
+                    "en-US": "Gunzerked continuously for 90 seconds",
+                    "es-ES": "Usaste la Furia Gunzerker sin parar durante 90 segundos.",
+                    "fr-FR": "Vous avez défouraillé pendant 90 secondes d'affilée",
+                    "it-IT": "Hai gunzerkato per 90 secondi consecutivi",
+                    "ja-JP": "90秒間ガンザーキングし続けた"
+                },
+                "howto": {
+                    "de-DE": "Wende Gunzerken ununterbrochen für 90 Sekunden an",
+                    "en-US": "Gunzerk continuously for 90 seconds",
+                    "es-ES": "Usa la Furia Gunzerker sin parar durante 90 segundos.",
+                    "fr-FR": "Défourailler pendant 90 secondes d'affilée",
+                    "it-IT": "Gunzerka per 90 secondi consecutivi",
+                    "ja-JP": "90秒間ガンザーキングし続ける"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "33.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "Fette Beute",
+                    "en-US": "Cute Loot",
+                    "es-ES": "Bonito botín",
+                    "fr-FR": "En chair et sans os",
+                    "it-IT": "Bottino carino",
+                    "ja-JP": "大物だ！"
+                },
+                "description": {
+                    "de-DE": "Einen Fetten Feind getötet",
+                    "en-US": "Killed a Chubby",
+                    "es-ES": "Mataste a un enemigo regordete.",
+                    "fr-FR": "Vous avez tué un ennemi \"Charnu\"",
+                    "it-IT": "Hai ucciso un nemico ciccione",
+                    "ja-JP": "Chubby 系の敵を倒した"
+                },
+                "howto": {
+                    "de-DE": "Töte einen Fetten Feind",
+                    "en-US": "Kill a Chubby",
+                    "es-ES": "Mata a un enemigo regordete.",
+                    "fr-FR": "Tuer un ennemi \"Charnu\"",
+                    "it-IT": "Uccidi un nemico ciccione",
+                    "ja-JP": "Chubby 系の敵を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "34.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Hommage an einen Kammer-Jäger",
+                    "en-US": "Tribute To A Vault Hunter",
+                    "es-ES": "Tributo al buscador de la Cámara",
+                    "fr-FR": "Hommage à un Chasseur de l'Arche",
+                    "it-IT": "Onore al cacciatore della Cripta",
+                    "ja-JP": "Vault ハンターに捧ぐ..."
+                },
+                "description": {
+                    "de-DE": "Objekt von Michael Mamaril erhalten",
+                    "en-US": "Got an item from Michael Mamaril",
+                    "es-ES": "Conseguiste un objeto de Michael Mamaril.",
+                    "fr-FR": "Vous avez récupéré un objet de Michael Mamaril",
+                    "it-IT": "Hai ricevuto un oggetto da Michael Mamaril",
+                    "ja-JP": "Michael Mamaril からアイテムを入手した"
+                },
+                "howto": {
+                    "de-DE": "Erhalte ein Objekt von Michael Mamaril",
+                    "en-US": "Get an item from Michael Mamaril",
+                    "es-ES": "Consigue un objeto de Michael Mamaril.",
+                    "fr-FR": "Récupérer un objet de Michael Mamaril",
+                    "it-IT": "Ottieni un oggetto da Michael Mamaril",
+                    "ja-JP": "Michael Mamaril からアイテムを入手する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "35.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Klar, ein italienischer Klempner",
+                    "en-US": "Definitely An Italian Plumber",
+                    "es-ES": "Todo un fontanero italiano",
+                    "fr-FR": "Plombier italien",
+                    "it-IT": "Un idraulico italiano",
+                    "ja-JP": "そいつ、赤い帽子にヒゲじゃなかったか？"
+                },
+                "description": {
+                    "de-DE": "Donkey Mong getötet",
+                    "en-US": "Killed Donkey Mong",
+                    "es-ES": "Mataste a Donkey Mong.",
+                    "fr-FR": "Vous avez tué Donkey Mong",
+                    "it-IT": "Hai ucciso Donkey Mong",
+                    "ja-JP": "Donkey Mong を倒した"
+                },
+                "howto": {
+                    "de-DE": "Töte Donkey Mong",
+                    "en-US": "Kill Donkey Mong",
+                    "es-ES": "Mata a Donkey Mong.",
+                    "fr-FR": "Tuer Donkey Mong",
+                    "it-IT": "Uccidi Donkey Mong",
+                    "ja-JP": "Donkey Mong を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "36.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "Entenjagd",
+                    "en-US": "High-Flying Hurler",
+                    "es-ES": "Lanzamiento de altos vuelos",
+                    "fr-FR": "Ça vole plus très haut",
+                    "it-IT": "Lanciatore spettacolare",
+                    "ja-JP": "強肩ハンター"
+                },
+                "description": {
+                    "de-DE": "Fliegenden Feind mit geworfener Tediore-Waffe getötet",
+                    "en-US": "Killed a flying enemy with a thrown Tediore weapon",
+                    "es-ES": "Mataste a un enemigo volador al arrojarle un arma Tediore.",
+                    "fr-FR": "Vous avez tué un ennemi volant avec une arme à feu de lancer Tediore",
+                    "it-IT": "Hai ucciso un nemico in volo lanciando un'arma Tediore",
+                    "ja-JP": "Tediore の武器を投げて、飛行している敵を倒した"
+                },
+                "howto": {
+                    "de-DE": "Töte einen fliegenden Feind mit einer geworfenen Tediore-Waffe",
+                    "en-US": "Kill a flying enemy with a thrown Tediore weapon",
+                    "es-ES": "Mata a un enemigo volador al arrojarle un arma Tediore.",
+                    "fr-FR": "Tuer un ennemi volant avec une arme à feu de lancer Tediore",
+                    "it-IT": "Uccidi un nemico in volo lanciando un'arma Tediore",
+                    "ja-JP": "Tediore の武器を投げて飛行している敵を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "37.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "de-DE": "Token-Tanker",
+                    "en-US": "Token Gesture",
+                    "es-ES": "Gran canjeador",
+                    "fr-FR": "Une petite pièce ?",
+                    "it-IT": "Ballo del gettone",
+                    "ja-JP": "コイン収集家"
+                },
+                "description": {
+                    "de-DE": "25 Token eingelöst",
+                    "en-US": "Redeemed 25 tokens",
+                    "es-ES": "Canjeaste 25 códigos.",
+                    "fr-FR": "Vous avez utilisé 25 jetons",
+                    "it-IT": "Hai riscattato 25 gettoni",
+                    "ja-JP": "トークンを25枚交換した"
+                },
+                "howto": {
+                    "de-DE": "Löse 25 Token ein",
+                    "en-US": "Redeem 25 tokens",
+                    "es-ES": "Canjea 25 códigos.",
+                    "fr-FR": "Utiliser 25 jetons",
+                    "it-IT": "Riscatta 25 gettoni",
+                    "ja-JP": "トークンを25枚交換する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "38.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "de-DE": "Was hat das zu bedeuten?",
+                    "en-US": "What does it mean?",
+                    "es-ES": "¿Qué significa esto?",
+                    "fr-FR": "Hein ?!",
+                    "it-IT": "Che vuol dire?",
+                    "ja-JP": "どういう意味？"
+                },
+                "description": {
+                    "de-DE": "Davon kann ich nicht mal ein Foto schießen",
+                    "en-US": "I can't even capture it on my camera",
+                    "es-ES": "Ni siquiera puedo capturarlo con mi cámara.",
+                    "fr-FR": "J'arrive même pas à le prendre en photo",
+                    "it-IT": "Non riesco nemmeno a inquadrarlo",
+                    "ja-JP": "ファインダーに収まらない！"
+                },
+                "howto": {
+                    "de-DE": "<String Placeholder>",
+                    "en-US": null,
+                    "es-ES": "<String Placeholder>",
+                    "fr-FR": "<String Placeholder>",
+                    "it-IT": "<String Placeholder>",
+                    "ja-JP": "<String Placeholder>"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "39.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "Unsichtbarer Jäger",
+                    "en-US": "Unseen Predator",
+                    "es-ES": "Depredador invisible",
+                    "fr-FR": "Prédateur invisible",
+                    "it-IT": "Predatore invisibile",
+                    "ja-JP": "見えない敵"
+                },
+                "description": {
+                    "de-DE": "10 Sekunden am Stück in Zeros Täuschungs-Modus verharrt",
+                    "en-US": "Remained in Zero's Deception mode for ten seconds straight",
+                    "es-ES": "Permaneciste diez segundos seguidos en el modo Engaño de Cero.",
+                    "fr-FR": "Vous avez tenu dix secondes d'affilée dans le mode Leurr3 de Zero",
+                    "it-IT": "Sei rimasto in modalità Ingann0 di Zero per 10 secondi consecutivi ",
+                    "ja-JP": "デセプションを10秒間維持した"
+                },
+                "howto": {
+                    "de-DE": "Verharre 10 Sekunden am Stück in Zeros Täuschungs-Modus",
+                    "en-US": "Remain in Zero's Deception mode for ten seconds straight",
+                    "es-ES": "Permanece diez segundos seguidos en el modo Engaño de Cero.",
+                    "fr-FR": "Tenir dix secondes d'affilée dans le mode Leurr3 de Zero",
+                    "it-IT": "Rimani per 10 secondi consecutivi in modalità Ingann0",
+                    "ja-JP": "デセプションを10秒間維持する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "40.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "de-DE": "Montierer-Demontage",
+                    "en-US": "Build Buster",
+                    "es-ES": "Machaca constructores",
+                    "fr-FR": "Dézinguage express !",
+                    "it-IT": "Spaccacostruttori",
+                    "ja-JP": "仕事の邪魔だ！"
+                },
+                "description": {
+                    "de-DE": "Constructor erledigt, ohne dass er einen anderen Bot bauen konnte",
+                    "en-US": "Killed a Constructor without it ever building another bot",
+                    "es-ES": "Mataste a un constructor antes de que construyese otro robot.",
+                    "fr-FR": "Vous avez tué un Constructeur sans qu'il construise un seul autre robot",
+                    "it-IT": "Hai ucciso un costruttore prima che costruisse un altro robot",
+                    "ja-JP": "Constructor が他のロボットを作る前に倒した"
+                },
+                "howto": {
+                    "de-DE": "Erledige einen Constructor, ohne dass er einen anderen Bot bauen kann",
+                    "en-US": "Kill a Constructor without it ever building another bot",
+                    "es-ES": "Mata a un constructor antes de que construya otro robot.",
+                    "fr-FR": "Tuer un Constructeur sans qu'il construise un seul autre robot",
+                    "it-IT": "Uccidi un costruttore prima che riesca a costruire un altro robot",
+                    "ja-JP": "Constructor が他のロボットを作る前に倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "41.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "Das war ja leicht",
+                    "en-US": "Well That Was Easy",
+                    "es-ES": "Vaya, ¡qué fácil!",
+                    "fr-FR": "Fastoche !",
+                    "it-IT": "Un gioco da ragazzi",
+                    "ja-JP": "今のがミッション？"
+                },
+                "description": {
+                    "de-DE": "Mission \"Schieß dem Kerl ins Gesicht\" abgeschlossen",
+                    "en-US": "Completed the mission \"Shoot This Guy in the Face\"",
+                    "es-ES": "Completaste la misión \"Un tiro en cara ajena\".",
+                    "fr-FR": "Vous avez terminé la mission \"Tir en pleine tête\"",
+                    "it-IT": "Hai completato la missione \"Spara in faccia a questo tizio\"",
+                    "ja-JP": "「あの顔を撃つのはあなた」をクリアした"
+                },
+                "howto": {
+                    "de-DE": "<String Placeholder>",
+                    "en-US": null,
+                    "es-ES": "<String Placeholder>",
+                    "fr-FR": "<String Placeholder>",
+                    "it-IT": "<String Placeholder>",
+                    "ja-JP": "<String Placeholder>"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "42.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "Wie seh' ich aus?",
+                    "en-US": "How Do I Look?",
+                    "es-ES": "¿Qué tal me queda?",
+                    "fr-FR": "J'ai l'air de quoi ?",
+                    "it-IT": "Come sto?",
+                    "ja-JP": "ファッション ショー"
+                },
+                "description": {
+                    "de-DE": "10 Anpassungs-Objekte freigeschaltet",
+                    "en-US": "Unlocked 10 customization items",
+                    "es-ES": "Desbloqueaste 10 objetos de personalización.",
+                    "fr-FR": "Vous avez débloqué 10 objets de personnalisation",
+                    "it-IT": "Hai sbloccato 10 oggetti per la personalizzazione",
+                    "ja-JP": "カスタマイズ アイテムを10個アンロックした"
+                },
+                "howto": {
+                    "de-DE": "Schalte 10 Anpassungs-Objekte frei",
+                    "en-US": "Unlock 10 customization items",
+                    "es-ES": "Desbloquea 10 objetos de personalización.",
+                    "fr-FR": "Débloquer 10 objets de personnalisation",
+                    "it-IT": "Sblocca 10 oggetti per la personalizzazione",
+                    "ja-JP": "カスタマイズ アイテムを10個アンロックする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "43.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "de-DE": "Wohl doch nicht so \"unbesiegbar\"",
+                    "en-US": "Thresher Thrashed",
+                    "es-ES": "Trillador destrozado",
+                    "fr-FR": "Moissonneuse boiteuse",
+                    "it-IT": "Thresher tranciato",
+                    "ja-JP": "Thresher スマッシャー"
+                },
+                "description": {
+                    "de-DE": "Du hast Terramorphous den Unbesiegbaren besiegt",
+                    "en-US": "Defeated Terramorphous the Invincible",
+                    "es-ES": "Derrotaste a Terramorfo el Invencible.",
+                    "fr-FR": "Vous avez vaincu Terramorphous l'Invincible",
+                    "it-IT": "Hai sconfitto Terramorphous l'Invincibile",
+                    "ja-JP": "Terramorphous the Invincible を倒した"
+                },
+                "howto": {
+                    "de-DE": "<String Placeholder>",
+                    "en-US": null,
+                    "es-ES": "<String Placeholder>",
+                    "fr-FR": "<String Placeholder>",
+                    "it-IT": "<String Placeholder>",
+                    "ja-JP": "<String Placeholder>"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "44.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein Freund, ein guter Freund...",
+                    "en-US": "Friendship Rules",
+                    "es-ES": "Amigos para siempre",
+                    "fr-FR": "L'amitié avant tout",
+                    "it-IT": "L'amicizia è importante",
+                    "ja-JP": "ハンターの固い絆"
+                },
+                "description": {
+                    "de-DE": "Jemanden im \"Kämpfe um dein Leben!\" wiederbelebt, der auf deiner Freundesliste steht",
+                    "en-US": "Revived someone from \"Fight for Your Life!\" that is on your friends list",
+                    "es-ES": "Reviviste del estado de \"lucha por tu vida\" a alguien que está en tu lista de amigos.",
+                    "fr-FR": "Vous avez ranimé quelqu'un de votre liste d'amis au cours d'un \"Combat pour la survie\"",
+                    "it-IT": "Hai rianimato un amico mentre era in modalità \"Lotta per la vita!\"",
+                    "ja-JP": "フレンド リストに登録されているプレイヤーを“戦って生き延びろ！”状態から回復させた"
+                },
+                "howto": {
+                    "de-DE": "Belebe jemanden im \"Kämpfe um dein Leben!\" wieder, der auf deiner Freundesliste steht",
+                    "en-US": "Revive someone from \"Fight for Your Life!\" that is on your friends list",
+                    "es-ES": "Revive del estado de \"lucha por tu vida\" a alguien que esté en tu lista de amigos.",
+                    "fr-FR": "Ranimer quelqu'un de votre liste d'amis durant un \"Combat pour la survie !\"",
+                    "it-IT": "Rianima un amico mentre è in modalità \"Lotta per la vita!\"",
+                    "ja-JP": "フレンド リストに登録されているプレイヤーを“戦って生き延びろ！”状態から回復させる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "45.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "Besser als Geld",
+                    "en-US": "Better Than Money",
+                    "es-ES": "Mejor que el dinero",
+                    "fr-FR": "Mieux que le fric",
+                    "it-IT": "Meglio dei soldi",
+                    "ja-JP": "金よりも大事な..."
+                },
+                "description": {
+                    "de-DE": "5 Objekte auf dem Schwarzmarkt gekauft",
+                    "en-US": "Purchased 5 items from the black market",
+                    "es-ES": "Compraste 5 artículos en el mercado negro.",
+                    "fr-FR": "Vous avez acheté 5 objets au marché noir",
+                    "it-IT": "Hai acquistato 5 oggetti dal mercato nero",
+                    "ja-JP": "ブラックマーケットでアイテムを5個買った"
+                },
+                "howto": {
+                    "de-DE": "Kaufe 5 Objekte auf dem Schwarzmarkt",
+                    "en-US": "Purchase 5 items from the black market",
+                    "es-ES": "Compra 5 artículos en el mercado negro.",
+                    "fr-FR": "Acheter 5 objets au marché noir",
+                    "it-IT": "Acquista 5 oggetti dal mercato nero",
+                    "ja-JP": "ブラックマーケットでアイテムを5個買え"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "46.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "de-DE": "Abgeklatscht",
+                    "en-US": "Up High, Down Low",
+                    "es-ES": "¡Chócala!",
+                    "fr-FR": "Tape-m'en cinq !",
+                    "it-IT": "Cinque in alto, cinque in basso",
+                    "ja-JP": "ピシ、ガシ、グッ、グッ"
+                },
+                "description": {
+                    "de-DE": "Claptrap ein High Five gegeben",
+                    "en-US": "Gave Claptrap a high five",
+                    "es-ES": "Chocaste esos cinco con el Claptrap.",
+                    "fr-FR": "Vous avez fait un high-five à Claptrap",
+                    "it-IT": "Hai dato il cinque a Claptrap",
+                    "ja-JP": "Claptrap とハイタッチした"
+                },
+                "howto": {
+                    "de-DE": "Gib Claptrap ein High Five",
+                    "en-US": "Give Claptrap a high five",
+                    "es-ES": "Choca esos cinco con el Claptrap.",
+                    "fr-FR": "Faire un high-five à Claptrap",
+                    "it-IT": "Dai il cinque a Claptrap",
+                    "ja-JP": "Claptrap とハイタッチする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "47.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "de-DE": "Kopfgeldjäger",
+                    "en-US": "Bounty Hunter",
+                    "es-ES": "Cazarrecompensas",
+                    "fr-FR": "Chasseur de primes",
+                    "it-IT": "Cacciatore di taglie",
+                    "ja-JP": "賞金稼ぎ"
+                },
+                "description": {
+                    "de-DE": "20 Nebenmissionen abgeschlossen",
+                    "en-US": "Completed 20 side missions",
+                    "es-ES": "Completaste 20 misiones secundarias.",
+                    "fr-FR": "Vous avez terminé 20 missions secondaires",
+                    "it-IT": "Hai completato 20 missioni secondarie",
+                    "ja-JP": "サイド ミッションを20個クリアした"
+                },
+                "howto": {
+                    "de-DE": "Erfülle 20 Nebenmissionen",
+                    "en-US": "Complete 20 side missions",
+                    "es-ES": "Completa 20 misiones secundarias.",
+                    "fr-FR": "Teminer 20 missions secondaires",
+                    "it-IT": "Completa 20 missioni secondarie",
+                    "ja-JP": "サイド ミッションを20個クリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "48.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "Alles erledigt",
+                    "en-US": "Did It All",
+                    "es-ES": "¡Ya están todas!",
+                    "fr-FR": "J'ai tout fini !",
+                    "it-IT": "Completista",
+                    "ja-JP": "できない仕事はない"
+                },
+                "description": {
+                    "de-DE": "Alle Nebenmissionen abgeschlossen",
+                    "en-US": "Completed all side missions",
+                    "es-ES": "Completaste todas las misiones secundarias.",
+                    "fr-FR": "Vous avez terminé toutes les missions secondaires",
+                    "it-IT": "Hai completato tutte le missioni secondarie",
+                    "ja-JP": "サイド ミッションを全てクリアした"
+                },
+                "howto": {
+                    "de-DE": "Schließe alle Nebenmissionen ab",
+                    "en-US": "Complete all side missions",
+                    "es-ES": "Completa todas las misiones secundarias.",
+                    "fr-FR": "Terminer toutes les missions secondaires",
+                    "it-IT": "Completa tutte le missioni secondarie",
+                    "ja-JP": "サイド ミッションを全てクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "49.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "de-DE": "Mein allererstes Mal",
+                    "en-US": "Feels Like The First Time",
+                    "es-ES": "Como si fuera la primera vez",
+                    "fr-FR": "À l'ancienne",
+                    "it-IT": "Come la prima volta",
+                    "ja-JP": "デジャヴュ"
+                },
+                "description": {
+                    "de-DE": "Kiste an der Bushaltestelle in Fyrestone geöffnet",
+                    "en-US": "Opened the chest at the bus stop in Fyrestone",
+                    "es-ES": "Abriste el cofre de la parada de autobús de Fyrestone.",
+                    "fr-FR": "Vous avez ouvert le coffre à l'arrêt de bus de Fyrestone",
+                    "it-IT": "Hai aperto la cassa alla fermata dell'autobus di Fyrestone",
+                    "ja-JP": "Fyrestone のバス停にある箱を開けた"
+                },
+                "howto": {
+                    "de-DE": "<String Placeholder>",
+                    "en-US": null,
+                    "es-ES": "<String Placeholder>",
+                    "fr-FR": "<String Placeholder>",
+                    "it-IT": "<String Placeholder>",
+                    "ja-JP": "<String Placeholder>"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "50.png"
+        },
+        "51": {
+            "text": {
+                "name": {
+                    "de-DE": "Schatzjäger",
+                    "en-US": "Treasure Hunter",
+                    "es-ES": "Cazatesoros",
+                    "fr-FR": "Chasseur de trésors",
+                    "it-IT": "Cacciatore di tesori",
+                    "ja-JP": "トレジャー ハンター"
+                },
+                "description": {
+                    "de-DE": "Mission \"Ein X Markiert Die Stelle\" abgeschlossen",
+                    "en-US": "Completed the mission \"X Marks the Spot\"",
+                    "es-ES": "Completaste la misión \"La X señala el lugar\".",
+                    "fr-FR": "Vous avez terminé la mission \"La lumière du phare de Magnys\"",
+                    "it-IT": "Hai completato la missione \"Il posto è segnato da una X\"",
+                    "ja-JP": "「X がお宝の目印 」をクリアした"
+                },
+                "howto": {
+                    "de-DE": "Schließe die Mission \"Ein X Markiert Die Stelle\" ab",
+                    "en-US": "Complete the mission \"X Marks the Spot\"",
+                    "es-ES": "Completa la misión \"La X señala el lugar\".",
+                    "fr-FR": "Terminer la mission \"La lumière du phare de Magnys\"",
+                    "it-IT": "Completa la missione \"Il posto è segnato da una X\"",
+                    "ja-JP": "「X がお宝の目印 」をクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "75",
+            "imageId": "51.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "de-DE": "Herumtreiber",
+                    "en-US": "Gadabout",
+                    "es-ES": "Trotamundos",
+                    "fr-FR": "Globe-trotteur",
+                    "it-IT": "Girovago",
+                    "ja-JP": "砂漠の探検家"
+                },
+                "description": {
+                    "de-DE": "Alle mit Namen versehenen Orte in Oasis und den umliegenden Piratenschatz-Zonen wurden entdeckt",
+                    "en-US": "Discovered all named locations in Oasis and the surrounding Pirate's Booty zones",
+                    "es-ES": "Descubriste todos los lugares con nombre en Oasis y las zonas circundantes de Botín pirata.",
+                    "fr-FR": "Vous avez découvert tous les lieux d'Oasis et des zones Butin de pirate environnantes",
+                    "it-IT": "Hai scoperto tutti i luoghi col nome a Oasis e nelle zone circostanti di Bottino dei pirati",
+                    "ja-JP": "「海賊の秘宝」マップ（Oasis および周辺エリア）の名前のついた場所を全て発見した"
+                },
+                "howto": {
+                    "de-DE": "Entdecke alle mit Namen versehenen Orte in Oasis und den umliegenden Piratenschatz-Zonen",
+                    "en-US": "Discover all named locations in Oasis and the surrounding Pirate's Booty zones",
+                    "es-ES": "Descubre todos los lugares con nombre en Oasis y las zonas circundantes de Botín pirata.",
+                    "fr-FR": "Découvrir tous les lieux d'Oasis et des zones Butin de pirate environnantes",
+                    "it-IT": "Scopri tutti i luoghi col nome a Oasis e nelle zone circostanti di Bottino dei pirati",
+                    "ja-JP": "「海賊の秘宝」マップ（Oasis および周辺エリア）の名前のついた場所を全て発見する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "52.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "de-DE": "Vollender",
+                    "en-US": "Completionist",
+                    "es-ES": "Completista",
+                    "fr-FR": "Complétiste",
+                    "it-IT": "Perfezionista",
+                    "ja-JP": "完全主義"
+                },
+                "description": {
+                    "de-DE": "Alle Piratenschatz-Nebenmissionen abgeschlossen",
+                    "en-US": "Completed all Pirate's Booty side missions",
+                    "es-ES": "Completaste todas las misiones opcionales de Botín pirata.",
+                    "fr-FR": "Vous avez terminé toutes les missions secondaires Butin de pirate",
+                    "it-IT": "Hai completato tutte le missioni secondarie di Bottino dei pirati",
+                    "ja-JP": "「海賊の秘宝」の全サイド ミッションをクリアした"
+                },
+                "howto": {
+                    "de-DE": "Schließe alle Piratenschatz-Nebenmissionen ab",
+                    "en-US": "Complete all Pirate's Booty side missions",
+                    "es-ES": "Completa todas las misiones opcionales de Botín pirata.",
+                    "fr-FR": "Terminer toutes les missions secondaires Butin de pirate",
+                    "it-IT": "Completa tutte le missioni secondarie di Bottino dei pirati",
+                    "ja-JP": "「海賊の秘宝」の全サイド ミッションをクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "53.png"
+        },
+        "54": {
+            "text": {
+                "name": {
+                    "de-DE": "Explosiv",
+                    "en-US": "Explosive",
+                    "es-ES": "Explosivo",
+                    "fr-FR": "Explosif",
+                    "it-IT": "Esplosivo",
+                    "ja-JP": "エクスプローシブ"
+                },
+                "description": {
+                    "de-DE": "Mission \"Der lange Weg\" abgeschlossen",
+                    "en-US": "Completed the mission \"Long Way To The Top\"",
+                    "es-ES": "Completaste la misión \"El largo camino hacia la cima\"",
+                    "fr-FR": "Vous avez terminé la mission \"En route vers le top\"",
+                    "it-IT": "Hai completato la missione \"La strada verso il successo\"",
+                    "ja-JP": "「遥かな頂点」をクリアした"
+                },
+                "howto": {
+                    "de-DE": "Schließe Mission \"Der lange Weg\" ab",
+                    "en-US": "Complete the mission \"Long Way To The Top\"",
+                    "es-ES": "Completa la misión \"El largo camino hacia la cima\"",
+                    "fr-FR": "Terminer la mission \"En route vers le top\"",
+                    "it-IT": "Completa la missione \"La strada verso il successo\"",
+                    "ja-JP": "「遥かな頂点」をクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "54.png"
+        },
+        "55": {
+            "text": {
+                "name": {
+                    "de-DE": "Autonarr",
+                    "en-US": "Motorhead",
+                    "es-ES": "Cabeza de Mötor",
+                    "fr-FR": "Tête de Motëur",
+                    "it-IT": "Meccanico",
+                    "ja-JP": "エンジン全開"
+                },
+                "description": {
+                    "de-DE": "Alle Nebenmissionen in Kampagne des Metzelns abgeschlossen",
+                    "en-US": "Completed all Campaign of Carnage side missions",
+                    "es-ES": "Completaste las misiones secundarias de la Escabechina sangrienta",
+                    "fr-FR": "Vous avez terminé toutes les missions secondaires de Carnage Sanglant",
+                    "it-IT": "Hai completato tutte le missioni secondarie di Campagna del Massacro",
+                    "ja-JP": "「キラー トーナメント」の全サイド ミッションをクリアした"
+                },
+                "howto": {
+                    "de-DE": "Schließe alle Nebenmissionen in Kampagne des Metzelns ab",
+                    "en-US": "Complete all Campaign of Carnage side missions",
+                    "es-ES": "Completa las misiones secundarias de Escabechina sangrienta",
+                    "fr-FR": "Terminer toutes les missions secondaires de Carnage Sanglant",
+                    "it-IT": "Completa tutte le missioni secondarie di Campagna del Massacro",
+                    "ja-JP": "「キラー トーナメント」の全サイド ミッションをクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "55.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "de-DE": "Besessen",
+                    "en-US": "Obsessed",
+                    "es-ES": "Obseso",
+                    "fr-FR": "Obsédé",
+                    "it-IT": "Ossessionato",
+                    "ja-JP": "コレクター"
+                },
+                "description": {
+                    "de-DE": "10 Bilder von Moxxi in Kampagne des Metzelns gesammelt",
+                    "en-US": "Collected 10 pictures of Moxxi in Campaign of Carnage",
+                    "es-ES": "Recogiste 10 fotos de Moxxi en la Escabechina sangrienta",
+                    "fr-FR": "Vous avez trouvé 10 photos de Moxxi dans Carnage Sanglant",
+                    "it-IT": "Hai raccolto 10 foto di Moxxi in Campagna del Massacro",
+                    "ja-JP": "「キラー トーナメント」で Moxxi のブロマイドを10枚集めた"
+                },
+                "howto": {
+                    "de-DE": "Sammle 10 Bilder von Moxxi in Kampagne des Metzelns",
+                    "en-US": "Collect 10 pictures of Moxxi in Campaign of Carnage",
+                    "es-ES": "Recoge 10 fotos de Moxxi en Escabechina sangrienta",
+                    "fr-FR": "Trouver 10 photos de Moxxi dans Carnage Sanglant",
+                    "it-IT": "Raccogli 10 foto di Moxxi in Campagna del Massacro",
+                    "ja-JP": "「キラー トーナメント」で Moxxi のブロマイドを10枚集めろ"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "45",
+            "imageId": "56.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "de-DE": "Konfrontation",
+                    "en-US": "Face Off",
+                    "es-ES": "Cara a cara",
+                    "fr-FR": "Face à face",
+                    "it-IT": "Giù la maschera",
+                    "ja-JP": "対決"
+                },
+                "description": {
+                    "de-DE": "Die Mission \"Nakayamas Sturz\" beendet",
+                    "en-US": "Completed the mission \"The Fall of Nakayama\"",
+                    "es-ES": "Completaste la misión \"La caída de Nakayama\"",
+                    "fr-FR": "Vous avez terminé la mission \"La Chute de Nakayama\".",
+                    "it-IT": "Hai completato la missione \"La caduta di Nakayama\"",
+                    "ja-JP": "ミッション「Nakayama 最後のあがき」を完了した"
+                },
+                "howto": {
+                    "de-DE": "Beende die Mission \"Nakayamas Sturz\"",
+                    "en-US": "Complete the mission \"The Fall of Nakayama\"",
+                    "es-ES": "Completa la misión \"La caída de Nakayama\"",
+                    "fr-FR": "Terminer la mission \"La Chute de Nakayama\"",
+                    "it-IT": "Completa la missione \"La caduta di Nakayama\"",
+                    "ja-JP": "ミッション「Nakayama 最後のあがき」を完了する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "57.png"
+        },
+        "58": {
+            "text": {
+                "name": {
+                    "de-DE": "Hab ich schon gemacht",
+                    "en-US": "Done That",
+                    "es-ES": "Yo vuelvo",
+                    "fr-FR": "Ça, c'est fait !",
+                    "it-IT": "Questo è fatto",
+                    "ja-JP": "お使い完了"
+                },
+                "description": {
+                    "de-DE": "Alle Nebenmissionen von Hammerlocks Jagd beendet",
+                    "en-US": "Completed all Hammerlock's Hunt side missions ",
+                    "es-ES": "Completaste todas las misiones secundarias en Caza con Hammerlock",
+                    "fr-FR": "Vous avez terminé toutes les missions secondaires de La Chasse d'Hammerlock",
+                    "it-IT": "Hai completato tutte le missioni secondarie di A caccia con Hammerlock",
+                    "ja-JP": "「Hammerlock のハンティング紀行」のサイドミッションをすべて完了した"
+                },
+                "howto": {
+                    "de-DE": "Beende alle Nebenmissionen von Hammerlocks Jagd",
+                    "en-US": "Complete all Hammerlock's Hunt side missions ",
+                    "es-ES": "Completa todas las misiones secundarias en Caza con Hammerlock",
+                    "fr-FR": "Terminer toutes les missions secondaires de La Chasse d'Hammerlock",
+                    "it-IT": "Completa tutte le missioni secondarie di A caccia con Hammerlock",
+                    "ja-JP": "「Hammerlock のハンティング紀行」のサイドミッションをすべて完了する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "58.png"
+        },
+        "59": {
+            "text": {
+                "name": {
+                    "de-DE": "Bin ich schon gewesen",
+                    "en-US": "Been There",
+                    "es-ES": "Cuando tú vas",
+                    "fr-FR": "Ça, c'est vu !",
+                    "it-IT": "Ci sono stato",
+                    "ja-JP": "足で稼いだ"
+                },
+                "description": {
+                    "de-DE": "Alle mit Namen versehenen Orte in Hammerlocks Jagd entdeckt",
+                    "en-US": "Discovered all named locations in Hammerlock's Hunt",
+                    "es-ES": "Descubriste todos los lugares en Caza con Hammerlock",
+                    "fr-FR": "Vous avez découvert tous les lieux de La Chasse d'Hammerlock",
+                    "it-IT": "Hai scoperto tutti i luoghi di A caccia con Hammerlock",
+                    "ja-JP": "「Hammerlock のハンティング紀行」に登場するすべての地名を発見した"
+                },
+                "howto": {
+                    "de-DE": "Entdecke alle mit Namen versehenen Orte in Hammerlocks Jagd",
+                    "en-US": "Discover all named locations in Hammerlock's Hunt",
+                    "es-ES": "Descubre todos los lugares en Caza con Hammerlock",
+                    "fr-FR": "Découvrir tous les lieux de La Chasse d'Hammerlock",
+                    "it-IT": "Scopri tutti i luoghi di A caccia con Hammerlock",
+                    "ja-JP": "「Hammerlock のハンティング紀行」に登場するすべての地名を発見する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "45",
+            "imageId": "59.png"
+        },
+        "60": {
+            "text": {
+                "name": {
+                    "de-DE": "Den Boss hab ich voll geplant",
+                    "en-US": "I Totes Planned That Boss",
+                    "es-ES": "Lo tenía todo planeado",
+                    "fr-FR": "Boss massacré",
+                    "it-IT": "Quel boss era come lo volevo",
+                    "ja-JP": "最初から出すつもりだったの！"
+                },
+                "description": {
+                    "de-DE": "Meister Knochenhosentyp erschlagen",
+                    "en-US": "Slew Mister Boney Pants Guy",
+                    "es-ES": "Acabasteis con don Calzón Huesitos",
+                    "fr-FR": "Vous avez tué Monsieur Tiny Tibia Man.",
+                    "it-IT": "Hai ucciso Mister Culo Ossuto",
+                    "ja-JP": "Mr. Boney Pants Guy を倒した"
+                },
+                "howto": {
+                    "de-DE": "Erschlage Meister Knochenhosentyp",
+                    "en-US": "Slay Mister Boney Pants Guy",
+                    "es-ES": "Acabad con don Calzón Huesitos",
+                    "fr-FR": "Tuer Monsieur Tiny Tibia Man.",
+                    "it-IT": "Uccidi Mister Culo Ossuto",
+                    "ja-JP": "Mr. Boney Pants Guy を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "60.png"
+        },
+        "61": {
+            "text": {
+                "name": {
+                    "de-DE": "Jaaaaaa!",
+                    "en-US": "Yaaaaaay",
+                    "es-ES": "¡Hurraaa!",
+                    "fr-FR": "Yaaaaaay !",
+                    "it-IT": "Yaaaaaay!",
+                    "ja-JP": "イェーーーイ！"
+                },
+                "description": {
+                    "de-DE": "Euer Selbst dem Weißen Ritter vorgestellt",
+                    "en-US": "Introduced thyself to the White Knight",
+                    "es-ES": "Os presentasteis ante el caballero blanco",
+                    "fr-FR": "Vous vous êtes présenté au Chevalier blanc.",
+                    "it-IT": "Ti sei presentato al cavaliere bianco",
+                    "ja-JP": "白騎士と会った"
+                },
+                "howto": {
+                    "de-DE": "Stellt Euer Selbst dem Weißen Ritter vor",
+                    "en-US": "Introduce thyself to the White Knight",
+                    "es-ES": "Presentáos ante el caballero blanco",
+                    "fr-FR": "Présentez-vous au Chevalier blanc.",
+                    "it-IT": "Presentati al cavaliere bianco",
+                    "ja-JP": "白騎士と会う"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "61.png"
+        },
+        "62": {
+            "text": {
+                "name": {
+                    "de-DE": "Kurzer, du so hart",
+                    "en-US": "Shorty, You So Best",
+                    "es-ES": "Colega, eres el mejor",
+                    "fr-FR": "T'assures, Gamine !",
+                    "it-IT": "A breve, o grande fra i grandi",
+                    "ja-JP": "美脚の女王"
+                },
+                "description": {
+                    "de-DE": "Euer Streben jene Königin zu retten abgeschlossen",
+                    "en-US": "Completed thy quest by rescuing yonder queen",
+                    "es-ES": "Completasteis vuestra encomienda auxiliando a la reina",
+                    "fr-FR": "Vous avez terminé la quête en sauvant la reine.",
+                    "it-IT": "Hai completato la tua missione salvando quella regina",
+                    "ja-JP": "行方不明の女王を救い出した"
+                },
+                "howto": {
+                    "de-DE": "Schließt Euer Streben, jene Königin zu retten, ab",
+                    "en-US": "Complete thy quest by rescuing yonder queen",
+                    "es-ES": "Completad vuestra encomienda auxiliando a la reina",
+                    "fr-FR": "Terminer la quête en sauvant la reine.",
+                    "it-IT": "Completa la tua missione salvando quella regina",
+                    "ja-JP": "行方不明の女王を救い出す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "60",
+            "imageId": "62.png"
+        },
+        "63": {
+            "text": {
+                "name": {
+                    "de-DE": "Mädel braucht Futter",
+                    "en-US": "Girl's Gotta Eat",
+                    "es-ES": "Manduca para la niña",
+                    "fr-FR": "Une fille doit aussi se nourrir",
+                    "it-IT": "La ragazza deve nutrirsi",
+                    "ja-JP": "こう見えてお腹がすくんです"
+                },
+                "description": {
+                    "de-DE": "Euer edles Ross 3 mal, während desselben Besuchs der Ställe, gefüttert",
+                    "en-US": "Fed thy noble queen 3 times during one visit to her quarters",
+                    "es-ES": "Alimentasteis 3 veces al noble corcel en una visita a sus establos ",
+                    "fr-FR": "Vous avez nourri le noble destrier 3 fois lors d'une seule visite à l'écurie.",
+                    "it-IT": "Hai nutrito il tuo nobile destriero 3 volte durante una visita alle stalle",
+                    "ja-JP": "1 回の馬小屋への訪問で、3 回馬に餌をやった"
+                },
+                "howto": {
+                    "de-DE": "Füttert Euer edles Ross 3 mal, während desselben Besuchs der Ställe",
+                    "en-US": "Feed thy noble queen 3 times during one visit to her quarters",
+                    "es-ES": "Alimentad 3 veces al noble corcel en una visita a sus establos",
+                    "fr-FR": "Nourrir le noble destrier 3 fois lors d'une seule visite à l'écurie.",
+                    "it-IT": "Nutri il tuo nobile destriero 3 volte durante una visita alle stalle",
+                    "ja-JP": "1 回の馬小屋への訪問で、3 回馬に餌をやる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "63.png"
+        },
+        "64": {
+            "text": {
+                "name": {
+                    "de-DE": "Wie in dem einen Video",
+                    "en-US": "It's Like That One Video",
+                    "es-ES": "Como en aquel vídeo",
+                    "fr-FR": "C'est comme cette vidéo",
+                    "it-IT": "È come in quel video",
+                    "ja-JP": "ゲームの救世主"
+                },
+                "description": {
+                    "de-DE": "Eurem ärgsten Feind, der Abscheuligkeit ''Finsternis'', gezeigt, wer der größte Nerd von Allen ist",
+                    "en-US": "Showed thine worst enemy, the abomination known as \"The Darkness,\" who is the nerdiest of them all",
+                    "es-ES": "Demostrasteis a vuestra enemiga mortal \"la Oscuridad\" quién es el más friki",
+                    "fr-FR": "Vous avez montré à votre pire ennemi, l'abomination ''Les Ténèbres'', qui est le plus gros geek.",
+                    "it-IT": "Hai smascherato il tuo peggior nemico, l'abominio noto come ''L'Oscurità'',  il più strano di tutti",
+                    "ja-JP": "The Darkness と呼ばれる宿敵に打ち勝った"
+                },
+                "howto": {
+                    "de-DE": "Zeigt Eurem ärgsten Feind, der Abscheuligkeit ''Finsternis'', wer der größte Nerd von Allen ist",
+                    "en-US": "Show thine worst enemy, the abomination known as \"The Darkness,\" who is the nerdiest of them all",
+                    "es-ES": "Demostrad a vuestra enemiga mortal \"la Oscuridad\" quién es el más friki",
+                    "fr-FR": "Montrez à votre pire ennemi, l'abomination ''Les Ténèbres'', qui est le plus gros geek.",
+                    "it-IT": "Smaschera il tuo peggior nemico, l'abominio noto come ''L'Oscurità'', il più strano di tutti",
+                    "ja-JP": "The Darkness と呼ばれる宿敵に打ち勝つ"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "64.png"
+        },
+        "65": {
+            "text": {
+                "name": {
+                    "de-DE": "Und die so \"Hey, das ist meins\"",
+                    "en-US": "They Was All \"Hey That's Mine\"",
+                    "es-ES": "Se me pusieron chulos",
+                    "fr-FR": "Hé, c'est à moi ça !",
+                    "it-IT": "Erano tutti \"Ehi quella è mia\"",
+                    "ja-JP": "勇者のあかし"
+                },
+                "description": {
+                    "de-DE": "5 Schwerter aus wachen Unsterblichen Skeletauren gezogen, ohne die Umgebung zu verlassen",
+                    "en-US": "Unsheathed 5 swords from Immortal Skeletaurs without leaving the area",
+                    "es-ES": "Desenvainasteis 5 espadas de skeletaurs inmortales sin abandonar el nivel",
+                    "fr-FR": "Vous avez retiré 5 épées de Squelettaures Immortels vivants sans quitter la zone.",
+                    "it-IT": "Hai estratto 5 spade dagli scheletauri immortali senza lasciare l'area",
+                    "ja-JP": "エリアを離れずに、Immortal Skeletaur 5 体から剣を引き抜いた"
+                },
+                "howto": {
+                    "de-DE": "Ziehe 5 Schwerter aus wachen Unsterblichen Skeletauren, ohne die Umgebung zu verlassen",
+                    "en-US": "Unsheath 5 swords from Immortal Skeletaurs without leaving the area",
+                    "es-ES": "Desenvainad 5 espadas de skeletaurs inmortales sin abandonar el nivel",
+                    "fr-FR": "Retirer 5 épées de Squelettaures Immortels vivants sans quitter la zone.",
+                    "it-IT": "Estrai 5 spade dagli scheletauri immortali senza lasciare l'area",
+                    "ja-JP": "エリアを離れずに、Immortal Skeletaur 5 体から剣を引き抜く"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "65.png"
+        },
+        "66": {
+            "text": {
+                "name": {
+                    "de-DE": "Verdammt, du bist ja hammerhart",
+                    "en-US": "Dang Girl You Ace At This Game",
+                    "es-ES": "Tía, estás que te sales",
+                    "fr-FR": "T'es vachement forte à ce jeu !",
+                    "it-IT": "Danza, ragazza, vai forte",
+                    "ja-JP": "エース Vault ハンター"
+                },
+                "description": {
+                    "de-DE": "Die schwerste Runde in Mörderlins Tempel gewonnen",
+                    "en-US": "Won the most challenging round in Murderlin's Temple",
+                    "es-ES": "Triunfasteis en la ronda más exigente del Templo de Asesín",
+                    "fr-FR": "Vous avez remporté le round le plus dur dans Murderlin's Temple.",
+                    "it-IT": "Hai vinto il round più difficile nel Murderlin's Temple",
+                    "ja-JP": "Murderlin's Temple で、最難関の試練を乗り越えた"
+                },
+                "howto": {
+                    "de-DE": "Gewinne die schwerste Runde in Mörderlins Tempel",
+                    "en-US": "Win the most challenging round in Murderlin's Temple",
+                    "es-ES": "Triunfad en la ronda más exigente del Templo de Asesín",
+                    "fr-FR": "Remporter le round le plus dur dans Murderlin's Temple.",
+                    "it-IT": "Vinci il round più difficile nel Murderlin's Temple",
+                    "ja-JP": "Murderlin's Temple で、最難関の試練を乗り越える"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "66.png"
+        },
+        "67": {
+            "text": {
+                "name": {
+                    "de-DE": "Hmmmmm",
+                    "en-US": "Hmmmmm",
+                    "es-ES": "Hmmmm",
+                    "fr-FR": "Hmmmmm",
+                    "it-IT": "Hmmmmm",
+                    "ja-JP": "なんかいい感じ！"
+                },
+                "description": {
+                    "de-DE": "Das Mysteriöse Amulett getragen",
+                    "en-US": "Wielded the Mysterious Amulet",
+                    "es-ES": "Empuñasteis el misterioso amuleto ",
+                    "fr-FR": "Vous avez porté l'Amulette mystérieuse.",
+                    "it-IT": "Hai brandito l'amuleto misterioso",
+                    "ja-JP": "謎のアミュレットを身につけた"
+                },
+                "howto": {
+                    "de-DE": "Trage das Mysteriöse Amulett",
+                    "en-US": "Wield the Mysterious Amulet",
+                    "es-ES": "Empuñad el misterioso amuleto",
+                    "fr-FR": "Porter l'Amulette mystérieuse.",
+                    "it-IT": "Brandisci l'amuleto misterioso",
+                    "ja-JP": "謎のアミュレットを身につける"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "67.png"
+        },
+        "68": {
+            "text": {
+                "name": {
+                    "de-DE": "Immer rollen, rollen, rollen",
+                    "en-US": "Keep Rollin' Rollin' Rollin'",
+                    "es-ES": "Rueda, rueda, rueda",
+                    "fr-FR": "Faut que ça roule, ROULE !",
+                    "it-IT": "Rotola rotola rotola",
+                    "ja-JP": "ダイス大好き！"
+                },
+                "description": {
+                    "de-DE": "Dein Können, oder dessen Abwesenheit, beim Wurf der magischen Schatzkugel der vielen Seiten gezeigt",
+                    "en-US": "Demonstrated your skill, or lack thereof, at rolling the magical treasure orb of many sides",
+                    "es-ES": "Demostrasteis vuestras virtudes, o vuestras carencias, lanzando el orbe mágico",
+                    "fr-FR": "Vous avez montré votre talent ou poisse au jeu de l'orbe magique multifacette.",
+                    "it-IT": "Hai dimostrato la tua abilità, o mancanza della stessa, nell'usare la magica sfera dalle molte facce",
+                    "ja-JP": "魔法の多面体を転がし、運の良さ（もしくは悪さ）を示した"
+                },
+                "howto": {
+                    "de-DE": "Zeige dein Können, oder dessen Abwesenheit, beim Wurf der magischen Schatzkugel der vielen Seiten",
+                    "en-US": "Demonstrate your skill, or lack thereof, at rolling the magical treasure orb of many sides",
+                    "es-ES": "Demostrad vuestras virtudes, o vuestras carencias, lanzando el orbe mágico",
+                    "fr-FR": "Montrer votre talent ou poisse au jeu de l'orbe magique multifacette.",
+                    "it-IT": "Dimostra la tua abilità, o mancanza della stessa, nell'usare la magica sfera dalle molte facce",
+                    "ja-JP": "魔法の多面体を転がし、運の良さ（もしくは悪さ）を示す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "68.png"
+        },
+        "69": {
+            "text": {
+                "name": {
+                    "de-DE": "Lass es Raaaaaideeen",
+                    "en-US": "Make it Raaaaaid",
+                    "es-ES": "Al ataqueee",
+                    "fr-FR": "Faut que ça Raaaaaid !",
+                    "it-IT": "Grande attaaaaaacco",
+                    "ja-JP": "打倒！ レイド ボス"
+                },
+                "description": {
+                    "de-DE": "Die Großen Alten Drachen der Zerstörung überwältigt",
+                    "en-US": "Vanquished the Ancient Dragons of Destruction",
+                    "es-ES": "Aniquilasteis a los antiguos dragones de la destrucción",
+                    "fr-FR": "Vous avez triomphé des Anciens Dragons de la Destruction.",
+                    "it-IT": "Hai sconfitto gli antichi draghi distruttori",
+                    "ja-JP": "Ancient Dragons of Destruction を倒した"
+                },
+                "howto": {
+                    "de-DE": "Überwältige die Großen Alten Drachen der Zerstörung",
+                    "en-US": "Vanquish the Ancient Dragons of Destruction",
+                    "es-ES": "Aniquilad a los antiguos dragones de la destrucción",
+                    "fr-FR": "Triomphez des Anciens Dragons de la Destruction.",
+                    "it-IT": "Sconfiggi gli antichi draghi distruttori",
+                    "ja-JP": "Ancient Dragons of Destruction を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "69.png"
+        }
+    }
+}
