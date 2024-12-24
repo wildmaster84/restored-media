@@ -1,0 +1,1715 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Welt ist ein großes Dorf ...",
+                    "en-US": "It takes a really big village…",
+                    "es-ES": "Donde cabe uno...",
+                    "fr-FR": "L'Union fait la board",
+                    "it-IT": "Ci vuole un villaggio grande..."
+                },
+                "description": {
+                    "de-DE": "Erreiche das Community-Boardverkaufsziel",
+                    "en-US": "Reach community board sales target",
+                    "es-ES": "Alcanza el objetivo de ventas de tablas de la comunidad",
+                    "fr-FR": "Atteins ton objectif de vente de boards de communauté",
+                    "it-IT": "Raggiungi la meta di tavole vendute della community"
+                },
+                "howto": {
+                    "de-DE": "Erreiche das Community-Boardverkaufsziel",
+                    "en-US": "Reach community board sales target",
+                    "es-ES": "Alcanza el objetivo de ventas de tablas de la comunidad",
+                    "fr-FR": "Atteins ton objectif de vente de boards de communauté",
+                    "it-IT": "Raggiungi la meta di tavole vendute della community"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Parklehrling",
+                    "en-US": "Park Apprentice",
+                    "es-ES": "Aprendiz del park",
+                    "fr-FR": "On s'amuse bien au park",
+                    "it-IT": "Apprendista di parchi"
+                },
+                "description": {
+                    "de-DE": "Schließe die skate.Park-Tutorials ab",
+                    "en-US": "Complete the skate.Park tutorials",
+                    "es-ES": "Finaliza los tutoriales de skate.Park",
+                    "fr-FR": "Termine les didacticiels de skate.Park",
+                    "it-IT": "Completa i tutorial skate.Parco"
+                },
+                "howto": {
+                    "de-DE": "Schließe die skate.Park-Tutorials ab",
+                    "en-US": "Complete the skate.Park tutorials",
+                    "es-ES": "Finaliza los tutoriales de skate.Park",
+                    "fr-FR": "Termine les didacticiels de skate.Park",
+                    "it-IT": "Completa i tutorial skate.Parco"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Übers Limit",
+                    "en-US": "Takin 'em to the limit",
+                    "es-ES": "Llévalo al límite",
+                    "fr-FR": "Vers l'infini et au-delà",
+                    "it-IT": "Il limite estremo"
+                },
+                "description": {
+                    "de-DE": "Fülle die Terrainanzeige in deinem skate.Park bis in den roten Bereich auf",
+                    "en-US": "Get the terrain meter in the red for your own skate.Park",
+                    "es-ES": "Pon el indicador de terreno en rojo en tu propio skate.Park",
+                    "fr-FR": "Remplis la jauge de terrain jusqu'au rouge dans ton propre skate.Park",
+                    "it-IT": "Fai diventare rosso l'indicatore di superficie nel tuo skate.Parco"
+                },
+                "howto": {
+                    "de-DE": "Fülle die Terrainanzeige in deinem skate.Park bis in den roten Bereich auf",
+                    "en-US": "Get the terrain meter in the red for your own skate.Park",
+                    "es-ES": "Pon el indicador de terreno en rojo en tu propio skate.Park",
+                    "fr-FR": "Remplis la jauge de terrain jusqu'au rouge dans ton propre skate.Park",
+                    "it-IT": "Fai diventare rosso l'indicatore di superficie nel tuo skate.Parco"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Konstruktive Kritik",
+                    "en-US": "Constructive Criticism",
+                    "es-ES": "Crítica constructiva",
+                    "fr-FR": "Critiques constructives",
+                    "it-IT": "Critica costruttiva"
+                },
+                "description": {
+                    "de-DE": "Bewerte 5 skate.Parks, 5 Filme und 5 Fotos",
+                    "en-US": "Rate 5 skate.Parks, 5 Films, and 5 Photos",
+                    "es-ES": "Califica 5 skate.Parks, 5 vídeos y 5 fotos",
+                    "fr-FR": "Évalue 5 skate.Parks, 5 vidéos et 5 photos",
+                    "it-IT": "Vota 5 skate.Parco, 5 filmati e 5 foto"
+                },
+                "howto": {
+                    "de-DE": "Bewerte 5 skate.Parks, 5 Filme und 5 Fotos",
+                    "en-US": "Rate 5 skate.Parks, 5 Films, and 5 Photos",
+                    "es-ES": "Califica 5 skate.Parks, 5 vídeos y 5 fotos",
+                    "fr-FR": "Évalue 5 skate.Parks, 5 vidéos et 5 photos",
+                    "it-IT": "Vota 5 skate.Parco, 5 filmati e 5 foto"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Künstler",
+                    "en-US": "Artsy Fartsy",
+                    "es-ES": "Pseudoartista",
+                    "fr-FR": "Bravo l'artiste",
+                    "it-IT": "Artistoide"
+                },
+                "description": {
+                    "de-DE": "Lade 5 Filme, 5 Fotos und 3 skate.Parks hoch",
+                    "en-US": "Upload 5 Films and 5 Photos, and 3 skate.Parks",
+                    "es-ES": "Sube 5 vídeos, 5 fotos y 3 skate.Parks",
+                    "fr-FR": "Transfère 5 vidéos, 5 photos et 3 skate.Parks",
+                    "it-IT": "Invia 5 filmati, 5 foto e 3 skate.Parco"
+                },
+                "howto": {
+                    "de-DE": "Lade 5 Filme, 5 Fotos und 3 skate.Parks hoch",
+                    "en-US": "Upload 5 Films and 5 Photos, and 3 skate.Parks",
+                    "es-ES": "Sube 5 vídeos, 5 fotos y 3 skate.Parks",
+                    "fr-FR": "Transfère 5 vidéos, 5 photos et 3 skate.Parks",
+                    "it-IT": "Invia 5 filmati, 5 foto e 3 skate.Parco"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Kommerzling!",
+                    "en-US": "Sellout!",
+                    "es-ES": "¡Liquidación!",
+                    "fr-FR": "Vendu !",
+                    "it-IT": "Sei un venduto!"
+                },
+                "description": {
+                    "de-DE": "Erstelle ein Logo und platziere es auf deinem Skater",
+                    "en-US": "Create a Logo and put it on your Skater",
+                    "es-ES": "Crea un logotipo y colócalo en tu skater",
+                    "fr-FR": "Crée un logo et applique-le sur ton skateur",
+                    "it-IT": "Crea un logo e piazzalo sul tuo skater"
+                },
+                "howto": {
+                    "de-DE": "Erstelle ein Logo und platziere es auf deinem Skater",
+                    "en-US": "Create a Logo and put it on your Skater",
+                    "es-ES": "Crea un logotipo y colócalo en tu skater",
+                    "fr-FR": "Crée un logo et applique-le sur ton skateur",
+                    "it-IT": "Crea un logo e piazzalo sul tuo skater"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Trick-Spammer",
+                    "en-US": "Trick Spammer",
+                    "es-ES": "Pirata de los trucos",
+                    "fr-FR": "Trickotage en série",
+                    "it-IT": "Spammatore di trick"
+                },
+                "description": {
+                    "de-DE": "30.000-Punkte-Line",
+                    "en-US": "30,000 point line",
+                    "es-ES": "Línea de 30.000 puntos",
+                    "fr-FR": "Fais une ligne de 30 000 points",
+                    "it-IT": "Linea da 30.000 punti"
+                },
+                "howto": {
+                    "de-DE": "30.000-Punkte-Line",
+                    "en-US": "30,000 point line",
+                    "es-ES": "Línea de 30.000 puntos",
+                    "fr-FR": "Fais une ligne de 30 000 points",
+                    "it-IT": "Linea da 30.000 punti"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "KA-BUMM!!",
+                    "en-US": "Blaow!",
+                    "es-ES": "¡Guauuu!",
+                    "fr-FR": "Tadaaaa !",
+                    "it-IT": "Blaow!"
+                },
+                "description": {
+                    "de-DE": "10.000-Punkte-Trick",
+                    "en-US": "10,000 point trick",
+                    "es-ES": "Truco de 10.000 puntos",
+                    "fr-FR": "Fais un trick de 10 000 points",
+                    "it-IT": "Trick da 10.000 punti"
+                },
+                "howto": {
+                    "de-DE": "10.000-Punkte-Trick",
+                    "en-US": "10,000 point trick",
+                    "es-ES": "Truco de 10.000 puntos",
+                    "fr-FR": "Fais un trick de 10 000 points",
+                    "it-IT": "Trick da 10.000 punti"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Hast du etwa aua gemacht?",
+                    "en-US": "Did Somebody Get a Boo Boo?",
+                    "es-ES": "¿Alguien ha metido la pata?",
+                    "fr-FR": "Gros bobo",
+                    "it-IT": "Qualcuno si è fatto la bua?"
+                },
+                "description": {
+                    "de-DE": "75.000-Punkte-Bail",
+                    "en-US": "75,000 point bail",
+                    "es-ES": "Caída de 75.000 puntos",
+                    "fr-FR": "Fais une chute à 75 000 points",
+                    "it-IT": "Caduta da 75.000 punti"
+                },
+                "howto": {
+                    "de-DE": "75.000-Punkte-Bail",
+                    "en-US": "75,000 point bail",
+                    "es-ES": "Caída de 75.000 puntos",
+                    "fr-FR": "Fais une chute à 75 000 points",
+                    "it-IT": "Caduta da 75.000 punti"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Objektor",
+                    "en-US": "Objectifier",
+                    "es-ES": "Objetificador",
+                    "fr-FR": "Objectifieur",
+                    "it-IT": "Oggettivazione"
+                },
+                "description": {
+                    "de-DE": "3 bewegbare Objekte in einer einzigen Sequenz verwendet",
+                    "en-US": "3 Moveable objects used in a single sequence",
+                    "es-ES": "3 objetos móviles utilizados en una sola secuencia",
+                    "fr-FR": "Utilise 3 objets mobiles en une seule séquence",
+                    "it-IT": "3 oggetti mobili usati in una singola sequenza"
+                },
+                "howto": {
+                    "de-DE": "3 bewegbare Objekte in einer einzigen Sequenz verwendet",
+                    "en-US": "3 Moveable objects used in a single sequence",
+                    "es-ES": "3 objetos móviles utilizados en una sola secuencia",
+                    "fr-FR": "Utilise 3 objets mobiles en une seule séquence",
+                    "it-IT": "3 oggetti mobili usati in una singola sequenza"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Extrem-Grinden",
+                    "en-US": "Extreme Grindage",
+                    "es-ES": "Grind extremo",
+                    "fr-FR": "Grinds extrêmes",
+                    "it-IT": "Grind estremo"
+                },
+                "description": {
+                    "de-DE": "Mach einen 100 Meter oder 300 Fuß langen Grind",
+                    "en-US": "Perform a 100 meter or 300 foot grind",
+                    "es-ES": "Realiza un grind de 100 metros o 300 pies",
+                    "fr-FR": "Réussis un grind de 100 mètres ou 300 pieds.",
+                    "it-IT": "Esegui un grind di 100 metri o 300 piedi"
+                },
+                "howto": {
+                    "de-DE": "Mach einen 100 Meter oder 300 Fuß langen Grind",
+                    "en-US": "Perform a 100 meter or 300 foot grind",
+                    "es-ES": "Realiza un grind de 100 metros o 300 pies",
+                    "fr-FR": "Réussis un grind de 100 mètres ou 300 pieds.",
+                    "it-IT": "Esegui un grind di 100 metri o 300 piedi"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Manual-Meister",
+                    "en-US": "Mantastic Voyage",
+                    "es-ES": "Viaje manualástico",
+                    "fr-FR": "Travaux manuels",
+                    "it-IT": "Viaggio mantastico"
+                },
+                "description": {
+                    "de-DE": "3 Manuals in einer einzigen Sequenz",
+                    "en-US": "3 manuals in a single sequence",
+                    "es-ES": "3 manuals en una sola secuencia",
+                    "fr-FR": "Fais 3 manuals en une seule séquence",
+                    "it-IT": "3 manual in una singola sequenza"
+                },
+                "howto": {
+                    "de-DE": "3 Manuals in einer einzigen Sequenz",
+                    "en-US": "3 manuals in a single sequence",
+                    "es-ES": "3 manuals en una sola secuencia",
+                    "fr-FR": "Fais 3 manuals en une seule séquence",
+                    "it-IT": "3 manual in una singola sequenza"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "12.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "Sei nicht so Mayo",
+                    "en-US": "Don't be so Mayo",
+                    "es-ES": "Échale un par",
+                    "fr-FR": "Trick qui fouette",
+                    "it-IT": "Non essere un perdente"
+                },
+                "description": {
+                    "de-DE": "Lande einen Miracle Whip (Superdude-Bodyflip)",
+                    "en-US": "Land a Miracle Whip (Superdude body flip)",
+                    "es-ES": "Plancha un Miracle Whip (superdude body-flip)",
+                    "fr-FR": "Claque un Miracle Whip (Superdude body flip)",
+                    "it-IT": "Chiudi un Miracle Whip (body flip Superdude)"
+                },
+                "howto": {
+                    "de-DE": "Lande einen Miracle Whip (Superdude-Bodyflip)",
+                    "en-US": "Land a Miracle Whip (Superdude body flip)",
+                    "es-ES": "Plancha un Miracle Whip (superdude body-flip)",
+                    "fr-FR": "Claque un Miracle Whip (Superdude body flip)",
+                    "it-IT": "Chiudi un Miracle Whip (body flip Superdude)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "13.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "100 % pures Adrenalin",
+                    "en-US": "100% Pure Adrenaline",
+                    "es-ES": "100% adrenalina pura",
+                    "fr-FR": "100 % pure adrénaline",
+                    "it-IT": "100% adrenalina pura"
+                },
+                "description": {
+                    "de-DE": "Fliege 10 Sekunden lang in Spread Eagle-Haltung",
+                    "en-US": "Fly Spread Eagle for 10 seconds",
+                    "es-ES": "Vuela en pose de águila durante 10 segundos",
+                    "fr-FR": "Vole en Grand aigle pendant 10 secondes",
+                    "it-IT": "Vola in Spread Eagle per 10 secondi"
+                },
+                "howto": {
+                    "de-DE": "Fliege 10 Sekunden lang in Spread Eagle-Haltung",
+                    "en-US": "Fly Spread Eagle for 10 seconds",
+                    "es-ES": "Vuela en pose de águila durante 10 segundos",
+                    "fr-FR": "Vole en Grand aigle pendant 10 secondes",
+                    "it-IT": "Vola in Spread Eagle per 10 secondi"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "14.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "de-DE": "Mitarbeiter 3",
+                    "en-US": "Employee #3",
+                    "es-ES": "Empleado n.º 3",
+                    "fr-FR": "Employé n°3",
+                    "it-IT": "Impiegato n. 3"
+                },
+                "description": {
+                    "de-DE": "Verdiene dir dein zweites Karriere-Teammitglied",
+                    "en-US": "Earn your second career teammate",
+                    "es-ES": "Consigue tu segundo compañero de Historia",
+                    "fr-FR": "Gagne ton deuxième coéquipier en mode Carrière",
+                    "it-IT": "Ottieni il tuo secondo compagno di squadra della carriera"
+                },
+                "howto": {
+                    "de-DE": "Verdiene dir dein zweites Karriere-Teammitglied",
+                    "en-US": "Earn your second career teammate",
+                    "es-ES": "Consigue tu segundo compañero de Historia",
+                    "fr-FR": "Gagne ton deuxième coéquipier en mode Carrière",
+                    "it-IT": "Ottieni il tuo secondo compagno di squadra della carriera"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "15.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Engagiert",
+                    "en-US": "Dedicated",
+                    "es-ES": "Dedicado",
+                    "fr-FR": "À fond",
+                    "it-IT": "Devoto"
+                },
+                "description": {
+                    "de-DE": "Alles geschafft, alles freigeschaltet, alles gewonnen",
+                    "en-US": "Everything beaten, everything unlocked, everything earned",
+                    "es-ES": "Todo superado, todo desbloqueado, todo conseguido",
+                    "fr-FR": "Termine tout, déverrouille tout, gagne tout !",
+                    "it-IT": "Supera tutto, sblocca tutto, ottieni tutto"
+                },
+                "howto": {
+                    "de-DE": "Alles geschafft, alles freigeschaltet, alles gewonnen",
+                    "en-US": "Everything beaten, everything unlocked, everything earned",
+                    "es-ES": "Todo superado, todo desbloqueado, todo conseguido",
+                    "fr-FR": "Termine tout, déverrouille tout, gagne tout !",
+                    "it-IT": "Supera tutto, sblocca tutto, ottieni tutto"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "100",
+            "imageId": "16.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "Party im Penthouse",
+                    "en-US": "Party at the Penthouse",
+                    "es-ES": "Fiesta en el apartamento",
+                    "fr-FR": "Grosse teuf",
+                    "it-IT": "Party nell'attico"
+                },
+                "description": {
+                    "de-DE": "Gewinne beide Maloof Money Cup-Contests",
+                    "en-US": "Win both Maloof Money Cup contests",
+                    "es-ES": "Gana los dos torneos Maloof Money Cup",
+                    "fr-FR": "Gagne les deux contests Maloof Money Cup",
+                    "it-IT": "Vinci entrambi i contest della Maloof Money Cup"
+                },
+                "howto": {
+                    "de-DE": "Gewinne beide Maloof Money Cup-Contests",
+                    "en-US": "Win both Maloof Money Cup contests",
+                    "es-ES": "Gana los dos torneos Maloof Money Cup",
+                    "fr-FR": "Gagne les deux contests Maloof Money Cup",
+                    "it-IT": "Vinci entrambi i contest della Maloof Money Cup"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "17.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "de-DE": "T-Mobile-isiert",
+                    "en-US": "T-Mobilized",
+                    "es-ES": "T-Mobilizado",
+                    "fr-FR": "T-Mobilisation",
+                    "it-IT": "T-Mobilizzato"
+                },
+                "description": {
+                    "de-DE": "Gewinne den T-Mobile Contest",
+                    "en-US": "Win the T-Mobile sponsored contest",
+                    "es-ES": "Gana el torneo patrocinado por T-Mobile",
+                    "fr-FR": "Gagne le contest sponsorisé par T-Mobile",
+                    "it-IT": "Vinci il contest sponsorizzato da T-Mobile"
+                },
+                "howto": {
+                    "de-DE": "Gewinne den T-Mobile Contest",
+                    "en-US": "Win the T-Mobile sponsored contest",
+                    "es-ES": "Gana el torneo patrocinado por T-Mobile",
+                    "fr-FR": "Gagne le contest sponsorisé par T-Mobile",
+                    "it-IT": "Vinci il contest sponsorizzato da T-Mobile"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "18.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "Virusinfektion",
+                    "en-US": "Gone Viral",
+                    "es-ES": "Contagiado",
+                    "fr-FR": "Épidémie virale",
+                    "it-IT": "Attacco virale"
+                },
+                "description": {
+                    "de-DE": "Stecke dich mit der Skategrippe an",
+                    "en-US": "Catch the Skate Flu",
+                    "es-ES": "Contrae la gripe de Skate",
+                    "fr-FR": "Chope la grippe skatiaire",
+                    "it-IT": "Prendi l'influenza di Skate"
+                },
+                "howto": {
+                    "de-DE": "Stecke dich mit der Skategrippe an",
+                    "en-US": "Catch the Skate Flu",
+                    "es-ES": "Contrae la gripe de Skate",
+                    "fr-FR": "Chope la grippe skatiaire",
+                    "it-IT": "Prendi l'influenza di Skate"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "19.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "Mitarbeiter 2",
+                    "en-US": "Employee #2",
+                    "es-ES": "Empleado n.º 2",
+                    "fr-FR": "Employé n°2",
+                    "it-IT": "Impiegato n. 2"
+                },
+                "description": {
+                    "de-DE": "Verdiene dir dein erstes Karriere-Teammitglied",
+                    "en-US": "Earn your first career teammate",
+                    "es-ES": "Consigue tu primer compañero de Historia",
+                    "fr-FR": "Gagne ton premier coéquipier en mode Carrière",
+                    "it-IT": "Ottieni il tuo primo compagno di squadra della carriera"
+                },
+                "howto": {
+                    "de-DE": "Verdiene dir dein erstes Karriere-Teammitglied",
+                    "en-US": "Earn your first career teammate",
+                    "es-ES": "Consigue tu primer compañero de Historia",
+                    "fr-FR": "Gagne ton premier coéquipier en mode Carrière",
+                    "it-IT": "Ottieni il tuo primo compagno di squadra della carriera"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "20.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "Entfesselte Bestie",
+                    "en-US": "Beast Unleashed",
+                    "es-ES": "Bestia suelta",
+                    "fr-FR": "Le fauve est lâché",
+                    "it-IT": "Bestia scatenata"
+                },
+                "description": {
+                    "de-DE": "Gewinne den Monster-Contest",
+                    "en-US": "Win the Monster contest",
+                    "es-ES": "Gana el torneo de Monster",
+                    "fr-FR": "Remporte le contest Monster",
+                    "it-IT": "Vinci il contest Monster"
+                },
+                "howto": {
+                    "de-DE": "Gewinne den Monster-Contest",
+                    "en-US": "Win the Monster contest",
+                    "es-ES": "Gana el torneo de Monster",
+                    "fr-FR": "Remporte le contest Monster",
+                    "it-IT": "Vinci il contest Monster"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "21.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "de-DE": "Boarddealer",
+                    "en-US": "Deck Peddler",
+                    "es-ES": "Vendedor de tablas",
+                    "fr-FR": "Fourgueur de matos",
+                    "it-IT": "Spacciatore di tavole"
+                },
+                "description": {
+                    "de-DE": "1 Million Boards verkauft",
+                    "en-US": "1 Million boards sold",
+                    "es-ES": "1 millón de tablas vendidas",
+                    "fr-FR": "Vends 1 million de boards",
+                    "it-IT": "1 milione di tavole vendute"
+                },
+                "howto": {
+                    "de-DE": "1 Million Boards verkauft",
+                    "en-US": "1 Million boards sold",
+                    "es-ES": "1 millón de tablas vendidas",
+                    "fr-FR": "Vends 1 million de boards",
+                    "it-IT": "1 milione di tavole vendute"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "75",
+            "imageId": "22.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "GVR Champ",
+                    "en-US": "GVR Champ",
+                    "es-ES": "Campeón de GcR",
+                    "fr-FR": "Star du GcR",
+                    "it-IT": "Campione GvR"
+                },
+                "description": {
+                    "de-DE": "Gewinne den Goofy vs. Regular-Contest",
+                    "en-US": "Win the Goofy vs. Regular contest",
+                    "es-ES": "Gana el torneo Goofy contra Regular",
+                    "fr-FR": "Gagne le contest Goofy contre Regular",
+                    "it-IT": "Vinci il contest Goofy vs Regular"
+                },
+                "howto": {
+                    "de-DE": "Gewinne den Goofy vs. Regular-Contest",
+                    "en-US": "Win the Goofy vs. Regular contest",
+                    "es-ES": "Gana el torneo Goofy contra Regular",
+                    "fr-FR": "Gagne le contest Goofy contre Regular",
+                    "it-IT": "Vinci il contest Goofy vs Regular"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "23.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "Anruf bei 'nem Kumpel",
+                    "en-US": "Making a Buddy Call",
+                    "es-ES": "Llamada al colega",
+                    "fr-FR": "Coup de fil à un ami",
+                    "it-IT": "Chiamata a un amico"
+                },
+                "description": {
+                    "de-DE": "Rufe einen Skater an, damit er mit dir skatet",
+                    "en-US": "Call a Skater to come skate with you",
+                    "es-ES": "Llama a un skater para que haga skate contigo",
+                    "fr-FR": "Appelle un skateur pour venir skater avec toi",
+                    "it-IT": "Chiama uno skater a fare skate con te"
+                },
+                "howto": {
+                    "de-DE": "Rufe einen Skater an, damit er mit dir skatet",
+                    "en-US": "Call a Skater to come skate with you",
+                    "es-ES": "Llama a un skater para que haga skate contigo",
+                    "fr-FR": "Appelle un skateur pour venir skater avec toi",
+                    "it-IT": "Chiama uno skater a fare skate con te"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "24.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Teamtraining",
+                    "en-US": "Talking bout Team practice",
+                    "es-ES": "Y hablando de entrenar en equipo",
+                    "fr-FR": "ÇA, c'est de l'équipe !",
+                    "it-IT": "Allenamento di squadra"
+                },
+                "description": {
+                    "de-DE": "Spiele in einer 6-Spieler-Team-Freeskate-Session",
+                    "en-US": "Play in a 6-player Team Freeskate session",
+                    "es-ES": "Juega en una sesión de skate libre de equipo de 6 jugadores",
+                    "fr-FR": "Joue une session en Skate libre à 6 en équipe",
+                    "it-IT": "Gioca in una sessione a 6 giocatori di skate libero di squadra"
+                },
+                "howto": {
+                    "de-DE": "Spiele in einer 6-Spieler-Team-Freeskate-Session",
+                    "en-US": "Play in a 6-player Team Freeskate session",
+                    "es-ES": "Juega en una sesión de skate libre de equipo de 6 jugadores",
+                    "fr-FR": "Joue une session en Skate libre à 6 en équipe",
+                    "it-IT": "Gioca in una sessione a 6 giocatori di skate libero di squadra"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "25.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "Du hast gewonnen!",
+                    "en-US": "You’re Winner!",
+                    "es-ES": "¡Eres el ganador!",
+                    "fr-FR": "Gagné !",
+                    "it-IT": "Vittoria!"
+                },
+                "description": {
+                    "de-DE": "Gewinne ein Ranglisten-Spiel \"Online-Solo-Challenge\"",
+                    "en-US": "Win a Ranked Online Solo Challenge",
+                    "es-ES": "Gana un desafío individual online igualado",
+                    "fr-FR": "Gagne un défi solo en ligne avec classement",
+                    "it-IT": "Vinci una sfida individuale classificata online"
+                },
+                "howto": {
+                    "de-DE": "Gewinne ein Ranglisten-Spiel \"Online-Solo-Challenge\"",
+                    "en-US": "Win a Ranked Online Solo Challenge",
+                    "es-ES": "Gana un desafío individual online igualado",
+                    "fr-FR": "Gagne un défi solo en ligne avec classement",
+                    "it-IT": "Vinci una sfida individuale classificata online"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "26.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "Kooperator",
+                    "en-US": "Co-Operator",
+                    "es-ES": "Co-operador",
+                    "fr-FR": "Pro de la coop.",
+                    "it-IT": "Co-operazione"
+                },
+                "description": {
+                    "de-DE": "Schließe eine Online-Karriere-Challenge ab ",
+                    "en-US": "Complete an Online Career challenge ",
+                    "es-ES": "Completa un desafío de Historia online",
+                    "fr-FR": "Termine un défi en carrière en ligne",
+                    "it-IT": "Completa una sfida carriera online"
+                },
+                "howto": {
+                    "de-DE": "Schließe eine Online-Karriere-Challenge ab ",
+                    "en-US": "Complete an Online Career challenge ",
+                    "es-ES": "Completa un desafío de Historia online",
+                    "fr-FR": "Termine un défi en carrière en ligne",
+                    "it-IT": "Completa una sfida carriera online"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "27.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "Teamspieler",
+                    "en-US": "Throw Down",
+                    "es-ES": "Lanzaos cuesta abajo",
+                    "fr-FR": "Union",
+                    "it-IT": "Guanto di sfida"
+                },
+                "description": {
+                    "de-DE": "Gewinne ein Ranglisten-Spiel \"Online-Team-Challenge\"",
+                    "en-US": "Win a Ranked Online Team Challenge",
+                    "es-ES": "Gana un desafío de equipo online igualado",
+                    "fr-FR": "Gagne un défi équipe en ligne avec classement",
+                    "it-IT": "Vinci una sfida a squadre classificata online"
+                },
+                "howto": {
+                    "de-DE": "Gewinne ein Ranglisten-Spiel \"Online-Team-Challenge\"",
+                    "en-US": "Win a Ranked Online Team Challenge",
+                    "es-ES": "Gana un desafío de equipo online igualado",
+                    "fr-FR": "Gagne un défi équipe en ligne avec classement",
+                    "it-IT": "Vinci una sfida a squadre classificata online"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "28.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "Teamgründung",
+                    "en-US": "Team Up",
+                    "es-ES": "Subíos al carro",
+                    "fr-FR": "L'union fait la force",
+                    "it-IT": "In squadra"
+                },
+                "description": {
+                    "de-DE": "Sei Teil eines Teams mit mindestens zwei Skatern",
+                    "en-US": "Be part of a team with two or more skaters",
+                    "es-ES": "Forma parte de un equipo con dos o más skaters",
+                    "fr-FR": "Fais partie d'une équipe avec au moins deux skateurs",
+                    "it-IT": "Fai parte di una squadra con due o più skater"
+                },
+                "howto": {
+                    "de-DE": "Sei Teil eines Teams mit mindestens zwei Skatern",
+                    "en-US": "Be part of a team with two or more skaters",
+                    "es-ES": "Forma parte de un equipo con dos o más skaters",
+                    "fr-FR": "Fais partie d'une équipe avec au moins deux skateurs",
+                    "it-IT": "Fai parte di una squadra con due o più skater"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "29.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Grundstückrocker",
+                    "en-US": "Lot Pwners",
+                    "es-ES": "Dominadores del todo",
+                    "fr-FR": "Gros caïd",
+                    "it-IT": "Conquistatori di zone"
+                },
+                "description": {
+                    "de-DE": "Gewinne ein Team-Ranglisten-Spiel \"Erobere das Grundstück\"",
+                    "en-US": "Win a Ranked Team Own The Lot",
+                    "es-ES": "Gana un Domínalo todo en equipo igualado",
+                    "fr-FR": "Gagne un Prends Le Quartier par équipe avec classement",
+                    "it-IT": "Vinci una Conquista la zona a squadre classificata"
+                },
+                "howto": {
+                    "de-DE": "Gewinne ein Team-Ranglisten-Spiel \"Erobere das Grundstück\"",
+                    "en-US": "Win a Ranked Team Own The Lot",
+                    "es-ES": "Gana un Domínalo todo en equipo igualado",
+                    "fr-FR": "Gagne un Prends Le Quartier par équipe avec classement",
+                    "it-IT": "Vinci una Conquista la zona a squadre classificata"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "30.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "High Five!",
+                    "en-US": "High Five!",
+                    "es-ES": "¡Choca esos cinco!",
+                    "fr-FR": "Tape-m'en cinq !",
+                    "it-IT": "Dammi il cinque!"
+                },
+                "description": {
+                    "de-DE": "Gewinne 5 beliebige Ranglisten-Challenges",
+                    "en-US": "Win any 5 Ranked Challenges",
+                    "es-ES": "Gana 5 desafíos igualados cualesquiera",
+                    "fr-FR": "Gagne 5 défis avec classement",
+                    "it-IT": "Vinci 5 sfide classificate qualsiasi"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 5 beliebige Ranglisten-Challenges",
+                    "en-US": "Win any 5 Ranked Challenges",
+                    "es-ES": "Gana 5 desafíos igualados cualesquiera",
+                    "fr-FR": "Gagne 5 défis avec classement",
+                    "it-IT": "Vinci 5 sfide classificate qualsiasi"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "31.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Mehr hast du nicht drauf?",
+                    "en-US": "Is that all you got?",
+                    "es-ES": "¿No eres capaz de más?",
+                    "fr-FR": "Ce sera tout ?",
+                    "it-IT": "Tutto qui?"
+                },
+                "description": {
+                    "de-DE": "Rocke alle Challenges",
+                    "en-US": "Own all challenges",
+                    "es-ES": "Domina todos los desafíos",
+                    "fr-FR": "Prends tous les défis",
+                    "it-IT": "Conquista tutte le sfide"
+                },
+                "howto": {
+                    "de-DE": "Rocke alle Challenges",
+                    "en-US": "Own all challenges",
+                    "es-ES": "Domina todos los desafíos",
+                    "fr-FR": "Prends tous les défis",
+                    "it-IT": "Conquista tutte le sfide"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "32.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Speedfreak",
+                    "en-US": "Speed Demon",
+                    "es-ES": "Diablo de la velocidad",
+                    "fr-FR": "Démon de la vitesse",
+                    "it-IT": "Demone della velocità"
+                },
+                "description": {
+                    "de-DE": "Gewinne das letzte Deathrace",
+                    "en-US": "Win the final deathrace",
+                    "es-ES": "Gana la carrera a muerte final",
+                    "fr-FR": "Gagne la deathrace finale",
+                    "it-IT": "Vinci la deathrace finale"
+                },
+                "howto": {
+                    "de-DE": "Gewinne das letzte Deathrace",
+                    "en-US": "Win the final deathrace",
+                    "es-ES": "Gana la carrera a muerte final",
+                    "fr-FR": "Gagne la deathrace finale",
+                    "it-IT": "Vinci la deathrace finale"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "33.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "In Stereo",
+                    "en-US": "In Stereo",
+                    "es-ES": "En Stereo",
+                    "fr-FR": "En stéréo",
+                    "it-IT": "In Stereo"
+                },
+                "description": {
+                    "de-DE": "Schließe Coach Franks skate.Schule-Tutorials ab",
+                    "en-US": "Complete Coach Frank's skate.School Tutorials",
+                    "es-ES": "Completa los tutoriales de la skate.School del entrenador Frank",
+                    "fr-FR": "Termine les didacticiels de la skate.École de coach Frank",
+                    "it-IT": "Completa i tutorial della skate.Scuola del coach Frank"
+                },
+                "howto": {
+                    "de-DE": "Schließe Coach Franks skate.Schule-Tutorials ab",
+                    "en-US": "Complete Coach Frank's skate.School Tutorials",
+                    "es-ES": "Completa los tutoriales de la skate.School del entrenador Frank",
+                    "fr-FR": "Termine les didacticiels de la skate.École de coach Frank",
+                    "it-IT": "Completa i tutorial della skate.Scuola del coach Frank"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "34.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Masochist",
+                    "en-US": "Masochist",
+                    "es-ES": "Masoquista",
+                    "fr-FR": "Masochiste",
+                    "it-IT": "Masochista"
+                },
+                "description": {
+                    "de-DE": "Meistere die Hall of Meat-Challenge \"Thorax-Knacker\"",
+                    "en-US": "Beat the \"Thorax Crunch\" Hall of Meat Challenge",
+                    "es-ES": "Supera el desafío \"Fractura de tórax\" de la Sala del dolor",
+                    "fr-FR": "Termine le défi Boucherie \"À fond la caisse\"",
+                    "it-IT": "Supera la sfida Hall of Meat \"Spaccatorace\""
+                },
+                "howto": {
+                    "de-DE": "Meistere die Hall of Meat-Challenge \"Thorax-Knacker\"",
+                    "en-US": "Beat the \"Thorax Crunch\" Hall of Meat Challenge",
+                    "es-ES": "Supera el desafío \"Fractura de tórax\" de la Sala del dolor",
+                    "fr-FR": "Termine le défi Boucherie \"À fond la caisse\"",
+                    "it-IT": "Supera la sfida Hall of Meat \"Spaccatorace\""
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "35.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Spot-Monopolist",
+                    "en-US": "Spot Monopolist",
+                    "es-ES": "Monopolista de spots",
+                    "fr-FR": "Le monopole du spot",
+                    "it-IT": "Monopolista degli spot"
+                },
+                "description": {
+                    "de-DE": "Erobere alle Spots",
+                    "en-US": "Own all of the spots",
+                    "es-ES": "Domina todos los spots",
+                    "fr-FR": "Prends tous les spots",
+                    "it-IT": "Conquista tutti gli spot"
+                },
+                "howto": {
+                    "de-DE": "Erobere alle Spots",
+                    "en-US": "Own all of the spots",
+                    "es-ES": "Domina todos los spots",
+                    "fr-FR": "Prends tous les spots",
+                    "it-IT": "Conquista tutti gli spot"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "36.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "Alles Basis oder was?",
+                    "en-US": "All your base are belong to you",
+                    "es-ES": "Tu base es tuya y solo tuya",
+                    "fr-FR": "Le repaire du skate",
+                    "it-IT": "All your base are belong to us"
+                },
+                "description": {
+                    "de-DE": "Schalte das Team-Headquarter frei",
+                    "en-US": "Unlock the Team HQ",
+                    "es-ES": "Desbloquea la sede del equipo",
+                    "fr-FR": "Déverrouille le QG de l'équipe",
+                    "it-IT": "Sblocca il quartier generale (QG) della squadra"
+                },
+                "howto": {
+                    "de-DE": "Schalte das Team-Headquarter frei",
+                    "en-US": "Unlock the Team HQ",
+                    "es-ES": "Desbloquea la sede del equipo",
+                    "fr-FR": "Déverrouille le QG de l'équipe",
+                    "it-IT": "Sblocca il quartier generale (QG) della squadra"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "37.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "de-DE": "Mitarbeiter 1",
+                    "en-US": "Employee #1",
+                    "es-ES": "Empleado n.º 1",
+                    "fr-FR": "Employé n°1",
+                    "it-IT": "Impiegato n. 1"
+                },
+                "description": {
+                    "de-DE": "Starte dein Team",
+                    "en-US": "Start your team",
+                    "es-ES": "Inicia tu equipo",
+                    "fr-FR": "Fonde ton équipe",
+                    "it-IT": "Avvia la tua squadra"
+                },
+                "howto": {
+                    "de-DE": "Starte dein Team",
+                    "en-US": "Start your team",
+                    "es-ES": "Inicia tu equipo",
+                    "fr-FR": "Fonde ton équipe",
+                    "it-IT": "Avvia la tua squadra"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "38.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "de-DE": "Filmstar",
+                    "en-US": "Big-Footy",
+                    "es-ES": "Largo-metraje",
+                    "fr-FR": "C'est dans la boîte !",
+                    "it-IT": "Blockbuster"
+                },
+                "description": {
+                    "de-DE": "Packe den Film-Ender",
+                    "en-US": "Beat the film ender",
+                    "es-ES": "Supera la Secuencia final",
+                    "fr-FR": "Réussis le final vidéo",
+                    "it-IT": "Supera il finale del filmato"
+                },
+                "howto": {
+                    "de-DE": "Packe den Film-Ender",
+                    "en-US": "Beat the film ender",
+                    "es-ES": "Supera la Secuencia final",
+                    "fr-FR": "Réussis le final vidéo",
+                    "it-IT": "Supera il finale del filmato"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "39.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Geburt einer Dynastie",
+                    "en-US": "A Dynasty Is Born",
+                    "es-ES": "El comienzo de una saga",
+                    "fr-FR": "Naissance d'une dynastie",
+                    "it-IT": "L'inizio di una nuova dinastia"
+                },
+                "description": {
+                    "de-DE": "Statte dein Team komplett mit Personal aus",
+                    "en-US": "Fully staffed your team",
+                    "es-ES": "Equipo completo",
+                    "fr-FR": "Forme ton équipe au complet",
+                    "it-IT": "Ingaggia tutti i componenti della tua squadra"
+                },
+                "howto": {
+                    "de-DE": "Statte dein Team komplett mit Personal aus",
+                    "en-US": "Fully staffed your team",
+                    "es-ES": "Equipo completo",
+                    "fr-FR": "Forme ton équipe au complet",
+                    "it-IT": "Ingaggia tutti i componenti della tua squadra"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "40.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "de-DE": "Massenmörder",
+                    "en-US": "Mass Murderer",
+                    "es-ES": "Asesino en serie",
+                    "fr-FR": "La classe atomique",
+                    "it-IT": "Omicida di massa"
+                },
+                "description": {
+                    "de-DE": "Kille 80 Challenges",
+                    "en-US": "Kill 80 challenges",
+                    "es-ES": "Arrasa en 80 desafíos",
+                    "fr-FR": "Explose 80 défis",
+                    "it-IT": "Stravinci 80 sfide"
+                },
+                "howto": {
+                    "de-DE": "Kille 80 Challenges",
+                    "en-US": "Kill 80 challenges",
+                    "es-ES": "Arrasa en 80 desafíos",
+                    "fr-FR": "Explose 80 défis",
+                    "it-IT": "Stravinci 80 sfide"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "41.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "Vorzeigeprofi",
+                    "en-US": "The Consumate Pro",
+                    "es-ES": "Profesional consumado",
+                    "fr-FR": "Être un pro, c'est dur",
+                    "it-IT": "Professionista consumato"
+                },
+                "description": {
+                    "de-DE": "Schließe alle Profi-Challenges ab",
+                    "en-US": "Complete all pro challenges",
+                    "es-ES": "Completa todos los desafíos profesionales",
+                    "fr-FR": "Termine tous les défis pro",
+                    "it-IT": "Completa tutte le sfide pro"
+                },
+                "howto": {
+                    "de-DE": "Schließe alle Profi-Challenges ab",
+                    "en-US": "Complete all pro challenges",
+                    "es-ES": "Completa todos los desafíos profesionales",
+                    "fr-FR": "Termine tous les défis pro",
+                    "it-IT": "Completa tutte le sfide pro"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "42.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "King der Kings",
+                    "en-US": "King of Kings",
+                    "es-ES": "Rey de reyes",
+                    "fr-FR": "Majestueux",
+                    "it-IT": "Re dei re"
+                },
+                "description": {
+                    "de-DE": "Gewinne den Street- und den Tranny-Ender-Contest",
+                    "en-US": "Win the street and tranny ender contests",
+                    "es-ES": "Gana los torneos de Secuencia final callejera y Transición final",
+                    "fr-FR": "Gagne les contests finaux de street et transition",
+                    "it-IT": "Vinci i contest finale Street e Transition"
+                },
+                "howto": {
+                    "de-DE": "Gewinne den Street- und den Tranny-Ender-Contest",
+                    "en-US": "Win the street and tranny ender contests",
+                    "es-ES": "Gana los torneos de Secuencia final callejera y Transición final",
+                    "fr-FR": "Gagne les contests finaux de street et transition",
+                    "it-IT": "Vinci i contest finale Street e Transition"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "43.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "de-DE": "Grundstückshai",
+                    "en-US": "Lot Monopolist",
+                    "es-ES": "Monopolista total",
+                    "fr-FR": "Promoteur immobilier",
+                    "it-IT": "Monopolista delle zone"
+                },
+                "description": {
+                    "de-DE": "Erobere alle Grundstücke",
+                    "en-US": "Own all of the lots",
+                    "es-ES": "Domínalo todo en todos los lugares",
+                    "fr-FR": "Prends tous les quartiers",
+                    "it-IT": "Conquista tutte le zone"
+                },
+                "howto": {
+                    "de-DE": "Erobere alle Grundstücke",
+                    "en-US": "Own all of the lots",
+                    "es-ES": "Domínalo todo en todos los lugares",
+                    "fr-FR": "Prends tous les quartiers",
+                    "it-IT": "Conquista tutte le zone"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "44.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "Skater mit dem größten Sexappeal",
+                    "en-US": "Sexiest Skater Alive",
+                    "es-ES": "El skater más sexy del mundo",
+                    "fr-FR": "Skate-symbol",
+                    "it-IT": "Lo skater più sexy del mondo"
+                },
+                "description": {
+                    "de-DE": "Komm auf das Cover des Skateboard Mags und des Thrashers",
+                    "en-US": "Get the covers of Skateboard Mag and Thrasher",
+                    "es-ES": "Consigue las portadas de The Skateboard Mag y de Thrasher",
+                    "fr-FR": "Fais la couv' de The Skateboard Mag et de Thrasher.",
+                    "it-IT": "Ottieni le copertine di Skateboard Mag e di Thrasher"
+                },
+                "howto": {
+                    "de-DE": "Komm auf das Cover des Skateboard Mags und des Thrashers",
+                    "en-US": "Get the covers of Skateboard Mag and Thrasher",
+                    "es-ES": "Consigue las portadas de The Skateboard Mag y de Thrasher",
+                    "fr-FR": "Fais la couv' de The Skateboard Mag et de Thrasher.",
+                    "it-IT": "Ottieni le copertine di Skateboard Mag e di Thrasher"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "45.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "Rampenlicht",
+                    "en-US": "Overexposed",
+                    "es-ES": "Sobreexpuesto",
+                    "fr-FR": "Surmédiatisation",
+                    "it-IT": "Sovraesposizione"
+                },
+                "description": {
+                    "de-DE": "Schließe alle Promo-Filme und -Fotos ab",
+                    "en-US": "Complete all Promotional Films and Photos",
+                    "es-ES": "Completa todos los vídeos y fotos promocionales",
+                    "fr-FR": "Termine toutes les photos et vidéos promo",
+                    "it-IT": "Completa tutti i filmati e le foto promozionali"
+                },
+                "howto": {
+                    "de-DE": "Schließe alle Promo-Filme und -Fotos ab",
+                    "en-US": "Complete all Promotional Films and Photos",
+                    "es-ES": "Completa todos los vídeos y fotos promocionales",
+                    "fr-FR": "Termine toutes les photos et vidéos promo",
+                    "it-IT": "Completa tutti i filmati e le foto promozionali"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "46.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "de-DE": "Mitarbeiter 4",
+                    "en-US": "Employee #4",
+                    "es-ES": "Empleado n.º 4",
+                    "fr-FR": "Employé n°4",
+                    "it-IT": "Impiegato n. 4"
+                },
+                "description": {
+                    "de-DE": "Verdiene dir dein drittes Karriere-Teammitglied",
+                    "en-US": "Earn your third career teammate",
+                    "es-ES": "Consigue tu tercer compañero de Historia",
+                    "fr-FR": "Gagne ton troisième coéquipier en mode Carrière",
+                    "it-IT": "Ottieni il tuo terzo compagno di squadra della carriera"
+                },
+                "howto": {
+                    "de-DE": "Verdiene dir dein drittes Karriere-Teammitglied",
+                    "en-US": "Earn your third career teammate",
+                    "es-ES": "Consigue tu tercer compañero de Historia",
+                    "fr-FR": "Gagne ton troisième coéquipier en mode Carrière",
+                    "it-IT": "Ottieni il tuo terzo compagno di squadra della carriera"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "47.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "de-DE": "Money Cup-Meister",
+                    "en-US": "Money Cup Master",
+                    "es-ES": "Maestro de la Money Cup",
+                    "fr-FR": "Maître de la Money Cup",
+                    "it-IT": "Signore della Money Cup"
+                },
+                "description": {
+                    "de-DE": "Gewinne den Maloof NY-Contest",
+                    "en-US": "Win the Maloof NY Contest",
+                    "es-ES": "Gana el torneo Maloof NY",
+                    "fr-FR": "Remporte le contest Maloof NY",
+                    "it-IT": "Vinci il Maloof NY contest"
+                },
+                "howto": {
+                    "de-DE": "Gewinne den Maloof NY-Contest",
+                    "en-US": "Win the Maloof NY Contest",
+                    "es-ES": "Gana el torneo Maloof NY",
+                    "fr-FR": "Remporte le contest Maloof NY",
+                    "it-IT": "Vinci il Maloof NY contest"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "48.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "Maloof-Straßenchecker",
+                    "en-US": "Maloof Street Slayer",
+                    "es-ES": "Exterminador callejero de Maloof",
+                    "fr-FR": "Street de Maloof",
+                    "it-IT": "Devastazione street a Maloof"
+                },
+                "description": {
+                    "de-DE": "Absolviere das Maloof NY Street \"Erobere das Grundstück\"",
+                    "en-US": "Complete the Maloof NY Street OTL",
+                    "es-ES": "Completa el Domínalo todo callejero de Maloof NY",
+                    "fr-FR": "Termine le PLQ en Street de Maloof NY ",
+                    "it-IT": "Completa la sfida street Conquista la zona a Maloof, NY"
+                },
+                "howto": {
+                    "de-DE": "Absolviere das Maloof NY Street \"Erobere das Grundstück\"",
+                    "en-US": "Complete the Maloof NY Street OTL",
+                    "es-ES": "Completa el Domínalo todo callejero de Maloof NY",
+                    "fr-FR": "Termine le PLQ en Street de Maloof NY ",
+                    "it-IT": "Completa la sfida street Conquista la zona a Maloof, NY"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "49.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "de-DE": "Maloof-Trannymonster",
+                    "en-US": "Maloof Tranny Monster",
+                    "es-ES": "Monstruo de transición de Maloof",
+                    "fr-FR": "Explosion de transitions Maloof",
+                    "it-IT": "Mostro delle transition a Maloof"
+                },
+                "description": {
+                    "de-DE": "Absolviere das Maloof NY Tranny \"Erobere das Grundstück\"",
+                    "en-US": "Complete the Maloof NY Tranny OTL",
+                    "es-ES": "Completa el Domínalo todo de transición de Maloof NY",
+                    "fr-FR": "Termine le PLQ en transition de Maloof NY ",
+                    "it-IT": "Completa la sfida transition Conquista la zona a Maloof, NY"
+                },
+                "howto": {
+                    "de-DE": "Absolviere das Maloof NY Tranny \"Erobere das Grundstück\"",
+                    "en-US": "Complete the Maloof NY Tranny OTL",
+                    "es-ES": "Completa el Domínalo todo de transición de Maloof NY",
+                    "fr-FR": "Termine le PLQ en transition de Maloof NY ",
+                    "it-IT": "Completa la sfida transition Conquista la zona a Maloof, NY"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "50.png"
+        },
+        "51": {
+            "text": {
+                "name": {
+                    "de-DE": "Fotos sagen mehr als Curbs",
+                    "en-US": "Picture Worth a Thousand Curbs",
+                    "es-ES": "Una imagen vale mil bordillos",
+                    "fr-FR": "Une photo qui vaut de l'or",
+                    "it-IT": "Una foto vale mille marciapiedi"
+                },
+                "description": {
+                    "de-DE": "Absolviere beide Maloof NY Foto-Challenges",
+                    "en-US": "Complete both Maloof NY Photo Challenges",
+                    "es-ES": "Completa los dos desafíos de foto de Maloof NY",
+                    "fr-FR": "Termine les deux défis Photo de Maloof NY",
+                    "it-IT": "Completa entrambe le sfide foto a Maloof, NY"
+                },
+                "howto": {
+                    "de-DE": "Absolviere beide Maloof NY Foto-Challenges",
+                    "en-US": "Complete both Maloof NY Photo Challenges",
+                    "es-ES": "Completa los dos desafíos de foto de Maloof NY",
+                    "fr-FR": "Termine les deux défis Photo de Maloof NY",
+                    "it-IT": "Completa entrambe le sfide foto a Maloof, NY"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "51.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "de-DE": "Wo ist mein Geld?",
+                    "en-US": "Where's My Money?",
+                    "es-ES": "¡Quiero mi dinero!",
+                    "fr-FR": "Le plein de Money",
+                    "it-IT": "Fuori i soldi!"
+                },
+                "description": {
+                    "de-DE": "Absolviere beide Maloof NY \"Erobere den Spot\"-Challenges",
+                    "en-US": "Complete both Maloof NY OTS Challenges",
+                    "es-ES": "Completa los dos desafíos Domina el spot de Maloof NY",
+                    "fr-FR": "Termine les deux défis PLS de Maloof NY",
+                    "it-IT": "Completa entrambe le sfide Conquista lo spot a Maloof, NY"
+                },
+                "howto": {
+                    "de-DE": "Absolviere beide Maloof NY \"Erobere den Spot\"-Challenges",
+                    "en-US": "Complete both Maloof NY OTS Challenges",
+                    "es-ES": "Completa los dos desafíos Domina el spot de Maloof NY",
+                    "fr-FR": "Termine les deux défis PLS de Maloof NY",
+                    "it-IT": "Completa entrambe le sfide Conquista lo spot a Maloof, NY"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "52.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "de-DE": "Dannys Demo-Maschine",
+                    "en-US": "Danny's Demo Machine",
+                    "es-ES": "Máquina de exhibición de Danny",
+                    "fr-FR": "Indémodable",
+                    "it-IT": "La macchina demo di Danny"
+                },
+                "description": {
+                    "de-DE": "Absolviere beide Demos",
+                    "en-US": "Complete both Demos",
+                    "es-ES": "Completa las dos exhibiciones",
+                    "fr-FR": "Termine les deux démos.",
+                    "it-IT": "Completa entrambe le demo"
+                },
+                "howto": {
+                    "de-DE": "Absolviere beide Demos",
+                    "en-US": "Complete both Demos",
+                    "es-ES": "Completa las dos exhibiciones",
+                    "fr-FR": "Termine les deux démos.",
+                    "it-IT": "Completa entrambe le demo"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "53.png"
+        },
+        "54": {
+            "text": {
+                "name": {
+                    "de-DE": "Schlanke Linie",
+                    "en-US": "Lei it on the Line",
+                    "es-ES": "No te salgas de la línea",
+                    "fr-FR": "As du Street",
+                    "it-IT": "Fallo sulla linea"
+                },
+                "description": {
+                    "de-DE": "Absolviere die \"Volles Risiko\"- und \"Pavillon-Film\"-Challenges",
+                    "en-US": "Complete the \"Touch and Go\" and \"Gazebo Film\" Challenges",
+                    "es-ES": "Completa los desafíos \"Toca y sigue\" y \"Grabación en el mirador\".",
+                    "fr-FR": "Réussis les défis \"Photo acrobatique\" et \"Kiosque en vidéo\"",
+                    "it-IT": "Completa le sfide \"Toccata e fuga\" e \"Filmato gazebo\""
+                },
+                "howto": {
+                    "de-DE": "Absolviere die \"Volles Risiko\"- und \"Pavillon-Film\"-Challenges",
+                    "en-US": "Complete the \"Touch and Go\" and \"Gazebo Film\" Challenges",
+                    "es-ES": "Completa los desafíos \"Toca y sigue\" y \"Grabación en el mirador\".",
+                    "fr-FR": "Réussis les défis \"Photo acrobatique\" et \"Kiosque en vidéo\"",
+                    "it-IT": "Completa le sfide \"Toccata e fuga\" e \"Filmato gazebo\""
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "54.png"
+        },
+        "55": {
+            "text": {
+                "name": {
+                    "de-DE": "Nur für Stammgäste",
+                    "en-US": "Street Locals Only",
+                    "es-ES": "Solo nativos callejeros",
+                    "fr-FR": "C'est trop Street",
+                    "it-IT": "Solo street locali"
+                },
+                "description": {
+                    "de-DE": "Absolviere Danny Ways Street-Parcours",
+                    "en-US": "Complete the Danny Way Street Path",
+                    "es-ES": "Completa la ruta callejera de Danny Way",
+                    "fr-FR": "Termine le parcours Street de Danny Way.",
+                    "it-IT": "Completa il percorso street di Danny Way"
+                },
+                "howto": {
+                    "de-DE": "Absolviere Danny Ways Street-Parcours",
+                    "en-US": "Complete the Danny Way Street Path",
+                    "es-ES": "Completa la ruta callejera de Danny Way",
+                    "fr-FR": "Termine le parcours Street de Danny Way.",
+                    "it-IT": "Completa il percorso street di Danny Way"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "55.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "de-DE": "Argh! Fliegende Affen!",
+                    "en-US": "Argh! Flying Monkies!",
+                    "es-ES": "¡Ahh! ¡Monos voladores!",
+                    "fr-FR": "De A à Z",
+                    "it-IT": "Aaahhh! Scimmie volanti!"
+                },
+                "description": {
+                    "de-DE": "Absolviere die \"Dschungel-Step\"- und \"Dannys Mega-Gaps\"-Challenges",
+                    "en-US": "Complete the \"Jungle Step\" and \"Danny's Mega Gaps\" Challenges",
+                    "es-ES": "Completa los desafíos \"El step de la jungla\" y \"Mega gaps de Danny\".",
+                    "fr-FR": "Réussis les défis \"À la verticale\" et \"Méga gaps de Danny\"",
+                    "it-IT": "Completa le sfide \"Jungle step\" e \"Mega gap di Danny\""
+                },
+                "howto": {
+                    "de-DE": "Absolviere die \"Dschungel-Step\"- und \"Dannys Mega-Gaps\"-Challenges",
+                    "en-US": "Complete the \"Jungle Step\" and \"Danny's Mega Gaps\" Challenges",
+                    "es-ES": "Completa los desafíos \"El step de la jungla\" y \"Mega gaps de Danny\".",
+                    "fr-FR": "Réussis les défis \"À la verticale\" et \"Méga gaps de Danny\"",
+                    "it-IT": "Completa le sfide \"Jungle step\" e \"Mega gap di Danny\""
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "56.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "de-DE": "König des Dschungels",
+                    "en-US": "King of the Jungle",
+                    "es-ES": "El Rey de la selva",
+                    "fr-FR": "Roi de la jungle",
+                    "it-IT": "Re della giungla"
+                },
+                "description": {
+                    "de-DE": "Absolviere Danny Ways Tranny-Parcours",
+                    "en-US": "Complete the Danny Way Tranny Path",
+                    "es-ES": "Completa la ruta de transición de Danny Way",
+                    "fr-FR": "Termine le parcours Transition de Danny Way.",
+                    "it-IT": "Completa il percorso transition di Danny Way"
+                },
+                "howto": {
+                    "de-DE": "Absolviere Danny Ways Tranny-Parcours",
+                    "en-US": "Complete the Danny Way Tranny Path",
+                    "es-ES": "Completa la ruta de transición de Danny Way",
+                    "fr-FR": "Termine le parcours Transition de Danny Way.",
+                    "it-IT": "Completa il percorso transition di Danny Way"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "57.png"
+        },
+        "58": {
+            "text": {
+                "name": {
+                    "de-DE": "Mega-Park-Meister",
+                    "en-US": "Master of Mega Gnar",
+                    "es-ES": "Maestro de la megabrutalidad",
+                    "fr-FR": "Incontestable",
+                    "it-IT": "Signore dei Mega"
+                },
+                "description": {
+                    "de-DE": "Besiege Danny Way im Final-Contest",
+                    "en-US": "Beat Danny Way in the Final Contest",
+                    "es-ES": "Derrota a Danny Way en el torneo final",
+                    "fr-FR": "Bats Danny Way dans le contest final.",
+                    "it-IT": "Batti Danny Way nel contest finale"
+                },
+                "howto": {
+                    "de-DE": "Besiege Danny Way im Final-Contest",
+                    "en-US": "Beat Danny Way in the Final Contest",
+                    "es-ES": "Derrota a Danny Way en el torneo final",
+                    "fr-FR": "Bats Danny Way dans le contest final.",
+                    "it-IT": "Batti Danny Way nel contest finale"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "58.png"
+        },
+        "59": {
+            "text": {
+                "name": {
+                    "de-DE": "Way-ter so",
+                    "en-US": "The Ownly Way",
+                    "es-ES": "El camino del dominio",
+                    "fr-FR": "Maître des spots",
+                    "it-IT": "La via della conquista"
+                },
+                "description": {
+                    "de-DE": "Absolviere beide \"Erobere den Spot\"-Challenges von Danny Way",
+                    "en-US": "Complete both Danny Way OTS Challenges",
+                    "es-ES": "Completa los dos desafíos Domina el spot de Danny Way",
+                    "fr-FR": "Réussis les deux défis PLS de Danny Way.",
+                    "it-IT": "Completa le due sfide Conquista lo spot di Danny Way"
+                },
+                "howto": {
+                    "de-DE": "Absolviere beide \"Erobere den Spot\"-Challenges von Danny Way",
+                    "en-US": "Complete both Danny Way OTS Challenges",
+                    "es-ES": "Completa los dos desafíos Domina el spot de Danny Way",
+                    "fr-FR": "Réussis les deux défis PLS de Danny Way.",
+                    "it-IT": "Completa le due sfide Conquista lo spot di Danny Way"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "59.png"
+        }
+    }
+}
