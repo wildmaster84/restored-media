@@ -1,0 +1,5344 @@
+{
+    "properties": {
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000014": {
+            "info": "DM Wins",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000015": {
+            "info": "TDM Wins",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000016": {
+            "info": "CTF Wins",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000028": {
+            "info": "Largest Kill Streak",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000019": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000003E": {
+            "info": "Assists",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000019": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000028": {
+            "info": "Largest Kill Streak",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000019": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000002A": {
+            "info": "Second Place Finishes",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000002B": {
+            "info": "Third Place Finishes",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000003C": {
+            "info": "Consecutive Wins",
+            "method": "max",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000022": {
+            "info": "Flag Captures",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000024": {
+            "info": "Flag Carrier Kills",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000032": {
+            "info": "Hands Played",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x1000002C": {
+            "info": "Money Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000002D": {
+            "info": "Money Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000002E": {
+            "info": "Four of a Kinds",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000002F": {
+            "info": "Full Houses",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000003C": {
+            "info": "Consecutive Wins",
+            "method": "max",
+            "statId": 6
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000030": {
+            "info": "Ringers",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000003C": {
+            "info": "Consecutive Wins",
+            "method": "max",
+            "statId": 4
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000031": {
+            "info": "Correct Callouts",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000003C": {
+            "info": "Consecutive Wins",
+            "method": "max",
+            "statId": 4
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000022": {
+            "info": "Flag Captures",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000024": {
+            "info": "Flag Carrier Kills",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000022": {
+            "info": "Flag Captures",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000024": {
+            "info": "Flag Carrier Kills",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000002A": {
+            "info": "Second Place Finishes",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000002B": {
+            "info": "Third Place Finishes",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000003C": {
+            "info": "Consecutive Wins",
+            "method": "max",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000002A": {
+            "info": "Second Place Finishes",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000002B": {
+            "info": "Third Place Finishes",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000003C": {
+            "info": "Consecutive Wins",
+            "method": "max",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000002A": {
+            "info": "Second Place Finishes",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000002B": {
+            "info": "Third Place Finishes",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000003C": {
+            "info": "Consecutive Wins",
+            "method": "max",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000002A": {
+            "info": "Second Place Finishes",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000002B": {
+            "info": "Third Place Finishes",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000003C": {
+            "info": "Consecutive Wins",
+            "method": "max",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000002A": {
+            "info": "Second Place Finishes",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000002B": {
+            "info": "Third Place Finishes",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000003C": {
+            "info": "Consecutive Wins",
+            "method": "max",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000023": {
+            "info": "Cows Saved",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000047": {
+            "info": "Rating",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000067": {
+            "info": "Challenge Score 1",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000068": {
+            "info": "Challenge Score 2",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000069": {
+            "info": "Challenge Score 3",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000006A": {
+            "info": "Challenge Score 4",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000006B": {
+            "info": "Challenge Score 5",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x1000006C": {
+            "info": "Challenge Score 6",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x1000006D": {
+            "info": "Challenge Score 7",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x1000006E": {
+            "info": "Challenge Score 8",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x1000006F": {
+            "info": "Challenge Score 9",
+            "method": "sum",
+            "statId": 9
+        },
+        "0x10000070": {
+            "info": "Challenge Score 10",
+            "method": "sum",
+            "statId": 10
+        },
+        "0x10000071": {
+            "info": "Challenge Score 11",
+            "method": "sum",
+            "statId": 11
+        },
+        "0x10000072": {
+            "info": "Challenge Score 12",
+            "method": "sum",
+            "statId": 12
+        },
+        "0x10000073": {
+            "info": "Challenge Score 13",
+            "method": "sum",
+            "statId": 13
+        },
+        "0x10000074": {
+            "info": "Challenge Score 14",
+            "method": "sum",
+            "statId": 14
+        },
+        "0x10000075": {
+            "info": "Challenge Score 15",
+            "method": "sum",
+            "statId": 15
+        },
+        "0x10000076": {
+            "info": "Challenge Score 16",
+            "method": "sum",
+            "statId": 16
+        },
+        "0x10000077": {
+            "info": "Challenge Score 17",
+            "method": "sum",
+            "statId": 17
+        },
+        "0x10000078": {
+            "info": "Challenge Score 18",
+            "method": "sum",
+            "statId": 18
+        },
+        "0x10000079": {
+            "info": "Challenge Score 19",
+            "method": "sum",
+            "statId": 19
+        },
+        "0x1000007A": {
+            "info": "Challenge Score 20",
+            "method": "sum",
+            "statId": 20
+        },
+        "0x1000007B": {
+            "info": "Challenge Score 21",
+            "method": "sum",
+            "statId": 21
+        },
+        "0x1000007C": {
+            "info": "Challenge Score 22",
+            "method": "sum",
+            "statId": 22
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000023": {
+            "info": "Cows Saved",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000028": {
+            "info": "Largest Kill Streak",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000019": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000028": {
+            "info": "Largest Kill Streak",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000019": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000028": {
+            "info": "Largest Kill Streak",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000019": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000028": {
+            "info": "Largest Kill Streak",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000019": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000028": {
+            "info": "Largest Kill Streak",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000019": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000028": {
+            "info": "Largest Kill Streak",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000019": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000022": {
+            "info": "Flag Captures",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000024": {
+            "info": "Flag Carrier Kills",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000022": {
+            "info": "Flag Captures",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000024": {
+            "info": "Flag Carrier Kills",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000022": {
+            "info": "Flag Captures",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000024": {
+            "info": "Flag Carrier Kills",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000022": {
+            "info": "Flag Captures",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000024": {
+            "info": "Flag Carrier Kills",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000022": {
+            "info": "Flag Captures",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000024": {
+            "info": "Flag Carrier Kills",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000022": {
+            "info": "Flag Captures",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000024": {
+            "info": "Flag Carrier Kills",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000022": {
+            "info": "Flag Captures",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000024": {
+            "info": "Flag Carrier Kills",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000022": {
+            "info": "Flag Captures",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000024": {
+            "info": "Flag Carrier Kills",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000022": {
+            "info": "Flag Captures",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000024": {
+            "info": "Flag Carrier Kills",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x1000004D": {
+            "info": "Best Medal",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100000A6": {
+            "info": "Time To Complete",
+            "method": "last",
+            "statId": 1
+        },
+        "0x2000004E": {
+            "info": "Objective Completed 0",
+            "method": "last",
+            "statId": 2
+        },
+        "0x2000004F": {
+            "info": "Objective Completed 1",
+            "method": "last",
+            "statId": 3
+        },
+        "0x20000050": {
+            "info": "Objective Completed 2",
+            "method": "last",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000047": {
+            "info": "Rating",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000067": {
+            "info": "Challenge Score 1",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000068": {
+            "info": "Challenge Score 2",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000069": {
+            "info": "Challenge Score 3",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000006A": {
+            "info": "Challenge Score 4",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000006B": {
+            "info": "Challenge Score 5",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x1000006C": {
+            "info": "Challenge Score 6",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x1000006D": {
+            "info": "Challenge Score 7",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x1000006E": {
+            "info": "Challenge Score 8",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x1000006F": {
+            "info": "Challenge Score 9",
+            "method": "sum",
+            "statId": 9
+        },
+        "0x10000070": {
+            "info": "Challenge Score 10",
+            "method": "sum",
+            "statId": 10
+        },
+        "0x10000071": {
+            "info": "Challenge Score 11",
+            "method": "sum",
+            "statId": 11
+        },
+        "0x10000072": {
+            "info": "Challenge Score 12",
+            "method": "sum",
+            "statId": 12
+        },
+        "0x10000073": {
+            "info": "Challenge Score 13",
+            "method": "sum",
+            "statId": 13
+        },
+        "0x10000074": {
+            "info": "Challenge Score 14",
+            "method": "sum",
+            "statId": 14
+        },
+        "0x10000075": {
+            "info": "Challenge Score 15",
+            "method": "sum",
+            "statId": 15
+        },
+        "0x10000076": {
+            "info": "Challenge Score 16",
+            "method": "sum",
+            "statId": 16
+        },
+        "0x10000077": {
+            "info": "Challenge Score 17",
+            "method": "sum",
+            "statId": 17
+        },
+        "0x10000078": {
+            "info": "Challenge Score 18",
+            "method": "sum",
+            "statId": 18
+        },
+        "0x10000079": {
+            "info": "Challenge Score 19",
+            "method": "sum",
+            "statId": 19
+        },
+        "0x1000007A": {
+            "info": "Challenge Score 20",
+            "method": "sum",
+            "statId": 20
+        },
+        "0x1000007B": {
+            "info": "Challenge Score 21",
+            "method": "sum",
+            "statId": 21
+        },
+        "0x1000007C": {
+            "info": "Challenge Score 22",
+            "method": "sum",
+            "statId": 22
+        },
+        "0x1000007D": {
+            "info": "Challenge Score 23",
+            "method": "sum",
+            "statId": 23
+        },
+        "0x1000007E": {
+            "info": "Challenge Score 24",
+            "method": "sum",
+            "statId": 24
+        },
+        "0x1000007F": {
+            "info": "Challenge Score 25",
+            "method": "sum",
+            "statId": 25
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000047": {
+            "info": "Rating",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000001E": {
+            "info": "Time Played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000022": {
+            "info": "Flag Captures",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000024": {
+            "info": "Flag Carrier Kills",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000022": {
+            "info": "Flag Captures",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000024": {
+            "info": "Flag Carrier Kills",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000022": {
+            "info": "Flag Captures",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000024": {
+            "info": "Flag Carrier Kills",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000022": {
+            "info": "Flag Captures",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000024": {
+            "info": "Flag Carrier Kills",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000028": {
+            "info": "Largest Kill Streak",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000019": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000028": {
+            "info": "Largest Kill Streak",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000019": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000028": {
+            "info": "Largest Kill Streak",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000019": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000028": {
+            "info": "Largest Kill Streak",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000019": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000010": {
+            "info": "Number Raced",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x100000A6": {
+            "info": "Fastest Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000012": {
+            "info": "Races Won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000011": {
+            "info": "Races Lost",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000002A": {
+            "info": "Total Rank",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x1000001D": {
+            "info": "Total GP",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000010": {
+            "info": "Number Raced",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x100000A6": {
+            "info": "Fastest Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000012": {
+            "info": "Races Won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000011": {
+            "info": "Races Lost",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000002A": {
+            "info": "Total Rank",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x1000001D": {
+            "info": "Total GP",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000010": {
+            "info": "Number Raced",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x100000A6": {
+            "info": "Fastest Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000012": {
+            "info": "Races Won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000011": {
+            "info": "Races Lost",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000002A": {
+            "info": "Total Rank",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x1000001D": {
+            "info": "Total GP",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000010": {
+            "info": "Number Raced",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x100000A6": {
+            "info": "Fastest Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000012": {
+            "info": "Races Won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000011": {
+            "info": "Races Lost",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000002A": {
+            "info": "Total Rank",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x1000001D": {
+            "info": "Total GP",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000010": {
+            "info": "Number Raced",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x100000A6": {
+            "info": "Fastest Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000012": {
+            "info": "Races Won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000011": {
+            "info": "Races Lost",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000002A": {
+            "info": "Total Rank",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x1000001D": {
+            "info": "Total GP",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000010": {
+            "info": "Number Raced",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x100000A6": {
+            "info": "Fastest Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000012": {
+            "info": "Races Won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000011": {
+            "info": "Races Lost",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000002A": {
+            "info": "Total Rank",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x1000001D": {
+            "info": "Total GP",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000010": {
+            "info": "Number Raced",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x100000A6": {
+            "info": "Fastest Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000012": {
+            "info": "Races Won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000011": {
+            "info": "Races Lost",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000002A": {
+            "info": "Total Rank",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x1000001D": {
+            "info": "Total GP",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000010": {
+            "info": "Number Raced",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x100000A6": {
+            "info": "Fastest Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000012": {
+            "info": "Races Won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000011": {
+            "info": "Races Lost",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000002A": {
+            "info": "Total Rank",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x1000001D": {
+            "info": "Total GP",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000010": {
+            "info": "Number Raced",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x100000A6": {
+            "info": "Fastest Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000012": {
+            "info": "Races Won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000011": {
+            "info": "Races Lost",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000002A": {
+            "info": "Total Rank",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x1000001D": {
+            "info": "Total GP",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000010": {
+            "info": "Number Raced",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x100000A6": {
+            "info": "Fastest Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000012": {
+            "info": "Races Won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000011": {
+            "info": "Races Lost",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000002A": {
+            "info": "Total Rank",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x1000001D": {
+            "info": "Total GP",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000010": {
+            "info": "Number Raced",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x100000A6": {
+            "info": "Fastest Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x10000012": {
+            "info": "Races Won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000011": {
+            "info": "Races Lost",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000002A": {
+            "info": "Total Rank",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x1000001D": {
+            "info": "Total GP",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000032": {
+            "info": "Hands Played",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000012": {
+            "info": "Hands Won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000002C": {
+            "info": "Money Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000002D": {
+            "info": "Money Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000003C": {
+            "info": "Consecutive Wins",
+            "method": "max",
+            "statId": 6
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000012": {
+            "info": "Games Won",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000011": {
+            "info": "Games Lost",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000031": {
+            "info": "Correct Callouts",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000030": {
+            "info": "Spot On Callouts",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x1000003C": {
+            "info": "Consecutive Wins",
+            "method": "max",
+            "statId": 4
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Personal Score",
+            "method": "max",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Personal Score",
+            "method": "max",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Posse Score",
+            "method": "max",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Posse Score",
+            "method": "max",
+            "statId": 1
+        },
+        "0x20000025": {
+            "info": "Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Score",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000019": {
+            "info": "Deaths",
+            "method": "max",
+            "statId": 3
+        },
+        "0x100000A6": {
+            "info": "Time",
+            "method": "min",
+            "statId": 5
+        },
+        "0x1000001E": {
+            "info": "Times Played",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Score",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000019": {
+            "info": "Deaths",
+            "method": "max",
+            "statId": 3
+        },
+        "0x100000A6": {
+            "info": "Time",
+            "method": "min",
+            "statId": 5
+        },
+        "0x1000001E": {
+            "info": "Times Played",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Score",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000019": {
+            "info": "Deaths",
+            "method": "max",
+            "statId": 3
+        },
+        "0x100000A6": {
+            "info": "Time",
+            "method": "min",
+            "statId": 5
+        },
+        "0x1000001E": {
+            "info": "Times Played",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000001D": {
+            "info": "Score",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000019": {
+            "info": "Deaths",
+            "method": "max",
+            "statId": 3
+        },
+        "0x100000A6": {
+            "info": "Time",
+            "method": "min",
+            "statId": 5
+        },
+        "0x1000001E": {
+            "info": "Times Played",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x100000A6": {
+            "info": "Most Time defended",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000001D": {
+            "info": "Max Point Gained",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000019": {
+            "info": "Deaths",
+            "method": "max",
+            "statId": 4
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x100000A6": {
+            "info": "Most Time defended",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000001D": {
+            "info": "Max Point Gained",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000018": {
+            "info": "Kills",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000019": {
+            "info": "Deaths",
+            "method": "max",
+            "statId": 4
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000067": {
+            "info": "Casual",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000068": {
+            "info": "Team",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000069": {
+            "info": "FFA",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000006A": {
+            "info": "COOP",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000006B": {
+            "info": "ADV_COOP",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x1000006D": {
+            "info": "ADV_FFA",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x1000006C": {
+            "info": "ADV_TEAM",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x1000006E": {
+            "info": "Extra DMs",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x1000006F": {
+            "info": "Extra Bags",
+            "method": "sum",
+            "statId": 9
+        },
+        "0x10000070": {
+            "info": "Races",
+            "method": "sum",
+            "statId": 10
+        },
+        "0x10000071": {
+            "info": "POKER",
+            "method": "sum",
+            "statId": 11
+        },
+        "0x10000072": {
+            "info": "LiarsDice",
+            "method": "sum",
+            "statId": 12
+        },
+        "0x10000073": {
+            "info": "MAP_PACK_DCL1",
+            "method": "sum",
+            "statId": 13
+        },
+        "0x10000074": {
+            "info": "MAP_pack_dlc2",
+            "method": "sum",
+            "statId": 14
+        },
+        "0x10000075": {
+            "info": "map_pack_dlc3",
+            "method": "sum",
+            "statId": 15
+        },
+        "0x10000076": {
+            "info": "map_pack_dlc4",
+            "method": "sum",
+            "statId": 16
+        },
+        "0x10000077": {
+            "info": "stronghold_Dlc5",
+            "method": "sum",
+            "statId": 17
+        },
+        "0x10000078": {
+            "info": "DCL6",
+            "method": "sum",
+            "statId": 18
+        },
+        "0x10000079": {
+            "info": "DLC7",
+            "method": "sum",
+            "statId": 19
+        },
+        "0x1000007A": {
+            "info": "DLC8",
+            "method": "sum",
+            "statId": 20
+        },
+        "0x1000007B": {
+            "info": "DLC9",
+            "method": "sum",
+            "statId": 21
+        },
+        "0x1000007C": {
+            "info": "DLC10",
+            "method": "sum",
+            "statId": 22
+        },
+        "0x1000007D": {
+            "info": "Extra1",
+            "method": "sum",
+            "statId": 23
+        },
+        "0x1000007E": {
+            "info": "Extra2",
+            "method": "sum",
+            "statId": 24
+        },
+        "0x1000007F": {
+            "info": "Extra3",
+            "method": "sum",
+            "statId": 25
+        },
+        "0x20000025": {
+            "info": "Score Hidden",
+            "method": "sum",
+            "statId": 65534
+        }
+    }
+}

@@ -1,0 +1,3044 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Typ von der Regierung",
+                    "en-US": "That Government Boy",
+                    "es-ES": "Ese hombre del gobierno",
+                    "fr-FR": "A la solde du gouvernement",
+                    "it-IT": "Quel ragazzo del governo",
+                    "ja-JP": "政府の犬"
+                },
+                "description": {
+                    "de-DE": "Absolviere \"Exodus in Amerika\".",
+                    "en-US": "Complete \"Exodus in America\".",
+                    "es-ES": "Completa \"Éxodo en EE. UU.\".",
+                    "fr-FR": "Terminez \"Exode en Amérique\".",
+                    "it-IT": "Completa \"Esodo in America\".",
+                    "ja-JP": "「アメリカ横断記」をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere \"Exodus in Amerika\".",
+                    "en-US": "Complete \"Exodus in America\".",
+                    "es-ES": "Completa \"Éxodo en EE. UU.\".",
+                    "fr-FR": "Terminez \"Exode en Amérique\".",
+                    "it-IT": "Completa \"Esodo in America\".",
+                    "ja-JP": "「アメリカ横断記」をクリアする。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Unbegrenzte Möglichkeiten",
+                    "en-US": "Land of Opportunity",
+                    "es-ES": "Tierra de oportunidades",
+                    "fr-FR": "Le pays des opportunités",
+                    "it-IT": "Terra di opportunità",
+                    "ja-JP": "チャンスの土地"
+                },
+                "description": {
+                    "de-DE": "Absolviere \"Überfall auf Fort Mercer\".",
+                    "en-US": "Complete \"The Assault on Fort Mercer\".",
+                    "es-ES": "Completa \"El ataque a Fort Mercer\".",
+                    "fr-FR": "Terminez \"L'attaque de Fort Mercer\".",
+                    "it-IT": "Completa \"L'assalto a Fort Mercer\".",
+                    "ja-JP": "「フォート・マーサー襲撃」をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere \"Überfall auf Fort Mercer\".",
+                    "en-US": "Complete \"The Assault on Fort Mercer\".",
+                    "es-ES": "Completa \"El ataque a Fort Mercer\".",
+                    "fr-FR": "Terminez \"L'attaque de Fort Mercer\".",
+                    "it-IT": "Completa \"L'assalto a Fort Mercer\".",
+                    "ja-JP": "「フォート・マーサー襲撃」をクリアする。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "30",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Söhne Mexikos",
+                    "en-US": "Sons of Mexico",
+                    "es-ES": "Hijos de México",
+                    "fr-FR": "Fils du Mexique",
+                    "it-IT": "Figli del Messico",
+                    "ja-JP": "サンズ・オブ・メキシコ"
+                },
+                "description": {
+                    "de-DE": "Absolviere \"Die Tore von El Presidio\".",
+                    "en-US": "Complete \"The Gates of El Presidio\".",
+                    "es-ES": "Completa \"Las puertas de El Presidio\".",
+                    "fr-FR": "Terminez \"Les portes d'El Presidio\".",
+                    "it-IT": "Completa \"I cancelli di El Presidio\".",
+                    "ja-JP": "「エル・プレシディオの門」をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere \"Die Tore von El Presidio\".",
+                    "en-US": "Complete \"The Gates of El Presidio\".",
+                    "es-ES": "Completa \"Las puertas de El Presidio\".",
+                    "fr-FR": "Terminez \"Les portes d'El Presidio\".",
+                    "it-IT": "Completa \"I cancelli di El Presidio\".",
+                    "ja-JP": "「エル・プレシディオの門」をクリアする。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "40",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Schluss mit dem Gerede ",
+                    "en-US": "No More Fancy Words",
+                    "es-ES": "No más labia",
+                    "fr-FR": "Trêve de bavardages",
+                    "it-IT": "Basta giri di parole",
+                    "ja-JP": "着飾った言葉はいらない"
+                },
+                "description": {
+                    "de-DE": "Absolviere \"Zur festgesetzten Zeit\".",
+                    "en-US": "Complete \"An Appointed Time\".",
+                    "es-ES": "Completa \"La hora señalada\".",
+                    "fr-FR": "Terminez \"A l'heure convenue\".",
+                    "it-IT": "Completa \"Il momento stabilito\".",
+                    "ja-JP": "「約束されし時」をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere \"Zur festgesetzten Zeit\".",
+                    "en-US": "Complete \"An Appointed Time\".",
+                    "es-ES": "Completa \"La hora señalada\".",
+                    "fr-FR": "Terminez \"A l'heure convenue\".",
+                    "it-IT": "Completa \"Il momento stabilito\".",
+                    "ja-JP": "「約束されし時」をクリアする。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Eine wilde Seele",
+                    "en-US": "A Savage Soul",
+                    "es-ES": "Un alma salvaje",
+                    "fr-FR": "A l'état sauvage",
+                    "it-IT": "Un'anima selvaggia",
+                    "ja-JP": "野蛮な魂"
+                },
+                "description": {
+                    "de-DE": "Absolviere \"Zuhause bei Dutch\".",
+                    "en-US": "Complete \"At Home with Dutch\".",
+                    "es-ES": "Completa \"En casa con Dutch\".",
+                    "fr-FR": "Terminez \"Ce bon vieux Dutch\".",
+                    "it-IT": "Completa \"A casa con Dutch\".",
+                    "ja-JP": "「ダッチの庭で」をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere \"Zuhause bei Dutch\".",
+                    "en-US": "Complete \"At Home with Dutch\".",
+                    "es-ES": "Completa \"En casa con Dutch\".",
+                    "fr-FR": "Terminez \"Ce bon vieux Dutch\".",
+                    "it-IT": "Completa \"A casa con Dutch\".",
+                    "ja-JP": "「ダッチの庭で」をクリアする。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Vorzüge der Zivilisation",
+                    "en-US": "The Benefits of Civilization",
+                    "es-ES": "Los beneficios de ser civilizado",
+                    "fr-FR": "Les bienfaits de la civilisation",
+                    "it-IT": "I benefici della civiltà",
+                    "ja-JP": "文明の恩恵"
+                },
+                "description": {
+                    "de-DE": "Absolviere \"Und die Wahrheit wird euch frei machen\".",
+                    "en-US": "Complete \"And the Truth Will Set You Free\".",
+                    "es-ES": "Completa \"Y la verdad os hará libres\".",
+                    "fr-FR": "Terminez \"Et la Vérité vous libérera\".",
+                    "it-IT": "Completa \"E la verità ti renderà libero\".",
+                    "ja-JP": "「そして真理により解放されん」をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere \"Und die Wahrheit wird euch frei machen\".",
+                    "en-US": "Complete \"And the Truth Will Set You Free\".",
+                    "es-ES": "Completa \"Y la verdad os hará libres\".",
+                    "fr-FR": "Terminez \"Et la Vérité vous libérera\".",
+                    "it-IT": "Completa \"E la verità ti renderà libero\".",
+                    "ja-JP": "「そして真理により解放されん」をクリアする。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "90",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "In den Sonnenuntergang",
+                    "en-US": "Into the Sunset",
+                    "es-ES": "En el atardecer",
+                    "fr-FR": "Vers le soleil couchant",
+                    "it-IT": "Verso il tramonto",
+                    "ja-JP": "夕焼けに向かって"
+                },
+                "description": {
+                    "de-DE": "Absolviere \"Der letzte Feind der entmachtet wird\".",
+                    "en-US": "Complete \"The Last Enemy That Shall Be Destroyed\".",
+                    "es-ES": "Completa \"El último enemigo que debe ser destruido\".",
+                    "fr-FR": "Terminez \"Le dernier ennemi à abattre\".",
+                    "it-IT": "Completa \"L'ultimo nemico che sarà distrutto\".",
+                    "ja-JP": "「最後に滅ぼされるべき敵」をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere \"Der letzte Feind der entmachtet wird\".",
+                    "en-US": "Complete \"The Last Enemy That Shall Be Destroyed\".",
+                    "es-ES": "Completa \"El último enemigo que debe ser destruido\".",
+                    "fr-FR": "Terminez \"Le dernier ennemi à abattre\".",
+                    "it-IT": "Completa \"L'ultimo nemico che sarà distrutto\".",
+                    "ja-JP": "「最後に滅ぼされるべき敵」をクリアする。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "100",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Erziehung oder Natur?",
+                    "en-US": "Nurture or Nature?",
+                    "es-ES": "¿Cuidados o naturaleza?",
+                    "fr-FR": "L'inné contre l'acquis",
+                    "it-IT": "Natura o educazione?",
+                    "ja-JP": "氏より育ち"
+                },
+                "description": {
+                    "de-DE": "Absolviere \"Denk an meine Familie\".",
+                    "en-US": "Complete \"Remember My Family\".",
+                    "es-ES": "Completa \"Recuerda a mi familia\".",
+                    "fr-FR": "Terminez \"Souvenez-vous de ma famille\".",
+                    "it-IT": "Completa \"Ricorda la mia famiglia\".",
+                    "ja-JP": "「家族を忘るべからず」をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere \"Denk an meine Familie\".",
+                    "en-US": "Complete \"Remember My Family\".",
+                    "es-ES": "Completa \"Recuerda a mi familia\".",
+                    "fr-FR": "Terminez \"Souvenez-vous de ma famille\".",
+                    "it-IT": "Completa \"Ricorda la mia famiglia\".",
+                    "ja-JP": "「家族を忘るべからず」をクリアする。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "High Roller",
+                    "en-US": "High Roller",
+                    "es-ES": "Gran apostador",
+                    "fr-FR": "Face de poker",
+                    "it-IT": "Il ripulitore",
+                    "ja-JP": "ハイローラー"
+                },
+                "description": {
+                    "de-DE": "Gewinne über 2000 Chips mit einem einzigen Blatt beim Poker.",
+                    "en-US": "Win over 2000 chips in a hand of Poker.",
+                    "es-ES": "Gana más de 2.000 fichas en una mano de póquer.",
+                    "fr-FR": "Remportez plus de 2000 jetons en une main de poker.",
+                    "it-IT": "Vinci oltre 2000 fiches in una mano di \"Poker\".",
+                    "ja-JP": "一つのポーカーの手で2000チップ以上勝ち取る。"
+                },
+                "howto": {
+                    "de-DE": "Gewinne über 2000 Chips mit einem einzigen Blatt beim Poker.",
+                    "en-US": "Win over 2000 chips in a hand of Poker.",
+                    "es-ES": "Gana más de 2.000 fichas en una mano de póquer.",
+                    "fr-FR": "Remportez plus de 2000 jetons en une main de poker.",
+                    "it-IT": "Vinci oltre 2000 fiches in una mano di \"Poker\".",
+                    "ja-JP": "一つのポーカーの手で2000チップ以上勝ち取る。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Alle Würfel",
+                    "en-US": "No Dice",
+                    "es-ES": "Sin dados",
+                    "fr-FR": "Tu bluffes, Martoni",
+                    "it-IT": "Niente dadi",
+                    "ja-JP": "ノー・ダイス"
+                },
+                "description": {
+                    "de-DE": "Absolviere eine Partie Würfelpoker, ohne einen Würfel zu verlieren.",
+                    "en-US": "Complete a game of Liar's Dice without losing a single die.",
+                    "es-ES": "Completa una partida al Dado mentiroso sin perder ni un solo dado.",
+                    "fr-FR": "Terminez une partie de poker menteur sans perdre un seul dé.",
+                    "it-IT": "Completa una partita a \"Dadi bugiardi\" senza perdere alcun dado.",
+                    "ja-JP": "1つもダイスを失わずにブラフに勝利する。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere eine Partie Würfelpoker, ohne einen Würfel zu verlieren.",
+                    "en-US": "Complete a game of Liar's Dice without losing a single die.",
+                    "es-ES": "Completa una partida al Dado mentiroso sin perder ni un solo dado.",
+                    "fr-FR": "Terminez une partie de poker menteur sans perdre un seul dé.",
+                    "it-IT": "Completa una partita a \"Dadi bugiardi\" senza perdere alcun dado.",
+                    "ja-JP": "1つもダイスを失わずにブラフに勝利する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Wie wär's mit Handgranaten?",
+                    "en-US": "What About Hand Grenades?",
+                    "es-ES": "¿Granadas de mano?",
+                    "fr-FR": "Coiffé au poteau",
+                    "it-IT": "Passa alle granate",
+                    "ja-JP": "次は手りゅう弾で？"
+                },
+                "description": {
+                    "de-DE": "Erziele einen Ringer beim Hufeisenwerfen.",
+                    "en-US": "Get a ringer in a game of Horseshoes.",
+                    "es-ES": "Consigue un lanzamiento perfecto en el Juego de la herradura.",
+                    "fr-FR": "Atteignez le poteau lors d'une partie de lancer de fer à cheval.",
+                    "it-IT": "Fai un centro in una partita a \"Ferri di cavallo\".",
+                    "ja-JP": "蹄鉄投げでリンガーを決める。"
+                },
+                "howto": {
+                    "de-DE": "Erziele einen Ringer beim Hufeisenwerfen.",
+                    "en-US": "Get a ringer in a game of Horseshoes.",
+                    "es-ES": "Consigue un lanzamiento perfecto en el Juego de la herradura.",
+                    "fr-FR": "Atteignez le poteau lors d'une partie de lancer de fer à cheval.",
+                    "it-IT": "Fai un centro in una partita a \"Ferri di cavallo\".",
+                    "ja-JP": "蹄鉄投げでリンガーを決める。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Austin ausgepowert",
+                    "en-US": "Austin Overpowered",
+                    "es-ES": "Austin dominado",
+                    "fr-FR": "Marston, Austin Ranger",
+                    "it-IT": "Austin Superpower",
+                    "ja-JP": "オースティン・パワー"
+                },
+                "description": {
+                    "de-DE": "Absolviere die Twin Rocks-, Pike's Basin- und Gaptooth Breach-Bandenverstecke im Einzelspieler-Modus",
+                    "en-US": "Complete Twin Rocks,  Pike's Basin, and Gaptooth Breach Hideouts in Single Player.",
+                    "es-ES": "Completa las guaridas de Twin Rocks, Pike's Basin y Gaptooth Breach en el modo de un jugador.",
+                    "fr-FR": "Nettoyez les repaires de Twin Rocks, Pike's Basin et Gaptooth Breach en mode Histoire.",
+                    "it-IT": "Ripulisci i covi di Twin Rocks, Pike's Basin e Gaptooth Breach in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイで双子岩、パイクズ・ベイスン、ギャップトゥース・ブリーチの隠れ家をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere die Twin Rocks-, Pike's Basin- und Gaptooth Breach-Bandenverstecke im Einzelspieler-Modus",
+                    "en-US": "Complete Twin Rocks,  Pike's Basin, and Gaptooth Breach Hideouts in Single Player.",
+                    "es-ES": "Completa las guaridas de Twin Rocks, Pike's Basin y Gaptooth Breach en el modo de un jugador.",
+                    "fr-FR": "Nettoyez les repaires de Twin Rocks, Pike's Basin et Gaptooth Breach en mode Histoire.",
+                    "it-IT": "Ripulisci i covi di Twin Rocks, Pike's Basin e Gaptooth Breach in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイで双子岩、パイクズ・ベイスン、ギャップトゥース・ブリーチの隠れ家をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "12.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "Böse Geister",
+                    "en-US": "Evil Spirits",
+                    "es-ES": "Espíritus malvados",
+                    "fr-FR": "Esprits du mal",
+                    "it-IT": "Spiriti maligni",
+                    "ja-JP": "悪霊退治"
+                },
+                "description": {
+                    "de-DE": "Absolviere die Tumbleweed und Tesoro Azul-Bandenverstecke im Einzelspieler-Modus.",
+                    "en-US": "Complete Tumbleweed and Tesoro Azul Hideouts in Single Player.",
+                    "es-ES": "Completa las guaridas de Tumbleweed y Tesoro Azul en el modo de un jugador.",
+                    "fr-FR": "Nettoyez les repaires de Tumbleweed et Tesoro Azul en mode Histoire.",
+                    "it-IT": "Ripulisci i covi di Tumbleweed e Tesoro Azul in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイでタンブルウィードとテソロ・アズルの隠れ家をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere die Tumbleweed und Tesoro Azul-Bandenverstecke im Einzelspieler-Modus.",
+                    "en-US": "Complete Tumbleweed and Tesoro Azul Hideouts in Single Player.",
+                    "es-ES": "Completa las guaridas de Tumbleweed y Tesoro Azul en el modo de un jugador.",
+                    "fr-FR": "Nettoyez les repaires de Tumbleweed et Tesoro Azul en mode Histoire.",
+                    "it-IT": "Ripulisci i covi di Tumbleweed e Tesoro Azul in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイでタンブルウィードとテソロ・アズルの隠れ家をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "13.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "Instinto Asesino",
+                    "en-US": "Instinto Asesino",
+                    "es-ES": "Instinto asesino",
+                    "fr-FR": "L'instinct de mort",
+                    "it-IT": "Instinto Asesino",
+                    "ja-JP": "ナチュラル・ボーン・アサシン"
+                },
+                "description": {
+                    "de-DE": "Absolviere die Fort Mercer und Nosalida-Bandenverstecke im Einzelspieler-Modus.",
+                    "en-US": "Complete Fort Mercer and Nosalida Hideouts in Single Player.",
+                    "es-ES": "Completa las guaridas de Fort Mercer y Nosalida en el modo de un jugador.",
+                    "fr-FR": "Nettoyez les repaires de Fort Mercer et Nosalida en mode Histoire.",
+                    "it-IT": "Ripulisci i covi di Fort Mercer e Nosalida in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイでフォート・マーサーとノサリーダの隠れ家をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere die Fort Mercer und Nosalida-Bandenverstecke im Einzelspieler-Modus.",
+                    "en-US": "Complete Fort Mercer and Nosalida Hideouts in Single Player.",
+                    "es-ES": "Completa las guaridas de Fort Mercer y Nosalida en el modo de un jugador.",
+                    "fr-FR": "Nettoyez les repaires de Fort Mercer et Nosalida en mode Histoire.",
+                    "it-IT": "Ripulisci i covi di Fort Mercer e Nosalida in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイでフォート・マーサーとノサリーダの隠れ家をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "14.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "de-DE": "Kämpfen bis zum Ziel",
+                    "en-US": "Fightin' Around the World",
+                    "es-ES": "Peleando por el mundo",
+                    "fr-FR": "Distribution de pains",
+                    "it-IT": "Combattendo in giro per il mondo",
+                    "ja-JP": "ジョン・マーストンの世界ケンカ紀行"
+                },
+                "description": {
+                    "de-DE": "Knocke in jedem Saloon im Spiel im Einzelspieler-Modus jemanden im Nahkampf aus.",
+                    "en-US": "Knock someone out in melee in every saloon in the game in Single Player.",
+                    "es-ES": "Deja inconsciente a alguien en todas las tabernas del juego en el modo de un jugador.",
+                    "fr-FR": "Assommez au moins une personne dans chaque saloon en mode Histoire.",
+                    "it-IT": "Manda KO qualcuno in un corpo a corpo in ogni saloon del gioco in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイで全ての酒場にて誰かとケンカしてノックアウトする。"
+                },
+                "howto": {
+                    "de-DE": "Knocke in jedem Saloon im Spiel im Einzelspieler-Modus jemanden im Nahkampf aus.",
+                    "en-US": "Knock someone out in melee in every saloon in the game in Single Player.",
+                    "es-ES": "Deja inconsciente a alguien en todas las tabernas del juego en el modo de un jugador.",
+                    "fr-FR": "Assommez au moins une personne dans chaque saloon en mode Histoire.",
+                    "it-IT": "Manda KO qualcuno in un corpo a corpo in ogni saloon del gioco in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイで全ての酒場にて誰かとケンカしてノックアウトする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "5",
+            "imageId": "15.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Befremdliche Vorgänge",
+                    "en-US": "Strange Things are Afoot",
+                    "es-ES": "Cosas curiosas en marcha",
+                    "fr-FR": "B.A. du jour",
+                    "it-IT": "Ma chi ti conosce?",
+                    "ja-JP": "知りたい人がいる"
+                },
+                "description": {
+                    "de-DE": "Absolviere einen Auftrag für einen Fremden.",
+                    "en-US": "Complete a task for a Stranger.",
+                    "es-ES": "Completa una tarea para una persona.",
+                    "fr-FR": "Accomplissez une mission pour un étranger.",
+                    "it-IT": "Completa un compito per uno Sconosciuto.",
+                    "ja-JP": "見知らぬ人の依頼をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere einen Auftrag für einen Fremden.",
+                    "en-US": "Complete a task for a Stranger.",
+                    "es-ES": "Completa una tarea para una persona.",
+                    "fr-FR": "Accomplissez une mission pour un étranger.",
+                    "it-IT": "Completa un compito per uno Sconosciuto.",
+                    "ja-JP": "見知らぬ人の依頼をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "16.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "Fremde in der Fremde",
+                    "en-US": "People are Still Strange",
+                    "es-ES": "La buena acción del día",
+                    "fr-FR": "Monde de fous",
+                    "it-IT": "La gente, questa sconosciuta",
+                    "ja-JP": "まだまだ知りたい人がいる"
+                },
+                "description": {
+                    "de-DE": "Absolviere 15 Aufträge für Fremde.",
+                    "en-US": "Complete 15 tasks for Strangers.",
+                    "es-ES": "Ayuda a 15 personas.",
+                    "fr-FR": "Accomplissez 15 missions pour des étrangers.",
+                    "it-IT": "Completa 15 compiti degli Sconosciuti.",
+                    "ja-JP": "見知らぬ人たちの依頼を15件クリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere 15 Aufträge für Fremde.",
+                    "en-US": "Complete 15 tasks for Strangers.",
+                    "es-ES": "Ayuda a 15 personas.",
+                    "fr-FR": "Accomplissez 15 missions pour des étrangers.",
+                    "it-IT": "Completa 15 compiti degli Sconosciuti.",
+                    "ja-JP": "見知らぬ人たちの依頼を15件クリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "17.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "de-DE": "Bockig aber wunderschön",
+                    "en-US": "Buckin' Awesome",
+                    "es-ES": "El domador indomable",
+                    "fr-FR": "Complètement débourré",
+                    "it-IT": "Indomito domatore",
+                    "ja-JP": "こりゃウマい！"
+                },
+                "description": {
+                    "de-DE": "Reite den Kentucky Saddler, das American Standardbred und das Ungarische Halbblut zu.",
+                    "en-US": "Break the Kentucky Saddler, the American Standardbred, and the Hungarian Half-bred. ",
+                    "es-ES": "Doma el saddler de Kentucky, el trotón americano y el mestizo húngaro.",
+                    "fr-FR": "Dressez un cheval du Kentucky, un Trotteur américain et un Demi-sang hongrois.",
+                    "it-IT": "Doma il saddler del Kentucky, il trottatore americano e l'ungherese incrociato. ",
+                    "ja-JP": "ケンタッキーサドラー、アメリカンスタンダード、ハンガリアンハーフを馴らす。"
+                },
+                "howto": {
+                    "de-DE": "Reite den Kentucky Saddler, das American Standardbred und das Ungarische Halbblut zu.",
+                    "en-US": "Break the Kentucky Saddler, the American Standardbred, and the Hungarian Half-bred. ",
+                    "es-ES": "Doma el saddler de Kentucky, el trotón americano y el mestizo húngaro.",
+                    "fr-FR": "Dressez un cheval du Kentucky, un Trotteur américain et un Demi-sang hongrois.",
+                    "it-IT": "Doma il saddler del Kentucky, il trottatore americano e l'ungherese incrociato. ",
+                    "ja-JP": "ケンタッキーサドラー、アメリカンスタンダード、ハンガリアンハーフを馴らす。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "18.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "Milde zahlt sich aus",
+                    "en-US": "Clemency Pays",
+                    "es-ES": "La clemencia se paga",
+                    "fr-FR": "La clémence paie",
+                    "it-IT": "La clemenza paga",
+                    "ja-JP": "慈悲の報酬"
+                },
+                "description": {
+                    "de-DE": "Fange eine gesuchte Person lebend.",
+                    "en-US": "Capture a bounty alive.",
+                    "es-ES": "Captura a un fugitivo vivo.",
+                    "fr-FR": "Capturez un criminel recherché et ramenez-le vivant.",
+                    "it-IT": "Cattura vivo un ricercato.",
+                    "ja-JP": "賞金首を生け捕りにする。"
+                },
+                "howto": {
+                    "de-DE": "Fange eine gesuchte Person lebend.",
+                    "en-US": "Capture a bounty alive.",
+                    "es-ES": "Captura a un fugitivo vivo.",
+                    "fr-FR": "Capturez un criminel recherché et ramenez-le vivant.",
+                    "it-IT": "Cattura vivo un ricercato.",
+                    "ja-JP": "賞金首を生け捕りにする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "10",
+            "imageId": "19.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "Heimtückisch",
+                    "en-US": "Dastardly",
+                    "es-ES": "Cobarde",
+                    "fr-FR": "Et j’entends siffler le train...",
+                    "it-IT": "Carogna",
+                    "ja-JP": "人身事故"
+                },
+                "description": {
+                    "de-DE": "Lege eine gefesselte Frau auf die Eisenbahnschienen und sieh zu, wie sie überfahren wird.",
+                    "en-US": "Place a hogtied woman on the train tracks, and witness her death by train.",
+                    "es-ES": "Coloca a una mujer maniatada en las vías del tren y sé testigo de cómo el tren la mata.",
+                    "fr-FR": "Placez une femme ligotée sur les voies et regardez-la se faire écraser par un train.",
+                    "it-IT": "Metti una donna incaprettata sulle rotaie e rimani a guardare mentre viene uccisa dal treno.",
+                    "ja-JP": "縛り上げられた女性を線路に置き、列車にひかれるのを目撃する。"
+                },
+                "howto": {
+                    "de-DE": "Lege eine gefesselte Frau auf die Eisenbahnschienen und sieh zu, wie sie überfahren wird.",
+                    "en-US": "Place a hogtied woman on the train tracks, and witness her death by train.",
+                    "es-ES": "Coloca a una mujer maniatada en las vías del tren y sé testigo de cómo el tren la mata.",
+                    "fr-FR": "Placez une femme ligotée sur les voies et regardez-la se faire écraser par un train.",
+                    "it-IT": "Metti una donna incaprettata sulle rotaie e rimani a guardare mentre viene uccisa dal treno.",
+                    "ja-JP": "縛り上げられた女性を線路に置き、列車にひかれるのを目撃する。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Other",
+            "credits": "5",
+            "imageId": "20.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein ausgezeichneter Geschmack",
+                    "en-US": "Exquisite Taste",
+                    "es-ES": "Gusto exquisito",
+                    "fr-FR": "Monsieur est bien équipé",
+                    "it-IT": "Gusto impeccabile",
+                    "ja-JP": "卓越したセンス"
+                },
+                "description": {
+                    "de-DE": "Erwirb eine seltene Waffe von einem Büchsenmacher.",
+                    "en-US": "Purchase a rare weapon from a gunsmith.",
+                    "es-ES": "Compra un arma rara en una armería.",
+                    "fr-FR": "Achetez une arme rare à un armurier.",
+                    "it-IT": "Acquista un'arma rara da un armaiolo.",
+                    "ja-JP": "ガンスミスから貴重な武器を購入する。"
+                },
+                "howto": {
+                    "de-DE": "Erwirb eine seltene Waffe von einem Büchsenmacher.",
+                    "en-US": "Purchase a rare weapon from a gunsmith.",
+                    "es-ES": "Compra un arma rara en una armería.",
+                    "fr-FR": "Achetez une arme rare à un armurier.",
+                    "it-IT": "Acquista un'arma rara da un armaiolo.",
+                    "ja-JP": "ガンスミスから貴重な武器を購入する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "21.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "de-DE": "Bärenjagd",
+                    "en-US": "Bearly Legal",
+                    "es-ES": "Osando cazar",
+                    "fr-FR": "Bonne nuit les petits",
+                    "it-IT": "Orsi in saldo",
+                    "ja-JP": "眠る森のクマさん"
+                },
+                "description": {
+                    "de-DE": "Erlege und häute 18 Grizzlybären.",
+                    "en-US": "Kill and skin 18 grizzly bears.",
+                    "es-ES": "Mata y despelleja 18 osos pardos.",
+                    "fr-FR": "Tuez et dépecez 18 grizzlys.",
+                    "it-IT": "Uccidi e scuoia 18 grizzly.",
+                    "ja-JP": "18頭のグリズリーを殺して皮を剥ぐ。"
+                },
+                "howto": {
+                    "de-DE": "Erlege und häute 18 Grizzlybären.",
+                    "en-US": "Kill and skin 18 grizzly bears.",
+                    "es-ES": "Mata y despelleja 18 osos pardos.",
+                    "fr-FR": "Tuez et dépecez 18 grizzlys.",
+                    "it-IT": "Uccidi e scuoia 18 grizzly.",
+                    "ja-JP": "18頭のグリズリーを殺して皮を剥ぐ。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "5",
+            "imageId": "22.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "Überraschend schick!",
+                    "en-US": "He Cleans Up Well!",
+                    "es-ES": "¡Él limpia bien!",
+                    "fr-FR": "L'homme le plus classe du monde",
+                    "it-IT": "È bravo a pulire!",
+                    "ja-JP": "きちんと身支度！"
+                },
+                "description": {
+                    "de-DE": "Erhalte den feinen Anzug.",
+                    "en-US": "Obtain the Elegant Suit.",
+                    "es-ES": "Obtén el traje elegante.",
+                    "fr-FR": "Obtenez le costume élégant.",
+                    "it-IT": "Ottieni il vestito elegante.",
+                    "ja-JP": "優雅なスーツを手に入れる。"
+                },
+                "howto": {
+                    "de-DE": "Erhalte den feinen Anzug.",
+                    "en-US": "Obtain the Elegant Suit.",
+                    "es-ES": "Obtén el traje elegante.",
+                    "fr-FR": "Obtenez le costume élégant.",
+                    "it-IT": "Ottieni il vestito elegante.",
+                    "ja-JP": "優雅なスーツを手に入れる。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "23.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "Mehr als eine Handvoll",
+                    "en-US": "More than a Fistful",
+                    "es-ES": "Más de un puñado",
+                    "fr-FR": "Une grosse poignée de dollars",
+                    "it-IT": "Più di un pugno",
+                    "ja-JP": "余りある大金"
+                },
+                "description": {
+                    "de-DE": "Verdiene $10000 im Einzelspieler-Modus.",
+                    "en-US": "Earn $10,000 in Single Player.",
+                    "es-ES": "Gana 10.000 $ en el modo de un jugador.",
+                    "fr-FR": "Gagnez 10 000 dollars en mode Histoire.",
+                    "it-IT": "Guadagna 10.000$ in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイで$10000稼ぐ。"
+                },
+                "howto": {
+                    "de-DE": "Verdiene $10000 im Einzelspieler-Modus.",
+                    "en-US": "Earn $10,000 in Single Player.",
+                    "es-ES": "Gana 10.000 $ en el modo de un jugador.",
+                    "fr-FR": "Gagnez 10 000 dollars en mode Histoire.",
+                    "it-IT": "Guadagna 10.000$ in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイで$10000稼ぐ。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "10",
+            "imageId": "24.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Mann des Westens",
+                    "en-US": "Frontiersman",
+                    "es-ES": "Explorador",
+                    "fr-FR": "L'aventurier",
+                    "it-IT": "Uomo della frontiera",
+                    "ja-JP": "開拓者"
+                },
+                "description": {
+                    "de-DE": "Erreiche den Legendär-Rang in einer beliebigen Einzelspieler-Umgebungsherausforderung.",
+                    "en-US": "Obtain Legendary rank in any Single Player Ambient Challenge.",
+                    "es-ES": "Obtén el rango Legendario en cualquier desafío ambiental en el modo de un jugador.",
+                    "fr-FR": "Obtenez le niveau Légendaire dans un Défi du mode Histoire.",
+                    "it-IT": "Ottieni il livello Leggendario in una qualsiasi sfida ambientale in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイのチャレンジで伝説ランクを達成する。"
+                },
+                "howto": {
+                    "de-DE": "Erreiche den Legendär-Rang in einer beliebigen Einzelspieler-Umgebungsherausforderung.",
+                    "en-US": "Obtain Legendary rank in any Single Player Ambient Challenge.",
+                    "es-ES": "Obtén el rango Legendario en cualquier desafío ambiental en el modo de un jugador.",
+                    "fr-FR": "Obtenez le niveau Légendaire dans un Défi du mode Histoire.",
+                    "it-IT": "Ottieni il livello Leggendario in una qualsiasi sfida ambientale in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイのチャレンジで伝説ランクを達成する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "25.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Revolverheld",
+                    "en-US": "The Gunslinger",
+                    "es-ES": "El pistolero",
+                    "fr-FR": "Le pistolero",
+                    "it-IT": "Il pistolero",
+                    "ja-JP": "ガンスリンガー"
+                },
+                "description": {
+                    "de-DE": "Erziele einen Kopftreffer bei einem beliebigen Gegner, während du den Experten-Zielmodus verwendest.",
+                    "en-US": "Score a headshot on any enemy using Expert targeting mode.",
+                    "es-ES": "Haz un tiro a la cabeza a cualquier enemigo usando el modo de tiro experto.",
+                    "fr-FR": "Réussissez un tir en pleine tête sur un ennemi en utilisant le mode de visée expert.",
+                    "it-IT": "Colpisci alla testa un qualsiasi nemico in modalità di mira \"Esperto\".",
+                    "ja-JP": "エキスパート方式の照準で敵にヘッドショットを決める。"
+                },
+                "howto": {
+                    "de-DE": "Erziele einen Kopftreffer bei einem beliebigen Gegner, während du den Experten-Zielmodus verwendest.",
+                    "en-US": "Score a headshot on any enemy using Expert targeting mode.",
+                    "es-ES": "Haz un tiro a la cabeza a cualquier enemigo usando el modo de tiro experto.",
+                    "fr-FR": "Réussissez un tir en pleine tête sur un ennemi en utilisant le mode de visée expert.",
+                    "it-IT": "Colpisci alla testa un qualsiasi nemico in modalità di mira \"Esperto\".",
+                    "ja-JP": "エキスパート方式の照準で敵にヘッドショットを決める。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "26.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "Retter der Ritterlichkeit?",
+                    "en-US": "Man of Honor / Chivalry's Dead",
+                    "es-ES": "Hombre de honor... o deshonor",
+                    "fr-FR": "Homme d'honneur... ou pas",
+                    "it-IT": "Un uomo tutto d'un pezzo",
+                    "ja-JP": "道徳者か冒涜者"
+                },
+                "description": {
+                    "de-DE": "Erreiche den höchsten Ruhm- und entweder den höchsten oder den niedrigsten Ehren-Rang ",
+                    "en-US": "Attain highest Fame rank and either highest Honor rank or lowest Honor rank.",
+                    "es-ES": "Obtén el máximo rango de fama y el máximo o mínimo rango de honor.",
+                    "fr-FR": "Obtenez le plus haut niveau de Réputation et le plus haut ou le plus bas niveau d'Honneur.",
+                    "it-IT": "Raggiungi il più alto livello di fama e quello più alto, o quello più basso, d'onore.",
+                    "ja-JP": "名声の最高ランクと、名誉の最高または最低ランクを達成する。"
+                },
+                "howto": {
+                    "de-DE": "Erreiche den höchsten Ruhm- und entweder den höchsten oder den niedrigsten Ehren-Rang ",
+                    "en-US": "Attain highest Fame rank and either highest Honor rank or lowest Honor rank.",
+                    "es-ES": "Obtén el máximo rango de fama y el máximo o mínimo rango de honor.",
+                    "fr-FR": "Obtenez le plus haut niveau de Réputation et le plus haut ou le plus bas niveau d'Honneur.",
+                    "it-IT": "Raggiungi il più alto livello di fama e quello più alto, o quello più basso, d'onore.",
+                    "ja-JP": "名声の最高ランクと、名誉の最高または最低ランクを達成する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "25",
+            "imageId": "27.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "Goldmedaille",
+                    "en-US": "Gold Medal",
+                    "es-ES": "Medalla de oro",
+                    "fr-FR": "Médaille d'or",
+                    "it-IT": "Medaglia d'oro",
+                    "ja-JP": "金メダル"
+                },
+                "description": {
+                    "de-DE": "Erreiche den Goldmedaillenrang für eine Kampfmission im Einzelspieler-Modus.",
+                    "en-US": "Earn a Gold Medal Rank for a combat mission in Single Player.",
+                    "es-ES": "Gana una medalla de oro por una misión de combate en el modo de un jugador.",
+                    "fr-FR": "Gagnez une médaille d'or dans une mission de combat en mode Histoire.",
+                    "it-IT": "Ottieni una medaglia d'oro per una missione di combattimento in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイの戦闘ミッションで金メダルランクを獲得する。"
+                },
+                "howto": {
+                    "de-DE": "Erreiche den Goldmedaillenrang für eine Kampfmission im Einzelspieler-Modus.",
+                    "en-US": "Earn a Gold Medal Rank for a combat mission in Single Player.",
+                    "es-ES": "Gana una medalla de oro por una misión de combate en el modo de un jugador.",
+                    "fr-FR": "Gagnez une médaille d'or dans une mission de combat en mode Histoire.",
+                    "it-IT": "Ottieni una medaglia d'oro per una missione di combattimento in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイの戦闘ミッションで金メダルランクを獲得する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "28.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "Zum Aussterben verurteilt",
+                    "en-US": "Manifest Destiny",
+                    "es-ES": "Destino manifiesto",
+                    "fr-FR": "Oups !",
+                    "it-IT": "Destino manifesto",
+                    "ja-JP": "あら やっちゃった"
+                },
+                "description": {
+                    "de-DE": "Erlege im Einzelspieler-Modus den letzten Büffel in den Great Plains.",
+                    "en-US": "Kill the last buffalo in the Great Plains in Single Player.",
+                    "es-ES": "Mata el último búfalo de Great Plains en el modo de un jugador.",
+                    "fr-FR": "Tuez le dernier bison de Great Plains en mode Histoire.",
+                    "it-IT": "Uccidi l'ultimo bufalo nelle Great Plains in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイでグレート・プレーンズにいる最後のバッファローを殺す。"
+                },
+                "howto": {
+                    "de-DE": "Erlege im Einzelspieler-Modus den letzten Büffel in den Great Plains.",
+                    "en-US": "Kill the last buffalo in the Great Plains in Single Player.",
+                    "es-ES": "Mata el último búfalo de Great Plains en el modo de un jugador.",
+                    "fr-FR": "Tuez le dernier bison de Great Plains en mode Histoire.",
+                    "it-IT": "Uccidi l'ultimo bufalo nelle Great Plains in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイでグレート・プレーンズにいる最後のバッファローを殺す。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "29.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Auf den Spuren de Vacas",
+                    "en-US": "On the Trail of de Vaca",
+                    "es-ES": "Tras el rastro de De Vaca",
+                    "fr-FR": "Sur la piste de De Vaca",
+                    "it-IT": "Sulle tracce di De Vaca",
+                    "ja-JP": "次世代・デ・バカ"
+                },
+                "description": {
+                    "de-DE": "Erkunde im Einzelspieler-Modus jeden Ort auf der Karte.",
+                    "en-US": "Uncover every location on the map in Single Player.",
+                    "es-ES": "Descubre todas las localizaciones del mapa en el modo de un jugador.",
+                    "fr-FR": "Découvrez tous les secteurs de la carte en mode Histoire.",
+                    "it-IT": "Scopri ogni zona sulla mappa in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイでマップ上の全てのエリアを発見する。"
+                },
+                "howto": {
+                    "de-DE": "Erkunde im Einzelspieler-Modus jeden Ort auf der Karte.",
+                    "en-US": "Uncover every location on the map in Single Player.",
+                    "es-ES": "Descubre todas las localizaciones del mapa en el modo de un jugador.",
+                    "fr-FR": "Découvrez tous les secteurs de la carte en mode Histoire.",
+                    "it-IT": "Scopri ogni zona sulla mappa in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイでマップ上の全てのエリアを発見する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "30.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Freunde an hoher Stelle",
+                    "en-US": "Friends in High Places",
+                    "es-ES": "Amigos en posiciones elevadas",
+                    "fr-FR": "Des amis haut-placés",
+                    "it-IT": "Amici nelle alte sfere",
+                    "ja-JP": "有力者の友人"
+                },
+                "description": {
+                    "de-DE": "Benutze im Einzelspieler-Modus ein Begnadigungsschreiben für ein Kopfgeld von über $5000.",
+                    "en-US": "Use a pardon letter with more than $5000 bounty in Single Player.",
+                    "es-ES": "Usa una carta de indulto teniendo más de 5.000 $ de deuda en el modo de un jugador.",
+                    "fr-FR": "Utilisez une lettre de grâce pour effacer une prime supérieure à 5 000 dollars en mode Histoire.",
+                    "it-IT": "Usa una lettera di grazia per una taglia di oltre 5.000$ in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイで$5000以上の賞金に恩赦の手紙を使う。"
+                },
+                "howto": {
+                    "de-DE": "Benutze im Einzelspieler-Modus ein Begnadigungsschreiben für ein Kopfgeld von über $5000.",
+                    "en-US": "Use a pardon letter with more than $5000 bounty in Single Player.",
+                    "es-ES": "Usa una carta de indulto teniendo más de 5.000 $ de deuda en el modo de un jugador.",
+                    "fr-FR": "Utilisez une lettre de grâce pour effacer une prime supérieure à 5 000 dollars en mode Histoire.",
+                    "it-IT": "Usa una lettera di grazia per una taglia di oltre 5.000$ in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイで$5000以上の賞金に恩赦の手紙を使う。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "31.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Erlöst",
+                    "en-US": "Redeemed",
+                    "es-ES": "Redimido",
+                    "fr-FR": "Red Is Dead",
+                    "it-IT": "Redento",
+                    "ja-JP": "償い"
+                },
+                "description": {
+                    "de-DE": "Spiele das Spiel zu 100% durch.",
+                    "en-US": "Attain 100% in the Single Player Game Completion stat.",
+                    "es-ES": "Alcanza el 100% en la estadística de juego completado del modo de un jugador.",
+                    "fr-FR": "Obtenez un pourcentage de progression en mode Histoire de 100 %.",
+                    "it-IT": "Completa il 100% del gioco in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイでゲームの達成率を100％にする。"
+                },
+                "howto": {
+                    "de-DE": "Spiele das Spiel zu 100% durch.",
+                    "en-US": "Attain 100% in the Single Player Game Completion stat.",
+                    "es-ES": "Alcanza el 100% en la estadística de juego completado del modo de un jugador.",
+                    "fr-FR": "Obtenez un pourcentage de progression en mode Histoire de 100 %.",
+                    "it-IT": "Completa il 100% del gioco in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイでゲームの達成率を100％にする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "100",
+            "imageId": "32.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Zum Sieg angespornt",
+                    "en-US": "Spurred to Victory",
+                    "es-ES": "Espoleado a la victoria",
+                    "fr-FR": "Toi et moi contre le vent",
+                    "it-IT": "Spronato alla vittoria",
+                    "ja-JP": "愛馬ストーリー"
+                },
+                "description": {
+                    "de-DE": "Absolviere 20 Story-Missionen, ohne zu einem neuen Pferd an einem Anbindepfosten zu wechseln.",
+                    "en-US": "Complete 20 story missions without switching to a new horse at a hitching post.",
+                    "es-ES": "Completa 20 misiones sin cambiar de caballo en un poste.",
+                    "fr-FR": "Terminez 20 missions histoire sans changer de cheval à une barre d'attelage.",
+                    "it-IT": "Completa 20 missioni narrative senza prendere un nuovo cavallo da un montante.",
+                    "ja-JP": "つなぎ柱で新たな馬に乗り換えずに、20のストーリーミッションをクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere 20 Story-Missionen, ohne zu einem neuen Pferd an einem Anbindepfosten zu wechseln.",
+                    "en-US": "Complete 20 story missions without switching to a new horse at a hitching post.",
+                    "es-ES": "Completa 20 misiones sin cambiar de caballo en un poste.",
+                    "fr-FR": "Terminez 20 missions histoire sans changer de cheval à une barre d'attelage.",
+                    "it-IT": "Completa 20 missioni narrative senza prendere un nuovo cavallo da un montante.",
+                    "ja-JP": "つなぎ柱で新たな馬に乗り換えずに、20のストーリーミッションをクリアする。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Leveling",
+            "credits": "10",
+            "imageId": "33.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "Nach Süden mit dem weißen Bronco",
+                    "en-US": "Heading South on a White Bronco",
+                    "es-ES": "Al sur en un bronco blanco",
+                    "fr-FR": "Fidèle canasson",
+                    "it-IT": "Cavallo selvaggio portami via",
+                    "ja-JP": "逃げる白馬の王子様"
+                },
+                "description": {
+                    "de-DE": "Entwische den US-Marshals auf einem Ungarischen Halbblut im Einzelspieler-Modus.",
+                    "en-US": "Evade the US Marshals while riding the Hungarian Half-Bred horse in Single Player.",
+                    "es-ES": "Escapa de los comisarios de EE.UU. montado en un mestizo húngaro en el modo de un jugador.",
+                    "fr-FR": "Echappez aux marshals sur le dos d'un Demi-sang hongrois en mode Histoire.",
+                    "it-IT": "Sfuggi agli sceriffi federali a cavallo dell'ungherese incrociato in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイでハンガリアンハーフに乗って連邦保安官から逃げ切る。"
+                },
+                "howto": {
+                    "de-DE": "Entwische den US-Marshals auf einem Ungarischen Halbblut im Einzelspieler-Modus.",
+                    "en-US": "Evade the US Marshals while riding the Hungarian Half-Bred horse in Single Player.",
+                    "es-ES": "Escapa de los comisarios de EE.UU. montado en un mestizo húngaro en el modo de un jugador.",
+                    "fr-FR": "Echappez aux marshals sur le dos d'un Demi-sang hongrois en mode Histoire.",
+                    "it-IT": "Sfuggi agli sceriffi federali a cavallo dell'ungherese incrociato in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイでハンガリアンハーフに乗って連邦保安官から逃げ切る。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "34.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Mach sie alle",
+                    "en-US": "Mowing Them Down",
+                    "es-ES": "Acribillándoles",
+                    "fr-FR": "Comme des dominos",
+                    "it-IT": "Falciali tutti",
+                    "ja-JP": "掃射"
+                },
+                "description": {
+                    "de-DE": "Erledige 500 Gegner mit einer fest montierten Waffe in einem beliebigen Spielmodus.",
+                    "en-US": "Kill 500 enemies with a mounted weapon in any game mode.",
+                    "es-ES": "Mata a 500 enemigos con un arma con soporte en cualquier modo de juego.",
+                    "fr-FR": "Tuez 500 ennemis avec une arme montée dans n'importe quel mode de jeu.",
+                    "it-IT": "Uccidi 500 nemici con un'arma fissa in qualsiasi modalità di gioco.",
+                    "ja-JP": "いずれかのゲームモードで固定機銃を使い、敵を500人倒す。"
+                },
+                "howto": {
+                    "de-DE": "Erledige 500 Gegner mit einer fest montierten Waffe in einem beliebigen Spielmodus.",
+                    "en-US": "Kill 500 enemies with a mounted weapon in any game mode.",
+                    "es-ES": "Mata a 500 enemigos con un arma con soporte en cualquier modo de juego.",
+                    "fr-FR": "Tuez 500 ennemis avec une arme montée dans n'importe quel mode de jeu.",
+                    "it-IT": "Uccidi 500 nemici con un'arma fissa in qualsiasi modalità di gioco.",
+                    "ja-JP": "いずれかのゲームモードで固定機銃を使い、敵を500人倒す。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "35.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Kugelhagel",
+                    "en-US": "In a Hail of Bullets",
+                    "es-ES": "Granizo de balas",
+                    "fr-FR": "Balle après balle",
+                    "it-IT": "Una pioggia di proiettili",
+                    "ja-JP": "弾丸の雨"
+                },
+                "description": {
+                    "de-DE": "Erledige 500 Gegner mit einer beliebigen Pistole oder einem beliebigen Revolver.",
+                    "en-US": "Kill 500 enemies with any pistol or revolver in any game mode.",
+                    "es-ES": "Mata a 500 enemigos con cualquier pistola o revólver en cualquier modo de juego.",
+                    "fr-FR": "Tuez 500 ennemis avec un pistolet ou un revolver dans n'importe quel mode de jeu.",
+                    "it-IT": "Uccidi 500 nemici con qualsiasi pistola o revolver in qualsiasi modalità di gioco.",
+                    "ja-JP": "いずれかのゲームモードでピストルかリボルバーを使い、敵を500人倒す。"
+                },
+                "howto": {
+                    "de-DE": "Erledige 500 Gegner mit einer beliebigen Pistole oder einem beliebigen Revolver.",
+                    "en-US": "Kill 500 enemies with any pistol or revolver in any game mode.",
+                    "es-ES": "Mata a 500 enemigos con cualquier pistola o revólver en cualquier modo de juego.",
+                    "fr-FR": "Tuez 500 ennemis avec un pistolet ou un revolver dans n'importe quel mode de jeu.",
+                    "it-IT": "Uccidi 500 nemici con qualsiasi pistola o revolver in qualsiasi modalità di gioco.",
+                    "ja-JP": "いずれかのゲームモードでピストルかリボルバーを使い、敵を500人倒す。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "36.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "Der lange Arm von Marston",
+                    "en-US": "Long Arm of Marston",
+                    "es-ES": "El arma larga de Marston",
+                    "fr-FR": "Dans la ligne de mire",
+                    "it-IT": "Il lungo braccio di Marston",
+                    "ja-JP": "マーストンの長い武器"
+                },
+                "description": {
+                    "de-DE": "Erledige 500 Gegner mit einem beliebigen Gewehr, Repetiergewehr oder einer beliebigen Schrotflinte.",
+                    "en-US": "Kill 500 enemies with any rifle, repeater, or shotgun in any game mode.",
+                    "es-ES": "Mata a 500 enemigos con cualquier fusil, arma de repetición o escopeta en cualquier modo de juego.",
+                    "fr-FR": "Tuez 500 ennemis avec un fusil, une carabine ou un fusil à pompe dans n'importe quel mode de jeu.",
+                    "it-IT": "Uccidi 500 nemici con qualsiasi fucile in qualsiasi modalità di gioco.",
+                    "ja-JP": "いずれかのゲームモードでライフル、リピーター、ショットガンのどれかを使い、敵を500人倒す。"
+                },
+                "howto": {
+                    "de-DE": "Erledige 500 Gegner mit einem beliebigen Gewehr, Repetiergewehr oder einer beliebigen Schrotflinte.",
+                    "en-US": "Kill 500 enemies with any rifle, repeater, or shotgun in any game mode.",
+                    "es-ES": "Mata a 500 enemigos con cualquier fusil, arma de repetición o escopeta en cualquier modo de juego.",
+                    "fr-FR": "Tuez 500 ennemis avec un fusil, une carabine ou un fusil à pompe dans n'importe quel mode de jeu.",
+                    "it-IT": "Uccidi 500 nemici con qualsiasi fucile in qualsiasi modalità di gioco.",
+                    "ja-JP": "いずれかのゲームモードでライフル、リピーター、ショットガンのどれかを使い、敵を500人倒す。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "37.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "de-DE": "Voll ins Schwarze",
+                    "en-US": "Bullseye",
+                    "es-ES": "Diana",
+                    "fr-FR": "Dans le mille",
+                    "it-IT": "Centro perfetto",
+                    "ja-JP": "直撃"
+                },
+                "description": {
+                    "de-DE": "Erziele 250 Kopftreffer in einem beliebigen Spielmodus.",
+                    "en-US": "Get 250 headshots in any game mode.",
+                    "es-ES": "Consigue 250 tiros a la cabeza en cualquier modo de juego.",
+                    "fr-FR": "Réussissez 250 tirs en pleine tête dans n'importe quel mode de jeu.",
+                    "it-IT": "Totalizza 250 colpi alla testa in qualsiasi modalità di gioco.",
+                    "ja-JP": "いずれかのゲームモードで250回ヘッドショットを決める。"
+                },
+                "howto": {
+                    "de-DE": "Erziele 250 Kopftreffer in einem beliebigen Spielmodus.",
+                    "en-US": "Get 250 headshots in any game mode.",
+                    "es-ES": "Consigue 250 tiros a la cabeza en cualquier modo de juego.",
+                    "fr-FR": "Réussissez 250 tirs en pleine tête dans n'importe quel mode de jeu.",
+                    "it-IT": "Totalizza 250 colpi alla testa in qualsiasi modalità di gioco.",
+                    "ja-JP": "いずれかのゲームモードで250回ヘッドショットを決める。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "38.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "de-DE": "Unnatürliche Selektion",
+                    "en-US": "Unnatural Selection",
+                    "es-ES": "Selección antinatural",
+                    "fr-FR": "Sélection pas très naturelle",
+                    "it-IT": "Selezione innaturale",
+                    "ja-JP": "不自然な淘汰"
+                },
+                "description": {
+                    "de-DE": "Erledige ein Exemplar jeder Tierart im Spiel im Einzelspieler-Modus.",
+                    "en-US": "Kill one of every animal species in the game in any game mode.",
+                    "es-ES": "Mata un animal de cada especie del juego en cualquier modo de juego.",
+                    "fr-FR": "Tuez un spécimen de chaque espèce animale dans n'importe quel mode de jeu.",
+                    "it-IT": "Uccidi un esemplare di ogni specie di animale nel gioco in qualsiasi modalità di gioco.",
+                    "ja-JP": "いずれかのゲームモードで全ての動物種を殺す。"
+                },
+                "howto": {
+                    "de-DE": "Erledige ein Exemplar jeder Tierart im Spiel im Einzelspieler-Modus.",
+                    "en-US": "Kill one of every animal species in the game in any game mode.",
+                    "es-ES": "Mata un animal de cada especie del juego en cualquier modo de juego.",
+                    "fr-FR": "Tuez un spécimen de chaque espèce animale dans n'importe quel mode de jeu.",
+                    "it-IT": "Uccidi un esemplare di ogni specie di animale nel gioco in qualsiasi modalità di gioco.",
+                    "ja-JP": "いずれかのゲームモードで全ての動物種を殺す。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "39.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "Habe Waffe, reise gern",
+                    "en-US": "Have Gun Will Travel ",
+                    "es-ES": "Viaje siempre armado",
+                    "fr-FR": "Le tour de la question",
+                    "it-IT": "Armiamoci e partiamo",
+                    "ja-JP": "ガンマン参上"
+                },
+                "description": {
+                    "de-DE": "Absolviere alle Verstecke in einer einzigen, öffentlichen Sitzung im Freien Modus.",
+                    "en-US": "Complete all Hideouts in a single public Free Roam session.",
+                    "es-ES": "Completa todas las guaridas en una sola sesión pública de Modo libre.",
+                    "fr-FR": "Nettoyez tous les repaires de bandes en une seule session publique en mode Exploration.",
+                    "it-IT": "Ripulisci tutti i covi in una singola sessione pubblica in modalità \"Libera\".",
+                    "ja-JP": "一つのパブリックな放浪モードで全ての隠れ家をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere alle Verstecke in einer einzigen, öffentlichen Sitzung im Freien Modus.",
+                    "en-US": "Complete all Hideouts in a single public Free Roam session.",
+                    "es-ES": "Completa todas las guaridas en una sola sesión pública de Modo libre.",
+                    "fr-FR": "Nettoyez tous les repaires de bandes en une seule session publique en mode Exploration.",
+                    "it-IT": "Ripulisci tutti i covi in una singola sessione pubblica in modalità \"Libera\".",
+                    "ja-JP": "一つのパブリックな放浪モードで全ての隠れ家をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "40.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "de-DE": "Langsam beim Ziehen",
+                    "en-US": "Slow on the Draw",
+                    "es-ES": "Lento con el gatillo",
+                    "fr-FR": "Doucement sur la gâchette",
+                    "it-IT": "Mano Lenta",
+                    "ja-JP": "二流のガンマン"
+                },
+                "description": {
+                    "de-DE": "Erreiche 10 Assists in einem einzigen Versteck in einer öffentlichen Sitzung im Freien Modus.",
+                    "en-US": "Get 10 assists in a single Hideout in a public Free Roam session.",
+                    "es-ES": "Consigue 10 asistencias en una sola guarida en una sesión pública de Modo libre.",
+                    "fr-FR": "Réussissez 10 aides en nettoyant un repaire de bande en mode Exploration.",
+                    "it-IT": "Totalizza 10 assist in un singolo covo in una sessione pubblica in modalità \"Libera\".",
+                    "ja-JP": "一つのパブリックな放浪モードで、一つの隠れ家をプレイ中に、10回アシストを取る。"
+                },
+                "howto": {
+                    "de-DE": "Erreiche 10 Assists in einem einzigen Versteck in einer öffentlichen Sitzung im Freien Modus.",
+                    "en-US": "Get 10 assists in a single Hideout in a public Free Roam session.",
+                    "es-ES": "Consigue 10 asistencias en una sola guarida en una sesión pública de Modo libre.",
+                    "fr-FR": "Réussissez 10 aides en nettoyant un repaire de bande en mode Exploration.",
+                    "it-IT": "Totalizza 10 assist in un singolo covo in una sessione pubblica in modalità \"Libera\".",
+                    "ja-JP": "一つのパブリックな放浪モードで、一つの隠れ家をプレイ中に、10回アシストを取る。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "41.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "Auf und davon",
+                    "en-US": "Hit the Trail",
+                    "es-ES": "Date un paseo",
+                    "fr-FR": "Chacun sa route...",
+                    "it-IT": "Al galoppo",
+                    "ja-JP": "旅立ち"
+                },
+                "description": {
+                    "de-DE": "Begib dich vor Sonnenuntergang von Blackwater nach Escalera in einer öffentl. Sitzung (Freier Modus)",
+                    "en-US": "Get from Blackwater to Escalera before sundown in a public Free Roam session.",
+                    "es-ES": "Ve desde Blackwater a Escalera antes del atardecer en una sesión pública de Modo libre.",
+                    "fr-FR": "Ralliez Blackwater à Escalera avant la tombée de la nuit lors d'une session en mode Exploration.",
+                    "it-IT": "Partendo da Blackwater in modalità \"Libera\" pubblica, raggiungi Escalera prima del tramonto.",
+                    "ja-JP": "パブリックな放浪モードで、日没までにブラックウォーターからエスカレラに移動する。"
+                },
+                "howto": {
+                    "de-DE": "Begib dich vor Sonnenuntergang von Blackwater nach Escalera in einer öffentl. Sitzung (Freier Modus)",
+                    "en-US": "Get from Blackwater to Escalera before sundown in a public Free Roam session.",
+                    "es-ES": "Ve desde Blackwater a Escalera antes del atardecer en una sesión pública de Modo libre.",
+                    "fr-FR": "Ralliez Blackwater à Escalera avant la tombée de la nuit lors d'une session en mode Exploration.",
+                    "it-IT": "Partendo da Blackwater in modalità \"Libera\" pubblica, raggiungi Escalera prima del tramonto.",
+                    "ja-JP": "パブリックな放浪モードで、日没までにブラックウォーターからエスカレラに移動する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "42.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "Bandengründung",
+                    "en-US": "Posse Up!",
+                    "es-ES": "Grupo de amigos",
+                    "fr-FR": "Ya ya c’est nous qu’on gagnera !",
+                    "it-IT": "La brigata!",
+                    "ja-JP": "民警団立ち上げ！"
+                },
+                "description": {
+                    "de-DE": "Gründe einen Trupp und erreiche die maximale Anzahl an Mitgliedern.",
+                    "en-US": "Create a posse and get the maximum number of members.",
+                    "es-ES": "Forma una cuadrilla y consigue el número máximo de miembros.",
+                    "fr-FR": "Créez un groupe et obtenez le nombre maximum de membres.",
+                    "it-IT": "Crea una brigata e ottieni il massimo numero di membri.",
+                    "ja-JP": "民警団を結成してメンバーを最大数まで集める。"
+                },
+                "howto": {
+                    "de-DE": "Gründe einen Trupp und erreiche die maximale Anzahl an Mitgliedern.",
+                    "en-US": "Create a posse and get the maximum number of members.",
+                    "es-ES": "Forma una cuadrilla y consigue el número máximo de miembros.",
+                    "fr-FR": "Créez un groupe et obtenez le nombre maximum de membres.",
+                    "it-IT": "Crea una brigata e ottieni il massimo numero di membri.",
+                    "ja-JP": "民警団を結成してメンバーを最大数まで集める。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "43.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "de-DE": "Schneller als der Rest...",
+                    "en-US": "The Quick and Everyone Else...",
+                    "es-ES": "El rápido y luego los demás...",
+                    "fr-FR": "Moi, c'est comme toi, mais mieux",
+                    "it-IT": "Il Lesto e il resto...",
+                    "ja-JP": "早撃ち王"
+                },
+                "description": {
+                    "de-DE": "Werde punktbester Spieler in drei aufeinanderfolgenden Jeder-gegen-jeden-Spielen in öffentl. Spielen",
+                    "en-US": "Be the top scoring player in any three consecutive FFA games in public matches.",
+                    "es-ES": "Sé el jugador con más puntuación en tres partidas públicas de \"Todos contra todos\" consecutivas.",
+                    "fr-FR": "Obtenez le meilleur score dans trois parties libres en public consécutives.",
+                    "it-IT": "Realizza il miglior punteggio in tre partite libere pubbliche consecutive.",
+                    "ja-JP": "パブリックのフリーフォーオール・マッチで3回連続トップスコアを決める。"
+                },
+                "howto": {
+                    "de-DE": "Werde punktbester Spieler in drei aufeinanderfolgenden Jeder-gegen-jeden-Spielen in öffentl. Spielen",
+                    "en-US": "Be the top scoring player in any three consecutive FFA games in public matches.",
+                    "es-ES": "Sé el jugador con más puntuación en tres partidas públicas de \"Todos contra todos\" consecutivas.",
+                    "fr-FR": "Obtenez le meilleur score dans trois parties libres en public consécutives.",
+                    "it-IT": "Realizza il miglior punteggio in tre partite libere pubbliche consecutive.",
+                    "ja-JP": "パブリックのフリーフォーオール・マッチで3回連続トップスコアを決める。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "20",
+            "imageId": "44.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "Wie der Westen erobert wurde",
+                    "en-US": "How the West Was Won",
+                    "es-ES": "Cómo se ganó el oeste",
+                    "fr-FR": "La conquête de l'Ouest",
+                    "it-IT": "Alla conquista del West",
+                    "ja-JP": "西部開拓史"
+                },
+                "description": {
+                    "de-DE": "Erreiche den höchsten Level im Multiplayer-Spiel.",
+                    "en-US": "Reach the top rank for multiplayer experience.",
+                    "es-ES": "Alcanza el máximo rango de experiencia en multijugador.",
+                    "fr-FR": "Atteignez le niveau maximum d'expérience en multijoueur.",
+                    "it-IT": "Raggiungi il massimo livello di esperienza multiplayer.",
+                    "ja-JP": "マルチプレイＸＰのトップランクを達成する。"
+                },
+                "howto": {
+                    "de-DE": "Erreiche den höchsten Level im Multiplayer-Spiel.",
+                    "en-US": "Reach the top rank for multiplayer experience.",
+                    "es-ES": "Alcanza el máximo rango de experiencia en multijugador.",
+                    "fr-FR": "Atteignez le niveau maximum d'expérience en multijoueur.",
+                    "it-IT": "Raggiungi il massimo livello di esperienza multiplayer.",
+                    "ja-JP": "マルチプレイＸＰのトップランクを達成する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "45.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "Vorwärts!",
+                    "en-US": "Go Team!",
+                    "es-ES": "¡Vamos, equipo!",
+                    "fr-FR": "Et 1, et 2, et 3... et 4, zéro !",
+                    "it-IT": "Squadra che vince...",
+                    "ja-JP": "ゴー・チーム！"
+                },
+                "description": {
+                    "de-DE": "Sei 4 Spiele in Folge im Siegerteam bei beliebigen teambasierten Spielen in öffentlichen Matches.",
+                    "en-US": "Be on the winning team for four consecutive victories in any team based game in public matches.",
+                    "es-ES": "Está en el equipo ganador de cuatro victorias consecutivas en cualquier partida pública por equipos.",
+                    "fr-FR": "Faites partie de l'équipe victorieuse lors de quatre parties multijoueur consécutives.",
+                    "it-IT": "Fai parte della squadra vincente in quattro partite pubbliche a squadre di fila.",
+                    "ja-JP": "パブリック・マッチのチーム戦で4回連続勝利する。"
+                },
+                "howto": {
+                    "de-DE": "Sei 4 Spiele in Folge im Siegerteam bei beliebigen teambasierten Spielen in öffentlichen Matches.",
+                    "en-US": "Be on the winning team for four consecutive victories in any team based game in public matches.",
+                    "es-ES": "Está en el equipo ganador de cuatro victorias consecutivas en cualquier partida pública por equipos.",
+                    "fr-FR": "Faites partie de l'équipe victorieuse lors de quatre parties multijoueur consécutives.",
+                    "it-IT": "Fai parte della squadra vincente in quattro partite pubbliche a squadre di fila.",
+                    "ja-JP": "パブリック・マッチのチーム戦で4回連続勝利する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "46.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "de-DE": "Most Wanted",
+                    "en-US": "Most Wanted",
+                    "es-ES": "El más buscado",
+                    "fr-FR": "La mort aux trousses",
+                    "it-IT": "Most Wanted",
+                    "ja-JP": "最重要指名手配"
+                },
+                "description": {
+                    "de-DE": "Bleibe 10 Minuten lang 'Staatsfeind' und entkomme lebend in einer öffentl. Sitzung des Freien Modus.",
+                    "en-US": "Become a Public Enemy for 10 minutes and escape alive in a public Free Roam session.\n\n",
+                    "es-ES": "Sé un \"Enemigo público\" durante 10 minutos y escapa con vida en una sesión pública de Modo libre.",
+                    "fr-FR": "Soyez Ennemi Public pendant 10 minutes et échappez-en vivant dans une session Exploration publique.",
+                    "it-IT": "Resta \"Nemico pubblico\" per 10 minuti, rimanendo vivo in una sessione pubblica in modalità \"Libera\".",
+                    "ja-JP": "パブリックの放浪モードで10分間民衆の敵となり、殺されずに逃げる。"
+                },
+                "howto": {
+                    "de-DE": "Bleibe 10 Minuten lang 'Staatsfeind' und entkomme lebend in einer öffentl. Sitzung des Freien Modus.",
+                    "en-US": "Become a Public Enemy for 10 minutes and escape alive in a public Free Roam session.\n\n",
+                    "es-ES": "Sé un \"Enemigo público\" durante 10 minutos y escapa con vida en una sesión pública de Modo libre.",
+                    "fr-FR": "Soyez Ennemi Public pendant 10 minutes et échappez-en vivant dans une session Exploration publique.",
+                    "it-IT": "Resta \"Nemico pubblico\" per 10 minuti, rimanendo vivo in una sessione pubblica in modalità \"Libera\".",
+                    "ja-JP": "パブリックの放浪モードで10分間民衆の敵となり、殺されずに逃げる。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "47.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "de-DE": "Red Dead Rockstar",
+                    "en-US": "Red Dead Rockstar",
+                    "es-ES": "Red Dead Rockstar",
+                    "fr-FR": "Red Dead Rockstar",
+                    "it-IT": "Red Dead Rockstar",
+                    "ja-JP": "Red Dead Rockstar"
+                },
+                "description": {
+                    "de-DE": "Erledige einen Rockstar oder jemanden mit diesem Erfolg in einem öffentlichen Multiplayer-Spiel.",
+                    "en-US": "Kill a Rockstar or someone with this achievement in a public multiplayer match.",
+                    "es-ES": "Mata a un desarrollador de Rockstar o alguien con este logro en una partida pública de multijugador.",
+                    "fr-FR": "Tuez un développeur de Rockstar ou quelqu'un qui a obtenu ce succès lors d'une partie multijoueur.",
+                    "it-IT": "Uccidi uno di Rockstar o chi ha questo obiettivo in una partita pubblica multiplayer.",
+                    "ja-JP": "マルチプレイのパブリックマッチでRockstarか、この実績を持つプレイヤーを殺す。"
+                },
+                "howto": {
+                    "de-DE": "Erledige einen Rockstar oder jemanden mit diesem Erfolg in einem öffentlichen Multiplayer-Spiel.",
+                    "en-US": "Kill a Rockstar or someone with this achievement in a public multiplayer match.",
+                    "es-ES": "Mata a un desarrollador de Rockstar o alguien con este logro en una partida pública de multijugador.",
+                    "fr-FR": "Tuez un développeur de Rockstar ou quelqu'un qui a obtenu ce succès lors d'une partie multijoueur.",
+                    "it-IT": "Uccidi uno di Rockstar o chi ha questo obiettivo in una partita pubblica multiplayer.",
+                    "ja-JP": "マルチプレイのパブリックマッチでRockstarか、この実績を持つプレイヤーを殺す。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "48.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "Gut gemacht",
+                    "en-US": "Well done",
+                    "es-ES": "Bien hecho",
+                    "fr-FR": "Bien joué",
+                    "it-IT": "Ben fatto",
+                    "ja-JP": "お見事"
+                },
+                "description": {
+                    "de-DE": "Absolviere eine Koop-Mission.",
+                    "en-US": "Complete a Co-Op mission.",
+                    "es-ES": "Completa una misión cooperativa.",
+                    "fr-FR": "Terminez une mission en coopération. ",
+                    "it-IT": "Completa una missione coop. ",
+                    "ja-JP": "協力ミッションをクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere eine Koop-Mission.",
+                    "en-US": "Complete a Co-Op mission.",
+                    "es-ES": "Completa una misión cooperativa.",
+                    "fr-FR": "Terminez une mission en coopération. ",
+                    "it-IT": "Completa una missione coop. ",
+                    "ja-JP": "協力ミッションをクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "49.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "de-DE": "Habe Trupp, reise gern",
+                    "en-US": "Have posse, will travel",
+                    "es-ES": "Viaje siempre acompañado",
+                    "fr-FR": "Les meilleures choses…",
+                    "it-IT": "Armiamoci e vinciamo",
+                    "ja-JP": "民警団参上"
+                },
+                "description": {
+                    "de-DE": "Absolviere alle Koop-Missionen.",
+                    "en-US": "Complete all Co-Op missions.",
+                    "es-ES": "Completa todas las misiones cooperativas.",
+                    "fr-FR": "Terminez toutes les missions en coopération.",
+                    "it-IT": "Completa tutte le missioni coop.",
+                    "ja-JP": "協力ミッションを全てクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere alle Koop-Missionen.",
+                    "en-US": "Complete all Co-Op missions.",
+                    "es-ES": "Completa todas las misiones cooperativas.",
+                    "fr-FR": "Terminez toutes les missions en coopération.",
+                    "it-IT": "Completa tutte le missioni coop.",
+                    "ja-JP": "協力ミッションを全てクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "50.png"
+        },
+        "51": {
+            "text": {
+                "name": {
+                    "de-DE": "2 Kerle, 1 Koop",
+                    "en-US": "2 guys, 1 Coop",
+                    "es-ES": "Dos hombres, una misión",
+                    "fr-FR": "Duo de choc",
+                    "it-IT": "2 cuori, 1 coop",
+                    "ja-JP": "二人でヤること"
+                },
+                "description": {
+                    "de-DE": "Absolviere eine Koop-Mission mit nur 2 Mann.",
+                    "en-US": "Complete a Co-Op mission with just 2 people.",
+                    "es-ES": "Completa una misión cooperativa con dos personas.",
+                    "fr-FR": "Terminez une mission en coopération à deux joueurs.",
+                    "it-IT": "Completa una missione coop. con 2 sole persone.",
+                    "ja-JP": "2人だけで協力ミッションをクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere eine Koop-Mission mit nur 2 Mann.",
+                    "en-US": "Complete a Co-Op mission with just 2 people.",
+                    "es-ES": "Completa una misión cooperativa con dos personas.",
+                    "fr-FR": "Terminez une mission en coopération à deux joueurs.",
+                    "it-IT": "Completa una missione coop. con 2 sole persone.",
+                    "ja-JP": "2人だけで協力ミッションをクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "51.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "de-DE": "Anrecht gesichert",
+                    "en-US": "Stake a claim",
+                    "es-ES": "Reclama lo tuyo",
+                    "fr-FR": "Pépite d'or",
+                    "it-IT": "Quello che luccica...",
+                    "ja-JP": "権利を主張"
+                },
+                "description": {
+                    "de-DE": "Gewinne eine Goldmedaille in einer beliebigen Koop-Mission.",
+                    "en-US": "Gold medal any Co-Op mission.",
+                    "es-ES": "Consigue una medalla de oro en cualquier misión cooperativa.",
+                    "fr-FR": "Obtenez une médaille d'or dans une mission en coopération. ",
+                    "it-IT": "Ottieni la medaglia d'oro in una missione coop. qualsiasi.",
+                    "ja-JP": "いずれかの協力ミッションで金メダルを獲得する。"
+                },
+                "howto": {
+                    "de-DE": "Gewinne eine Goldmedaille in einer beliebigen Koop-Mission.",
+                    "en-US": "Gold medal any Co-Op mission.",
+                    "es-ES": "Consigue una medalla de oro en cualquier misión cooperativa.",
+                    "fr-FR": "Obtenez une médaille d'or dans une mission en coopération. ",
+                    "it-IT": "Ottieni la medaglia d'oro in una missione coop. qualsiasi.",
+                    "ja-JP": "いずれかの協力ミッションで金メダルを獲得する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "52.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "de-DE": "Gold gefunden",
+                    "en-US": "Struck gold",
+                    "es-ES": "Oro encontrado",
+                    "fr-FR": "Filon d'or",
+                    "it-IT": "Il filone d'oro",
+                    "ja-JP": "黄金発見！"
+                },
+                "description": {
+                    "de-DE": "Gewinne eine Goldmedaille in allen Koop-Missionen.",
+                    "en-US": "Gold medal all Co-Ops missions.",
+                    "es-ES": "Consigue una medalla de oro en todas las misiones cooperativas.",
+                    "fr-FR": "Obtenez toutes les médailles d'or des missions en coopération. ",
+                    "it-IT": "Ottieni la medaglia d'oro in tutte le missioni coop.  ",
+                    "ja-JP": "全ての協力ミッションで金メダルを獲得する。"
+                },
+                "howto": {
+                    "de-DE": "Gewinne eine Goldmedaille in allen Koop-Missionen.",
+                    "en-US": "Gold medal all Co-Ops missions.",
+                    "es-ES": "Consigue una medalla de oro en todas las misiones cooperativas.",
+                    "fr-FR": "Obtenez toutes les médailles d'or des missions en coopération. ",
+                    "it-IT": "Ottieni la medaglia d'oro in tutte le missioni coop.  ",
+                    "ja-JP": "全ての協力ミッションで金メダルを獲得する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "53.png"
+        },
+        "54": {
+            "text": {
+                "name": {
+                    "de-DE": "Freunde für immer",
+                    "en-US": "Friends indeed",
+                    "es-ES": "Amigos de verdad",
+                    "fr-FR": "Avoir un bon copain",
+                    "it-IT": "Amici veri",
+                    "ja-JP": "真の友"
+                },
+                "description": {
+                    "de-DE": "Absolviere eine Koop-Mission, ohne dass jemand stirbt.",
+                    "en-US": "Complete a Co-Op mission without anyone dying.",
+                    "es-ES": "Completa una misión cooperativa sin que nadie muera.  ",
+                    "fr-FR": "Terminez une mission en coopération sans que personne ne meure. ",
+                    "it-IT": "Completa una missione coop. senza che muoia nessuno.",
+                    "ja-JP": "チームの誰も死ぬ事なく、協力ミッションをクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere eine Koop-Mission, ohne dass jemand stirbt.",
+                    "en-US": "Complete a Co-Op mission without anyone dying.",
+                    "es-ES": "Completa una misión cooperativa sin que nadie muera.  ",
+                    "fr-FR": "Terminez une mission en coopération sans que personne ne meure. ",
+                    "it-IT": "Completa una missione coop. senza che muoia nessuno.",
+                    "ja-JP": "チームの誰も死ぬ事なく、協力ミッションをクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "54.png"
+        },
+        "55": {
+            "text": {
+                "name": {
+                    "de-DE": "Erstklassig!",
+                    "en-US": "You rule!",
+                    "es-ES": "¡El mejor!",
+                    "fr-FR": "La classe !",
+                    "it-IT": "Ci sai fare!",
+                    "ja-JP": "皆さん、最高ですか～"
+                },
+                "description": {
+                    "de-DE": "Absolviere alle fortgeschrittenen Koop-Missionen.",
+                    "en-US": "Complete all  Advanced  Co-Op missions.",
+                    "es-ES": "Completa todas las misiones cooperativas avanzadas. ",
+                    "fr-FR": "Terminez toutes les missions en coopération difficile. ",
+                    "it-IT": "Completa tutte le missioni coop. avanzate. ",
+                    "ja-JP": "全ての上級協力ミッションをクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere alle fortgeschrittenen Koop-Missionen.",
+                    "en-US": "Complete all  Advanced  Co-Op missions.",
+                    "es-ES": "Completa todas las misiones cooperativas avanzadas. ",
+                    "fr-FR": "Terminez toutes les missions en coopération difficile. ",
+                    "it-IT": "Completa tutte le missioni coop. avanzate. ",
+                    "ja-JP": "全ての上級協力ミッションをクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "55.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Goldader",
+                    "en-US": "The mother lode",
+                    "es-ES": "La veta madre",
+                    "fr-FR": "Le filon du siècle",
+                    "it-IT": "La vena madre",
+                    "ja-JP": "鉱山の主脈"
+                },
+                "description": {
+                    "de-DE": "Gewinne eine Goldmedaille in allen fortgeschrittenen Koop-Missionen.",
+                    "en-US": "Gold medal all Advanced Co-Op missions.",
+                    "es-ES": "Consigue una medalla de oro en todas las misiones cooperativas avanzadas.",
+                    "fr-FR": "Obtenez une médaille d'or pour chaque mission en coopération difficile.",
+                    "it-IT": "Ottieni la medaglia d'oro in tutte le missioni coop. avanzate.",
+                    "ja-JP": "全ての上級協力ミッションで金メダルを獲得する。"
+                },
+                "howto": {
+                    "de-DE": "Gewinne eine Goldmedaille in allen fortgeschrittenen Koop-Missionen.",
+                    "en-US": "Gold medal all Advanced Co-Op missions.",
+                    "es-ES": "Consigue una medalla de oro en todas las misiones cooperativas avanzadas.",
+                    "fr-FR": "Obtenez une médaille d'or pour chaque mission en coopération difficile.",
+                    "it-IT": "Ottieni la medaglia d'oro in tutte le missioni coop. avanzate.",
+                    "ja-JP": "全ての上級協力ミッションで金メダルを獲得する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "56.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "de-DE": "Bleihaltige Luft",
+                    "en-US": "Dodge this",
+                    "es-ES": "Esquiva esto",
+                    "fr-FR": "Qui n'en veut ?",
+                    "it-IT": "Schiva questa",
+                    "ja-JP": "回避不能"
+                },
+                "description": {
+                    "de-DE": "Erreiche eine Kill-Kombo mit min. 10 kritischen Treffern in einer fortgeschrittenen Koop-Mission.",
+                    "en-US": "Achieve a kill chain of 10 or more in any Advanced Co-Op mission.\n\n",
+                    "es-ES": "Logra 10 o más asesinatos consecutivos en cualquier misión cooperativa avanzada. ",
+                    "fr-FR": "Enchaînez 10 victimes ou plus dans une mission en coopération difficile. ",
+                    "it-IT": "Totalizza 10 o più uccisioni di fila in una missione coop. avanzata. ",
+                    "ja-JP": "いずれかの上級協力ミッションで10以上の連鎖キルを達成する。"
+                },
+                "howto": {
+                    "de-DE": "Erreiche eine Kill-Kombo mit min. 10 kritischen Treffern in einer fortgeschrittenen Koop-Mission.",
+                    "en-US": "Achieve a kill chain of 10 or more in any Advanced Co-Op mission.\n\n",
+                    "es-ES": "Logra 10 o más asesinatos consecutivos en cualquier misión cooperativa avanzada. ",
+                    "fr-FR": "Enchaînez 10 victimes ou plus dans une mission en coopération difficile. ",
+                    "it-IT": "Totalizza 10 o più uccisioni di fila in una missione coop. avanzata. ",
+                    "ja-JP": "いずれかの上級協力ミッションで10以上の連鎖キルを達成する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "57.png"
+        },
+        "58": {
+            "text": {
+                "name": {
+                    "de-DE": "Kugelsicher",
+                    "en-US": "Bulletproof",
+                    "es-ES": "A prueba de balas",
+                    "fr-FR": "Pare-balles",
+                    "it-IT": "A prova di proiettile",
+                    "ja-JP": "鋼の体"
+                },
+                "description": {
+                    "de-DE": "Absolviere eine Koop-Mission, ohne zu sterben.",
+                    "en-US": "Complete a Co-Op mission without dying.",
+                    "es-ES": "Completa una misión cooperativa sin morir.",
+                    "fr-FR": "Terminez une mission en coopération sans mourir.",
+                    "it-IT": "Completa una missione coop. senza morire.",
+                    "ja-JP": "一度も死なずに協力ミッションをクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere eine Koop-Mission, ohne zu sterben.",
+                    "en-US": "Complete a Co-Op mission without dying.",
+                    "es-ES": "Completa una misión cooperativa sin morir.",
+                    "fr-FR": "Terminez une mission en coopération sans mourir.",
+                    "it-IT": "Completa una missione coop. senza morire.",
+                    "ja-JP": "一度も死なずに協力ミッションをクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "58.png"
+        },
+        "59": {
+            "text": {
+                "name": {
+                    "de-DE": "Nenn es ein Comeback!",
+                    "en-US": "Call it a Comeback!",
+                    "es-ES": "¡La remontada!",
+                    "fr-FR": "Remontée spectaculaire",
+                    "it-IT": "Che recupero!",
+                    "ja-JP": "ナイスカムバック"
+                },
+                "description": {
+                    "de-DE": "Komm zurück von einem 2-0 Defizit und gewinne ein Halte Stand-Match.",
+                    "en-US": "Come back from a 2-0 deficit and win a Hold Your Own game.",
+                    "es-ES": "Gana una partida de Cada uno a lo suyo después de ir perdiendo 2-0. ",
+                    "fr-FR": "Gagnez une partie de Mise à sac alors que votre équipe était menée 2-0.",
+                    "it-IT": "Recupera da un punteggio di 2-0 e vinci una partita \"Difendi il bottino\".",
+                    "ja-JP": "2-0から挽回し、ゴールド・キーパーで勝利を決める。"
+                },
+                "howto": {
+                    "de-DE": "Komm zurück von einem 2-0 Defizit und gewinne ein Halte Stand-Match.",
+                    "en-US": "Come back from a 2-0 deficit and win a Hold Your Own game.",
+                    "es-ES": "Gana una partida de Cada uno a lo suyo después de ir perdiendo 2-0. ",
+                    "fr-FR": "Gagnez une partie de Mise à sac alors que votre équipe était menée 2-0.",
+                    "it-IT": "Recupera da un punteggio di 2-0 e vinci una partita \"Difendi il bottino\".",
+                    "ja-JP": "2-0から挽回し、ゴールド・キーパーで勝利を決める。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "59.png"
+        },
+        "60": {
+            "text": {
+                "name": {
+                    "de-DE": "Wer braucht schon Dead Eye?",
+                    "en-US": "Who needs Deadeye?",
+                    "es-ES": "¿Quién necesita Dead Eye?",
+                    "fr-FR": "Gardez votre sang froid !",
+                    "it-IT": "Dead Eye? Pfui!",
+                    "ja-JP": "デッドアイ不要"
+                },
+                "description": {
+                    "de-DE": "Erledige 3 oder mehr Spieler in einem Standoff oder Showdown.",
+                    "en-US": "Kill 3 or more players in a standoff or showdown.",
+                    "es-ES": "Mata a 3 o más jugadores en un enfrentamiento o tiroteo.",
+                    "fr-FR": "Tuez 3 joueurs ou plus lors d'une confrontation ou d'un affrontement.",
+                    "it-IT": "Uccidi almeno 3 giocatori in uno stallo o in un duello (in multiplayer).",
+                    "ja-JP": "一回のスタンドオフ又は集団決闘で3人以上のプレイヤーを倒す。"
+                },
+                "howto": {
+                    "de-DE": "Erledige 3 oder mehr Spieler in einem Standoff oder Showdown.",
+                    "en-US": "Kill 3 or more players in a standoff or showdown.",
+                    "es-ES": "Mata a 3 o más jugadores en un enfrentamiento o tiroteo.",
+                    "fr-FR": "Tuez 3 joueurs ou plus lors d'une confrontation ou d'un affrontement.",
+                    "it-IT": "Uccidi almeno 3 giocatori in uno stallo o in un duello (in multiplayer).",
+                    "ja-JP": "一回のスタンドオフ又は集団決闘で3人以上のプレイヤーを倒す。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "60.png"
+        },
+        "61": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein heißer Stecher",
+                    "en-US": "Stick and Move",
+                    "es-ES": "Clava y gana",
+                    "fr-FR": "Chérie, ça va trancher",
+                    "it-IT": "Un taglio e via",
+                    "ja-JP": "刃物注意"
+                },
+                "description": {
+                    "de-DE": "Erledige 3 Gegner mit Messern oder Wurfmessern in einem PvP-Multiplayer-Spiel.",
+                    "en-US": "Get 3 kills with knives or throwing knives in a single competitive match.",
+                    "es-ES": "Mata a 3 jugadores con cuchillos o cuchillos arrojadizos en una partida competitiva. ",
+                    "fr-FR": "Faites 3 victimes au couteau ou aux couteaux de lancer au cours d'une partie en multijoueur.",
+                    "it-IT": "Totalizza 3 uccisioni con il coltello o con il pugnale da lancio in un'unica partita competitiva.",
+                    "ja-JP": "一回のマルチプレイマッチにて、ナイフ又は投げナイフで3キルを決める。"
+                },
+                "howto": {
+                    "de-DE": "Erledige 3 Gegner mit Messern oder Wurfmessern in einem PvP-Multiplayer-Spiel.",
+                    "en-US": "Get 3 kills with knives or throwing knives in a single competitive match.",
+                    "es-ES": "Mata a 3 jugadores con cuchillos o cuchillos arrojadizos en una partida competitiva. ",
+                    "fr-FR": "Faites 3 victimes au couteau ou aux couteaux de lancer au cours d'une partie en multijoueur.",
+                    "it-IT": "Totalizza 3 uccisioni con il coltello o con il pugnale da lancio in un'unica partita competitiva.",
+                    "ja-JP": "一回のマルチプレイマッチにて、ナイフ又は投げナイフで3キルを決める。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "61.png"
+        },
+        "62": {
+            "text": {
+                "name": {
+                    "de-DE": "Packesel",
+                    "en-US": "Double bagger",
+                    "es-ES": "Embolsando doble",
+                    "fr-FR": "Une sacrée paire de...",
+                    "it-IT": "Per due bottini in più",
+                    "ja-JP": "バッグ・コレクション"
+                },
+                "description": {
+                    "de-DE": "Erziele 3 Doppel-Erbeutungen in einem einzelnen Goldrausch-Match.",
+                    "en-US": "Double capture 3 times in a single Gold Rush map.",
+                    "es-ES": "Haz una captura doble 3 veces en una partida de Fiebre del oro. ",
+                    "fr-FR": "Effectuez 3 double captures au cours d'une même partie de Ruée vers l'or.",
+                    "it-IT": "Totalizza 3 doppie catture in un'unica partita \"Corsa all'oro\".",
+                    "ja-JP": "一回の黄金ダッシュにて、ダブルキャプチャーを3回決める。"
+                },
+                "howto": {
+                    "de-DE": "Erziele 3 Doppel-Erbeutungen in einem einzelnen Goldrausch-Match.",
+                    "en-US": "Double capture 3 times in a single Gold Rush map.",
+                    "es-ES": "Haz una captura doble 3 veces en una partida de Fiebre del oro. ",
+                    "fr-FR": "Effectuez 3 double captures au cours d'une même partie de Ruée vers l'or.",
+                    "it-IT": "Totalizza 3 doppie catture in un'unica partita \"Corsa all'oro\".",
+                    "ja-JP": "一回の黄金ダッシュにて、ダブルキャプチャーを3回決める。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "62.png"
+        },
+        "63": {
+            "text": {
+                "name": {
+                    "de-DE": "Kopfjäger",
+                    "en-US": "Headhunter",
+                    "es-ES": "Entre ceja y ceja",
+                    "fr-FR": "Chasseur de têtes",
+                    "it-IT": "Cacciatore di teste",
+                    "ja-JP": "首狩り族"
+                },
+                "description": {
+                    "de-DE": "Erledige 5 Spieler mit Kopfschüssen in einer einzelnen Schießerei oder Banden-Schießerei.",
+                    "en-US": "Kill 5 players via headshot in a single Shootout or Gang Shootout.",
+                    "es-ES": "Mata a 5 jugadores con tiros a la cabeza en una partida de Tiroteo o Tiroteo de bandas. ",
+                    "fr-FR": "Tuez 5 joueurs d'un tir à la tête au cours d'une même partie de Fusillade ou Fusillade en bande.",
+                    "it-IT": "Uccidi 5 giocatori con colpi alla testa in un'unica \"Sparatoria\" o \"Sparatoria fra bande\".",
+                    "ja-JP": "一回のシュートアウト又はギャングシュートアウトにて、ヘッドショットで5人のプレイヤーを倒す。"
+                },
+                "howto": {
+                    "de-DE": "Erledige 5 Spieler mit Kopfschüssen in einer einzelnen Schießerei oder Banden-Schießerei.",
+                    "en-US": "Kill 5 players via headshot in a single Shootout or Gang Shootout.",
+                    "es-ES": "Mata a 5 jugadores con tiros a la cabeza en una partida de Tiroteo o Tiroteo de bandas. ",
+                    "fr-FR": "Tuez 5 joueurs d'un tir à la tête au cours d'une même partie de Fusillade ou Fusillade en bande.",
+                    "it-IT": "Uccidi 5 giocatori con colpi alla testa in un'unica \"Sparatoria\" o \"Sparatoria fra bande\".",
+                    "ja-JP": "一回のシュートアウト又はギャングシュートアウトにて、ヘッドショットで5人のプレイヤーを倒す。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "63.png"
+        },
+        "64": {
+            "text": {
+                "name": {
+                    "de-DE": "Legendär",
+                    "en-US": "Legendary",
+                    "es-ES": "Legendario",
+                    "fr-FR": "Légendaire",
+                    "it-IT": "Leggendario",
+                    "ja-JP": "伝説"
+                },
+                "description": {
+                    "de-DE": "Erreiche Level 50 und werde zur Legende.",
+                    "en-US": "Reach level 50 and pass into Legend.",
+                    "es-ES": "Llega al nivel 50 y conviértete en leyenda. ",
+                    "fr-FR": "Atteignez le niveau 50 et entrez dans la légende.",
+                    "it-IT": "Raggiungi il livello 50 e diventa leggenda.",
+                    "ja-JP": "マルチプレイのレベル50を達成し、「伝説」になる。"
+                },
+                "howto": {
+                    "de-DE": "Erreiche Level 50 und werde zur Legende.",
+                    "en-US": "Reach level 50 and pass into Legend.",
+                    "es-ES": "Llega al nivel 50 y conviértete en leyenda. ",
+                    "fr-FR": "Atteignez le niveau 50 et entrez dans la légende.",
+                    "it-IT": "Raggiungi il livello 50 e diventa leggenda.",
+                    "ja-JP": "マルチプレイのレベル50を達成し、「伝説」になる。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "64.png"
+        },
+        "65": {
+            "text": {
+                "name": {
+                    "de-DE": "Ave Maria",
+                    "en-US": "Hail Mary",
+                    "es-ES": "Ave María, dame puntería",
+                    "fr-FR": "Ave Marie",
+                    "it-IT": "Mamma butta la pasta",
+                    "ja-JP": "古風なミサイル"
+                },
+                "description": {
+                    "de-DE": "Erledige einen Gegner aus mindestens 35 Yards Entfernung mit einem Kriegsbeil.",
+                    "en-US": "Get a kill greater than 35 yards with a Tomahawk.",
+                    "es-ES": "Mata a un jugador con el Tomahawk desde una distancia mayor a 35 yardas. ",
+                    "fr-FR": "Tuez un joueur de plus de 35 yards avec un Tomahawk.",
+                    "it-IT": "Uccidi da più di 35 iarde con il tomahawk.",
+                    "ja-JP": "35ヤード以上の距離からトマホークのキルを決める。"
+                },
+                "howto": {
+                    "de-DE": "Erledige einen Gegner aus mindestens 35 Yards Entfernung mit einem Kriegsbeil.",
+                    "en-US": "Get a kill greater than 35 yards with a Tomahawk.",
+                    "es-ES": "Mata a un jugador con el Tomahawk desde una distancia mayor a 35 yardas. ",
+                    "fr-FR": "Tuez un joueur de plus de 35 yards avec un Tomahawk.",
+                    "it-IT": "Uccidi da più di 35 iarde con il tomahawk.",
+                    "ja-JP": "35ヤード以上の距離からトマホークのキルを決める。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "65.png"
+        },
+        "66": {
+            "text": {
+                "name": {
+                    "de-DE": "Axt-Meister",
+                    "en-US": "Axe Master",
+                    "es-ES": "Maestro del hacha",
+                    "fr-FR": "Sachem",
+                    "it-IT": "Jack sarebbe fiero",
+                    "ja-JP": "黄金の斧"
+                },
+                "description": {
+                    "de-DE": "Schließe alle Kriegsbeil-Herausforderungen im Einzelspieler-Modus ab.",
+                    "en-US": "Complete all Tomahawk challenges in Single Player.",
+                    "es-ES": "Completa todos los desafíos del Tomahawk en el modo de un jugador.",
+                    "fr-FR": "Terminez tous les défis au Tomahawk en mode histoire.",
+                    "it-IT": "Completa tutte le sfide con il tomahawk in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイでトマホーク・チャレンジの全てをクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Schließe alle Kriegsbeil-Herausforderungen im Einzelspieler-Modus ab.",
+                    "en-US": "Complete all Tomahawk challenges in Single Player.",
+                    "es-ES": "Completa todos los desafíos del Tomahawk en el modo de un jugador.",
+                    "fr-FR": "Terminez tous les défis au Tomahawk en mode histoire.",
+                    "it-IT": "Completa tutte le sfide con il tomahawk in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイでトマホーク・チャレンジの全てをクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "66.png"
+        },
+        "67": {
+            "text": {
+                "name": {
+                    "de-DE": "Erster Revolverheld",
+                    "en-US": "Original Gunslinger",
+                    "es-ES": "Pistolero original",
+                    "fr-FR": "A l'ancienne",
+                    "it-IT": "Vecchie glorie",
+                    "ja-JP": "元祖ガンスリンガー"
+                },
+                "description": {
+                    "de-DE": "Erledige 25 Gegner mit Dead Eye als Red.",
+                    "en-US": "Get 25 Deadeye kills with Red.",
+                    "es-ES": "Mata a 25 jugadores con Dead Eye usando al personaje Red.",
+                    "fr-FR": "Faites 25 victimes en utilisant le Sang Froid avec Red.",
+                    "it-IT": "Totalizza 25 uccisioni usando il \"Dead Eye\" con Red.",
+                    "ja-JP": "レッドとして、デッドアイで25キルを決める。"
+                },
+                "howto": {
+                    "de-DE": "Erledige 25 Gegner mit Dead Eye als Red.",
+                    "en-US": "Get 25 Deadeye kills with Red.",
+                    "es-ES": "Mata a 25 jugadores con Dead Eye usando al personaje Red.",
+                    "fr-FR": "Faites 25 victimes en utilisant le Sang Froid avec Red.",
+                    "it-IT": "Totalizza 25 uccisioni usando il \"Dead Eye\" con Red.",
+                    "ja-JP": "レッドとして、デッドアイで25キルを決める。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "67.png"
+        },
+        "68": {
+            "text": {
+                "name": {
+                    "de-DE": "Schweinisch explosiv!",
+                    "en-US": "Reeeeal Good",
+                    "es-ES": "¡Vas a volar bien alto, vaquero!",
+                    "fr-FR": "Mèche rebelle",
+                    "it-IT": "Miccia corta",
+                    "ja-JP": "カ・イ・カ・ン"
+                },
+                "description": {
+                    "de-DE": "Erledige 25 Gegner mit Dynamit als Pig Josh.",
+                    "en-US": "Get 25 Dynamite kills with Pig Josh.",
+                    "es-ES": "Mata a 25 jugadores con dinamita usando al personaje Pig Josh.",
+                    "fr-FR": "Faites 25 victimes à la dynamite avec Pig Josh.",
+                    "it-IT": "Totalizza 25 uccisioni usando la dinamite con Pig Josh.",
+                    "ja-JP": "ピッグ・ジョッシュとして、ダイナマイトで25キルを決める。"
+                },
+                "howto": {
+                    "de-DE": "Erledige 25 Gegner mit Dynamit als Pig Josh.",
+                    "en-US": "Get 25 Dynamite kills with Pig Josh.",
+                    "es-ES": "Mata a 25 jugadores con dinamita usando al personaje Pig Josh.",
+                    "fr-FR": "Faites 25 victimes à la dynamite avec Pig Josh.",
+                    "it-IT": "Totalizza 25 uccisioni usando la dinamite con Pig Josh.",
+                    "ja-JP": "ピッグ・ジョッシュとして、ダイナマイトで25キルを決める。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "68.png"
+        },
+        "69": {
+            "text": {
+                "name": {
+                    "de-DE": "Sprengmeister",
+                    "en-US": "Master Exploder",
+                    "es-ES": "Maestro de explosivos",
+                    "fr-FR": "Tu danses ou je t'explose ?",
+                    "it-IT": "Big bang",
+                    "ja-JP": "爆発マン"
+                },
+                "description": {
+                    "de-DE": "Absolviere die Einzelspieler-Herausforderung für das Sprenggewehr.",
+                    "en-US": "Complete the Explosive Rifle Single Player Challenge",
+                    "es-ES": "Completa el desafío del fusil explosivo para un jugador.",
+                    "fr-FR": "Terminez le défi du fusil explosif en mode Histoire.",
+                    "it-IT": "Completa la sfida per il fucile esplosivo in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイで榴弾ライフルチャレンジをクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Absolviere die Einzelspieler-Herausforderung für das Sprenggewehr.",
+                    "en-US": "Complete the Explosive Rifle Single Player Challenge",
+                    "es-ES": "Completa el desafío del fusil explosivo para un jugador.",
+                    "fr-FR": "Terminez le défi du fusil explosif en mode Histoire.",
+                    "it-IT": "Completa la sfida per il fucile esplosivo in modalità giocatore singolo.",
+                    "ja-JP": "シングルプレイで榴弾ライフルチャレンジをクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "69.png"
+        },
+        "70": {
+            "text": {
+                "name": {
+                    "de-DE": "Pa-Pa-Pa-Poker-Ass",
+                    "en-US": "Pa-Pa-Pa-Poker Ace",
+                    "es-ES": "As del po-po-po-póquer",
+                    "fr-FR": "Pa-Pa-Pa-Poker Ace",
+                    "it-IT": "Faccia da poker",
+                    "ja-JP": "ポ・ポ・ポ・ポーカーエース"
+                },
+                "description": {
+                    "de-DE": "Schlage jeden Spieler einer vollbesetzten Multiplayer-Pokerpartie, wenn Blinds auf Maximum stehen.",
+                    "en-US": "In a full Multiplayer Poker game, beat the table when blinds are at maximum",
+                    "es-ES": "En una partida de póquer multijugador llena, gana a todos cuando las ciegas estén al máximo.",
+                    "fr-FR": "En poker multijoueur, battez une table complète lorsque les blinds sont au maximum.",
+                    "it-IT": "In una partita multiplayer a \"Poker\" a tavolo completo, batti tutti quando i bui sono al massimo.",
+                    "ja-JP": "マルチプレイの参加人数が一杯のポーカーで、ブラインドが最大時に全員に勝利する。"
+                },
+                "howto": {
+                    "de-DE": "Schlage jeden Spieler einer vollbesetzten Multiplayer-Pokerpartie, wenn Blinds auf Maximum stehen.",
+                    "en-US": "In a full Multiplayer Poker game, beat the table when blinds are at maximum",
+                    "es-ES": "En una partida de póquer multijugador llena, gana a todos cuando las ciegas estén al máximo.",
+                    "fr-FR": "En poker multijoueur, battez une table complète lorsque les blinds sont au maximum.",
+                    "it-IT": "In una partita multiplayer a \"Poker\" a tavolo completo, batti tutti quando i bui sono al massimo.",
+                    "ja-JP": "マルチプレイの参加人数が一杯のポーカーで、ブラインドが最大時に全員に勝利する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "70.png"
+        },
+        "71": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Große Bluff",
+                    "en-US": "The Big Bluff",
+                    "es-ES": "El gran farol",
+                    "fr-FR": "Moi je dis il bluffe",
+                    "it-IT": "Il grande bluff",
+                    "ja-JP": "ザ・ハッタリ"
+                },
+                "description": {
+                    "de-DE": "Gewinne eine Multiplayer-Pokerpartie, indem du jemanden mit besserem Blatt zwingst, auszusteigen.",
+                    "en-US": "In a Multiplayer Poker game, win a hand by forcing someone with a better hand to fold",
+                    "es-ES": "En póquer multijugador, gana una mano forzando a retirarse a alguien con mejores cartas.",
+                    "fr-FR": "Remportez une main de poker multijoueur en forçant un adversaire ayant un meilleur jeu à se coucher.",
+                    "it-IT": "Vinci una mano a \"Poker\" in multiplayer obbligando qualcuno a lasciare sebbene abbia carte migliori.",
+                    "ja-JP": "マルチプレイのポーカーで、よりいい手を持つ相手をフォールドさせて勝利する。"
+                },
+                "howto": {
+                    "de-DE": "Gewinne eine Multiplayer-Pokerpartie, indem du jemanden mit besserem Blatt zwingst, auszusteigen.",
+                    "en-US": "In a Multiplayer Poker game, win a hand by forcing someone with a better hand to fold",
+                    "es-ES": "En póquer multijugador, gana una mano forzando a retirarse a alguien con mejores cartas.",
+                    "fr-FR": "Remportez une main de poker multijoueur en forçant un adversaire ayant un meilleur jeu à se coucher.",
+                    "it-IT": "Vinci una mano a \"Poker\" in multiplayer obbligando qualcuno a lasciare sebbene abbia carte migliori.",
+                    "ja-JP": "マルチプレイのポーカーで、よりいい手を持つ相手をフォールドさせて勝利する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "71.png"
+        },
+        "72": {
+            "text": {
+                "name": {
+                    "de-DE": "River-Phönix",
+                    "en-US": "In A Van Down By The River",
+                    "es-ES": "En una camioneta junto al río",
+                    "fr-FR": "Retournement de situation",
+                    "it-IT": "Per il rotto della cuffia",
+                    "ja-JP": "土壇場で逆転"
+                },
+                "description": {
+                    "de-DE": "Gewinne eine Multiplayer-Pokerpartie mit der letzten Karte, nachdem du zuvor am verlieren warst.",
+                    "en-US": "In a Multiplayer Poker game, win a hand on the last card when you were losing prior",
+                    "es-ES": "En una partida de póquer multijugador, gana una mano con la última carta (river) tras ir perdiendo.",
+                    "fr-FR": "Remportez une main de poker multijoueur sur la dernière carte alors que vous perdiez.",
+                    "it-IT": "Vinci una mano a \"Poker\" in multiplayer con l'ultima carta, dopo essere stato in svantaggio.",
+                    "ja-JP": "マルチプレイのポーカーで、自分の手が負けている状態で、最後のカードを使って勝利する。"
+                },
+                "howto": {
+                    "de-DE": "Gewinne eine Multiplayer-Pokerpartie mit der letzten Karte, nachdem du zuvor am verlieren warst.",
+                    "en-US": "In a Multiplayer Poker game, win a hand on the last card when you were losing prior",
+                    "es-ES": "En una partida de póquer multijugador, gana una mano con la última carta (river) tras ir perdiendo.",
+                    "fr-FR": "Remportez une main de poker multijoueur sur la dernière carte alors que vous perdiez.",
+                    "it-IT": "Vinci una mano a \"Poker\" in multiplayer con l'ultima carta, dopo essere stato in svantaggio.",
+                    "ja-JP": "マルチプレイのポーカーで、自分の手が負けている状態で、最後のカードを使って勝利する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "72.png"
+        },
+        "73": {
+            "text": {
+                "name": {
+                    "de-DE": "Zwanghafter Lügner",
+                    "en-US": "Compulsive Liar",
+                    "es-ES": "Mentiroso compulsivo",
+                    "fr-FR": "Il ment comme il respire",
+                    "it-IT": "Bugiardo patologico",
+                    "ja-JP": "ブラフの衝動"
+                },
+                "description": {
+                    "de-DE": "Gewinne eine vollbesetzte Multiplayer-Würfelpokerpartie, ohne einen einzigen Würfel zu verlieren.",
+                    "en-US": "In a full Multiplayer Liar's Dice game, win without losing a single die",
+                    "es-ES": "En una partida de Dado Mentiroso multijugador llena, gana sin perder ni un solo dado.",
+                    "fr-FR": "Remportez une partie multijoueur de poker menteur avec une table complète sans perdre un seul dé.",
+                    "it-IT": "In una partita multiplayer a \"Dadi bugiardi\" a tavolo completo, vinci senza perdere alcun dado.",
+                    "ja-JP": "マルチプレイの参加人数が一杯のブラフで、1つもダイスを失わずに勝利する。"
+                },
+                "howto": {
+                    "de-DE": "Gewinne eine vollbesetzte Multiplayer-Würfelpokerpartie, ohne einen einzigen Würfel zu verlieren.",
+                    "en-US": "In a full Multiplayer Liar's Dice game, win without losing a single die",
+                    "es-ES": "En una partida de Dado Mentiroso multijugador llena, gana sin perder ni un solo dado.",
+                    "fr-FR": "Remportez une partie multijoueur de poker menteur avec une table complète sans perdre un seul dé.",
+                    "it-IT": "In una partita multiplayer a \"Dadi bugiardi\" a tavolo completo, vinci senza perdere alcun dado.",
+                    "ja-JP": "マルチプレイの参加人数が一杯のブラフで、1つもダイスを失わずに勝利する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "73.png"
+        },
+        "74": {
+            "text": {
+                "name": {
+                    "de-DE": "Gute Entscheidung",
+                    "en-US": "Good Call",
+                    "es-ES": "Buen ojo",
+                    "fr-FR": "Le compte est bon !",
+                    "it-IT": "Ottima dichiarazione",
+                    "ja-JP": "予想屋"
+                },
+                "description": {
+                    "de-DE": "Mach in einer einzelnen Multiplayer-Würfelpokerpartie ein korrektes 'präzises' Gebot.",
+                    "en-US": "In a single Multiplayer Liar's Dice game, successfully make a spot-on call",
+                    "es-ES": "En una partida de Dado Mentiroso multijugador, gana con una apuesta exacta.",
+                    "fr-FR": "Faites une annonce exacte au cours d'une partie multijoueur de poker menteur.",
+                    "it-IT": "Durante una partita multiplayer a \"Dadi bugiardi\", fai una dichiarazione precisa.",
+                    "ja-JP": "1回のマルチプレイのブラフで、予想的中を宣言し、成功する。"
+                },
+                "howto": {
+                    "de-DE": "Mach in einer einzelnen Multiplayer-Würfelpokerpartie ein korrektes 'präzises' Gebot.",
+                    "en-US": "In a single Multiplayer Liar's Dice game, successfully make a spot-on call",
+                    "es-ES": "En una partida de Dado Mentiroso multijugador, gana con una apuesta exacta.",
+                    "fr-FR": "Faites une annonce exacte au cours d'une partie multijoueur de poker menteur.",
+                    "it-IT": "Durante una partita multiplayer a \"Dadi bugiardi\", fai una dichiarazione precisa.",
+                    "ja-JP": "1回のマルチプレイのブラフで、予想的中を宣言し、成功する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "74.png"
+        },
+        "75": {
+            "text": {
+                "name": {
+                    "de-DE": "Mit Dem Letzten Würfel",
+                    "en-US": "One Die to Rule Them All",
+                    "es-ES": "Un dado para gobernarlos a todos",
+                    "fr-FR": "Le dé du vainqueur",
+                    "it-IT": "Un dado per domarli",
+                    "ja-JP": "1つのサイコロがすべてを統べる"
+                },
+                "description": {
+                    "de-DE": "Gewinne eine Multiplayer-Würfelpokerpartie mit nur einem verbleibenden Würfel.",
+                    "en-US": "In a Multiplayer Liar's Dice game, win with only one die left",
+                    "es-ES": "En una partida de Dado Mentiroso multijugador, gana cuando solo te quede un dado.",
+                    "fr-FR": "Remportez une partie multijoueur de poker menteur avec seulement un dé.",
+                    "it-IT": "Vinci una partita multiplayer a \"Dadi bugiardi\" rimanendo con un solo dado.",
+                    "ja-JP": "マルチプレイのブラフで、ダイスが1つしか残っていない状態で勝利する。"
+                },
+                "howto": {
+                    "de-DE": "Gewinne eine Multiplayer-Würfelpokerpartie mit nur einem verbleibenden Würfel.",
+                    "en-US": "In a Multiplayer Liar's Dice game, win with only one die left",
+                    "es-ES": "En una partida de Dado Mentiroso multijugador, gana cuando solo te quede un dado.",
+                    "fr-FR": "Remportez une partie multijoueur de poker menteur avec seulement un dé.",
+                    "it-IT": "Vinci una partita multiplayer a \"Dadi bugiardi\" rimanendo con un solo dado.",
+                    "ja-JP": "マルチプレイのブラフで、ダイスが1つしか残っていない状態で勝利する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "75.png"
+        },
+        "76": {
+            "text": {
+                "name": {
+                    "de-DE": "Dreifache Krone",
+                    "en-US": "Triple Crown ",
+                    "es-ES": "Triple corona",
+                    "fr-FR": "Triple couronne",
+                    "it-IT": "Tripla coppa",
+                    "ja-JP": "三冠王"
+                },
+                "description": {
+                    "de-DE": "Werde Erster in allen Rennen eines beliebigen Grand Prix.",
+                    "en-US": "Get first place in all races in any Grand Prix",
+                    "es-ES": "Llega primero en todas las carreras de un Gran Premio.",
+                    "fr-FR": "Terminez premier de toutes les courses d'un grand prix.",
+                    "it-IT": "Piazzati al primo posto in tutte le corse di un Grand Prix qualsiasi.",
+                    "ja-JP": "一つのグランプリにて、すべてのレースで1位になる。"
+                },
+                "howto": {
+                    "de-DE": "Werde Erster in allen Rennen eines beliebigen Grand Prix.",
+                    "en-US": "Get first place in all races in any Grand Prix",
+                    "es-ES": "Llega primero en todas las carreras de un Gran Premio.",
+                    "fr-FR": "Terminez premier de toutes les courses d'un grand prix.",
+                    "it-IT": "Piazzati al primo posto in tutte le corse di un Grand Prix qualsiasi.",
+                    "ja-JP": "一つのグランプリにて、すべてのレースで1位になる。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "76.png"
+        },
+        "77": {
+            "text": {
+                "name": {
+                    "de-DE": "Friedensstifter",
+                    "en-US": "Peacewalker",
+                    "es-ES": "Pacífico",
+                    "fr-FR": "Sage comme une image",
+                    "it-IT": "Colomba della pace",
+                    "ja-JP": "ピースウォーカー"
+                },
+                "description": {
+                    "de-DE": "Beende ein einzelnes Rennen, ohne verletzt oder erschossen zu werden und ohne eine Kugel abzufeuern.",
+                    "en-US": "Finish a single race without getting shot or killed, and without shooting a bullet",
+                    "es-ES": "Termina una carrera sin que te disparen o maten y sin disparar ni una bala.",
+                    "fr-FR": "Terminez une course sans être blessé ou tué, et sans tirer une seule balle.",
+                    "it-IT": "Termina una corsa senza farti sparare o uccidere, e senza sparare un colpo.",
+                    "ja-JP": "撃たれたり倒されたりせず、また1発も撃たずに1レースを終える。"
+                },
+                "howto": {
+                    "de-DE": "Beende ein einzelnes Rennen, ohne verletzt oder erschossen zu werden und ohne eine Kugel abzufeuern.",
+                    "en-US": "Finish a single race without getting shot or killed, and without shooting a bullet",
+                    "es-ES": "Termina una carrera sin que te disparen o maten y sin disparar ni una bala.",
+                    "fr-FR": "Terminez une course sans être blessé ou tué, et sans tirer une seule balle.",
+                    "it-IT": "Termina una corsa senza farti sparare o uccidere, e senza sparare un colpo.",
+                    "ja-JP": "撃たれたり倒されたりせず、また1発も撃たずに1レースを終える。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "77.png"
+        },
+        "78": {
+            "text": {
+                "name": {
+                    "de-DE": "Von Null Auf Hundert",
+                    "en-US": "From Glue to Mon Dieu!",
+                    "es-ES": "¡Progreso meteórico!",
+                    "fr-FR": "Qui l'eut cru ?",
+                    "it-IT": "Da brocco a WOW!",
+                    "ja-JP": "大躍進！"
+                },
+                "description": {
+                    "de-DE": "Beende in einem Grand Prix ein Rennen als Erster, nachdem du im vorherigen Rennen Letzter warst.",
+                    "en-US": "During a Grand Prix, finish a race in first after placing last in the previous race.",
+                    "es-ES": "En un Gran Premio, llega primero en una carrera habiendo llegado último en la anterior.",
+                    "fr-FR": "Terminez dernier d'une course et premier de la suivante dans un grand prix.",
+                    "it-IT": "Durante un Grand Prix, arriva ultimo in una corsa e primo in quella successiva.",
+                    "ja-JP": "グランプリにて、最下位になった次のレースで1位になる。"
+                },
+                "howto": {
+                    "de-DE": "Beende in einem Grand Prix ein Rennen als Erster, nachdem du im vorherigen Rennen Letzter warst.",
+                    "en-US": "During a Grand Prix, finish a race in first after placing last in the previous race.",
+                    "es-ES": "En un Gran Premio, llega primero en una carrera habiendo llegado último en la anterior.",
+                    "fr-FR": "Terminez dernier d'une course et premier de la suivante dans un grand prix.",
+                    "it-IT": "Durante un Grand Prix, arriva ultimo in una corsa e primo in quella successiva.",
+                    "ja-JP": "グランプリにて、最下位になった次のレースで1位になる。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "78.png"
+        },
+        "79": {
+            "text": {
+                "name": {
+                    "de-DE": "Wir Beschützen Dieses Haus!",
+                    "en-US": "We Must Protect This House!",
+                    "es-ES": "¡Debemos proteger esta casa!",
+                    "fr-FR": "Vous ne passerez pas !",
+                    "it-IT": "Dobbiamo proteggere la casa!",
+                    "ja-JP": "本拠地を死守せよ！"
+                },
+                "description": {
+                    "de-DE": "Hindere die Angreifer daran, auch nur ein Ziel einzunehmen, während du verteidigst.",
+                    "en-US": "While on defense, do not allow the attacking team to capture any of their objectives",
+                    "es-ES": "Como defensor, evita que los atacantes logren cualquiera de sus objetivos en \"Fortaleza\".",
+                    "fr-FR": "Lorsque vous défendez, faites en sorte que les attaquants ne capturent aucun objectif.",
+                    "it-IT": "Quando difendi, impedisci agli assalitori di conquistare alcun obiettivo.",
+                    "ja-JP": "防御側で戦闘中、攻撃側に1つも拠点を占拠させない。"
+                },
+                "howto": {
+                    "de-DE": "Hindere die Angreifer daran, auch nur ein Ziel einzunehmen, während du verteidigst.",
+                    "en-US": "While on defense, do not allow the attacking team to capture any of their objectives",
+                    "es-ES": "Como defensor, evita que los atacantes logren cualquiera de sus objetivos en \"Fortaleza\".",
+                    "fr-FR": "Lorsque vous défendez, faites en sorte que les attaquants ne capturent aucun objectif.",
+                    "it-IT": "Quando difendi, impedisci agli assalitori di conquistare alcun obiettivo.",
+                    "ja-JP": "防御側で戦闘中、攻撃側に1つも拠点を占拠させない。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "79.png"
+        },
+        "80": {
+            "text": {
+                "name": {
+                    "de-DE": "Avatar Des Todes",
+                    "en-US": "Avatar of Death",
+                    "es-ES": "Avatar de la muerte",
+                    "fr-FR": "Même pas mort !",
+                    "it-IT": "La morte in persona",
+                    "ja-JP": "死のアバター"
+                },
+                "description": {
+                    "de-DE": "Gewinne eine Runde eines Festungs-Spiels, ohne zu sterben.",
+                    "en-US": "Successfully complete either round of a Stronghold map without dying",
+                    "es-ES": "Sé del equipo ganador en cualquier sección de una partida de \"Fortaleza\" sin morir.",
+                    "fr-FR": "Remportez une manche dans une carte du mode Forteresse sans mourir.",
+                    "it-IT": "Completa con successo uno dei due round di una mappa \"Roccaforte\" senza morire.",
+                    "ja-JP": "拠点攻防戦の攻撃か防衛のどちらかで、死なずに成功する。"
+                },
+                "howto": {
+                    "de-DE": "Gewinne eine Runde eines Festungs-Spiels, ohne zu sterben.",
+                    "en-US": "Successfully complete either round of a Stronghold map without dying",
+                    "es-ES": "Sé del equipo ganador en cualquier sección de una partida de \"Fortaleza\" sin morir.",
+                    "fr-FR": "Remportez une manche dans une carte du mode Forteresse sans mourir.",
+                    "it-IT": "Completa con successo uno dei due round di una mappa \"Roccaforte\" senza morire.",
+                    "ja-JP": "拠点攻防戦の攻撃か防衛のどちらかで、死なずに成功する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "80.png"
+        },
+        "81": {
+            "text": {
+                "name": {
+                    "de-DE": "Legionär des Todes",
+                    "en-US": "Legion of Boom",
+                    "es-ES": "Legión explosiva",
+                    "fr-FR": "Ça a fait \"boum\"",
+                    "it-IT": "Legione del BOOM",
+                    "ja-JP": "大打撃"
+                },
+                "description": {
+                    "de-DE": "Erreiche einen Dreifach-Abschuss in einem Festungs-Spiel, während du im Angreifer-Team bist.",
+                    "en-US": "Get a triple kill while on the attacking team in Stronghold",
+                    "es-ES": "Consigue un triple asesinato siendo miembro del equipo atacante en \"Fortaleza\".",
+                    "fr-FR": "Faites trois victimes d'un coup en attaquant en mode Forteresse.",
+                    "it-IT": "Totalizza un'uccisione tripla mentre sei nella squadra attaccante in modalità \"Roccaforte\".",
+                    "ja-JP": "拠点攻防戦の攻撃側で、3連続キルを達成する。"
+                },
+                "howto": {
+                    "de-DE": "Erreiche einen Dreifach-Abschuss in einem Festungs-Spiel, während du im Angreifer-Team bist.",
+                    "en-US": "Get a triple kill while on the attacking team in Stronghold",
+                    "es-ES": "Consigue un triple asesinato siendo miembro del equipo atacante en \"Fortaleza\".",
+                    "fr-FR": "Faites trois victimes d'un coup en attaquant en mode Forteresse.",
+                    "it-IT": "Totalizza un'uccisione tripla mentre sei nella squadra attaccante in modalità \"Roccaforte\".",
+                    "ja-JP": "拠点攻防戦の攻撃側で、3連続キルを達成する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "81.png"
+        },
+        "82": {
+            "text": {
+                "name": {
+                    "de-DE": "Über 9001",
+                    "en-US": "Over 9001",
+                    "es-ES": "Más de 9.001",
+                    "fr-FR": "Over 9001",
+                    "it-IT": "Oltre 9001",
+                    "ja-JP": "戦闘力9001以上"
+                },
+                "description": {
+                    "de-DE": "Erreiche über 9001 Punkte während einer einzigen Sitzung im Freien Modus. ",
+                    "en-US": "Attain over 9,001 points in a single Free Roam session",
+                    "es-ES": "Consigue más de 9.001 puntos en una sola sesión de Modo libre.",
+                    "fr-FR": "Marquez plus de 9001 points en une seule session d'Exploration.",
+                    "it-IT": "Totalizza più di 9.001 punti in una singola sessione in modalità \"Libera\".",
+                    "ja-JP": "1回の放浪モードで、9001ポイント以上を獲得する。"
+                },
+                "howto": {
+                    "de-DE": "Erreiche über 9001 Punkte während einer einzigen Sitzung im Freien Modus. ",
+                    "en-US": "Attain over 9,001 points in a single Free Roam session",
+                    "es-ES": "Consigue más de 9.001 puntos en una sola sesión de Modo libre.",
+                    "fr-FR": "Marquez plus de 9001 points en une seule session d'Exploration.",
+                    "it-IT": "Totalizza più di 9.001 punti in una singola sessione in modalità \"Libera\".",
+                    "ja-JP": "1回の放浪モードで、9001ポイント以上を獲得する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "82.png"
+        },
+        "83": {
+            "text": {
+                "name": {
+                    "de-DE": "Führe Den Trupp An Die Spitze",
+                    "en-US": "Put the Posse on a Pedestal",
+                    "es-ES": "La cuadrilla en un pedestal",
+                    "fr-FR": "Pour la horde !",
+                    "it-IT": "Gloria alla brigata",
+                    "ja-JP": "崇拝すべき民警団"
+                },
+                "description": {
+                    "de-DE": "Erreiche über 50.000 Trupp-Punkte während einer einzigen Sitzung im Freien Modus. ",
+                    "en-US": "Attain over 50,000 posse points in a single Free Roam session",
+                    "es-ES": "Consigue más de 50.000 puntos con tu cuadrilla en una sola sesión de Modo libre.",
+                    "fr-FR": "Marquez plus de 50 000 points de groupe en une seule session d'Exploration.",
+                    "it-IT": "Totalizza più di 50.000 punti brigata in una singola sessione in modalità \"Libera\".",
+                    "ja-JP": "1回の放浪モードで、民警団ポイントを50000以上獲得する。"
+                },
+                "howto": {
+                    "de-DE": "Erreiche über 50.000 Trupp-Punkte während einer einzigen Sitzung im Freien Modus. ",
+                    "en-US": "Attain over 50,000 posse points in a single Free Roam session",
+                    "es-ES": "Consigue más de 50.000 puntos con tu cuadrilla en una sola sesión de Modo libre.",
+                    "fr-FR": "Marquez plus de 50 000 points de groupe en une seule session d'Exploration.",
+                    "it-IT": "Totalizza più di 50.000 punti brigata in una singola sessione in modalità \"Libera\".",
+                    "ja-JP": "1回の放浪モードで、民警団ポイントを50000以上獲得する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "83.png"
+        },
+        "86": {
+            "text": {
+                "name": {
+                    "de-DE": "Abwärtsspirale",
+                    "en-US": "The Downward Spiral",
+                    "es-ES": "La espiral descendente",
+                    "fr-FR": "Le cercle infernal",
+                    "it-IT": "La spirale discendente",
+                    "ja-JP": "ブラックウォーターの底から"
+                },
+                "description": {
+                    "de-DE": "Schließe die \"Merkwürdiges aus Blackwater\"-Überlebenden-Mission ab.",
+                    "en-US": "Complete \"Curious Tales from Blackwater, USA\" Survivor Mission.",
+                    "es-ES": "Completa la misión de superviviente \"Cuentos curiosos de Blackwater\".",
+                    "fr-FR": "Terminez le service Histoires fantastiques de Blackwater.",
+                    "it-IT": "Completa il compito \"I misteri di Blackwater\".",
+                    "ja-JP": "生存ミッション「ブラックウォーターの怪談」をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Schließe die \"Merkwürdiges aus Blackwater\"-Überlebenden-Mission ab.",
+                    "en-US": "Complete \"Curious Tales from Blackwater, USA\" Survivor Mission.",
+                    "es-ES": "Completa la misión de superviviente \"Cuentos curiosos de Blackwater\".",
+                    "fr-FR": "Terminez le service Histoires fantastiques de Blackwater.",
+                    "it-IT": "Completa il compito \"I misteri di Blackwater\".",
+                    "ja-JP": "生存ミッション「ブラックウォーターの怪談」をクリアする。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "84.png"
+        },
+        "87": {
+            "text": {
+                "name": {
+                    "de-DE": "Freunde sagen viel aus...",
+                    "en-US": "Judge A Man By The...",
+                    "es-ES": "Dime con quién andas...",
+                    "fr-FR": "Qui se ressemble s'assemble",
+                    "it-IT": "Dimmi con chi vai...",
+                    "ja-JP": "古い仲間、腐った因縁"
+                },
+                "description": {
+                    "de-DE": "Schließe \"Heilmittel für die meisten Gebrechen\" und \"Zurück in dein Loch, Partner\" ab.",
+                    "en-US": "Complete \"Cure For Most of What Ails You\" and \"Get Back in that Hole, Partner\" Survivor Missions.",
+                    "es-ES": "Completa las misiones de superviviente \"Una cura para casi todo\" y \"Vuelve a tu agujero, amigo\".",
+                    "fr-FR": "Terminez les services Un remède (presque) infaillible et Déterrement de vie de garçon.",
+                    "it-IT": "Completa i compiti \"Cure per quasi tutti i mali\" e \"Torna nella fossa, amico\".",
+                    "ja-JP": "生存ミッション「如何なる病もほぼ治す薬」および「穴に帰りたまえ、相棒」をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Schließe \"Heilmittel für die meisten Gebrechen\" und \"Zurück in dein Loch, Partner\" ab.",
+                    "en-US": "Complete \"Cure For Most of What Ails You\" and \"Get Back in that Hole, Partner\" Survivor Missions.",
+                    "es-ES": "Completa las misiones de superviviente \"Una cura para casi todo\" y \"Vuelve a tu agujero, amigo\".",
+                    "fr-FR": "Terminez les services Un remède (presque) infaillible et Déterrement de vie de garçon.",
+                    "it-IT": "Completa i compiti \"Cure per quasi tutti i mali\" e \"Torna nella fossa, amico\".",
+                    "ja-JP": "生存ミッション「如何なる病もほぼ治す薬」および「穴に帰りたまえ、相棒」をクリアする。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "85.png"
+        },
+        "88": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Oberinnen-Tanz",
+                    "en-US": "The Superior Dance",
+                    "es-ES": "La danza superiora",
+                    "fr-FR": "L'amère Supérieure",
+                    "it-IT": "Foga Monaca",
+                    "ja-JP": "この尼！"
+                },
+                "description": {
+                    "de-DE": "Schließe die \"Mutter Oberin Blues\"-Überlebenden-Mission ab.",
+                    "en-US": "Complete \"Mother Superior Blues\" Survivor Mission.",
+                    "es-ES": "Completa la misión de superviviente \"El blues de la Madre Superiora\".",
+                    "fr-FR": "Terminez le service La croix et la bannière.",
+                    "it-IT": "Completa il compito \"Blues sisters\".",
+                    "ja-JP": "生存ミッション「女子修道院長のブルース」をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Schließe die \"Mutter Oberin Blues\"-Überlebenden-Mission ab.",
+                    "en-US": "Complete \"Mother Superior Blues\" Survivor Mission.",
+                    "es-ES": "Completa la misión de superviviente \"El blues de la Madre Superiora\".",
+                    "fr-FR": "Terminez le service La croix et la bannière.",
+                    "it-IT": "Completa il compito \"Blues sisters\".",
+                    "ja-JP": "生存ミッション「女子修道院長のブルース」をクリアする。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "86.png"
+        },
+        "89": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Welt ist in Ordnung!",
+                    "en-US": "All's Right With the World",
+                    "es-ES": "El mundo va bien",
+                    "fr-FR": "En paix avec le monde",
+                    "it-IT": "Tutto è bene...",
+                    "ja-JP": "素晴らしき世界"
+                },
+                "description": {
+                    "de-DE": "Schließe \"Auf einem fahlen Pferd\" ab.",
+                    "en-US": "Complete \"On a Pale Horse\".",
+                    "es-ES": "Completa \"En un caballo pálido\".",
+                    "fr-FR": "Terminez \"Le cavalier blanc\".",
+                    "it-IT": "Completa \"Su di un cavallo pallido\".",
+                    "ja-JP": "「不健康な馬」をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Schließe \"Auf einem fahlen Pferd\" ab.",
+                    "en-US": "Complete \"On a Pale Horse\".",
+                    "es-ES": "Completa \"En un caballo pálido\".",
+                    "fr-FR": "Terminez \"Le cavalier blanc\".",
+                    "it-IT": "Completa \"Su di un cavallo pallido\".",
+                    "ja-JP": "「不健康な馬」をクリアする。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "87.png"
+        },
+        "91": {
+            "text": {
+                "name": {
+                    "de-DE": "Drehende Teller",
+                    "en-US": "Spinning Plates",
+                    "es-ES": "Platos giratorios",
+                    "fr-FR": "All your town are belong to us",
+                    "it-IT": "Sempre sul filo del rasoio",
+                    "ja-JP": "絶妙なバランス"
+                },
+                "description": {
+                    "de-DE": "Achte darauf, dass während \"Albtraum der lebenden Toten\" jedes Gebiet zeitgleich sicher ist.",
+                    "en-US": "Have every territory saved at the same time during the Undead Nightmare.",
+                    "es-ES": "Ten todos los territorios a salvo al mismo tiempo en \"Pesadilla de los No Muertos\".",
+                    "fr-FR": "Maintenez toutes les villes sauves en même temps dans \"Les cauchemars d'outre-tombe\".",
+                    "it-IT": "Durante \"Terrore dall'Oltretomba\", fai in modo che tutte le città siano salve allo stesso momento.",
+                    "ja-JP": "「アンデッド・ナイトメア」にて、全てのエリアを同時に救出する。"
+                },
+                "howto": {
+                    "de-DE": "Achte darauf, dass während \"Albtraum der lebenden Toten\" jedes Gebiet zeitgleich sicher ist.",
+                    "en-US": "Have every territory saved at the same time during the Undead Nightmare.",
+                    "es-ES": "Ten todos los territorios a salvo al mismo tiempo en \"Pesadilla de los No Muertos\".",
+                    "fr-FR": "Maintenez toutes les villes sauves en même temps dans \"Les cauchemars d'outre-tombe\".",
+                    "it-IT": "Durante \"Terrore dall'Oltretomba\", fai in modo che tutte le città siano salve allo stesso momento.",
+                    "ja-JP": "「アンデッド・ナイトメア」にて、全てのエリアを同時に救出する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "25",
+            "imageId": "88.png"
+        },
+        "93": {
+            "text": {
+                "name": {
+                    "de-DE": "Zed ist tot, Baby",
+                    "en-US": "Zed's Dead, Baby",
+                    "es-ES": "Zed ha muerto, cariño",
+                    "fr-FR": "Zed's Dead, Baby",
+                    "it-IT": "Zed è morto, piccola",
+                    "ja-JP": "お前はもう死んでいる"
+                },
+                "description": {
+                    "de-DE": "Spiele \"Albtraum der lebenden Toten\" zu 100% durch.",
+                    "en-US": "Attain 100% Game Completion statistic in Undead Nightmare.",
+                    "es-ES": "Completa el 100% en \"Pesadilla de los No Muertos\".",
+                    "fr-FR": "Terminez \"Les cauchemars d'outre-tombe\" à 100 %.",
+                    "it-IT": "Completa il 100% del gioco in \"Terrore dall'Oltretomba\".",
+                    "ja-JP": "「アンデッド・ナイトメア」の達成率を100％にする。"
+                },
+                "howto": {
+                    "de-DE": "Spiele \"Albtraum der lebenden Toten\" zu 100% durch.",
+                    "en-US": "Attain 100% Game Completion statistic in Undead Nightmare.",
+                    "es-ES": "Completa el 100% en \"Pesadilla de los No Muertos\".",
+                    "fr-FR": "Terminez \"Les cauchemars d'outre-tombe\" à 100 %.",
+                    "it-IT": "Completa il 100% del gioco in \"Terrore dall'Oltretomba\".",
+                    "ja-JP": "「アンデッド・ナイトメア」の達成率を100％にする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "89.png"
+        },
+        "94": {
+            "text": {
+                "name": {
+                    "de-DE": "Mad Marston: Der Spurenkrieger",
+                    "en-US": "Mad Marston: The Trail Warrior",
+                    "es-ES": "Mad Marston: guerrero de caminos",
+                    "fr-FR": "Mad Marston l'impitoyable",
+                    "it-IT": "Mad Marston: guerriero del West",
+                    "ja-JP": "マッド・マーストン"
+                },
+                "description": {
+                    "de-DE": "Erreiche Level 5 in allen \"Albtraum der lebenden Toten\"-Herausforderungen.",
+                    "en-US": "Attain Rank 5 in all Undead Nightmare Challenges.",
+                    "es-ES": "Completa el rango 5 de todos los desafíos en \"Pesadilla de los No Muertos\".",
+                    "fr-FR": "Atteignez le niveau 5 dans tous les défis des \"Cauchemars d'outre-tombe\".",
+                    "it-IT": "Raggiungi il livello 5 in tutte le sfide di \"Terrore dall'Oltretomba\".",
+                    "ja-JP": "「アンデッド・ナイトメア」の全てのチャレンジでランク5を達成する。"
+                },
+                "howto": {
+                    "de-DE": "Erreiche Level 5 in allen \"Albtraum der lebenden Toten\"-Herausforderungen.",
+                    "en-US": "Attain Rank 5 in all Undead Nightmare Challenges.",
+                    "es-ES": "Completa el rango 5 de todos los desafíos en \"Pesadilla de los No Muertos\".",
+                    "fr-FR": "Atteignez le niveau 5 dans tous les défis des \"Cauchemars d'outre-tombe\".",
+                    "it-IT": "Raggiungi il livello 5 in tutte le sfide di \"Terrore dall'Oltretomba\".",
+                    "ja-JP": "「アンデッド・ナイトメア」の全てのチャレンジでランク5を達成する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "10",
+            "imageId": "90.png"
+        },
+        "95": {
+            "text": {
+                "name": {
+                    "de-DE": "Fanservice",
+                    "en-US": "Fan Service",
+                    "es-ES": "Para el público",
+                    "fr-FR": "Fan Service",
+                    "it-IT": "Solo per i fan",
+                    "ja-JP": "ファンサービス"
+                },
+                "description": {
+                    "de-DE": "Finde ein Einhorn, und reite es zu.",
+                    "en-US": "Find and break a unicorn.",
+                    "es-ES": "Encuentra y doma un unicornio.",
+                    "fr-FR": "Trouvez une licorne et dressez-la.",
+                    "it-IT": "Trova e doma un unicorno.",
+                    "ja-JP": "ユニコーンを発見して馴らす。"
+                },
+                "howto": {
+                    "de-DE": "Finde ein Einhorn, und reite es zu.",
+                    "en-US": "Find and break a unicorn.",
+                    "es-ES": "Encuentra y doma un unicornio.",
+                    "fr-FR": "Trouvez une licorne et dressez-la.",
+                    "it-IT": "Trova e doma un unicorno.",
+                    "ja-JP": "ユニコーンを発見して馴らす。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "91.png"
+        },
+        "97": {
+            "text": {
+                "name": {
+                    "de-DE": "Chupadingsbums",
+                    "en-US": "Chupathingy",
+                    "es-ES": "Chupa... ¿qué?",
+                    "fr-FR": "Chupa-oups !",
+                    "it-IT": "Chupachè?",
+                    "ja-JP": "チュパナントカ"
+                },
+                "description": {
+                    "de-DE": "Finde und erlege ein Chupacabra.",
+                    "en-US": "Find and kill a chupacabra.",
+                    "es-ES": "Encuentra y mata un chupacabras.",
+                    "fr-FR": "Trouvez un chupacabra et tuez-le.",
+                    "it-IT": "Trova e uccidi un chupacabra.",
+                    "ja-JP": "チュパカブラを発見して殺す。"
+                },
+                "howto": {
+                    "de-DE": "Finde und erlege ein Chupacabra.",
+                    "en-US": "Find and kill a chupacabra.",
+                    "es-ES": "Encuentra y mata un chupacabras.",
+                    "fr-FR": "Trouvez un chupacabra et tuez-le.",
+                    "it-IT": "Trova e uccidi un chupacabra.",
+                    "ja-JP": "チュパカブラを発見して殺す。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "92.png"
+        },
+        "98": {
+            "text": {
+                "name": {
+                    "de-DE": "Sechs Jahre in der Schöpfung",
+                    "en-US": "Six Years In The Making",
+                    "es-ES": "Seis años después",
+                    "fr-FR": "Plus la peine de chercher, CJ",
+                    "it-IT": "Finalmente dopo sei anni...",
+                    "ja-JP": "愛は霧の彼方に"
+                },
+                "description": {
+                    "de-DE": "Finde und erlege einen Bigfoot.",
+                    "en-US": "Find and kill a sasquatch.",
+                    "es-ES": "Encuentra y mata un Bigfoot.",
+                    "fr-FR": "Trouvez un sasquatch et tuez-le.",
+                    "it-IT": "Trova e uccidi un sasquatch.",
+                    "ja-JP": "ビッグフットを発見して殺す。"
+                },
+                "howto": {
+                    "de-DE": "Finde und erlege einen Bigfoot.",
+                    "en-US": "Find and kill a sasquatch.",
+                    "es-ES": "Encuentra y mata un Bigfoot.",
+                    "fr-FR": "Trouvez un sasquatch et tuez-le.",
+                    "it-IT": "Trova e uccidi un sasquatch.",
+                    "ja-JP": "ビッグフットを発見して殺す。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "93.png"
+        },
+        "99": {
+            "text": {
+                "name": {
+                    "de-DE": "Zieh die Kanone",
+                    "en-US": "Smoke that Skinwagon",
+                    "es-ES": "No tengo tiempo para sangrar",
+                    "fr-FR": "La Horde infernale",
+                    "it-IT": "Fumati questo, sacco di carne",
+                    "ja-JP": "屍の津波"
+                },
+                "description": {
+                    "de-DE": "Erreiche Welle 15 in \"Ansturm der Untoten\" im Multiplayer-Modus.",
+                    "en-US": "Make it to wave 15 in Undead Overrun Gametype in Multiplayer.",
+                    "es-ES": "Llega hasta la oleada número 15 en el modo \"Apocalipsis zombi\" de multijugador.",
+                    "fr-FR": "Survivez jusqu'à la 15e vague d'ennemis dans le mode multijoueur Cimetières.",
+                    "it-IT": "Sopravvivi fino all'ondata 15 nella modalità multiplayer \"Assalto dei non morti\".",
+                    "ja-JP": "ゾンビ超過モードにて、敵の猛襲を第15波まで生き延びる。"
+                },
+                "howto": {
+                    "de-DE": "Erreiche Welle 15 in \"Ansturm der Untoten\" im Multiplayer-Modus.",
+                    "en-US": "Make it to wave 15 in Undead Overrun Gametype in Multiplayer.",
+                    "es-ES": "Llega hasta la oleada número 15 en el modo \"Apocalipsis zombi\" de multijugador.",
+                    "fr-FR": "Survivez jusqu'à la 15e vague d'ennemis dans le mode multijoueur Cimetières.",
+                    "it-IT": "Sopravvivi fino all'ondata 15 nella modalità multiplayer \"Assalto dei non morti\".",
+                    "ja-JP": "ゾンビ超過モードにて、敵の猛襲を第15波まで生き延びる。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Tournament",
+            "credits": "10",
+            "imageId": "94.png"
+        },
+        "100": {
+            "text": {
+                "name": {
+                    "de-DE": "Kingpin",
+                    "en-US": "Kingpin",
+                    "es-ES": "Cabecilla",
+                    "fr-FR": "Le Caïd",
+                    "it-IT": "Il capo dei capi",
+                    "ja-JP": "山の王者"
+                },
+                "description": {
+                    "de-DE": "Erledige 8 verschiedene Spieler, während du im Freien Modus in \"Landraub\" verteidigst.",
+                    "en-US": "Fight off 8 unique players during your time on top during Land Grab in Multiplayer Free Roam.",
+                    "es-ES": "Mata a 8 jugadores diferentes mientras defiendes en el modo \"Toma de tierras\" de multijugador.",
+                    "fr-FR": "Repoussez 8 joueurs différents en étant en tête d'une partie de Territoires en mode Exploration.",
+                    "it-IT": "Respingi 8 avversari diversi mentre stai occupando un'area in modalità \"Giù le mani\".",
+                    "ja-JP": "放浪モードの土地占有にて、占有者である時に、8人のプレイヤーを倒す。"
+                },
+                "howto": {
+                    "de-DE": "Erledige 8 verschiedene Spieler, während du im Freien Modus in \"Landraub\" verteidigst.",
+                    "en-US": "Fight off 8 unique players during your time on top during Land Grab in Multiplayer Free Roam.",
+                    "es-ES": "Mata a 8 jugadores diferentes mientras defiendes en el modo \"Toma de tierras\" de multijugador.",
+                    "fr-FR": "Repoussez 8 joueurs différents en étant en tête d'une partie de Territoires en mode Exploration.",
+                    "it-IT": "Respingi 8 avversari diversi mentre stai occupando un'area in modalità \"Giù le mani\".",
+                    "ja-JP": "放浪モードの土地占有にて、占有者である時に、8人のプレイヤーを倒す。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Tournament",
+            "credits": "10",
+            "imageId": "95.png"
+        }
+    }
+}
