@@ -424,9 +424,9 @@
                 },
                 "howto": {
                     "de-DE": "Meistere jeden beliebigen Song als Profi, wenn die Sound-Optionen auf Null heruntergedreht sind",
-                    "en-US": "Beat any song on the expert difficulty with the games sound options turned down to zero\n\n\n\n",
+                    "en-US": "Beat any song on the expert difficulty with the games sound options turned down to zero\n\n\n",
                     "es-ES": "Pásate cualquier canción en el nivel experto con el sonido apagado.",
-                    "fr-FR": "Réussis une chanson au niveau Expert avec l'option de son du jeu mise à zéro\n\n\n\n",
+                    "fr-FR": "Réussis une chanson au niveau Expert avec l'option de son du jeu mise à zéro\n\n\n",
                     "it-IT": "Completa un brano al livello Esperto con le opzioni audio del gioco azzerate"
                 }
             },
@@ -598,7 +598,7 @@
                 },
                 "howto": {
                     "de-DE": "Spiele eine Karriere im Schwer- oder Profi-Modus mit einem Standard-Controller",
-                    "en-US": "Play through a career on the Hard or Expert difficulty using a standard controller\n\n\n\n",
+                    "en-US": "Play through a career on the Hard or Expert difficulty using a standard controller\n\n\n",
                     "es-ES": "Juega en el modo Carrera en el nivel difícil o experto utilizando un mando estándar.",
                     "fr-FR": "Termine un mode Carrière au niveau Difficile ou Expert en utilisant une manette standard",
                     "it-IT": "Completa la carriera al livello Difficile o Esperto utilizzando un controller standard"
@@ -656,7 +656,7 @@
                 },
                 "howto": {
                     "de-DE": "Meistere alle Schwierigkeitsstufen, kauf alles im Laden und meistere 100 Online-Spiele",
-                    "en-US": "Complete all difficulties in Career, buy everything from the shop and complete 100 online matches\n\n\n\n",
+                    "en-US": "Complete all difficulties in Career, buy everything from the shop and complete 100 online matches\n\n\n",
                     "es-ES": "Completa todos los niveles de dificultad en Carrera, cómpralo todo y completa 100 partidas en línea",
                     "fr-FR": "Termine tous les niveaux de difficulté du mode Carrière, 100 parties en ligne et achète le magasin",
                     "it-IT": "Completa la carriera a tutti i livelli, acquista tutto dall'emporio e completa 100 partite online"
@@ -1205,7 +1205,9 @@
                     "fr-FR": "Refuse un duel contre un boss",
                     "it-IT": "Rifiuta una battaglia con un boss della chitarra"
                 },
-                "howto": {}
+                "howto": {
+                    "en-US": ""
+                }
             },
             "isSecret": "false",
             "type": "Completion",
@@ -1228,7 +1230,9 @@
                     "fr-FR": "Rate une chanson avec un taux de réussite supérieur à 90 %",
                     "it-IT": "Sbaglia un brano dopo averne suonato il 90%"
                 },
-                "howto": {}
+                "howto": {
+                    "en-US": ""
+                }
             },
             "isSecret": "false",
             "type": "Completion",
@@ -1251,7 +1255,9 @@
                     "fr-FR": "Rate une chanson 10 fois",
                     "it-IT": "Sbaglia lo stesso 10 volte"
                 },
-                "howto": {}
+                "howto": {
+                    "en-US": ""
+                }
             },
             "isSecret": "false",
             "type": "Completion",
