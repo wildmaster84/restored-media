@@ -1,0 +1,24 @@
+{
+    "properties": {
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000005": {
+            "info": "columnLB",
+            "method": "max",
+            "statId": 1
+        },
+        "0x20000004": {
+            "info": "tap_teams",
+            "method": "max",
+            "statId": 65534
+        }
+    }
+}
