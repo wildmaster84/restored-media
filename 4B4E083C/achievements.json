@@ -1,0 +1,1604 @@
+{
+    "Achievements": {
+        "17": {
+            "text": {
+                "name": {
+                    "en-US": "Vic Boss",
+                    "ja-JP": "VIC BOSS",
+                    "de-DE": "Vic Boss",
+                    "es-ES": "Vic Boss",
+                    "it-IT": "Vic Boss",
+                    "fr-FR": "Vic Boss"
+                },
+                "description": {
+                    "en-US": "Cleared every achievement.",
+                    "ja-JP": "全ての実績を獲得した",
+                    "de-DE": "Sämtliche Erfolge freigeschaltet.",
+                    "es-ES": "Has obtenido todos los logros.",
+                    "it-IT": "Hai ottenuto tutti gli obiettivi.",
+                    "fr-FR": "Tu as déverrouillé tous les succès."
+                },
+                "howto": {
+                    "en-US": "Clear every achievement.",
+                    "ja-JP": "すべての実績を獲得する",
+                    "de-DE": "Schalten Sie sämtliche Erfolge frei.",
+                    "es-ES": "Obtén todos los logros.",
+                    "it-IT": "Ottieni tutti gli obiettivi.",
+                    "fr-FR": "Déverrouille tous les succès."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "01.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "en-US": "An Army Without Borders",
+                    "ja-JP": "国境なき軍隊",
+                    "de-DE": "Eine Armee ohne Grenzen",
+                    "es-ES": "Un ejército sin fronteras",
+                    "it-IT": "Un esercito senza confini",
+                    "fr-FR": "Militaires Sans Frontières"
+                },
+                "description": {
+                    "en-US": "Cleared Prologue: An Army Without Borders.",
+                    "ja-JP": "序章：国境なき軍隊をクリアした",
+                    "de-DE": "Prolog abgeschlossen: Eine Armee ohne Grenzen",
+                    "es-ES": "Has completado el prólogo: \"Un ejército sin fronteras\".",
+                    "it-IT": "Prologo completato: Un esercito senza confini.",
+                    "fr-FR": "Tu as terminé le prologue « Militaires Sans Frontières »."
+                },
+                "howto": {
+                    "en-US": "Clear Prologue: An Army Without Borders.",
+                    "ja-JP": "序章：国境なき軍隊をクリアする",
+                    "de-DE": "Schließen Sie den Prolog: „Eine Armee ohne Grenzen“ ab.",
+                    "es-ES": "Completa el prólogo: \"Un ejército sin fronteras\".",
+                    "it-IT": "Completa il prologo: Un esercito senza confini",
+                    "fr-FR": "Termine le prologue « Militaires Sans Frontières »."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "en-US": "A Country Without An Army",
+                    "ja-JP": "軍隊なき国家",
+                    "de-DE": "Ein Land ohne Armee",
+                    "es-ES": "Un país sin ejército",
+                    "it-IT": "Un paese senza un esercito",
+                    "fr-FR": "Un pays sans armée"
+                },
+                "description": {
+                    "en-US": "Cleared Chapter 1: A Country Without An Army.",
+                    "ja-JP": "第1章：軍隊なき国家をクリアした",
+                    "de-DE": "Kapitel 1 abgeschlossen: Ein Land ohne Armee",
+                    "es-ES": "Has completado el capítulo 1: \"Un país sin ejército\".",
+                    "it-IT": "Capitolo 1 completato: Un paese senza un esercito.",
+                    "fr-FR": "Tu as terminé le chapitre 1 « Un pays sans armée »."
+                },
+                "howto": {
+                    "en-US": "Clear Chapter 1: A Country Without An Army.",
+                    "ja-JP": "第1章：軍隊なき国家をクリアする",
+                    "de-DE": "Schließen Sie Kapitel 1: „Ein Land ohne Armee“ ab.",
+                    "es-ES": "Completa el capítulo 1: \"Un país sin ejército\".",
+                    "it-IT": "Completa il capitolo 1: Un paese senza un esercito",
+                    "fr-FR": "Termine le chapitre 1 « Un pays sans armée »."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "en-US": "The Phantom Hero",
+                    "ja-JP": "英雄の幻影",
+                    "de-DE": "Die Phantomheldin",
+                    "es-ES": "El héroe fantasma",
+                    "it-IT": "L'eroe fantasma",
+                    "fr-FR": "Le héros fantôme"
+                },
+                "description": {
+                    "en-US": "Cleared Chapter 2: The Phantom Hero.",
+                    "ja-JP": "第2章：英雄の幻影をクリアした",
+                    "de-DE": "Kapitel 2 abgeschlossen: Die Phantomheldin",
+                    "es-ES": "Has completado el capítulo 2: \"El héroe fantasma\".",
+                    "it-IT": "Capitolo 2 completato: L'eroe fantasma.",
+                    "fr-FR": "Tu as terminé le chapitre 2 « Le héros fantôme »."
+                },
+                "howto": {
+                    "en-US": "Clear Chapter 2: The Phantom Hero.",
+                    "ja-JP": "第2章：英雄の幻影をクリアする",
+                    "de-DE": "Schließen Sie Kapitel 2: „ Die Phantomheldin“ ab.",
+                    "es-ES": "Completa el capítulo 2: \"El héroe fantasma\".",
+                    "it-IT": "Completa il capitolo 2: L'eroe fantasma",
+                    "fr-FR": "Termine le chapitre 2 « Le héros fantôme »."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "en-US": "A Nation Reborn",
+                    "ja-JP": "亡国の再生",
+                    "de-DE": "Eine neu geborene Nation",
+                    "es-ES": "El renacimiento de una nación",
+                    "it-IT": "La rinascita di una nazione",
+                    "fr-FR": "La renaissance d'une nation"
+                },
+                "description": {
+                    "en-US": "Cleared Chapter 3: A Nation Reborn.",
+                    "ja-JP": "第3章：亡国の再生をクリアした",
+                    "de-DE": "Kapitel 3 abgeschlossen: Eine neu geborene Nation",
+                    "es-ES": "Has completado el capítulo 3: \"El renacimiento de una nación\".",
+                    "it-IT": "Capitolo 3 completato: La rinascita di una nazione.",
+                    "fr-FR": "Tu as terminé le chapitre 3 « La renaissance d'une nation »."
+                },
+                "howto": {
+                    "en-US": "Clear Chapter 3: A Nation Reborn.",
+                    "ja-JP": "第3章：亡国の再生をクリアする",
+                    "de-DE": "Schließen Sie Kapitel 3: „Eine neu geborene Nation“ ab.",
+                    "es-ES": "Completa el capítulo 3: \"El renacimiento de una nación\".",
+                    "it-IT": "Completa il capitolo 3: La rinascita di una nazione",
+                    "fr-FR": "Termine le chapitre 3 « La renaissance d'une nation »."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "en-US": "The Illusion of Peace",
+                    "ja-JP": "幻想の平和",
+                    "de-DE": "Die Illusion des Friedens",
+                    "es-ES": "Ilusión de paz",
+                    "it-IT": "L'illusione della pace",
+                    "fr-FR": "Une illusion de paix"
+                },
+                "description": {
+                    "en-US": "Cleared Chapter 4: The Illusion of Peace.",
+                    "ja-JP": "第4章：幻想の平和をクリアした",
+                    "de-DE": "Kapitel 4 abgeschlossen: Die Illusion des Friedens",
+                    "es-ES": "Has completado el capítulo 4: \"Ilusión de paz\".",
+                    "it-IT": "Capitolo 4 completato: L'illusione della pace.",
+                    "fr-FR": "Tu as terminé le chapitre 4 « Une illusion de paix »."
+                },
+                "howto": {
+                    "en-US": "Clear Chapter 4: The Illusion of Peace.",
+                    "ja-JP": "第4章：幻想の平和をクリアする",
+                    "de-DE": "Schließen Sie Kapitel 4: „Die Illusion des Friedens“ ab.",
+                    "es-ES": "Completa el capítulo 4: \"Ilusión de paz\".",
+                    "it-IT": "Completa il capitolo 4: L'illusione della pace",
+                    "fr-FR": "Termine le chapitre 4 « Une illusion de paix »."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "06.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "en-US": "Outer Heaven",
+                    "ja-JP": "天国の外側",
+                    "de-DE": "Vor dem Himmelstor",
+                    "es-ES": "Outer Heaven",
+                    "it-IT": "Oltre le porte del Paradiso",
+                    "fr-FR": "Au-delà des portes du Paradis"
+                },
+                "description": {
+                    "en-US": "Cleared Chapter 5: Outer Heaven.",
+                    "ja-JP": "第5章：天国の外側をクリアした",
+                    "de-DE": "Kapitel 5 abgeschlossen: Vor dem Himmelstor",
+                    "es-ES": "Has completado el capítulo 5: \"Más allá de las puertas del paraíso\".",
+                    "it-IT": "Capitolo 5 completato: Oltre le porte del Paradiso.",
+                    "fr-FR": "Tu as terminé le chapitre 5 « Au-delà des portes du Paradis »."
+                },
+                "howto": {
+                    "en-US": "Clear Chapter 5: Outer Heaven.",
+                    "ja-JP": "第5章：天国の外側をクリアする",
+                    "de-DE": "Schließen Sie Kapitel 5: „Vor dem Himmelstor“ ab.",
+                    "es-ES": "Completa el capítulo 5: \"Más allá de las puertas del paraíso\".",
+                    "it-IT": "Completa il capitolo 5: Oltre le porte del Paradiso",
+                    "fr-FR": "Termine le chapitre 5 « Au-delà des portes du Paradis »."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "07.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "en-US": "MAIN OPS All Rank A",
+                    "ja-JP": "MAIN OPS ALL A RANK",
+                    "de-DE": "HAUPT-OPS: Alle mit Rang A",
+                    "es-ES": "OPS PRINCIPALES categoría A",
+                    "it-IT": "Tutte MISS. PRINCIPALI classe A",
+                    "fr-FR": "OPS PRINCIPALES : rang A"
+                },
+                "description": {
+                    "en-US": "Cleared all MAIN OPS missions at Rank A or higher.",
+                    "ja-JP": "全てのMAIN OPSをAランク以上でクリアした",
+                    "de-DE": "Alle HAUPT-OPS-Einsätze mit Rang A oder höher abgeschlossen.",
+                    "es-ES": "Has completado todas las OPERACIONES PRINCIPALES con una categoría A o superior.",
+                    "it-IT": "Completate tutte le MISSIONI PRINCIPALI a classe A o superiore.",
+                    "fr-FR": "Tu as réussi toutes les OPS PRINCIPALES avec un rang A ou supérieur."
+                },
+                "howto": {
+                    "en-US": "Clear all MAIN OPS missions at Rank A or higher.",
+                    "ja-JP": "全てのMAIN OPSをAランク以上でクリアする",
+                    "de-DE": "Schließen Sie alle HAUPT-OPS-Einsätze mit Rang A oder höher ab.",
+                    "es-ES": "Completa todas las OPERACIONES PRINCIPALES con una categoría A o superior.",
+                    "it-IT": "Completa tutte le MISSIONI PRINCIPALI a classe A o superiore.",
+                    "fr-FR": "Réussis toutes les OPS PRINCIPALES avec un rang A ou supérieur."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "en-US": "MAIN OPS All Rank S",
+                    "ja-JP": "MAIN OPS ALL S RANK",
+                    "de-DE": "HAUPT-OPS: Alle mit Rang S",
+                    "es-ES": "OPS PRINCIPALES categoría S",
+                    "it-IT": "Tutte MISS. PRINCIPALI classe S",
+                    "fr-FR": "OPS PRINCIPALES : rang S"
+                },
+                "description": {
+                    "en-US": "Cleared all MAIN OPS missions at Rank S.",
+                    "ja-JP": "全てのMAIN OPSをSランクでクリアした",
+                    "de-DE": "Alle HAUPT-OPS-Einsätze mit Rang S abgeschlossen.",
+                    "es-ES": "Has completado todas las OPERACIONES PRINCIPALES con una categoría S.",
+                    "it-IT": "Completate tutte le MISSIONI PRINCIPALI a classe S.",
+                    "fr-FR": "Tu as réussi toutes les OPS PRINCIPALES avec un rang S."
+                },
+                "howto": {
+                    "en-US": "Clear all MAIN OPS missions at Rank S.",
+                    "ja-JP": "全てのMAIN OPSをSランクでクリアする",
+                    "de-DE": "Schließen Sie alle HAUPT-OPS-Einsätze mit Rang S ab.",
+                    "es-ES": "Completa todas las OPERACIONES PRINCIPALES con una categoría S.",
+                    "it-IT": "Completa tutte le MISSIONI PRINCIPALI a classe S.",
+                    "fr-FR": "Réussis toutes les OPS PRINCIPALES avec un rang S."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "09.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "en-US": "EXTRA OPS All Cleared",
+                    "ja-JP": "EXTRA OPS ALL CLEAR",
+                    "de-DE": "SPEZIAL-OPS: Alle abgeschlossen",
+                    "es-ES": "OPS ADICIONALES completadas",
+                    "it-IT": "Tutte MISSIONI EXTRA completate",
+                    "fr-FR": "OPS BONUS : réussies"
+                },
+                "description": {
+                    "en-US": "Cleared all EXTRA OPS missions.",
+                    "ja-JP": "全てのEXTRA OPSをクリアした",
+                    "de-DE": "Alle SPEZIAL-OPS-Einsätze abgeschlossen.",
+                    "es-ES": "Has completado todas las OPERACIONES ADICIONALES.",
+                    "it-IT": "Completate tutte le MISSIONI EXTRA.",
+                    "fr-FR": "Tu as réussi toutes les OPS BONUS."
+                },
+                "howto": {
+                    "en-US": "Clear all EXTRA OPS missions.",
+                    "ja-JP": "全てのEXTRA OPSをクリアする",
+                    "de-DE": "Schließen Sie alle SPEZIAL-OPS-Einsätze ab.",
+                    "es-ES": "Completa todas las OPERACIONES ADICIONALES.",
+                    "it-IT": "Completa tutte le MISSIONI EXTRA.",
+                    "fr-FR": "Réussis toutes les OPS BONUS."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "10.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "en-US": "EXTRA OPS All Rank A",
+                    "ja-JP": "EXTRA OPS ALL A RANK",
+                    "de-DE": "SPEZIAL-OPS: Alle mit Rang A",
+                    "es-ES": "OPS ADICIONALES categoría A",
+                    "it-IT": "Tutte MISSIONI EXTRA a classe A",
+                    "fr-FR": "OPS BONUS : rang A"
+                },
+                "description": {
+                    "en-US": "Cleared all EXTRA OPS missions at Rank A or higher.",
+                    "ja-JP": "全てのEXTRA OPSをAランク以上でクリアした",
+                    "de-DE": "Alle SPEZIAL-OPS-Einsätze mit Rang A oder höher abgeschlossen.",
+                    "es-ES": "Has completado todas las OPERACIONES ADICIONALES con una categoría A o superior.",
+                    "it-IT": "Completate tutte le MISSIONI EXTRA a classe A o superiore.",
+                    "fr-FR": "Tu as réussi toutes les OPS BONUS avec un rang A ou supérieur."
+                },
+                "howto": {
+                    "en-US": "Clear all EXTRA OPS missions at Rank A or higher.",
+                    "ja-JP": "全てのEXTRA OPSをAランク以上でクリアする",
+                    "de-DE": "Schließen Sie alle SPEZIAL-OPS-Einsätze mit Rang A oder höher ab.",
+                    "es-ES": "Completa todas las OPERACIONES ADICIONALES con una categoría A o superior.",
+                    "it-IT": "Completa tutte le MISSIONI EXTRA a classe A o superiore.",
+                    "fr-FR": "Réussis toutes les OPS BONUS avec un rang A ou supérieur."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "11.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "en-US": "EXTRA OPS All Rank S",
+                    "ja-JP": "EXTRA OPS ALL S RANK",
+                    "de-DE": "SPEZIAL-OPS: Alle mit Rang S",
+                    "es-ES": "OPS ADICIONALES categoría S",
+                    "it-IT": "Tutte MISSIONI EXTRA a classe S",
+                    "fr-FR": "OPS BONUS : rang S"
+                },
+                "description": {
+                    "en-US": "Cleared all EXTRA OPS missions at Rank S.",
+                    "ja-JP": "全てのEXTRA OPSをSランク以上でクリアした",
+                    "de-DE": "Alle SPEZIAL-OPS-Einsätze mit Rang S abgeschlossen.",
+                    "es-ES": "Has completado todas las OPERACIONES ADICIONALES con una categoría S.",
+                    "it-IT": "Completate tutte le MISSIONI EXTRA a classe S.",
+                    "fr-FR": "Tu as réussi toutes les OPS BONUS avec un rang S."
+                },
+                "howto": {
+                    "en-US": "Clear all EXTRA OPS missions at Rank S.",
+                    "ja-JP": "全てのEXTRA OPSをSランク以上でクリアする",
+                    "de-DE": "Schließen Sie alle SPEZIAL-OPS-Einsätze mit Rang S ab.",
+                    "es-ES": "Completa todas las OPERACIONES ADICIONALES con una categoría S.",
+                    "it-IT": "Completa tutte le MISSIONI EXTRA a classe S.",
+                    "fr-FR": "Réussis toutes les OPS BONUS avec un rang S."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "12.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "en-US": "Big Boss",
+                    "ja-JP": "BIG BOSS",
+                    "de-DE": "Big Boss",
+                    "es-ES": "Big Boss",
+                    "it-IT": "Big Boss",
+                    "fr-FR": "Big Boss"
+                },
+                "description": {
+                    "en-US": "Cleared all MAIN OPS and EXTRA OPS missions at Rank S.",
+                    "ja-JP": "MAIN OPS、EXTRA OPSの全てのミッションをSランクでクリアした",
+                    "de-DE": "Alle HAUPT-OPS- und SPEZIAL-OPS-Einsätze mit Rang S abgeschlossen.",
+                    "es-ES": "Has completado todas las OPERACIONES PRINCIPALES y OPERACIONES ADICIONALES con una categoría S.",
+                    "it-IT": "Completate tutte le MISSIONI PRINCIPALI e le MISSIONI EXTRA a classe S.",
+                    "fr-FR": "Tu as réussi toutes les OPS PRINCIPALES et OPS BONUS avec un rang S."
+                },
+                "howto": {
+                    "en-US": "Clear all MAIN OPS and EXTRA OPS missions at Rank S.",
+                    "ja-JP": "MAIN OPS、EXTRA OPSの全てのミッションをSランクでクリアする",
+                    "de-DE": "Schließen Sie alle HAUPT-OPS- und SPEZIAL-OPS-Einsätze mit Rang S ab.",
+                    "es-ES": "Completa todas las OPERACIONES PRINCIPALES y OPERACIONES ADICIONALES con una categoría S.",
+                    "it-IT": "Completa tutte le MISSIONI PRINCIPALI e le MISSIONI EXTRA a classe S.",
+                    "fr-FR": "Réussis toutes les OPS PRINCIPALES et OPS BONUS avec un rang S."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "13.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "en-US": "Failed again, did you?",
+                    "ja-JP": "君はゲームオーバーになりすぎだ。",
+                    "de-DE": "Schon wieder versagt, ja?",
+                    "es-ES": "¿Otra vez has vuelto a fracasar?",
+                    "it-IT": "Hai fallito di nuovo, vero?",
+                    "fr-FR": "Encore échoué, hein ?"
+                },
+                "description": {
+                    "en-US": "Reached 50 or more game overs.",
+                    "ja-JP": "50回以上ゲームオーバーになった",
+                    "de-DE": "Mindestens 50-mal Game Over erreicht.",
+                    "es-ES": "Has muerto 50 veces.",
+                    "it-IT": "Hai raggiunto 50 o più game over.",
+                    "fr-FR": "Tu as perdu 50 fois."
+                },
+                "howto": {
+                    "en-US": "Reach 50 or more game overs.",
+                    "ja-JP": "50回以上ゲームオーバーになる",
+                    "de-DE": "Erreichen Sie mindestens 50-mal „Game Over“.",
+                    "es-ES": "Muere 50 veces.",
+                    "it-IT": "Raggiungi 50 o più game over.",
+                    "fr-FR": "Perds 50 fois."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "14.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "en-US": "There's nothing else you can do?",
+                    "ja-JP": "他にすることはないのか。",
+                    "de-DE": "Hast du nicht mehr drauf?",
+                    "es-ES": "¿No tienes nada más que hacer?",
+                    "it-IT": "Non riesci a fare di meglio?",
+                    "fr-FR": "Tu n'as rien d'autre à faire ?"
+                },
+                "description": {
+                    "en-US": "Rolled 100 times or more in a single mission.",
+                    "ja-JP": "1回のミッションで100回以上ローリングした",
+                    "de-DE": "Mindestens 100-mal bei einer Mission überschlagen.",
+                    "es-ES": "Has rodado por el suelo 100 veces en una misión en solitario.",
+                    "it-IT": "Hai rotolato per 100 o più volte in una sola missione.",
+                    "fr-FR": "Tu as fait au moins 100 roulades en une mission."
+                },
+                "howto": {
+                    "en-US": "Roll 100 times or more in a single mission.",
+                    "ja-JP": "1回のミッションで100回以上ローリングする",
+                    "de-DE": "Überschlagen Sie sich mindestens 100-mal bei einer Mission.",
+                    "es-ES": "Rueda por el suelo 100 veces en una misión en solitario.",
+                    "it-IT": "Rotola per 100 o più volte in una sola missione.",
+                    "fr-FR": "Fais au moins 100 roulades en une mission."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "15.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "en-US": "Fulton Recovery Veteran",
+                    "ja-JP": "フルトンコレクター",
+                    "de-DE": "Fulton-Rettungsveteran",
+                    "es-ES": "Profesional del sistema Fulton",
+                    "it-IT": "Veterano del recupero Fulton",
+                    "fr-FR": "Vétéran en récupération Fulton"
+                },
+                "description": {
+                    "en-US": "Reached 300 or more Fulton recoveries.",
+                    "ja-JP": "300回以上フルトン回収を行った",
+                    "de-DE": "300 Fulton-Rettungseinsätze erreicht.",
+                    "es-ES": "Has utilizado el sistema Fulton 300 veces.",
+                    "it-IT": "Hai raggiunto 300 recuperi Fulton.",
+                    "fr-FR": "Tu as fait 300 récupérations Fulton."
+                },
+                "howto": {
+                    "en-US": "Reach 300 or more Fulton recoveries.",
+                    "ja-JP": "フルトン回収数を300回以上行う",
+                    "de-DE": "Erreichen Sie mindestens 300 Fulton-Rettungseinsätze.",
+                    "es-ES": "Utiliza el sistema Fulton 300 veces.",
+                    "it-IT": "Raggiungi 300 o più recuperi Fulton.",
+                    "fr-FR": "Fais 300 récupérations Fulton."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "16.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "en-US": "Hold-Up Artist",
+                    "ja-JP": "ホールドアップコレクター",
+                    "de-DE": "Überfallexperte",
+                    "es-ES": "Maestro del asalto",
+                    "it-IT": "Artista delle mani alzate",
+                    "fr-FR": "Artiste de l'immobilisation"
+                },
+                "description": {
+                    "en-US": "Reached at least 100 hold-ups to incapacitate the enemy.",
+                    "ja-JP": "100回以上ホールドアップで敵兵を無力化した",
+                    "de-DE": "100 Überfälle erreicht.",
+                    "es-ES": "Has asaltado e incapacitado a 100 enemigos.",
+                    "it-IT": "Hai raggiunto 100 mani in alto per debilitare il nemico.",
+                    "fr-FR": "Tu as fait 100 immobilisations."
+                },
+                "howto": {
+                    "en-US": "Reach at least 100 hold-ups.",
+                    "ja-JP": "ホールドアップを100回以上行う",
+                    "de-DE": "Erreichen Sie mindestens 100 Überfälle.",
+                    "es-ES": "Asalta a 100 enemigos.",
+                    "it-IT": "Raggiungi almeno 100 mani in alto.",
+                    "fr-FR": "Fais 100 immobilisations."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "17.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "en-US": "Lethal Enforcer",
+                    "ja-JP": "キルコレクター",
+                    "de-DE": "Tödlicher Vollstrecker",
+                    "es-ES": "Asesino implacable",
+                    "it-IT": "Maestro della forza letale",
+                    "fr-FR": "Exécuteur létal"
+                },
+                "description": {
+                    "en-US": "Reached at least 100 kills.",
+                    "ja-JP": "キル数が100人以上に達した",
+                    "de-DE": "100 Kills erreicht.",
+                    "es-ES": "Has eliminado a 100 enemigos.",
+                    "it-IT": "Hai raggiunto almeno 100 eliminazioni.",
+                    "fr-FR": "Tu as fait 100 tués."
+                },
+                "howto": {
+                    "en-US": "Reach at least 100 kills.",
+                    "ja-JP": "キル数を100回以上にする",
+                    "de-DE": "Erreichen Sie mindestens 100 Kills.",
+                    "es-ES": "Elimina a 100 enemigos.",
+                    "it-IT": "Raggiungi almeno 100 eliminazioni.",
+                    "fr-FR": "Fais 100 tués."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "18.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "en-US": "Stun Specialist",
+                    "ja-JP": "フェイントコレクター",
+                    "de-DE": "Betäubungsspezialist",
+                    "es-ES": "Especialista en aturdimiento",
+                    "it-IT": "Specialista nello stordimento",
+                    "fr-FR": "Spécialiste de l'étourdissement"
+                },
+                "description": {
+                    "en-US": "Reached at least 100 stun attacks or sleep-inducing attacks.",
+                    "ja-JP": "100回以上敵を気絶、または眠らせた",
+                    "de-DE": "100 Betäubungsangriffe erreicht.",
+                    "es-ES": "Has aturdido a 100 enemigos.",
+                    "it-IT": "Hai raggiunto 100 stordimenti o attacchi soporiferi.",
+                    "fr-FR": "Tu as fait 100 assommés."
+                },
+                "howto": {
+                    "en-US": "Reach at least 100 stun attacks.",
+                    "ja-JP": "敵を気絶させた回数が100回以上になる",
+                    "de-DE": "Führen Sie mindestens 100 Betäubungsangriffe aus.",
+                    "es-ES": "Aturde a 100 enemigos.",
+                    "it-IT": "Raggiungi almeno 100 stordimenti.",
+                    "fr-FR": "Fais 100 assommés."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "19.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "en-US": "Costume Collector",
+                    "ja-JP": "コスチュームコレクター",
+                    "de-DE": "Kostümsammler",
+                    "es-ES": "Maestro del disfraz",
+                    "it-IT": "Collezionista di costumi",
+                    "fr-FR": "Collectionneur de costumes"
+                },
+                "description": {
+                    "en-US": "Obtained every costume.",
+                    "ja-JP": "全コスチュームを揃えた",
+                    "de-DE": "Jedes Kostüm erhalten.",
+                    "es-ES": "Has conseguido todos los trajes.",
+                    "it-IT": "Hai ottenuto tutti i costumi.",
+                    "fr-FR": "Tu as obtenu tous les costumes."
+                },
+                "howto": {
+                    "en-US": "Obtain every costume.",
+                    "ja-JP": "全コスチュームを揃える",
+                    "de-DE": "Besorgen Sie sich jedes Kostüm.",
+                    "es-ES": "Consigue todos los trajes.",
+                    "it-IT": "Ottieni tutti i costumi.",
+                    "fr-FR": "Obtiens tous les costumes."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "20.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "en-US": "Special Staff Recruiter",
+                    "ja-JP": "スペシャルスタッフコレクター",
+                    "de-DE": "Spezialpersonalvermittler",
+                    "es-ES": "Jefe de personal",
+                    "it-IT": "Arruolatore staff speciale",
+                    "fr-FR": "Recruteur de personnel spécial"
+                },
+                "description": {
+                    "en-US": "Assembled all special staff members.",
+                    "ja-JP": "スペシャルスタッフを全員揃えた",
+                    "de-DE": "Sämtliches Spezialpersonal versammelt.",
+                    "es-ES": "Has reclutado a todos los personajes especiales.",
+                    "it-IT": "Hai riunito tutti i membri dello staff speciale.",
+                    "fr-FR": "Tu as recruté tous les types de personnel spécial."
+                },
+                "howto": {
+                    "en-US": "Assemble all special staff members.",
+                    "ja-JP": "スペシャルスタッフを全員揃える",
+                    "de-DE": "Versammeln Sie sämtliches Spezialpersonal.",
+                    "es-ES": "Recluta a todos los personajes especiales.",
+                    "it-IT": "Riunisci tutti i membri dello staff speciale.",
+                    "fr-FR": "Recrute tous les types de personnel spécial."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "21.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "en-US": "Hideo Kojima",
+                    "ja-JP": "小島監督",
+                    "de-DE": "Hideo Kojima",
+                    "es-ES": "Hideo Kojima en persona",
+                    "it-IT": "Hideo Kojima",
+                    "fr-FR": "Hideo Kojima"
+                },
+                "description": {
+                    "en-US": "Recruited Hideo Kojima.",
+                    "ja-JP": "小島監督を仲間にした",
+                    "de-DE": "Hideo Kojima rekrutiert.",
+                    "es-ES": "Has reclutado a Hideo Kojima.",
+                    "it-IT": "Hai arruolato Hideo Kojima.",
+                    "fr-FR": "Tu as recruté Hideo Kojima."
+                },
+                "howto": {
+                    "en-US": "Recruit Hideo Kojima.",
+                    "ja-JP": "小島監督を仲間にする",
+                    "de-DE": "Rekrutieren Sie Hideo Kojima.",
+                    "es-ES": "Recluta a Hideo Kojima.",
+                    "it-IT": "Arruola Hideo Kojima.",
+                    "fr-FR": "Recrute Hideo Kojima."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "22.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "en-US": "Mech Catcher",
+                    "ja-JP": "メカキャプター",
+                    "de-DE": "Mech-Jäger",
+                    "es-ES": "Secuestrador de máquinas",
+                    "it-IT": "Accalappiamecha",
+                    "fr-FR": "Collecteur de mechas"
+                },
+                "description": {
+                    "en-US": "Captured a mech.",
+                    "ja-JP": "大型兵器を鹵獲した",
+                    "de-DE": "Einen Mech erhalten.",
+                    "es-ES": "Has capturado un vehículo.",
+                    "it-IT": "Hai catturato un mecha.",
+                    "fr-FR": "Tu as capturé un mecha."
+                },
+                "howto": {
+                    "en-US": "Capture a mech.",
+                    "ja-JP": "大型兵器を鹵獲する",
+                    "de-DE": "Verschaffen Sie sich einen Mech.",
+                    "es-ES": "Captura un vehículo.",
+                    "it-IT": "Cattura un mecha.",
+                    "fr-FR": "Capture un mecha."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "23.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "en-US": "Gives me infinite ammo",
+                    "ja-JP": "無限バンダナだ！",
+                    "de-DE": "Unbegrenzt Munition",
+                    "es-ES": "Municion ilimitada",
+                    "it-IT": "Munizioni illimitate",
+                    "fr-FR": "Des munitions a l’infini"
+                },
+                "description": {
+                    "en-US": "Never worry about running out of bullets ever again.",
+                    "ja-JP": "これで弾の心配はいらん 無限バンダナだ",
+                    "de-DE": "Endlos-Bandana erhalten. Du brauchst dir keine Sorgen mehr zu machen, dass dir die Munition ausgeht!",
+                    "es-ES": "Ahora ya no tienes que preocuparte de quedarte sin balas.",
+                    "it-IT": "Non dovrai più preoccuparti di rimanere senza proiettili.",
+                    "fr-FR": "Tu as obtenu le bandana infini pour des munitions illimitées."
+                },
+                "howto": {
+                    "en-US": "Obtain Infinity Bandana.",
+                    "ja-JP": "無限バンダナを手に入れる",
+                    "de-DE": "Verschaffen Sie sich das Endlos-Bandana.",
+                    "es-ES": "Consigue el pañuelo infinito.",
+                    "it-IT": "Ottieni la bandana infinita.",
+                    "fr-FR": "Obtiens le bandana infini."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "24.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "en-US": "Stealth camouflage",
+                    "ja-JP": "ステルス迷彩だ！",
+                    "de-DE": "Stealth-Tarnung",
+                    "es-ES": "La muerte invisible",
+                    "it-IT": "Mimetica ottica",
+                    "fr-FR": "Camouflage furtif !"
+                },
+                "description": {
+                    "en-US": "Never worry about being detected ever again.",
+                    "ja-JP": "これで見つかる心配はいらん ステルス迷彩だ",
+                    "de-DE": "Die Zeiten der Angst, entdeckt zu werden, sind vorbei!",
+                    "es-ES": "Ahora ya no tienes que preocuparte de que te detecten.",
+                    "it-IT": "Non preoccuparti più di essere notato.",
+                    "fr-FR": "Tu as obtenu le camouflage furtif pour être indétectable."
+                },
+                "howto": {
+                    "en-US": "Obtain stealth camouflage.",
+                    "ja-JP": "ステルス迷彩を手に入れる",
+                    "de-DE": "Verschaffen Sie sich die Stealth-Tarnung.",
+                    "es-ES": "Consigue el camuflaje óptico.",
+                    "it-IT": "Ottieni la mimetica ottica.",
+                    "fr-FR": "Obtiens le camouflage furtif."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "25.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "en-US": "Kuwabara, Kuwabara",
+                    "ja-JP": "くわばら、くわばら",
+                    "de-DE": "Kuwabara, Kuwabara",
+                    "es-ES": "Kuwabara, Kuwabara",
+                    "it-IT": "Kuwabara, Kuwabara",
+                    "fr-FR": "Kuwabara, Kuwabara"
+                },
+                "description": {
+                    "en-US": "Listened to radio near ghost.",
+                    "ja-JP": "幽霊無線を聞いた",
+                    "de-DE": "Über Funk einen Geist gehört.",
+                    "es-ES": "Has escuchado a un fantasma por la radio.",
+                    "it-IT": "Hai sentito un fantasma alla radio.",
+                    "fr-FR": "Tu as entendu des ondes radio fantôme."
+                },
+                "howto": {
+                    "en-US": "Hear a ghost on the radio.",
+                    "ja-JP": "幽霊無線を聞く",
+                    "de-DE": "Hören Sie über Funk einem Geist zu.",
+                    "es-ES": "Escucha a un fantasma por la radio.",
+                    "it-IT": "Sentito un fantasma alla radio.",
+                    "fr-FR": "Entends des ondes radio fantôme."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "26.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "en-US": "Paz's Thoughts",
+                    "ja-JP": "パスの思い",
+                    "de-DE": "Paz' Gedanken",
+                    "es-ES": "Querido diario",
+                    "it-IT": "I pensieri di Paz",
+                    "fr-FR": "Les pensées de Paz"
+                },
+                "description": {
+                    "en-US": "Read all of Paz's diary.",
+                    "ja-JP": "パスの日記を全て読んだ",
+                    "de-DE": "Paz gesamtes Tagebuch gelesen",
+                    "es-ES": "Has leído todo el diario de Paz.",
+                    "it-IT": "Hai letto tutti i diari di Paz.",
+                    "fr-FR": "Tu as lu tout le journal intime de Paz. "
+                },
+                "howto": {
+                    "en-US": "Read all of Paz's diary.",
+                    "ja-JP": "パスの日記を全て読む",
+                    "de-DE": "Lesen Sie Paz' gesamtes Tagebuch.",
+                    "es-ES": "Lee todo el diario de Paz.",
+                    "it-IT": "Leggi tutti i diari di Paz.",
+                    "fr-FR": "Lis tout le journal intime de Paz."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "27.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "en-US": "Huey's Thoughts",
+                    "ja-JP": "ヒューイの思い",
+                    "de-DE": "Hueys Gedanken",
+                    "es-ES": "P.D. Te quiero",
+                    "it-IT": "I pensieri di Huey",
+                    "fr-FR": "Les pensées de Huey"
+                },
+                "description": {
+                    "en-US": "Read Huey's love letter.",
+                    "ja-JP": "ヒューイのラブレターを読んだ",
+                    "de-DE": "Hueys Liebesbrief gelesen.",
+                    "es-ES": "Has leído la carta de amor de Huey.",
+                    "it-IT": "Hai letto la lettera d'amore di Huey.",
+                    "fr-FR": "Tu as lu toutes les lettres d'amour de Huey. "
+                },
+                "howto": {
+                    "en-US": "Read Huey's love letter.",
+                    "ja-JP": "ヒューイのラブレターを読む",
+                    "de-DE": "Lesen Sie Hueys Liebesbrief.",
+                    "es-ES": "Lee la carta de amor de Huey.",
+                    "it-IT": "Leggi la lettera d'amore di Huey.",
+                    "fr-FR": "Lis toutes les lettres d'amour de Huey."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "28.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "en-US": "Strangelove's Thoughts ",
+                    "ja-JP": "ストレンジラブの思い",
+                    "de-DE": "Strangeloves Gedanken ",
+                    "es-ES": "Las memorias de Strangelove",
+                    "it-IT": "I pensieri di Strangelove",
+                    "fr-FR": "Les pensées de Strangelove "
+                },
+                "description": {
+                    "en-US": "Read all of Strangelove's memoirs.",
+                    "ja-JP": "ストレンジラブの回想を全て読んだ",
+                    "de-DE": "Strangeloves gesammelte Memoiren gelesen.",
+                    "es-ES": "Has leído todas las memorias de Strangelove.",
+                    "it-IT": "Hai letto tutti i diari di Strangelove.",
+                    "fr-FR": "Tu as lu tous les mémoires de Strangelove. "
+                },
+                "howto": {
+                    "en-US": "Read all of Strangelove's memoirs.",
+                    "ja-JP": "ストレンジラブの回想を全て読む",
+                    "de-DE": "Lesen Sie Strangeloves gesammelte Memoiren.",
+                    "es-ES": "Lee todas las memorias de Strangelove.",
+                    "it-IT": "Leggi tutti i diari di Strangelove.",
+                    "fr-FR": "Lis tous les mémoires de Strangelove."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "29.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "en-US": "Monster Hunter",
+                    "ja-JP": "モンスターハンター",
+                    "de-DE": "Monsterjäger",
+                    "es-ES": "Monster Hunter",
+                    "it-IT": "Monster Hunter",
+                    "fr-FR": "Chasseur de monstres"
+                },
+                "description": {
+                    "en-US": "Cleared all hunting quests.",
+                    "ja-JP": "全ての狩猟クエストをクリアした",
+                    "de-DE": "Alle Jagdausflüge abgeschlossen.",
+                    "es-ES": "Has completado todas las misiones de caza.",
+                    "it-IT": "Completate tutte le missioni di caccia.",
+                    "fr-FR": "Tu as réussi toutes les quêtes du chasseur."
+                },
+                "howto": {
+                    "en-US": "Clear all hunting quests.",
+                    "ja-JP": "全ての狩猟クエストをクリアする",
+                    "de-DE": "Schließen Sie alle Jagdausflüge ab.",
+                    "es-ES": "Completa todas las misiones de caza.",
+                    "it-IT": "Completa tutte le missioni di caccia.",
+                    "fr-FR": "Réussis toutes les quêtes du chasseur."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "30.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "en-US": "CQC Six Shot",
+                    "ja-JP": "CQC・HEXA",
+                    "de-DE": "CQC-Teufelskerl",
+                    "es-ES": "Yo no necesito ningún arma",
+                    "it-IT": "Sei CQC seriali",
+                    "fr-FR": "Sextuple CQC"
+                },
+                "description": {
+                    "en-US": "Performed CQC six times in a row.",
+                    "ja-JP": "連続CQCを6連続で決めた",
+                    "de-DE": "CQC sechsmal hintereinander ausgeführt.",
+                    "es-ES": "Has utilizado CQC seis veces seguidas.",
+                    "it-IT": "Eseguiti sei CQC di fila.",
+                    "fr-FR": "Tu as fait 6 CQC consécutifs."
+                },
+                "howto": {
+                    "en-US": "Perform CQC six times in a row.",
+                    "ja-JP": "連続CQCを6連続で決める",
+                    "de-DE": "Führen Sie sechsmal hintereinander CQC aus.",
+                    "es-ES": "Utiliza CQC seis veces seguidas.",
+                    "it-IT": "Esegui sei CQC di fila.",
+                    "fr-FR": "Fais 6 CQC consécutifs."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "31.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "en-US": "I'm dead serious",
+                    "ja-JP": "真面目だ！",
+                    "de-DE": "Ich meine es todernst",
+                    "es-ES": "Confía en mí",
+                    "it-IT": "Faccio sul serio",
+                    "fr-FR": "Je suis sérieux !"
+                },
+                "description": {
+                    "en-US": "Threw a chaff grenade at ZEKE (single player only).",
+                    "ja-JP": "ZEKEにチャフグレネードを投げた（Single限定）",
+                    "de-DE": "Eine Düppelgranate auf ZEKE geworfen (nur Einzelspieler).",
+                    "es-ES": "Le has lanzado una granada chaff al Metal Gear ZEKE (solo en partida individual).",
+                    "it-IT": "Hai lanciato una granata chaff allo ZEKE (solo giocatore singolo).",
+                    "fr-FR": "Tu as lancé une grenade de brouillage électronique sur ZEKE (partie solo uniquement)."
+                },
+                "howto": {
+                    "en-US": "Throw a chaff grenade at ZEKE (single player only).",
+                    "ja-JP": "ZEKEにチャフグレネードを投げる（Single限定）",
+                    "de-DE": "Werfen Sie eine Düppelgranate auf ZEKE (nur Einzelspieler).",
+                    "es-ES": "Lánzale una granada chaff al Metal Gear ZEKE (solo en partida individual).",
+                    "it-IT": "Lancia una granata chaff allo ZEKE (solo giocatore singolo).",
+                    "fr-FR": "Lance une grenade de brouillage électronique sur ZEKE (partie solo uniquement)."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "32.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "en-US": "Leap of Faith",
+                    "ja-JP": "イーグルダイブ",
+                    "de-DE": "Glaubenssprung",
+                    "es-ES": "Salto de fe",
+                    "it-IT": "Salto della fede",
+                    "fr-FR": "Saut de la foi"
+                },
+                "description": {
+                    "en-US": "Performed a Leap of Faith.",
+                    "ja-JP": "イーグルダイブした",
+                    "de-DE": "Einen Glaubenssprung ausgeführt.",
+                    "es-ES": "Has realizado un salto de fe.",
+                    "it-IT": "Hai eseguito un salto della fede.",
+                    "fr-FR": "Tu as fait un saut de la foi."
+                },
+                "howto": {
+                    "en-US": "Perform a Leap of Faith and obtain the Assassin's Straw Box.",
+                    "ja-JP": "イーグルダイブする",
+                    "de-DE": "Führen Sie einen Glaubenssprung aus und besorgen Sie die Assassinen-Strohkiste.",
+                    "es-ES": "Realiza un salto de fe y consigue la caja de paja nizarí.",
+                    "it-IT": "Esegui un salto della fede e ottieni la scatola di fieno dell'assassino. ",
+                    "fr-FR": "Fais un saut de la foi et obtiens la boîte d'assassin."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "33.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "en-US": "You're pretty good",
+                    "ja-JP": "いいセンスだ",
+                    "de-DE": "Du bist recht gut",
+                    "es-ES": "No esta nada mal",
+                    "it-IT": "Non c’e male",
+                    "fr-FR": "T’es pas mauvais"
+                },
+                "description": {
+                    "en-US": "Shot enemy right in the middle of the rear end.",
+                    "ja-JP": "敵兵の尻の急所を撃ちぬいた",
+                    "de-DE": "Gegner genau mitten in die Hinterfront geschossen.",
+                    "es-ES": "Has disparado a un enemigo justo en la parte posterior.",
+                    "it-IT": "Hai centrato il nemico al centro del fondo schiena.",
+                    "fr-FR": "Tu as tiré dans l'arrière-train d'un ennemi."
+                },
+                "howto": {
+                    "en-US": "Shoot enemy right in the middle of the rear end.",
+                    "ja-JP": "敵兵の尻の急所を撃ちぬく",
+                    "de-DE": "Schießen Sie einem Gegner genau mitten in die Hinterfront.",
+                    "es-ES": "Dispara a un enemigo justo en la parte posterior.",
+                    "it-IT": "Centra il nemico al centro del fondo schiena.",
+                    "fr-FR": "Tire dans l'arrière-train d'un ennemi."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "34.png"
+        },
+        "51": {
+            "text": {
+                "name": {
+                    "en-US": "I feel... safe ",
+                    "ja-JP": "確信に満ちた安らぎ",
+                    "de-DE": "Ich fühle mich ... Sicher",
+                    "es-ES": "Es como mi segunda piel",
+                    "it-IT": "Sto bene, questo è il mio posto",
+                    "fr-FR": "Je me sens... en sécurité"
+                },
+                "description": {
+                    "en-US": "Put on a cardboard box.",
+                    "ja-JP": "ダンボールを被った",
+                    "de-DE": "Einen Pappkarton aufgesetzt.",
+                    "es-ES": "Te has ocultado dentro de una caja.",
+                    "it-IT": "Hai indossato una scatola di cartone.",
+                    "fr-FR": "Tu t'es caché dans une boîte en carton. "
+                },
+                "howto": {
+                    "en-US": "Put on a cardboard box.",
+                    "ja-JP": "ダンボールを被る",
+                    "de-DE": "Setzen Sie einen Pappkarton auf.",
+                    "es-ES": "Ocúltate dentro de una caja.",
+                    "it-IT": "Indossa una scatola di cartone.",
+                    "fr-FR": "Cache-toi dans une boîte en carton."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "35.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "en-US": "Indirect Attack",
+                    "ja-JP": "インダイレクトアタック",
+                    "de-DE": "Indirekter Angriff",
+                    "es-ES": "Daño colateral",
+                    "it-IT": "Attacco indiretto",
+                    "fr-FR": "Attaque indirecte"
+                },
+                "description": {
+                    "en-US": "Attacked enemy soldiers by blowing up an oil drum or truck (single player only).",
+                    "ja-JP": "ドラム缶やトラックなどの爆発に敵兵士をまきこんだ（Single限定）",
+                    "de-DE": "Feindliche Soldaten durch Sprengung eines Ölfasses oder Lastwagens angegriffen (nur Einzelspieler).",
+                    "es-ES": "Heriste a varios enemigos volando un barril o un camión de combustible (solo en partida individual).",
+                    "it-IT": "Attaccati soldati nemici facendo esplodere un barile di benzina o camion (solo giocatore singolo).",
+                    "fr-FR": "Tu as attaqué des soldats ennemis en faisant exploser un baril d’essence ou un camion (partie solo)."
+                },
+                "howto": {
+                    "en-US": "Attack enemy soldiers by blowing up an oil drum or truck (single player only).",
+                    "ja-JP": "ドラム缶やトラックなどの爆発に敵兵士をまきこむ（Single限定）",
+                    "de-DE": "Greifen Sie feindl. Soldaten durch Sprengung eines Ölfasses oder Lastwagens an (nur Einzelspieler).",
+                    "es-ES": "Hiere a varios enemigos volando un barril o un camión de combustible (solo en partida individual).",
+                    "it-IT": "Attacca soldati nemici facendo esplodere un barile di benzina o camion (solo giocatore singolo).",
+                    "fr-FR": "Attaque des soldats ennemis en faisant exploser un baril d’essence ou un camion (partie solo)."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "36.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "en-US": "Launched ZEKE",
+                    "ja-JP": "BOOT UP ZEKE",
+                    "de-DE": "ZEKE gestartet",
+                    "es-ES": "¡ZEKE desplegado!",
+                    "it-IT": "ZEKE lanciato",
+                    "fr-FR": "ZEKE déployé"
+                },
+                "description": {
+                    "en-US": "Completed Metal Gear ZEKE.",
+                    "ja-JP": "メタルギアZEKEを完成させた",
+                    "de-DE": "Metal Gear ZEKE fertiggestellt.",
+                    "es-ES": "Has completado el Metal Gear ZEKE.",
+                    "it-IT": "Hai completato il Metal Gear ZEKE.",
+                    "fr-FR": "Tu as déployé ZEKE."
+                },
+                "howto": {
+                    "en-US": "Complete Metal Gear ZEKE.",
+                    "ja-JP": "メタルギアZEKEを完成させる",
+                    "de-DE": "Stellen Sie Metal Gear ZEKE fertig.",
+                    "es-ES": "Completa el Metal Gear ZEKE.",
+                    "it-IT": "Completa il Metal Gear ZEKE.",
+                    "fr-FR": "Déploie ZEKE."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "37.png"
+        },
+        "54": {
+            "text": {
+                "name": {
+                    "en-US": "Completed ZEKE",
+                    "ja-JP": "COMPLETE ZEKE",
+                    "de-DE": "ZEKE abgeschlossen",
+                    "es-ES": "Nombre en clave ZEKE",
+                    "it-IT": "ZEKE completato",
+                    "fr-FR": "ZEKE achevé"
+                },
+                "description": {
+                    "en-US": "Customized ZEKE's head parts and foot parts with special AI weapon parts.",
+                    "ja-JP": "メタルギアZEKEのFOOT PARTSとHEAD PARTSをAI兵器の特殊パーツでカスタムした",
+                    "de-DE": "Kopf- und Fußteile von ZEKE mit speziellen KI-Waffenteilen individuell angepasst.",
+                    "es-ES": "Has personalizado la cabeza y las patas del Metal Gear ZEKE con piezas especiales de armas IA.",
+                    "it-IT": "Hai personalizzato le parti testa e gambe dello ZEKE con parti speciali di armi AI.",
+                    "fr-FR": "Tu as équipé ZEKE avec les pièces tête et pieds d'arme intelligente spéciales."
+                },
+                "howto": {
+                    "en-US": "Customize ZEKE's head parts and foot parts with special AI weapon parts.",
+                    "ja-JP": "メタルギアZEKEのFOOT PARTSとHEAD PARTSをAI兵器の特殊パーツでカスタムする",
+                    "de-DE": "Passen Sie mit speziellen KI-Waffenteilen Kopf- und Fußteile von ZEKE an. ",
+                    "es-ES": "Personaliza la cabeza y las patas del Metal Gear ZEKE con piezas especiales de armas con IA.",
+                    "it-IT": "Personalizza le parti  testa e gambe dello ZEKE con parti speciali di armi AI.",
+                    "fr-FR": "Tu as équipé ZEKE avec les pièces tête et pieds d'arme intelligente spéciales."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "38.png"
+        },
+        "55": {
+            "text": {
+                "name": {
+                    "en-US": "OUTER OPS Sortie",
+                    "ja-JP": "Sortie OUTER OPS",
+                    "de-DE": "AUFTRAGS-OPS-Einsatz",
+                    "es-ES": "¡Vamos de excursión!",
+                    "it-IT": "Uscita in MISSIONI ESTERNE",
+                    "fr-FR": "Première OUTER OPS"
+                },
+                "description": {
+                    "en-US": "Carried out a mission in OUTER OPS.",
+                    "ja-JP": "OUTER OPSをプレイした",
+                    "de-DE": "Einen Einsatz der AUFTRAGS-OPS ausgeführt.",
+                    "es-ES": "Has llevado a cabo una misión en OPERACIONES EXTERIORES.",
+                    "it-IT": "Hai portato a termine una delle MISSIONI ESTERNE.",
+                    "fr-FR": "Tu as fait une mission dans OUTER OPS."
+                },
+                "howto": {
+                    "en-US": "Carry out a mission in OUTER OPS.",
+                    "ja-JP": "OUTER OPSをプレイする",
+                    "de-DE": "Führen Sie einen Einsatz bei AUFTRAGS-OPS aus.",
+                    "es-ES": "Lleva a cabo una misión en OPERACIONES EXTERIORES.",
+                    "it-IT": "Porta a termine una delle MISSIONI ESTERNE.",
+                    "fr-FR": "Fais une mission dans OUTER OPS."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "39.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "en-US": "Elite Forces",
+                    "ja-JP": "Elite Forces",
+                    "de-DE": "Elitestreitkräfte",
+                    "es-ES": "Comando de élite",
+                    "it-IT": "Forze d'élite",
+                    "fr-FR": "Forces d'élite"
+                },
+                "description": {
+                    "en-US": "Cleared \"Capture the Enemy Base 06\" in OUTER OPS using only soldiers.",
+                    "ja-JP": "OUTER OPS 敵拠点の制圧06を兵士だけで撃破した",
+                    "de-DE": "„Erobern Sie die feindliche Basis 06“ der AUFTRAGS-OPS nur mit Soldaten abgeschlossen.",
+                    "es-ES": "Has completado la misión \"Capturar la base enemiga 06\" de OPS EXTERIORES usando solo soldados.",
+                    "it-IT": "Hai completato la \"Conquista la base nemica 06\" nelle MISSIONI ESTERNE usando solo soldati.",
+                    "fr-FR": "Tu as réussi « Capturer la base ennemie 06 » dans OUTER OPS avec des soldats uniquement."
+                },
+                "howto": {
+                    "en-US": "Clear \"Capture the Enemy Base 06\" in OUTER OPS using only soldiers.",
+                    "ja-JP": "OUTER OPS 敵拠点の制圧06を兵士だけで撃破する",
+                    "de-DE": "Schließen Sie „Erobern Sie die feindliche Basis 06“ der AUFTRAGS-OPS nur mit Soldaten ab.",
+                    "es-ES": "Completa la misión \"Capturar la base enemiga 06\" de OPERACIONES EXTERIORES usando solo soldados.",
+                    "it-IT": "Completa \"Conquista la base nemica 06\" nelle MISSIONI ESTERNE usando solo soldati.",
+                    "fr-FR": "Réussis « Capturer la base ennemie 06 » dans OUTER OPS avec des soldats uniquement."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "40.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "en-US": "Trader",
+                    "ja-JP": "Trader",
+                    "de-DE": "Händler",
+                    "es-ES": "Comerciante",
+                    "it-IT": "Scambiatore",
+                    "fr-FR": "Négociateur"
+                },
+                "description": {
+                    "en-US": "Carried out a trade.",
+                    "ja-JP": "TRADEを行った",
+                    "de-DE": "Einen Handel durchgeführt.",
+                    "es-ES": "Has llevado a cabo un intercambio.",
+                    "it-IT": "Hai eseguito uno scambio.",
+                    "fr-FR": "Tu as fait un échange."
+                },
+                "howto": {
+                    "en-US": "Carry out a trade.",
+                    "ja-JP": "TRADEを行う",
+                    "de-DE": "Führen Sie einen Handel durch.",
+                    "es-ES": "Lleva a cabo un intercambio.",
+                    "it-IT": "Esegui uno scambio.",
+                    "fr-FR": "Fais un échange."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "41.png"
+        },
+        "58": {
+            "text": {
+                "name": {
+                    "en-US": "Deliverer",
+                    "ja-JP": "Deliverer",
+                    "de-DE": "Retter",
+                    "es-ES": "Repartidor",
+                    "it-IT": "Distributore",
+                    "fr-FR": "Livraison"
+                },
+                "description": {
+                    "en-US": "Exchanged items back and forth with another player using Delivery.",
+                    "ja-JP": "DELIVERYでアイテムを送った",
+                    "de-DE": "Mithilfe der Zustellung Gegenstände mit einem anderen Spieler ausgetauscht.",
+                    "es-ES": "Has intercambiado objetos con otro jugador usando la opción de Entrega.",
+                    "it-IT": "Hai scambiato oggetti con un altro giocatore usando le spedizioni.",
+                    "fr-FR": "Tu as envoyé et reçu un objet dans LIVRAISON."
+                },
+                "howto": {
+                    "en-US": "Exchange items back and forth with another player using Delivery.",
+                    "ja-JP": "DELIVERYでアイテムを送る",
+                    "de-DE": "Tauschen Sie mithilfe der Zustellung Gegenstände mit einem anderen Spieler aus.",
+                    "es-ES": "Intercambia objetos con otro jugador usando la opción de Entrega.",
+                    "it-IT": "Scambia oggetti con un altro giocatore usando le spedizioni.",
+                    "fr-FR": "Envoie et reçois un objet dans LIVRAISON."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "42.png"
+        },
+        "59": {
+            "text": {
+                "name": {
+                    "en-US": "Paz Mania",
+                    "ja-JP": "パスマニア",
+                    "de-DE": "Paz-Wahnsinn",
+                    "es-ES": "Amor platónico",
+                    "it-IT": "Paz Mania",
+                    "fr-FR": "Vent divin"
+                },
+                "description": {
+                    "en-US": "Obtained Rank S on a date with Paz.",
+                    "ja-JP": "パスとのデートでSランクを獲得した",
+                    "de-DE": "Bei einer Verabredung mit Paz Rang S erworben.",
+                    "es-ES": "Has obtenido la categoría S en una cita con Paz.",
+                    "it-IT": "Hai ottenuto la classe S durante un appuntamento con Paz.",
+                    "fr-FR": "Tu as obtenu le rang S lors d'un rendez-vous avec Paz."
+                },
+                "howto": {
+                    "en-US": "Obtain Rank S on a date with Paz.",
+                    "ja-JP": "パスとのデートでSランクを獲得する",
+                    "de-DE": "Erringen Sie bei einer Verabredung mit Paz Rang S.",
+                    "es-ES": "Obtén la categoría S en una cita con Paz.",
+                    "it-IT": "Ottieni la classe S durante un appuntamento con Paz.",
+                    "fr-FR": "Obtiens le rang S lors d'un rendez-vous avec Paz."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "43.png"
+        },
+        "60": {
+            "text": {
+                "name": {
+                    "en-US": "Kaz Mania",
+                    "ja-JP": "カズマニア",
+                    "de-DE": "Kaz-Wahnsinn",
+                    "es-ES": "¡Pero qué hombretón!",
+                    "it-IT": "Kaz Mania",
+                    "fr-FR": "Pazophile"
+                },
+                "description": {
+                    "en-US": "Obtained Rank S on a date with Kaz.",
+                    "ja-JP": "カズとのデートでSランクを獲得した",
+                    "de-DE": "Bei einer Verabredung mit Kaz Rang S erworben.",
+                    "es-ES": "Has obtenido la categoría S en una cita con Kaz.",
+                    "it-IT": "Hai ttenuto la classe S durante un appuntamento con Kaz.",
+                    "fr-FR": "Tu as obtenu le rang S lors d'un rendez-vous avec Kaz."
+                },
+                "howto": {
+                    "en-US": "Obtain Rank S on a date with Kaz.",
+                    "ja-JP": "カズとのデートでSランクを獲得する",
+                    "de-DE": "Erringen Sie bei einer Verabredung mit Kaz Rang S.",
+                    "es-ES": "Obtén la categoría S en una cita con Kaz.",
+                    "it-IT": "Ottieni la classe S durante un appuntamento con Kaz.",
+                    "fr-FR": "Obtiens le rang S lors d'un rendez-vous avec Kaz."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "44.png"
+        },
+        "61": {
+            "text": {
+                "name": {
+                    "en-US": "That looks tasty!",
+                    "ja-JP": "じょうずに焼けました",
+                    "de-DE": "Das sieht lecker aus!",
+                    "es-ES": "¡Qué rico!",
+                    "it-IT": "Sembra squisito!",
+                    "fr-FR": "Kazophile"
+                },
+                "description": {
+                    "en-US": "Nicely cooked a ration.",
+                    "ja-JP": "レーションを上手に焼いた",
+                    "de-DE": "Eine leckere Ration zubereitet.",
+                    "es-ES": "¡Has preparado una buena ración!",
+                    "it-IT": "¡Has preparado una buena ración!",
+                    "fr-FR": "Tu as cuit une ration à la perfection."
+                },
+                "howto": {
+                    "en-US": "Nicely cook a ration.",
+                    "ja-JP": "レーションを上手に焼く",
+                    "de-DE": "Bereiten Sie eine leckere Ration zu.",
+                    "es-ES": "¡Prepara una buena ración!",
+                    "it-IT": "Cucina bene una razione.",
+                    "fr-FR": "Cuis une ration à la perfection."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "45.png"
+        },
+        "62": {
+            "text": {
+                "name": {
+                    "en-US": "VERSUS OPS All Rules",
+                    "ja-JP": "VS OPS ALL THE RULES",
+                    "de-DE": "VERSUS-OPS: Alle Regeln",
+                    "es-ES": "En la guerra vale todo",
+                    "it-IT": "MISSIONI VS: tutte le regole",
+                    "fr-FR": "VERSUS OPS : toutes les règles"
+                },
+                "description": {
+                    "en-US": "Played using all of the rules in VERSUS OPS.",
+                    "ja-JP": "VERSUS OPSの全てのルールをプレイした",
+                    "de-DE": "Unter Einhaltung aller Regeln VERSUS-OPS gespielt.",
+                    "es-ES": "Has jugado con todas las reglas de OPERACIONES DE ENFRENTAMIENTO.",
+                    "it-IT": "Hai giocato usando tutte le regole delle MISSIONI VS.",
+                    "fr-FR": "Tu as joué avec toutes les règles dans VERSUS OPS."
+                },
+                "howto": {
+                    "en-US": "Play using all of the rules in VERSUS OPS.",
+                    "ja-JP": "VERSUS OPSの全てのルールをプレイする",
+                    "de-DE": "Halten Sie beim Spielen alle Regeln von VERSUS-OPS ein.",
+                    "es-ES": "Juega con todas las reglas de OPERACIONES DE ENFRENTAMIENTO.",
+                    "it-IT": "Gioca usando tutte le regole delle MISSIONI VS.",
+                    "fr-FR": "Joue avec toutes les règles dans VERSUS OPS."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "46.png"
+        },
+        "63": {
+            "text": {
+                "name": {
+                    "en-US": "Vic Vos",
+                    "ja-JP": "VIC VOS",
+                    "de-DE": "Vic Vos",
+                    "es-ES": "Vic Vos",
+                    "it-IT": "Vic Vos",
+                    "fr-FR": "Vic Vos"
+                },
+                "description": {
+                    "en-US": "Reached a total of 20,000 or more Camaraderie.",
+                    "ja-JP": "友情度の累計が20000以上になった",
+                    "de-DE": "Mindestens 20.000 Kameradschaftspunkte erreicht.",
+                    "es-ES": "Has conseguido un total de 20.000 puntos de camaradería.",
+                    "it-IT": "Hai raggiunto un totale di 20.000 o più in cameratismo.",
+                    "fr-FR": "Tu as atteint 20 000 de camaraderie."
+                },
+                "howto": {
+                    "en-US": "Reach a total of 20,000 or more Affinity Points.",
+                    "ja-JP": "友情度の累計を20000以上にする",
+                    "de-DE": "Erreichen Sie insgesamt mindestens 20.000 Kameradschaftspunkte.",
+                    "es-ES": "Consigue un total de 20.000 puntos de camaradería.",
+                    "it-IT": "Raggiungi un totale di 20.000 o più in cameratismo.",
+                    "fr-FR": "Atteins 20 000 de camaraderie."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "47.png"
+        },
+        "64": {
+            "text": {
+                "name": {
+                    "en-US": "Divine Wind",
+                    "ja-JP": "神風",
+                    "de-DE": "Heiliger Wind",
+                    "es-ES": "Viento divino",
+                    "it-IT": "Vento divino",
+                    "fr-FR": "Vent divin"
+                },
+                "description": {
+                    "en-US": "Collected a soldier using a divine wind.",
+                    "ja-JP": "神風で兵士を回収した",
+                    "de-DE": "Einen Soldaten mithilfe eines heiligen Windes eingesammelt.",
+                    "es-ES": "Has capturado a un soldado utilizando un viento divino.",
+                    "it-IT": "Raccolto un soldato usando il vento divino.",
+                    "fr-FR": "Tu as récupéré un soldat à l'aide du vent divin."
+                },
+                "howto": {
+                    "en-US": "Collect a soldier using a divine wind.",
+                    "ja-JP": "神風で兵士を回収する",
+                    "de-DE": "Sammeln Sie einen Soldaten mithilfe eines heiligen Windes ein.",
+                    "es-ES": "Captura a un soldado utilizando un viento divino.",
+                    "it-IT": "Raccogli un soldato usando il vento divino.",
+                    "fr-FR": "Récupère un soldat à l'aide du vent divin."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "48.png"
+        },
+        "65": {
+            "text": {
+                "name": {
+                    "en-US": "Basilisk Eater",
+                    "ja-JP": "Basilisk Eater",
+                    "de-DE": "Basiliskenfresser",
+                    "es-ES": "Devorador de basiliscos",
+                    "it-IT": "Mangiatore di Basilisk",
+                    "fr-FR": "Mangeur de basilic"
+                },
+                "description": {
+                    "en-US": "Defeated Pupa, Chrysalis, Cocoon, Peace Walker.",
+                    "ja-JP": "ピューパ、クリサリス、コクーン、ピースウォーカーを倒した",
+                    "de-DE": "Pupa, Chrysalis, Cocoon und Peace Walker besiegt.",
+                    "es-ES": "Has derrotado a Pupa, Chrysalis, Cocoon y Peace Walker..",
+                    "it-IT": "Hai sconfitto Pupa, Chrysalis, Cocoon, Peace Walker.",
+                    "fr-FR": "Tu as vaincu Pupa, Chrysalis, Cocoon et un Peace Walker."
+                },
+                "howto": {
+                    "en-US": "Fire a human sling shot.",
+                    "ja-JP": "ピューパ、クリサリス、コクーン、ピースウォーカーを倒す",
+                    "de-DE": "Feuern Sie ein menschliches Katapult ab.",
+                    "es-ES": "Dispara una catapulta humana.",
+                    "it-IT": "Spara una fionda umana.",
+                    "fr-FR": "Tire au lance-pierre humain."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "49.png"
+        },
+        "66": {
+            "text": {
+                "name": {
+                    "en-US": "Steel Eater",
+                    "ja-JP": "Steel Eater",
+                    "de-DE": "Stahlfresser",
+                    "es-ES": "Comeacero",
+                    "it-IT": "Mangiatore di acciaio",
+                    "fr-FR": "Mangeur d'acier"
+                },
+                "description": {
+                    "en-US": "Defeated all AI weapons.",
+                    "ja-JP": "全てのAI兵器を倒した",
+                    "de-DE": "Alle KI-Waffen besiegt.",
+                    "es-ES": "Has derrotado a todas las armas con IA.",
+                    "it-IT": "Hai sconfitto tutte le armi IA.",
+                    "fr-FR": "Tu as vaincu toutes les armes intelligentes."
+                },
+                "howto": {
+                    "en-US": "Throw a Peace Walker together with three other people.",
+                    "ja-JP": "全てのAI兵器を倒す",
+                    "de-DE": "Werfen Sie zusammen mit drei weiteren Personen einen Peace Walker um.",
+                    "es-ES": "Derriba al Peace Walker con la ayuda de tres compañeros.",
+                    "it-IT": "Metti assieme un Peace Walker con tre altre persone.",
+                    "fr-FR": "Vaincs un Peace Walker accompagné de trois autres joueurs."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "50.png"
+        }
+    }
+}
