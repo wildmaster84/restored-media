@@ -1,0 +1,3819 @@
+{
+    "properties": {
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10000002": {
+            "info": "COLUMN_ACCUMULATED_SCORE",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000002": {
+            "info": "COLUMN_SCORE",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000004": {
+            "info": "COLUMN_TOTAL_WINS",
+            "method": "last",
+            "statId": 3
+        },
+        "0x10000004": {
+            "info": "COLUMN_DIFFICULTY_HARD",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000001": {
+            "info": "COLUMN_SORT",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10000005": {
+            "info": "COLUMN_SCORE_EASY",
+            "method": "max",
+            "statId": 1
+        },
+        "0x10000006": {
+            "info": "COLUMN_SCORE_MEDIUM",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000007": {
+            "info": "COLUMN_SCORE_HARD",
+            "method": "max",
+            "statId": 3
+        },
+        "0x10000008": {
+            "info": "COLUMN_SCORE_EXPERT",
+            "method": "max",
+            "statId": 4
+        }
+    }
+}

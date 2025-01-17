@@ -1,0 +1,1425 @@
+{
+    "Achievements": {
+        "69": {
+            "text": {
+                "name": {
+                    "de-DE": "Get Your Wings",
+                    "en-US": "Get Your Wings",
+                    "es-ES": "Get Your Wings",
+                    "fr-FR": "Get Your Wings",
+                    "it-IT": "Get Your Wings"
+                },
+                "description": {
+                    "de-DE": "Du hast das Tutorial gemeistert.",
+                    "en-US": "You completed the Tutorial",
+                    "es-ES": "Has completado el tutorial",
+                    "fr-FR": "Tu as terminé le didacticiel.",
+                    "it-IT": "Hai completato il Tutorial!"
+                },
+                "howto": {
+                    "de-DE": "Meistere das Tutorial.",
+                    "en-US": "Complete the Tutorial",
+                    "es-ES": "Completa el tutorial",
+                    "fr-FR": "Termine le didacticiel.",
+                    "it-IT": "Completa il Tutorial"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "70": {
+            "text": {
+                "name": {
+                    "de-DE": "Make It",
+                    "en-US": "Make It",
+                    "es-ES": "Make It",
+                    "fr-FR": "Make It",
+                    "it-IT": "Make It"
+                },
+                "description": {
+                    "de-DE": "Du hast eine Karriere auf Leicht abgeschlossen.",
+                    "en-US": "You completed the Career on Easy",
+                    "es-ES": "Has completado el modo Carrera en el nivel fácil",
+                    "fr-FR": "Tu as terminé le mode Carrière au niveau Facile.",
+                    "it-IT": "Hai completato la carriera al livello Facile."
+                },
+                "howto": {
+                    "de-DE": "Schließe eine Karriere auf Leicht ab.",
+                    "en-US": "Complete the Career on Easy",
+                    "es-ES": "Completa el modo Carrera en el nivel fácil",
+                    "fr-FR": "Termine le mode Carrière au niveau Facile.",
+                    "it-IT": "Completa la carriera al livello Facile"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "02.png"
+        },
+        "71": {
+            "text": {
+                "name": {
+                    "de-DE": "Movin' Out",
+                    "en-US": "Movin' Out",
+                    "es-ES": "Movin' Out",
+                    "fr-FR": "Movin' Out",
+                    "it-IT": "Movin' Out"
+                },
+                "description": {
+                    "de-DE": "Du hast eine Karriere auf Mittel abgeschlossen.",
+                    "en-US": "You completed the Career on Medium",
+                    "es-ES": "Has completado el modo Carrera en el nivel medio\n\n",
+                    "fr-FR": "Tu as terminé le mode Carrière au niveau Moyen.",
+                    "it-IT": "Hai completato la carriera al livello Medio."
+                },
+                "howto": {
+                    "de-DE": "Schließe eine Karriere auf Mittel ab.",
+                    "en-US": "Complete the Career on Medium",
+                    "es-ES": "Completa el modo Carrera en el nivel medio",
+                    "fr-FR": "Termine le mode Carrière au niveau Moyen.",
+                    "it-IT": "Completa la carriera al livello Medio."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "03.png"
+        },
+        "72": {
+            "text": {
+                "name": {
+                    "de-DE": "Rock in a Hard Place",
+                    "en-US": "Rock in a Hard Place",
+                    "es-ES": "Rock In A Hard Place",
+                    "fr-FR": "Rock in a Hard Place",
+                    "it-IT": "Rock in a Hard Place"
+                },
+                "description": {
+                    "de-DE": "Du hast eine Karriere auf Schwer abgeschlossen.",
+                    "en-US": "You completed the Career on Hard",
+                    "es-ES": "Has completado el modo Carrera en el nivel difícil",
+                    "fr-FR": "Tu as terminé le mode Carrière au niveau Difficile.",
+                    "it-IT": "Hai completato la carriera al livello Difficile."
+                },
+                "howto": {
+                    "de-DE": "Schließe eine Karriere auf Schwer ab.",
+                    "en-US": "Complete the Career on Hard",
+                    "es-ES": "Completa el modo Carrera en el nivel difícil",
+                    "fr-FR": "Termine le mode Carrière au niveau Difficile.",
+                    "it-IT": "Completa la carriera al livello Difficile."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "04.png"
+        },
+        "73": {
+            "text": {
+                "name": {
+                    "de-DE": "Dream On",
+                    "en-US": "Dream On",
+                    "es-ES": "Dream On",
+                    "fr-FR": "Dream On",
+                    "it-IT": "Dream On"
+                },
+                "description": {
+                    "de-DE": "Wow, du hast eine Karriere auf Profi abgeschlossen!",
+                    "en-US": "Wow, you completed the Career on Expert!",
+                    "es-ES": "¡Guau! Has completado el modo Carrera en el nivel experto",
+                    "fr-FR": "Waouh, tu as terminé le mode Carrière au niveau Expert !",
+                    "it-IT": "Wow, hai completato la carriera al livello Esperto!"
+                },
+                "howto": {
+                    "de-DE": "Schließe eine Karriere auf Profi ab.",
+                    "en-US": "Complete the Career on Expert",
+                    "es-ES": "Completa el modo Carrera en el nivel experto",
+                    "fr-FR": "Termine le mode Carrière au niveau Expert.",
+                    "it-IT": "Completa la carriera al livello Esperto."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "75",
+            "imageId": "05.png"
+        },
+        "74": {
+            "text": {
+                "name": {
+                    "de-DE": "Aerosmith",
+                    "en-US": "Aerosmith",
+                    "es-ES": "Aerosmith",
+                    "fr-FR": "Aerosmith",
+                    "it-IT": "Aerosmith"
+                },
+                "description": {
+                    "de-DE": "Du hast Aerosmith als spielbare Band freigeschaltet.",
+                    "en-US": "You unlocked Aerosmith as the playable band",
+                    "es-ES": "Has desbloqueado Aerosmith como grupo",
+                    "fr-FR": "Tu as déverrouillé Aerosmith comme groupe jouable.",
+                    "it-IT": "Hai sbloccato gli Aerosmith come gruppo giocabile."
+                },
+                "howto": {
+                    "de-DE": "Schalte Aerosmith als spielbare Band frei.",
+                    "en-US": "Unlock Aerosmith as the playable band",
+                    "es-ES": "Desbloquea Aerosmith como grupo",
+                    "fr-FR": "Déverrouille Aerosmith comme groupe jouable.",
+                    "it-IT": "Sblocca gli Aerosmith come gruppo giocabile."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "06.png"
+        },
+        "75": {
+            "text": {
+                "name": {
+                    "de-DE": "Jailbait",
+                    "en-US": "Jailbait",
+                    "es-ES": "Jailbait",
+                    "fr-FR": "Jailbait",
+                    "it-IT": "Jailbait"
+                },
+                "description": {
+                    "de-DE": "Einen Song auf der Nipmuc-Bühne gespielt.",
+                    "en-US": "Played a song at the Nipmuc venue",
+                    "es-ES": "Has tocado una canción en Nipmuc",
+                    "fr-FR": "Chanson jouée au Nipmuc.",
+                    "it-IT": "Hai suonato un brano nel locale Nipmuc."
+                },
+                "howto": {
+                    "de-DE": "Spiele einen Song auf der Nipmuc-Bühne.",
+                    "en-US": "Play a song at the Nipmuc venue",
+                    "es-ES": "Toca una canción en Nipmuc",
+                    "fr-FR": "Joue une chanson au Nipmuc.",
+                    "it-IT": "Suona un brano nel locale Nipmuc"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "07.png"
+        },
+        "76": {
+            "text": {
+                "name": {
+                    "de-DE": "Subway",
+                    "en-US": "Subway",
+                    "es-ES": "Subway",
+                    "fr-FR": "Subway",
+                    "it-IT": "Subway"
+                },
+                "description": {
+                    "de-DE": "Einen Song auf der Max’s Kansas City-Bühne gespielt.",
+                    "en-US": "Played a song at the Max's Kansas City venue",
+                    "es-ES": "Has tocado una canción en el Max's Kansas City",
+                    "fr-FR": "Chanson jouée au Max's Kansas City.",
+                    "it-IT": "Hai suonato un brano nel locale Max's Kansas City."
+                },
+                "howto": {
+                    "de-DE": "Spiele einen Song auf der Max’s Kansas City-Bühne.",
+                    "en-US": "Play a song at the Max's Kansas City venue",
+                    "es-ES": "Toca una canción en el Max's Kansas City",
+                    "fr-FR": "Joue une chanson au Max's Kansas City.",
+                    "it-IT": "Suona un brano nel locale Max's Kansas City"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "08.png"
+        },
+        "77": {
+            "text": {
+                "name": {
+                    "de-DE": "On the Road Again",
+                    "en-US": "On the Road Again",
+                    "es-ES": "On the Road Again",
+                    "fr-FR": "On the Road Again",
+                    "it-IT": "On the Road Again"
+                },
+                "description": {
+                    "de-DE": "Du hast die 'Orpheum Theatre in Boston' - Bühne freigeschaltet.",
+                    "en-US": "You unlocked the Orpheum Theatre of Boston venue",
+                    "es-ES": "Has desbloqueado el local Orpheum Theatre of Boston",
+                    "fr-FR": "Tu as déverrouillé l'Orpheum Theatre du lieu Boston.",
+                    "it-IT": "Hai sbloccato l'Orpheum Theater di Boston"
+                },
+                "howto": {
+                    "de-DE": "Schalte die 'Orpheum Theatre in Boston' -Bühne frei.",
+                    "en-US": "Unlock the Orpheum Theatre of Boston venue",
+                    "es-ES": "Desbloquea el local Orpheum Theathre of Boston",
+                    "fr-FR": "Déverrouille l'Orpheum Theatre du lieu Boston.",
+                    "it-IT": "Sblocca l'Orpheum Theater di Boston"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "78": {
+            "text": {
+                "name": {
+                    "de-DE": "Nine Lives",
+                    "en-US": "Nine Lives",
+                    "es-ES": "Nine Lives",
+                    "fr-FR": "Nine Lives",
+                    "it-IT": "Nine Lives"
+                },
+                "description": {
+                    "de-DE": "Moskau-Bühne freigeschaltet",
+                    "en-US": "You unlocked the Moscow venue",
+                    "es-ES": "Has desbloqueado el local Moscow",
+                    "fr-FR": "Tu as déverrouillé le lieu Moscow.",
+                    "it-IT": "Hai sbloccato il locale Moscow"
+                },
+                "howto": {
+                    "de-DE": "Moskau-Bühne freigeschaltet",
+                    "en-US": "You unlocked the Moscow venue",
+                    "es-ES": "Has desbloqueado el local Moscow",
+                    "fr-FR": "Tu as déverrouillé le lieu Moscow.",
+                    "it-IT": "Hai sbloccato il locale Moscow"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "10.png"
+        },
+        "79": {
+            "text": {
+                "name": {
+                    "de-DE": "Critical Mass",
+                    "en-US": "Critical Mass",
+                    "es-ES": "Critical Mass",
+                    "fr-FR": "Critical Mass",
+                    "it-IT": "Critical Mass"
+                },
+                "description": {
+                    "de-DE": "Du hast die Halbzeit-Show-Bühne freigeschaltet.",
+                    "en-US": "You unlocked the Half-Time Show venue",
+                    "es-ES": "Has desbloqueado el local Half-Time Show",
+                    "fr-FR": "Tu as déverrouillé le lieu Half-Time Show.",
+                    "it-IT": "Hai sbloccato l'Half-Time Show."
+                },
+                "howto": {
+                    "de-DE": "Schalte die Halbzeit-Show-Bühne frei.",
+                    "en-US": "Unlock the Half-Time Show venue",
+                    "es-ES": "Desbloquea el local Half-Time Show",
+                    "fr-FR": "Déverrouille le lieu Half-Time Show.",
+                    "it-IT": "Sblocca l'Half-Time Show."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "11.png"
+        },
+        "80": {
+            "text": {
+                "name": {
+                    "de-DE": "19. März 2001",
+                    "en-US": "March 19th, 2001",
+                    "es-ES": "19 de Marzo de 2001",
+                    "fr-FR": "19 mars 2001",
+                    "it-IT": "19 marzo 2001"
+                },
+                "description": {
+                    "de-DE": "Du hast die Hall of Fame-Bühne freigeschaltet.",
+                    "en-US": "You unlocked the Hall of Fame venue",
+                    "es-ES": "Has desbloqueado el local Salón de la Fama",
+                    "fr-FR": "Tu as déverrouillé le lieu Hall of Fame.",
+                    "it-IT": "Hai sbloccato la Hall of Fame."
+                },
+                "howto": {
+                    "de-DE": "Schalte die Hall of Fame-Bühne frei.",
+                    "en-US": "Unlock the Hall of Fame venue",
+                    "es-ES": "Desbloquea el local Salón de la Fama",
+                    "fr-FR": "Déverrouille le lieu Hall of Fame.",
+                    "it-IT": "Sblocca la Hall of Fame."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "12.png"
+        },
+        "81": {
+            "text": {
+                "name": {
+                    "de-DE": "Cheesecake",
+                    "en-US": "Cheesecake",
+                    "es-ES": "Cheesecake",
+                    "fr-FR": "Cheesecake",
+                    "it-IT": "Cheesecake"
+                },
+                "description": {
+                    "de-DE": "Du hast eine Notenserie mit 100 Noten im Karriere- oder Schnelles Spiel-Modus gemeistert.",
+                    "en-US": "You earned a 100 note streak in Career or Quick Play",
+                    "es-ES": "Has conseguido una racha de 100 notas en el modo Carrera o Partida Rápida (sólo local)",
+                    "fr-FR": "Tu as réussi une série de 100 notes en mode Carrière ou en Partie rapide.",
+                    "it-IT": "Hai ottenuto una serie di 100 note nella Carriera o nella Partita veloce."
+                },
+                "howto": {
+                    "de-DE": "Meistere im Karriere- oder Schnelles Spiel-Modus eine Notenserie mit 100 Noten (nur lokal)",
+                    "en-US": "Earn a 100 note streak in Career or Quick Play (Local only)",
+                    "es-ES": "Consigue una racha de 100 notas en el modo Carrera o Partida Rápida (sólo local)",
+                    "fr-FR": "Réussis une série de 100 notes en mode Carrière ou en Partie rapide (local seulement).",
+                    "it-IT": "Ottieni una serie di 100 note nella Carriera o nella Partita veloce (solo locale)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "13.png"
+        },
+        "82": {
+            "text": {
+                "name": {
+                    "de-DE": "Crazy",
+                    "en-US": "Crazy",
+                    "es-ES": "Crazy",
+                    "fr-FR": "Crazy",
+                    "it-IT": "Crazy"
+                },
+                "description": {
+                    "de-DE": "Du hast eine Notenserie mit 500 Noten im Karriere- oder Schnelles Spiel-Modus gemeistert.",
+                    "en-US": "You earned a 500 note streak in Career or Quick Play",
+                    "es-ES": "Has conseguido una racha de 500 notas en el modo Carrera o Partida Rápida",
+                    "fr-FR": "Tu as réussi une série de 500 notes en mode Carrière ou en Partie rapide.",
+                    "it-IT": "Hai ottenuto una serie di 500 note nella Carriera o nella Partita veloce."
+                },
+                "howto": {
+                    "de-DE": "Meistere im Karriere- oder Schnelles Spiel-Modus eine Notenserie mit 500 Noten (nur lokal).",
+                    "en-US": "Earn a 500 note streak in Career or Quick Play (Local Only)",
+                    "es-ES": "Consigue una racha de 500 notas en el modo Carrera o Partida Rápida",
+                    "fr-FR": "Réussis une série de 500 notes en mode Carrière ou en Partie rapide (local seulement).",
+                    "it-IT": "Ottieni una serie di 500 note nella Carriera o nella Partita veloce (solo locale)."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "14.png"
+        },
+        "83": {
+            "text": {
+                "name": {
+                    "de-DE": "No More, No More",
+                    "en-US": "No More, No More",
+                    "es-ES": "No More, No More",
+                    "fr-FR": "No More, No More",
+                    "it-IT": "No More, No More"
+                },
+                "description": {
+                    "de-DE": "Du hast bei allen Zugaben gerockt!",
+                    "en-US": "You rocked all the encores!",
+                    "es-ES": "¡Has tocado todos los bises!",
+                    "fr-FR": "Tu as joué tous les rappels !",
+                    "it-IT": "Hai suonato tutti i bis!"
+                },
+                "howto": {
+                    "de-DE": "Gebe alle Zugaben",
+                    "en-US": "Perform all the Encores",
+                    "es-ES": "Toca todos los bises",
+                    "fr-FR": "Joue tous les rappels",
+                    "it-IT": "Suona tutti i bis."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "15.png"
+        },
+        "84": {
+            "text": {
+                "name": {
+                    "de-DE": "Kings and Queens",
+                    "en-US": "Kings and Queens",
+                    "es-ES": "Kings and Queens",
+                    "fr-FR": "Kings and Queens",
+                    "it-IT": "Kings and Queens"
+                },
+                "description": {
+                    "de-DE": "Du hast jeden im Vault gekauft!",
+                    "en-US": "You purchased everyone from The Vault!",
+                    "es-ES": "¡Has comprado todos los personajes de The Vault!",
+                    "fr-FR": "Tu as acheté tous les personnages jouables de The Vault.",
+                    "it-IT": "Hai acquistato tutti i personaggi giocabili dal Vault!"
+                },
+                "howto": {
+                    "de-DE": "Kaufe im Vault alle spielbaren Charaktere.",
+                    "en-US": "Purchase all the playable characters from The Vault",
+                    "es-ES": "Compra todos los personajes de The Vault",
+                    "fr-FR": "Achète tous les personnages jouables de The Vault.",
+                    "it-IT": "Acquista tutti i personaggi giocabili dal Vault."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "16.png"
+        },
+        "85": {
+            "text": {
+                "name": {
+                    "de-DE": "Big Ten Inch Record",
+                    "en-US": "Big Ten Inch Record",
+                    "es-ES": "Big Ten Inch Record",
+                    "fr-FR": "Big Ten Inch Record",
+                    "it-IT": "Big Ten Inch Record"
+                },
+                "description": {
+                    "de-DE": "Du hast alle Bonus-Songs gekauft!",
+                    "en-US": "You purchased all the bonus songs!",
+                    "es-ES": "¡Has comprado todos los temas extra!",
+                    "fr-FR": "Tu as acheté toutes les chansons bonus !",
+                    "it-IT": "Hai acquistato tutti i brani bonus."
+                },
+                "howto": {
+                    "de-DE": "Kaufe alle Bonus-Songs",
+                    "en-US": "Purchase all the bonus songs",
+                    "es-ES": "Compra todos los temas extra",
+                    "fr-FR": "Achète toutes les chansons bonus.",
+                    "it-IT": "Acquista tutti i brani bonus."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "17.png"
+        },
+        "86": {
+            "text": {
+                "name": {
+                    "de-DE": "Toys in the Attic",
+                    "en-US": "Toys in the Attic",
+                    "es-ES": "Toys In The Attic",
+                    "fr-FR": "Toys in the Attic",
+                    "it-IT": "Toys In The Attic"
+                },
+                "description": {
+                    "de-DE": "Du hast alle Gitarren im Vault gekauft!",
+                    "en-US": "You purchased all the guitars from The Vault!",
+                    "es-ES": "¡Has comprador todas las guitarras de The Vault!",
+                    "fr-FR": "Tu as acheté toutes les guitares de The Vault !",
+                    "it-IT": "Hai acquistato tutte le chitarre dal Vault!"
+                },
+                "howto": {
+                    "de-DE": "Kaufe alle Gitarren im Vault (Bass/Lead/Rhythmus)",
+                    "en-US": "Purchase all guitars from The Vault (Bass/Lead/Rhythm)",
+                    "es-ES": "Compra todas las guitarras de The Vault (Bajo/Guitarra solista/Guitarra rítmica)",
+                    "fr-FR": "Achète toutes les guitares de The Vault (basse, première guitare, guitare rythmique).",
+                    "it-IT": "Acquista tutte le chitarre dal Vault (Basso/Prima chitarra/chitarra ritmica)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "18.png"
+        },
+        "87": {
+            "text": {
+                "name": {
+                    "de-DE": "Same Old Song and Dance",
+                    "en-US": "Same Old Song and Dance",
+                    "es-ES": "Same Old Song and Dance",
+                    "fr-FR": "Same Old Song and Dance",
+                    "it-IT": "Same Old Song and Dance"
+                },
+                "description": {
+                    "de-DE": "Du hast bei jedem Song auf der Setliste und im Vault gerockt!",
+                    "en-US": "You rocked every song in the setlist and the Vault!",
+                    "es-ES": "¡Has tocado todas las canciones del repertorio y de the Vault!",
+                    "fr-FR": "Tu as joué toutes les chansons de la sélection et de the Vault !",
+                    "it-IT": "Hai suonato alla grande tutti i brani della scaletta e nel Vault!"
+                },
+                "howto": {
+                    "de-DE": "Meistere jeden Song auf der Setliste und im Vault (nur lokal).",
+                    "en-US": "Complete every song in the setlist and the Vault (Local only)",
+                    "es-ES": "Completa todas las canciones del repertorio y de the Vault (sólo local)",
+                    "fr-FR": "Joue toutes les chansons de la sélection et de The Vault (local seulement).",
+                    "it-IT": "Completa tutti i brani della scaletta e del Vault (solo locale)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "19.png"
+        },
+        "88": {
+            "text": {
+                "name": {
+                    "de-DE": "Punkteheld",
+                    "en-US": "Score Hero",
+                    "es-ES": "Score Hero",
+                    "fr-FR": "Score de légende",
+                    "it-IT": "Punteggio Guitar Hero"
+                },
+                "description": {
+                    "de-DE": "Wow, du hast bei 'Train Kept a Rollin'' mehr als 325.000 Punkte geschafft!",
+                    "en-US": "Wow, you scored more than \"325,000\" on \"Train Kept a Rollin'\"!",
+                    "es-ES": "¡Guau!, tu puntuación es mayor que ''324.000'' en ''Train Kept a Rollin''!",
+                    "fr-FR": "Waouh, tu as fait plus de '325 000' sur 'Train Kept a Rollin' !",
+                    "it-IT": "Grande, hai ottenuto più di 325.000 punti nel brano 'Train Kept a Rollin''!"
+                },
+                "howto": {
+                    "de-DE": "Erziele \"325.000\" oder mehr Punkte beim Song \"Train Kept a Rollin'\"",
+                    "en-US": "Score \"325,000\" or more on the song \"Train Kept a Rollin'\"",
+                    "es-ES": "Consigue una puntuación de \"325.000\" o más en la canción \"Train Kept a Rollin\"",
+                    "fr-FR": "Obtiens \"325 000\" ou plus sur \"Train Kept a Rollin\".",
+                    "it-IT": "Ottieni più di 325.000 punti nel brano 'Train Kept a Rollin'''"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "20.png"
+        },
+        "89": {
+            "text": {
+                "name": {
+                    "de-DE": "Get it Up",
+                    "en-US": "Get it Up",
+                    "es-ES": "Get it Up",
+                    "fr-FR": "Get it up",
+                    "it-IT": "Get it Up"
+                },
+                "description": {
+                    "de-DE": "Du hast 2.000.000 Punkte im Karriere-Modus erzielt.",
+                    "en-US": "You scored 2,000,000 in the Career",
+                    "es-ES": "Has conseguido una puntuación de 2.000.000 en el modo Carrera",
+                    "fr-FR": "Tu as obtenu 2 000 000 en mode Carrière.",
+                    "it-IT": "Hai ottenuto due milioni di punti in modalità Carriera"
+                },
+                "howto": {
+                    "de-DE": "Erziele 2.000.000 Punkte im Karriere-Modus.",
+                    "en-US": "Score 2,000,000 in the Career",
+                    "es-ES": "Consigue una puntuación de 2.000.000 en el modo Carrera",
+                    "fr-FR": "Obtiens 2 000 000 en mode Carrière.",
+                    "it-IT": "Ottieni due milioni di punti in modalità Carriera"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "21.png"
+        },
+        "90": {
+            "text": {
+                "name": {
+                    "de-DE": "Eat the Rich",
+                    "en-US": "Eat the Rich",
+                    "es-ES": "Eat the Rich",
+                    "fr-FR": "Eat the Rich",
+                    "it-IT": "Eat the Rich"
+                },
+                "description": {
+                    "de-DE": "Du hast 50.000 $ im Karriere-Modus verdient.",
+                    "en-US": "You earned $50,000 in career earnings",
+                    "es-ES": "Has ganado 50.000 $ en el modo Carrera",
+                    "fr-FR": "Tu as gagné 50 000 $ en mode Carrière.",
+                    "it-IT": "Hai guadagnato 50.000$ in modalità Carriera"
+                },
+                "howto": {
+                    "de-DE": "Verdiene 50.000 $ im Karriere-Modus.",
+                    "en-US": "Earn $50,000 in career earnings",
+                    "es-ES": "Gana 50.000 $ en el modo Carrera",
+                    "fr-FR": "Gagne 50 000 $ en mode Carrière.",
+                    "it-IT": "Guadagna 50.000$ in modalità Carriera"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "22.png"
+        },
+        "91": {
+            "text": {
+                "name": {
+                    "de-DE": "I Don't Want to Miss a Thing",
+                    "en-US": "I Don't Want to Miss a Thing",
+                    "es-ES": "I Don't Want To Miss A Thing",
+                    "fr-FR": "I Don't Want to Miss a Thing",
+                    "it-IT": "I Don't Want to Miss a Thing"
+                },
+                "description": {
+                    "de-DE": "Du hast einen Goldenen Stern bei einem Song auf Mittel oder einer höheren Schwierigkeit verdient.",
+                    "en-US": "Holy cow, you earned a gold star rating on a Medium or harder song!",
+                    "es-ES": "¡Dios mío, has ganado una estrella de oro en una canción en el nivel medio, difícil o experto!",
+                    "fr-FR": "Ouah, tu as obtenu une étoile d'or sur une chanson au niveau Moyen ou plus difficile !",
+                    "it-IT": "Complimenti, hai ottenuto una stella d'oro in un brano a livello medio o superiore!"
+                },
+                "howto": {
+                    "de-DE": "Verdiene einen Goldenen Stern bei einem Song auf Mittel oder schwerer (nur lokal).",
+                    "en-US": "Earn a gold star rating on a song on Medium or harder difficulty (Local only)",
+                    "es-ES": "Has conseguido una estrella de oro en una canción en el nivel medio, difícil o experto (sólo local)",
+                    "fr-FR": "Obtiens une étoile d'or sur une chanson au niveau Moyen ou plus difficile (local).",
+                    "it-IT": "Ottieni una stella dorata con un brano al livello Medio o superiore (solo locale)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "23.png"
+        },
+        "92": {
+            "text": {
+                "name": {
+                    "de-DE": "Gems",
+                    "en-US": "Gems",
+                    "es-ES": "Gems",
+                    "fr-FR": "Gems",
+                    "it-IT": "Gems"
+                },
+                "description": {
+                    "de-DE": "Du hast jede Starpower-Phrase in einem Song getroffen.",
+                    "en-US": "You hit every star power phrase on a song",
+                    "es-ES": "Has acertado todas las secuencias estrella de una canción",
+                    "fr-FR": "Tu as réussi toutes les séquences Star Power d'une chanson.",
+                    "it-IT": "Hai suonato tutti i fraseggi con star power di un brano."
+                },
+                "howto": {
+                    "de-DE": "Triff jede Starpower-Phrase in einem Song (lokal oder Xbox LIVE)",
+                    "en-US": "Hit every star power phrase on a song  (Local or Xbox LIVE)",
+                    "es-ES": "Acierta todas las secuencias estrella de una canción (local o Xbox LIVE)",
+                    "fr-FR": "Réussis toutes les séquences Star Power d'une chanson (local ou sur Xbox LIVE).",
+                    "it-IT": "Suona tutti i fraseggi con star power di un brano (locale o Xbox LIVE)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "24.png"
+        },
+        "93": {
+            "text": {
+                "name": {
+                    "de-DE": "Sick as a Dog",
+                    "en-US": "Sick as a Dog",
+                    "es-ES": "Sick as a Dog",
+                    "fr-FR": "Sick as a Dog",
+                    "it-IT": "Sick as a Dog"
+                },
+                "description": {
+                    "de-DE": "Du hast 5 Sterne bei einem Song auf Mittel oder einer höheren Schwierigkeit verdient.",
+                    "en-US": "You earned a 5 star rating on a song on Medium or harder",
+                    "es-ES": "Has conseguido 5 estrellas en una canción en el nivel medio, difícil o experto",
+                    "fr-FR": "Tu as obtenu 5 étoiles sur une chanson au niveau Moyen ou plus difficile.",
+                    "it-IT": "Hai ottenuto una valutazione da 5 stelle con un brano la livello Medio o superiore."
+                },
+                "howto": {
+                    "de-DE": "Verdiene 5 Goldenen Sterne bei einem Song auf Mittel oder schwerer (lokal oder Xbox LIVE).",
+                    "en-US": "Earn a 5 star rating for a song on Medium or harder (Local or Xbox LIVE)",
+                    "es-ES": "Consigue 5 estrellas en una canción en el nivel medio, difícil o experto (local o Xbox LIVE)",
+                    "fr-FR": "Obtiens 5 étoiles sur une chanson au niveau Moyen ou plus difficile (local ou sur Xbox LIVE).",
+                    "it-IT": "Ottieni una valutazione da 5 stelle con un brano al livello Medio o superiore (locale o Xbox LIVE)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "25.png"
+        },
+        "94": {
+            "text": {
+                "name": {
+                    "de-DE": "Ain't That a B***h",
+                    "en-US": "Ain't That a B***h",
+                    "es-ES": "Ain't That a B***h",
+                    "fr-FR": "Ain't That a B***h",
+                    "it-IT": "Ain't That a B***h"
+                },
+                "description": {
+                    "de-DE": "Ha! Du hast einen Goldenen Stern bei einem Song verdient.",
+                    "en-US": "Whoa! You earned a gold star rating on a song",
+                    "es-ES": "¡Guau! Has conseguido una estrella de oro en una canción",
+                    "fr-FR": "Waouh ! Tu as obtenu une étoile d'or sur une chanson.",
+                    "it-IT": "Whoa! Hai ottenuto una stella dorata con un brano."
+                },
+                "howto": {
+                    "de-DE": "Verdiene einen Goldenen Stern bei einem Song (nur lokal).",
+                    "en-US": "Earn a gold star rating on a song (Local only)",
+                    "es-ES": "Gana una estrella de oro en una canción (sólo local)",
+                    "fr-FR": "Obtiens une étoile d'or sur une chanson (local).",
+                    "it-IT": "Ottieni una stella dorata con un brano (solo locale)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "26.png"
+        },
+        "95": {
+            "text": {
+                "name": {
+                    "de-DE": "Night in the Ruts",
+                    "en-US": "Night in the Ruts",
+                    "es-ES": "Night In The Rutz",
+                    "fr-FR": "Night in the Ruts",
+                    "it-IT": "Night In The Ruts"
+                },
+                "description": {
+                    "de-DE": "Mist, du bei einem Song zehnmal verloren.",
+                    "en-US": "Bummer, you failed a song 10 times",
+                    "es-ES": "Pesado, has fracasado en una canción 10 veces",
+                    "fr-FR": "Quelle poisse, tu as raté une chanson 10 fois !",
+                    "it-IT": "Che pippa, hai fallito un brano 10 volte!"
+                },
+                "howto": {
+                    "de-DE": "Verliere zehnmal bei einem Song (nur lokal).",
+                    "en-US": "Fail a song 10 times  (Local only)",
+                    "es-ES": "Fracasa en una canción 10 veces (sólo local)",
+                    "fr-FR": "Rate une chanson 10 fois (local seulement).",
+                    "it-IT": "Fallisci un brano 10 volte (solo locale)."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "27.png"
+        },
+        "96": {
+            "text": {
+                "name": {
+                    "de-DE": "Draw the Line",
+                    "en-US": "Draw the Line",
+                    "es-ES": "Draw the Line",
+                    "fr-FR": "Draw the Line",
+                    "it-IT": "Draw The Line"
+                },
+                "description": {
+                    "de-DE": "Du hast eine Zugabe verweigert.",
+                    "en-US": "You turned down an encore",
+                    "es-ES": "Has rechazado tocar un bis",
+                    "fr-FR": "Tu as refusé un rappel.",
+                    "it-IT": "Hai rifiutato di suonare un bis."
+                },
+                "howto": {
+                    "de-DE": "Verweigere eine Zugabe.",
+                    "en-US": "Turn down an encore",
+                    "es-ES": "Rechaza tocar un bis",
+                    "fr-FR": "Refuse un rappel.",
+                    "it-IT": "Rifiuta un bis."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "28.png"
+        },
+        "97": {
+            "text": {
+                "name": {
+                    "de-DE": "Dude Looks Like a Lady",
+                    "en-US": "Dude Looks Like a Lady",
+                    "es-ES": "Dude Looks Like a Lady",
+                    "fr-FR": "Dude Looks Like a Lady",
+                    "it-IT": "Dude Looks Like a Lady"
+                },
+                "description": {
+                    "de-DE": "Einen Song mit Izzy Sparks gespielt.",
+                    "en-US": "Played a song as Izzy Sparks",
+                    "es-ES": "Has tocado una canción con Izzy Sparks",
+                    "fr-FR": "Tu as joué une chanson avec Izzy Sparks.",
+                    "it-IT": "Hai suonato un brano come Izzy Sparks."
+                },
+                "howto": {
+                    "de-DE": "Spiele einen beliebigen Song auf einer beliebigen Schwierigkeitsstufe mit Izzy Sparks (nur lokal).",
+                    "en-US": "Play any song on any difficulty using Izzy Sparks (Local only)",
+                    "es-ES": "Toca cualquier canción en cualquier nivel con Izzy Sparks (sólo local)",
+                    "fr-FR": "Joue une chanson dans n'importe quel niveau de difficulté avec Izzy Sparks (local).",
+                    "it-IT": "Suona un brano a qualsiasi livello usando Izzy Sparks (solo locale)"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "29.png"
+        },
+        "99": {
+            "text": {
+                "name": {
+                    "de-DE": "Woman of the World",
+                    "en-US": "Woman of the World",
+                    "es-ES": "Woman of the World",
+                    "fr-FR": "Woman of the World",
+                    "it-IT": "Woman of the World"
+                },
+                "description": {
+                    "de-DE": "Du hast einen Song mit einer Leadgitarristin gespielt.",
+                    "en-US": "You played a song with a female guitarist",
+                    "es-ES": "Has tocado una canción con una mujer a la guitarra",
+                    "fr-FR": "Tu as joué une chanson avec une femme à la guitare.",
+                    "it-IT": "Hai completato un brano come chitarrista donna."
+                },
+                "howto": {
+                    "de-DE": "Du hast online ein Ranglisten-Pro Duell verloren.",
+                    "en-US": "You lost an online ranked Pro Face-Off match",
+                    "es-ES": "Has perdido una partida online con puntuación en el modo duelo de guitarras Pro",
+                    "fr-FR": "Tu as perdu un Duel pro avec classement en ligne.",
+                    "it-IT": "Hai perso una partita classificata Sfida Pro online."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "30.png"
+        },
+        "100": {
+            "text": {
+                "name": {
+                    "de-DE": "Walk This Way",
+                    "en-US": "Walk This Way",
+                    "es-ES": "Walk This Way",
+                    "fr-FR": "Walk This Way",
+                    "it-IT": "Walk This Way"
+                },
+                "description": {
+                    "de-DE": "Du hast DMC im Vault gekauft!",
+                    "en-US": "You purchased DMC from The Vault",
+                    "es-ES": "Has comprado el personaje DMC de The Vault",
+                    "fr-FR": "Tu as acheté DMC à The Vault.",
+                    "it-IT": "Hai acquistato DMC dal Vault!"
+                },
+                "howto": {
+                    "de-DE": "Kaufe DMC im Vault.",
+                    "en-US": "Purchase DMC from The Vault",
+                    "es-ES": "Compra el personaje DMC de The Vault",
+                    "fr-FR": "Achète DMC à The Vault.",
+                    "it-IT": "Acquista DMC dal Vault!"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "31.png"
+        },
+        "101": {
+            "text": {
+                "name": {
+                    "de-DE": "Spaced",
+                    "en-US": "Spaced",
+                    "es-ES": "Spaced",
+                    "fr-FR": "Spaced",
+                    "it-IT": "Spaced"
+                },
+                "description": {
+                    "de-DE": "Du hast einen Song gemeistert und dabei Starpower gesammelt, ohne sie zu nutzen.",
+                    "en-US": "You completed a song earning star power, but never used it",
+                    "es-ES": "Has completado una canción ganando poder estrella pero sin usarlo",
+                    "fr-FR": "Tu as terminé une chanson en gagnant du Star Power sans jamais l'utiliser.",
+                    "it-IT": "Hai completato un brano senza usare lo star power guadagnato."
+                },
+                "howto": {
+                    "de-DE": "Meistere einen Song und sammle dabei Starpower, ohne sie zu nutzen (lokal oder Xbox LIVE).",
+                    "en-US": "Complete a song earning star power, but never using it (Local or Xbox LIVE)",
+                    "es-ES": "Completa una canción ganando poder estrella pero sin usarlo (local o Xbox LIVE)",
+                    "fr-FR": "Termine une chanson en gagnant du Star Power sans jamais l'utiliser (local ou sur Xbox LIVE).",
+                    "it-IT": "Completa un brano senza mai usare lo star power guadagnato (locale o Xbox LIVE)"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "32.png"
+        },
+        "102": {
+            "text": {
+                "name": {
+                    "de-DE": "Big Ones",
+                    "en-US": "Big Ones",
+                    "es-ES": "Big Ones",
+                    "fr-FR": "Big Ones",
+                    "it-IT": "Big Ones"
+                },
+                "description": {
+                    "de-DE": "Du hast eine 300er Notenserie im Koop-Modus gemeistert.",
+                    "en-US": "You earned a 300 note streak in Co-op",
+                    "es-ES": "Has conseguido una racha de 300 notas en el modo Carrera cooperativa",
+                    "fr-FR": "Tu as réussis une série de 300 notes en mode Coop.",
+                    "it-IT": "Hai suonato una sequenza di 300 note in modalità Cooperativa."
+                },
+                "howto": {
+                    "de-DE": "Meistere eine 300er Notenserie im Koop-Modus (lokal oder Xbox LIVE)",
+                    "en-US": "Earn a 300 note streak in Co-op (Local or Xbox LIVE)",
+                    "es-ES": "Consigue una racha de 300 notas en el modo Carrera cooperativa (local o Xbox LIVE)",
+                    "fr-FR": "Réussis une série de 300 notes en mode Coop (local ou sur Xbox LIVE).",
+                    "it-IT": "Esegui una sequenza da 300 note in modalità Co-op (locale o Xbox LIVE)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "33.png"
+        },
+        "103": {
+            "text": {
+                "name": {
+                    "de-DE": "Cryin'",
+                    "en-US": "Cryin'",
+                    "es-ES": "Cryin'",
+                    "fr-FR": "Cryin'",
+                    "it-IT": "Cryin'"
+                },
+                "description": {
+                    "de-DE": "Du hast eine 600er Notenserie im Koop-Modus gemeistert.",
+                    "en-US": "You earned a 600 note streak in Co-op",
+                    "es-ES": "Has conseguido una racha de 600 notas en el modo Carrera cooperativa",
+                    "fr-FR": "Tu as réussis une série de 600 notes en mode Coop.",
+                    "it-IT": "Hai suonato una sequenza di 600 note in modalità Cooperativa."
+                },
+                "howto": {
+                    "de-DE": "Meistere eine 600er Notenserie im Koop-Modus (lokal oder Xbox LIVE)",
+                    "en-US": "Earn a 600 note streak in Co-op (Local or Xbox LIVE)",
+                    "es-ES": "Consigue una racha de 600 notas en el modo Carrera cooperativa (local o Xbox LIVE)",
+                    "fr-FR": "Réussis une série de 600 notes en mode Coop (local ou sur Xbox LIVE).",
+                    "it-IT": "Esegui una sequenza da 600 note in modo Co-op (locale o Xbox LIVE)."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "34.png"
+        },
+        "104": {
+            "text": {
+                "name": {
+                    "de-DE": "Combination",
+                    "en-US": "Combination",
+                    "es-ES": "Combination",
+                    "fr-FR": "Combination",
+                    "it-IT": "Combination"
+                },
+                "description": {
+                    "de-DE": "Du hast dir im Koop-Modus einen 8fachen Multiplikator geholt.",
+                    "en-US": "You earned an 8x multiplier in Co-op",
+                    "es-ES": "Has conseguido multiplicador 8x en el modo Carrera cooperativa",
+                    "fr-FR": "Tu as obtenu un multiplicateur x8 en mode Coop.",
+                    "it-IT": "Hai ottenuto un moltiplicatore 8x in modalità Cooperativa."
+                },
+                "howto": {
+                    "de-DE": "Hol dir einen 8-fachen Multiplikator im Koop-Modus (lokal oder Xbox LIVE)",
+                    "en-US": "Earn an 8x multiplier in Co-op (Local or Xbox LIVE)",
+                    "es-ES": "Consigue multiplicador x8 en el modo Carrera cooperativa (local o Xbox LIVE)",
+                    "fr-FR": "Obtiens un multiplicateur x8 en mode Coop (local ou sur Xbox LIVE).",
+                    "it-IT": "Ottieni un moltiplicatore 8x in modalità Cooperativa (locale o Xbox LIVE)."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "35.png"
+        },
+        "105": {
+            "text": {
+                "name": {
+                    "de-DE": "Fallen Angels",
+                    "en-US": "Fallen Angels",
+                    "es-ES": "Fallen Angels",
+                    "fr-FR": "Fallen Angels",
+                    "it-IT": "Fallen Angels"
+                },
+                "description": {
+                    "de-DE": "Versuchs weiter, du hast einen Song im Koop-Modus bei mehr als 95% Abschluss verloren.",
+                    "en-US": "Keep trying, you failed a Co-op song beyond 95% completion",
+                    "es-ES": "Sigue intentándolo, has fracasado en un tema en el modo Carrera cooperativa tras completar el 95%",
+                    "fr-FR": "Essaye encore, tu as raté une chanson en mode Coop avec un taux de réussite supérieur à 95 %.",
+                    "it-IT": "Riprova, hai fallito il brano sotto il 95% di completamento."
+                },
+                "howto": {
+                    "de-DE": "Verliere einen Song bei mehr als 95% Abschluss im Koop-Modus.(lokal oder Xbox LIVE)",
+                    "en-US": "Fail a Co-op song beyond 95% completion  (Local or Xbox LIVE)",
+                    "es-ES": "Fracasa en un tema en el modo Carrera cooperativa después de completar el 95% (local o Xbox LIVE)",
+                    "fr-FR": "Rate une chanson en mode Coop avec un taux de réussite supérieur à 95 % (local ou sur Xbox LIVE).",
+                    "it-IT": "Fallisci un brano in modalità Cooperativa sotto il 95% di completamento (locale o Xbox LIVE)"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "36.png"
+        },
+        "106": {
+            "text": {
+                "name": {
+                    "de-DE": "Nobody's Fault",
+                    "en-US": "Nobody's Fault",
+                    "es-ES": "Nobody's Fault",
+                    "fr-FR": "Nobody's Fault",
+                    "it-IT": "Nobody's Fault"
+                },
+                "description": {
+                    "de-DE": "Du hast bei 5 Songs im Koop-Modus verloren. Gib nicht auf!",
+                    "en-US": "You failed 5 Co-op songs. Don't give up!",
+                    "es-ES": "Has fracasado en 5 canciones en el modo Carrera cooperativa ¡No te des por vencido!",
+                    "fr-FR": "Tu as raté 5 chansons en mode Coop. Persévère !",
+                    "it-IT": "Hai fallito 5 brani in modalità Cooperativa. Non ti arrendere!"
+                },
+                "howto": {
+                    "de-DE": "Verliere 5 Songs im Koop-Modus (lokal oder Xbox LIVE).",
+                    "en-US": "Fail 5 Co-op songs  (Local or Xbox LIVE)",
+                    "es-ES": "Fracasa en 5 canciones en el modo Carrera cooperativa (local o Xbox LIVE)",
+                    "fr-FR": "Rate 5 chansons en mode Coop (local ou sur Xbox LIVE).",
+                    "it-IT": "Fallisci 5 brani in modalità Cooperativa (locale o Xbox LIVE)"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "37.png"
+        },
+        "107": {
+            "text": {
+                "name": {
+                    "de-DE": "Let the Music Do the Talking",
+                    "en-US": "Let the Music Do the Talking",
+                    "es-ES": "Let the Music Do the Talking",
+                    "fr-FR": "Let the Music Do the Talking",
+                    "it-IT": "Let the Music Do the Talking"
+                },
+                "description": {
+                    "de-DE": "Ha! Du hast einen Goldenen Stern bei einem Song im Koop-Modus verdient.",
+                    "en-US": "Whoa! You earned a gold star rating on a Co-op song",
+                    "es-ES": "¡Guau! Has conseguido una estrella de oro en una canción en el modo Carrera cooperativa",
+                    "fr-FR": "Waouh ! Tu as obtenu une étoile d'or sur une chanson en mode Coop.",
+                    "it-IT": "Wow! Hai ottenuto una stella dorata con un brano in modalità Cooperativa"
+                },
+                "howto": {
+                    "de-DE": "Verdiene einen Goldenen Stern bei einem Song im Koop-Modus (lokal oder Xbox LIVE).",
+                    "en-US": "Earn a gold star rating on a Co-op song (Local or Xbox LIVE)",
+                    "es-ES": "Gana una estrella de oro en una canción en el modo Carrera cooperativa (local o Xbox LIVE)",
+                    "fr-FR": "Obtiens une étoile d’or sur une chanson en mode Coop (local ou sur Xbox LIVE).",
+                    "it-IT": "Ottieni una stella dorata con un brano in modalità Cooperativa (locale o su Xbox LIVE)."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "38.png"
+        },
+        "108": {
+            "text": {
+                "name": {
+                    "de-DE": "When I Needed You",
+                    "en-US": "When I Needed You",
+                    "es-ES": "When I Needed You",
+                    "fr-FR": "When I Needed You",
+                    "it-IT": "When I Needed You"
+                },
+                "description": {
+                    "de-DE": "Du hast dreimal in einem Koop-Song erfolgreich Starpower aktiviert.",
+                    "en-US": "You successfully activated Star Power 3 times in a Co-op song",
+                    "es-ES": "Has activado con éxito la energía Estrella 3 veces en una canción en el modo Carrera cooperativa",
+                    "fr-FR": "Tu as activé le Star Power 3 fois pendant une chanson en mode Coop.",
+                    "it-IT": "Hai attivato lo Star Power 3 volte in un brano in modalità Cooperativa."
+                },
+                "howto": {
+                    "de-DE": "Aktiviere Starpower dreimal in einem Song bei einem Koop-Spiel (lokal oder Xbox LIVE)",
+                    "en-US": "Activate Star Power 3 times in a song in a Co-op match (Local or Xbox LIVE)",
+                    "es-ES": "Activa la energía Estrella 3 veces en una canción en el modo Carrera cooperativa (local o Xbox LIVE)",
+                    "fr-FR": "Active 3 fois le Star Power pendant une chanson en mode Coop (local ou sur Xbox LIVE).",
+                    "it-IT": "Attiva lo Star Power 3 volte in un brano in una partita Cooperativa (locale o Xbox LIVE)."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "39.png"
+        },
+        "109": {
+            "text": {
+                "name": {
+                    "de-DE": "You See Me Crying",
+                    "en-US": "You See Me Crying",
+                    "es-ES": "You See Me Crying",
+                    "fr-FR": "You See Me Crying",
+                    "it-IT": "You See Me Crying"
+                },
+                "description": {
+                    "de-DE": "Du hast online ein Ranglisten-Pro Duell verloren.",
+                    "en-US": "You lost an online ranked Pro Face-Off match",
+                    "es-ES": "Has perdido una partida online con puntuación en el modo duelo de guitarras Pro",
+                    "fr-FR": "Tu as perdu un Duel pro avec classement en ligne.",
+                    "it-IT": "Hai perso una partita classificata Sfida Pro online."
+                },
+                "howto": {
+                    "de-DE": "Verliere online ein Ranglisten-Pro Duell.",
+                    "en-US": "Lose an online ranked Pro Face-Off match",
+                    "es-ES": "Pierde una partida online con puntuación en el modo duelo de guitarras Pro",
+                    "fr-FR": "Perds un Duel pro avec classement en ligne.",
+                    "it-IT": "Perdi una partita classificata Sfida Pro online."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "40.png"
+        },
+        "110": {
+            "text": {
+                "name": {
+                    "de-DE": "Falling Off",
+                    "en-US": "Falling Off",
+                    "es-ES": "Falling Off",
+                    "fr-FR": "Falling Off",
+                    "it-IT": "Falling Off"
+                },
+                "description": {
+                    "de-DE": "Du hast online ein Ranglisten-Duell verloren.",
+                    "en-US": "You lost an online ranked Face-Off match",
+                    "es-ES": "Has perdido una partida online con puntuación en el modo duelo de guitarras",
+                    "fr-FR": "Tu as perdu un Duel avec classement en ligne.",
+                    "it-IT": "Hai perso una partita Sfida online."
+                },
+                "howto": {
+                    "de-DE": "Verliere online ein Ranglisten-Duell.",
+                    "en-US": "Lose an online ranked Face-Off match",
+                    "es-ES": "Pierde una partida online con puntuación en el modo duelo de guitarras",
+                    "fr-FR": "Perds un Duel avec classement en ligne.",
+                    "it-IT": "Perdi una partita classificata Sfida online."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "41.png"
+        },
+        "111": {
+            "text": {
+                "name": {
+                    "de-DE": "What it Takes",
+                    "en-US": "What it Takes",
+                    "es-ES": "What it Takes",
+                    "fr-FR": "What it Takes",
+                    "it-IT": "What it Takes"
+                },
+                "description": {
+                    "de-DE": "Du hast 20 Ranglistenspiele online gespielt.",
+                    "en-US": "You played 20 online ranked matches",
+                    "es-ES": "Has jugado 20 partidas online con puntuación ",
+                    "fr-FR": "Tu as joué 20 parties avec classement en ligne.",
+                    "it-IT": "Hai giocato 20 partite classificate online."
+                },
+                "howto": {
+                    "de-DE": "Spiele online 20 beliebige Ranglisten-Spiele.",
+                    "en-US": "Play 20 online ranked matches of any game type",
+                    "es-ES": "Juega 20 partidas online con puntuación en cualquier modo",
+                    "fr-FR": "Joue 20 parties avec classement en ligne dans n'importe quel type de jeu.",
+                    "it-IT": "Gioca a 20 partite classificate online di ogni tipo."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "35",
+            "imageId": "42.png"
+        },
+        "113": {
+            "text": {
+                "name": {
+                    "de-DE": "Deuces Are Wild",
+                    "en-US": "Deuces Are Wild",
+                    "es-ES": "Deuces Are Wild",
+                    "fr-FR": "Deuces Are Wild",
+                    "it-IT": "Deuces Are Wild"
+                },
+                "description": {
+                    "de-DE": "Du hast alle Songs auf der Setliste als Leadgitarrist gemeistert.",
+                    "en-US": "You completed all the songs on the setlist as the lead guitarist",
+                    "es-ES": "Has completado todas las canciones del repertorio como guitarrista solista ",
+                    "fr-FR": "Tu as terminé toutes les chansons de la sélection en tant que premier guitariste.",
+                    "it-IT": "Hai completato tutti i brani della scaletta con la chitarra solista."
+                },
+                "howto": {
+                    "de-DE": "Meistere alle Songs auf der Setliste als Leadgitarrist (lokal oder Xbox LIVE-Hauptbenutzer)",
+                    "en-US": "Complete all songs on the setlist as the lead guitarist (Local or Xbox LIVE - primary user)",
+                    "es-ES": "Completa todas las canciones como guitarrista solista (local o Xbox LIVE-cuenta principal)",
+                    "fr-FR": "Finis les titres de la liste comme première guitare (local ou sur Xbox LIVE - utilisateur principal)",
+                    "it-IT": "Completa tutti i brani con la chitarra solista (locale o Xbox LIVE - utente principale)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "43.png"
+        },
+        "114": {
+            "text": {
+                "name": {
+                    "de-DE": "Back in the Saddle",
+                    "en-US": "Back in the Saddle",
+                    "es-ES": "Back In The Saddle",
+                    "fr-FR": "Back In The Saddle",
+                    "it-IT": "Back in the Saddle"
+                },
+                "description": {
+                    "de-DE": "Du hast in einem Koop-Spiel als Tom Hamilton und Brad Whitford abgerockt.",
+                    "en-US": "You rocked out as Tom Hamilton and Brad Whitford in a Co-op match",
+                    "es-ES": "Has tocado como Tom Hamilton y Brad Whitford en una partida en el modo Carrera cooperativa",
+                    "fr-FR": "T'as tout déchiré avec Tom Hamilton et Brad Whitford dans une partie en mode Coop.",
+                    "it-IT": "Hai giocato usando Tom Hamilton e Brad Whitford in una partita cooperativa."
+                },
+                "howto": {
+                    "de-DE": "Spiele ein Koop-Spiel als Tom Hamilton und Brad Whitford (lokal oder Xbox LIVE)",
+                    "en-US": "Play a Co-op match using Tom Hamilton and Brad Whitford (Local or Xbox LIVE)",
+                    "es-ES": "Juega una partida en Carrera cooperativa usando a Tom Hamilton y a Brad Whitford (local o Xbox LIVE)",
+                    "fr-FR": "Joue une partie en Coop avec Tom Hamilton (basse) et Brad Whitford (1re guitare) (Local/Xbox LIVE).",
+                    "it-IT": "Gioca una partita cooperativa con Tom Hamilton e Brad Whitford (locale o Xbox LIVE)."
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "44.png"
+        },
+        "115": {
+            "text": {
+                "name": {
+                    "de-DE": "My Fist Your Face",
+                    "en-US": "My Fist Your Face",
+                    "es-ES": "My Fist Your Face",
+                    "fr-FR": "My Fist Your Face",
+                    "it-IT": "My Fist Your Face"
+                },
+                "description": {
+                    "de-DE": "Du hast online ein Ranglisten-Pro Duell gewonnen.",
+                    "en-US": "You won an online ranked Pro Face-Off match",
+                    "es-ES": "Has ganado una partida online con puntuación en el modo duelo de guitarras Pro",
+                    "fr-FR": "Tu as gagné un Duel pro avec classement en ligne.",
+                    "it-IT": "Hai vinto una partita classificata Sfida Pro online!"
+                },
+                "howto": {
+                    "de-DE": "Gewinne online ein Ranglisten-Pro Duell.",
+                    "en-US": "Win an online ranked Pro Face-Off match",
+                    "es-ES": "Gana una partida online con puntuación en el modo duelo de guitarras Pro",
+                    "fr-FR": "Gagne un Duel pro avec classement en ligne.",
+                    "it-IT": "Vinci una partita classificata Sfida Pro online."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "45.png"
+        },
+        "116": {
+            "text": {
+                "name": {
+                    "de-DE": "Don't Get Mad, Get Even",
+                    "en-US": "Don't Get Mad, Get Even",
+                    "es-ES": "Don't Get Mad, Get Even",
+                    "fr-FR": "Don't Get Mad, Get Even",
+                    "it-IT": "Don't Get Mad, Get Even"
+                },
+                "description": {
+                    "de-DE": "Du hast online ein Ranglisten-Duell gewonnen.",
+                    "en-US": "You won an online ranked Face-Off match",
+                    "es-ES": "Has ganado una partida online igualada en el modo duelo de guitarras",
+                    "fr-FR": "Tu as gagné un Duel en ligne.",
+                    "it-IT": "Hai vinto una partita Sfida classificata online!"
+                },
+                "howto": {
+                    "de-DE": "Gewinne online ein Ranglisten-Duell.",
+                    "en-US": "Win an online ranked Face-Off match",
+                    "es-ES": "Gana una partida online igualada en el modo duelo de guitarras",
+                    "fr-FR": "Gagne un Duel en ligne.",
+                    "it-IT": "Vinci una partita di Sfida classificata online."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "46.png"
+        },
+        "117": {
+            "text": {
+                "name": {
+                    "de-DE": "Walkin' the Dog",
+                    "en-US": "Walkin' the Dog",
+                    "es-ES": "Walkin' the Dog",
+                    "fr-FR": "Walkin' the Dog",
+                    "it-IT": "Walkin' the Dog"
+                },
+                "description": {
+                    "de-DE": "Du hast online ein Ranglisten-Pro Duell um mehr als 10.000 Punkte gewonnen.",
+                    "en-US": "You won an online ranked Pro-Face Off match by more than 10,000 points ",
+                    "es-ES": "Has ganado una partida igualada en el modo duelo de guitarras Pro por más de 10 000 puntos",
+                    "fr-FR": "Tu as gagné un Duel pro avec classement en ligne avec plus de 10 000 points.",
+                    "it-IT": "Hai vinto una partita classificata Sfida Pro online con più di 10.000 punti di differenza."
+                },
+                "howto": {
+                    "de-DE": "Gewinne ein Ranglisten-Pro Duell um mehr als 10.000 Punkte.",
+                    "en-US": "Win an online ranked Pro-Face Off match by 10,000 or more points",
+                    "es-ES": "Gana una partida con puntuación en el modo duelo de guitarras Pro por más de 10 000 puntos",
+                    "fr-FR": "Gagne un Duel pro avec classement en ligne avec plus de 10 000 points.",
+                    "it-IT": "Vinci una partita classificata Sfida Pro online con più di 10.000 punti di differenza."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "47.png"
+        },
+        "118": {
+            "text": {
+                "name": {
+                    "de-DE": "Soul Saver",
+                    "en-US": "Soul Saver",
+                    "es-ES": "Soul Saver",
+                    "fr-FR": "Soul Saver",
+                    "it-IT": "Soul Saver"
+                },
+                "description": {
+                    "de-DE": "Du hast eine Ranglisten-Schlacht online mit einem Tödlichen Kraftentzug gewonnen.",
+                    "en-US": "You won a ranked online Battle Mode match with a Death Drain attack",
+                    "es-ES": "Has ganado una partida online con puntuación en el modo Guerra con un ataque de Vaciado mortal",
+                    "fr-FR": "Tu as gagné un Choc de guitares avec classement en ligne avec une attaque Charge Mortelle.",
+                    "it-IT": "Hai vinto una partita classificata in modalità Battaglia online con un Attacco mortale."
+                },
+                "howto": {
+                    "de-DE": "Gewinne eine Ranglisten-Schlacht online mit einem Tödlichen Kraftentzug",
+                    "en-US": "Win a ranked online Battle Mode match with a Death Drain attack",
+                    "es-ES": "Gana una partida online igualada en el modo Guerra con un ataque de Vaciado mortal",
+                    "fr-FR": "Gagne un Choc de guitares avec classement en ligne avec une attaque Charge Mortelle.",
+                    "it-IT": "Vinci una partita classificata in modalità Battaglia online con un Attacco mortale."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "48.png"
+        },
+        "120": {
+            "text": {
+                "name": {
+                    "de-DE": "Love Me Two Times",
+                    "en-US": "Love Me Two Times",
+                    "es-ES": "Love Me Two Times",
+                    "fr-FR": "Love Me Two Times",
+                    "it-IT": "Love Me Two Times"
+                },
+                "description": {
+                    "de-DE": "Du hast alle Songs auf der Setliste als Bass-/Rhytmusgitarrist gemeistert.",
+                    "en-US": "You completed all the songs on the setlist as the Bass/Rhythm guitarist",
+                    "es-ES": "Has completado todas las canciones del repertorio como bajista o guitarrista rítmico ",
+                    "fr-FR": "Tu as terminé toutes les chansons de la sélection en tant que bassiste/guitariste rythmique.",
+                    "it-IT": "Hai completato tutti i brani della scaletta con Basso/Chitarra ritmica."
+                },
+                "howto": {
+                    "de-DE": "Meistere alle Songs auf der Setliste als Bass-/Rythmusgitarrist (lokal oder Xbox LIVE-Hauptbenutzer)",
+                    "en-US": "Complete all songs on the setlist as the Bass/Rhythm guitarist  ( Local or Xbox LIVE - primary user)",
+                    "es-ES": "Completa todas las canciones como bajista o guitarrista rítmico (local o Xbox LIVE-cuenta principal)",
+                    "fr-FR": "Finis les titres de la liste à la basse/guitare rythmique (local/Xbox LIVE - utilisateur principal).",
+                    "it-IT": "Completa tutti i brani con Basso/Chitarra ritmica (locale o Xbox LIVE - utente principale)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "49.png"
+        }
+    }
+}
