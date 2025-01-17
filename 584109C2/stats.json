@@ -1,0 +1,2404 @@
+{
+    "properties": {
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000020": {
+            "info": "Completion %",
+            "method": "max",
+            "statId": 4
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 5
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crowns",
+            "method": "max",
+            "statId": 3
+        },
+        "0x1000001A": {
+            "info": "Achievements",
+            "method": "max",
+            "statId": 1
+        },
+        "0x20000026": {
+            "info": "Solo Missions",
+            "method": "max",
+            "statId": 6
+        },
+        "0x20000021": {
+            "info": "Coop Missions",
+            "method": "max",
+            "statId": 7
+        },
+        "0x2000001E": {
+            "info": "Anti Missions",
+            "method": "max",
+            "statId": 8
+        },
+        "0x1000001F": {
+            "info": "Challenges",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000027": {
+            "info": "Training",
+            "method": "max",
+            "statId": 10
+        },
+        "0x20000022": {
+            "info": "Firing Range",
+            "method": "max",
+            "statId": 11
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x30000028": {
+            "info": "ArcadeCompletion",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000024": {
+            "info": "Missions Completed",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Total Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000024": {
+            "info": "Missions Completed",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Total Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000024": {
+            "info": "Missions Completed",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000023": {
+            "info": "Mission Time",
+            "method": "last",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Total Score",
+            "method": "max",
+            "statId": 4
+        },
+        "0x1000001B": {
+            "info": "Country",
+            "method": "last",
+            "statId": 2
+        },
+        "0x1000001D": {
+            "info": "Crown",
+            "method": "max",
+            "statId": 3
+        },
+        "0x20000025": {
+            "info": "RankValue",
+            "method": "max",
+            "statId": 65534
+        }
+    }
+}

@@ -1,0 +1,644 @@
+{
+    "Achievements": {
+        "52": {
+            "text": {
+                "name": {
+                    "de-DE": "Was für ein Anfang!",
+                    "en-US": "How's That For Starters?",
+                    "es-ES": "¿Qué tal eso para empezar?",
+                    "fr-FR": "Mise en route",
+                    "it-IT": "Chi ben comincia...",
+                    "ja-JP": "お手並み拝見"
+                },
+                "description": {
+                    "de-DE": "Schließe \"dataDyne Zentrale - Treuebruch\" ab.",
+                    "en-US": "Complete dataDyne Central - Defection.",
+                    "es-ES": "Completa el nivel Central dataDyne - Deserción.",
+                    "fr-FR": "Terminez Central dataDyne - Défection.",
+                    "it-IT": "Completa dataDyne Central - Defezione.",
+                    "ja-JP": "データダイン本社＜始動＞を完了した"
+                },
+                "howto": {
+                    "de-DE": "Schließe \"dataDyne Zentrale - Treuebruch\" ab.",
+                    "en-US": "Complete dataDyne Central - Defection.",
+                    "es-ES": "Completa el nivel Central dataDyne - Deserción.",
+                    "fr-FR": "Terminez Central dataDyne - Défection.",
+                    "it-IT": "Completa dataDyne Central - Defezione.",
+                    "ja-JP": "「データダイン本社＜始動＞」を完了する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "de-DE": "Aus beiden Rohren",
+                    "en-US": "Both Barrels",
+                    "es-ES": "Con ambos cañones",
+                    "fr-FR": "Double impact",
+                    "it-IT": "Doppia canna",
+                    "ja-JP": "両手使い"
+                },
+                "description": {
+                    "de-DE": "Töte einen Gegner, wenn du zwei Waffen gleichzeitig benutzt.",
+                    "en-US": "Kill an enemy when dual-wielding",
+                    "es-ES": "Mata a un enemigo mientras empuñas dos armas.",
+                    "fr-FR": "Tuez un ennemi en mode deux armes.",
+                    "it-IT": "Uccidi un nemico impugnando due armi.",
+                    "ja-JP": "銃両手持ちで敵を 1 人倒した"
+                },
+                "howto": {
+                    "de-DE": "Töte einen Gegner, wenn du zwei Waffen gleichzeitig benutzt.",
+                    "en-US": "Kill an enemy when dual-wielding",
+                    "es-ES": "Mata a un enemigo mientras empuñas dos armas.",
+                    "fr-FR": "Tuez un ennemi en mode deux armes.",
+                    "it-IT": "Uccidi un nemico impugnando due armi.",
+                    "ja-JP": "銃両手持ちで敵を 1 人倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "02.png"
+        },
+        "54": {
+            "text": {
+                "name": {
+                    "de-DE": "Wie alt bist du, Joanna?",
+                    "en-US": "Act Your Age, Joanna",
+                    "es-ES": "No seas cría, Joanna",
+                    "fr-FR": "Vandale",
+                    "it-IT": "Non essere puerile, Joanna!",
+                    "ja-JP": "こらこら、ジョアンナ"
+                },
+                "description": {
+                    "de-DE": "Zerstöre Carringtons Weinsammlung.",
+                    "en-US": "Destroy Carrington's wine collection.",
+                    "es-ES": "Destruye la colección de vinos de Carrington.",
+                    "fr-FR": "Détruisez la collection de vins de Carrington.",
+                    "it-IT": "Distruggi la collezione di vini di Carrington.",
+                    "ja-JP": "キャリントンのワイン コレクションを破壊した"
+                },
+                "howto": {
+                    "de-DE": "Zerstöre Carringtons Weinsammlung.",
+                    "en-US": "Destroy Carrington's wine collection.",
+                    "es-ES": "Destruye la colección de vinos de Carrington.",
+                    "fr-FR": "Détruisez la collection de vins de Carrington.",
+                    "it-IT": "Distruggi la collezione di vini di Carrington.",
+                    "ja-JP": "キャリントンのワイン コレクションを破壊する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "03.png"
+        },
+        "55": {
+            "text": {
+                "name": {
+                    "de-DE": "Doppel-64",
+                    "en-US": "Double 64",
+                    "es-ES": "Doble 64",
+                    "fr-FR": "Double 64",
+                    "it-IT": "64 x 2",
+                    "ja-JP": "64 の 2 倍は?"
+                },
+                "description": {
+                    "de-DE": "Töte 128 Gegner mit dem sekundären Feuermodus.",
+                    "en-US": "Kill 128 enemies using secondary fire mode.",
+                    "es-ES": "Mata a 128 enemigos con el disparo secundario.",
+                    "fr-FR": "Abattez 128 ennemis en mode de tir secondaire.",
+                    "it-IT": "Uccidi 128 nemici usando la modalità Fuoco secondario.",
+                    "ja-JP": "第 2 武器モードで 128 人の敵を倒した"
+                },
+                "howto": {
+                    "de-DE": "Töte mit dem sekundären Feuermodus 128 Gegner.",
+                    "en-US": "Kill 128 enemies using secondary fire mode.",
+                    "es-ES": "Mata a 128 enemigos usando el disparo secundario.",
+                    "fr-FR": "Abattez 128 ennemis en mode de tir secondaire.",
+                    "it-IT": "Uccidi 128 nemici usando la modalità Fuoco secondario.",
+                    "ja-JP": "第 2 武器モードで 128 人の敵を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "de-DE": "Nicht fotogen",
+                    "en-US": "Camera Shy",
+                    "es-ES": "Timidez ante la cámara",
+                    "fr-FR": "Caméras indiscrètes",
+                    "it-IT": "Niente foto, per favore!",
+                    "ja-JP": "カメラは苦手"
+                },
+                "description": {
+                    "de-DE": "Zerstöre 5 Sicherheitskameras.",
+                    "en-US": "Destroy 5 security cameras.",
+                    "es-ES": "Destruye 5 cámaras de seguridad.",
+                    "fr-FR": "Détruisez 5 caméras de sécurité.",
+                    "it-IT": "Distruggi 5 videocamere di sorveglianza.",
+                    "ja-JP": "防犯カメラを 5 台破壊した"
+                },
+                "howto": {
+                    "de-DE": "Zerstöre 5 Sicherheitskameras.",
+                    "en-US": "Destroy 5 security cameras.",
+                    "es-ES": "Destruye 5 cámaras de seguridad.",
+                    "fr-FR": "Détruisez 5 caméras de sécurité.",
+                    "it-IT": "Distruggi 5 videocamere di sorveglianza.",
+                    "ja-JP": "防犯カメラを 5 台破壊する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "de-DE": "Tödlicher Laptop",
+                    "en-US": "Deadly Laptop",
+                    "es-ES": "Portátil letal",
+                    "fr-FR": "Portable mortel",
+                    "it-IT": "Laptop letale",
+                    "ja-JP": "必殺ラップトップ"
+                },
+                "description": {
+                    "de-DE": "Töte 50 Gegner, indem du den Laptop im Wachgeschütz-Modus benutzt.",
+                    "en-US": "Kill 50 enemies using the laptop in sentry gun mode.",
+                    "es-ES": "Mata a 50 enemigos usando el portátil en el modo de pistola centinela.",
+                    "fr-FR": "Abattez 50 ennemis à l'aide du portable en mode sentinelle.",
+                    "it-IT": "Uccidi 50 nemici usando il laptop in modalità torretta automatica.",
+                    "ja-JP": "ラップトップ自動機銃で 50 人の敵を倒した"
+                },
+                "howto": {
+                    "de-DE": "Töte 50 Gegner, indem du im Wachgeschütz-Modus den Laptop benutzt.",
+                    "en-US": "Kill 50 enemies using the laptop in sentry gun mode.",
+                    "es-ES": "Mata a 50 enemigos usando el portátil en el modo de pistola centinela.",
+                    "fr-FR": "Abattez 50 ennemis à l'aide du portable en mode sentinelle.",
+                    "it-IT": "Uccidi 50 nemici usando il laptop in modalità torretta automatica.",
+                    "ja-JP": "ラップトップ自動機銃で 50 人の敵を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "06.png"
+        },
+        "58": {
+            "text": {
+                "name": {
+                    "de-DE": "Pazi-Faust",
+                    "en-US": "Paci-Fist",
+                    "es-ES": "Nudillos pacificadores",
+                    "fr-FR": "QI à poings",
+                    "it-IT": "A mani nude",
+                    "ja-JP": "パンチの海"
+                },
+                "description": {
+                    "de-DE": "Erledige eine beliebige Solomission mit dem Grad Spezial-Agent oder höher. Benutze nur deine Fäuste.",
+                    "en-US": "Complete any Solo Mission on Special Agent or harder using only your fists.",
+                    "es-ES": "Completa cualquier misión individual en Agente especial o en un nivel superior usando tus puños.",
+                    "fr-FR": "Accomplissez une mission solo au niveau Agent spécial ou supérieur en utilisant vos seuls poings.",
+                    "it-IT": "Completa una Missione in solitario a difficoltà Agente speciale o superiore usando solo i pugni.",
+                    "ja-JP": "難易度アドバンスト以上で、素手のみを使ってソロ ミッションを 1 つ完了した"
+                },
+                "howto": {
+                    "de-DE": "Erledige eine beliebige Solomission mit dem Grad Spezial-Agent oder höher. Benutze nur deine Fäuste.",
+                    "en-US": "Complete any Solo Mission on Special Agent or harder using only your fists.",
+                    "es-ES": "Completa cualquier misión individual en Agente especial o en un nivel superior usando tus puños.",
+                    "fr-FR": "Accomplissez une mission solo au niveau Agent spécial ou supérieur en utilisant vos seuls poings.",
+                    "it-IT": "Completa una Missione in solitario a difficoltà Agente speciale o superiore usando solo i pugni.",
+                    "ja-JP": "難易度アドバンスト以上で、素手のみを使ってソロ ミッションを 1 つ完了する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "07.png"
+        },
+        "59": {
+            "text": {
+                "name": {
+                    "de-DE": "Handwerkszeug",
+                    "en-US": "Tools Of The Trade",
+                    "es-ES": "Herramientas de trabajo",
+                    "fr-FR": "Talents multiples",
+                    "it-IT": "Ferri del mestiere",
+                    "ja-JP": "商売道具"
+                },
+                "description": {
+                    "de-DE": "Erreiche mit allen 32 Waffen auf dem Schießstand mindestens eine Bronze-Bewertung.",
+                    "en-US": "Get a Bronze rating or better with all 32 weapons in the Firing Range.",
+                    "es-ES": "Obtén una clasificación de Bronce o más con las 32 armas en la galería de tiro.",
+                    "fr-FR": "Obtenez un classement Bronze ou supérieur avec l'intégralité des 32 armes sur le stand de tir.",
+                    "it-IT": "Ottieni una valutazione Bronzo o superiore con tutte le 32 armi nel Poligono di tiro.",
+                    "ja-JP": "射撃訓練場の 32 種類すべてのウェポンで、ブロンズ以上を獲得した"
+                },
+                "howto": {
+                    "de-DE": "Erreiche mit allen 32 Waffen auf dem Schießstand mindestens eine Bronze-Bewertung.",
+                    "en-US": "Get a Bronze rating or better with all 32 weapons in the Firing Range.",
+                    "es-ES": "Obtén una clasificación de Bronce o más con las 32 armas en la galería de tiro.",
+                    "fr-FR": "Obtenez un classement Bronze ou supérieur avec l'intégralité des 32 armes sur le stand de tir.",
+                    "it-IT": "Ottieni una valutazione Bronzo o superiore con tutte le 32 armi nel Poligono di tiro.",
+                    "ja-JP": "射撃訓練場の 32 種類すべてのウェポンで、ブロンズ以上を獲得する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "08.png"
+        },
+        "60": {
+            "text": {
+                "name": {
+                    "de-DE": "Vielseitig",
+                    "en-US": "Versatile",
+                    "es-ES": "Versátil",
+                    "fr-FR": "Touche-à-tout",
+                    "it-IT": "Versatilità",
+                    "ja-JP": "万能選手"
+                },
+                "description": {
+                    "de-DE": "Schließe in jedem der sechs Szenarien ein Kampfsimulatorspiel ab.",
+                    "en-US": "Complete a Combat Simulator game using each of the six Scenarios.",
+                    "es-ES": "Completa un juego de simulador de combate usando cada uno de los seis escenarios.",
+                    "fr-FR": "Terminez une partie Simulateur de combat dans chacun des six scénarios.",
+                    "it-IT": "Completa una partita nel Simulatore di lotta utilizzando tutti i sei Scenari.",
+                    "ja-JP": "6 種類のルールすべてでコンバット シミュレータを完了した"
+                },
+                "howto": {
+                    "de-DE": "Schließe in jedem der sechs Szenarien ein Kampfsimulatorspiel ab.",
+                    "en-US": "Complete a Combat Simulator game using each of the six Scenarios.",
+                    "es-ES": "Completa un juego de simulador de combate usando cada uno de los seis escenarios.",
+                    "fr-FR": "Terminez une partie Simulateur de combat dans chacun des six scénarios.",
+                    "it-IT": "Completa una partita nel Simulatore di lotta utilizzando tutti i sei Scenari.",
+                    "ja-JP": "6 種類のルールすべてでコンバット シミュレータを完了する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "61": {
+            "text": {
+                "name": {
+                    "de-DE": "Die goldenen Tage",
+                    "en-US": "Golden Days",
+                    "es-ES": "Días dorados",
+                    "fr-FR": "Jours heureux",
+                    "it-IT": "Giorni di gloria",
+                    "ja-JP": "古き良き時代"
+                },
+                "description": {
+                    "de-DE": "Schließe in Felicity, Komplex oder Tempel ein Kampfsimulatorspiel mit klassischen Waffen ab.",
+                    "en-US": "Complete a Combat Simulator game on Felicity, Complex or Temple using Classic Weapons.",
+                    "es-ES": "Completa un juego de simulador de combate en Felicity, Complejo o Templo usando armas clásicas.\n\n",
+                    "fr-FR": "Terminez une partie Simulateur de combat sur Felicity, Complexe ou Temple avec armes classiques.",
+                    "it-IT": "Completa una partita nel Simulatore di lotta su Felicity, Complesso o Tempio con armi classiche.",
+                    "ja-JP": "工場、遺跡、または寺院のいずれかで、クラシック ウェポンを使用してコンバット シミュレータを完了した"
+                },
+                "howto": {
+                    "de-DE": "Schließe in Felicity, Komplex oder Tempel ein Kampfsimulatorspiel mit klassischen Waffen ab.\n\n",
+                    "en-US": "Complete a Combat Simulator game on Felicity, Complex or Temple using Classic Weapons.\n\n",
+                    "es-ES": "Completa un juego de simulador de combate en Felicity, Complejo o Templo usando armas clásicas.\n\n",
+                    "fr-FR": "Terminez une partie Simulateur de combat sur Felicity, Complexe ou Temple avec armes classiques.\n\n",
+                    "it-IT": "Gioca partita nel Simul. di lotta sulle mappe Felicity, Complesso o Tempio con le armi classiche.\n\n",
+                    "ja-JP": "工場、遺跡、または寺院のいずれかで、クラシック ウェポンを使用してコンバット シミュレータを完了する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "10.png"
+        },
+        "62": {
+            "text": {
+                "name": {
+                    "de-DE": "Hauptziel",
+                    "en-US": "Prime Target",
+                    "es-ES": "Objetivo principal",
+                    "fr-FR": "Nombre premier",
+                    "it-IT": "Numeri primi",
+                    "ja-JP": "割り切れないターゲット"
+                },
+                "description": {
+                    "de-DE": "Schließe alle Herausforderungen bis einschließlich der Nummer 29, der zehnten Primzahl, ab.",
+                    "en-US": "Complete every Challenge up to and including 29, the 10th Prime number.",
+                    "es-ES": "Completa todos los desafíos hasta el décimo número primo inclusive, el número 29.",
+                    "fr-FR": "Terminez tous les défis, y compris le 29e, le 10e Nombre premier.",
+                    "it-IT": "Completa tutte le Sfide fino alla 29 inclusa. Ventinove è il decimo numero primo.",
+                    "ja-JP": "チャレンジを 29 まですべてクリアした"
+                },
+                "howto": {
+                    "de-DE": "Schließe alle Herausforderungen bis einschließlich der Nummer 29, der zehnten Primzahl, ab.",
+                    "en-US": "Complete every Challenge up to and including 29, the 10th Prime number.",
+                    "es-ES": "Completa todos los desafíos hasta el décimo número primo inclusive, el número 29.",
+                    "fr-FR": "Terminez tous les défis, y compris le 29e, le 10e Nombre premier.",
+                    "it-IT": "Completa tutte le Sfide fino alla 29 inclusa. Ventinove è il decimo numero primo.",
+                    "ja-JP": "チャレンジを 29 まですべてクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "63": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein wirklicher Freund",
+                    "en-US": "A Friend Indeed",
+                    "es-ES": "Un auténtico amigo",
+                    "fr-FR": "L'union fait la force",
+                    "it-IT": "Un vero amico",
+                    "ja-JP": "友達ってすばらしい"
+                },
+                "description": {
+                    "de-DE": "Schließe im Koop-Modus eine beliebige Mission ab.",
+                    "en-US": "Complete any mission in Co-operative Mode.",
+                    "es-ES": "Completa cualquier misión en el modo Cooperativo.",
+                    "fr-FR": "Accomplissez une mission en mode Coopération.",
+                    "it-IT": "Completa una qualsiasi missione in modalità Cooperativa.",
+                    "ja-JP": "協力ミッションを 1 つ完了した"
+                },
+                "howto": {
+                    "de-DE": "Schließe im Koop-Modus eine beliebige Mission ab.",
+                    "en-US": "Complete any mission in Co-operative Mode.",
+                    "es-ES": "Completa cualquier misión en el modo Cooperativo.",
+                    "fr-FR": "Accomplissez une mission en mode Coopération.",
+                    "it-IT": "Completa una qualsiasi missione in modalità Cooperativa.",
+                    "ja-JP": "協力ミッションを 1 つ完了する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "12.png"
+        },
+        "64": {
+            "text": {
+                "name": {
+                    "de-DE": "Wer braucht schon Gegner?",
+                    "en-US": "...Who Needs Enemies?",
+                    "es-ES": "¿Quién necesita enemigos?",
+                    "fr-FR": "... Qui a besoin d'ennemis ?",
+                    "it-IT": "... Chi ha bisogno di nemici?",
+                    "ja-JP": "敵なんて目じゃない"
+                },
+                "description": {
+                    "de-DE": "Schließe im Counter Operative-Modus eine beliebige Mission ab.",
+                    "en-US": "Complete any mission in Counter-Operative Mode.",
+                    "es-ES": "Completa cualquier misión en el modo Enfrentamiento.",
+                    "fr-FR": "Accomplissez une mission en mode ennemi.",
+                    "it-IT": "Completa una qualsiasi missione in modalità Tutti contro tutti!.",
+                    "ja-JP": "敵対ミッションを 1 つ完了した"
+                },
+                "howto": {
+                    "de-DE": "Schließe im Counter Operative-Modus eine beliebige Mission ab.",
+                    "en-US": "Complete any mission in Counter-Operative Mode.",
+                    "es-ES": "Completa cualquier misión en el modo Enfrentamiento.",
+                    "fr-FR": "Accomplissez une mission en mode ennemi.",
+                    "it-IT": "Completa una qualsiasi missione in modalità Tutti contro tutti!.",
+                    "ja-JP": "敵対ミッションを 1 つ完了する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "13.png"
+        },
+        "65": {
+            "text": {
+                "name": {
+                    "de-DE": "dataDyne-Spezialist",
+                    "en-US": "dataDyne Specialist",
+                    "es-ES": "Especialista de dataDyne",
+                    "fr-FR": "Spécialiste dataDyne",
+                    "it-IT": "Specialista dataDyne",
+                    "ja-JP": "データダイン スペシャリスト"
+                },
+                "description": {
+                    "de-DE": "Töte mit jeder dataDyne-Waffe mindestens einen Gegner.",
+                    "en-US": "Kill at least one enemy with each of the dataDyne weapons.",
+                    "es-ES": "Mata al menos a un enemigo con cada una de las armas de dataDyne.",
+                    "fr-FR": "Tuez au moins un ennemi avec chacune des armes de dataDyne.",
+                    "it-IT": "Uccidi almeno un nemico con ciascuna delle armi della dataDyne.",
+                    "ja-JP": "データダイン社のウェポンをすべて使用して、それぞれで敵を 1 人倒した"
+                },
+                "howto": {
+                    "de-DE": "Töte mit jeder dataDyne-Waffe mindestens einen Gegner.",
+                    "en-US": "Kill at least one enemy with each of the dataDyne weapons.",
+                    "es-ES": "Mata al menos a un enemigo con cada una de las armas de dataDyne.",
+                    "fr-FR": "Tuez au moins un ennemi avec chacune des armes de dataDyne.",
+                    "it-IT": "Uccidi almeno un nemico con ciascuna delle armi della dataDyne.",
+                    "ja-JP": "データダイン社のウェポンをすべて使用して、それぞれで敵を 1 人倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "14.png"
+        },
+        "66": {
+            "text": {
+                "name": {
+                    "de-DE": "Carrington-Institut-Spezialist",
+                    "en-US": "Carrington Institute Specialist",
+                    "es-ES": "Especialista del I. Carrington",
+                    "fr-FR": "Spécialiste Carrington",
+                    "it-IT": "Specialista Carrington Institute",
+                    "ja-JP": "キャリントン協会スペシャリスト"
+                },
+                "description": {
+                    "de-DE": "Töte mit jeder Carrington-Institut-Waffe mindestens einen Gegner.",
+                    "en-US": "Kill at least one enemy with each of the Carrington Institute weapons.",
+                    "es-ES": "Mata al menos a un enemigo con cada una de las armas del Instituto Carrington.",
+                    "fr-FR": "Tuez au moins un ennemi avec chacune des armes de l'Institut Carrington.",
+                    "it-IT": "Uccidi almeno un nemico con ciascuna delle armi del Carrington Institute.",
+                    "ja-JP": "キャリントン協会のウェポンをすべて使用して、それぞれで敵を 1 人倒した"
+                },
+                "howto": {
+                    "de-DE": "Töte mit jeder Carrington-Institut-Waffe mindestens einen Gegner.",
+                    "en-US": "Kill at least one enemy with each of the Carrington Institute weapons.",
+                    "es-ES": "Mata al menos a un enemigo con cada una de las armas del Instituto Carrington.",
+                    "fr-FR": "Tuez au moins un ennemi avec chacune des armes de l'Institut Carrington.",
+                    "it-IT": "Uccidi almeno un nemico con ciascuna delle armi del Carrington Institute.",
+                    "ja-JP": "キャリントン協会のウェポンをすべて使用して、それぞれで敵を 1 人倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "15.png"
+        },
+        "72": {
+            "text": {
+                "name": {
+                    "de-DE": "Maia-Spezialist",
+                    "en-US": "Maian Specialist",
+                    "es-ES": "Especialista Maian",
+                    "fr-FR": "Spécialiste maian",
+                    "it-IT": "Specialista Maian",
+                    "ja-JP": "マイアン スペシャリスト"
+                },
+                "description": {
+                    "de-DE": "Töte mit jeder Maia-Waffe mindestens einen Gegner.",
+                    "en-US": "Kill at least one enemy with each of the Maian weapons.",
+                    "es-ES": "Mata al menos a un enemigo con cada una de las armas Maian.",
+                    "fr-FR": "Tuez au moins un ennemi avec chacune des armes maians.",
+                    "it-IT": "Uccidi almeno un nemico con ciascuna delle armi dei Maian.",
+                    "ja-JP": "マイアンのウェポンをすべて使用して、それぞれで敵を 1 人倒した"
+                },
+                "howto": {
+                    "de-DE": "Töte mit jeder Maia-Waffe mindestens einen Gegner.",
+                    "en-US": "Kill at least one enemy with each of the Maian weapons.",
+                    "es-ES": "Mata al menos a un enemigo con cada una de las armas Maian.",
+                    "fr-FR": "Tuez au moins un ennemi avec chacune des armes maians.",
+                    "it-IT": "Uccidi almeno un nemico con ciascuna delle armi dei Maian.",
+                    "ja-JP": "マイアンのウェポンをすべて使用して、それぞれで敵を 1 人倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "16.png"
+        },
+        "73": {
+            "text": {
+                "name": {
+                    "de-DE": "Agent",
+                    "en-US": "Agent",
+                    "es-ES": "Agente",
+                    "fr-FR": "Agent",
+                    "it-IT": "Agente",
+                    "ja-JP": "エージェント"
+                },
+                "description": {
+                    "de-DE": "Schließe die Solomissionen mit dem Schwierigkeitsgrad Agent ab.",
+                    "en-US": "Complete the Solo Missions on Agent",
+                    "es-ES": "Completa las misiones en solitario en Agente.",
+                    "fr-FR": "Accomplissez les missions solo au niveau Agent.",
+                    "it-IT": "Completa le Missioni in solitario a livello Agente.",
+                    "ja-JP": "難易度エージェントでソロ ミッションを完了した"
+                },
+                "howto": {
+                    "de-DE": "Schließe die Solomissionen mit dem Schwierigkeitsgrad Agent ab.",
+                    "en-US": "Complete the Solo Missions on Agent",
+                    "es-ES": "Completa las misiones en solitario en Agente.",
+                    "fr-FR": "Accomplissez les missions solo au niveau Agent.",
+                    "it-IT": "Completa le Missioni in solitario a livello Agente.",
+                    "ja-JP": "難易度エージェントでソロ ミッションを完了する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "17.png"
+        },
+        "74": {
+            "text": {
+                "name": {
+                    "de-DE": "Spezial-Agent",
+                    "en-US": "Special Agent",
+                    "es-ES": "Agente especial",
+                    "fr-FR": "Agent spécial",
+                    "it-IT": "Agente speciale",
+                    "ja-JP": "スペシャル エージェント"
+                },
+                "description": {
+                    "de-DE": "Schließe die Solomissionen mit dem Schwierigkeitsgrad Spezial-Agent oder höher ab.",
+                    "en-US": "Complete the Solo Missions on Special Agent.",
+                    "es-ES": "Completa las misiones en solitario en Agente especial.",
+                    "fr-FR": "Accomplissez les missions solo au niveau Agent spécial.",
+                    "it-IT": "Completa le Missioni in solitario a livello Agente speciale.",
+                    "ja-JP": "難易度アドバンストでソロ ミッションを完了した"
+                },
+                "howto": {
+                    "de-DE": "Schließe die Solomissionen mit dem Schwierigkeitsgrad Spezial-Agent oder höher ab.",
+                    "en-US": "Complete the Solo Missions on Special Agent.",
+                    "es-ES": "Completa las misiones en solitario en Agente especial.",
+                    "fr-FR": "Accomplissez les missions solo au niveau Agent spécial.",
+                    "it-IT": "Completa le Missioni in solitario a livello Agente speciale.",
+                    "ja-JP": "難易度アドバンストでソロ ミッションを完了する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "18.png"
+        },
+        "75": {
+            "text": {
+                "name": {
+                    "de-DE": "Perfekter Agent",
+                    "en-US": "Perfect Agent",
+                    "es-ES": "Agente perfecto",
+                    "fr-FR": "Agent Perfect",
+                    "it-IT": "Agente Perfect",
+                    "ja-JP": "パーフェクト エージェント"
+                },
+                "description": {
+                    "de-DE": "Schließe die Solomissionen mit dem Schwierigkeitsgrad Perfekter Agent ab.",
+                    "en-US": "Complete the Solo Missions on Perfect Agent.",
+                    "es-ES": "Completa las misiones en solitario en Agente perfecto.",
+                    "fr-FR": "Accomplissez les missions solo au niveau Agent Perfect.",
+                    "it-IT": "Completa le Missioni in solitario a livello Agente Perfect.",
+                    "ja-JP": "難易度スペシャリストでソロ ミッションを完了した"
+                },
+                "howto": {
+                    "de-DE": "Schließe die Solomissionen mit dem Schwierigkeitsgrad Perfekter Agent ab.",
+                    "en-US": "Complete the Solo Missions on Perfect Agent.",
+                    "es-ES": "Completa las misiones en solitario en Agente perfecto.",
+                    "fr-FR": "Accomplissez les missions solo au niveau Agent Perfect.",
+                    "it-IT": "Completa le Missioni in solitario a livello Agente Perfect.",
+                    "ja-JP": "難易度パーフェクトでソロ ミッションを完了する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "19.png"
+        },
+        "76": {
+            "text": {
+                "name": {
+                    "de-DE": "Krönender Sieg",
+                    "en-US": "Crowning Glory",
+                    "es-ES": "Coronación",
+                    "fr-FR": "Efforts couronnés",
+                    "it-IT": "Monarca incoronato",
+                    "ja-JP": "栄光をこの手に"
+                },
+                "description": {
+                    "de-DE": "Erringe alle Bestenlisten-Kronen.",
+                    "en-US": "Earn all the Leaderboard Crowns.",
+                    "es-ES": "Gana todas las coronas del marcador.",
+                    "fr-FR": "Obtenez toutes les couronnes de Classement.",
+                    "it-IT": "Guadagna tutte le Corone nelle classifiche.",
+                    "ja-JP": "ランキングのクラウンをすべて獲得した"
+                },
+                "howto": {
+                    "de-DE": "Erringe alle Bestenlisten-Kronen.",
+                    "en-US": "Earn all the Leaderboard Crowns.",
+                    "es-ES": "Gana todas las coronas del marcador.",
+                    "fr-FR": "Obtenez toutes les couronnes de Classement.",
+                    "it-IT": "Guadagna tutte le Corone nelle classifiche.",
+                    "ja-JP": "ランキングのクラウンをすべて獲得する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "20.png"
+        }
+    }
+}
