@@ -1,0 +1,1338 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Verbunden!",
+                    "en-US": "Connected!",
+                    "es-ES": "¡Conectado!",
+                    "fr-FR": "Une sacrée connexion",
+                    "it-IT": "Connesso!"
+                },
+                "description": {
+                    "de-DE": "Schließ dein erstes Online-Rennen ab",
+                    "en-US": "Complete your first online race",
+                    "es-ES": "Completa tu primera carrera en línea",
+                    "fr-FR": "Terminez votre première course en ligne",
+                    "it-IT": "Completa la tua prima gara online"
+                },
+                "howto": {
+                    "de-DE": "Schließ dein erstes Online-Rennen ab",
+                    "en-US": "Complete your first online race",
+                    "es-ES": "Completa tu primera carrera en línea",
+                    "fr-FR": "Terminez votre première course en ligne",
+                    "it-IT": "Completa la tua prima gara online"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Bekannt in der ganzen Welt",
+                    "en-US": "They know you around the world",
+                    "es-ES": "Famoso en todo el mundo",
+                    "fr-FR": "Bonjour tout le monde !",
+                    "it-IT": "Celebrità mondiale"
+                },
+                "description": {
+                    "de-DE": "Schließ eine Online-Meisterschaft ab",
+                    "en-US": "Complete an Online Championship",
+                    "es-ES": "Completa un Campeonato online",
+                    "fr-FR": "Terminez un championnat en ligne",
+                    "it-IT": "Completa un Campionato Online"
+                },
+                "howto": {
+                    "de-DE": "Schließ eine Online-Meisterschaft ab",
+                    "en-US": "Complete an Online Championship",
+                    "es-ES": "Completa un Campeonato online",
+                    "fr-FR": "Terminez un championnat en ligne",
+                    "it-IT": "Completa un Campionato Online"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Das hast du dir verdient!",
+                    "en-US": "You've earned it!",
+                    "es-ES": "¡Te lo has ganado!",
+                    "fr-FR": "Vous le méritez !",
+                    "it-IT": "Te lo sei meritato!"
+                },
+                "description": {
+                    "de-DE": "Wechsle in einer Online-Sprint-Season von einer Kategorie in eine andere",
+                    "en-US": "Move from one category to another during an Online Sprint Season",
+                    "es-ES": "Cambia de categoría durante una Sprint Season en línea",
+                    "fr-FR": "Changez de catégorie pendant une Sprint Season en ligne",
+                    "it-IT": "Effettua un passaggio di categoria durante una Sprint Season Online"
+                },
+                "howto": {
+                    "de-DE": "Wechsle in einer Online-Sprint-Season von einer Kategorie in eine andere",
+                    "en-US": "Move from one category to another during an Online Sprint Season",
+                    "es-ES": "Cambia de categoría durante una Sprint Season en línea",
+                    "fr-FR": "Changez de catégorie pendant une Sprint Season en ligne",
+                    "it-IT": "Effettua un passaggio di categoria durante una Sprint Season Online"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein Teil nach dem anderen",
+                    "en-US": "One piece at a time",
+                    "es-ES": "Paso a paso",
+                    "fr-FR": "Un à la fois",
+                    "it-IT": "Un pezzo alla volta"
+                },
+                "description": {
+                    "de-DE": "Gewinn ein Zwischenzeiten-Rennen",
+                    "en-US": "Win an online Split Times race",
+                    "es-ES": "Gana una carrera en Tiempos intermedios en línea",
+                    "fr-FR": "Remportez une course en temps intermédiaire en ligne",
+                    "it-IT": "Vinci una gara intertempi online"
+                },
+                "howto": {
+                    "de-DE": "Gewinn ein Zwischenzeiten-Rennen",
+                    "en-US": "Win an online Split Times race",
+                    "es-ES": "Gana una carrera en Tiempos intermedios en línea",
+                    "fr-FR": "Remportez une course en temps intermédiaire en ligne",
+                    "it-IT": "Vinci una gara intertempi online"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Generaldirektor",
+                    "en-US": "General Manager",
+                    "es-ES": "Director general",
+                    "fr-FR": "Directeur général",
+                    "it-IT": "Direttore Generale"
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen mit deinem Privat-Team",
+                    "en-US": "Win a race with your Private Team, in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera con tu Equipo privado, en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course avec votre écurie privée en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara con il tuo Team Privato, in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen mit deinem Privat-Team",
+                    "en-US": "Win a race with your Private Team, in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera con tu Equipo privado, en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course avec votre écurie privée en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara con il tuo Team Privato, in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Wo die Sonne aufgeht",
+                    "en-US": "In the land of the rising sun",
+                    "es-ES": "En tierras del sol naciente",
+                    "fr-FR": "Au pays du soleil levant",
+                    "it-IT": "Nella terra del Sol Levante"
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Motegi",
+                    "en-US": "Win a race in Motegi in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Motegi en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Motegi en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Motegi in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Motegi",
+                    "en-US": "Win a race in Motegi in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Motegi en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Motegi en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Motegi in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Texas forever",
+                    "en-US": "Texas forever",
+                    "es-ES": "Viva Texas",
+                    "fr-FR": "Un as au Texas",
+                    "it-IT": "Texas per sempre"
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Austin",
+                    "en-US": "Win a race in Austin in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Austin en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Austin en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara ad Austin in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Austin",
+                    "en-US": "Win a race in Austin in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Austin en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Austin en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara ad Austin in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Das Motorland",
+                    "en-US": "The motorland",
+                    "es-ES": "La tierra de las motos",
+                    "fr-FR": "À fond en Aragon",
+                    "it-IT": "La terra dei motori"
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Aragon",
+                    "en-US": "Win a race in Aragon in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Aragón en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course en Aragon en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara ad Aragon in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Aragon",
+                    "en-US": "Win a race in Aragon in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Aragón en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course en Aragon en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara ad Aragon in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein Sieg im Brickyard",
+                    "en-US": "Winning on the Brickyard",
+                    "es-ES": "Ganando en el Brickyard",
+                    "fr-FR": "Ça barde au Brickyard !",
+                    "it-IT": "Vincere sul \"Brickyard\""
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Indianapolis",
+                    "en-US": "Win a race in Indianapolis in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Indianápolis en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Indianapolis en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Indianapolis in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Indianapolis",
+                    "en-US": "Win a race in Indianapolis in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Indianápolis en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Indianapolis en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Indianapolis in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Unter Spaniens Sonne",
+                    "en-US": "Under the Spanish sun",
+                    "es-ES": "Bajo el sol de España",
+                    "fr-FR": "Sous le soleil espagnol",
+                    "it-IT": "Sotto il sole spagnolo"
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Catalunya",
+                    "en-US": "Win a race in Catalunya in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Cataluña en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course en Catalogne en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara in Catalunya in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Catalunya",
+                    "en-US": "Win a race in Catalunya in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Cataluña en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course en Catalogne en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara in Catalunya in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "TT Assen – ein Klacks!",
+                    "en-US": "TT Assen win!",
+                    "es-ES": "¡Gana en TT Assen!",
+                    "fr-FR": "TT Assen en beauté !",
+                    "it-IT": "Vittoria al TT Assen!"
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Assen",
+                    "en-US": "Win a race in Assen in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Assen en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Assen en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara ad Assen in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Assen",
+                    "en-US": "Win a race in Assen in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Assen en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Assen en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara ad Assen in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "4 rechts und 10 links",
+                    "en-US": "4 right and 10 left",
+                    "es-ES": "4 derecha y 10 izquierda",
+                    "fr-FR": "4 sur la droite 10 sur la gauche",
+                    "it-IT": "4 a destra e 10 a sinistra"
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen auf dem Sachsenring",
+                    "en-US": "Win a race in Sachsenring in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Sachsenring en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course sur le Sachsenring en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Sachsenring in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen auf dem Sachsenring",
+                    "en-US": "Win a race in Sachsenring in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Sachsenring en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course sur le Sachsenring en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Sachsenring in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "12.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "Eine Nacht in der Wüste",
+                    "en-US": "A night in the desert",
+                    "es-ES": "Una noche en el desierto",
+                    "fr-FR": "Une nuit en plein désert",
+                    "it-IT": "Una notte nel deserto"
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Losail",
+                    "en-US": "Win a race in Losail in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Losail en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course sur le circuit de Losail en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Losail in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Losail",
+                    "en-US": "Win a race in Losail in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Losail en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course sur le circuit de Losail en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Losail in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "13.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Klassiker",
+                    "en-US": "The classic one",
+                    "es-ES": "El clásico",
+                    "fr-FR": "Un grand classique",
+                    "it-IT": "Un classico"
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Silverstone",
+                    "en-US": "Win a race in Silverstone in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Silverstone en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Silverstone en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Silverstone in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Silverstone",
+                    "en-US": "Win a race in Silverstone in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Silverstone en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Silverstone en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Silverstone in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "14.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein Wochenende an der Riviera",
+                    "en-US": "A weekend in the Riviera",
+                    "es-ES": "Un fin de semana en la Riviera",
+                    "fr-FR": "Un week-end sur l'Adriatique",
+                    "it-IT": "Un weekend sulla Riviera"
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Misano",
+                    "en-US": "Win a race in Misano in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Misano en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Misano en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Misano in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Misano",
+                    "en-US": "Win a race in Misano in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Misano en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Misano en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Misano in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "15.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Kein Wellness-Urlaub im S.P.A.",
+                    "en-US": "Not a s.p.a. vacation",
+                    "es-ES": "Esto no es un spa",
+                    "fr-FR": "Dans les meilleurs thermes...",
+                    "it-IT": "Non è una vacanza alla s.p.a. "
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Termas de Río Hondo",
+                    "en-US": "Win a race in Termas de Río Hondo in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Termas de Río Hondo en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Termas de Río Hondo en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a  Termas de Río Hondo in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Termas de Río Hondo",
+                    "en-US": "Win a race in Termas de Río Hondo in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Termas de Río Hondo en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Termas de Río Hondo en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a  Termas de Río Hondo in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "16.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "Eine der Besten",
+                    "en-US": "One of the best",
+                    "es-ES": "Uno de los mejores",
+                    "fr-FR": "L'un des meilleurs",
+                    "it-IT": "Uno dei migliori"
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Sepang",
+                    "en-US": "Win a race in Sepang in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Sepang en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Sepang en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Sepang in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Sepang",
+                    "en-US": "Win a race in Sepang in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Sepang en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Sepang en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Sepang in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "17.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "de-DE": "Am Rand der Klippen",
+                    "en-US": "On the edge of the cliff",
+                    "es-ES": "Al borde del precipicio",
+                    "fr-FR": "Au bord de la falaise",
+                    "it-IT": "Sull'orlo della scogliera"
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen auf Phillip Island",
+                    "en-US": "Win a race in Phillip Island in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Phillip Island en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Phillip Island en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Phillip Island in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen auf Phillip Island",
+                    "en-US": "Win a race in Phillip Island in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Phillip Island en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Phillip Island en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Phillip Island in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "18.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "349,7 km/h ... hier geht das",
+                    "en-US": "349.7 Km/h... here you can",
+                    "es-ES": "A 349,7 Km/h... Aquí sí se puede",
+                    "fr-FR": "349,7 km/h... c'est possible.",
+                    "it-IT": "349.7 Km/h... Qui puoi"
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Mugello",
+                    "en-US": "Win a race in Mugello in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Mugello en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Mugello en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Mugello in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Mugello",
+                    "en-US": "Win a race in Mugello in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Mugello en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Mugello en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Mugello in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "19.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "Hoch und runter ...",
+                    "en-US": "Up and Down...",
+                    "es-ES": "Arriba y abajo...",
+                    "fr-FR": "Des hauts et des bas",
+                    "it-IT": "Su e giù..."
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Brünn",
+                    "en-US": "Win a race in Brno in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Brno en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Brno en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Brno in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Brünn",
+                    "en-US": "Win a race in Brno in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Brno en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Brno en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Brno in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "20.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "An den „Säulen des Herakles“",
+                    "en-US": "Near the \"Pillars of Hercules\"",
+                    "es-ES": "En las \"Columnas de Hércules\"",
+                    "fr-FR": "Près des Colonnes d'Hercule",
+                    "it-IT": "Vicino le Colonne d'Ercole"
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Jerez",
+                    "en-US": "Win a race in Jerez in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Jerez en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Jerez en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Jerez in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Jerez",
+                    "en-US": "Win a race in Jerez in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Jerez en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Jerez en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Jerez in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "21.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "de-DE": "An den Ufern der „La Sarthe“",
+                    "en-US": "On the river of \"La Sarthe\"",
+                    "es-ES": "En el río de \"La Sarthe\"",
+                    "fr-FR": "Un mythe, un circuit...",
+                    "it-IT": "Sulle rive del \"La Sarthe\""
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Le Mans",
+                    "en-US": "Win a race in Le Mans in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Le Mans en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course au Mans en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Le Mans in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Le Mans",
+                    "en-US": "Win a race in Le Mans in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Le Mans en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course au Mans en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Le Mans in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "22.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Abschluss der Saison",
+                    "en-US": "The last one of the season",
+                    "es-ES": "La última de la temporada",
+                    "fr-FR": "Le dernier de la saison",
+                    "it-IT": "L'ultima della stagione"
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Valencia",
+                    "en-US": "Win a race in Valencia in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Valencia en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Valence en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Valencia in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen in Valencia",
+                    "en-US": "Win a race in Valencia in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera en Valencia en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course à Valence en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara a Valencia in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "23.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "Persönlicher Techniker",
+                    "en-US": "Personal engineer",
+                    "es-ES": "Ingeniero personal",
+                    "fr-FR": "Ingénieur personnel",
+                    "it-IT": "Ingegnere personale"
+                },
+                "description": {
+                    "de-DE": "Passe im Rennen deine Bike-Einstellungen beim Chief Engineer in der Box an und gewinne das Rennen",
+                    "en-US": "During a race session, modify the bike settings with the Chief Engineer in Pit Menu and win the race",
+                    "es-ES": "Durante la sesión, cambia la configuración de la moto con el ingeniero jefe en el menú Pit y gan",
+                    "fr-FR": "Lors de la course, modifiez votre moto avec l'ingénieur en chef dans le menu Stand et gagnez",
+                    "it-IT": "Nella sessione di gara, modifica i settaggi della moto con il Capo Ingegnere nel Pit Menu e vinci"
+                },
+                "howto": {
+                    "de-DE": "Passe im Rennen deine Bike-Einstellungen beim Chief Engineer in der Box an und gewinne das Rennen",
+                    "en-US": "During a race session, modify the bike settings with the Chief Engineer in Pit Menu and win the race",
+                    "es-ES": "Durante la sesión, cambia la configuración de la moto con el ingeniero jefe en el menú Pit y gan",
+                    "fr-FR": "Lors de la course, modifiez votre moto avec l'ingénieur en chef dans le menu Stand et gagnez",
+                    "it-IT": "Nella sessione di gara, modifica i settaggi della moto con il Capo Ingegnere nel Pit Menu e vinci"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "24.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Besten der Besten",
+                    "en-US": "The best of the best",
+                    "es-ES": "El mejor de los mejores",
+                    "fr-FR": "La crème de la crème",
+                    "it-IT": "Il meglio del meglio"
+                },
+                "description": {
+                    "de-DE": "Gewinn in einem beliebigen Modus ein Rennen mit einem offiziellen Fahrer aus der MotoGP™-Klasse",
+                    "en-US": "Win a race with an official rider from the MotoGP class, in any game mode",
+                    "es-ES": "Gana una carrera con un piloto oficial de la clase MotoGP en cualquier modo de juego",
+                    "fr-FR": "Remportez une course avec un pilote officiel de la catégorie MotoGP, dans n'importe quel mode",
+                    "it-IT": "Vinci una gara con un pilota ufficiale della categoria MotoGP, in qualsiasi modalità di gioco"
+                },
+                "howto": {
+                    "de-DE": "Gewinn in einem beliebigen Modus ein Rennen mit einem offiziellen Fahrer aus der MotoGP™-Klasse",
+                    "en-US": "Win a race with an official rider from the MotoGP class, in any game mode",
+                    "es-ES": "Gana una carrera con un piloto oficial de la clase MotoGP en cualquier modo de juego",
+                    "fr-FR": "Remportez une course avec un pilote officiel de la catégorie MotoGP, dans n'importe quel mode",
+                    "it-IT": "Vinci una gara con un pilota ufficiale della categoria MotoGP, in qualsiasi modalità di gioco"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "25.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "In der Mittelklasse",
+                    "en-US": "In the middle class",
+                    "es-ES": "En la clase media",
+                    "fr-FR": "La classe moyenne",
+                    "it-IT": "Continua così"
+                },
+                "description": {
+                    "de-DE": "Gewinn in einem beliebigen Modus ein Rennen mit einem offiziellen Fahrer aus der Moto2-Klasse",
+                    "en-US": "Win a race with an official rider from the Moto2 class, in any game mode",
+                    "es-ES": "Gana una carrera con un piloto oficial de la clase Moto2 en cualquier modo de juego",
+                    "fr-FR": "Remportez une course avec un pilote officiel de la catégorie Moto2, dans n'importe quel mode",
+                    "it-IT": "Vinci una gara con un pilota ufficiale della categoria Moto2, in qualsiasi modalità di gioco"
+                },
+                "howto": {
+                    "de-DE": "Gewinn in einem beliebigen Modus ein Rennen mit einem offiziellen Fahrer aus der Moto2-Klasse",
+                    "en-US": "Win a race with an official rider from the Moto2 class, in any game mode",
+                    "es-ES": "Gana una carrera con un piloto oficial de la clase Moto2 en cualquier modo de juego",
+                    "fr-FR": "Remportez une course avec un pilote officiel de la catégorie Moto2, dans n'importe quel mode",
+                    "it-IT": "Vinci una gara con un pilota ufficiale della categoria Moto2, in qualsiasi modalità di gioco"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "26.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "Ganz am Anfang",
+                    "en-US": "The Beginning",
+                    "es-ES": "El comienzo",
+                    "fr-FR": "Les débuts",
+                    "it-IT": "L'inizio"
+                },
+                "description": {
+                    "de-DE": "Gewinn in einem beliebigen Modus ein Rennen mit einem offiziellen Fahrer aus der Moto3-Klasse",
+                    "en-US": "Win a race with an official rider from the Moto3 class, in any game mode",
+                    "es-ES": "Gana una carrera con un piloto oficial de la clase Moto3 en cualquier modo de juego",
+                    "fr-FR": "Remportez une course avec un pilote officiel de la catégorie Moto3, dans n'importe quel mode",
+                    "it-IT": "Vinci una gara con un pilota ufficiale della categoria Moto3, in qualsiasi modalità di gioco"
+                },
+                "howto": {
+                    "de-DE": "Gewinn in einem beliebigen Modus ein Rennen mit einem offiziellen Fahrer aus der Moto3-Klasse",
+                    "en-US": "Win a race with an official rider from the Moto3 class, in any game mode",
+                    "es-ES": "Gana una carrera con un piloto oficial de la clase Moto3 en cualquier modo de juego",
+                    "fr-FR": "Remportez une course avec un pilote officiel de la catégorie Moto3, dans n'importe quel mode",
+                    "it-IT": "Vinci una gara con un pilota ufficiale della categoria Moto3, in qualsiasi modalità di gioco"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "27.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "Schneller! Schneller!",
+                    "en-US": "Faster! Faster!",
+                    "es-ES": "¡Más rápido! ¡Más rápido!",
+                    "fr-FR": "Toujours plus vite !",
+                    "it-IT": "Più veloce! Più veloce!"
+                },
+                "description": {
+                    "de-DE": "Erreich in einem beliebigen Spielmodus 340 km/h - 211 mph",
+                    "en-US": "Reach 340 km/h - 211 mph in any game mode",
+                    "es-ES": "Alcanza 340 km/h - 211 mph en cualquier modo de juego",
+                    "fr-FR": "Atteignez 340 km/h dans n'importe quel mode de jeu",
+                    "it-IT": "Raggiungi i 340 km/h - 211 mph in qualsiasi modalità di gioco"
+                },
+                "howto": {
+                    "de-DE": "Erreich in einem beliebigen Spielmodus 340 km/h - 211 mph",
+                    "en-US": "Reach 340 km/h - 211 mph in any game mode",
+                    "es-ES": "Alcanza 340 km/h - 211 mph en cualquier modo de juego",
+                    "fr-FR": "Atteignez 340 km/h dans n'importe quel mode de jeu",
+                    "it-IT": "Raggiungi i 340 km/h - 211 mph in qualsiasi modalità di gioco"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "28.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein Champion der Geschichte",
+                    "en-US": "A champion of the past",
+                    "es-ES": "Un campeón del pasado",
+                    "fr-FR": "Le passé a son champion.",
+                    "it-IT": "Campione del passato"
+                },
+                "description": {
+                    "de-DE": "Gewinn in irgendeinem Modus ein Rennen mit einem offiziellen Fahrer der Zweitakt-Champions-Klasse",
+                    "en-US": "Win a race with an official rider from the 2-Stroke Champions class, in any game mode",
+                    "es-ES": "Gana una carrera con un piloto oficial de la clase Campeones de 2 tiempos en cualquier modo de juego",
+                    "fr-FR": "Gagnez une course avec un pilote officiel de la catégorie Épreuves 2 tps, dans n'importe quel mode",
+                    "it-IT": "Vinci una gara con un pilota ufficiale della categoria Campioni 2 tempi, in qualsiasi modalità"
+                },
+                "howto": {
+                    "de-DE": "Gewinn in irgendeinem Modus ein Rennen mit einem offiziellen Fahrer der Zweitakt-Champions-Klasse",
+                    "en-US": "Win a race with an official rider from the 2-Stroke Champions class, in any game mode",
+                    "es-ES": "Gana una carrera con un piloto oficial de la clase Campeones de 2 tiempos en cualquier modo de juego",
+                    "fr-FR": "Gagnez une course avec un pilote officiel de la catégorie Épreuves 2 tps, dans n'importe quel mode",
+                    "it-IT": "Vinci una gara con un pilota ufficiale della categoria Campioni 2 tempi, in qualsiasi modalità"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "29.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Die fliegenden Flügel!",
+                    "en-US": "The flying wings!",
+                    "es-ES": "¡Las alas voladoras!",
+                    "fr-FR": "Déployez vos ailes !",
+                    "it-IT": "Con le ali ai piedi"
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen mit einem Bike vom Repsol Honda Team",
+                    "en-US": "Win a race with a Repsol Honda Team bike in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera con una moto del Equipo Honda Repsol en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course avec une moto de l'écurie Repsol Honda en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara con una moto del Repsol Honda Team MotoGP in qualsiasi modalità di gioco"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen mit einem Bike vom Repsol Honda Team",
+                    "en-US": "Win a race with a Repsol Honda Team bike in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera con una moto del Equipo Honda Repsol en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course avec une moto de l'écurie Repsol Honda en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara con una moto del Repsol Honda Team MotoGP in qualsiasi modalità di gioco"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "30.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Die schnellste Gabel",
+                    "en-US": "The fastest diapason",
+                    "es-ES": "La diapasón más rápida",
+                    "fr-FR": "Tous au diapason",
+                    "it-IT": "Il diapason più veloce"
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen mit einem Bike vom Team Movistar Yamaha MotoGP",
+                    "en-US": "Win a race with a Movistar Yamaha MotoGP bike in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera con una moto del equipo Movistar Yamaha MotoGP en modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course avec une moto Movistar Yamaha MotoGP en mode Carrière MotoGP™",
+                    "it-IT": "Vinci una gara con una moto Movistar Yamaha MotoGP in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen mit einem Bike vom Team Movistar Yamaha MotoGP",
+                    "en-US": "Win a race with a Movistar Yamaha MotoGP bike in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera con una moto del equipo Movistar Yamaha MotoGP en modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course avec une moto Movistar Yamaha MotoGP en mode Carrière MotoGP™",
+                    "it-IT": "Vinci una gara con una moto Movistar Yamaha MotoGP in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "31.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Es war eine lange Zeit",
+                    "en-US": "It was a long time",
+                    "es-ES": "Ha pasado mucho tiempo",
+                    "fr-FR": "Il y a bien longtemps",
+                    "it-IT": "Era da tanto tempo..."
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen mit einem Bike vom Team Suzuki",
+                    "en-US": "Win a race with a Team Suzuki MotoGP bike in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera con una moto del Equipo Suzuki MotoGP en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course avec une moto de l'écurie Suzuki en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara con una moto del Team Suzuki MotoGP in qualsiasi modalità di gioco"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen mit einem Bike vom Team Suzuki",
+                    "en-US": "Win a race with a Team Suzuki MotoGP bike in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera con una moto del Equipo Suzuki MotoGP en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course avec une moto de l'écurie Suzuki en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara con una moto del Team Suzuki MotoGP in qualsiasi modalità di gioco"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "32.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Zurück aus Italien",
+                    "en-US": "Back from Italy",
+                    "es-ES": "De regreso de Italia",
+                    "fr-FR": "Retour en Italie",
+                    "it-IT": "Ritorno all'italiana"
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen mit einem Bike vom Aprilia Racing Team Gresini",
+                    "en-US": "Win a race with an Aprilia Racing Team Gresini bike in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera con una moto Aprilia Racing Team Gresini en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course avec une moto de l'écurie Aprilia Racing Team Gresini en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara con una moto del Aprilia Racing Team Gresini MotoGP in qualsiasi modalità di gioco"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen mit einem Bike vom Aprilia Racing Team Gresini",
+                    "en-US": "Win a race with an Aprilia Racing Team Gresini bike in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera con una moto Aprilia Racing Team Gresini en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course avec une moto de l'écurie Aprilia Racing Team Gresini en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara con una moto del Aprilia Racing Team Gresini MotoGP in qualsiasi modalità di gioco"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "33.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Rote Baron",
+                    "en-US": "The Red Baron",
+                    "es-ES": "El Barón Rojo",
+                    "fr-FR": "Le baron rouge",
+                    "it-IT": "Il Barone Rosso"
+                },
+                "description": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen mit einem Bike vom Ducati Team",
+                    "en-US": "Win a race with a Ducati Team bike in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera con una moto del Equipo Ducati en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course avec une moto de l'écurie Ducati en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara con una moto del Ducati Team MotoGP in qualsiasi modalità di gioco"
+                },
+                "howto": {
+                    "de-DE": "Gewinn im MotoGP™-Karrieremodus ein Rennen mit einem Bike vom Ducati Team",
+                    "en-US": "Win a race with a Ducati Team bike in MotoGP™ Career mode",
+                    "es-ES": "Gana una carrera con una moto del Equipo Ducati en el modo Carrera de MotoGP™",
+                    "fr-FR": "Remportez une course avec une moto de l'écurie Ducati en mode carrière MotoGP™",
+                    "it-IT": "Vinci una gara con una moto del Ducati Team MotoGP in qualsiasi modalità di gioco"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "34.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Der halbe Weg geschafft",
+                    "en-US": "Halfway through",
+                    "es-ES": "A mitad de camino",
+                    "fr-FR": "À mi-chemin",
+                    "it-IT": "A metà strada"
+                },
+                "description": {
+                    "de-DE": "Unterschreib im MotoGP™-Karrieremodus einen Vertrag für eine Saison in der Moto2™ ",
+                    "en-US": "Sign a contract for a season in Moto2™ in MotoGP™ Career mode",
+                    "es-ES": "Firma un contrato por una temporada en Moto2™ en modo Carrera de MotoGP™",
+                    "fr-FR": "Signez un contrat pour une saison de Moto2™ en mode Carrière MotoGP™",
+                    "it-IT": "Firma un contratto per una stagione in Moto2™ in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Unterschreib im MotoGP™-Karrieremodus einen Vertrag für eine Saison in der Moto2™ ",
+                    "en-US": "Sign a contract for a season in Moto2™ in MotoGP™ Career mode",
+                    "es-ES": "Firma un contrato por una temporada en Moto2™ en modo Carrera de MotoGP™",
+                    "fr-FR": "Signez un contrat pour une saison de Moto2™ en mode Carrière MotoGP™",
+                    "it-IT": "Firma un contratto per una stagione in Moto2™ in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "35.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Vervollständigung der Arten",
+                    "en-US": "Evolution of the species",
+                    "es-ES": "La mejora de la especie",
+                    "fr-FR": "L'évolution à son apogée",
+                    "it-IT": "Il perfezionamento della specie"
+                },
+                "description": {
+                    "de-DE": "Schließ die technische Entwicklung eines Bikes mit all seinen Komponenten ab",
+                    "en-US": "Complete the technical development of all of a bike's components",
+                    "es-ES": "Termina el desarrollo técnico de una moto en todos sus componentes",
+                    "fr-FR": "Menez à bien le développement technique de tous les éléments d'une moto",
+                    "it-IT": "Completa lo sviluppo tecnico di una moto in ogni suo componente"
+                },
+                "howto": {
+                    "de-DE": "Schließ die technische Entwicklung eines Bikes mit all seinen Komponenten ab",
+                    "en-US": "Complete the technical development of all of a bike's components",
+                    "es-ES": "Termina el desarrollo técnico de una moto en todos sus componentes",
+                    "fr-FR": "Menez à bien le développement technique de tous les éléments d'une moto",
+                    "it-IT": "Completa lo sviluppo tecnico di una moto in ogni suo componente"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "36.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "Es wirkte so echt",
+                    "en-US": "It seemed real",
+                    "es-ES": "Parecía real",
+                    "fr-FR": "Tout comme en vrai",
+                    "it-IT": "Sembrava reale"
+                },
+                "description": {
+                    "de-DE": "Gewinn ein Rennen mit Pro-Fahrphysik, Reifenabnutzung und Bike-Schaden in irgendeinem Spielmodus",
+                    "en-US": "Win a race with pro physics, tyre wear, and bike damage activated in any game mode",
+                    "es-ES": "Gana una carrera en cualquier modo con física Pro, desgaste de neumáticos y daño de moto activados",
+                    "fr-FR": "Gagnez avec la physique, l'usure des pneus et les dégâts en option pro dans n'importe quel mode",
+                    "it-IT": "Vinci una gara con fisica pro, consumo gomme e danni attivati in qualsiasi modalità di gioco"
+                },
+                "howto": {
+                    "de-DE": "Gewinn ein Rennen mit Pro-Fahrphysik, Reifenabnutzung und Bike-Schaden in irgendeinem Spielmodus",
+                    "en-US": "Win a race with pro physics, tyre wear, and bike damage activated in any game mode",
+                    "es-ES": "Gana una carrera en cualquier modo con física Pro, desgaste de neumáticos y daño de moto activados",
+                    "fr-FR": "Gagnez avec la physique, l'usure des pneus et les dégâts en option pro dans n'importe quel mode",
+                    "it-IT": "Vinci una gara con fisica pro, consumo gomme e danni attivati in qualsiasi modalità di gioco"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "37.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "de-DE": "Zeitlich unbegrenzt",
+                    "en-US": "Time is not a limit",
+                    "es-ES": "El tiempo no es el límite",
+                    "fr-FR": "Le temps importe peu",
+                    "it-IT": "Il tempo non è un limite"
+                },
+                "description": {
+                    "de-DE": "Gewinn alle „Schlag die Zeit“-Events",
+                    "en-US": "Win all the Beat The Time events",
+                    "es-ES": "Gana todos los eventos Bate el tiempo",
+                    "fr-FR": "Remportez toutes les épreuves Temps à battre",
+                    "it-IT": "Vinci tutti gli eventi Beat The Time"
+                },
+                "howto": {
+                    "de-DE": "Gewinn alle „Schlag die Zeit“-Events",
+                    "en-US": "Win all the Beat The Time events",
+                    "es-ES": "Gana todos los eventos Bate el tiempo",
+                    "fr-FR": "Remportez toutes les épreuves Temps à battre",
+                    "it-IT": "Vinci tutti gli eventi Beat The Time"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "38.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "de-DE": "Es war einmal",
+                    "en-US": "Once upon a time",
+                    "es-ES": "Érase una vez",
+                    "fr-FR": "Il était une fois",
+                    "it-IT": "C'era una volta"
+                },
+                "description": {
+                    "de-DE": "Gewinn alle Events im Zweitakt-Events-Modus.",
+                    "en-US": "Win all the events in 2-Stroke Events mode",
+                    "es-ES": "Gana todos los eventos en el modo Eventos de 2 Tiempos",
+                    "fr-FR": "Remportez toutes les épreuves du mode Épreuves 2 temps.",
+                    "it-IT": "Vinci tutti gli eventi della modalità \"Eventi 2 tempi\""
+                },
+                "howto": {
+                    "de-DE": "Gewinn alle Events im Zweitakt-Events-Modus.",
+                    "en-US": "Win all the events in 2-Stroke Events mode",
+                    "es-ES": "Gana todos los eventos en el modo Eventos de 2 Tiempos",
+                    "fr-FR": "Remportez toutes les épreuves du mode Épreuves 2 temps.",
+                    "it-IT": "Vinci tutti gli eventi della modalità \"Eventi 2 tempi\""
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "39.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Garage ist voll",
+                    "en-US": "Garage completed",
+                    "es-ES": "Garaje completado",
+                    "fr-FR": "Garage plein",
+                    "it-IT": "Garage completo"
+                },
+                "description": {
+                    "de-DE": "Kauf im MotoGP™-Karrieremodus alle Bikes",
+                    "en-US": "Purchase all the bikes in the MotoGP™ Career mode",
+                    "es-ES": "Compra todas las motos en el modo Carrera de MotoGP™",
+                    "fr-FR": "Achetez toutes les motos du mode carrière MotoGP™",
+                    "it-IT": "Acquista tutte le moto della modalita Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Kauf im MotoGP™-Karrieremodus alle Bikes",
+                    "en-US": "Purchase all the bikes in the MotoGP™ Career mode",
+                    "es-ES": "Compra todas las motos en el modo Carrera de MotoGP™",
+                    "fr-FR": "Achetez toutes les motos du mode carrière MotoGP™",
+                    "it-IT": "Acquista tutte le moto della modalita Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "30",
+            "imageId": "40.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "de-DE": "Als wir das letzte Mal da waren",
+                    "en-US": "The last time we were there",
+                    "es-ES": "La última vez que estuvimos allí",
+                    "fr-FR": "Comme un air de déjà-vu",
+                    "it-IT": "L'ultima volta che eravamo li"
+                },
+                "description": {
+                    "de-DE": "Gewinn alle Real Events der Saison 2014",
+                    "en-US": "Win all the Real Events from the 2014 season",
+                    "es-ES": "Gana todos los eventos reales de la temporada 2014",
+                    "fr-FR": "Remportez tous les Événements réels de la saison 2014",
+                    "it-IT": "Vinci tutti gli Eventi Reali della stagione 2014."
+                },
+                "howto": {
+                    "de-DE": "Gewinn alle Real Events der Saison 2014",
+                    "en-US": "Win all the Real Events from the 2014 season",
+                    "es-ES": "Gana todos los eventos reales de la temporada 2014",
+                    "fr-FR": "Remportez tous les Événements réels de la saison 2014",
+                    "it-IT": "Vinci tutti gli Eventi Reali della stagione 2014."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "41.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "Social-Fahrer",
+                    "en-US": "Social rider",
+                    "es-ES": "Piloto social",
+                    "fr-FR": "Des points en ligne",
+                    "it-IT": "Pilota Sociale"
+                },
+                "description": {
+                    "de-DE": "Schließ 25 Online-Rennen ab",
+                    "en-US": "Complete 25 races online",
+                    "es-ES": "Completa 25 carreras en línea",
+                    "fr-FR": "Terminez 25 courses en ligne",
+                    "it-IT": "Completa 25 gare online"
+                },
+                "howto": {
+                    "de-DE": "Schließ 25 Online-Rennen ab",
+                    "en-US": "Complete 25 races online",
+                    "es-ES": "Completa 25 carreras en línea",
+                    "fr-FR": "Terminez 25 courses en ligne",
+                    "it-IT": "Completa 25 gare online"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "30",
+            "imageId": "42.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "Deine Chance!",
+                    "en-US": "Your chance!",
+                    "es-ES": "¡Es tu oportunidad!",
+                    "fr-FR": "Une chance à saisir",
+                    "it-IT": "La tua occasione!"
+                },
+                "description": {
+                    "de-DE": "Unterschreib im MotoGP™-Karrieremodus einen Vertrag bei einem MotoGP™-Team",
+                    "en-US": "Sign a contract with a MotoGP™ team in MotoGP™ Career mode",
+                    "es-ES": "Firma un contrato con un equipo de MotoGP™ en modo Carrera de MotoGP™",
+                    "fr-FR": "Signez un contrat avec un team MotoGP™ en mode Carrière MotoGP™",
+                    "it-IT": "Firma un contratto con un team MotoGP™ in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Unterschreib im MotoGP™-Karrieremodus einen Vertrag bei einem MotoGP™-Team",
+                    "en-US": "Sign a contract with a MotoGP™ team in MotoGP™ Career mode",
+                    "es-ES": "Firma un contrato con un equipo de MotoGP™ en modo Carrera de MotoGP™",
+                    "fr-FR": "Signez un contrat avec un team MotoGP™ en mode Carrière MotoGP™",
+                    "it-IT": "Firma un contratto con un team MotoGP™ in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "90",
+            "imageId": "43.png"
+        },
+        "51": {
+            "text": {
+                "name": {
+                    "de-DE": "Milan-Valencia – nur Hinfahrt",
+                    "en-US": "Milan - Valencia one way",
+                    "es-ES": "Milán-Valencia solo ida",
+                    "fr-FR": "De Milan à Valence",
+                    "it-IT": "Milano - Valencia sola andata"
+                },
+                "description": {
+                    "de-DE": "Fahr insgesamt 1335 km - 830 mi in allen Spielmodi",
+                    "en-US": "Accumulate a total of 1335 Km - 830 mi ridden in any game mode",
+                    "es-ES": "Acumula un total de 1335 Km - 830 millas en cualquier modo de juego",
+                    "fr-FR": "Parcourez 1335 km dans n'importe quel mode de jeu",
+                    "it-IT": "Accumula 1335 Km - 830 mi percorsi in qualsiasi modalità di gioco"
+                },
+                "howto": {
+                    "de-DE": "Fahr insgesamt 1335 km - 830 mi in allen Spielmodi",
+                    "en-US": "Accumulate a total of 1335 Km - 830 mi ridden in any game mode",
+                    "es-ES": "Acumula un total de 1335 Km - 830 millas en cualquier modo de juego",
+                    "fr-FR": "Parcourez 1335 km dans n'importe quel mode de jeu",
+                    "it-IT": "Accumula 1335 Km - 830 mi percorsi in qualsiasi modalità di gioco"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "90",
+            "imageId": "44.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "de-DE": "Weltmeister",
+                    "en-US": "World Champion",
+                    "es-ES": "Campeón del mundo",
+                    "fr-FR": "Champion du monde",
+                    "it-IT": "Campione del Mondo"
+                },
+                "description": {
+                    "de-DE": "Werde im MotoGP™-Karrieremodus Weltmeister der MotoGP™",
+                    "en-US": "Become MotoGP™ world champion in MotoGP™ Career mode",
+                    "es-ES": "Conviértete en el campeón del mundo de MotoGP™ en el modo Carrera de MotoGP™",
+                    "fr-FR": "Devenez le champion du mode MotoGP™ en mode carrière MotoGP™",
+                    "it-IT": "Diventa campione del mondo in MotoGP™ in modalità Carriera MotoGP™"
+                },
+                "howto": {
+                    "de-DE": "Werde im MotoGP™-Karrieremodus Weltmeister der MotoGP™",
+                    "en-US": "Become MotoGP™ world champion in MotoGP™ Career mode",
+                    "es-ES": "Conviértete en el campeón del mundo de MotoGP™ en el modo Carrera de MotoGP™",
+                    "fr-FR": "Devenez le champion du mode MotoGP™ en mode carrière MotoGP™",
+                    "it-IT": "Diventa campione del mondo in MotoGP™ in modalità Carriera MotoGP™"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "90",
+            "imageId": "45.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "de-DE": "Alle Sterne am Himmel",
+                    "en-US": "Every star in the sky",
+                    "es-ES": "Todas las estrellas del cielo",
+                    "fr-FR": "Une constellation d'étoiles",
+                    "it-IT": "Tutte le stelle del firmamento"
+                },
+                "description": {
+                    "de-DE": "Schalt alle Fahrer des Spiels frei",
+                    "en-US": "Unlock all the riders in the game",
+                    "es-ES": "Desbloquea todos los pilotos del juego",
+                    "fr-FR": "Déverrouillez tous les pilotes du jeu",
+                    "it-IT": "Sblocca tutti i piloti del gioco"
+                },
+                "howto": {
+                    "de-DE": "Schalt alle Fahrer des Spiels frei",
+                    "en-US": "Unlock all the riders in the game",
+                    "es-ES": "Desbloquea todos los pilotos del juego",
+                    "fr-FR": "Déverrouillez tous les pilotes du jeu",
+                    "it-IT": "Sblocca tutti i piloti del gioco"
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "90",
+            "imageId": "46.png"
+        }
+    }
+}
