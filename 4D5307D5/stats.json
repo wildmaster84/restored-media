@@ -1319,6 +1319,366 @@
             "info": "Rating",
             "method": "sum",
             "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000000C": {
+            "info": "Matches Played",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000D": {
+            "info": "Matches Won",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000000E": {
+            "info": "Matches Lost",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000000F": {
+            "info": "Rounds Played",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000010": {
+            "info": "RoundsWon",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000011": {
+            "info": "Rounds Lost",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10000012": {
+            "info": "Rounds Draw",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x1000001B": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 18
+        },
+        "0x10000008": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x10000007": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 9
+        },
+        "0x10000013": {
+            "info": "Head Shots",
+            "method": "sum",
+            "statId": 10
+        },
+        "0x10000014": {
+            "info": "Executions",
+            "method": "sum",
+            "statId": 11
+        },
+        "0x10000015": {
+            "info": "Chainsaw Kills",
+            "method": "sum",
+            "statId": 12
+        },
+        "0x10000016": {
+            "info": "Curb Stomp Kills",
+            "method": "sum",
+            "statId": 13
+        },
+        "0x10000017": {
+            "info": "Melee Kills",
+            "method": "sum",
+            "statId": 14
+        },
+        "0x1000001C": {
+            "info": "Grenade Tag Kills",
+            "method": "sum",
+            "statId": 19
+        },
+        "0x10000018": {
+            "info": "Suicides",
+            "method": "sum",
+            "statId": 15
+        },
+        "0x10000019": {
+            "info": "Revives",
+            "method": "sum",
+            "statId": 16
+        },
+        "0x1000001A": {
+            "info": "Knockdowns",
+            "method": "sum",
+            "statId": 17
+        },
+        "0x20000009": {
+            "info": "Rating",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x1000001D": {
+            "info": "Captures",
+            "method": "sum",
+            "statId": 20
+        },
+        "0x1000001E": {
+            "info": "Breaks",
+            "method": "sum",
+            "statId": 21
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000000C": {
+            "info": "Matches Played",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000D": {
+            "info": "Matches Won",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000000E": {
+            "info": "Matches Lost",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000001E": {
+            "info": "Breaks",
+            "method": "sum",
+            "statId": 21
+        },
+        "0x1000000F": {
+            "info": "Rounds Played",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000010": {
+            "info": "RoundsWon",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000011": {
+            "info": "Rounds Lost",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10000012": {
+            "info": "Rounds Draw",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x1000001B": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 18
+        },
+        "0x10000008": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x10000007": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 9
+        },
+        "0x10000013": {
+            "info": "Head Shots",
+            "method": "sum",
+            "statId": 10
+        },
+        "0x10000014": {
+            "info": "Executions",
+            "method": "sum",
+            "statId": 11
+        },
+        "0x10000015": {
+            "info": "Chainsaw Kills",
+            "method": "sum",
+            "statId": 12
+        },
+        "0x10000016": {
+            "info": "Curb Stomp Kills",
+            "method": "sum",
+            "statId": 13
+        },
+        "0x10000017": {
+            "info": "Melee Kills",
+            "method": "sum",
+            "statId": 14
+        },
+        "0x1000001C": {
+            "info": "Grenade Tag Kills",
+            "method": "sum",
+            "statId": 19
+        },
+        "0x10000018": {
+            "info": "Suicides",
+            "method": "sum",
+            "statId": 15
+        },
+        "0x10000019": {
+            "info": "Revives",
+            "method": "sum",
+            "statId": 16
+        },
+        "0x1000001A": {
+            "info": "Knockdowns",
+            "method": "sum",
+            "statId": 17
+        },
+        "0x20000009": {
+            "info": "Rating",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x1000001D": {
+            "info": "Captures",
+            "method": "sum",
+            "statId": 20
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000000C": {
+            "info": "Matches Played",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000000D": {
+            "info": "Matches Won",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000000E": {
+            "info": "Matches Lost",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000000F": {
+            "info": "Rounds Played",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000010": {
+            "info": "RoundsWon",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000011": {
+            "info": "Rounds Lost",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10000012": {
+            "info": "Rounds Draw",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x1000001B": {
+            "info": "Points",
+            "method": "sum",
+            "statId": 18
+        },
+        "0x10000008": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x10000007": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 9
+        },
+        "0x10000013": {
+            "info": "Head Shots",
+            "method": "sum",
+            "statId": 10
+        },
+        "0x10000014": {
+            "info": "Executions",
+            "method": "sum",
+            "statId": 11
+        },
+        "0x10000015": {
+            "info": "Chainsaw Kills",
+            "method": "sum",
+            "statId": 12
+        },
+        "0x10000016": {
+            "info": "Curb Stomp Kills",
+            "method": "sum",
+            "statId": 13
+        },
+        "0x10000017": {
+            "info": "Melee Kills",
+            "method": "sum",
+            "statId": 14
+        },
+        "0x1000001C": {
+            "info": "Grenade Tag Kills",
+            "method": "sum",
+            "statId": 19
+        },
+        "0x10000018": {
+            "info": "Suicides",
+            "method": "sum",
+            "statId": 15
+        },
+        "0x10000019": {
+            "info": "Revives",
+            "method": "sum",
+            "statId": 16
+        },
+        "0x1000001A": {
+            "info": "Knockdowns",
+            "method": "sum",
+            "statId": 17
+        },
+        "0x20000009": {
+            "info": "Rating",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x1000001D": {
+            "info": "Captures",
+            "method": "sum",
+            "statId": 20
+        },
+        "0x1000001E": {
+            "info": "Breaks",
+            "method": "sum",
+            "statId": 21
         }
     }
 }
