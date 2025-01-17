@@ -1,0 +1,3254 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "BIS DER ARZT KOMMT",
+                    "en-US": "PRICE CHOPPER",
+                    "es-ES": "REBAJAS Y ALTIBAJOS",
+                    "fr-FR": "SURVIVANT A TOUT PRIX",
+                    "it-IT": "AMANTE DELLO SHOPPING",
+                    "ja-JP": "プライス・チョッパー",
+                    "ko-KR": "가격 파괴자",
+                    "pl-PL": "OSTRE CIĘCIE CEN",
+                    "pt-PT": "VALOR DO HELICÓPTERO",
+                    "ru-RU": "ОХОТНИК ЗА СКИДКАМИ",
+                    "zh-CHT": "強死人不償命",
+                    "zh-CN": "食品超级市场"
+                },
+                "description": {
+                    "de-DE": "Überstehen Sie die Kampagne 'Infektionszentrum'.",
+                    "en-US": "Survive the Dead Center campaign.",
+                    "es-ES": "Sobrevive a la campaña Punto muerto.",
+                    "fr-FR": "Terminez la campagne Centre de la mort.",
+                    "it-IT": "Sopravvivi alla campagna Centro di morte.",
+                    "ja-JP": "キャンペーン「デッド・センター」を生き延びる",
+                    "ko-KR": "죽음의 센터 캠페인에서 살아남으십시오.",
+                    "pl-PL": "Przetrwaj kampanię „W centrum zarazy”.",
+                    "pt-PT": "Sobreviva à campanha Centro da Morte.",
+                    "ru-RU": "Пройдите кампанию 'Вымерший Центр'",
+                    "zh-CHT": "在「死亡中心」戰役中存活下來。",
+                    "zh-CN": "在死亡中心战役中取得胜利。"
+                },
+                "howto": {
+                    "de-DE": "Überstehen Sie die Kampagne 'Infektionszentrum'.",
+                    "en-US": "Survive the Dead Center campaign.",
+                    "es-ES": "Sobrevive a la campaña Punto muerto.",
+                    "fr-FR": "Terminez la campagne Centre de la mort.",
+                    "it-IT": "Sopravvivi alla campagna Centro di morte.",
+                    "ja-JP": "キャンペーン「デッド・センター」を生き延びる",
+                    "ko-KR": "죽음의 센터 캠페인에서 살아남으십시오.",
+                    "pl-PL": "Przetrwaj kampanię „W centrum zarazy”.",
+                    "pt-PT": "Sobreviva à campanha Centro da Morte.",
+                    "ru-RU": "Пройдите кампанию 'Вымерший Центр'",
+                    "zh-CHT": "在「死亡中心」戰役中存活下來。",
+                    "zh-CN": "在死亡中心战役中取得胜利。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "MIDNIGHT RIDER",
+                    "en-US": "MIDNIGHT RIDER",
+                    "es-ES": "CONCIERTO PARA ELLOS",
+                    "fr-FR": "MIDNIGHT RIDER",
+                    "it-IT": "MIDNIGHT RIDER",
+                    "ja-JP": "ミッドナイト・ライダー",
+                    "ko-KR": "미드나잇 라이더",
+                    "pl-PL": "MIDNIGHT RIDER",
+                    "pt-PT": "CAVALEIRO DA MEIA-NOITE",
+                    "ru-RU": "ПОЛУНОЧНЫЙ ВСАДНИК",
+                    "zh-CHT": "暗夜騎士",
+                    "zh-CN": "午夜骑士"
+                },
+                "description": {
+                    "de-DE": "Überstehen Sie die Kampagne 'Dunkler Karneval'.",
+                    "en-US": "Survive the Dark Carnival campaign.",
+                    "es-ES": "Sobrevive a la campaña Feria siniestra.",
+                    "fr-FR": "Terminez la campagne Lugubre carnaval.",
+                    "it-IT": "Sopravvivi alla campagna Luna-park lugubre.",
+                    "ja-JP": "キャンペーン「ダーク・カーニバル」を生き延びる",
+                    "ko-KR": "암흑 축제 캠페인에서 살아남으십시오.",
+                    "pl-PL": "Przetrwaj kampanię „Karnawał śmierci”.",
+                    "pt-PT": "Sobreviva à campanha Carnaval Macabro.",
+                    "ru-RU": "Пройдите кампанию 'Мрачный Карнавал'",
+                    "zh-CHT": "在「黑色嘉年華」戰役中存活下來。",
+                    "zh-CN": "在黑色狂欢节战役中取得胜利"
+                },
+                "howto": {
+                    "de-DE": "Überstehen Sie die Kampagne 'Dunkler Karneval'.",
+                    "en-US": "Survive the Dark Carnival campaign.",
+                    "es-ES": "Sobrevive a la campaña Feria siniestra.",
+                    "fr-FR": "Terminez la campagne Lugubre carnaval.",
+                    "it-IT": "Sopravvivi alla campagna Luna-park lugubre.",
+                    "ja-JP": "キャンペーン「ダーク・カーニバル」を生き延びる",
+                    "ko-KR": "암흑 축제 캠페인에서 살아남으십시오.",
+                    "pl-PL": "Przetrwaj kampanię „Karnawał śmierci”.",
+                    "pt-PT": "Sobreviva à campanha Carnaval Macabro.",
+                    "ru-RU": "Пройдите кампанию 'Мрачный Карнавал'",
+                    "zh-CHT": "在「黑色嘉年華」戰役中存活下來。",
+                    "zh-CN": "在黑色狂欢节战役中取得胜利"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "VERSUMPFT",
+                    "en-US": "RAGIN' CAJUN",
+                    "es-ES": "CAJÚN AL RESCATE",
+                    "fr-FR": "CAJUN EN FURIE",
+                    "it-IT": "VERO CAJUN",
+                    "ja-JP": "レイジング・ケージャン",
+                    "ko-KR": "맹렬한 지역",
+                    "pl-PL": "KRÓL ALIGATORÓW",
+                    "pt-PT": "CAJUN ENFURECIDO",
+                    "ru-RU": "РАЗЪЯРЕННЫЙ ЮЖАНИН",
+                    "zh-CHT": "瘋狂紅番",
+                    "zh-CN": "RAGIN' CAJUN"
+                },
+                "description": {
+                    "de-DE": "Überstehen Sie die Kampagne 'Sumpffieber'.",
+                    "en-US": "Survive the Swamp Fever campaign.",
+                    "es-ES": "Sobrevive a la campaña Pantanos.",
+                    "fr-FR": "Terminez la campagne Marais infectés.",
+                    "it-IT": "Sopravvivi alla campagna Febbri di palude.",
+                    "ja-JP": "キャンペーン「スワンプ・フィーバー」を生き延びる",
+                    "ko-KR": "말라리아 캠페인에서 살아남으십시오.",
+                    "pl-PL": "Przetrwaj kampanię „Bagienna gorączka”.",
+                    "pt-PT": "Sobreviva à campanha Febre do Pântano.",
+                    "ru-RU": "Пройдите кампанию 'Болотная Лихорадка'",
+                    "zh-CHT": "在「沼澤瘧疾」戰役中存活下來。",
+                    "zh-CN": "在沼泽激战战役中取得胜利。"
+                },
+                "howto": {
+                    "de-DE": "Überstehen Sie die Kampagne 'Sumpffieber'.",
+                    "en-US": "Survive the Swamp Fever campaign.",
+                    "es-ES": "Sobrevive a la campaña Pantanos.",
+                    "fr-FR": "Terminez la campagne Marais infectés.",
+                    "it-IT": "Sopravvivi alla campagna Febbri di palude.",
+                    "ja-JP": "キャンペーン「スワンプ・フィーバー」を生き延びる",
+                    "ko-KR": "말라리아 캠페인에서 살아남으십시오.",
+                    "pl-PL": "Przetrwaj kampanię „Bagienna gorączka”.",
+                    "pt-PT": "Sobreviva à campanha Febre do Pântano.",
+                    "ru-RU": "Пройдите кампанию 'Болотная Лихорадка'",
+                    "zh-CHT": "在「沼澤瘧疾」戰役中存活下來。",
+                    "zh-CN": "在沼泽激战战役中取得胜利。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "WELLENBRECHER",
+                    "en-US": "WEATHERMAN",
+                    "es-ES": "AGUANTANDO EL CHAPARRÓN",
+                    "fr-FR": "METEOROLOGUE",
+                    "it-IT": "L'UOMO DELLA PIOGGIA",
+                    "ja-JP": "ウェザーマン",
+                    "ko-KR": "기상학자",
+                    "pl-PL": "ZAKLINACZ DESZCZU",
+                    "pt-PT": "METEOROLOGISTA",
+                    "ru-RU": "МЕТЕОРОЛОГ",
+                    "zh-CHT": "暴雨獵人",
+                    "zh-CN": "气象专家"
+                },
+                "description": {
+                    "de-DE": "Überstehen Sie die Kampagne 'Sturmflut'.",
+                    "en-US": "Survive the Hard Rain campaign.",
+                    "es-ES": "Sobrevive a la campaña El diluvio.",
+                    "fr-FR": "Terminez la campagne Pluies diluviennes.",
+                    "it-IT": "Sopravvivi alla campagna Pioggia battente.",
+                    "ja-JP": "キャンペーン「ハード・レイン」を生き延びる",
+                    "ko-KR": "장대비 캠페인에서 살아남으십시오.",
+                    "pl-PL": "Przetrwaj kampanię „Krwawa ulewa”.",
+                    "pt-PT": "Sobreviva à campanha Chuva Pesada.",
+                    "ru-RU": "Пройдите кампанию 'Ужасный Ливень'",
+                    "zh-CHT": "在「大雨」戰役中存活下來。",
+                    "zh-CN": "在暴风骤雨战役中取得胜利。"
+                },
+                "howto": {
+                    "de-DE": "Überstehen Sie die Kampagne 'Sturmflut'.",
+                    "en-US": "Survive the Hard Rain campaign.",
+                    "es-ES": "Sobrevive a la campaña El diluvio.",
+                    "fr-FR": "Terminez la campagne Pluies diluviennes.",
+                    "it-IT": "Sopravvivi alla campagna Pioggia battente.",
+                    "ja-JP": "キャンペーン「ハード・レイン」を生き延びる",
+                    "ko-KR": "장대비 캠페인에서 살아남으십시오.",
+                    "pl-PL": "Przetrwaj kampanię „Krwawa ulewa”.",
+                    "pt-PT": "Sobreviva à campanha Chuva Pesada.",
+                    "ru-RU": "Пройдите кампанию 'Ужасный Ливень'",
+                    "zh-CHT": "在「大雨」戰役中存活下來。",
+                    "zh-CN": "在暴风骤雨战役中取得胜利。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "BRÜCKENFEUER",
+                    "en-US": "BRIDGE BURNER",
+                    "es-ES": "UN PUENTE MUY LEJANO",
+                    "fr-FR": "DESTRUCTEUR DE PONTS",
+                    "it-IT": "DISTRUTTORE DI PONTI",
+                    "ja-JP": "ブリッジ・バーナー",
+                    "ko-KR": "다리 방화범",
+                    "pl-PL": "SPALACZ MOSTÓW",
+                    "pt-PT": "INCENDIÁRIO DE PONTES",
+                    "ru-RU": "СЖИГАЮЩИЙ МОСТЫ",
+                    "zh-CHT": "燒橋專家",
+                    "zh-CN": "桥梁焚烧者"
+                },
+                "description": {
+                    "de-DE": "Überstehen Sie die Kampagne 'Die Gemeinde'.",
+                    "en-US": "Survive the Parish campaign.",
+                    "es-ES": "Sobrevive a la campaña La parroquia.",
+                    "fr-FR": "Terminez la campagne La Paroisse.",
+                    "it-IT": "Sopravvivi alla campagna Parrocchia.",
+                    "ja-JP": "キャンペーン「ザ・パリッシュ」を生き延びる",
+                    "ko-KR": "교구 캠페인에서 살아남으십시오.",
+                    "pl-PL": "Przetrwaj kampanię „Parafia”.",
+                    "pt-PT": "Sobreviva à campanha Comunidade.",
+                    "ru-RU": "Пройдите кампанию 'Приход'",
+                    "zh-CHT": "在「教區」戰役中存活下來。",
+                    "zh-CN": "在教区战役中取得胜利。"
+                },
+                "howto": {
+                    "de-DE": "Überstehen Sie die Kampagne 'Die Gemeinde'.",
+                    "en-US": "Survive the Parish campaign.",
+                    "es-ES": "Sobrevive a la campaña La parroquia.",
+                    "fr-FR": "Terminez la campagne La Paroisse.",
+                    "it-IT": "Sopravvivi alla campagna Parrocchia.",
+                    "ja-JP": "キャンペーン「ザ・パリッシュ」を生き延びる",
+                    "ko-KR": "교구 캠페인에서 살아남으십시오.",
+                    "pl-PL": "Przetrwaj kampanię „Parafia”.",
+                    "pt-PT": "Sobreviva à campanha Comunidade.",
+                    "ru-RU": "Пройдите кампанию 'Приход'",
+                    "zh-CHT": "在「教區」戰役中存活下來。",
+                    "zh-CN": "在教区战役中取得胜利。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "ÜBERFLIEGER",
+                    "en-US": "STILL SOMETHING TO PROVE",
+                    "es-ES": "AÚN TENGO ALGO QUE DEMOSTRAR",
+                    "fr-FR": "DEFI PERSONNEL",
+                    "it-IT": "QUALCOSA DA DIMOSTRARE",
+                    "ja-JP": "まだ証明したいことがある",
+                    "ko-KR": "여전히 증명 필요",
+                    "pl-PL": "COŚ DO UDOWODNIENIA",
+                    "pt-PT": "AINDA ALGO A PROVAR",
+                    "ru-RU": "ЕЩЕ ЕСТЬ ЧТО ДОКАЗАТЬ",
+                    "zh-CHT": "真金不怕火煉",
+                    "zh-CN": "有待证明"
+                },
+                "description": {
+                    "de-DE": "Überstehen Sie alle Kampagnen im Schwierigkeitsgrad 'Experte'.",
+                    "en-US": "Survive all campaigns on Expert.",
+                    "es-ES": "Sobrevive a todas las campañas en Experto.",
+                    "fr-FR": "Terminez la totalité des campagnes en mode Expert.",
+                    "it-IT": "Sopravvivi a tutte le campagne a livello Esperto.",
+                    "ja-JP": "難易度Expertですべてのキャンペーンをクリアする",
+                    "ko-KR": "전문가 난이도의 모든 캠페인에서 살아남으십시오.",
+                    "pl-PL": "Przetrwaj wszystkie kampanie na poziomie Ekspert.",
+                    "pt-PT": "Sobreviva a todas as campanhas no modo Especialista.",
+                    "ru-RU": "Пройдите все кампании на экспертном уровне сложности",
+                    "zh-CHT": "在「專家」模式中，通過所有戰役並存活下來。",
+                    "zh-CN": "成功完成等级为“专家”的所有战役。"
+                },
+                "howto": {
+                    "de-DE": "Überstehen Sie alle Kampagnen im Schwierigkeitsgrad 'Experte'.",
+                    "en-US": "Survive all campaigns on Expert.",
+                    "es-ES": "Sobrevive a todas las campañas en Experto.",
+                    "fr-FR": "Terminez la totalité des campagnes en mode Expert.",
+                    "it-IT": "Sopravvivi a tutte le campagne a livello Esperto.",
+                    "ja-JP": "難易度Expertですべてのキャンペーンをクリアする",
+                    "ko-KR": "전문가 난이도의 모든 캠페인에서 살아남으십시오.",
+                    "pl-PL": "Przetrwaj wszystkie kampanie na poziomie Ekspert.",
+                    "pt-PT": "Sobreviva a todas as campanhas no modo Especialista.",
+                    "ru-RU": "Пройдите все кампании на экспертном уровне сложности",
+                    "zh-CHT": "在「專家」模式中，通過所有戰役並存活下來。",
+                    "zh-CN": "成功完成等级为“专家”的所有战役。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "35",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "WENN SCHON, DENN SCHON",
+                    "en-US": "THE REAL DEAL",
+                    "es-ES": "PONGÁMONOS SERIOS",
+                    "fr-FR": "PLUS CRUELLE LA VIE",
+                    "it-IT": "LA DURA REALTÀ",
+                    "ja-JP": "リアリズムの求道者",
+                    "ko-KR": "사실주의",
+                    "pl-PL": "LEPIEJ NIE MOŻNA",
+                    "pt-PT": "A HORA DA VERDADE",
+                    "ru-RU": "НАСТОЯЩЕЕ ДЕЛО",
+                    "zh-CHT": "實戰老手",
+                    "zh-CN": "真正的交易"
+                },
+                "description": {
+                    "de-DE": "Überstehen Sie eine Kampagne im Schwierigkeitsgrad 'Experte' im Realism-Modus.",
+                    "en-US": "Survive a campaign on Expert skill with Realism mode enabled.",
+                    "es-ES": "Sobrevive una campaña en el nivel Experto en modo Realista.",
+                    "fr-FR": "Terminez une campagne en mode Expert avec le mode Réalisme activé.",
+                    "it-IT": "Sopravvivi a una campagna a livello Esperto in modalità Realtà.",
+                    "ja-JP": "難易度Expertのリアリズムモードでキャンペーンを1つ生き延びる",
+                    "ko-KR": "리얼리즘 모드 사용 시 전문가 난이도 기술의 캠페인에서 살아남으십시오.",
+                    "pl-PL": "Przetrwaj kampanię na poziomie Ekspert z włączonym trybem Realizm.",
+                    "pt-PT": "Sobreviva a uma campanha de perícia Especialista com o modo Realismo activado.",
+                    "ru-RU": "Пройдите кампанию на экспертном уровне сложности при включенном реализме",
+                    "zh-CHT": "在寫實模式中，以專家身手通過戰役並存活下來。",
+                    "zh-CN": "启用写实模式的情况下取得一场专家级战役的胜利。"
+                },
+                "howto": {
+                    "de-DE": "Überstehen Sie eine Kampagne im Schwierigkeitsgrad 'Experte' im Realism-Modus.",
+                    "en-US": "Survive a campaign on Expert skill with Realism mode enabled.",
+                    "es-ES": "Sobrevive una campaña en el nivel Experto en modo Realista.",
+                    "fr-FR": "Terminez une campagne en mode Expert avec le mode Réalisme activé.",
+                    "it-IT": "Sopravvivi a una campagna a livello Esperto in modalità Realtà.",
+                    "ja-JP": "難易度Expertのリアリズムモードでキャンペーンを1つ生き延びる",
+                    "ko-KR": "리얼리즘 모드 사용 시 전문가 난이도 기술의 캠페인에서 살아남으십시오.",
+                    "pl-PL": "Przetrwaj kampanię na poziomie Ekspert z włączonym trybem Realizm.",
+                    "pt-PT": "Sobreviva a uma campanha de perícia Especialista com o modo Realismo activado.",
+                    "ru-RU": "Пройдите кампанию на экспертном уровне сложности при включенном реализме",
+                    "zh-CHT": "在寫實模式中，以專家身手通過戰役並存活下來。",
+                    "zh-CN": "启用写实模式的情况下取得一场专家级战役的胜利。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "35",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "TUCHFÜHLUNG",
+                    "en-US": "CONFEDERACY OF CRUNCHES",
+                    "es-ES": "CONTUSIONES CONFEDERADAS",
+                    "fr-FR": "GUERRE FRONTALE",
+                    "it-IT": "TEPPISTA DA STRADA",
+                    "ja-JP": "粉々連合国",
+                    "ko-KR": "위기의 연합",
+                    "pl-PL": "SYMFONIA TRZASKU KOŚCI",
+                    "pt-PT": "CONFEDERAÇÃO DE TRITURAÇÕES",
+                    "ru-RU": "ТОЛЬКО РУКАМИ",
+                    "zh-CHT": "勇者無懼",
+                    "zh-CN": "危机联盟"
+                },
+                "description": {
+                    "de-DE": "Schließen Sie eine Kampagne ab, indem Sie ausschließlich Nahkampfwaffen verwenden.",
+                    "en-US": "Finish a campaign using only melee weapons.",
+                    "es-ES": "Acaba una campaña usando sólo armas cuerpo a cuerpo.",
+                    "fr-FR": "Terminez une campagne en utilisant uniquement des armes de corps à corps.",
+                    "it-IT": "Completa una campagna usando solo armi da corpo a corpo.",
+                    "ja-JP": "近接武器だけを使用してキャンペーンを1つクリアする",
+                    "ko-KR": "근접 무기만을 사용하여 캠페인을 완료하십시오.",
+                    "pl-PL": "Ukończ kampanię korzystając jedynie z broni do walki wręcz.",
+                    "pt-PT": "Termine uma campanha usando apenas armas corpo a corpo.",
+                    "ru-RU": "Пройдите кампанию, используя только рукопашное оружие",
+                    "zh-CHT": "只使用近戰武器完成戰役。",
+                    "zh-CN": "仅使用近战武器完成一个战役。"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie eine Kampagne ab, indem Sie ausschließlich Nahkampfwaffen verwenden.",
+                    "en-US": "Finish a campaign using only melee weapons.",
+                    "es-ES": "Acaba una campaña usando sólo armas cuerpo a cuerpo.",
+                    "fr-FR": "Terminez une campagne en utilisant uniquement des armes de corps à corps.",
+                    "it-IT": "Completa una campagna usando solo armi da corpo a corpo.",
+                    "ja-JP": "近接武器だけを使用してキャンペーンを1つクリアする",
+                    "ko-KR": "근접 무기만을 사용하여 캠페인을 완료하십시오.",
+                    "pl-PL": "Ukończ kampanię korzystając jedynie z broni do walki wręcz.",
+                    "pt-PT": "Termine uma campanha usando apenas armas corpo a corpo.",
+                    "ru-RU": "Пройдите кампанию, используя только рукопашное оружие",
+                    "zh-CHT": "只使用近戰武器完成戰役。",
+                    "zh-CN": "仅使用近战武器完成一个战役。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "KOPFLOS",
+                    "en-US": "HEAD HONCHO",
+                    "es-ES": "ZOMBIS PARTY",
+                    "fr-FR": "TETE A TETE",
+                    "it-IT": "CACCIATORE DI TESTE",
+                    "ja-JP": "ヘッド・ハント",
+                    "ko-KR": "우두머리",
+                    "pl-PL": "DEKAPITATOR",
+                    "pt-PT": "MENTE BRILHANTE",
+                    "ru-RU": "ГОЛОВОРЕЗ",
+                    "zh-CHT": "獵頭酋長",
+                    "zh-CN": "猎头者"
+                },
+                "description": {
+                    "de-DE": "Köpfen Sie 200 Infizierte mit einer Nahkampfwaffe.",
+                    "en-US": "Decapitate 200 Infected with a melee weapon.",
+                    "es-ES": "Decapita a 200 infectados con un arma cuerpo a cuerpo.",
+                    "fr-FR": "Décapitez 200 infectés à l'aide d'une arme de corps à corps.",
+                    "it-IT": "Decapita 200 Infected con un'arma da corpo a corpo.",
+                    "ja-JP": "近接武器を使って感染者の首を200回切り落とす",
+                    "ko-KR": "근접 무기로 좀비 200마리의 목을 베십시오.",
+                    "pl-PL": "Zetnij głowę 200 Zarażonym korzystając z broni do walki wręcz.",
+                    "pt-PT": "Decapite 200 Infectados com uma arma corpo a corpo.",
+                    "ru-RU": "Обезглавьте 200 Зараженных при помощи рукопашного оружия.",
+                    "zh-CHT": "使用近戰武器斬首 200 名感染者。",
+                    "zh-CN": "使用近战武器砍下 200 个被感染者的脑袋"
+                },
+                "howto": {
+                    "de-DE": "Köpfen Sie 200 Infizierte mit einer Nahkampfwaffe.",
+                    "en-US": "Decapitate 200 Infected with a melee weapon.",
+                    "es-ES": "Decapita a 200 infectados con un arma cuerpo a cuerpo.",
+                    "fr-FR": "Décapitez 200 infectés à l'aide d'une arme de corps à corps.",
+                    "it-IT": "Decapita 200 Infected con un'arma da corpo a corpo.",
+                    "ja-JP": "近接武器を使って感染者の首を200回切り落とす",
+                    "ko-KR": "근접 무기로 좀비 200마리의 목을 베십시오.",
+                    "pl-PL": "Zetnij głowę 200 Zarażonym korzystając z broni do walki wręcz.",
+                    "pt-PT": "Decapite 200 Infectados com uma arma corpo a corpo.",
+                    "ru-RU": "Обезглавьте 200 Зараженных при помощи рукопашного оружия.",
+                    "zh-CHT": "使用近戰武器斬首 200 名感染者。",
+                    "zh-CN": "使用近战武器砍下 200 个被感染者的脑袋"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "DURCHSCHLAGSKRAFT",
+                    "en-US": "CLUB DEAD",
+                    "es-ES": "DE CERCA ES MÁS DIVERTIDO",
+                    "fr-FR": "ENNEMI RAPPROCHE",
+                    "it-IT": "MAZZATA MORTALE",
+                    "ja-JP": "デッド・クラブ",
+                    "ko-KR": "죽은 자의 클럽",
+                    "pl-PL": "Z PAŁĄ NA TRUPA",
+                    "pt-PT": "CLUBE DOS MORTOS",
+                    "ru-RU": "ИЗБИЕНИЕ МЛАДЕНЦЕВ",
+                    "zh-CHT": "亂棒英雄",
+                    "zh-CN": "死亡俱乐部"
+                },
+                "description": {
+                    "de-DE": "Töten Sie Infizierte mit allen Nahkampfwaffen.",
+                    "en-US": "Use every melee weapon to kill Common Infected.",
+                    "es-ES": "Usa todos los tipos de arma cuerpo a cuerpo para matar infectados normales.",
+                    "fr-FR": "Utilisez toutes les armes de corps à corps pour tuer des infectés communs.",
+                    "it-IT": "Uccidi Infected comuni con tutte le armi da corpo a corpo.",
+                    "ja-JP": "全種類の近接武器を使って通常感染者を殺す",
+                    "ko-KR": "모든 근접 무기를 사용하여 일반 좀비를 죽이십시오.",
+                    "pl-PL": "Użyj każdej broni do walki wręcz, aby zabić zwykłych Zarażonych.",
+                    "pt-PT": "Use todas as armas corpo a corpo para matar Infectados comuns.",
+                    "ru-RU": "Используйте для убийства обычных Зараженных все имеющееся в игре рукопашное оружие.",
+                    "zh-CHT": "使用每種近戰武器殺掉一般感染者",
+                    "zh-CN": "使用所有近战武器杀死普通被感染者。"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie Infizierte mit allen Nahkampfwaffen.",
+                    "en-US": "Use every melee weapon to kill Common Infected.",
+                    "es-ES": "Usa todos los tipos de arma cuerpo a cuerpo para matar infectados normales.",
+                    "fr-FR": "Utilisez toutes les armes de corps à corps pour tuer des infectés communs.",
+                    "it-IT": "Uccidi Infected comuni con tutte le armi da corpo a corpo.",
+                    "ja-JP": "全種類の近接武器を使って通常感染者を殺す",
+                    "ko-KR": "모든 근접 무기를 사용하여 일반 좀비를 죽이십시오.",
+                    "pl-PL": "Użyj każdej broni do walki wręcz, aby zabić zwykłych Zarażonych.",
+                    "pt-PT": "Use todas as armas corpo a corpo para matar Infectados comuns.",
+                    "ru-RU": "Используйте для убийства обычных Зараженных все имеющееся в игре рукопашное оружие.",
+                    "zh-CHT": "使用每種近戰武器殺掉一般感染者",
+                    "zh-CN": "使用所有近战武器杀死普通被感染者。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "KETTENREAKTION",
+                    "en-US": "CHAIN OF COMMAND",
+                    "es-ES": "ATAJANDO LOS PROBLEMAS",
+                    "fr-FR": "LA CHAINE DE L'ESPOIR",
+                    "it-IT": "CATENA DI COMANDO",
+                    "ja-JP": "フレンドはチェーンソー",
+                    "ko-KR": "명령의 톱니",
+                    "pl-PL": "Z PIŁĄ MU DO TWARZY",
+                    "pt-PT": "CADEIA DE COMANDO",
+                    "ru-RU": "ЦЕПЬ ПОДЧИНЕНИЯ",
+                    "zh-CHT": "鏈鋸魔人",
+                    "zh-CN": "电锯主宰"
+                },
+                "description": {
+                    "de-DE": "Töten Sie 100 gewöhnliche Infizierte mit der Kettensäge.",
+                    "en-US": "Kill 100 Common Infected with the chainsaw.",
+                    "es-ES": "Mata a 100 infectados normales con la motosierra.",
+                    "fr-FR": "Tuez 100 infectés commun à l'aide de la tronçonneuse.",
+                    "it-IT": "Uccidi 100 Infected comuni con la motosega.",
+                    "ja-JP": "チェーンソーを使って100体の通常感染者を殺す",
+                    "ko-KR": "전기톱으로 좀비 100마리를 죽이십시오.",
+                    "pl-PL": "Zabij 100 zwykłych Zarażonych korzystając z piły.",
+                    "pt-PT": "Mate 100 Infectados comuns com a motosserra.",
+                    "ru-RU": "Убейте бензопилой 100 обычных Зараженных.",
+                    "zh-CHT": "使用鏈鋸殺掉 100 名一般感染者。",
+                    "zh-CN": "用电锯杀死 100 个普通被感染者。"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie 100 gewöhnliche Infizierte mit der Kettensäge.",
+                    "en-US": "Kill 100 Common Infected with the chainsaw.",
+                    "es-ES": "Mata a 100 infectados normales con la motosierra.",
+                    "fr-FR": "Tuez 100 infectés commun à l'aide de la tronçonneuse.",
+                    "it-IT": "Uccidi 100 Infected comuni con la motosega.",
+                    "ja-JP": "チェーンソーを使って100体の通常感染者を殺す",
+                    "ko-KR": "전기톱으로 좀비 100마리를 죽이십시오.",
+                    "pl-PL": "Zabij 100 zwykłych Zarażonych korzystając z piły.",
+                    "pt-PT": "Mate 100 Infectados comuns com a motosserra.",
+                    "ru-RU": "Убейте бензопилой 100 обычных Зараженных.",
+                    "zh-CHT": "使用鏈鋸殺掉 100 名一般感染者。",
+                    "zh-CN": "用电锯杀死 100 个普通被感染者。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "DAVID UND GOLIATH",
+                    "en-US": "TANK BURGER",
+                    "es-ES": "HAMBURGUESA DE TANK",
+                    "fr-FR": "ANTI-TANK",
+                    "it-IT": "TANK BURGER",
+                    "ja-JP": "TANKバーガー",
+                    "ko-KR": "TANK 버거",
+                    "pl-PL": "BEFSZTYK Z TANKA",
+                    "pt-PT": "BURGUÊS TANK",
+                    "ru-RU": "ТАНК-БУРГЕР",
+                    "zh-CHT": "TANK 黏巴達",
+                    "zh-CN": "TANK 汉堡"
+                },
+                "description": {
+                    "de-DE": "Töten Sie einen Tank mit Nahkampfwaffen.",
+                    "en-US": "Kill a Tank with melee weapons.",
+                    "es-ES": "Mata a un Tank con armas cuerpo a cuerpo.",
+                    "fr-FR": "Tuez un Tank à l'aide des armes de corps à corps.",
+                    "it-IT": "Uccidi un Tank con armi da corpo a corpo.",
+                    "ja-JP": "近接武器を使ってTankを1体殺す",
+                    "ko-KR": "근접 무기로 Tank를 죽이십시오.",
+                    "pl-PL": "Zabij Tanka korzystając z broni do walki wręcz.",
+                    "pt-PT": "Mate um Tank com armas corpo a corpo.",
+                    "ru-RU": "Убейте Танка рукопашным оружием.",
+                    "zh-CHT": "使用近戰武器消滅 Tank。",
+                    "zh-CN": "使用近战武器杀死一名 Tank"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie einen Tank mit Nahkampfwaffen.",
+                    "en-US": "Kill a Tank with melee weapons.",
+                    "es-ES": "Mata a un Tank con armas cuerpo a cuerpo.",
+                    "fr-FR": "Tuez un Tank à l'aide des armes de corps à corps.",
+                    "it-IT": "Uccidi un Tank con armi da corpo a corpo.",
+                    "ja-JP": "近接武器を使ってTankを1体殺す",
+                    "ko-KR": "근접 무기로 Tank를 죽이십시오.",
+                    "pl-PL": "Zabij Tanka korzystając z broni do walki wręcz.",
+                    "pt-PT": "Mate um Tank com armas corpo a corpo.",
+                    "ru-RU": "Убейте Танка рукопашным оружием.",
+                    "zh-CHT": "使用近戰武器消滅 Tank。",
+                    "zh-CN": "使用近战武器杀死一名 Tank"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "12.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "SCHOCKTHERAPIE",
+                    "en-US": "SHOCK JOCK",
+                    "es-ES": "PERSONALIDAD ELÉCTRICA",
+                    "fr-FR": "COUP DE JUS",
+                    "it-IT": "ELETTROSHOCK",
+                    "ja-JP": "率先して蘇生",
+                    "ko-KR": "충격 요법",
+                    "pl-PL": "ELEKTRYK",
+                    "pt-PT": "ESPECIALISTA DE CHOQUE",
+                    "ru-RU": "ШОКОТЕРАПЕВТ",
+                    "zh-CHT": "電擊遊俠",
+                    "zh-CN": "电击专家"
+                },
+                "description": {
+                    "de-DE": "Holen Sie mit dem Defibrillator 10 tote Überlebende ins Leben zurück.",
+                    "en-US": "Revive 10 dead Survivors with the defibrillator.",
+                    "es-ES": "Reanima a 10 supervivientes con el desfibrilador.",
+                    "fr-FR": "Réanimez 10 survivants morts à l'aide du défibrillateur.",
+                    "it-IT": "Rianima 10 Survivor morti con il defibrillatore.",
+                    "ja-JP": "AEDを使って死亡した生存者を10回蘇生する",
+                    "ko-KR": "전기 충격기로 10명의 죽은 생존자를 소생시키십시오.",
+                    "pl-PL": "Reanimuj 10 zabitych Ocalałych za pomocą defibrylatora.",
+                    "pt-PT": "Reanime 10 Sobreviventes mortos com o desfibrilador.",
+                    "ru-RU": "Верните к жизни 10 Выживших при помощи дефибриллятора.",
+                    "zh-CHT": "使用電擊棒救活 10 名死亡的倖存者。",
+                    "zh-CN": "使用电击器复活 10 名死亡的生还者"
+                },
+                "howto": {
+                    "de-DE": "Holen Sie mit dem Defibrillator 10 tote Überlebende ins Leben zurück.",
+                    "en-US": "Revive 10 dead Survivors with the defibrillator.",
+                    "es-ES": "Reanima a 10 supervivientes con el desfibrilador.",
+                    "fr-FR": "Réanimez 10 survivants morts à l'aide du défibrillateur.",
+                    "it-IT": "Rianima 10 Survivor morti con il defibrillatore.",
+                    "ja-JP": "AEDを使って死亡した生存者を10回蘇生する",
+                    "ko-KR": "전기 충격기로 10명의 죽은 생존자를 소생시키십시오.",
+                    "pl-PL": "Reanimuj 10 zabitych Ocalałych za pomocą defibrylatora.",
+                    "pt-PT": "Reanime 10 Sobreviventes mortos com o desfibrilador.",
+                    "ru-RU": "Верните к жизни 10 Выживших при помощи дефибриллятора.",
+                    "zh-CHT": "使用電擊棒救活 10 名死亡的倖存者。",
+                    "zh-CN": "使用电击器复活 10 名死亡的生还者"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "13.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "SO VIEL ZEIT MUSS SEIN",
+                    "en-US": "THE QUICK AND THE DEAD",
+                    "es-ES": "DATE VIDILLA",
+                    "fr-FR": "PLUS RAPIDE QUE LA MORT",
+                    "it-IT": "JOHNNY LO SVELTO",
+                    "ja-JP": "ザ・クイック・アンド・ザ・デッド",
+                    "ko-KR": "빠른 자와 죽은 자",
+                    "pl-PL": "SZYBKI I MARTWI",
+                    "pt-PT": "OS RÁPIDOS E OS MORTOS",
+                    "ru-RU": "БЫСТРЫЙ И МЕРТВЫЙ",
+                    "zh-CHT": "致命快感",
+                    "zh-CN": "速度与死亡"
+                },
+                "description": {
+                    "de-DE": "Wiederbeleben Sie 10 Überlebende, während Sie unter der Wirkung des Adrenalins stehen.",
+                    "en-US": "Revive 10 incapacitated Survivors while under the speed-boosting effects of adrenaline.",
+                    "es-ES": "Reanima a 10 supervivientes incapacitados bajo la influencia acelerante de la adrenalina.",
+                    "fr-FR": "Réanimez 10 survivants mis à terre sous l'effet accélérateur de l'adrénaline.",
+                    "it-IT": "Rianima 10 Survivor devitalizzati mentre sei sotto l'effetto dell'adrenalina.",
+                    "ja-JP": "アドレナリンが有効な状態で、戦闘不能になった生存者を10回蘇生する",
+                    "ko-KR": "아드레날린의 가속 효과를 받고 있는 10명의 무력화된 생존자를 소생시키십시오.",
+                    "pl-PL": "Udziel pomocy 10 obezwładnionym Ocalałym, znajdując się pod przyspieszającym wpływem adrenaliny.",
+                    "pt-PT": "Reanime 10 Sobreviventes incapacitados sob os efeitos de aumento da velocidade da adrenalina.",
+                    "ru-RU": "Оживите 10 выведенных из строя Выживших, находясь под действием адреналина.",
+                    "zh-CHT": "在腎上腺素的加速狀態下，救活 10 名無行為能力的倖存者。",
+                    "zh-CN": "在肾上腺素的加速效果下复活 10 名生还者。"
+                },
+                "howto": {
+                    "de-DE": "Wiederbeleben Sie 10 Überlebende, während Sie unter der Wirkung des Adrenalins stehen.",
+                    "en-US": "Revive 10 incapacitated Survivors while under the speed-boosting effects of adrenaline.",
+                    "es-ES": "Reanima a 10 supervivientes incapacitados bajo la influencia acelerante de la adrenalina.",
+                    "fr-FR": "Réanimez 10 survivants mis à terre sous l'effet accélérateur de l'adrénaline.",
+                    "it-IT": "Rianima 10 Survivor devitalizzati mentre sei sotto l'effetto dell'adrenalina.",
+                    "ja-JP": "アドレナリンが有効な状態で、戦闘不能になった生存者を10回蘇生する",
+                    "ko-KR": "아드레날린의 가속 효과를 받고 있는 10명의 무력화된 생존자를 소생시키십시오.",
+                    "pl-PL": "Udziel pomocy 10 obezwładnionym Ocalałym, znajdując się pod przyspieszającym wpływem adrenaliny.",
+                    "pt-PT": "Reanime 10 Sobreviventes incapacitados sob os efeitos de aumento da velocidade da adrenalina.",
+                    "ru-RU": "Оживите 10 выведенных из строя Выживших, находясь под действием адреналина.",
+                    "zh-CHT": "在腎上腺素的加速狀態下，救活 10 名無行為能力的倖存者。",
+                    "zh-CN": "在肾上腺素的加速效果下复活 10 名生还者。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "14.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "de-DE": "EINER FÜR ALLE",
+                    "en-US": "ARMORY OF ONE",
+                    "es-ES": "ARMERÍA AMBULANTE",
+                    "fr-FR": "UN POUR TOUS",
+                    "it-IT": "SANTABARBARA UMANA",
+                    "ja-JP": "歩く武器倉",
+                    "ko-KR": "하나의 무기고",
+                    "pl-PL": "CHODZĄCY ARSENAŁ",
+                    "pt-PT": "ARSENAL PARA UM",
+                    "ru-RU": "ХОДЯЧИЙ АРСЕНАЛ",
+                    "zh-CHT": "一人兵工廠",
+                    "zh-CN": "移动军火库"
+                },
+                "description": {
+                    "de-DE": "Sorgen Sie für ein Munitions-Upgrade, und überlassen Sie es dem Team zur Nutzung.",
+                    "en-US": "Deploy an ammo upgrade and have your team use it.",
+                    "es-ES": "Coloca una mejora de munición y deja que tu equipo la use.",
+                    "fr-FR": "Déployez une amélioration de munitions et faites-en profiter votre équipe.",
+                    "it-IT": "Carica un potenziamento munizioni e fallo usare alla squadra.",
+                    "ja-JP": "強化弾薬を配備しチームメイトに使ってもらう。",
+                    "ko-KR": "탄약 업그레이드를 배포하여 팀에서 사용하도록 하십시오.",
+                    "pl-PL": "Wyłóż ulepszenie amunicji, aby cała drużyna z niego skorzystała.",
+                    "pt-PT": "Efectue uma actualização de munições e coloque a sua equipa a utilizá-la.",
+                    "ru-RU": "Разместите для сових товарищей усовершенствованные патроны, чтобы они воспользовались ими.",
+                    "zh-CHT": "放置彈藥升級並讓你的隊伍使用。",
+                    "zh-CN": "部署一个弹药升级并让团队使用。"
+                },
+                "howto": {
+                    "de-DE": "Sorgen Sie für ein Munitions-Upgrade, und überlassen Sie es dem Team zur Nutzung.",
+                    "en-US": "Deploy an ammo upgrade and have your team use it.",
+                    "es-ES": "Coloca una mejora de munición y deja que tu equipo la use.",
+                    "fr-FR": "Déployez une amélioration de munitions et faites-en profiter votre équipe.",
+                    "it-IT": "Carica un potenziamento munizioni e fallo usare alla squadra.",
+                    "ja-JP": "強化弾薬を配備しチームメイトに使ってもらう。",
+                    "ko-KR": "탄약 업그레이드를 배포하여 팀에서 사용하도록 하십시오.",
+                    "pl-PL": "Wyłóż ulepszenie amunicji, aby cała drużyna z niego skorzystała.",
+                    "pt-PT": "Efectue uma actualização de munições e coloque a sua equipa a utilizá-la.",
+                    "ru-RU": "Разместите для сових товарищей усовершенствованные патроны, чтобы они воспользовались ими.",
+                    "zh-CHT": "放置彈藥升級並讓你的隊伍使用。",
+                    "zh-CN": "部署一个弹药升级并让团队使用。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "15.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "BRANDGEFÄHRLICH",
+                    "en-US": "BURNING SENSATION",
+                    "es-ES": "QUEMAZÓN",
+                    "fr-FR": "TOUT FEU TOUT FLAMME",
+                    "it-IT": "BRUCIORI DI STOMACO",
+                    "ja-JP": "焼け付くようなこの感覚",
+                    "ko-KR": "방화 사건",
+                    "pl-PL": "GORĄCA SPRAWA",
+                    "pt-PT": "SENSAÇÃO DE ARDOR",
+                    "ru-RU": "ПАЛЕНЫМ ЗАПАХЛО",
+                    "zh-CHT": "縱火狂",
+                    "zh-CN": "燃烧的快感"
+                },
+                "description": {
+                    "de-DE": "Lassen Sie 50 gewöhnliche Infizierte mit Brandmunition in Flammen aufgehen.",
+                    "en-US": "Ignite 50 Common Infected with incendiary ammo.",
+                    "es-ES": "Prende fuego a 50 infectados normales con balas incendiarias.",
+                    "fr-FR": "Mettez le feu à 50 infectés communs en utilisant des cartouches incendiaires.",
+                    "it-IT": "Dai fuoco a 50 Infected comuni con le munizioni incendiarie.",
+                    "ja-JP": "火炎弾を使って50体の通常感染者を燃やす",
+                    "ko-KR": "소이탄으로 일반 좀비 50마리를 불태우십시오.",
+                    "pl-PL": "Podpal 50 zwykłych Zarażonych korzystając z amunicji zapalającej.",
+                    "pt-PT": "Incendeie 50 Infectados Comuns com munições incendiárias.",
+                    "ru-RU": "Подожгите 50 обычных Зараженных зажигательными боеприпасами.",
+                    "zh-CHT": "使用燃燒彈藥火燒 50 名一般感染者。",
+                    "zh-CN": "使用燃烧弹消灭 50 名普通被感染者。"
+                },
+                "howto": {
+                    "de-DE": "Lassen Sie 50 gewöhnliche Infizierte mit Brandmunition in Flammen aufgehen.",
+                    "en-US": "Ignite 50 Common Infected with incendiary ammo.",
+                    "es-ES": "Prende fuego a 50 infectados normales con balas incendiarias.",
+                    "fr-FR": "Mettez le feu à 50 infectés communs en utilisant des cartouches incendiaires.",
+                    "it-IT": "Dai fuoco a 50 Infected comuni con le munizioni incendiarie.",
+                    "ja-JP": "火炎弾を使って50体の通常感染者を燃やす",
+                    "ko-KR": "소이탄으로 일반 좀비 50마리를 불태우십시오.",
+                    "pl-PL": "Podpal 50 zwykłych Zarażonych korzystając z amunicji zapalającej.",
+                    "pt-PT": "Incendeie 50 Infectados Comuns com munições incendiárias.",
+                    "ru-RU": "Подожгите 50 обычных Зараженных зажигательными боеприпасами.",
+                    "zh-CHT": "使用燃燒彈藥火燒 50 名一般感染者。",
+                    "zh-CN": "使用燃烧弹消灭 50 名普通被感染者。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "16.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "NUR NICHTS ANBRENNEN LASSEN",
+                    "en-US": "DISMEMBERMENT PLAN",
+                    "es-ES": "VAYAMOS POR PARTES",
+                    "fr-FR": "MISSION AMPUTATION",
+                    "it-IT": "FACCIAMO ECONOMIA",
+                    "ja-JP": "爆破プラン",
+                    "ko-KR": "분할 계획",
+                    "pl-PL": "W DESZCZU KOŃCZYN",
+                    "pt-PT": "PLANO DE DESMEMBRAMENTO",
+                    "ru-RU": "ПЛАН ПО РАСЧЛЕНЕНИЮ",
+                    "zh-CHT": "血肉模糊計畫",
+                    "zh-CN": "肢解计划"
+                },
+                "description": {
+                    "de-DE": "Töten Sie 15 Infizierte mit einem einzelnen Schuss aus dem Granatwerfer.",
+                    "en-US": "Kill 15 Infected with a single grenade launcher blast.",
+                    "es-ES": "Mata a 15 infectados con un único disparo de lanzagranadas.",
+                    "fr-FR": "Tuez 15 infectés d'un seul tir de lance-grenades.",
+                    "it-IT": "Uccidi 15 Infected con un'unica esplosione del lanciagranate.",
+                    "ja-JP": "グレネードランチャー1発で15体の感染者を殺す",
+                    "ko-KR": "수류탄 발사기를 한 번 발사하여 좀비 15마리를 죽이십시오.",
+                    "pl-PL": "Zabij 15 Zarażonych jednym strzałem z granatnika.",
+                    "pt-PT": "Mate 15 Infectados com um único disparo do lança-granadas.",
+                    "ru-RU": "Убейте 15 зараженных из гранатомета разрывом одной гранаты.",
+                    "zh-CHT": "用一發榴彈發射器解決 15 名感染者。",
+                    "zh-CN": "使用单发榴弹发射器炮弹杀死 15 名被感染者。"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie 15 Infizierte mit einem einzelnen Schuss aus dem Granatwerfer.",
+                    "en-US": "Kill 15 Infected with a single grenade launcher blast.",
+                    "es-ES": "Mata a 15 infectados con un único disparo de lanzagranadas.",
+                    "fr-FR": "Tuez 15 infectés d'un seul tir de lance-grenades.",
+                    "it-IT": "Uccidi 15 Infected con un'unica esplosione del lanciagranate.",
+                    "ja-JP": "グレネードランチャー1発で15体の感染者を殺す",
+                    "ko-KR": "수류탄 발사기를 한 번 발사하여 좀비 15마리를 죽이십시오.",
+                    "pl-PL": "Zabij 15 Zarażonych jednym strzałem z granatnika.",
+                    "pt-PT": "Mate 15 Infectados com um único disparo do lança-granadas.",
+                    "ru-RU": "Убейте 15 зараженных из гранатомета разрывом одной гранаты.",
+                    "zh-CHT": "用一發榴彈發射器解決 15 名感染者。",
+                    "zh-CN": "使用单发榴弹发射器炮弹杀死 15 名被感染者。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "17.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "de-DE": "SAURER REGEN",
+                    "en-US": "SEPTIC TANK",
+                    "es-ES": "EL COLOSO EN SALSA",
+                    "fr-FR": "GERBAGE DE TANK",
+                    "it-IT": "UN SIMPATICO GAVETTONE",
+                    "ja-JP": "汚水処理タンク",
+                    "ko-KR": "TANK 전염",
+                    "pl-PL": "TANK W MARYNACIE",
+                    "pt-PT": "TANK SÉPTICO",
+                    "ru-RU": "ЗАРАЗНЫЙ ТАНК",
+                    "zh-CHT": "臭酸 TANK",
+                    "zh-CN": "腐烂的 TANK"
+                },
+                "description": {
+                    "de-DE": "Setzen Sie ein Kotzgeschoss gegen einen Tank ein.",
+                    "en-US": "Use a bile bomb on a Tank.",
+                    "es-ES": "Lánzale a un Tank un frasco de bilis.",
+                    "fr-FR": "Utilisez une bombe de bile contre un Tank.",
+                    "it-IT": "Usa una bomba di bile su un Tank.",
+                    "ja-JP": "Tankに胆汁ボムを当てる",
+                    "ko-KR": "Tank에 담즙 폭탄을 사용하십시오.",
+                    "pl-PL": "Traf Tanka bombą z żółci.",
+                    "pt-PT": "Use uma bomba de vómito num Tank.",
+                    "ru-RU": "Используйте на Танке рвотную бомбу.",
+                    "zh-CHT": "對 Tank 使用膽汁炸彈。",
+                    "zh-CN": "在 Tank 身上使用胆汁炸弹。"
+                },
+                "howto": {
+                    "de-DE": "Setzen Sie ein Kotzgeschoss gegen einen Tank ein.",
+                    "en-US": "Use a bile bomb on a Tank.",
+                    "es-ES": "Lánzale a un Tank un frasco de bilis.",
+                    "fr-FR": "Utilisez une bombe de bile contre un Tank.",
+                    "it-IT": "Usa una bomba di bile su un Tank.",
+                    "ja-JP": "Tankに胆汁ボムを当てる",
+                    "ko-KR": "Tank에 담즙 폭탄을 사용하십시오.",
+                    "pl-PL": "Traf Tanka bombą z żółci.",
+                    "pt-PT": "Use uma bomba de vómito num Tank.",
+                    "ru-RU": "Используйте на Танке рвотную бомбу.",
+                    "zh-CHT": "對 Tank 使用膽汁炸彈。",
+                    "zh-CN": "在 Tank 身上使用胆汁炸弹。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "18.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "GLEICHBERECHTIGUNG",
+                    "en-US": "CRASS MENAGERIE",
+                    "es-ES": "LA COLECCIÓN COMPLETA",
+                    "fr-FR": "COLLECTIONNEUR",
+                    "it-IT": "UN PO' PER CIASCUNO",
+                    "ja-JP": "ゾンビコレクター",
+                    "ko-KR": "어리석은 무리",
+                    "pl-PL": "TRUPIA MENAŻERIA",
+                    "pt-PT": "ANIMAIS OBTUSOS",
+                    "ru-RU": "ЖУТКИЙ ЗВЕРИНЕЦ",
+                    "zh-CHT": "鏽蝕獸籠",
+                    "zh-CN": "野蛮动物"
+                },
+                "description": {
+                    "de-DE": "Töten Sie jeweils einen der besonderen Infizierten.",
+                    "en-US": "Kill one of each Uncommon Infected.",
+                    "es-ES": "Mata a uno de cada tipo de infectado característico.",
+                    "fr-FR": "Tuez un infecté spécial de chaque type.",
+                    "it-IT": "Uccidi un Infected speciale per ogni tipo.",
+                    "ja-JP": "珍しい感染者中一人ずつを殺す",
+                    "ko-KR": "모든 특수 좀비를 각각 죽이십시오.",
+                    "pl-PL": "Zabij przedstawicieli każdej klasy „zwykłych-niezwykłych” Zarażonych.",
+                    "pt-PT": "Mate um de cada Infectado incomum.",
+                    "ru-RU": "Убейте по одному представителю всех необычных Зараженных.",
+                    "zh-CHT": "每種罕見感染者各解決一名。",
+                    "zh-CN": "杀死各类特殊被感染者一名。"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie jeweils einen der besonderen Infizierten.",
+                    "en-US": "Kill one of each Uncommon Infected.",
+                    "es-ES": "Mata a uno de cada tipo de infectado característico.",
+                    "fr-FR": "Tuez un infecté spécial de chaque type.",
+                    "it-IT": "Uccidi un Infected speciale per ogni tipo.",
+                    "ja-JP": "珍しい感染者中一人ずつを殺す",
+                    "ko-KR": "모든 특수 좀비를 각각 죽이십시오.",
+                    "pl-PL": "Zabij przedstawicieli każdej klasy „zwykłych-niezwykłych” Zarażonych.",
+                    "pt-PT": "Mate um de cada Infectado incomum.",
+                    "ru-RU": "Убейте по одному представителю всех необычных Зараженных.",
+                    "zh-CHT": "每種罕見感染者各解決一名。",
+                    "zh-CN": "杀死各类特殊被感染者一名。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "19.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "WASSERLEICHEN",
+                    "en-US": "DEAD IN THE WATER",
+                    "es-ES": "MUERTE ENTRE LAS AGUAS",
+                    "fr-FR": "EAUX TROUBLES",
+                    "it-IT": "MORTE NELL'ACQUA",
+                    "ja-JP": "デッド・イン・ザ・ウォーター",
+                    "ko-KR": "수중 사망",
+                    "pl-PL": "TOPICIEL",
+                    "pt-PT": "MORTOS NA ÁGUA",
+                    "ru-RU": "МЕРТВЕЦЫ В ВОДЕ",
+                    "zh-CHT": "水中死靈",
+                    "zh-CN": "水中屠杀"
+                },
+                "description": {
+                    "de-DE": "Töten Sie 10 Sumpfbewohner, während sie sich im Wasser befinden.",
+                    "en-US": "Kill 10 swampy Mudmen while they are in the water.",
+                    "es-ES": "Mata a 10 embarrados sin que salgan del agua.",
+                    "fr-FR": "Tuez 10 boueux des marais alors qu'ils se trouvent dans l'eau.",
+                    "it-IT": "Uccidi 10 uomini di fango mentre sono in acqua.",
+                    "ja-JP": "沼地にいるマッドマンを水中にいる間に10体殺す",
+                    "ko-KR": "물 속에 있는 질퍽한 머드맨 10마리를 죽이십시오.",
+                    "pl-PL": "Zabij 10 Błotnych ludzi, gdy znajdują się w wodzie.",
+                    "pt-PT": "Mate 10 Mudmen enquanto se encontram na água.",
+                    "ru-RU": "Убейте 10 болотных грязевиков.",
+                    "zh-CHT": "殺掉 10 名在水中的沼澤 Mudmen。",
+                    "zh-CN": "杀死 10 名水中的沼泽泥浆工"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie 10 Sumpfbewohner, während sie sich im Wasser befinden.",
+                    "en-US": "Kill 10 swampy Mudmen while they are in the water.",
+                    "es-ES": "Mata a 10 embarrados sin que salgan del agua.",
+                    "fr-FR": "Tuez 10 boueux des marais alors qu'ils se trouvent dans l'eau.",
+                    "it-IT": "Uccidi 10 uomini di fango mentre sono in acqua.",
+                    "ja-JP": "沼地にいるマッドマンを水中にいる間に10体殺す",
+                    "ko-KR": "물 속에 있는 질퍽한 머드맨 10마리를 죽이십시오.",
+                    "pl-PL": "Zabij 10 Błotnych ludzi, gdy znajdują się w wodzie.",
+                    "pt-PT": "Mate 10 Mudmen enquanto se encontram na água.",
+                    "ru-RU": "Убейте 10 болотных грязевиков.",
+                    "zh-CHT": "殺掉 10 名在水中的沼澤 Mudmen。",
+                    "zh-CN": "杀死 10 名水中的沼泽泥浆工"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "20.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "LEICHENFLEDDERER",
+                    "en-US": "ROBBED ZOMBIE",
+                    "es-ES": "ROBA ZOMBI",
+                    "fr-FR": "ZOMBIES SPOLIÉS",
+                    "it-IT": "ZOMBI DERUBATO",
+                    "ja-JP": "ゾンビを強盗",
+                    "ko-KR": "좀비 약탈",
+                    "pl-PL": "TRUPIA HIENA",
+                    "pt-PT": "ZOMBIE ROUBADO",
+                    "ru-RU": "ОГРАБЛЕННЫЕ ЗОМБИ",
+                    "zh-CHT": "僵屍大盜",
+                    "zh-CN": "抢劫僵尸"
+                },
+                "description": {
+                    "de-DE": "Nehmen Sie getöteten CEDA-Agenten 10 Ampullen mit Boomerkotze ab.",
+                    "en-US": "Collect 10 vials of Boomer vomit from infected CEDA agents you have killed.",
+                    "es-ES": "Recoge 10 frascos de vómito de Boomer de infectados de la CEDA a los que hayas matado.",
+                    "fr-FR": "Récupérez 10 flacons de vomi de Boomer sur des agents de la CEDA infectés que vous avez tués.",
+                    "it-IT": "Raccogli 10 fiale di vomito del Boomer dagli agenti del CEDA infetti che hai ucciso.",
+                    "ja-JP": "自分で殺したCEDAエージェントからBoomerの胆汁を10瓶集める",
+                    "ko-KR": "사살한 좀비 CEDA 요원에게서 Boomer 토사물 10개를 확보하십시오.",
+                    "pl-PL": "Zabierz 10 fiolek żółci Boomera zabitym przez siebie zarażonym agentom CEDA.",
+                    "pt-PT": "Recolha 10 ampolas de vómito de Boomer de agentes CEDA infectados mortos por si.",
+                    "ru-RU": "Соберите 10 бутылок рвоты Толстяка с трупов убитых вами зараженных агентов АЧС.",
+                    "zh-CHT": "殺死感染的 CEDA 人員，並在他們身上收集 10 瓶 Boomer 嘔吐物。",
+                    "zh-CN": "从你杀死的被感染 CEDA 特工身上收集 10 瓶 Boomer 呕吐物。"
+                },
+                "howto": {
+                    "de-DE": "Nehmen Sie getöteten CEDA-Agenten 10 Ampullen mit Boomerkotze ab.",
+                    "en-US": "Collect 10 vials of Boomer vomit from infected CEDA agents you have killed.",
+                    "es-ES": "Recoge 10 frascos de vómito de Boomer de infectados de la CEDA a los que hayas matado.",
+                    "fr-FR": "Récupérez 10 flacons de vomi de Boomer sur des agents de la CEDA infectés que vous avez tués.",
+                    "it-IT": "Raccogli 10 fiale di vomito del Boomer dagli agenti del CEDA infetti che hai ucciso.",
+                    "ja-JP": "自分で殺したCEDAエージェントからBoomerの胆汁を10瓶集める",
+                    "ko-KR": "사살한 좀비 CEDA 요원에게서 Boomer 토사물 10개를 확보하십시오.",
+                    "pl-PL": "Zabierz 10 fiolek żółci Boomera zabitym przez siebie zarażonym agentom CEDA.",
+                    "pt-PT": "Recolha 10 ampolas de vómito de Boomer de agentes CEDA infectados mortos por si.",
+                    "ru-RU": "Соберите 10 бутылок рвоты Толстяка с трупов убитых вами зараженных агентов АЧС.",
+                    "zh-CHT": "殺死感染的 CEDA 人員，並在他們身上收集 10 瓶 Boomer 嘔吐物。",
+                    "zh-CN": "从你杀死的被感染 CEDA 特工身上收集 10 瓶 Boomer 呕吐物。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "21.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "de-DE": "KINDERSCHRECK",
+                    "en-US": "CL0WND",
+                    "es-ES": "DEJA DE HACER EL PAYASO",
+                    "fr-FR": "CL0WND",
+                    "it-IT": "PAGLIACCIATA",
+                    "ja-JP": "ピエロ0wned",
+                    "ko-KR": "광대짓",
+                    "pl-PL": "CL0WND",
+                    "pt-PT": "APALHAÇADO",
+                    "ru-RU": "КЛОУН-АДА",
+                    "zh-CHT": "小丑當家",
+                    "zh-CN": "小丑"
+                },
+                "description": {
+                    "de-DE": "Befördern Sie 10 Clowns ins Jenseits.",
+                    "en-US": "Honk the noses of 10 Clowns.",
+                    "es-ES": "Tócales las narices a 10 payasos.",
+                    "fr-FR": "Tuez 10 clowns.",
+                    "it-IT": "Fai suonare il naso di 10 Clown.",
+                    "ja-JP": "道化師10人の鼻を鳴らす",
+                    "ko-KR": "광대의 코 10개를 모으십시오.",
+                    "pl-PL": "Zagraj na nosie 10 klaunom.",
+                    "pt-PT": "Aperte o nariz a 10 Palhaços.",
+                    "ru-RU": "Оторвите носы 10 Клоунам.",
+                    "zh-CHT": "捏 10 名小丑的鼻子。",
+                    "zh-CN": "打掉 10 名小丑的鼻子。"
+                },
+                "howto": {
+                    "de-DE": "Befördern Sie 10 Clowns ins Jenseits.",
+                    "en-US": "Honk the noses of 10 Clowns.",
+                    "es-ES": "Tócales las narices a 10 payasos.",
+                    "fr-FR": "Tuez 10 clowns.",
+                    "it-IT": "Fai suonare il naso di 10 Clown.",
+                    "ja-JP": "道化師10人の鼻を鳴らす",
+                    "ko-KR": "광대의 코 10개를 모으십시오.",
+                    "pl-PL": "Zagraj na nosie 10 klaunom.",
+                    "pt-PT": "Aperte o nariz a 10 Palhaços.",
+                    "ru-RU": "Оторвите носы 10 Клоунам.",
+                    "zh-CHT": "捏 10 名小丑的鼻子。",
+                    "zh-CN": "打掉 10 名小丑的鼻子。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "22.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "LEUCHTENDES VORBILD",
+                    "en-US": "FRIED PIPER",
+                    "es-ES": "FRITANGA DE CONGA",
+                    "fr-FR": "BOZO EN FEU",
+                    "it-IT": "SE LUI SI BUTTA NEL FUOCO...",
+                    "ja-JP": "ホットハーメルン",
+                    "ko-KR": "광대 튀김",
+                    "pl-PL": "FLISAK NA OGNIU",
+                    "pt-PT": "FLAUTISTA FRITO",
+                    "ru-RU": "ЖАРЕНЫЙ ДУДОЧНИК",
+                    "zh-CHT": "燃燒吧領隊",
+                    "zh-CN": "油炸风笛手"
+                },
+                "description": {
+                    "de-DE": "Setzen Sie einen Clown, der mind. 10 gewöhnliche Infizierte anführt, per Molotowcocktail in Brand.",
+                    "en-US": "Using a Molotov, burn a Clown leading at least 10 Common Infected. ",
+                    "es-ES": "Con un molotov, quema a un payaso que lleve detrás al menos a 10 infectados normales. ",
+                    "fr-FR": "A l'aide d'un cocktail Molotov, incendiez un clown à la tête d'au moins 10 infectés communs. ",
+                    "it-IT": "Con una molotov dai fuoco a un clown che guida almeno 10 Infected comuni. ",
+                    "ja-JP": "火炎瓶で道化師を燃やし、その結果10体以上の通常感染者を燃やす ",
+                    "ko-KR": "화염병을 사용하여 10마리 이상의 일반 좀비를 호위하는 광대를 불태우십시오. ",
+                    "pl-PL": "Użyj mołotowa, aby podpalić klauna prowadzącego co najmniej 10 zwykłych zarażonych. ",
+                    "pt-PT": "Utilizando um Molotov, queime um Palhaço conduzindo pelo menos 10 Infectados comuns. ",
+                    "ru-RU": "Используя коктейль Молотова, подожгите Клоуна, ведущего за собой не менее 10 обычных зараженных.",
+                    "zh-CHT": "使用汽油彈，燒掉至少率領 10 名一般感染者的小丑。 ",
+                    "zh-CN": "使用燃烧弹，烧死领导至少 10 名普通被感染者的小丑。 "
+                },
+                "howto": {
+                    "de-DE": "Setzen Sie einen Clown, der mind. 10 gewöhnliche Infizierte anführt, per Molotowcocktail in Brand.",
+                    "en-US": "Using a Molotov, burn a Clown leading at least 10 Common Infected. ",
+                    "es-ES": "Con un molotov, quema a un payaso que lleve detrás al menos a 10 infectados normales. ",
+                    "fr-FR": "A l'aide d'un cocktail Molotov, incendiez un clown à la tête d'au moins 10 infectés communs. ",
+                    "it-IT": "Con una molotov dai fuoco a un clown che guida almeno 10 Infected comuni. ",
+                    "ja-JP": "火炎瓶で道化師を燃やし、その結果10体以上の通常感染者を燃やす ",
+                    "ko-KR": "화염병을 사용하여 10마리 이상의 일반 좀비를 호위하는 광대를 불태우십시오. ",
+                    "pl-PL": "Użyj mołotowa, aby podpalić klauna prowadzącego co najmniej 10 zwykłych zarażonych. ",
+                    "pt-PT": "Utilizando um Molotov, queime um Palhaço conduzindo pelo menos 10 Infectados comuns. ",
+                    "ru-RU": "Используя коктейль Молотова, подожгите Клоуна, ведущего за собой не менее 10 обычных зараженных.",
+                    "zh-CHT": "使用汽油彈，燒掉至少率領 10 名一般感染者的小丑。 ",
+                    "zh-CN": "使用燃烧弹，烧死领导至少 10 名普通被感染者的小丑。 "
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "23.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "DAZWISCHENGEFUNKT",
+                    "en-US": "LEVEL A CHARGE",
+                    "es-ES": "CÁRGATE AL CHARGER",
+                    "fr-FR": "A CHARGE DE REVANCHE",
+                    "it-IT": "ALLA RISCOSSA!",
+                    "ja-JP": "勢いで対決",
+                    "ko-KR": "돌격 수준 조정",
+                    "pl-PL": "DEGRADACJA SZARŻY",
+                    "pt-PT": "IGUALE UM CHARGER",
+                    "ru-RU": "ГРОМИМ ГРОМИЛ",
+                    "zh-CHT": "衝鋒終結者",
+                    "zh-CN": "击倒冲锋"
+                },
+                "description": {
+                    "de-DE": "Töten Sie einen Charger mit einer Nahkampfwaffe, während er auf jemanden losstürmt.",
+                    "en-US": "Kill a Charger with a melee weapon while they are charging.",
+                    "es-ES": "Mata a un Charger con un arma cuerpo a cuerpo mientras carga contra alguien.",
+                    "fr-FR": "Tuez un Charger à l'aide d'une arme de corps à corps pendant qu'il charge une cible.",
+                    "it-IT": "Uccidi con un'arma da corpo a corpo un Charger mentre sta caricando qualcuno.",
+                    "ja-JP": "突進しているChargerを突進中に近接武器で殺す",
+                    "ko-KR": "누군가를 향해 돌격하고 있는 Charger를 근접 무기로 죽이십시오.",
+                    "pl-PL": "Zabij Chargera bronią do walki wręcz, gdy właśnie tratuje innego Ocalonego.",
+                    "pt-PT": "Mate um Charger com uma arma corpo a corpo enquanto carrega alguém.",
+                    "ru-RU": "Убейте Громилу рукопашным оружием, пока тот кидается на жертву.",
+                    "zh-CHT": "在 Charger 對某人發動衝鋒攻擊時，使用近戰武器除掉他。",
+                    "zh-CN": "使用近战武器杀死一名正向其他人发动冲锋的 Charger。"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie einen Charger mit einer Nahkampfwaffe, während er auf jemanden losstürmt.",
+                    "en-US": "Kill a Charger with a melee weapon while they are charging.",
+                    "es-ES": "Mata a un Charger con un arma cuerpo a cuerpo mientras carga contra alguien.",
+                    "fr-FR": "Tuez un Charger à l'aide d'une arme de corps à corps pendant qu'il charge une cible.",
+                    "it-IT": "Uccidi con un'arma da corpo a corpo un Charger mentre sta caricando qualcuno.",
+                    "ja-JP": "突進しているChargerを突進中に近接武器で殺す",
+                    "ko-KR": "누군가를 향해 돌격하고 있는 Charger를 근접 무기로 죽이십시오.",
+                    "pl-PL": "Zabij Chargera bronią do walki wręcz, gdy właśnie tratuje innego Ocalonego.",
+                    "pt-PT": "Mate um Charger com uma arma corpo a corpo enquanto carrega alguém.",
+                    "ru-RU": "Убейте Громилу рукопашным оружием, пока тот кидается на жертву.",
+                    "zh-CHT": "在 Charger 對某人發動衝鋒攻擊時，使用近戰武器除掉他。",
+                    "zh-CN": "使用近战武器杀死一名正向其他人发动冲锋的 Charger。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "24.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "SODBRENNEN",
+                    "en-US": "ACID REFLEX",
+                    "es-ES": "ATAQUE PREVENTIVO",
+                    "fr-FR": "REFLEXE ACIDE",
+                    "it-IT": "RIFLESSO ACIDO",
+                    "ja-JP": "制酸薬",
+                    "ko-KR": "산성 반사",
+                    "pl-PL": "SZYBKI REFLUKS",
+                    "pt-PT": "REFLEXO ÁCIDO",
+                    "ru-RU": "ИЗЖОГА",
+                    "zh-CHT": "酸性反應",
+                    "zh-CN": "酸性反射"
+                },
+                "description": {
+                    "de-DE": "Töten Sie einen Spitter, bevor er zum Spucken kommt.",
+                    "en-US": "Kill a Spitter before she is able to spit.",
+                    "es-ES": "Mata a una Spitter antes de que pueda escupir.",
+                    "fr-FR": "Tuez une Spitter avant qu'elle ait le temps de cracher.",
+                    "it-IT": "Uccidi una Spitter prima che riesca a sputare.",
+                    "ja-JP": "Spitterが酸性液を飛ばそうとしている間に殺す",
+                    "ko-KR": "Spitter가 침을 뱉기 전에 Spitter를 죽이십시오.",
+                    "pl-PL": "Zabij Spittera, nim zdąży plunąć.",
+                    "pt-PT": "Mate um Spitter antes que consiga cuspir.",
+                    "ru-RU": "Убейте Плевальщицу, пока она еще не успела плюнуть.",
+                    "zh-CHT": "在 Spitter 吐酸液前除掉她。",
+                    "zh-CN": "在 Spitter 能够喷吐酸液前杀死它。"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie einen Spitter, bevor er zum Spucken kommt.",
+                    "en-US": "Kill a Spitter before she is able to spit.",
+                    "es-ES": "Mata a una Spitter antes de que pueda escupir.",
+                    "fr-FR": "Tuez une Spitter avant qu'elle ait le temps de cracher.",
+                    "it-IT": "Uccidi una Spitter prima che riesca a sputare.",
+                    "ja-JP": "Spitterが酸性液を飛ばそうとしている間に殺す",
+                    "ko-KR": "Spitter가 침을 뱉기 전에 Spitter를 죽이십시오.",
+                    "pl-PL": "Zabij Spittera, nim zdąży plunąć.",
+                    "pt-PT": "Mate um Spitter antes que consiga cuspir.",
+                    "ru-RU": "Убейте Плевальщицу, пока она еще не успела плюнуть.",
+                    "zh-CHT": "在 Spitter 吐酸液前除掉她。",
+                    "zh-CN": "在 Spitter 能够喷吐酸液前杀死它。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "25.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "SPASSBREMSE",
+                    "en-US": "A RIDE DENIED",
+                    "es-ES": "NO ES NINGÚN CABALLO",
+                    "fr-FR": "JEUX INTERDITS",
+                    "it-IT": "DISARCIONATO",
+                    "ja-JP": "搭乗拒否",
+                    "ko-KR": "탑승 거부",
+                    "pl-PL": "NIE MA JAZDY",
+                    "pt-PT": "UMA CAVALGADA NEGADA",
+                    "ru-RU": "ПОЕЗДКА ОТМЕНЯЕТСЯ",
+                    "zh-CHT": "請勿試乘",
+                    "zh-CN": "拒绝骑乘"
+                },
+                "description": {
+                    "de-DE": "Töten Sie einen Jockey innerhalb von 2 Sekunden, nachdem er einen Überlebenden angesprungen hat.",
+                    "en-US": "Kill a Jockey within 2 seconds of it jumping on a Survivor.",
+                    "es-ES": "Mata a un Jockey en menos de 2 segundos después de que haya saltado sobre un superviviente.",
+                    "fr-FR": "Tuez un Jockey moins de 2 secondes après qu'il a sauté sur un survivant.",
+                    "it-IT": "Uccidi un Jockey entro 2 secondi da quando salta su un Survivor.",
+                    "ja-JP": "生存者に飛び乗ったJockeyを2秒以内に殺す",
+                    "ko-KR": "생존자 위에 올라탄 Jockey를 2초 안에 죽이십시오.",
+                    "pl-PL": "Zabij Jockeya w ciągu 2 sekund od momentu, gdy wskoczy on na Ocalałego.",
+                    "pt-PT": "Mate um Jockey num espaço de 2 segundos de saltar para um Sobrevivente.",
+                    "ru-RU": "Убейте Жокея в течение 2 секунд после того, как он запрыгнет на Выжившего.",
+                    "zh-CHT": "當 Jockey 在跳上倖存者身上時，2 秒內解決它。",
+                    "zh-CN": "在 Jockey 扑向生还者后的 2 秒内杀死它。"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie einen Jockey innerhalb von 2 Sekunden, nachdem er einen Überlebenden angesprungen hat.",
+                    "en-US": "Kill a Jockey within 2 seconds of it jumping on a Survivor.",
+                    "es-ES": "Mata a un Jockey en menos de 2 segundos después de que haya saltado sobre un superviviente.",
+                    "fr-FR": "Tuez un Jockey moins de 2 secondes après qu'il a sauté sur un survivant.",
+                    "it-IT": "Uccidi un Jockey entro 2 secondi da quando salta su un Survivor.",
+                    "ja-JP": "生存者に飛び乗ったJockeyを2秒以内に殺す",
+                    "ko-KR": "생존자 위에 올라탄 Jockey를 2초 안에 죽이십시오.",
+                    "pl-PL": "Zabij Jockeya w ciągu 2 sekund od momentu, gdy wskoczy on na Ocalałego.",
+                    "pt-PT": "Mate um Jockey num espaço de 2 segundos de saltar para um Sobrevivente.",
+                    "ru-RU": "Убейте Жокея в течение 2 секунд после того, как он запрыгнет на Выжившего.",
+                    "zh-CHT": "當 Jockey 在跳上倖存者身上時，2 秒內解決它。",
+                    "zh-CN": "在 Jockey 扑向生还者后的 2 秒内杀死它。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "26.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "UM DEN BART GEGANGEN",
+                    "en-US": "STACHE WHACKER",
+                    "es-ES": "MUSTACHAFADOR",
+                    "fr-FR": "RAPIDE COMME UN MOUSTACHU",
+                    "it-IT": "ACCHIAPPATORE DI TALPE",
+                    "ja-JP": "あいつよりも速く",
+                    "ko-KR": "허풍쟁이 콧수염",
+                    "pl-PL": "CIOS W WĄS",
+                    "pt-PT": "BIGODE GROSSEIRO",
+                    "ru-RU": "УСОБОЙ",
+                    "zh-CHT": "小鬍子肉腳",
+                    "zh-CN": "迅猛攻击"
+                },
+                "description": {
+                    "de-DE": "Beweisen Sie, dass Sie schneller sind als der Schnauzbart.",
+                    "en-US": "Prove you are faster than Moustachio.",
+                    "es-ES": "Demuestra que eres más rápido que Mustachio.",
+                    "fr-FR": "Prouvez que vous êtes plus rapide que Moustachio.",
+                    "it-IT": "Dimostra di essere più veloce di Fustaccio.",
+                    "ja-JP": "ムスタッシオよりも速いことを証明する",
+                    "ko-KR": "콧수염보다 빠르다는 것을 증명하십시오.",
+                    "pl-PL": "Udowodnij, że jesteś szybszy od Wąsacza.",
+                    "pt-PT": "Prove que é mais rápido do que um Moustachio.",
+                    "ru-RU": "Докажите, что вы быстрее Усатого",
+                    "zh-CHT": "證明你比小鬍子快。",
+                    "zh-CN": "证明你比小胡子更快。"
+                },
+                "howto": {
+                    "de-DE": "Beweisen Sie, dass Sie schneller sind als der Schnauzbart.",
+                    "en-US": "Prove you are faster than Moustachio.",
+                    "es-ES": "Demuestra que eres más rápido que Mustachio.",
+                    "fr-FR": "Prouvez que vous êtes plus rapide que Moustachio.",
+                    "it-IT": "Dimostra di essere più veloce di Fustaccio.",
+                    "ja-JP": "ムスタッシオよりも速いことを証明する",
+                    "ko-KR": "콧수염보다 빠르다는 것을 증명하십시오.",
+                    "pl-PL": "Udowodnij, że jesteś szybszy od Wąsacza.",
+                    "pt-PT": "Prove que é mais rápido do que um Moustachio.",
+                    "ru-RU": "Докажите, что вы быстрее Усатого",
+                    "zh-CHT": "證明你比小鬍子快。",
+                    "zh-CN": "证明你比小胡子更快。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "27.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "DEN BART ABRASIERT",
+                    "en-US": "GONG SHOW",
+                    "es-ES": "CAMPANA Y SE ACABÓ",
+                    "fr-FR": "FORT COMME UN MOUSTACHU",
+                    "it-IT": "SUONA IL GONG",
+                    "ja-JP": "ゴングを強く鳴らせ",
+                    "ko-KR": "공 쇼",
+                    "pl-PL": "WIELKI GONG",
+                    "pt-PT": "ESPECTÁCULO GONG",
+                    "ru-RU": "УДАР ГОНГА",
+                    "zh-CHT": "鑼鼓喧天",
+                    "zh-CN": "铜锣秀"
+                },
+                "description": {
+                    "de-DE": "Beweisen Sie, dass Sie stärker sind als der Schnauzbart.",
+                    "en-US": "Prove you are stronger than Moustachio.",
+                    "es-ES": "Demuestra que eres más fuerte que Mustachio.",
+                    "fr-FR": "Prouvez que vous êtes plus fort que Moustachio.",
+                    "it-IT": "Dimostra di essere più forte di Fustaccio.",
+                    "ja-JP": "ムスタッシオよりも強いことを証明する",
+                    "ko-KR": "콧수염보다 힘이 세다는 것을 증명하십시오.",
+                    "pl-PL": "Udowodnij, że jesteś silniejszy od Wąsacza.",
+                    "pt-PT": "Prove que é mais forte do que um Moustachio.",
+                    "ru-RU": "Докажите, что вы сильнее Усатого.",
+                    "zh-CHT": "證明你比小鬍子強壯。",
+                    "zh-CN": "证明你比小胡子更强壮。"
+                },
+                "howto": {
+                    "de-DE": "Beweisen Sie, dass Sie stärker sind als der Schnauzbart.",
+                    "en-US": "Prove you are stronger than Moustachio.",
+                    "es-ES": "Demuestra que eres más fuerte que Mustachio.",
+                    "fr-FR": "Prouvez que vous êtes plus fort que Moustachio.",
+                    "it-IT": "Dimostra di essere più forte di Fustaccio.",
+                    "ja-JP": "ムスタッシオよりも強いことを証明する",
+                    "ko-KR": "콧수염보다 힘이 세다는 것을 증명하십시오.",
+                    "pl-PL": "Udowodnij, że jesteś silniejszy od Wąsacza.",
+                    "pt-PT": "Prove que é mais forte do que um Moustachio.",
+                    "ru-RU": "Докажите, что вы сильнее Усатого.",
+                    "zh-CHT": "證明你比小鬍子強壯。",
+                    "zh-CN": "证明你比小胡子更强壮。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "28.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "ZWERGENBERGUNG",
+                    "en-US": "GUARDIN' GNOME",
+                    "es-ES": "NO SIN MI ENANO",
+                    "fr-FR": "NAIN LIBRE",
+                    "it-IT": "FRONTE LIBERAZIONE NANI",
+                    "ja-JP": "ガーディング・ノーム",
+                    "ko-KR": "Gnome Chompski 보호",
+                    "pl-PL": "KRASNAL STRÓŻ",
+                    "pt-PT": "GNOMO DA GUARDA",
+                    "ru-RU": "СПАСАЕМ ГНОМОВ",
+                    "zh-CHT": "守護小矮人",
+                    "zh-CN": "GNOME 守护天使"
+                },
+                "description": {
+                    "de-DE": "Retten Sie Gnome Chompski in 'Dunkler Karneval'.",
+                    "en-US": "Rescue Gnome Chompski from the Carnival.",
+                    "es-ES": "Rescata a Gnomo Chompski de la feria.",
+                    "fr-FR": "Libérez Gnome Chompski du carnaval.",
+                    "it-IT": "Salva lo Gnomo Chomsky dal luna-park.",
+                    "ja-JP": "ノーム・チョムスキーをカーニバルから救出する",
+                    "ko-KR": "축제에서 Gnome Chompski를 구출하십시오.",
+                    "pl-PL": "Uratuj Gnoma Czompskiego w kampanii Karnawał śmierci.",
+                    "pt-PT": "Salve o Gnomo Chompski do Carnaval.",
+                    "ru-RU": "Спасите с карнавала гнома Чомски.",
+                    "zh-CHT": "從黑色嘉年華救出 Gnome Chompski。",
+                    "zh-CN": "将 Gnome Chompski 救离黑色狂欢节。"
+                },
+                "howto": {
+                    "de-DE": "Retten Sie Gnome Chompski in 'Dunkler Karneval'.",
+                    "en-US": "Rescue Gnome Chompski from the Carnival.",
+                    "es-ES": "Rescata a Gnomo Chompski de la feria.",
+                    "fr-FR": "Libérez Gnome Chompski du carnaval.",
+                    "it-IT": "Salva lo Gnomo Chomsky dal luna-park.",
+                    "ja-JP": "ノーム・チョムスキーをカーニバルから救出する",
+                    "ko-KR": "축제에서 Gnome Chompski를 구출하십시오.",
+                    "pl-PL": "Uratuj Gnoma Czompskiego w kampanii Karnawał śmierci.",
+                    "pt-PT": "Salve o Gnomo Chompski do Carnaval.",
+                    "ru-RU": "Спасите с карнавала гнома Чомски.",
+                    "zh-CHT": "從黑色嘉年華救出 Gnome Chompski。",
+                    "zh-CN": "将 Gnome Chompski 救离黑色狂欢节。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "29.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "FLÜGELKÄMPFE",
+                    "en-US": "WING AND A PRAYER",
+                    "es-ES": "CONTROLADOR AÉREO",
+                    "fr-FR": "INTOUCHABLE",
+                    "it-IT": "DOVE OSANO LE AQUILE",
+                    "ja-JP": "翼に託したかすかな望み",
+                    "ko-KR": "날개와 기도",
+                    "pl-PL": "NA SKRZYDŁACH MODLITWY",
+                    "pt-PT": "ASA E UMA ORAÇÃO",
+                    "ru-RU": "...И НА ОДНОМ КРЫЛЕ",
+                    "zh-CHT": "禱告的翅膀",
+                    "zh-CN": "飞机与祈祷者"
+                },
+                "description": {
+                    "de-DE": "Verteidigen Sie sich beim Flugzeugwrack, ohne dabei Schaden zu nehmen.",
+                    "en-US": "Defend yourself at the crashed airliner without taking damage.",
+                    "es-ES": "Defiende el avión derribado y a ti mismo sin sufrir daño.",
+                    "fr-FR": "Défendez-vous sur le lieu du crash de l'avion sans subir de dégâts.",
+                    "it-IT": "Difenditi presso l'aereo schiantato senza subire danni. ",
+                    "ja-JP": "墜落した旅客機で、ダメージを一切受けることなく自らの身を守り切る",
+                    "ko-KR": "추락한 여객기에서 부상을 입지 않고 스스로를 방어하십시오.",
+                    "pl-PL": "Obroń się przy rozbitym samolocie nie odnosząc żadnych obrażeń.",
+                    "pt-PT": "Defenda-se no avião despenhado sem ficar ferido.",
+                    "ru-RU": "Защитите себя на потерпевшем крушение авиалайнере, не получив урона.",
+                    "zh-CHT": "在飛機失事現場保護自己不失一滴血。",
+                    "zh-CN": "保护你自己在坠毁的飞机中不受伤害。"
+                },
+                "howto": {
+                    "de-DE": "Verteidigen Sie sich beim Flugzeugwrack, ohne dabei Schaden zu nehmen.",
+                    "en-US": "Defend yourself at the crashed airliner without taking damage.",
+                    "es-ES": "Defiende el avión derribado y a ti mismo sin sufrir daño.",
+                    "fr-FR": "Défendez-vous sur le lieu du crash de l'avion sans subir de dégâts.",
+                    "it-IT": "Difenditi presso l'aereo schiantato senza subire danni. ",
+                    "ja-JP": "墜落した旅客機で、ダメージを一切受けることなく自らの身を守り切る",
+                    "ko-KR": "추락한 여객기에서 부상을 입지 않고 스스로를 방어하십시오.",
+                    "pl-PL": "Obroń się przy rozbitym samolocie nie odnosząc żadnych obrażeń.",
+                    "pt-PT": "Defenda-se no avião despenhado sem ficar ferido.",
+                    "ru-RU": "Защитите себя на потерпевшем крушение авиалайнере, не получив урона.",
+                    "zh-CHT": "在飛機失事現場保護自己不失一滴血。",
+                    "zh-CN": "保护你自己在坠毁的飞机中不受伤害。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "30.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "SCHONZEIT",
+                    "en-US": "SOB STORY",
+                    "es-ES": "RESPETAR EL DUELO",
+                    "fr-FR": "PACIFISTE",
+                    "it-IT": "UNA TRISTE STORIA",
+                    "ja-JP": "涙で紡ぐストーリー",
+                    "ko-KR": "눈물 겨운 이야기",
+                    "pl-PL": "RZEWNA HISTERIA",
+                    "pt-PT": "HISTÓRIA DE FAZER CHORAR",
+                    "ru-RU": "СЛЕЗЛИВАЯ ИСТОРИЯ",
+                    "zh-CHT": "感人故事",
+                    "zh-CN": "哭泣的故事"
+                },
+                "description": {
+                    "de-DE": "Bahnen Sie sich einen Weg durch die Zuckerfabrik bis zum Schutzraum, ohne eine Witch zu töten.",
+                    "en-US": "Navigate the sugar mill and reach the safe room without killing any Witches.",
+                    "es-ES": "Muévete por la azucarera y llega al refugio sin matar a ninguna Witch.",
+                    "fr-FR": "Traversez la sucrerie et rejoignez l'abri sans tuer aucune Witch.",
+                    "it-IT": "Supera lo zuccherificio e raggiungi il rifugio senza uccidere nessuna Witch.",
+                    "ja-JP": "Witchを1体も殺すことなく砂糖精製工場を抜け、セーフルームに到達する",
+                    "ko-KR": "사탕수수 제분소를 찾아서 Witch를 죽이지 않고 은신처로 이동하십시오.",
+                    "pl-PL": "Przejdź przez cukrownię i dobiegnij do schronienia nie zabijając ani jednej Witch.",
+                    "pt-PT": "Percorra o moinho de açúcar alcance a sala segura sem matar quaisquer Witches.",
+                    "ru-RU": "Пройдите по сахарному заводу и доберитесь до убежища, не убив ни одной Ведьмы.",
+                    "zh-CHT": "通過製糖廠進入安全室，不殺死任何 Witch。",
+                    "zh-CN": "找到糖厂并在不杀死任何 Witch 的情况下到达安全室。"
+                },
+                "howto": {
+                    "de-DE": "Bahnen Sie sich einen Weg durch die Zuckerfabrik bis zum Schutzraum, ohne eine Witch zu töten.",
+                    "en-US": "Navigate the sugar mill and reach the safe room without killing any Witches.",
+                    "es-ES": "Muévete por la azucarera y llega al refugio sin matar a ninguna Witch.",
+                    "fr-FR": "Traversez la sucrerie et rejoignez l'abri sans tuer aucune Witch.",
+                    "it-IT": "Supera lo zuccherificio e raggiungi il rifugio senza uccidere nessuna Witch.",
+                    "ja-JP": "Witchを1体も殺すことなく砂糖精製工場を抜け、セーフルームに到達する",
+                    "ko-KR": "사탕수수 제분소를 찾아서 Witch를 죽이지 않고 은신처로 이동하십시오.",
+                    "pl-PL": "Przejdź przez cukrownię i dobiegnij do schronienia nie zabijając ani jednej Witch.",
+                    "pt-PT": "Percorra o moinho de açúcar alcance a sala segura sem matar quaisquer Witches.",
+                    "ru-RU": "Пройдите по сахарному заводу и доберитесь до убежища, не убив ни одной Ведьмы.",
+                    "zh-CHT": "通過製糖廠進入安全室，不殺死任何 Witch。",
+                    "zh-CN": "找到糖厂并在不杀死任何 Witch 的情况下到达安全室。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "31.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "IN ALLER STILLE",
+                    "en-US": "VIOLENCE IN SILENCE",
+                    "es-ES": "DESTRUCCIÓN CON DISCRECCIÓN",
+                    "fr-FR": "FURTIVITE",
+                    "it-IT": "VIOLENZA SILENZIOSA",
+                    "ja-JP": "戦略的静寂",
+                    "ko-KR": "침묵 속의 폭력",
+                    "pl-PL": "CICHA PRZEMOC",
+                    "pt-PT": "VIOLÊNCIA EM SILÊNCIO",
+                    "ru-RU": "БЕЗМОЛВНАЯ ЖЕСТОКОСТЬ",
+                    "zh-CHT": "無聲暴力",
+                    "zh-CN": "无声的暴力"
+                },
+                "description": {
+                    "de-DE": "Kämpfen Sie sich durch den Abschlepphof bis zum Friedhof-Schutzraum, ohne einen Alarm auszulösen.",
+                    "en-US": "Navigate the impound lot and reach the cemetery safe room without tripping any alarms.",
+                    "es-ES": "Muévete por el aparcamiento y llega al refugio del cementerio sin disparar ninguna alarma.",
+                    "fr-FR": "Traversez la fourrière et rejoignez l'abri du cimetière sans déclencher d'alarme.",
+                    "it-IT": "Supera il cortile d'auto e raggiungi il rifugio del cimitero senza far scattare nessun allarme.",
+                    "ja-JP": "アラームを鳴らすことなく車両置き場を抜け、墓地セーフルームに到達する",
+                    "ko-KR": "압수품 보관소를 찾아서 경보를 울리지 않고 공동묘지 은신처로 이동하십시오.",
+                    "pl-PL": "Idź przez parking odholowanych aut i znajdź azyl na cmentarzu. Nie włącz żadnego alarmu.",
+                    "pt-PT": "Percorra os veículos apreendidos e alcance o cemitério sem activar quaisquer alarmes.",
+                    "ru-RU": "Пройдите через парковку и доберитесь до убежища на кладбище, не включив ни одной сирены.",
+                    "zh-CHT": "在拘留場移動並抵達墓地的安全室之間，不觸動任何警報。",
+                    "zh-CN": "找到停车场并在没有触发任何警报的情况下到达墓地安全室。"
+                },
+                "howto": {
+                    "de-DE": "Kämpfen Sie sich durch den Abschlepphof bis zum Friedhof-Schutzraum, ohne einen Alarm auszulösen.",
+                    "en-US": "Navigate the impound lot and reach the cemetery safe room without tripping any alarms.",
+                    "es-ES": "Muévete por el aparcamiento y llega al refugio del cementerio sin disparar ninguna alarma.",
+                    "fr-FR": "Traversez la fourrière et rejoignez l'abri du cimetière sans déclencher d'alarme.",
+                    "it-IT": "Supera il cortile d'auto e raggiungi il rifugio del cimitero senza far scattare nessun allarme.",
+                    "ja-JP": "アラームを鳴らすことなく車両置き場を抜け、墓地セーフルームに到達する",
+                    "ko-KR": "압수품 보관소를 찾아서 경보를 울리지 않고 공동묘지 은신처로 이동하십시오.",
+                    "pl-PL": "Idź przez parking odholowanych aut i znajdź azyl na cmentarzu. Nie włącz żadnego alarmu.",
+                    "pt-PT": "Percorra os veículos apreendidos e alcance o cemitério sem activar quaisquer alarmes.",
+                    "ru-RU": "Пройдите через парковку и доберитесь до убежища на кладбище, не включив ни одной сирены.",
+                    "zh-CHT": "在拘留場移動並抵達墓地的安全室之間，不觸動任何警報。",
+                    "zh-CN": "找到停车场并在没有触发任何警报的情况下到达墓地安全室。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "32.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "AUF ZU NEUEN UFERN",
+                    "en-US": "BRIDGE OVER TREBLED SLAUGHTER",
+                    "es-ES": "PUENTE SOBRE HORDAS TRUCULENTAS",
+                    "fr-FR": "TRAVERSEE ECLAIR",
+                    "it-IT": "MASSACRO A TUTTA VELOCITÀ",
+                    "ja-JP": "渋滞？何の渋滞？",
+                    "ko-KR": "대학살의 다리",
+                    "pl-PL": "MOST NAD RZEKĄ KRWI",
+                    "pt-PT": "PONTE SOBRE UM MATADOURO",
+                    "ru-RU": "РЕЗНЯ НА МОСТУ",
+                    "zh-CHT": "惡橋上的屠殺",
+                    "zh-CN": "以强劲火力穿过桥梁"
+                },
+                "description": {
+                    "de-DE": "Überqueren Sie die Brücke im Finale in weniger als 3 Minuten.",
+                    "en-US": "Cross the bridge finale in less than three minutes.",
+                    "es-ES": "En el clímax del puente, cruza en menos de 3 minutos.",
+                    "fr-FR": "Traversez le pont du final en moins de trois minutes.",
+                    "it-IT": "Attraversa il ponte nel finale in meno di tre minuti.",
+                    "ja-JP": "橋(フィナーレ)を3分未満で渡り切る",
+                    "ko-KR": "3분 안에 다리 끝까지 건너십시오.",
+                    "pl-PL": "Przejdź przez most w finale w mniej niż trzy minuty.",
+                    "pt-PT": "Atravesse a ponte em menos de três minutos.",
+                    "ru-RU": "Пройдите финальную часть на мосту менее, чем за 3 минуты.",
+                    "zh-CHT": "在三分鐘內到達橋梁的最末端。",
+                    "zh-CN": "在 3 分钟内穿过桥梁。"
+                },
+                "howto": {
+                    "de-DE": "Überqueren Sie die Brücke im Finale in weniger als 3 Minuten.",
+                    "en-US": "Cross the bridge finale in less than three minutes.",
+                    "es-ES": "En el clímax del puente, cruza en menos de 3 minutos.",
+                    "fr-FR": "Traversez le pont du final en moins de trois minutes.",
+                    "it-IT": "Attraversa il ponte nel finale in meno di tre minuti.",
+                    "ja-JP": "橋(フィナーレ)を3分未満で渡り切る",
+                    "ko-KR": "3분 안에 다리 끝까지 건너십시오.",
+                    "pl-PL": "Przejdź przez most w finale w mniej niż trzy minuty.",
+                    "pt-PT": "Atravesse a ponte em menos de três minutos.",
+                    "ru-RU": "Пройдите финальную часть на мосту менее, чем за 3 минуты.",
+                    "zh-CHT": "在三分鐘內到達橋梁的最末端。",
+                    "zh-CN": "在 3 分钟内穿过桥梁。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "33.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "EIN GUTES HERZ",
+                    "en-US": "HEARTWARMER",
+                    "es-ES": "NO TE VAYAS, CORAZÓN",
+                    "fr-FR": "ESPRIT D'EQUIPE",
+                    "it-IT": "MI SI SCALDA IL CUORE",
+                    "ja-JP": "ハートは曲げない止めさせない",
+                    "ko-KR": "심장마사지",
+                    "pl-PL": "ZŁOTE SERCE",
+                    "pt-PT": "AQUECE O CORAÇÃO",
+                    "ru-RU": "СОГРЕВАТЕЛЬ СЕРДЕЦ",
+                    "zh-CHT": "最甘心",
+                    "zh-CN": "暖人心房"
+                },
+                "description": {
+                    "de-DE": "Verlassen Sie einen Versus-Match-Schutzraum, um ein Teammitglied Defibrillator wiederzubeleben.",
+                    "en-US": "In a Versus round, leave the saferoom to defibrillate a dead teammate.",
+                    "es-ES": "En un Enfrentamiento, sal del refugio para reanimar a un colega muerto con el desfibrilador.",
+                    "fr-FR": "En mode Versus, quittez l'abri pour réanimer un coéquipier à l'aide du défibrillateur.",
+                    "it-IT": "In una partita Avversario, lascia il rifugio per defibrillare un compagno morto.",
+                    "ja-JP": "対戦モードで、セーフルームから出て、AEDで死亡したチームメイトを蘇生させる",
+                    "ko-KR": "대전 매치에서 은신처를 떠나 사망한 동료를 전기 충격으로 소생시키십시오.",
+                    "pl-PL": "Podczas rozgrywki w Kontra wyjdź ze schronienia, aby defibrylatorem reanimować zabitego towarzysza.",
+                    "pt-PT": "Num jogo Versus, abandone a sala segura para desfibrilar um colega de equipa morto.",
+                    "ru-RU": "В режиме сражения выйдите из убежища и верните к жизни павшего товарища с помощью дефибриллятора.",
+                    "zh-CHT": "在對抗比賽中，離開安全室去電擊死亡的隊友。",
+                    "zh-CN": "在对抗比赛中，离开安全室用电击器点击死亡的队友。"
+                },
+                "howto": {
+                    "de-DE": "Verlassen Sie einen Versus-Match-Schutzraum, um ein Teammitglied Defibrillator wiederzubeleben.",
+                    "en-US": "In a Versus round, leave the saferoom to defibrillate a dead teammate.",
+                    "es-ES": "En un Enfrentamiento, sal del refugio para reanimar a un colega muerto con el desfibrilador.",
+                    "fr-FR": "En mode Versus, quittez l'abri pour réanimer un coéquipier à l'aide du défibrillateur.",
+                    "it-IT": "In una partita Avversario, lascia il rifugio per defibrillare un compagno morto.",
+                    "ja-JP": "対戦モードで、セーフルームから出て、AEDで死亡したチームメイトを蘇生させる",
+                    "ko-KR": "대전 매치에서 은신처를 떠나 사망한 동료를 전기 충격으로 소생시키십시오.",
+                    "pl-PL": "Podczas rozgrywki w Kontra wyjdź ze schronienia, aby defibrylatorem reanimować zabitego towarzysza.",
+                    "pt-PT": "Num jogo Versus, abandone a sala segura para desfibrilar um colega de equipa morto.",
+                    "ru-RU": "В режиме сражения выйдите из убежища и верните к жизни павшего товарища с помощью дефибриллятора.",
+                    "zh-CHT": "在對抗比賽中，離開安全室去電擊死亡的隊友。",
+                    "zh-CN": "在对抗比赛中，离开安全室用电击器点击死亡的队友。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "34.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "GEMEINSAM SIND WIR STARK",
+                    "en-US": "STRENGTH IN NUMBERS",
+                    "es-ES": "LA UNIÓN HACE LA FUERZA",
+                    "fr-FR": "LE POIDS DU NOMBRE",
+                    "it-IT": "L'UNIONE FA LA FORZA",
+                    "ja-JP": "真剣勝負",
+                    "ko-KR": "뭉치면 강하다",
+                    "pl-PL": "W ILOŚCI SIŁA",
+                    "pt-PT": "FORÇA EM NÚMEROS",
+                    "ru-RU": "СИЛА В КОЛИЧЕСТВЕ",
+                    "zh-CHT": "團結力量大",
+                    "zh-CN": "团结的力量"
+                },
+                "description": {
+                    "de-DE": "Bilden Sie ein Team, und besiegen Sie im 4:4 Versus- oder Scavenge-Match ein gegnerisches Team.",
+                    "en-US": "Form a team and beat an enemy team in 4v4 Versus or Scavenge.",
+                    "es-ES": "Forma un equipo y derrota a tus rivales en Enfrentamiento o Búsqueda de 4 contra 4.",
+                    "fr-FR": "Formez une équipe et battez une équipe adverse en mode Versus ou Collecte 4 vs 4.",
+                    "it-IT": "Forma una squadra e sconfiggi una squadra nemica in una partita Avversario o Cercatore 4 contro 4.",
+                    "ja-JP": "チームを組み、対戦またはスカベンジモードで4対4で勝負する",
+                    "ko-KR": "팀을 결성하여 4대4 대전 또는 스캐빈지 모드에서 적 팀을 해치우십시오.",
+                    "pl-PL": "Uformuj drużynę i pokonaj przeciwników w trybie Kontra 4 na 4 lub Poszukiwacz.",
+                    "pt-PT": "Forme uma equipa e derrote uma equipa inimiga no modo 4v4 Versus ou Pequisa.",
+                    "ru-RU": "Организуйте команду и победите команду соперников в режиме сбора, 4 на 4.",
+                    "zh-CHT": "建立隊伍，並在 4 對 4 對抗模式或清道夫模式中擊敗敵人。",
+                    "zh-CN": "组成团队并在 4 对 4 的对抗或清道夫游戏中击败对方团队。"
+                },
+                "howto": {
+                    "de-DE": "Bilden Sie ein Team, und besiegen Sie im 4:4 Versus- oder Scavenge-Match ein gegnerisches Team.",
+                    "en-US": "Form a team and beat an enemy team in 4v4 Versus or Scavenge.",
+                    "es-ES": "Forma un equipo y derrota a tus rivales en Enfrentamiento o Búsqueda de 4 contra 4.",
+                    "fr-FR": "Formez une équipe et battez une équipe adverse en mode Versus ou Collecte 4 vs 4.",
+                    "it-IT": "Forma una squadra e sconfiggi una squadra nemica in una partita Avversario o Cercatore 4 contro 4.",
+                    "ja-JP": "チームを組み、対戦またはスカベンジモードで4対4で勝負する",
+                    "ko-KR": "팀을 결성하여 4대4 대전 또는 스캐빈지 모드에서 적 팀을 해치우십시오.",
+                    "pl-PL": "Uformuj drużynę i pokonaj przeciwników w trybie Kontra 4 na 4 lub Poszukiwacz.",
+                    "pt-PT": "Forme uma equipa e derrote uma equipa inimiga no modo 4v4 Versus ou Pequisa.",
+                    "ru-RU": "Организуйте команду и победите команду соперников в режиме сбора, 4 на 4.",
+                    "zh-CHT": "建立隊伍，並在 4 對 4 對抗模式或清道夫模式中擊敗敵人。",
+                    "zh-CN": "组成团队并在 4 对 4 的对抗或清道夫游戏中击败对方团队。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "35.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "SATTELFEST",
+                    "en-US": "QUALIFIED RIDE",
+                    "es-ES": "JINETE EXPERTO",
+                    "fr-FR": "PREMIER GALOP",
+                    "it-IT": "CAVALIERE PROVETTO",
+                    "ja-JP": "ジョッキー卒検",
+                    "ko-KR": "합법적인 탑승",
+                    "pl-PL": "LICENCJA NA UJEŻDŻANIE",
+                    "pt-PT": "CAVALGADA QUALIFICADA",
+                    "ru-RU": "УМЕЛЫЙ НАЕЗДНИК",
+                    "zh-CHT": "優良駕駛",
+                    "zh-CN": "骑乘资格证"
+                },
+                "description": {
+                    "de-DE": "Reiten Sie als Jockey mehr als 12 Sekunden auf einem Überlebenden.",
+                    "en-US": "As the Jockey, ride a Survivor for more than 12 seconds.",
+                    "es-ES": "Como Jockey, monta a un mismo superviviente más de 12 segundos.",
+                    "fr-FR": "En tant que Jockey, chevauchez un survivant pendant plus de 12 secondes.",
+                    "it-IT": "Come Jockey, cavalca un Survivor per più di 12 secondi.",
+                    "ja-JP": "Jockeyとしてプレイ中に、生存者に12秒以上乗り続ける",
+                    "ko-KR": "Jockey로 생존자 위에 올라타서 12초 이상 버티십시오.",
+                    "pl-PL": "Grając jako Jockey utrzymaj się na plecach Ocalałego przez ponad 12 sekund.",
+                    "pt-PT": "Enquanto Jockey, conduza um Sobrevivente durante mais de 12 segundos.",
+                    "ru-RU": "Играя за Жокея, продержитесь на Выжившем более 12 секунд.",
+                    "zh-CHT": "成為 Jockey，騎上倖存者超過 12 秒。",
+                    "zh-CN": "扮演一名 Jockey，骑在一名生还者身上超过 12 秒。"
+                },
+                "howto": {
+                    "de-DE": "Reiten Sie als Jockey mehr als 12 Sekunden auf einem Überlebenden.",
+                    "en-US": "As the Jockey, ride a Survivor for more than 12 seconds.",
+                    "es-ES": "Como Jockey, monta a un mismo superviviente más de 12 segundos.",
+                    "fr-FR": "En tant que Jockey, chevauchez un survivant pendant plus de 12 secondes.",
+                    "it-IT": "Come Jockey, cavalca un Survivor per più di 12 secondi.",
+                    "ja-JP": "Jockeyとしてプレイ中に、生存者に12秒以上乗り続ける",
+                    "ko-KR": "Jockey로 생존자 위에 올라타서 12초 이상 버티십시오.",
+                    "pl-PL": "Grając jako Jockey utrzymaj się na plecach Ocalałego przez ponad 12 sekund.",
+                    "pt-PT": "Enquanto Jockey, conduza um Sobrevivente durante mais de 12 segundos.",
+                    "ru-RU": "Играя за Жокея, продержитесь на Выжившем более 12 секунд.",
+                    "zh-CHT": "成為 Jockey，騎上倖存者超過 12 秒。",
+                    "zh-CN": "扮演一名 Jockey，骑在一名生还者身上超过 12 秒。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "36.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "HARTNÄCKIG",
+                    "en-US": "BACK IN THE SADDLE",
+                    "es-ES": "DOMADOR DE SUPERVIVIENTES",
+                    "fr-FR": "EN SELLE",
+                    "it-IT": "DI NUOVO IN SELLA",
+                    "ja-JP": "再び鞍上は俺",
+                    "ko-KR": "재탑승",
+                    "pl-PL": "ZNÓW W SIODLE",
+                    "pt-PT": "DE VOLTA À SELA",
+                    "ru-RU": "СНОВА В СЕДЛЕ",
+                    "zh-CHT": "熱門房車",
+                    "zh-CN": "重新上马"
+                },
+                "description": {
+                    "de-DE": "Reiten Sie als Jockey zweimal in einem Leben auf einem Überlebenden.",
+                    "en-US": "As the Jockey, ride the Survivors twice in a single life.",
+                    "es-ES": "Como Jockey, monta a dos supervivientes en la misma vida.",
+                    "fr-FR": "Chevauchez les survivants deux fois en une seule vie de Jockey.",
+                    "it-IT": "Come Jockey, cavalca due volte i Survivor in un'unica vita.",
+                    "ja-JP": "Jockeyとしてプレイ中に、一度も死ぬことなく2名の生存者に飛びかかる",
+                    "ko-KR": "Jockey로 한 번도 죽지 않고 생존자 위에 2번 올라타십시오.",
+                    "pl-PL": "Grając jako Jockey dwukrotnie wskocz na Ocalałego nie tracąc życia.",
+                    "pt-PT": "Enquanto Jockey, conduza os Sobreviventes duas vezes numa só vida.",
+                    "ru-RU": "Играя за Жокея, прокатитесь на Выживших дважды за одну жизнь.",
+                    "zh-CHT": "成為 Jockey，用一條命騎上倖存者兩次。",
+                    "zh-CN": "扮演一名 Jockey，在一次生命中骑在一名生还者身上两次。"
+                },
+                "howto": {
+                    "de-DE": "Reiten Sie als Jockey zweimal in einem Leben auf einem Überlebenden.",
+                    "en-US": "As the Jockey, ride the Survivors twice in a single life.",
+                    "es-ES": "Como Jockey, monta a dos supervivientes en la misma vida.",
+                    "fr-FR": "Chevauchez les survivants deux fois en une seule vie de Jockey.",
+                    "it-IT": "Come Jockey, cavalca due volte i Survivor in un'unica vita.",
+                    "ja-JP": "Jockeyとしてプレイ中に、一度も死ぬことなく2名の生存者に飛びかかる",
+                    "ko-KR": "Jockey로 한 번도 죽지 않고 생존자 위에 2번 올라타십시오.",
+                    "pl-PL": "Grając jako Jockey dwukrotnie wskocz na Ocalałego nie tracąc życia.",
+                    "pt-PT": "Enquanto Jockey, conduza os Sobreviventes duas vezes numa só vida.",
+                    "ru-RU": "Играя за Жокея, прокатитесь на Выживших дважды за одну жизнь.",
+                    "zh-CHT": "成為 Jockey，用一條命騎上倖存者兩次。",
+                    "zh-CN": "扮演一名 Jockey，在一次生命中骑在一名生还者身上两次。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "37.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "de-DE": "VOM REGEN IN DIE TRAUFE",
+                    "en-US": "RODE HARD, PUT AWAY WET",
+                    "es-ES": "EL JINETE ÁCIDO",
+                    "fr-FR": "ARDEURS REFROIDIES",
+                    "it-IT": "NON VOLEVO BAGNARMI I PIEDI",
+                    "ja-JP": "馬を水際まで連れて行くことはできるが、、、",
+                    "ko-KR": "푹 적시세요",
+                    "pl-PL": "TWARDA JAZDA, MOKRA ROBOTA",
+                    "pt-PT": "MASTIGADO E CUSPIDO",
+                    "ru-RU": "ЕХАЛ ТАК, ЧТО АЖ ВЗМОК",
+                    "zh-CHT": "極致駕馭，瀟灑不沾黏",
+                    "zh-CN": "殚精竭虑"
+                },
+                "description": {
+                    "de-DE": "Springen Sie auf einen Überlebenden und lenken Sie ihn in eine Pfütze Spitter-Schleims.",
+                    "en-US": "As the Jockey, ride a Survivor and steer them into a Spitter's acid patch.",
+                    "es-ES": "Como Jockey, monta a un superviviente y condúcelo al charco de ácido de una Spitter.",
+                    "fr-FR": "En tant que Jockey, chevauchez un survivant et menez-le dans une flaque d'acide de Spitter.",
+                    "it-IT": "Come Jockey, cavalca un Survivor e portalo in mezzo alla pozza d'acido di una Spitter.",
+                    "ja-JP": "Jockeyとしてプレイ中に、生存者をSpitterの酸性液まで移動させる",
+                    "ko-KR": "Jockey로 생존자 위에 올라타서 Spitter의 산성 액체 안으로 끌고 가십시오.",
+                    "pl-PL": "Grając jako Jockey wskocz na Ocalałego i wprowadź go na kałużę kwasu Spittera.",
+                    "pt-PT": "Enquanto Jockey, conduza um Sobrevivente para uma cura ácida de Spitter.",
+                    "ru-RU": "Играя за Жокея, оседлайте Выжившего и заведите его в кислоту Плевальщицы.",
+                    "zh-CHT": "成為 Jockey，騎上倖存者並踩踏 Spitter 酸液附著的地方。",
+                    "zh-CN": "扮演一名 Jockey，骑在一名生还者身上并控制他走进 Spitter 喷出的酸液中。"
+                },
+                "howto": {
+                    "de-DE": "Springen Sie auf einen Überlebenden und lenken Sie ihn in eine Pfütze Spitter-Schleims.",
+                    "en-US": "As the Jockey, ride a Survivor and steer them into a Spitter's acid patch.",
+                    "es-ES": "Como Jockey, monta a un superviviente y condúcelo al charco de ácido de una Spitter.",
+                    "fr-FR": "En tant que Jockey, chevauchez un survivant et menez-le dans une flaque d'acide de Spitter.",
+                    "it-IT": "Come Jockey, cavalca un Survivor e portalo in mezzo alla pozza d'acido di una Spitter.",
+                    "ja-JP": "Jockeyとしてプレイ中に、生存者をSpitterの酸性液まで移動させる",
+                    "ko-KR": "Jockey로 생존자 위에 올라타서 Spitter의 산성 액체 안으로 끌고 가십시오.",
+                    "pl-PL": "Grając jako Jockey wskocz na Ocalałego i wprowadź go na kałużę kwasu Spittera.",
+                    "pt-PT": "Enquanto Jockey, conduza um Sobrevivente para uma cura ácida de Spitter.",
+                    "ru-RU": "Играя за Жокея, оседлайте Выжившего и заведите его в кислоту Плевальщицы.",
+                    "zh-CHT": "成為 Jockey，騎上倖存者並踩踏 Spitter 酸液附著的地方。",
+                    "zh-CN": "扮演一名 Jockey，骑在一名生还者身上并控制他走进 Spitter 喷出的酸液中。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "38.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "de-DE": "ERGIEBIGE NIEDERSCHLÄGE",
+                    "en-US": "GREAT EXPECTORATIONS",
+                    "es-ES": "CONGRESO DE LOS ESPUTADOS",
+                    "fr-FR": "JET PRIVE",
+                    "it-IT": "UN PO' DI CATARRO",
+                    "ja-JP": "大いなる胃酸",
+                    "ko-KR": "최고의 분비물",
+                    "pl-PL": "ALE PLAMA!",
+                    "pt-PT": "GRANDES EXPECTORAÇÕES",
+                    "ru-RU": "ЧЕМПИОН ПО ПЛЕВКАМ",
+                    "zh-CHT": "偉大的痰",
+                    "zh-CN": "完美喷吐"
+                },
+                "description": {
+                    "de-DE": "Benetzen Sie als Spitter jeden Überlebenden mit einem einzelnen Schleimschauer.",
+                    "en-US": "As the Spitter, hit every Survivor with a single acid patch.",
+                    "es-ES": "Como Spitter, impacta a todos los supervivientes con el mismo charco de ácido.",
+                    "fr-FR": "En tant que Spitter, touchez chaque survivant à l'aide d'une seule zone d'acide.",
+                    "it-IT": "Come Spitter, colpisci ogni Survivor con un'unica pozza di acido.",
+                    "ja-JP": "Spitterとしてプレイ中に、1発の酸性液を生存者全員にヒットさせる",
+                    "ko-KR": "Spitter로 한 번의 산성 침으로 모든 생존자를 맞히십시오.",
+                    "pl-PL": "Grając jako Spitter zadaj obrażenia wszystkim Ocalałym za pomocą jednej kałuży kwasu.",
+                    "pt-PT": "Enquanto Spitter, atinja todos os Sobreviventes com uma única cura ácida.",
+                    "ru-RU": "Играя за Плевальщицу, забрызгайте всех Выживших одним плевком.",
+                    "zh-CHT": "成為 Spitter，讓每個倖存者都踩到相同的酸液附著處。",
+                    "zh-CN": "扮演一名 Spitter，使用单次酸性喷吐击中所有生还者。"
+                },
+                "howto": {
+                    "de-DE": "Benetzen Sie als Spitter jeden Überlebenden mit einem einzelnen Schleimschauer.",
+                    "en-US": "As the Spitter, hit every Survivor with a single acid patch.",
+                    "es-ES": "Como Spitter, impacta a todos los supervivientes con el mismo charco de ácido.",
+                    "fr-FR": "En tant que Spitter, touchez chaque survivant à l'aide d'une seule zone d'acide.",
+                    "it-IT": "Come Spitter, colpisci ogni Survivor con un'unica pozza di acido.",
+                    "ja-JP": "Spitterとしてプレイ中に、1発の酸性液を生存者全員にヒットさせる",
+                    "ko-KR": "Spitter로 한 번의 산성 침으로 모든 생존자를 맞히십시오.",
+                    "pl-PL": "Grając jako Spitter zadaj obrażenia wszystkim Ocalałym za pomocą jednej kałuży kwasu.",
+                    "pt-PT": "Enquanto Spitter, atinja todos os Sobreviventes com uma única cura ácida.",
+                    "ru-RU": "Играя за Плевальщицу, забрызгайте всех Выживших одним плевком.",
+                    "zh-CHT": "成為 Spitter，讓每個倖存者都踩到相同的酸液附著處。",
+                    "zh-CN": "扮演一名 Spitter，使用单次酸性喷吐击中所有生还者。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "39.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "DOPPELT HÄLT BESSER",
+                    "en-US": "A SPITTLE HELP FROM MY FRIENDS",
+                    "es-ES": "ÉCHAME UNA MANO, AMIGO",
+                    "fr-FR": "MAIN-FORTE",
+                    "it-IT": "UNO SPUTO NON SI RIFIUTA MAI",
+                    "ja-JP": "しあげは強い酸",
+                    "ko-KR": "친구를 돕는 침",
+                    "pl-PL": "CIEKŁA ASYSTA PRZYJACIÓŁ",
+                    "pt-PT": "AJUDA SPITTLE DOS MEUS AMIGOS",
+                    "ru-RU": "ПЛЮНУЛ - ПОМОГ ДРУГУ",
+                    "zh-CHT": "唾液之交",
+                    "zh-CN": "队友的 SPITTLE 协助"
+                },
+                "description": {
+                    "de-DE": "Kotzen Sie als Spitter auf einen Überlebenden, der gerade von einem Smoker gewürgt wird.",
+                    "en-US": "As the Spitter, spit on a Survivor being choked by a Smoker.",
+                    "es-ES": "Como Spitter, escupe a un superviviente al que esté ahogando un Smoker.",
+                    "fr-FR": "En tant que Spitter, crachez sur un survivant en train de se faire étrangler par un Smoker.",
+                    "it-IT": "Come Spitter, sputa su un Survivor soffocato da uno Smoker.",
+                    "ja-JP": "Spitterとしてプレイ中に、Smokerが締め上げている生存者に酸性液を当てる",
+                    "ko-KR": "Spitter로 Smoker한테 질식당하고 있는 생존자에게 침을 뱉으십시오.",
+                    "pl-PL": "Grając jako Spitter spluń na Ocalałego duszonego przez Smokera.",
+                    "pt-PT": "Enquanto Spitter, cuspa num Sobrevivente a ser sufocado por um Smoker.",
+                    "ru-RU": "Играя за Плевальщицу, плюньте на Выжившего, которого душит Курильщик.",
+                    "zh-CHT": "成為 Spitter，在倖存者被 Smoker 勒住時，朝他們吐酸液。",
+                    "zh-CN": "扮演一名 Spitter，向一名被 Smoker 弄窒息的生还者喷吐酸液。"
+                },
+                "howto": {
+                    "de-DE": "Kotzen Sie als Spitter auf einen Überlebenden, der gerade von einem Smoker gewürgt wird.",
+                    "en-US": "As the Spitter, spit on a Survivor being choked by a Smoker.",
+                    "es-ES": "Como Spitter, escupe a un superviviente al que esté ahogando un Smoker.",
+                    "fr-FR": "En tant que Spitter, crachez sur un survivant en train de se faire étrangler par un Smoker.",
+                    "it-IT": "Come Spitter, sputa su un Survivor soffocato da uno Smoker.",
+                    "ja-JP": "Spitterとしてプレイ中に、Smokerが締め上げている生存者に酸性液を当てる",
+                    "ko-KR": "Spitter로 Smoker한테 질식당하고 있는 생존자에게 침을 뱉으십시오.",
+                    "pl-PL": "Grając jako Spitter spluń na Ocalałego duszonego przez Smokera.",
+                    "pt-PT": "Enquanto Spitter, cuspa num Sobrevivente a ser sufocado por um Smoker.",
+                    "ru-RU": "Играя за Плевальщицу, плюньте на Выжившего, которого душит Курильщик.",
+                    "zh-CHT": "成為 Spitter，在倖存者被 Smoker 勒住時，朝他們吐酸液。",
+                    "zh-CN": "扮演一名 Spitter，向一名被 Smoker 弄窒息的生还者喷吐酸液。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "40.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "de-DE": "SCHNEISE DER VERWÜSTUNG",
+                    "en-US": "SCATTERING RAM",
+                    "es-ES": "ARIETE HUMANO",
+                    "fr-FR": "STRIKE",
+                    "it-IT": "GIOCO DEI BIRILLI",
+                    "ja-JP": "ストライク!",
+                    "ko-KR": "흩어지는 양",
+                    "pl-PL": "BARAN-TARAN",
+                    "pt-PT": "GOLPES DISPERSOS",
+                    "ru-RU": "ТАРАН",
+                    "zh-CHT": "一擊全倒",
+                    "zh-CN": "一击全中"
+                },
+                "description": {
+                    "de-DE": "Preschen Sie als Charger in einem einzelnen Ansturm durch das komplette gegnerische Team.",
+                    "en-US": "As the Charger, bowl through the entire enemy team in a single charge.",
+                    "es-ES": "Como Charger, empuja al equipo rival entero con una misma carga.",
+                    "fr-FR": "En tant que Charger, renversez tous les membres de l'équipe adverse en une seule charge.",
+                    "it-IT": "Come Charger, colpisci l'intera squadra nemica in un'unica carica.",
+                    "ja-JP": "Chargerとしてプレイ中に、1回の突進で敵チーム全員をはじき倒す",
+                    "ko-KR": "Charger로 한 번의 돌격으로 모든 적 팀을 흐트러뜨리십시오.",
+                    "pl-PL": "Grając jako Charger przebij się przez całą drużynę przeciwnika w trakcie jednego ataku.",
+                    "pt-PT": "Enquanto Charger, atinja toda a equipa inimiga com uma só carga.",
+                    "ru-RU": "Играя за Громилу, прорвитесь через всю группу врагов за один рывок.",
+                    "zh-CHT": "成為 Charger，一次衝鋒攻擊就擊倒整個敵方隊伍。",
+                    "zh-CN": "扮演一名 Charger，使用单次冲锋击倒整个敌人队伍。"
+                },
+                "howto": {
+                    "de-DE": "Preschen Sie als Charger in einem einzelnen Ansturm durch das komplette gegnerische Team.",
+                    "en-US": "As the Charger, bowl through the entire enemy team in a single charge.",
+                    "es-ES": "Como Charger, empuja al equipo rival entero con una misma carga.",
+                    "fr-FR": "En tant que Charger, renversez tous les membres de l'équipe adverse en une seule charge.",
+                    "it-IT": "Come Charger, colpisci l'intera squadra nemica in un'unica carica.",
+                    "ja-JP": "Chargerとしてプレイ中に、1回の突進で敵チーム全員をはじき倒す",
+                    "ko-KR": "Charger로 한 번의 돌격으로 모든 적 팀을 흐트러뜨리십시오.",
+                    "pl-PL": "Grając jako Charger przebij się przez całą drużynę przeciwnika w trakcie jednego ataku.",
+                    "pt-PT": "Enquanto Charger, atinja toda a equipa inimiga com uma só carga.",
+                    "ru-RU": "Играя за Громилу, прорвитесь через всю группу врагов за один рывок.",
+                    "zh-CHT": "成為 Charger，一次衝鋒攻擊就擊倒整個敵方隊伍。",
+                    "zh-CN": "扮演一名 Charger，使用单次冲锋击倒整个敌人队伍。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "41.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "WEICHGEKLOPFT",
+                    "en-US": "MEAT TENDERIZER",
+                    "es-ES": "ABLANDADOR DE CARNE",
+                    "fr-FR": "BULLDOZER",
+                    "it-IT": "BATTICARNE",
+                    "ja-JP": "肉が柔らかく",
+                    "ko-KR": "고기 다지기",
+                    "pl-PL": "NO TO KLOPS",
+                    "pt-PT": "AMACIADOR DE CARNE",
+                    "ru-RU": "МОЛОТОК ДЛЯ МЯСА",
+                    "zh-CHT": "絞肉機",
+                    "zh-CN": "轧肉机器"
+                },
+                "description": {
+                    "de-DE": "Schnappen Sie sich als Charger einen Überlebenden, und halten Sie ihn für 15 Sekunden am Boden.",
+                    "en-US": "As the Charger, grab a Survivor and smash them into the ground for a solid 15 seconds.",
+                    "es-ES": "Como Charger, agarra a un superviviente y aplástalo contra el suelo durante 15 segundos sin pausas.",
+                    "fr-FR": "En tant que Charger, attrapez un survivant et frappez-le contre le sol pendant 15 secondes.",
+                    "it-IT": "Come Charger, prendi un Survivor e sbattilo a terra per almeno 15 secondi.",
+                    "ja-JP": "Chargerとしてプレイ中に、生存者を地面に叩きつけてから15秒間ミッチリ殴り倒す",
+                    "ko-KR": "Charger로 생존자를 잡아서 15초 내내 땅으로 내려 치십시오.",
+                    "pl-PL": "Grając jako Charger chwyć Ocalałego i uderzaj nim o ziemię przez 15 sekund.",
+                    "pt-PT": "Enquanto Charger, agarre um Sobrevivente e esmague-o no solo durante 15 segundos.",
+                    "ru-RU": "Играя за Громилу, схватите Выжившего и вбивайте его в землю не менее 15 секунд.",
+                    "zh-CHT": "成為 Charger，實實在在的抓著倖存者撞地板 15 秒鐘。",
+                    "zh-CN": "扮演一名 Charger，抓住一名生还者并将其击垮在地 15 秒。"
+                },
+                "howto": {
+                    "de-DE": "Schnappen Sie sich als Charger einen Überlebenden, und halten Sie ihn für 15 Sekunden am Boden.",
+                    "en-US": "As the Charger, grab a Survivor and smash them into the ground for a solid 15 seconds.",
+                    "es-ES": "Como Charger, agarra a un superviviente y aplástalo contra el suelo durante 15 segundos sin pausas.",
+                    "fr-FR": "En tant que Charger, attrapez un survivant et frappez-le contre le sol pendant 15 secondes.",
+                    "it-IT": "Come Charger, prendi un Survivor e sbattilo a terra per almeno 15 secondi.",
+                    "ja-JP": "Chargerとしてプレイ中に、生存者を地面に叩きつけてから15秒間ミッチリ殴り倒す",
+                    "ko-KR": "Charger로 생존자를 잡아서 15초 내내 땅으로 내려 치십시오.",
+                    "pl-PL": "Grając jako Charger chwyć Ocalałego i uderzaj nim o ziemię przez 15 sekund.",
+                    "pt-PT": "Enquanto Charger, agarre um Sobrevivente e esmague-o no solo durante 15 segundos.",
+                    "ru-RU": "Играя за Громилу, схватите Выжившего и вбивайте его в землю не менее 15 секунд.",
+                    "zh-CHT": "成為 Charger，實實在在的抓著倖存者撞地板 15 秒鐘。",
+                    "zh-CN": "扮演一名 Charger，抓住一名生还者并将其击垮在地 15 秒。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "42.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "ABSCHLEPPDIENST",
+                    "en-US": "LONG DISTANCE CARRIER",
+                    "es-ES": "TRANSPORTE DE LARGO RECORRIDO",
+                    "fr-FR": "TRANSPORT NON COMMUN",
+                    "it-IT": "TU VIENI CON ME",
+                    "ja-JP": "長距離輸送",
+                    "ko-KR": "장거리 운반",
+                    "pl-PL": "DOSTAWA DŁUGODYSTANSOWA",
+                    "pt-PT": "TRANSPORTADOR LONGA DISTÂNCIA",
+                    "ru-RU": "В ДАЛЬНИЙ ПУТЬ",
+                    "zh-CHT": "挑夫",
+                    "zh-CN": "长途胁持"
+                },
+                "description": {
+                    "de-DE": "Schnappen Sie sich als Charger einen Überlebenden, und schleppen Sie ihn über 24 Meter weit.",
+                    "en-US": "As the Charger, grab a Survivor and carry them over 80 feet.",
+                    "es-ES": "Como Charger, agarra a un superviviente y llévalo contigo 25 metros.",
+                    "fr-FR": "En tant que Charger, attrapez un survivant et portez-le sur 25 mètres.",
+                    "it-IT": "Come Charger, prendi un Survivor e trasportalo per almeno 25 metri.",
+                    "ja-JP": "Chargerとしてプレイ中に、生存者を掴んで25メートル移動する",
+                    "ko-KR": "Charger로 생존자를 잡아서 80피트 이상 끌고 가십시오.",
+                    "pl-PL": "Grając jako Charger chwyć Ocalałego i przebiegnij z nim ok. 25 metrów.",
+                    "pt-PT": "Enquanto Charger, agarre um Sobrevivente e transporte-o mais de 20 metros.",
+                    "ru-RU": "Играя за Громилу, схватите Выжившего и протащите его не менее 80 футов.",
+                    "zh-CHT": "成為 Charger，抓起倖存者移動超過 80 呎。",
+                    "zh-CN": "扮演一名 Charger，抓住一名生还者并将其拖出超过 80 英尺。"
+                },
+                "howto": {
+                    "de-DE": "Schnappen Sie sich als Charger einen Überlebenden, und schleppen Sie ihn über 24 Meter weit.",
+                    "en-US": "As the Charger, grab a Survivor and carry them over 80 feet.",
+                    "es-ES": "Como Charger, agarra a un superviviente y llévalo contigo 25 metros.",
+                    "fr-FR": "En tant que Charger, attrapez un survivant et portez-le sur 25 mètres.",
+                    "it-IT": "Come Charger, prendi un Survivor e trasportalo per almeno 25 metri.",
+                    "ja-JP": "Chargerとしてプレイ中に、生存者を掴んで25メートル移動する",
+                    "ko-KR": "Charger로 생존자를 잡아서 80피트 이상 끌고 가십시오.",
+                    "pl-PL": "Grając jako Charger chwyć Ocalałego i przebiegnij z nim ok. 25 metrów.",
+                    "pt-PT": "Enquanto Charger, agarre um Sobrevivente e transporte-o mais de 20 metros.",
+                    "ru-RU": "Играя за Громилу, схватите Выжившего и протащите его не менее 80 футов.",
+                    "zh-CHT": "成為 Charger，抓起倖存者移動超過 80 呎。",
+                    "zh-CN": "扮演一名 Charger，抓住一名生还者并将其拖出超过 80 英尺。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "43.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "de-DE": "WARUM IN DIE FERNE SCHWEIFEN",
+                    "en-US": "BEAT THE RUSH",
+                    "es-ES": "SIN GASTAR UNA BALA",
+                    "fr-FR": "TUEUR INTIME",
+                    "it-IT": "LE MUNIZIONI SONO UN OPTIONAL",
+                    "ja-JP": "目の前の敵を倒し続けて",
+                    "ko-KR": "무리 처치",
+                    "pl-PL": "KONTROLA TŁUMU",
+                    "pt-PT": "VENÇA A PRESSA",
+                    "ru-RU": "ЖАЖДА УБИВАТЬ",
+                    "zh-CHT": "猛龍過江",
+                    "zh-CN": "冲锋陷阵"
+                },
+                "description": {
+                    "de-DE": "Verdienen Sie sich in einem Survival-Match eine Medaille nur mithilfe von Nahkampfwaffen.",
+                    "en-US": "In a Survival round, get a medal only using melee weapons.",
+                    "es-ES": "En una partida de Supervivencia, obtén una medalla usando sólo armas de cuerpo a cuerpo.",
+                    "fr-FR": "En mode Survie, obtenez une médaille en utilisant uniquement des armes de corps à corps.",
+                    "it-IT": "In una partita Survival, conquista una medaglia usando solo armi da corpo a corpo.",
+                    "ja-JP": "サバイバルマッチで、近接武器だけを使用してメダルを獲得する",
+                    "ko-KR": "서바이벌 매치에서 근접 무기만 사용하여 메달을 획득하십시오.",
+                    "pl-PL": "Podczas rozgrywki Przetrwanie zdobądź medal korzystając jedynie z broni do walki wręcz.",
+                    "pt-PT": "Num jogo de Sobrevivência, obtenha uma medalha utilizando apenas armas corpo a corpo.",
+                    "ru-RU": "В игре в режиме выживания получите медаль, используя только рукопашное оружие.",
+                    "zh-CHT": "在生存遊戲比賽中，獲得只使用近戰武器的勳章。",
+                    "zh-CN": "在生还者模式比赛中，仅使用近战武器获得一枚勋章。"
+                },
+                "howto": {
+                    "de-DE": "Verdienen Sie sich in einem Survival-Match eine Medaille nur mithilfe von Nahkampfwaffen.",
+                    "en-US": "In a Survival round, get a medal only using melee weapons.",
+                    "es-ES": "En una partida de Supervivencia, obtén una medalla usando sólo armas de cuerpo a cuerpo.",
+                    "fr-FR": "En mode Survie, obtenez une médaille en utilisant uniquement des armes de corps à corps.",
+                    "it-IT": "In una partita Survival, conquista una medaglia usando solo armi da corpo a corpo.",
+                    "ja-JP": "サバイバルマッチで、近接武器だけを使用してメダルを獲得する",
+                    "ko-KR": "서바이벌 매치에서 근접 무기만 사용하여 메달을 획득하십시오.",
+                    "pl-PL": "Podczas rozgrywki Przetrwanie zdobądź medal korzystając jedynie z broni do walki wręcz.",
+                    "pt-PT": "Num jogo de Sobrevivência, obtenha uma medalha utilizando apenas armas corpo a corpo.",
+                    "ru-RU": "В игре в режиме выживания получите медаль, используя только рукопашное оружие.",
+                    "zh-CHT": "在生存遊戲比賽中，獲得只使用近戰武器的勳章。",
+                    "zh-CN": "在生还者模式比赛中，仅使用近战武器获得一枚勋章。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "44.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "JAGDSAISON",
+                    "en-US": "HUNTING PARTY",
+                    "es-ES": "PARTIDA DE CAZA",
+                    "fr-FR": "PARTIE DE CHASSE",
+                    "it-IT": "NON PERDO MAI NIENTE",
+                    "ja-JP": "ハンティング・パーティー",
+                    "ko-KR": "사냥 파티",
+                    "pl-PL": "POLOWANIE",
+                    "pt-PT": "FESTA DE CAÇA",
+                    "ru-RU": "ДОБРОЙ ОХОТЫ",
+                    "zh-CHT": "狩獵季節",
+                    "zh-CN": "狩猎盛宴"
+                },
+                "description": {
+                    "de-DE": "Gewinnen Sie ein Scavenge-Match.",
+                    "en-US": "Win a game of Scavenge.",
+                    "es-ES": "Gana una partida de Búsqueda.",
+                    "fr-FR": "Remportez une partie en mode Collecte.",
+                    "it-IT": "Vinci una partita Cercatore.",
+                    "ja-JP": "スカベンジモードで勝利する",
+                    "ko-KR": "스캐빈지 게임에서 이기십시오.",
+                    "pl-PL": "Wygraj rozgrywkę w trybie Poszukiwacz.",
+                    "pt-PT": "Ganhe um jogo de Pequisa.",
+                    "ru-RU": "Выиграйте игру в режиме сбора.",
+                    "zh-CHT": "在清道夫模式遊戲獲勝。",
+                    "zh-CN": "赢得一场清道夫模式游戏的胜利"
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie ein Scavenge-Match.",
+                    "en-US": "Win a game of Scavenge.",
+                    "es-ES": "Gana una partida de Búsqueda.",
+                    "fr-FR": "Remportez une partie Collecte.",
+                    "it-IT": "Vinci una partita Cercatore.",
+                    "ja-JP": "スカベンジモードで勝利する",
+                    "ko-KR": "스캐빈지 게임에서 이기십시오.",
+                    "pl-PL": "Wygraj rozgrywkę w Poszukiwacz.",
+                    "pt-PT": "Ganhe um jogo de Pequisa.",
+                    "ru-RU": "Выиграйте игру в режиме сбора.",
+                    "zh-CHT": "在清道夫模式遊戲獲勝。",
+                    "zh-CN": "赢得一场清道夫模式游戏的胜利"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "45.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "SPRITFRESSER",
+                    "en-US": "GAS GUZZLER",
+                    "es-ES": "MAGNATE DEL PETRÓLEO",
+                    "fr-FR": "SIPHONNEUR",
+                    "it-IT": "CON QUELLO CHE COSTA...",
+                    "ja-JP": "燃費悪いの?",
+                    "ko-KR": "기름 폭식자",
+                    "pl-PL": "PALI JAK SMOK",
+                    "pt-PT": "GLUTÃO DE COMBUSTÍVEL",
+                    "ru-RU": "ТОКСИКОМАН",
+                    "zh-CHT": "油桶癖",
+                    "zh-CN": "瓦斯狂人"
+                },
+                "description": {
+                    "de-DE": "Sammeln Sie 100 Benzinkanister im Scavenge-Modus.",
+                    "en-US": "Collect 100 gas cans in Scavenge.",
+                    "es-ES": "Recoge 100 latas de gasolina en Búsqueda.",
+                    "fr-FR": "Récupérez 100 bidons d'essence en mode Collecte.",
+                    "it-IT": "Raccogli 100 taniche di carburante in modalità Cercatore.",
+                    "ja-JP": "スカベンジモードで燃料タンクを100個集める",
+                    "ko-KR": "스캐빈지 모드에서 100개의 기름 통을 획득하십시오.",
+                    "pl-PL": "Zbierz 100 kanistrów z benzyną w trybie Poszukiwacz.",
+                    "pt-PT": "Recolha 100 bidões de combustível em Pequisa.",
+                    "ru-RU": "Соберите 100 канистр бензина в режиме сбора.",
+                    "zh-CHT": "在清道夫模式中收集 100 個汽油桶。",
+                    "zh-CN": "在清道夫模式的游戏中收集 100 个瓦斯罐。"
+                },
+                "howto": {
+                    "de-DE": "Sammeln Sie 100 Benzinkanister im Scavenge-Modus.",
+                    "en-US": "Collect 100 gas cans in Scavenge.",
+                    "es-ES": "Recoge 100 latas de gasolina en Búsqueda.",
+                    "fr-FR": "Récupérez 100 bidons d'essence en mode Collecte.",
+                    "it-IT": "Raccogli 100 taniche di carburante in modalità Cercatore.",
+                    "ja-JP": "スカベンジモードで燃料タンクを100個集める",
+                    "ko-KR": "스캐빈지 모드에서 100개의 기름 통을 획득하십시오.",
+                    "pl-PL": "Zbierz 100 kanistrów z benzyną w trybie Poszukiwacz.",
+                    "pt-PT": "Recolha 100 bidões de combustível em Pequisa.",
+                    "ru-RU": "Соберите 100 канистр бензина в режиме сбора.",
+                    "zh-CHT": "在清道夫模式中收集 100 個汽油桶。",
+                    "zh-CN": "在清道夫模式的游戏中收集 100 个瓦斯罐。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "46.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "de-DE": "ZEITRAFFER",
+                    "en-US": "CACHE AND CARRY",
+                    "es-ES": "A ELLOS LES GUSTA LA GASOLINA",
+                    "fr-FR": "RAZZIA",
+                    "it-IT": "RE DEI BENZINAI",
+                    "ja-JP": "こっそり仕入れています",
+                    "ko-KR": "은닉과 운반",
+                    "pl-PL": "PROSZĘ ZAPAKOWAĆ",
+                    "pt-PT": "ARMAZENAR E CARREGAR",
+                    "ru-RU": "НА ВЫНОС И НА РОЗЛИВ",
+                    "zh-CHT": "你丟我撿",
+                    "zh-CN": "隐蔽行动"
+                },
+                "description": {
+                    "de-DE": "Sammeln Sie 15 Benzinkanister in einem einzelnen Scavenge-Match.",
+                    "en-US": "Collect 15 gas cans in a single Scavenge round.",
+                    "es-ES": "Recoge 15 latas de gasolina en la misma partida de Búsqueda.",
+                    "fr-FR": "Récupérez 15 bidons d'essence en une seule partie de mode Collecte.",
+                    "it-IT": "Raccogli 15 taniche di carburante in un'unica partita Cercatore.",
+                    "ja-JP": "スカベンジマッチ1回の間に燃料タンクを15個集める",
+                    "ko-KR": "한 번의 스캐빈지 매치에서 15개의 기름 통을 획득하십시오.",
+                    "pl-PL": "Zbierz 15 kanistrów z benzyną w ciągu jednej rozgrywki typu Poszukiwacz.",
+                    "pt-PT": "Recolha 15 bidões de combustível num só jogo Pequisa.",
+                    "ru-RU": "Соберите 15 канистр бензина в одном матче в режиме сбора.",
+                    "zh-CHT": "單場清道夫比賽收集 15 個汽油桶。",
+                    "zh-CN": "在一局清道夫模式的比赛中收集 15 个瓦斯罐。"
+                },
+                "howto": {
+                    "de-DE": "Sammeln Sie 15 Benzinkanister in einem einzelnen Scavenge-Match.",
+                    "en-US": "Collect 15 gas cans in a single Scavenge round.",
+                    "es-ES": "Recoge 15 latas de gasolina en la misma partida de Búsqueda.",
+                    "fr-FR": "Récupérez 15 bidons d'essence en une seule partie de mode Collecte.",
+                    "it-IT": "Raccogli 15 taniche di carburante in un'unica partita Cercatore.",
+                    "ja-JP": "スカベンジマッチ1回の間に燃料タンクを15個集める",
+                    "ko-KR": "한 번의 스캐빈지 매치에서 15개의 기름 통을 획득하십시오.",
+                    "pl-PL": "Zbierz 15 kanistrów z benzyną w ciągu jednej rozgrywki typu Poszukiwacz.",
+                    "pt-PT": "Recolha 15 bidões de combustível num só jogo Pequisa.",
+                    "ru-RU": "Соберите 15 канистр бензина в одном матче в режиме сбора.",
+                    "zh-CHT": "單場清道夫比賽收集 15 個汽油桶。",
+                    "zh-CN": "在一局清道夫模式的比赛中收集 15 个瓦斯罐。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "47.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "de-DE": "SPIELVERDERBER",
+                    "en-US": "SCAVENGE HUNT",
+                    "es-ES": "CERRANDO EL GRIFO",
+                    "fr-FR": "CHASSE AUX PILLEURS",
+                    "it-IT": "CACCIA AL CERCATORE",
+                    "ja-JP": "スカベンジャーを狩れ",
+                    "ko-KR": "스캐빈저 사냥",
+                    "pl-PL": "POLOWANIE NA POSZUKIWACZY",
+                    "pt-PT": "CAÇA À PEQUISA",
+                    "ru-RU": "ОХОТА НА СБОРЩИКОВ",
+                    "zh-CHT": "清道夫狩獵",
+                    "zh-CN": "清道夫狩猎"
+                },
+                "description": {
+                    "de-DE": "Halten Sie das gegnerische Team davon ab, Benzinkanister in einem Scavenge-Match zu sammeln.",
+                    "en-US": "Stop the enemy team from collecting any gas cans during a Scavenge round.",
+                    "es-ES": "Evita que el equipo rival recoja ninguna lata de gasolina durante una partida de Búsqueda.",
+                    "fr-FR": "Empêchez l'équipe ennemie de récupérer le moindre bidon lors d'une partie en mode Collecte.",
+                    "it-IT": "Impedisci alla squadra nemica di raccogliere taniche di carburante durante una partita Cercatore.",
+                    "ja-JP": "スカベンジマッチで敵チームに1つも燃料タンクを集めさせない",
+                    "ko-KR": "스캐빈지 매치에서 적 팀이 기름 통을 모으지 못하도록 막으십시오.",
+                    "pl-PL": "Nie pozwól drużynie przeciwnej zebrać ani jednego kanistra z benzyną w rozgrywce typu Poszukiwacz.",
+                    "pt-PT": "Impeça a equipa inimiga de recolher quaisquer bidões de combustível durante um jogo Pequisa.",
+                    "ru-RU": "В матче в режиме сбора не дайте врагу собрать ни одной канистры с бензином.",
+                    "zh-CHT": "在清道夫比賽中，阻止敵方隊伍收集任何汽油桶。",
+                    "zh-CN": "在清道夫模式的比赛中，阻止敌方团队收集任何瓦斯罐。"
+                },
+                "howto": {
+                    "de-DE": "Halten Sie das gegnerische Team davon ab, Benzinkanister in einem Scavenge-Match zu sammeln.",
+                    "en-US": "Stop the enemy team from collecting any gas cans during a Scavenge round.",
+                    "es-ES": "Evita que el equipo rival recoja ninguna lata de gasolina durante una partida de Búsqueda.",
+                    "fr-FR": "Empêchez l'équipe ennemie de récupérer le moindre bidon lors d'une partie en mode Collecte.",
+                    "it-IT": "Impedisci alla squadra nemica di raccogliere taniche di carburante durante una partita Cercatore.",
+                    "ja-JP": "スカベンジマッチで敵チームに1つも燃料タンクを集めさせない",
+                    "ko-KR": "스캐빈지 매치에서 적 팀이 기름 통을 모으지 못하도록 막으십시오.",
+                    "pl-PL": "Nie pozwól drużynie przeciwnej zebrać ani jednego kanistra z benzyną w rozgrywce typu Poszukiwacz.",
+                    "pt-PT": "Impeça a equipa inimiga de recolher quaisquer bidões de combustível durante um jogo Pequisa.",
+                    "ru-RU": "В матче в режиме сбора не дайте врагу собрать ни одной канистры с бензином.",
+                    "zh-CHT": "在清道夫比賽中，阻止敵方隊伍收集任何汽油桶。",
+                    "zh-CN": "在清道夫模式的比赛中，阻止敌方团队收集任何瓦斯罐。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "48.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "FALLBEISPIEL",
+                    "en-US": "FUEL CRISIS",
+                    "es-ES": "CRISIS DEL PETRÓLEO",
+                    "fr-FR": "CRISE DU PETROLE",
+                    "it-IT": "CRISI PETROLIFERA",
+                    "ja-JP": "希望の火は消えて",
+                    "ko-KR": "연료 위기",
+                    "pl-PL": "KRYZYS PALIWOWY",
+                    "pt-PT": "CRISE DE COMBUSTÍVEL",
+                    "ru-RU": "НЕФТЯНОЙ КРИЗИС",
+                    "zh-CHT": "石油危機",
+                    "zh-CN": "燃料危机"
+                },
+                "description": {
+                    "de-DE": "Sorgen Sie dafür, dass ein Überlebender in der Verlängerung einen Benzinkanister fallen lässt.",
+                    "en-US": "Make a Survivor drop a gas can during overtime.",
+                    "es-ES": "Haz que un superviviente suelte una lata de gasolina durante la prórroga.",
+                    "fr-FR": "Faites en sorte qu'un survivant fasse tomber de l'essence pendant le temps supplémentaire.",
+                    "it-IT": "Fai cadere una tanica di carburante a un Survivor durante il tempo extra.",
+                    "ja-JP": "延長戦中に生存者の持っている燃料タンクを落とさせる",
+                    "ko-KR": "연장전에서 생존자가 기름 통을 떨어뜨리도록 만드십시오.",
+                    "pl-PL": "Zmuś Ocalonego do upuszczenia kanistra z benzyną podczas dogrywki.",
+                    "pt-PT": "Faça um sobrevivente largar um bidão de gás durante o tempo excedido.",
+                    "ru-RU": "Заставьте Выжившего бросить канистру с бензином в овертайме.",
+                    "zh-CHT": "在延長時間中，讓倖存者丟下汽油桶。",
+                    "zh-CN": "让生还者在超时中丢掉瓦斯罐。"
+                },
+                "howto": {
+                    "de-DE": "Sorgen Sie dafür, dass ein Überlebender in der Verlängerung einen Benzinkanister fallen lässt.",
+                    "en-US": "Make a Survivor drop a gas can during overtime.",
+                    "es-ES": "Haz que un superviviente suelte una lata de gasolina durante la prórroga.",
+                    "fr-FR": "Faites en sorte qu'un survivant fasse tomber de l'essence pendant le temps supplémentaire.",
+                    "it-IT": "Fai cadere una tanica di carburante a un Survivor durante il tempo extra.",
+                    "ja-JP": "延長戦中に生存者の持っている燃料タンクを落とさせる",
+                    "ko-KR": "연장전에서 생존자가 기름 통을 떨어뜨리도록 만드십시오.",
+                    "pl-PL": "Zmuś Ocalonego do upuszczenia kanistra z benzyną podczas dogrywki.",
+                    "pt-PT": "Faça um sobrevivente largar um bidão de gás durante o tempo excedido.",
+                    "ru-RU": "Заставьте Выжившего бросить канистру с бензином в овертайме.",
+                    "zh-CHT": "在延長時間中，讓倖存者丟下汽油桶。",
+                    "zh-CN": "让生还者在超时中丢掉瓦斯罐。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "49.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "de-DE": "ENERGIEVERLUST",
+                    "en-US": "GAS SHORTAGE",
+                    "es-ES": "CON LA GASOLINA NO SE JUEGA",
+                    "fr-FR": "PENURIE DE PETROLE",
+                    "it-IT": "CARBURANTE ESAURITO",
+                    "ja-JP": "燃料不足",
+                    "ko-KR": "기름 부족",
+                    "pl-PL": "PALIWA BRAK",
+                    "pt-PT": "FALHA DE COMBUSTÍVEL",
+                    "ru-RU": "НАПРЯГ С БЕНЗИНОМ",
+                    "zh-CHT": "汽油短缺",
+                    "zh-CN": "瓦斯短缺"
+                },
+                "description": {
+                    "de-DE": "Bringen Sie als besonderer Infizierter Ihre Gegner dazu, 25 Benzinkanister fallen zu lassen.",
+                    "en-US": "Cause 25 gas can drops as a Special Infected.",
+                    "es-ES": "Obliga a los supervivientes a dejar caer 25 latas de gasolina jugando como infectado especial.",
+                    "fr-FR": "En tant qu'infecté spécial, faites tomber 25 bidons d'essence des mains de vos ennemis.",
+                    "it-IT": "Come Infected speciale, fai cadere 25 taniche di carburante.",
+                    "ja-JP": "特殊感染者として、燃料タンクを25回落とさせる",
+                    "ko-KR": "특수 좀비로 25개의 기름 통을 떨어지게 만드십시오.",
+                    "pl-PL": "Jako specjalny zarażony spowoduj 25 upuszczeń kanistrów z benzyną.",
+                    "pt-PT": "Cause 25 quedas de bidões de combustível enquanto Infectado especial.",
+                    "ru-RU": "Играя за особого Зараженного, заставьте Выживших бросить канистры с бензином не менее 25 раз.",
+                    "zh-CHT": "成為特殊感染者，迫使人丟下 25 個汽油桶。",
+                    "zh-CN": "扮演特殊感染者，造成 25 个瓦斯罐掉落。"
+                },
+                "howto": {
+                    "de-DE": "Bringen Sie als besonderer Infizierter Ihre Gegner dazu, 25 Benzinkanister fallen zu lassen.",
+                    "en-US": "Cause 25 gas can drops as a Special Infected.",
+                    "es-ES": "Obliga a los supervivientes a dejar caer 25 latas de gasolina jugando como infectado especial.",
+                    "fr-FR": "En tant qu'infecté spécial, faites tomber 25 bidons d'essence des mains de vos ennemis.",
+                    "it-IT": "Come Infected speciale, fai cadere 25 taniche di carburante.",
+                    "ja-JP": "特殊感染者として、燃料タンクを25回落とさせる",
+                    "ko-KR": "특수 좀비로 25개의 기름 통을 떨어지게 만드십시오.",
+                    "pl-PL": "Jako specjalny zarażony spowoduj 25 upuszczeń kanistrów z benzyną.",
+                    "pt-PT": "Cause 25 quedas de bidões de combustível enquanto Infectado especial.",
+                    "ru-RU": "Играя за особого Зараженного, заставьте Выживших бросить канистры с бензином не менее 25 раз.",
+                    "zh-CHT": "成為特殊感染者，迫使人丟下 25 個汽油桶。",
+                    "zh-CN": "扮演特殊感染者，造成 25 个瓦斯罐掉落。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "50.png"
+        },
+        "51": {
+            "text": {
+                "name": {
+                    "de-DE": "FACKELTRÄGER",
+                    "en-US": "TORCH BEARER",
+                    "es-ES": "EL PORTADOR DE LA ANTORCHA",
+                    "fr-FR": "PORTEUR DE FLAMBEAU",
+                    "it-IT": "IL TEDOFORO",
+                    "ja-JP": "灯火を運ぶ者",
+                    "ko-KR": "TORCH BEARER",
+                    "pl-PL": "TORCH BEARER",
+                    "pt-PT": "TORCH BEARER",
+                    "ru-RU": "ВЛАСТЕЛИН ФАКЕЛА",
+                    "zh-CHT": "TORCH BEARER",
+                    "zh-CN": "TORCH BEARER"
+                },
+                "description": {
+                    "de-DE": "Überstehen Sie die Kampagne 'Die Brücke'.",
+                    "en-US": "Survive The Passing Campaign.",
+                    "es-ES": "Sobrevive a la campaña Defunción.",
+                    "fr-FR": "Terminez la campagne Le passage.",
+                    "it-IT": "Sopravvivi alla campagna The Passing.",
+                    "ja-JP": "「ザ・パッシング」キャンペーンをクリアする",
+                    "ko-KR": "Survive The Passing Campaign.",
+                    "pl-PL": "Survive The Passing Campaign.",
+                    "pt-PT": "Survive The Passing Campaign.",
+                    "ru-RU": "Пройдите кампанию 'Переход'.",
+                    "zh-CHT": "Survive The Passing Campaign.",
+                    "zh-CN": "Survive The Passing Campaign."
+                },
+                "howto": {
+                    "de-DE": "Überstehen Sie die Kampagne 'Die Brücke'.",
+                    "en-US": "Survive The Passing Campaign.",
+                    "es-ES": "Sobrevive a la campaña Defunción.",
+                    "fr-FR": "Terminez la campagne Le passage.",
+                    "it-IT": "Sopravvivi alla campagna The Passing.",
+                    "ja-JP": "「ザ・パッシング」キャンペーンをクリアする",
+                    "ko-KR": "Survive The Passing Campaign.",
+                    "pl-PL": "Survive The Passing Campaign.",
+                    "pt-PT": "Survive The Passing Campaign.",
+                    "ru-RU": "Пройдите кампанию 'Переход'.",
+                    "zh-CHT": "Survive The Passing Campaign.",
+                    "zh-CN": "Survive The Passing Campaign."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "51.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "de-DE": "HOCHZEITS-CRASHER",
+                    "en-US": "WEDDING CRASHER",
+                    "es-ES": "REVIENTABODAS",
+                    "fr-FR": "TROUBLE-FETE",
+                    "it-IT": "IL ROVINAMATRIMONI",
+                    "ja-JP": "結婚式の暴れ者",
+                    "ko-KR": "WEDDING CRASHER",
+                    "pl-PL": "WEDDING CRASHER",
+                    "pt-PT": "WEDDING CRASHER",
+                    "ru-RU": "НЕЗВАННЫЙ ГОСТЬ",
+                    "zh-CHT": "WEDDING CRASHER",
+                    "zh-CN": "WEDDING CRASHER"
+                },
+                "description": {
+                    "de-DE": "Zerschmettern Sie als Charger mit einem Überlebenden 8 Stühle bei der Hochzeit.",
+                    "en-US": "As the Charger, grab a Survivor and crash them through 8 chairs at the wedding.",
+                    "es-ES": "Como Charger, agarra a un superviviente y estréllalo contra 8 sillas en la boda.",
+                    "fr-FR": "Charger, attrapez un survivant et envoyez-le s'écraser contre 8 chaises sur le lieu du mariage.",
+                    "it-IT": "Come Charger, prendi un Survivor e sbattilo contro 8 sedie durante il matrimonio.",
+                    "ja-JP": "Chargerとしてプレイ中に結婚式で生存者を掴んでイス8脚に叩きつける",
+                    "ko-KR": "As the Charger, grab a Survivor and crash them through 8 chairs at the wedding.",
+                    "pl-PL": "As the Charger, grab a Survivor and crash them through 8 chairs at the wedding.",
+                    "pt-PT": "As the Charger, grab a Survivor and crash them through 8 chairs at the wedding.",
+                    "ru-RU": "Играя за громилу, схватите Выжившего и разгромите им 8 стульев на свадьбе.",
+                    "zh-CHT": "As the Charger, grab a Survivor and crash them through 8 chairs at the wedding.",
+                    "zh-CN": "As the Charger, grab a Survivor and crash them through 8 chairs at the wedding."
+                },
+                "howto": {
+                    "de-DE": "Zerschmettern Sie als Charger mit einem Überlebenden 8 Stühle bei der Hochzeit.",
+                    "en-US": "As the Charger, grab a Survivor and crash them through 8 chairs at the wedding.",
+                    "es-ES": "Como Charger, agarra a un superviviente y estréllalo contra 8 sillas en la boda.",
+                    "fr-FR": "Charger, attrapez un survivant et envoyez-le s'écraser contre 8 chaises sur le lieu du mariage.",
+                    "it-IT": "Come Charger, prendi un Survivor e sbattilo contro 8 sedie durante il matrimonio.",
+                    "ja-JP": "Chargerとしてプレイ中に結婚式で生存者を掴んでイス8脚に叩きつける",
+                    "ko-KR": "As the Charger, grab a Survivor and crash them through 8 chairs at the wedding.",
+                    "pl-PL": "As the Charger, grab a Survivor and crash them through 8 chairs at the wedding.",
+                    "pt-PT": "As the Charger, grab a Survivor and crash them through 8 chairs at the wedding.",
+                    "ru-RU": "Играя за громилу, схватите Выжившего и разгромите им 8 стульев на свадьбе.",
+                    "zh-CHT": "As the Charger, grab a Survivor and crash them through 8 chairs at the wedding.",
+                    "zh-CN": "As the Charger, grab a Survivor and crash them through 8 chairs at the wedding."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "52.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "de-DE": "CLICK-CLICK",
+                    "en-US": "TIL IT GOES CLICK",
+                    "es-ES": "GATILLO FÁCIL",
+                    "fr-FR": "GACHETTE FACILE",
+                    "it-IT": "FINCHÉ NON SI INCEPPA",
+                    "ja-JP": "弾尽きるまで",
+                    "ko-KR": "TIL IT GOES CLICK",
+                    "pl-PL": "TIL IT GOES CLICK",
+                    "pt-PT": "TIL IT GOES CLICK",
+                    "ru-RU": "ДЛИННАЯ ОЧЕРЕДЬ",
+                    "zh-CHT": "TIL IT GOES CLICK",
+                    "zh-CN": "TIL IT GOES CLICK"
+                },
+                "description": {
+                    "de-DE": "Töten Sie mit dem M60 25 Infizierte, ohne den Finger vom Abzug zu nehmen.",
+                    "en-US": "Using the M60, kill 25 infected without letting go of the trigger.",
+                    "es-ES": "Con la M60, mata a 25 infectados sin soltar el gatillo.",
+                    "fr-FR": "Avec votre M60, tuez 25 infectés sans relâcher la gâchette.",
+                    "it-IT": "Utilizzando l'M60, uccidi 25 Infected senza lasciare il grilletto.",
+                    "ja-JP": "M60を使って、一度もトリガーを離さずに25体の感染者を倒す",
+                    "ko-KR": "Using the M60, kill 25 infected without letting go of the trigger.",
+                    "pl-PL": "Using the M60, kill 25 infected without letting go of the trigger.",
+                    "pt-PT": "Using the M60, kill 25 infected without letting go of the trigger.",
+                    "ru-RU": "Используя M60, убейте 25 зараженных, не отпуская спускового крючка.",
+                    "zh-CHT": "Using the M60, kill 25 infected without letting go of the trigger.",
+                    "zh-CN": "Using the M60, kill 25 infected without letting go of the trigger."
+                },
+                "howto": {
+                    "de-DE": "Töten Sie mit dem M60 25 Infizierte, ohne den Finger vom Abzug zu nehmen.",
+                    "en-US": "Using the M60, kill 25 infected without letting go of the trigger.",
+                    "es-ES": "Con la M60, mata a 25 infectados sin soltar el gatillo.",
+                    "fr-FR": "Avec votre M60, tuez 25 infectés sans relâcher la gâchette.",
+                    "it-IT": "Utilizzando l'M60, uccidi 25 Infected senza lasciare il grilletto.",
+                    "ja-JP": "M60を使って、一度もトリガーを離さずに25体の感染者を倒す",
+                    "ko-KR": "Using the M60, kill 25 infected without letting go of the trigger.",
+                    "pl-PL": "Using the M60, kill 25 infected without letting go of the trigger.",
+                    "pt-PT": "Using the M60, kill 25 infected without letting go of the trigger.",
+                    "ru-RU": "Используя M60, убейте 25 зараженных, не отпуская спускового крючка.",
+                    "zh-CHT": "Using the M60, kill 25 infected without letting go of the trigger.",
+                    "zh-CN": "Using the M60, kill 25 infected without letting go of the trigger."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "53.png"
+        },
+        "54": {
+            "text": {
+                "name": {
+                    "de-DE": "GRABRÄUBER",
+                    "en-US": "GRAVE ROBBER",
+                    "es-ES": "LADRÓN DE TUMBAS",
+                    "fr-FR": "PROFANATEUR",
+                    "it-IT": "IL TOMBAROLO",
+                    "ja-JP": "墓荒らし",
+                    "ko-KR": "GRAVE ROBBER",
+                    "pl-PL": "GRAVE ROBBER",
+                    "pt-PT": "GRAVE ROBBER",
+                    "ru-RU": "ГРАБИТЕЛЬ МЁРТВЫХ",
+                    "zh-CHT": "GRAVE ROBBER",
+                    "zh-CN": "GRAVE ROBBER"
+                },
+                "description": {
+                    "de-DE": "Sichern Sie sich 10 Gegenstände von einem getöteten Überlebenden.",
+                    "en-US": "Collect 10 items dropped by a Fallen Survivor.",
+                    "es-ES": "Recoge 10 objetos que haya soltado un superviviente caído.",
+                    "fr-FR": "Récupérez 10 éléments perdus par un survivant déchu.",
+                    "it-IT": "Raccogli 10 oggetti lasciati cadere da un Survivor caduto.",
+                    "ja-JP": "倒れた生存者が落とすアイテムを10個集める",
+                    "ko-KR": "Collect 10 items dropped by a Fallen Survivor.",
+                    "pl-PL": "Collect 10 items dropped by a Fallen Survivor.",
+                    "pt-PT": "Collect 10 items dropped by a Fallen Survivor.",
+                    "ru-RU": "Соберите 10 предметов, брошенных Павшими Выжившими.",
+                    "zh-CHT": "Collect 10 items dropped by a Fallen Survivor.",
+                    "zh-CN": "Collect 10 items dropped by a Fallen Survivor."
+                },
+                "howto": {
+                    "de-DE": "Sichern Sie sich 10 Gegenstände von einem getöteten Überlebenden.",
+                    "en-US": "Collect 10 items dropped by a Fallen Survivor.",
+                    "es-ES": "Recoge 10 objetos que haya soltado un superviviente caído.",
+                    "fr-FR": "Récupérez 10 éléments perdus par un survivant déchu.",
+                    "it-IT": "Raccogli 10 oggetti lasciati cadere da un Survivor caduto.",
+                    "ja-JP": "倒れた生存者が落とすアイテムを10個集める",
+                    "ko-KR": "Collect 10 items dropped by a Fallen Survivor.",
+                    "pl-PL": "Collect 10 items dropped by a Fallen Survivor.",
+                    "pt-PT": "Collect 10 items dropped by a Fallen Survivor.",
+                    "ru-RU": "Соберите 10 предметов, брошенных Павшими Выжившими.",
+                    "zh-CHT": "Collect 10 items dropped by a Fallen Survivor.",
+                    "zh-CN": "Collect 10 items dropped by a Fallen Survivor."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "54.png"
+        },
+        "55": {
+            "text": {
+                "name": {
+                    "de-DE": "OBERMUTANT",
+                    "en-US": "MUTANT OVERLORD",
+                    "es-ES": "CACIQUE MUTANTE",
+                    "fr-FR": "SOUVERAIN MUTANT",
+                    "it-IT": "IL SIGNORE DEI MUTANTI",
+                    "ja-JP": "ミュータントの覇王",
+                    "ko-KR": "MUTANT OVERLORD",
+                    "pl-PL": "MUTANT OVERLORD",
+                    "pt-PT": "MUTANT OVERLORD",
+                    "ru-RU": "ЦАРЬ МУТАЦИЙ",
+                    "zh-CHT": "MUTANT OVERLORD",
+                    "zh-CN": "MUTANT OVERLORD"
+                },
+                "description": {
+                    "de-DE": "Spielen Sie 6 Mutationen.",
+                    "en-US": "Play 6 Mutations.",
+                    "es-ES": "Juega a 6 mutaciones.",
+                    "fr-FR": "Jouez dans les 6 modes de mutation.",
+                    "it-IT": "Gioca 6 Mutazioni.",
+                    "ja-JP": "6種のミューテーションをプレイする",
+                    "ko-KR": "Play 6 Mutations.",
+                    "pl-PL": "Play 6 Mutations.",
+                    "pt-PT": "Play 6 Mutations.",
+                    "ru-RU": "Примите участие в 6 Мутациях.",
+                    "zh-CHT": "Play 6 Mutations.",
+                    "zh-CN": "Play 6 Mutations."
+                },
+                "howto": {
+                    "de-DE": "Spielen Sie 6 Mutationen.",
+                    "en-US": "Play 6 Mutations.",
+                    "es-ES": "Juega a 6 mutaciones.",
+                    "fr-FR": "Jouez dans les 6 modes de mutation.",
+                    "it-IT": "Gioca 6 Mutazioni.",
+                    "ja-JP": "6種のミューテーションをプレイする",
+                    "ko-KR": "Play 6 Mutations.",
+                    "pl-PL": "Play 6 Mutations.",
+                    "pt-PT": "Play 6 Mutations.",
+                    "ru-RU": "Примите участие в 6 Мутациях.",
+                    "zh-CHT": "Play 6 Mutations.",
+                    "zh-CN": "Play 6 Mutations."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "55.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "de-DE": "LOCH IM KOPF",
+                    "en-US": "FORE!",
+                    "es-ES": "BUEN SWING",
+                    "fr-FR": "BALLE !",
+                    "it-IT": "IN BUCA!",
+                    "ja-JP": "フォアー!",
+                    "ko-KR": "FORE!",
+                    "pl-PL": "FORE!",
+                    "pt-PT": "FORE!",
+                    "ru-RU": "ПРИГНИСЬ!",
+                    "zh-CHT": "FORE!",
+                    "zh-CN": "FORE!"
+                },
+                "description": {
+                    "de-DE": "Köpfen Sie 18 Infizierte mit dem Golfschläger.",
+                    "en-US": "Knock off the heads of 18 infected with the golf club.",
+                    "es-ES": "Arranca la cabeza a 18 infectados con el palo de golf.",
+                    "fr-FR": "Décapitez 18 infectés à l'aide du club de golf.",
+                    "it-IT": "Fai saltare la testa a 18 Infected usando la mazza da golf.",
+                    "ja-JP": "ゴルフクラブで18体の感染者の首を落とす",
+                    "ko-KR": "Knock off the heads of 18 infected with the golf club.",
+                    "pl-PL": "Knock off the heads of 18 infected with the golf club.",
+                    "pt-PT": "Knock off the heads of 18 infected with the golf club.",
+                    "ru-RU": "Сбейте головы 18 Зараженных с помощью клюшки для гольфа.",
+                    "zh-CHT": "Knock off the heads of 18 infected with the golf club.",
+                    "zh-CN": "Knock off the heads of 18 infected with the golf club."
+                },
+                "howto": {
+                    "de-DE": "Köpfen Sie 18 Infizierte mit dem Golfschläger.",
+                    "en-US": "Knock off the heads of 18 infected with the golf club.",
+                    "es-ES": "Arranca la cabeza a 18 infectados con el palo de golf.",
+                    "fr-FR": "Décapitez 18 infectés à l'aide du club de golf.",
+                    "it-IT": "Fai saltare la testa a 18 Infected usando la mazza da golf.",
+                    "ja-JP": "ゴルフクラブで18体の感染者の首を落とす",
+                    "ko-KR": "Knock off the heads of 18 infected with the golf club.",
+                    "pl-PL": "Knock off the heads of 18 infected with the golf club.",
+                    "pt-PT": "Knock off the heads of 18 infected with the golf club.",
+                    "ru-RU": "Сбейте головы 18 Зараженных с помощью клюшки для гольфа.",
+                    "zh-CHT": "Knock off the heads of 18 infected with the golf club.",
+                    "zh-CN": "Knock off the heads of 18 infected with the golf club."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "56.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "de-DE": "KILLING 'EM SWIFTLY TO THIS SONG",
+                    "en-US": "KILLING 'EM SWIFTLY TO THIS SONG",
+                    "es-ES": "MÁTAME SUAVEMENTE",
+                    "fr-FR": "CHANTE, LA MORT CHANTE",
+                    "it-IT": "CANZONE LETALE",
+                    "ja-JP": "この歌もて速やかに殺れ",
+                    "ko-KR": "KILLING 'EM SWIFTLY TO THIS SONG",
+                    "pl-PL": "KILLING 'EM SWIFTLY TO THIS SONG",
+                    "pt-PT": "KILLING 'EM SWIFTLY TO THIS SONG",
+                    "ru-RU": "УБЕЙТЕ ИХ НЕЖНО ПОД МУЗЫКУ",
+                    "zh-CHT": "KILLING 'EM SWIFTLY TO THIS SONG",
+                    "zh-CN": "KILLING 'EM SWIFTLY TO THIS SONG"
+                },
+                "description": {
+                    "de-DE": "Spielen Sie den neuen Midnight Rider-Song auf der Jukebox.",
+                    "en-US": "Play the new Midnight Riders song on a jukebox.",
+                    "es-ES": "Pon la nueva canción de los Midnight Riders en una gramola.",
+                    "fr-FR": "Passez la nouvelle chanson des Midnight Riders sur un juke-box.",
+                    "it-IT": "Ascolta la nuova canzone dei Midnight Riders su un jukebox.",
+                    "ja-JP": "ジュークボックスでMidnight Ridersの新しい歌を演奏する",
+                    "ko-KR": "Play the new Midnight Riders song on a jukebox.",
+                    "pl-PL": "Play the new Midnight Riders song on a jukebox.",
+                    "pt-PT": "Play the new Midnight Riders song on a jukebox.",
+                    "ru-RU": "Прослушайте новую песню Полуночных Всадников.",
+                    "zh-CHT": "Play the new Midnight Riders song on a jukebox.",
+                    "zh-CN": "Play the new Midnight Riders song on a jukebox."
+                },
+                "howto": {
+                    "de-DE": "Spielen Sie den neuen Midnight Rider-Song auf der Jukebox.",
+                    "en-US": "Play the new Midnight Riders song on a jukebox.",
+                    "es-ES": "Pon la nueva canción de los Midnight Riders en una gramola.",
+                    "fr-FR": "Passez la nouvelle chanson des Midnight Riders sur un juke-box.",
+                    "it-IT": "Ascolta la nuova canzone dei Midnight Riders su un jukebox.",
+                    "ja-JP": "ジュークボックスでMidnight Ridersの新しい歌を演奏する",
+                    "ko-KR": "Play the new Midnight Riders song on a jukebox.",
+                    "pl-PL": "Play the new Midnight Riders song on a jukebox.",
+                    "pt-PT": "Play the new Midnight Riders song on a jukebox.",
+                    "ru-RU": "Прослушайте новую песню Полуночных Всадников.",
+                    "zh-CHT": "Play the new Midnight Riders song on a jukebox.",
+                    "zh-CN": "Play the new Midnight Riders song on a jukebox."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "57.png"
+        },
+        "58": {
+            "text": {
+                "name": {
+                    "de-DE": "ERSTLINGSWERK",
+                    "en-US": "KITE LIKE A MAN",
+                    "es-ES": "SÉ ORIGINAL",
+                    "fr-FR": "SOIS UN HOMME !",
+                    "it-IT": "ATTIRA-TANK",
+                    "ja-JP": "漢のカイト",
+                    "ko-KR": "KITE LIKE A MAN",
+                    "pl-PL": "KITE LIKE A MAN",
+                    "pt-PT": "KITE LIKE A MAN",
+                    "ru-RU": "НАСТОЯЩАЯ ПРИМАНКА",
+                    "zh-CHT": "KITE LIKE A MAN",
+                    "zh-CN": "KITE LIKE A MAN"
+                },
+                "description": {
+                    "de-DE": "Töten Sie einen Tank ausschließlich mit den vier Überlebenden aus L4D1.",
+                    "en-US": "Kill a Tank only with damage from the original Survivors.",
+                    "es-ES": "Mata a un Tank infligiéndole daño sólo con los supervivientes originales.",
+                    "fr-FR": "Tuez un Tank en faisant uniquement appel aux survivants du jeu original.",
+                    "it-IT": "Uccidi un Tank solo con i danni inflitti dai Survivor originali.",
+                    "ja-JP": "L4Dの生存者からのダメージだけでタンクを倒す",
+                    "ko-KR": "Kill a Tank only with damage from the original Survivors.",
+                    "pl-PL": "Kill a Tank only with damage from the original Survivors.",
+                    "pt-PT": "Kill a Tank only with damage from the original Survivors.",
+                    "ru-RU": "Убейте Танка с помощью урона только от оригинальных Выживших.",
+                    "zh-CHT": "Kill a Tank only with damage from the original Survivors.",
+                    "zh-CN": "Kill a Tank only with damage from the original Survivors."
+                },
+                "howto": {
+                    "de-DE": "Töten Sie einen Tank ausschließlich mit den vier Überlebenden aus L4D1.",
+                    "en-US": "Kill a Tank only with damage from the original Survivors.",
+                    "es-ES": "Mata a un Tank infligiéndole daño sólo con los supervivientes originales.",
+                    "fr-FR": "Tuez un Tank en faisant uniquement appel aux survivants du jeu original.",
+                    "it-IT": "Uccidi un Tank solo con i danni inflitti dai Survivor originali.",
+                    "ja-JP": "L4Dの生存者からのダメージだけでタンクを倒す",
+                    "ko-KR": "Kill a Tank only with damage from the original Survivors.",
+                    "pl-PL": "Kill a Tank only with damage from the original Survivors.",
+                    "pt-PT": "Kill a Tank only with damage from the original Survivors.",
+                    "ru-RU": "Убейте Танка с помощью урона только от оригинальных Выживших.",
+                    "zh-CHT": "Kill a Tank only with damage from the original Survivors.",
+                    "zh-CN": "Kill a Tank only with damage from the original Survivors."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "58.png"
+        },
+        "59": {
+            "text": {
+                "name": {
+                    "de-DE": "SPINDDIEB",
+                    "en-US": "CACHE GRAB",
+                    "es-ES": "ALIJO",
+                    "fr-FR": "CHASSE AU TRESOR",
+                    "it-IT": "SACCHEGGIA LE SCORTE",
+                    "ja-JP": "宝探し",
+                    "ko-KR": "CACHE GRAB",
+                    "pl-PL": "CACHE GRAB",
+                    "pt-PT": "CACHE GRAB",
+                    "ru-RU": "ОТКРЫВАТЕЛЬ",
+                    "zh-CHT": "CACHE GRAB",
+                    "zh-CN": "CACHE GRAB"
+                },
+                "description": {
+                    "de-DE": "Öffnen Sie 5 Spinde.",
+                    "en-US": "Open 5 foot lockers.",
+                    "es-ES": "Abre 5 taquillas.",
+                    "fr-FR": "Ouvrez 5 malles.",
+                    "it-IT": "Apri 5 armadietti.",
+                    "ja-JP": "ロッカーを5つ開ける",
+                    "ko-KR": "Open 5 foot lockers.",
+                    "pl-PL": "Open 5 foot lockers.",
+                    "pt-PT": "Open 5 foot lockers.",
+                    "ru-RU": "Откройте 5 контейнеров.",
+                    "zh-CHT": "Open 5 foot lockers.",
+                    "zh-CN": "Open 5 foot lockers."
+                },
+                "howto": {
+                    "de-DE": "Öffnen Sie 5 Spinde.",
+                    "en-US": "Open 5 foot lockers.",
+                    "es-ES": "Abre 5 taquillas.",
+                    "fr-FR": "Ouvrez 5 malles.",
+                    "it-IT": "Apri 5 armadietti.",
+                    "ja-JP": "ロッカーを5つ開ける",
+                    "ko-KR": "Open 5 foot lockers.",
+                    "pl-PL": "Open 5 foot lockers.",
+                    "pt-PT": "Open 5 foot lockers.",
+                    "ru-RU": "Откройте 5 контейнеров.",
+                    "zh-CHT": "Open 5 foot lockers.",
+                    "zh-CN": "Open 5 foot lockers."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "59.png"
+        },
+        "60": {
+            "text": {
+                "name": {
+                    "de-DE": "HAFEN-SCAVENGE",
+                    "en-US": "PORT OF SCAVENGE",
+                    "es-ES": "PUERTO DE BÚSQUEDA",
+                    "fr-FR": "PORT DE COLLECTE",
+                    "it-IT": "CERCATORE DEL PORTO",
+                    "ja-JP": "スカベンジの港",
+                    "ko-KR": "PORT OF SCAVENGE",
+                    "pl-PL": "PORT OF SCAVENGE",
+                    "pt-PT": "PORT OF SCAVENGE",
+                    "ru-RU": "ПОРТОВЫЙ СБОР",
+                    "zh-CHT": "PORT OF SCAVENGE",
+                    "zh-CN": "PORT OF SCAVENGE"
+                },
+                "description": {
+                    "de-DE": "Spielen Sie im Kapitel 'Der Hafen' 5 komplette Scavenge-Matches.",
+                    "en-US": "Play 5 full games of Scavenge on The Port.",
+                    "es-ES": "Juega 5 partidas completas en modo Búsqueda en el puerto.",
+                    "fr-FR": "Jouez 5 parties complètes en mode Collecte sur le port.",
+                    "it-IT": "Gioca 5 partite complete di Cercatore nel Porto.",
+                    "ja-JP": "港でスカベンジのゲームを5回最後までプレイする",
+                    "ko-KR": "Play 5 full games of Scavenge on The Port.",
+                    "pl-PL": "Play 5 full games of Scavenge on The Port.",
+                    "pt-PT": "Play 5 full games of Scavenge on The Port.",
+                    "ru-RU": "Сыграйте 5 полных игр в режиме сбора в главе 'Порт'.",
+                    "zh-CHT": "Play 5 full games of Scavenge on The Port.",
+                    "zh-CN": "Play 5 full games of Scavenge on The Port."
+                },
+                "howto": {
+                    "de-DE": "Spielen Sie im Kapitel 'Der Hafen' 5 komplette Scavenge-Matches.",
+                    "en-US": "Play 5 full games of Scavenge on The Port.",
+                    "es-ES": "Juega 5 partidas completas en modo Búsqueda en el puerto.",
+                    "fr-FR": "Jouez 5 parties complètes en mode Collecte sur le port.",
+                    "it-IT": "Gioca 5 partite complete di Cercatore nel Porto.",
+                    "ja-JP": "港でスカベンジのゲームを5回最後までプレイする",
+                    "ko-KR": "Play 5 full games of Scavenge on The Port.",
+                    "pl-PL": "Play 5 full games of Scavenge on The Port.",
+                    "pt-PT": "Play 5 full games of Scavenge on The Port.",
+                    "ru-RU": "Сыграйте 5 полных игр в режиме сбора в главе 'Порт'.",
+                    "zh-CHT": "Play 5 full games of Scavenge on The Port.",
+                    "zh-CN": "Play 5 full games of Scavenge on The Port."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "60.png"
+        },
+        "100": {
+            "text": {
+                "name": {
+                    "de-DE": "Supreme Sacrifice",
+                    "en-US": "Supreme Sacrifice",
+                    "es-ES": "Sacrificio Supremo",
+                    "fr-FR": "Sacrifice Suprême",
+                    "it-IT": "Sacrificio Supremo",
+                    "ja-JP": "最高の犠牲",
+                    "ko-KR": "최고의 희생",
+                    "pl-PL": "OSTATECZNE POŚWIĘCENIE",
+                    "pt-PT": "Sacrifício Supremo",
+                    "ru-RU": "Супер Жертва",
+                    "zh-CHT": "終極犧牲",
+                    "zh-CN": "終極犧牲"
+                },
+                "description": {
+                    "de-DE": "Bewältige “The Sacrifice”.",
+                    "en-US": "Complete \"The Sacrifice\".",
+                    "es-ES": "Completa \"El Sacrificio\".",
+                    "fr-FR": "Complétez “Le Sacrifice”.",
+                    "it-IT": "Completa “Il Sacrificio”.",
+                    "ja-JP": "キャンペーン「犠牲」を完了する。",
+                    "ko-KR": "“The Sacrifice”을 완성 하십시오.",
+                    "pl-PL": "Przetrwaj kampanię „Poświęcenie”.",
+                    "pt-PT": "Complete “The Sacrifice”.",
+                    "ru-RU": "Закончите «Жертва»",
+                    "zh-CHT": "把「犧牲」完結",
+                    "zh-CN": "把「犧牲」完結"
+                },
+                "howto": {
+                    "de-DE": "Bewältige “The Sacrifice”.",
+                    "en-US": "Complete \"The Sacrifice\".",
+                    "es-ES": "Completa \"El Sacrificio\".",
+                    "fr-FR": "Complétez “Le Sacrifice”.",
+                    "it-IT": "Completa “Il Sacrificio”.",
+                    "ja-JP": "キャンペーン「犠牲」を完了する。",
+                    "ko-KR": "“The Sacrifice”을 완성 하십시오.",
+                    "pl-PL": "Przetrwaj kampanię „Poświęcenie”.",
+                    "pt-PT": "Complete “The Sacrifice”.",
+                    "ru-RU": "Закончите «Жертва»",
+                    "zh-CHT": "把「犧牲」完結",
+                    "zh-CN": "把「犧牲」完結"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "61.png"
+        },
+        "101": {
+            "text": {
+                "name": {
+                    "de-DE": "Kill Bill",
+                    "en-US": "Kill Bill",
+                    "es-ES": "Kill Bill",
+                    "fr-FR": "Kill Bill",
+                    "it-IT": "Kill Bill ",
+                    "ja-JP": "キルビル",
+                    "ko-KR": "빌을 사살 ",
+                    "pl-PL": "Kill Bill",
+                    "pt-PT": "Kill Bill",
+                    "ru-RU": "Убить Била",
+                    "zh-CHT": "追殺比爾",
+                    "zh-CN": "追殺比爾"
+                },
+                "description": {
+                    "de-DE": "Bill muss sich selbst für das Team opfern.",
+                    "en-US": "Have Bill sacrifice himself for the team.",
+                    "es-ES": "Bill se sacrifica para salvar el equipo.",
+                    "fr-FR": "Faites que Bill se sacrifie pour l’équipe.",
+                    "it-IT": "Bill si sacrifica per la salvezza del gruppo.",
+                    "ja-JP": "チームのためにビルを犠牲にさせる。",
+                    "ko-KR": "빌이 팀을 위해 희생 하게 만들세요.",
+                    "pl-PL": "Spraw, aby Bill poświęcił się dla zespołu",
+                    "pt-PT": "Faça com que o Bill se sacrifique pela equipa.",
+                    "ru-RU": "Сделайте так, чтобы Билл пожертвовал собой для команды",
+                    "zh-CHT": "讓比爾為犧牲自己救隊友",
+                    "zh-CN": "讓比爾為犧牲自己救隊友"
+                },
+                "howto": {
+                    "de-DE": "Bill muss sich selbst für das Team opfern.",
+                    "en-US": "Have Bill sacrifice himself for the team.",
+                    "es-ES": "Bill se sacrifica para salvar el equipo.",
+                    "fr-FR": "Faites que Bill se sacrifie pour l’équipe.",
+                    "it-IT": "Bill si sacrifica per la salvezza del gruppo.",
+                    "ja-JP": "チームのためにビルを犠牲にさせる。",
+                    "ko-KR": "빌이 팀을 위해 희생 하게 만들세요.",
+                    "pl-PL": "Spraw, aby Bill poświęcił się dla zespołu",
+                    "pt-PT": "Faça com que o Bill se sacrifique pela equipa.",
+                    "ru-RU": "Сделайте так, чтобы Билл пожертвовал собой для команды",
+                    "zh-CHT": "讓比爾為犧牲自己救隊友",
+                    "zh-CN": "讓比爾為犧牲自己救隊友"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "62.png"
+        },
+        "102": {
+            "text": {
+                "name": {
+                    "de-DE": "Rollende Tonnenbombe",
+                    "en-US": "Barrel Rolled",
+                    "es-ES": "Barril de Fuego",
+                    "fr-FR": "Baril Boum",
+                    "it-IT": "Barile Detonante",
+                    "ja-JP": "バレルロール",
+                    "ko-KR": "배럴 롤",
+                    "pl-PL": "WYBUCHOWA AKCJA",
+                    "pt-PT": "Barril de Desinfectante",
+                    "ru-RU": "Закатка",
+                    "zh-CHT": "桶炸彈",
+                    "zh-CN": "桶炸彈"
+                },
+                "description": {
+                    "de-DE": "Beseitige einen Spezialinfizierten mit einer explodierenden Tonne.",
+                    "en-US": "Kill a Special Infected with an exploding barrel.",
+                    "es-ES": "Mata a un Infectado Especial con un barril explosivo.",
+                    "fr-FR": "Tuez un infecté special avec un baril explosif.",
+                    "it-IT": "Uccidi un Infettato Speciale con un barile carico di esplosivo.",
+                    "ja-JP": "爆発バレルを利用して、特別感染者を倒す。",
+                    "ko-KR": "특수 좀비를 배럴을 폭발 시켜서 사살.",
+                    "pl-PL": "Zabij specjalnego zarażonego za pomocą wybuchowej beczki.",
+                    "pt-PT": "Mate um Infectado Especial com um barril explosivo.",
+                    "ru-RU": "Убейте Особого Инфицированного взрывающейся бочкой",
+                    "zh-CHT": "使用爆炸桶殺死一個特殊感染者",
+                    "zh-CN": "使用爆炸桶殺死一個特殊感染者"
+                },
+                "howto": {
+                    "de-DE": "Beseitige einen Spezialinfizierten mit einer explodierenden Tonne.",
+                    "en-US": "Kill a Special Infected with an exploding barrel.",
+                    "es-ES": "Mata a un Infectado Especial con un barril explosivo.",
+                    "fr-FR": "Tuez un infecté special avec un baril explosif.",
+                    "it-IT": "Uccidi un Infettato Speciale con un barile carico di esplosivo.",
+                    "ja-JP": "爆発バレルを利用して、特別感染者を倒す。",
+                    "ko-KR": "특수 좀비를 배럴을 폭발 시켜서 사살.",
+                    "pl-PL": "Zabij specjalnego zarażonego za pomocą wybuchowej beczki.",
+                    "pt-PT": "Mate um Infectado Especial com um barril explosivo.",
+                    "ru-RU": "Убейте Особого Инфицированного взрывающейся бочкой",
+                    "zh-CHT": "使用爆炸桶殺死一個特殊感染者",
+                    "zh-CN": "使用爆炸桶殺死一個特殊感染者"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "63.png"
+        },
+        "103": {
+            "text": {
+                "name": {
+                    "de-DE": "Chaos Generator",
+                    "en-US": "Chaos Generator",
+                    "es-ES": "Electrificante",
+                    "fr-FR": "Générateur de Chaos",
+                    "it-IT": "Tripudio di Generatori",
+                    "ja-JP": "カオスジェネレータ",
+                    "ko-KR": "카오스 발전기",
+                    "pl-PL": "GENEROWANIE CHAOSU",
+                    "pt-PT": "Gerador de Caos",
+                    "ru-RU": "Генератор Хаоса",
+                    "zh-CHT": "混亂發電機",
+                    "zh-CN": "混亂發電機"
+                },
+                "description": {
+                    "de-DE": "Lass alle 3 Generatoren gleichzeitig laufen.",
+                    "en-US": "Have all 3 generators running at once in \"The Sacrifice\" finale.",
+                    "es-ES": "Mantén los 3 generadores funcionado a la vez.",
+                    "fr-FR": "Faites tourner les 3 générateurs en même temps.",
+                    "it-IT": "Attiva tutti e 3 i generatori contemporaneamente.",
+                    "ja-JP": "同時に３件のジェネレータを実行させる。",
+                    "ko-KR": "3개의 발전기를 동시에 작동하기.",
+                    "pl-PL": "Spowoduj, aby trzy generatory pracowały w tym samym czasie.",
+                    "pt-PT": "Mantenha todos os 3 geradores a trabalhar ao mesmo tempo.",
+                    "ru-RU": "Сделайте так, чтобы все 3 генератора работали одновременно",
+                    "zh-CHT": "把3台發電機都同時運行",
+                    "zh-CN": "把3台發電機都同時運行"
+                },
+                "howto": {
+                    "de-DE": "Lass alle 3 Generatoren gleichzeitig laufen.",
+                    "en-US": "Have all 3 generators running at once in \"The Sacrifice\" finale.",
+                    "es-ES": "Mantén los 3 generadores funcionado a la vez.",
+                    "fr-FR": "Faites tourner les 3 générateurs en même temps.",
+                    "it-IT": "Attiva tutti e 3 i generatori contemporaneamente.",
+                    "ja-JP": "同時に３件のジェネレータを実行させる。",
+                    "ko-KR": "3개의 발전기를 동시에 작동하기.",
+                    "pl-PL": "Spowoduj, aby trzy generatory pracowały w tym samym czasie.",
+                    "pt-PT": "Mantenha todos os 3 geradores a trabalhar ao mesmo tempo.",
+                    "ru-RU": "Сделайте так, чтобы все 3 генератора работали одновременно",
+                    "zh-CHT": "把3台發電機都同時運行",
+                    "zh-CN": "把3台發電機都同時運行"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "64.png"
+        },
+        "104": {
+            "text": {
+                "name": {
+                    "de-DE": "Sakrazischl",
+                    "en-US": "Sacrifizzle",
+                    "es-ES": "Sacrisuplicio",
+                    "fr-FR": "Sacriflop",
+                    "it-IT": "Sacrisupplizio",
+                    "ja-JP": "犠牲キャンセル",
+                    "ko-KR": "희생",
+                    "pl-PL": "ZWYCIĘSTWO WYMAGA OFIAR",
+                    "pt-PT": "Sacrifício Incapaz",
+                    "ru-RU": "Жертва",
+                    "zh-CHT": "犧牲否認",
+                    "zh-CN": "犧牲否認"
+                },
+                "description": {
+                    "de-DE": "Halte als Spezialinfizierter jemanden bewegungsunfähig.",
+                    "en-US": "As a Special Infected, incap someone who is trying to sacrifice themselves.",
+                    "es-ES": "Como Infectado Especial, incapacita a alguien que esté intentando sacrificarse. ",
+                    "fr-FR": "En tant qu’infecté special rendez une personne incapable de se sacrifier.",
+                    "it-IT": "In qualità di Infettato Speciale, incapacita un giocatore che sta per sacrificarsi.",
+                    "ja-JP": "特別感染者として、自分を犠牲にしようとしている敵を倒す。",
+                    "ko-KR": "특수 좀비로, 희생하려고 하는 생존자를 무력화시켜라.",
+                    "pl-PL": "Jako specjalny zarażony obezwładnij osobę, która próbuje się poświęcić.",
+                    "pt-PT": "Enquanto Infectado Especial, incapacite alguém que esteja a tentar sacrificar-se.",
+                    "ru-RU": "Играя как Особо Инфицированный, обездвижьте того кто пытается собой пожертвовать",
+                    "zh-CHT": "当一個特殊感染者，把要犧牲自己的敵人杀死",
+                    "zh-CN": "当一個特殊感染者，把要犧牲自己的敵人杀死"
+                },
+                "howto": {
+                    "de-DE": "Halte als Spezialinfizierter jemanden bewegungsunfähig.",
+                    "en-US": "As a Special Infected, incap someone who is trying to sacrifice themselves.",
+                    "es-ES": "Como Infectado Especial, incapacita a alguien que esté intentando sacrificarse. ",
+                    "fr-FR": "En tant qu’infecté special rendez une personne incapable de se sacrifier.",
+                    "it-IT": "In qualità di Infettato Speciale, incapacita un giocatore che sta per sacrificarsi.",
+                    "ja-JP": "特別感染者として、自分を犠牲にしようとしている敵を倒す。",
+                    "ko-KR": "특수 좀비로, 희생하려고 하는 생존자를 무력화시켜라.",
+                    "pl-PL": "Jako specjalny zarażony obezwładnij osobę, która próbuje się poświęcić.",
+                    "pt-PT": "Enquanto Infectado Especial, incapacite alguém que esteja a tentar sacrificar-se.",
+                    "ru-RU": "Играя как Особо Инфицированный, обездвижьте того кто пытается собой пожертвовать",
+                    "zh-CHT": "当一個特殊感染者，把要犧牲自己的敵人杀死",
+                    "zh-CN": "当一個特殊感染者，把要犧牲自己的敵人杀死"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "65.png"
+        }
+    }
+}
