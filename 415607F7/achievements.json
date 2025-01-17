@@ -1,0 +1,1703 @@
+{
+    "Achievements": {
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Erleuchteter Gitarrist",
+                    "en-US": "Enlightened Guitarist",
+                    "es-ES": "Guitarrista iluminado",
+                    "fr-FR": "Guitariste illuminé",
+                    "it-IT": "Chitarrista stellare"
+                },
+                "description": {
+                    "de-DE": "Goldene Sterne bei 20 abgeschlossenen Songs auf der Schwierigkeitsstufe Profi",
+                    "en-US": "Gold Stars 20 songs on Expert",
+                    "es-ES": "Consigue 20 estrella de oro en nivel experto.",
+                    "fr-FR": "Obtiens une étoile d'or sur 20 chansons au niveau Expert",
+                    "it-IT": "Vinci una stella d'oro in 20 brani al livello Esperto"
+                },
+                "howto": {
+                    "de-DE": "Goldene Sterne bei 20 abgeschlossenen Songs auf der Schwierigkeitsstufe Profi",
+                    "en-US": "Gold Star 20 songs on Expert",
+                    "es-ES": "Consigue 20 estrella de oro en nivel experto.",
+                    "fr-FR": "Obtiens une étoile d'or sur 20 chansons au niveau Expert",
+                    "it-IT": "Vinci una stella d'oro in 20 brani al livello Esperto"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "01.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Wiedergeburt von Hendrix",
+                    "en-US": "Hendrix Reborn",
+                    "es-ES": "Hendrix vuelve a nacer",
+                    "fr-FR": "Hendrix, le retour",
+                    "it-IT": "Reincarnazione di Hendrix"
+                },
+                "description": {
+                    "de-DE": "Karriere abgeschlossen mit Linkshändereinstellung ein und aus",
+                    "en-US": "Played through Career with Lefty Flip on and off",
+                    "es-ES": "Completa  el modo  Carrera con  la configuración para zurdos y diestros.",
+                    "fr-FR": "Termine le mode Carrière en option droitier et gaucher",
+                    "it-IT": "Completa la carriera con l'opzione Mancino attivata e disattivata"
+                },
+                "howto": {
+                    "de-DE": "Karriere als Linkshänder und Rechtshänder abgeschlossen",
+                    "en-US": "Complete Career Lefty and Righty ",
+                    "es-ES": "Completa el modo Carrera con la configuración para zurdos y diestros.",
+                    "fr-FR": "Termine le mode Carrière en option droitier et gaucher",
+                    "it-IT": "Completa la carriera sia come mancino che come destrorso"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Wer braucht schon Power",
+                    "en-US": "Who Needs the Power",
+                    "es-ES": "Quién necesita la energía",
+                    "fr-FR": "Qui a besoin de Power ?",
+                    "it-IT": "Star Power? No, grazie!"
+                },
+                "description": {
+                    "de-DE": "200.000 Punkte bei Cult of Personality ohne Starpower",
+                    "en-US": "200k on Cult of Personality without Star Power",
+                    "es-ES": "Consigue 200.000 puntos en Cult of Personality sin utilizar energía Estrella.",
+                    "fr-FR": "Obtiens 200 000 points sur Cult of Personnality sans utiliser le Star Power",
+                    "it-IT": "200mila punti in Cult of Personality senza Star Power"
+                },
+                "howto": {
+                    "de-DE": "200.000 Punkte bei Cult of Personality ohne Starpower",
+                    "en-US": "200k on Cult of Personality without Star Power",
+                    "es-ES": "Consigue 200.000 puntos en Cult of Personality sin utilizar energía Estrella.",
+                    "fr-FR": "Obtiens 200 000 points sur Cult of Personnality sans utiliser le Star Power",
+                    "it-IT": "200mila punti in Cult of Personality senza Star Power"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "03.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Tremolo-Fieber",
+                    "en-US": "Whammy Mania",
+                    "es-ES": "Vibratomanía",
+                    "fr-FR": "Le fou du vibrato",
+                    "it-IT": "Vibrazioni positive"
+                },
+                "description": {
+                    "de-DE": "Verwende bei Number of the Beast das Tremolo bei jeder langen Note",
+                    "en-US": "Use the Whammy Bar on every held note on Number of the Beast",
+                    "es-ES": "Utiliza la barra de vibrato en cada nota larga de Number of the Beast.",
+                    "fr-FR": "Utilise le vibrato sur toutes les notes longues sur Number of the Beast",
+                    "it-IT": "Usa la leva vibrato su ogni nota lunga in Number of the Beast"
+                },
+                "howto": {
+                    "de-DE": "Verwende bei Number of the Beast das Tremolo bei jeder langen Note",
+                    "en-US": "Use the Whammy Bar on every held note on Number of the Beast",
+                    "es-ES": "Utiliza la barra de vibrato en cada nota larga de Number of the Beast.",
+                    "fr-FR": "Utilise le vibrato sur toutes les notes longues sur Number of the Beast",
+                    "it-IT": "Usa la leva vibrato su ogni nota lunga in Number of the Beast"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "04.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Star-Fieber",
+                    "en-US": "Star Mania",
+                    "es-ES": "Estrellamanía",
+                    "fr-FR": "Star maniaque",
+                    "it-IT": "Polvere di stelle"
+                },
+                "description": {
+                    "de-DE": "Aktiviere Starpower bei Through the Fire and Flames dreimal ",
+                    "en-US": "Activate Star Power 3 times on Through the Fire and Flames on Expert",
+                    "es-ES": "Activa la energía Estrella 3 veces en Atravesando el fuego en el nivel experto.",
+                    "fr-FR": "Active trois Star Power sur Through the Fire and Flames au niveau Expert",
+                    "it-IT": "Attiva lo Star Power 3 volte in Through the Fire and Flames al livello Esperto"
+                },
+                "howto": {
+                    "de-DE": "Aktiviere Starpower bei Through the Fire and Flames dreimal ",
+                    "en-US": "Activate Star Power 3 times on Through the Fire and Flames on Expert",
+                    "es-ES": "Activa la energía Estrella 3 veces en Atravesando el fuego en el nivel experto.",
+                    "fr-FR": "Active trois Star Power sur Through the Fire and Flames au niveau Expert",
+                    "it-IT": "Attiva lo Star Power 3 volte in Through the Fire and Flames al livello Esperto"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "05.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Star der Party",
+                    "en-US": "Life of the Party",
+                    "es-ES": "El alma de la fiesta",
+                    "fr-FR": "L'art de la fête",
+                    "it-IT": "Un ospite eccezionale"
+                },
+                "description": {
+                    "de-DE": "Hoste und gewinne 15 aufeinanderfolgende Online-Ranglistenspiele",
+                    "en-US": "Host Ranked Online matches and win 15 consecutive songs",
+                    "es-ES": "Hospeda partidas igualadas en línea y gana 15 consecutivas.",
+                    "fr-FR": "Héberge des parties avec classement en ligne et remporte 15 chansons consécutives",
+                    "it-IT": "Ospita delle partite classificate online e vinci 15 brani consecutivi"
+                },
+                "howto": {
+                    "de-DE": "Hoste und gewinne 15 aufeinanderfolgende Online-Ranglistenspiele",
+                    "en-US": "Host Ranked Online matches and win 15 consecutive songs",
+                    "es-ES": "Hospeda partidas igualadas en línea y gana 15 consecutivas.",
+                    "fr-FR": "Héberge des parties avec classement en ligne et remporte 15 chansons consécutives",
+                    "it-IT": "Ospita delle partite classificate online e vinci 15 brani consecutivi"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "06.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "Suchen und Zerstören",
+                    "en-US": "Search and Destroy",
+                    "es-ES": "Buscar y destruir",
+                    "fr-FR": "Cible verrouillée : destruction",
+                    "it-IT": "Cerca e distruggi"
+                },
+                "description": {
+                    "de-DE": "Spiel mit und meistere 15 aufeinanderfolgende Online-Ranglistenspiele",
+                    "en-US": "Join Ranked Online matches and win 15 consecutive songs",
+                    "es-ES": "Únete a partidas igualadas en línea y gana 15 consecutivas.",
+                    "fr-FR": "Rejoins des parties avec classement en ligne et remporte 15 chansons consécutives",
+                    "it-IT": "Partecipa a partite classificate online e vinci 15 brani consecutivi"
+                },
+                "howto": {
+                    "de-DE": "Spiel mit und meistere 15 aufeinanderfolgende Online-Ranglistenspiele",
+                    "en-US": "Join Ranked Online matches and win 15 consecutive songs",
+                    "es-ES": "Únete a partidas igualadas en línea y gana 15 consecutivas.",
+                    "fr-FR": "Rejoins des parties en ligne avec classement et remporte 15 chansons consécutives",
+                    "it-IT": "Partecipa a partite classificate online e vinci 15 brani consecutivi"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "07.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "Unzählbar Viele",
+                    "en-US": "Too Many to Count",
+                    "es-ES": "Imposible de contar",
+                    "fr-FR": "C'est beaucoup trop",
+                    "it-IT": "Troppe da contare"
+                },
+                "description": {
+                    "de-DE": "Triff 250.000 Noten im Karriere-Modus",
+                    "en-US": "Hit 250,000 notes in Career",
+                    "es-ES": "Consigue 250.000 en el modo Carrera.",
+                    "fr-FR": "Réussis 250 000 notes en mode Carrière",
+                    "it-IT": "Raggiungi le 250.000 note in modalità Carriera"
+                },
+                "howto": {
+                    "de-DE": "Triff 250.000 Noten im Karriere-Modus",
+                    "en-US": "Hit 250,000 notes in Career",
+                    "es-ES": "Consigue 250.000 en el modo Carrera.",
+                    "fr-FR": "Réussis 250 000 notes en mode Carrière",
+                    "it-IT": "Raggiungi le 250.000 note in modalità Carriera"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "08.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "de-DE": "Das kannst du nie alles ausgeben",
+                    "en-US": "Never Gonna Spend It All",
+                    "es-ES": "Nunca lo gastes todo",
+                    "fr-FR": "Ne dépense pas tout !",
+                    "it-IT": "Impossibile spenderli tutti!"
+                },
+                "description": {
+                    "de-DE": "Verdiene insgesamt 350.000$ in deiner Karriere",
+                    "en-US": "Earn $350,000 in career lifetime earnings",
+                    "es-ES": "Consigue 350.000 $ al final del modo Carrera.",
+                    "fr-FR": "Gagne 350 000 $ en l'espace d'un mode Carrière",
+                    "it-IT": "Vinci 350.000 dollari in modalità carriera"
+                },
+                "howto": {
+                    "de-DE": "Verdiene insgesamt 350.000$ in deiner Karriere",
+                    "en-US": "Earn $350,000 in career lifetime earnings",
+                    "es-ES": "Consigue 350.000 $ al final del modo Carrera.",
+                    "fr-FR": "Gagne 350 000 $ en l'espace d'un mode Carrière",
+                    "it-IT": "Vinci 350.000 dollari in modalità carriera"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Dafür sind Freunde da",
+                    "en-US": "That's What Friends Are For",
+                    "es-ES": "¿Para qué están los amigos?",
+                    "fr-FR": "Les amis sont faits pour ça",
+                    "it-IT": "Chi trova un amico..."
+                },
+                "description": {
+                    "de-DE": "Schließe deine Karriere im Koop-Modus ab",
+                    "en-US": "Complete Co-op Career",
+                    "es-ES": "Completa la carrera cooperativa.",
+                    "fr-FR": "Termine le mode Carrière Coop",
+                    "it-IT": "Completa la carriera cooperativa"
+                },
+                "howto": {
+                    "de-DE": "Schließe deine Karriere im Koop-Modus ab",
+                    "en-US": "Complete Co-op Career",
+                    "es-ES": "Completa la carrera cooperativa.",
+                    "fr-FR": "Termine le mode Carrière Coop",
+                    "it-IT": "Completa la carriera cooperativa"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "10.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "Rhythmusgitarrenheld",
+                    "en-US": "Back Up Hero",
+                    "es-ES": "Héroe de repuesto",
+                    "fr-FR": "Héro de secours",
+                    "it-IT": "Questo sì che è supporto"
+                },
+                "description": {
+                    "de-DE": "Meistere alle Songs als Rhythmusgitarrist",
+                    "en-US": "Complete all songs as the back-up guitar player",
+                    "es-ES": "Completa todos los temas como el guitarrista de repuesto.",
+                    "fr-FR": "Termine toutes les chansons en tant que guitariste d'accompagnement",
+                    "it-IT": "Completa tutti i brani come seconda chitarra "
+                },
+                "howto": {
+                    "de-DE": "Meistere alle Songs als Rhythmusgitarrist",
+                    "en-US": "Complete all songs as the back-up guitar player",
+                    "es-ES": "Completa todos los temas como el guitarrista de repuesto.",
+                    "fr-FR": "Termine toutes les chansons en tant que guitariste d'accompagnement",
+                    "it-IT": "Completa tutti i brani come seconda chitarra "
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "de-DE": "Gitarrenmagier",
+                    "en-US": "Guitar Wizard",
+                    "es-ES": "Genio de la guitarra",
+                    "fr-FR": "Guitariste talentueux",
+                    "it-IT": "Mago della chitarra"
+                },
+                "description": {
+                    "de-DE": "Meistere alle Songs im Koop-Spiel als Sologitarrist",
+                    "en-US": "Complete all Co-op as the lead guitarist",
+                    "es-ES": "Completa el modo Cooperativo como guitarrista solista.",
+                    "fr-FR": "Termine tout le mode Coop en tant que première guitare",
+                    "it-IT": "Completa tutti i brani cooperativi come chitarrista solista"
+                },
+                "howto": {
+                    "de-DE": "Meistere alle Songs im Koop-Spiel als Sologitarrist",
+                    "en-US": "Complete all Co-op as the lead guitarist",
+                    "es-ES": "Completa el modo Cooperativo como guitarrista solista.",
+                    "fr-FR": "Termine tout le mode Coop en tant que première guitare",
+                    "it-IT": "Completa tutti i brani cooperativi come chitarrista solista"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "12.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "100 Millionen!?! Schluck!?!",
+                    "en-US": "100 Million!?! Gulp!?!",
+                    "es-ES": "¡¿¡Avalancha!?! ¡¿¡De puntos!?!",
+                    "fr-FR": "100 patates !?! Quand même !?!",
+                    "it-IT": "100 milioni? Ma scherzi!?"
+                },
+                "description": {
+                    "de-DE": "Verdiene insgesamt 100.000.000 Punkte in deiner Karriere",
+                    "en-US": "Earn 100,000,000 points total in Career",
+                    "es-ES": "Gana un total de 100.000.000 de puntos en el modo Carrera.",
+                    "fr-FR": "Gagne 100 000 000 de points en mode Carrière",
+                    "it-IT": "Fai 100.000.000 di punti in totale nella modalità carriera"
+                },
+                "howto": {
+                    "de-DE": "Verdiene insgesamt 100.000.000 Punkte in deiner Karriere",
+                    "en-US": "Earn 100,000,000 points total in Career",
+                    "es-ES": "Gana un total de 100.000.000 de puntos en el modo Carrera.",
+                    "fr-FR": "Gagne 100 000 000 de points en mode Carrière",
+                    "it-IT": "Fai 100.000.000 di punti in totale nella modalità carriera"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "13.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "Serienexperte",
+                    "en-US": "Streaker",
+                    "es-ES": "Quematrastes",
+                    "fr-FR": "Médiator",
+                    "it-IT": "Serial killer"
+                },
+                "description": {
+                    "de-DE": "Meinstere eine Notenfolge mit 150 Noten in einem Ranglisten-Online Spiel im Battle-Modus",
+                    "en-US": "Earn a 150 note streak in a Ranked Online Battle mode match",
+                    "es-ES": "Gana una racha de 150 notas en una partida igualada online en el modo Guerra.",
+                    "fr-FR": "Réussis une série de 150 notes en mode Duel en ligne avec classement",
+                    "it-IT": "Fai una serie di 150 note in una partita classificata online in modalità Battaglia"
+                },
+                "howto": {
+                    "de-DE": "Meinstere eine Notenfolge mit 150 Noten in einem Ranglisten-Online Spiel im Battle-Modus",
+                    "en-US": "Earn a 150 note streak in a Ranked Online Battle mode match",
+                    "es-ES": "Gana una racha de 150 notas en una partida igualada en línea en modo Guerra.",
+                    "fr-FR": "Réussis une série de 150 notes en mode Duel en ligne avec classement",
+                    "it-IT": "Fai una serie di 150 note in una partita classificata online in modalità Battaglia"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "14.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "Kein musikalisches Gehör",
+                    "en-US": "Tone Deaf",
+                    "es-ES": "Sordo como una tapia",
+                    "fr-FR": "Amusie",
+                    "it-IT": "Non c'è peggior sordo..."
+                },
+                "description": {
+                    "de-DE": "Meistere jeden beliebigen Song als Profi, wenn die Sound-Optionen auf Null heruntergedreht sind",
+                    "en-US": "Beat any song on the expert difficulty with the games sound options turned down to zero",
+                    "es-ES": "Pásate cualquier canción en el nivel experto con el sonido apagado.",
+                    "fr-FR": "Réussis une chanson au niveau Expert avec l'option de son du jeu mise à zéro",
+                    "it-IT": "Completa un brano al livello Esperto con le opzioni audio del gioco azzerate"
+                },
+                "howto": {
+                    "de-DE": "Meistere jeden beliebigen Song als Profi, wenn die Sound-Optionen auf Null heruntergedreht sind",
+                    "en-US": "Beat any song on the expert difficulty with the games sound options turned down to zero\n\n\n",
+                    "es-ES": "Pásate cualquier canción en el nivel experto con el sonido apagado.",
+                    "fr-FR": "Réussis une chanson au niveau Expert avec l'option de son du jeu mise à zéro\n\n\n",
+                    "it-IT": "Completa un brano al livello Esperto con le opzioni audio del gioco azzerate"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "15.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "Easy Rider",
+                    "en-US": "Easy Rider",
+                    "es-ES": "Paseo fácil",
+                    "fr-FR": "Surfer sur la vague facile",
+                    "it-IT": "Come la fai facile"
+                },
+                "description": {
+                    "de-DE": "Schließe eine Karrier auf der Schwierigkeitsstufe Leicht ab",
+                    "en-US": "Complete a Career on the Easy Difficulty",
+                    "es-ES": "Completa el modo Carrera en el nivel fácil.",
+                    "fr-FR": "Termine le mode Carrière au niveau Facile",
+                    "it-IT": "Completa la carriera al livello Facile"
+                },
+                "howto": {
+                    "de-DE": "Schließe eine Karrier auf der Schwierigkeitsstufe Leicht ab",
+                    "en-US": "Complete a Career on the Easy Difficulty",
+                    "es-ES": "Completa el modo Carrera en el nivel fácil.",
+                    "fr-FR": "Termine le mode Carrière au niveau Facile",
+                    "it-IT": "Completa la carriera al livello Facile"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "16.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "Magst du Dein Steak 'medium'?",
+                    "en-US": "Medium Rare",
+                    "es-ES": "Rey del nivel medio",
+                    "fr-FR": "À point !",
+                    "it-IT": "Una vita da mediano"
+                },
+                "description": {
+                    "de-DE": "Schließe den Karriere-Modus auf der Schwierigkeitsstufe Mittel ab",
+                    "en-US": "Complete Career Mode on the Medium difficulty",
+                    "es-ES": "Completa el modo Carrera en el nivel medio.",
+                    "fr-FR": "Termine le mode Carrière au niveau Moyen",
+                    "it-IT": "Completa la modalità Carriera al livello Medio"
+                },
+                "howto": {
+                    "de-DE": "Schließe den Karriere-Modus auf der Schwierigkeitsstufe Mittel ab",
+                    "en-US": "Complete Career Mode on the Medium difficulty",
+                    "es-ES": "Completa el modo Carrera en el nivel medio.",
+                    "fr-FR": "Termine le mode Carrière au niveau Moyen",
+                    "it-IT": "Completa la modalità Carriera al livello Medio"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "17.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Immer Schwer",
+                    "en-US": "Always Hard",
+                    "es-ES": "Hueso duro de roer",
+                    "fr-FR": "Y a toujours plus dur",
+                    "it-IT": "Sempre difficile"
+                },
+                "description": {
+                    "de-DE": "Schließe deine Karriere auf der Schwierigkeitsstufe Schwer ab",
+                    "en-US": "Complete Career on the Hard difficulty",
+                    "es-ES": "Completa el modo Carrera en nivel difícil.",
+                    "fr-FR": "Termine le mode Carrière au niveau Difficile",
+                    "it-IT": "Completa la carriera al livello Difficile"
+                },
+                "howto": {
+                    "de-DE": "Schließe deine Karriere auf der Schwierigkeitsstufe Schwer ab",
+                    "en-US": "Complete Career on the Hard difficulty",
+                    "es-ES": "Completa el modo Carrera en nivel difícil.",
+                    "fr-FR": "Termine le mode Carrière au niveau Difficile",
+                    "it-IT": "Completa la carriera al livello Difficile"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "18.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "Solo-Karriere",
+                    "en-US": "Solo Career",
+                    "es-ES": "Carrera en solitario",
+                    "fr-FR": "Carrière solo",
+                    "it-IT": "Carriera solista"
+                },
+                "description": {
+                    "de-DE": "Meistere alle Schwierigkeitsstufen im Karriere-Modus",
+                    "en-US": "Complete all Career difficulties",
+                    "es-ES": "Completa el modo Carrera en todos los niveles.",
+                    "fr-FR": "Termine tous les niveaux de difficulté du mode Carrière",
+                    "it-IT": "Completa la carriera a tutti i livelli di difficoltà"
+                },
+                "howto": {
+                    "de-DE": "Meistere alle Schwierigkeitsstufen im Karriere-Modus",
+                    "en-US": "Complete all Career difficulties",
+                    "es-ES": "Completa el modo Carrera en todos los niveles.",
+                    "fr-FR": "Termine tous les niveaux de difficulté du mode Carrière",
+                    "it-IT": "Completa la carriera a tutti i livelli di difficoltà"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "19.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "Tasten-Zermalmer",
+                    "en-US": "Button Masher",
+                    "es-ES": "Machacabotones",
+                    "fr-FR": "Le bourreau des touches",
+                    "it-IT": "Tritatasti"
+                },
+                "description": {
+                    "de-DE": "Gewinne 15 aufeinanderfolgende Online-Ranglistenspiele mit einem Standard-Controller",
+                    "en-US": "Win 15 consecutive Ranked songs online using a standard controller",
+                    "es-ES": "Gana 15 partidas igualadas en línea usando un mando estándar.",
+                    "fr-FR": "Remporte 15 parties avec classement en ligne consécutives avec une manette standard",
+                    "it-IT": "Vinci 15 brani classificati online consecutivi utilizzando un controller standard"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 15 aufeinanderfolgende Online-Ranglistenspiele mit einem Standard-Controller",
+                    "en-US": "Win 15 consecutive Ranked songs online using a standard controller",
+                    "es-ES": "Gana 15 partidas igualadas en línea consecutivas usando un mando estándar.",
+                    "fr-FR": "Remporte 15 parties avec classement en ligne consécutives avec une manette standard",
+                    "it-IT": "Vinci 15 brani classificati online consecutivi utilizzando un controller standard"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "20.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Kauf schon eine Gitarre",
+                    "en-US": "Buy a Guitar Already",
+                    "es-ES": "Compra una guitarra ¡YA!",
+                    "fr-FR": "Va t'acheter une guitare",
+                    "it-IT": "Compra subito una chitarra!"
+                },
+                "description": {
+                    "de-DE": "Spiele eine Karriere im Schwer- oder Profi-Modus mit einem Standard-Controller",
+                    "en-US": "Play through a career on the Hard or Expert difficulty using a standard controller",
+                    "es-ES": "Juega en el modo Carrera en el nivel difícil o experto utilizando un mando estándar.",
+                    "fr-FR": "Termine un mode Carrière au niveau Difficile ou Expert en utilisant une manette standard",
+                    "it-IT": "Completa la carriera al livello Difficile o Esperto utilizzando un controller standard"
+                },
+                "howto": {
+                    "de-DE": "Spiele eine Karriere im Schwer- oder Profi-Modus mit einem Standard-Controller",
+                    "en-US": "Play through a career on the Hard or Expert difficulty using a standard controller\n\n\n",
+                    "es-ES": "Juega en el modo Carrera en el nivel difícil o experto utilizando un mando estándar.",
+                    "fr-FR": "Termine un mode Carrière au niveau Difficile ou Expert en utilisant une manette standard",
+                    "it-IT": "Completa la carriera al livello Difficile o Esperto utilizzando un controller standard"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "21.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Großer fetter Haufen Gewinne",
+                    "en-US": "Big 'Ol Pile of Wins",
+                    "es-ES": "Un montón de victorias.",
+                    "fr-FR": "Un beau paquet de victoires",
+                    "it-IT": "Un sacco di vittorie"
+                },
+                "description": {
+                    "de-DE": "Gewinne 500 Online-Ranglistenspiele",
+                    "en-US": "Win 500 Online Ranked matches",
+                    "es-ES": "Gana 500 partidas igualadas en línea.",
+                    "fr-FR": "Gagne 500 parties avec classement en ligne",
+                    "it-IT": "Vinci 500 partite classificate online"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 500 Online-Ranglistenspiele",
+                    "en-US": "Win 500 Online Ranked matches",
+                    "es-ES": "Gana 500 partidas igualadas en línea.",
+                    "fr-FR": "Gagne 500 parties avec classement en ligne",
+                    "it-IT": "Vinci 500 partite classificate online"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "22.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Lange Straße Vor Dir",
+                    "en-US": "The Long Road Ahead",
+                    "es-ES": "Un largo camino espera",
+                    "fr-FR": "À perte de vue",
+                    "it-IT": "Lunga è la via"
+                },
+                "description": {
+                    "de-DE": "Meistere alle Schwierigkeitsstufen, kauf alles im Laden und meistere 100 Online-Spiele",
+                    "en-US": "Complete all difficulties in Career, buy everything from the shop and complete 100 online matches",
+                    "es-ES": "Completa todos los niveles de dificultad en Carrera, cómpralo todo y completa 100 partidas en línea",
+                    "fr-FR": "Termine tous les niveaux de difficulté du mode Carrière, 100 parties en ligne et achète le magasin",
+                    "it-IT": "Completa la carriera a tutti i livelli, acquista tutto dall'emporio e completa 100 partite online"
+                },
+                "howto": {
+                    "de-DE": "Meistere alle Schwierigkeitsstufen, kauf alles im Laden und meistere 100 Online-Spiele",
+                    "en-US": "Complete all difficulties in Career, buy everything from the shop and complete 100 online matches\n\n\n",
+                    "es-ES": "Completa todos los niveles de dificultad en Carrera, cómpralo todo y completa 100 partidas en línea",
+                    "fr-FR": "Termine tous les niveaux de difficulté du mode Carrière, 100 parties en ligne et achète le magasin",
+                    "it-IT": "Completa la carriera a tutti i livelli, acquista tutto dall'emporio e completa 100 partite online"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "100",
+            "imageId": "23.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Begegne deinem Schöpfer",
+                    "en-US": "Meet Your Maker",
+                    "es-ES": "Enfréntate al creador",
+                    "fr-FR": "Rencontre ton créateur",
+                    "it-IT": "Ti mando al creatore"
+                },
+                "description": {
+                    "de-DE": "Schlage einen der Macher von Guitar Hero 3 bei ihrem eigenen Spiel",
+                    "en-US": "Beat one of the creators of Guitar Hero 3 at their own game",
+                    "es-ES": "Derrota a uno de los creadores de Guitar Hero 3 en su propio juego.",
+                    "fr-FR": "Bats un des créateurs de Guitar Hero 3 à son propre jeu",
+                    "it-IT": "Sconfiggi uno dei creatori di Guitar Hero 3 al suo stesso gioco"
+                },
+                "howto": {
+                    "de-DE": "Schlage einen der Macher von Guitar Hero 3 bei ihrem eigenen Spiel",
+                    "en-US": "Beat one of the creators of Guitar Hero 3 at their own game",
+                    "es-ES": "Derrota a uno de los creadores de Guitar Hero 3 en su propio juego.",
+                    "fr-FR": "Bats un des créateurs de Guitar Hero 3 à son propre jeu",
+                    "it-IT": "Sconfiggi uno dei creatori di Guitar Hero 3 al suo stesso gioco"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "24.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "Die rechte Hand Gottes",
+                    "en-US": "Right Hand of God",
+                    "es-ES": "El ojito derecho de Dios",
+                    "fr-FR": "Une main experte",
+                    "it-IT": "La mano destra di Dio"
+                },
+                "description": {
+                    "de-DE": "Meistere den Karriere-Modus auf der Schwierigkeitsstufe Profi",
+                    "en-US": "Complete Career Mode on the Expert difficulty",
+                    "es-ES": "Completa el modo Carrera en el nivel experto.",
+                    "fr-FR": "Termine le mode Carrière au niveau Expert",
+                    "it-IT": "Completa la modalità Carriera al livello Esperto"
+                },
+                "howto": {
+                    "de-DE": "Meistere den Karriere-Modus auf der Schwierigkeitsstufe Profi",
+                    "en-US": "Complete Career Mode on the Expert difficulty",
+                    "es-ES": "Completa el modo Carrera en el nivel experto.",
+                    "fr-FR": "Termine le mode Carrière au niveau Expert",
+                    "it-IT": "Completa la modalità Carriera al livello Esperto"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "25.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Bronze-Serienexperte",
+                    "en-US": "Bronze Streaker",
+                    "es-ES": "Quematrastes de bronce",
+                    "fr-FR": "Médiator de bronze",
+                    "it-IT": "Una serie seria"
+                },
+                "description": {
+                    "de-DE": "Meistere eine Notenserie mit 100 Noten im Karriere-Modus oder im Schnellen Spiel",
+                    "en-US": "Earn a 100 note Streak in Career or Quick Play",
+                    "es-ES": "Consigue una racha de 100 notas en Carrera o Partida rápida.",
+                    "fr-FR": "Réussis une série de 100 notes en mode Carrière ou Partie rapide",
+                    "it-IT": "Fai una serie di 100 note in modalità Carriera o Partita veloce"
+                },
+                "howto": {
+                    "de-DE": "Meistere eine Notenserie mit 100 Noten im Karriere-Modus oder im Schnellen Spiel",
+                    "en-US": "Earn a 100 note Streak in Career or Quick Play",
+                    "es-ES": "Consigue una racha de 100 notas en Carrera o Partida rápida.",
+                    "fr-FR": "Réussis une série de 100 notes en mode Carrière ou Partie rapide",
+                    "it-IT": "Fai una serie di 100 note in modalità Carriera o Partita veloce"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "26.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Silber-Serienexperte",
+                    "en-US": "Silver Streaker",
+                    "es-ES": "Quematrastes de plata",
+                    "fr-FR": "Médiator d'argent",
+                    "it-IT": "Fai sul serio!"
+                },
+                "description": {
+                    "de-DE": "Meistere eine Notenserie mit 250 Noten im Karriere-Modus oder im Schnellen Spiel",
+                    "en-US": "Earn a 250 note streak in Career or Quick Play",
+                    "es-ES": "Consigue una racha de 250 notas en Carrera o Partida rápida.",
+                    "fr-FR": "Réussis une série de 250 notes en mode Carrière ou Partie rapide",
+                    "it-IT": "Fai una serie di 250 note in modalità Carriera o Partita veloce"
+                },
+                "howto": {
+                    "de-DE": "Meistere eine Notenserie mit 250 Noten im Karriere-Modus oder im Schnellen Spiel",
+                    "en-US": "Earn a 250 note streak in Career or Quick Play",
+                    "es-ES": "Consigue una racha de 250 notas en Carrera o Partida rápida.",
+                    "fr-FR": "Réussis une série de 250 notes en mode Carrière ou Partie rapide",
+                    "it-IT": "Fai una serie di 250 note in modalità Carriera o Partita veloce"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "27.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "Gold-Serienexperte",
+                    "en-US": "Gold Streaker",
+                    "es-ES": "Quematrastes de oro",
+                    "fr-FR": "Médiator d'or",
+                    "it-IT": "Fuoriserie"
+                },
+                "description": {
+                    "de-DE": "Meistere eine Notenserie mit 500 Noten",
+                    "en-US": "Earn a 500 note streak in Career or Quick Play",
+                    "es-ES": "Consigue una racha de 500 notas en Carrera o Partida rápida .",
+                    "fr-FR": "Réussis une série de 500 notes en mode Carrière ou Partie rapide",
+                    "it-IT": "Fai una serie di 500 note in modalità Carriera o Partita veloce"
+                },
+                "howto": {
+                    "de-DE": "Meistere eine Notenserie mit 500 Noten im Karriere-Modus oder im Schnellen Spiel",
+                    "en-US": "Earn a 500 note streak in Career or Quick Play",
+                    "es-ES": "Consigue una racha de 500 notas en Carrera o Partida rápida.",
+                    "fr-FR": "Réussis une série de 500 notes en mode Carrière ou Partie rapide",
+                    "it-IT": "Fai una serie di 500 note in modalità Carriera o Partita veloce"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "28.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "de-DE": "Serienmeister",
+                    "en-US": "Streak Master",
+                    "es-ES": "El quematrastes supremo",
+                    "fr-FR": "Maître du médiator",
+                    "it-IT": "Campione delle serie"
+                },
+                "description": {
+                    "de-DE": "Meistere eine Notenserie mit 1000 Noten im Karriere-Modus oder im Schnellen Spiel",
+                    "en-US": "Earn a 1000 note streak in Career or Quick Play",
+                    "es-ES": "Consigue una racha de 1.000 notas en Carrera o Partida rápida.",
+                    "fr-FR": "Réussis une série de 1 000 notes en mode Carrière ou Partie rapide",
+                    "it-IT": "Fai una serie di 1000 note in modalità Carriera o Partita veloce"
+                },
+                "howto": {
+                    "de-DE": "Meistere eine Notenserie mit 1000 Noten im Karriere-Modus oder im Schnellen Spiel",
+                    "en-US": "Earn a 1000 note streak in Career or Quick Play",
+                    "es-ES": "Consigue una racha de 1.000 notas en Carrera o Partida rápida.",
+                    "fr-FR": "Réussis une série de 1 000 notes en mode Carrière ou Partie rapide",
+                    "it-IT": "Fai una serie di 1000 note in modalità Carriera o Partita veloce"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "29.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "de-DE": "Erster Hoher Punktestand",
+                    "en-US": "First Big Score",
+                    "es-ES": "Mi primera gran puntuación",
+                    "fr-FR": "Premier gros carton",
+                    "it-IT": "Primo punteggio alto"
+                },
+                "description": {
+                    "de-DE": "Erziele 250.000 Punkte bei einem Song",
+                    "en-US": "Score 250,000 on a song",
+                    "es-ES": "Consigue 250.000 puntos en un tema.",
+                    "fr-FR": "Obtiens 250 000 points sur une chanson",
+                    "it-IT": "Fai 250.000 punti in un brano"
+                },
+                "howto": {
+                    "de-DE": "Erziele 250.000 Punkte bei einem Song",
+                    "en-US": "Score 250,000 on a song",
+                    "es-ES": "Consigue 250.000 puntos en un tema.",
+                    "fr-FR": "Obtiens 250 000 points sur une chanson",
+                    "it-IT": "Fai 250.000 punti in un brano"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "30.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "Halbe Million",
+                    "en-US": "Half a Mill'",
+                    "es-ES": "Medio millón",
+                    "fr-FR": "Un demi s'il vous plaît !",
+                    "it-IT": "Mezzo milione"
+                },
+                "description": {
+                    "de-DE": "Erziele 500.000 Punkte bei einem Song",
+                    "en-US": "Score 500,000 on a song",
+                    "es-ES": "Consigue 500.000 puntos en un tema.",
+                    "fr-FR": "Obtiens 500 000 points sur une chanson",
+                    "it-IT": "Fai 500.000 punti in un brano"
+                },
+                "howto": {
+                    "de-DE": "Erziele 500.000 Punkte bei einem Song",
+                    "en-US": "Score 500,000 on a song",
+                    "es-ES": "Consigue 500.000 puntos en un tema.",
+                    "fr-FR": "Obtiens 500 000 points sur une chanson",
+                    "it-IT": "Fai 500.000 punti in un brano"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "31.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "de-DE": "Das ist wirklich beeindruckend",
+                    "en-US": "Now That's Impressive",
+                    "es-ES": "Eso es impresionante",
+                    "fr-FR": "Impressionnant",
+                    "it-IT": "Punteggio impressionante"
+                },
+                "description": {
+                    "de-DE": "Erziele 750.000 Punkte bei einem Song",
+                    "en-US": "Score 750,000 on a song",
+                    "es-ES": "Consigue 750.000 puntos en un tema.",
+                    "fr-FR": "Obtiens 750 000 points sur une chanson",
+                    "it-IT": "Fai 750.000 punti in un brano"
+                },
+                "howto": {
+                    "de-DE": "Erziele 750.000 Punkte bei einem Song",
+                    "en-US": "Score 750,000 on a song",
+                    "es-ES": "Consigue 750.000 puntos en un tema.",
+                    "fr-FR": "Obtiens 750 000 points sur une chanson",
+                    "it-IT": "Fai 750.000 punti in un brano"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "32.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "Axtschleifer",
+                    "en-US": "Axe Grinder",
+                    "es-ES": "Afilaguitarras",
+                    "fr-FR": "Train-train du guitariste",
+                    "it-IT": "Spaccatasti"
+                },
+                "description": {
+                    "de-DE": "Verdiene 5 Sterne auf allen Songs auf der Schwierigkeitsstufe Leicht",
+                    "en-US": "Earn 5 stars on all songs on the Easy difficulty",
+                    "es-ES": "Recibe críticas de 5 estrellas en todos los temas del nivel fácil.",
+                    "fr-FR": "Gagne 5 étoiles sur toutes les chansons au niveau Facile",
+                    "it-IT": "Ottieni 5 stelle su tutti i brani al livello Facile"
+                },
+                "howto": {
+                    "de-DE": "Verdiene 5 Sterne auf allen Songs auf der Schwierigkeitsstufe Leicht",
+                    "en-US": "Earn 5 stars on all songs on the Easy difficulty",
+                    "es-ES": "Recibe críticas de 5 estrellas en todos los temas del nivel fácil.",
+                    "fr-FR": "Gagne 5 étoiles sur toutes les chansons au niveau Facile",
+                    "it-IT": "Ottieni 5 stelle su tutti i brani al livello Facile"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "33.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "Rock-Guru",
+                    "en-US": "Rock Guru",
+                    "es-ES": "Gurú del rock",
+                    "fr-FR": "Gourou du rock",
+                    "it-IT": "Guru del rock"
+                },
+                "description": {
+                    "de-DE": "Verdiene 5 Sterne bei allen Songs auf der Schwierigkeitsstufe Mittel",
+                    "en-US": "Earn 5 stars on all songs on the Medium difficulty",
+                    "es-ES": "Recibe críticas de 5 estrellas en todos los temas del nivel medio.",
+                    "fr-FR": "Gagne 5 étoiles sur toutes les chansons au niveau Moyen",
+                    "it-IT": "Ottieni 5 stelle in tutti i brani al livello Medio"
+                },
+                "howto": {
+                    "de-DE": "Verdiene 5 Sterne bei allen Songs auf der Schwierigkeitsstufe Mittel",
+                    "en-US": "Earn 5 stars on all songs on the Medium difficulty",
+                    "es-ES": "Recibe críticas de 5 estrellas en todos los temas del nivel medio.",
+                    "fr-FR": "Gagne 5 étoiles sur toutes les chansons au niveau Moyen",
+                    "it-IT": "Ottieni 5 stelle in tutti i brani al livello Medio"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "34.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "de-DE": "Shredder",
+                    "en-US": "Shredder",
+                    "es-ES": "El monstruo de las notas",
+                    "fr-FR": "Gratteur",
+                    "it-IT": "Virtuoso"
+                },
+                "description": {
+                    "de-DE": "Verdiene 5 Sterne bei allen Songs auf der Schwierigkeitsstufe Schwer",
+                    "en-US": "Earn 5 stars on all songs on the Hard difficulty",
+                    "es-ES": "Recibe críticas de 5 estrellas en todos los temas del nivel difícil.",
+                    "fr-FR": "Gagne 5 étoiles sur toutes les chansons au niveau Difficile",
+                    "it-IT": "Ottieni 5 stelle in tutti i brani al livello Difficile"
+                },
+                "howto": {
+                    "de-DE": "Verdiene 5 Sterne bei allen Songs auf der Schwierigkeitsstufe Schwer",
+                    "en-US": "Earn 5 stars on all songs on the Hard difficulty",
+                    "es-ES": "Recibe críticas de 5 estrellas en todos los temas del nivel difícil.",
+                    "fr-FR": "Gagne 5 étoiles sur toutes les chansons au niveau Difficile",
+                    "it-IT": "Ottieni 5 stelle in tutti i brani al livello Difficile"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "35.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "Gitarrenheld",
+                    "en-US": "Guitar Hero",
+                    "es-ES": "Guitar Hero",
+                    "fr-FR": "Guitar Hero",
+                    "it-IT": "Guitar Hero"
+                },
+                "description": {
+                    "de-DE": "Verdiene 5 Sterne auf allen Songs auf der Schwierigkeitsstufe Profi",
+                    "en-US": "Earn 5 stars on all songs on the Expert difficulty",
+                    "es-ES": "Recibe críticas de 5 estrellas en todos los temas del nivel experto.",
+                    "fr-FR": "Gagne 5 étoiles sur toutes les chansons au niveau Expert",
+                    "it-IT": "Ottieni 5 stelle su tutti i brani al livello Esperto"
+                },
+                "howto": {
+                    "de-DE": "Verdiene 5 Sterne auf allen Songs auf der Schwierigkeitsstufe Profi",
+                    "en-US": "Earn 5 stars on all songs on the Expert difficulty",
+                    "es-ES": "Recibe críticas de 5 estrellas en todos los temas del nivel experto.",
+                    "fr-FR": "Gagne 5 étoiles sur toutes les chansons au niveau Expert",
+                    "it-IT": "Ottieni 5 stelle su tutti i brani al livello Esperto"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "75",
+            "imageId": "36.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "Perfektionist",
+                    "en-US": "Perfectionist",
+                    "es-ES": "Perfeccionista",
+                    "fr-FR": "Perfectionniste",
+                    "it-IT": "Perfezionista"
+                },
+                "description": {
+                    "de-DE": "Meistere einen Song mit 100% getroffenen Noten",
+                    "en-US": "100% a song",
+                    "es-ES": "Consigue 100% en un tema.",
+                    "fr-FR": "100% sur une chanson",
+                    "it-IT": "Completa un brano con il 100% di note suonate"
+                },
+                "howto": {
+                    "de-DE": "Meistere einen Song mit 100% getroffenen Noten",
+                    "en-US": "100% a song",
+                    "es-ES": "Consigue 100% en un tema.",
+                    "fr-FR": "100% sur une chanson",
+                    "it-IT": "Completa un brano con il 100% di note suonate"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "37.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "de-DE": "Bereit zu Rocken",
+                    "en-US": "Ready to Rock",
+                    "es-ES": "A punto para rockanrolear",
+                    "fr-FR": "Prêt pour le rock ?",
+                    "it-IT": "Pronto a roccheggiare"
+                },
+                "description": {
+                    "de-DE": "Beende das Tutorial",
+                    "en-US": "Complete the tutorial",
+                    "es-ES": "Completa el tutorial.",
+                    "fr-FR": "Termine le didacticiel",
+                    "it-IT": "Completa le lezioni"
+                },
+                "howto": {
+                    "de-DE": "Beende das Tutorial",
+                    "en-US": "Complete the tutorial",
+                    "es-ES": "Completa el tutorial.",
+                    "fr-FR": "Termine le didacticiel",
+                    "it-IT": "Completa le lezioni"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "38.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "de-DE": "Gitarrensammler",
+                    "en-US": "Axe Collector",
+                    "es-ES": "Coleccionista de guitarras",
+                    "fr-FR": "Collectionneur de grattes",
+                    "it-IT": "Collezionista di chitarre"
+                },
+                "description": {
+                    "de-DE": "Alle Gitarren im Laden kaufen",
+                    "en-US": "Buy all the Guitars from the shop",
+                    "es-ES": "Compra todas las guitarras de La Tienda.",
+                    "fr-FR": "Achète toutes les guitares du magasin",
+                    "it-IT": "Compra tutte le chitarre del negozio"
+                },
+                "howto": {
+                    "de-DE": "Alle Gitarren im Laden kaufen",
+                    "en-US": "Buy all the Guitars from the shop",
+                    "es-ES": "Compra todas las guitarras de La Tienda.",
+                    "fr-FR": "Achète toutes les guitares du magasin",
+                    "it-IT": "Compra tutte le chitarre del negozio"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "39.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "Track-Meister",
+                    "en-US": "Track Master",
+                    "es-ES": "Comprador compulsivo",
+                    "fr-FR": "Maître des chansons",
+                    "it-IT": "Sbrana brani"
+                },
+                "description": {
+                    "de-DE": "Kauf alle Songs im Laden",
+                    "en-US": "Buy all songs from the shop",
+                    "es-ES": "Compra todos los temas de La Tienda.",
+                    "fr-FR": "Achète toutes les chansons du magasin",
+                    "it-IT": "Acquista tutti i brani dall'emporio"
+                },
+                "howto": {
+                    "de-DE": "Kauf alle Songs im Laden",
+                    "en-US": "Buy all songs from the shop",
+                    "es-ES": "Compra todos los temas de La Tienda.",
+                    "fr-FR": "Achète toutes les chansons du magasin",
+                    "it-IT": "Acquista tutti i brani dall'emporio"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "40.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "de-DE": "Schnapp Dir alle",
+                    "en-US": "Got 'em All",
+                    "es-ES": "Todos pa' ti",
+                    "fr-FR": "Collectionne-les tous",
+                    "it-IT": "Ce li ho tutti"
+                },
+                "description": {
+                    "de-DE": "Kauf alle Charaktere im Laden",
+                    "en-US": "Buy all characters from the shop",
+                    "es-ES": "Compra todos los personajes de La Tienda.",
+                    "fr-FR": "Achète tous les personnages du magasin",
+                    "it-IT": "Compra tutti i personaggi dell'emporio"
+                },
+                "howto": {
+                    "de-DE": "Kauf alle Charaktere im Laden",
+                    "en-US": "Buy all characters from the shop",
+                    "es-ES": "Compra todos los personajes de La Tienda.",
+                    "fr-FR": "Achète tous les personnages du magasin",
+                    "it-IT": "Compra tutti i personaggi dell'emporio"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "41.png"
+        },
+        "51": {
+            "text": {
+                "name": {
+                    "de-DE": "Zieh den Schwanz ein",
+                    "en-US": "Tail Between Your Legs",
+                    "es-ES": "Con el rabo entre las piernas",
+                    "fr-FR": "La queue entre les jambes",
+                    "it-IT": "Con la coda fra le gambe"
+                },
+                "description": {
+                    "de-DE": "Lehne einen Bosskampf ab",
+                    "en-US": "Refuse a boss battle",
+                    "es-ES": "Rechaza una partida con el experto.",
+                    "fr-FR": "Refuse un duel contre un boss",
+                    "it-IT": "Rifiuta una battaglia con un boss della chitarra"
+                },
+                "howto": {
+                    "en-US": ""
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "0",
+            "imageId": "42.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "de-DE": "Fast Geschafft",
+                    "en-US": "Almost Got It",
+                    "es-ES": "Casi, casi",
+                    "fr-FR": "T'étais pas loin",
+                    "it-IT": "C'eri quasi!"
+                },
+                "description": {
+                    "de-DE": "Verlierst einen Song bei 90% Abschluss",
+                    "en-US": "Fail a song passed 90% completion",
+                    "es-ES": "Falla un tema cuando esté completado al 90%.",
+                    "fr-FR": "Rate une chanson avec un taux de réussite supérieur à 90 %",
+                    "it-IT": "Sbaglia un brano dopo averne suonato il 90%"
+                },
+                "howto": {
+                    "en-US": ""
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "43.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "de-DE": "Vergeigt",
+                    "en-US": "Blowin' It",
+                    "es-ES": "Pifiándola",
+                    "fr-FR": "Massacre-la",
+                    "it-IT": "Proprio non va, eh?"
+                },
+                "description": {
+                    "de-DE": "Wenn Dir ein beliebiger Song 10 mal misslingt",
+                    "en-US": "Fail any song 10 times",
+                    "es-ES": "Falla cualquier tema 10 veces.",
+                    "fr-FR": "Rate une chanson 10 fois",
+                    "it-IT": "Sbaglia lo stesso 10 volte"
+                },
+                "howto": {
+                    "en-US": ""
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "44.png"
+        },
+        "54": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein paar Serienexperten",
+                    "en-US": "A Couple of Streakers",
+                    "es-ES": "Una pareja de quematrastes",
+                    "fr-FR": "À chacun son médiator",
+                    "it-IT": "Due chitarristi seri"
+                },
+                "description": {
+                    "de-DE": "Meistere in einem Koop-Spiel eine Notenserie mit 200 Noten",
+                    "en-US": "Earn a 200 note streak in a Co-op match",
+                    "es-ES": "Consigue una racha de 200 notas en una partida cooperativa.",
+                    "fr-FR": "Réussis une série de 200 notes en partie Coop",
+                    "it-IT": "Fai una serie di 200 note in una partita cooperativa"
+                },
+                "howto": {
+                    "de-DE": "Meistere in einem Koop-Spiel eine Notenserie mit 200 Noten",
+                    "en-US": "Earn a 200 note streak in a Co-op match",
+                    "es-ES": "Consigue una racha de 200 notas en una partida cooperativa.",
+                    "fr-FR": "Réussis une série de 200 notes en partie Coop",
+                    "it-IT": "Fai una serie di 200 note in una partita cooperativa"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "45.png"
+        },
+        "55": {
+            "text": {
+                "name": {
+                    "de-DE": "Doppelt gut",
+                    "en-US": "Two Timer",
+                    "es-ES": "Dos triunfos",
+                    "fr-FR": "Deux minuteurs",
+                    "it-IT": "Coppia di assi"
+                },
+                "description": {
+                    "de-DE": "Meistere eine Notenserie mit 500 Noten in einem Koop-Spiel",
+                    "en-US": "Earn a 500 note streak in a Co-op match",
+                    "es-ES": "Gana una racha de 500 notas en una partida cooperativa.",
+                    "fr-FR": "Réussis une série de 500 notes en mode Coop",
+                    "it-IT": "Vinci una serie di 500 note in una partita cooperativa"
+                },
+                "howto": {
+                    "de-DE": "Meistere eine Notenserie mit 500 Noten in einem Koop-Spiel",
+                    "en-US": "Earn a 500 note streak in a Co-op match",
+                    "es-ES": "Gana una racha de 500 notas en una partida cooperativa.",
+                    "fr-FR": "Réussis une série de 500 notes en mode Coop",
+                    "it-IT": "Vinci una serie di 500 note in una partita cooperativa"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "46.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "de-DE": "Dynamisches Duo",
+                    "en-US": "Dynamic Duo",
+                    "es-ES": "Dúo dinámico",
+                    "fr-FR": "Duo de choc",
+                    "it-IT": "Dio li fa e poi li accoppia"
+                },
+                "description": {
+                    "de-DE": "Meistere eine Notenserie mit 1000 Noten in einem Koop-Spiel",
+                    "en-US": "Earn a 1000 note streak in a Co-op match",
+                    "es-ES": "Gana una racha de 1000 notas en una partida cooperativa.",
+                    "fr-FR": "Réussis une série de 1 000 notes en mode Coop",
+                    "it-IT": "Fai una serie di 1000 note in una partita cooperativa"
+                },
+                "howto": {
+                    "de-DE": "Meistere eine Notenserie mit 1000 Noten in einem Koop-Spiel",
+                    "en-US": "Earn a 1000 note streak in a Co-op match",
+                    "es-ES": "Gana una racha de 1000 notas en una partida cooperativa.",
+                    "fr-FR": "Réussis une série de 1 000 notes en mode Coop",
+                    "it-IT": "Fai una serie di 1000 note in una partita cooperativa"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "47.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "de-DE": "Serienmeister",
+                    "en-US": "Streak Masters",
+                    "es-ES": "El quematrastes supremo",
+                    "fr-FR": "Maîtres des médiators",
+                    "it-IT": "Campioni delle serie"
+                },
+                "description": {
+                    "de-DE": "Meistere eine Notenserie mit 2000 Noten in einem Koop-Spiel",
+                    "en-US": "Earn a 2000 note streak in a Co-op match",
+                    "es-ES": "Gana una racha de 2.000 notas en una partida cooperativa.",
+                    "fr-FR": "Réussis une série de 2 000 notes en mode Coop",
+                    "it-IT": "Fai una serie di 2000 note in una partita cooperativa"
+                },
+                "howto": {
+                    "de-DE": "Meistere eine Notenserie mit 2000 Noten",
+                    "en-US": "Earn a 2000 note streak in a Co-op match",
+                    "es-ES": "Gana una racha de 2.000 notas en una partida cooperativa.",
+                    "fr-FR": "Réussis une série de 2 000 notes en mode Coop",
+                    "it-IT": "Fai una serie di 2000 note in una partita cooperativa"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "48.png"
+        },
+        "58": {
+            "text": {
+                "name": {
+                    "de-DE": "Club der Millionäre",
+                    "en-US": "Millionaire Club",
+                    "es-ES": "Club de los millonarios",
+                    "fr-FR": "Le club des millionnaires",
+                    "it-IT": "Gruppo milionario"
+                },
+                "description": {
+                    "de-DE": "Erziele 1.000.000 Punkte bei jedem beliebigen Song in einem Koop-Spiel",
+                    "en-US": "Score 1,000,000 on any song in a Co-op match",
+                    "es-ES": "Consigue 1.000.000 en cualquier tema de la partida cooperativa.",
+                    "fr-FR": "Obtiens 1 000 000 de points sur une chanson en mode Coop",
+                    "it-IT": "Fai 1.000.000 di punti in un brano in una partita cooperativa"
+                },
+                "howto": {
+                    "de-DE": "Erziele 1.000.000 Punkte bei jedem beliebigen Song in einem Koop-Spiel",
+                    "en-US": "Score 1,000,000 on any song in a Co-op match",
+                    "es-ES": "Consigue 1.000.000 en cualquier tema de la partida cooperativa.",
+                    "fr-FR": "Obtiens 1 000 000 de points sur une chanson en mode Coop",
+                    "it-IT": "Fai 1.000.000 di punti in un brano in una partita cooperativa"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "49.png"
+        },
+        "59": {
+            "text": {
+                "name": {
+                    "de-DE": "Besser als die Konkurrenz",
+                    "en-US": "Higher Than Most",
+                    "es-ES": "Por encima de la media",
+                    "fr-FR": "Toujours et encore mieux",
+                    "it-IT": "Tra i migliori"
+                },
+                "description": {
+                    "de-DE": "Erziele 700.000 Punkte bei jedem beliebigen Song in einem Koop-Spiel",
+                    "en-US": "Score 700,000 on any song in a Co-op match",
+                    "es-ES": "Consigue 700.000 puntos en cualquier tema de una partida cooperativa.",
+                    "fr-FR": "Obtiens 700 000 de points sur une chanson en mode Coop",
+                    "it-IT": "Fai 700.000 punti in un brano in una partita cooperativa"
+                },
+                "howto": {
+                    "de-DE": "Erziele 700.000 Punkte bei jedem beliebigen Song in einem Koop-Spiel",
+                    "en-US": "Score 700,000 on any song in a Co-op match",
+                    "es-ES": "Consigue 700.000 puntos en cualquier tema de una partida cooperativa.",
+                    "fr-FR": "Obtiens 700 000 de points sur une chanson en mode Coop",
+                    "it-IT": "Fai 700.000 punti in un brano in una partita cooperativa"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "50.png"
+        },
+        "60": {
+            "text": {
+                "name": {
+                    "de-DE": "Einfaches Duo",
+                    "en-US": "Easy Duo",
+                    "es-ES": "Dúo facilito",
+                    "fr-FR": "Duo fastoche",
+                    "it-IT": "Una coppia facile"
+                },
+                "description": {
+                    "de-DE": "Verdiene 5 Sterne auf allen Koop-Songs auf der Schwierigkeitsstufe Leicht",
+                    "en-US": "Earn 5 stars on all Co-op songs for the Easy difficulty",
+                    "es-ES": "Recibe críticas de 5 estrellas en todos los temas del modo Cooperativo del nivel fácil.",
+                    "fr-FR": "Gagne 5 étoiles sur toutes les chansons en mode Coop au niveau Facile",
+                    "it-IT": "Ottieni 5 stelle su tutti i brani cooperativi al livello Facile"
+                },
+                "howto": {
+                    "de-DE": "Verdiene 5 Sterne auf allen Koop-Songs auf der Schwierigkeitsstufe Leicht",
+                    "en-US": "Earn 5 stars on all Co-op songs for the Easy difficulty",
+                    "es-ES": "Recibe críticas de 5 estrellas en todos los temas del modo Cooperativo del nivel fácil.",
+                    "fr-FR": "Gagne 5 étoiles sur toutes les chansons en mode Coop au niveau Facile",
+                    "it-IT": "Ottieni 5 stelle su tutti i brani cooperativi al livello Facile"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "51.png"
+        },
+        "61": {
+            "text": {
+                "name": {
+                    "de-DE": "Mittleres Duo",
+                    "en-US": "Medium Duo",
+                    "es-ES": "Dúo Medio",
+                    "fr-FR": "Duo Moyen",
+                    "it-IT": "Media perfetta"
+                },
+                "description": {
+                    "de-DE": "Verdiene 5 Sterne bei allen Koop-Songs auf der Schwierigkeitsstufe Mittel",
+                    "en-US": "Earn 5 stars on all Co-op songs for the Medium difficulty",
+                    "es-ES": "Recibe críticas de 5 estrellas en todos los temas del modo Cooperativo del nivel medio.",
+                    "fr-FR": "Gagne 5 étoiles sur toutes les chansons en mode Coop au niveau Moyen",
+                    "it-IT": "Ottieni 5 stelle in tutti i brani cooperativi al livello Medio"
+                },
+                "howto": {
+                    "de-DE": "Verdiene 5 Sterne bei allen Koop-Songs auf der Schwierigkeitsstufe Mittel",
+                    "en-US": "Earn 5 stars on all Co-op songs for the Medium difficulty",
+                    "es-ES": "Recibe críticas de 5 estrellas en todos los temas del modo Cooperativo del nivel medio.",
+                    "fr-FR": "Gagne 5 étoiles sur toutes les chansons en mode Coop au niveau Moyen",
+                    "it-IT": "Ottieni 5 stelle in tutti i brani cooperativi al livello Medio"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "52.png"
+        },
+        "62": {
+            "text": {
+                "name": {
+                    "de-DE": "Schweres Duo",
+                    "en-US": "Hard Duo",
+                    "es-ES": "Dúo duro de pelar",
+                    "fr-FR": "Duo d'enfer",
+                    "it-IT": "Una coppia difficile"
+                },
+                "description": {
+                    "de-DE": "Verdiene 5 Sterne bei allen Koop-Songs auf der Schwierigkeitsstufe Schwer",
+                    "en-US": "Earn 5 stars on all Co-op songs on the Hard difficulty",
+                    "es-ES": "Recibe críticas de 5 estrellas en todos los temas del modo Cooperativo del nivel difícil.",
+                    "fr-FR": "Gagne 5 étoiles sur toutes les chansons en mode Coop au niveau Difficile",
+                    "it-IT": "Ottieni 5 stelle in tutti i brani cooperativi al livello Difficile"
+                },
+                "howto": {
+                    "de-DE": "Verdiene 5 Sterne bei allen Koop-Songs auf der Schwierigkeitsstufe Schwer",
+                    "en-US": "Earn 5 stars on all Co-op songs on the Hard difficulty",
+                    "es-ES": "Recibe críticas de 5 estrellas en todos los temas del modo Cooperativo del nivel difícil.",
+                    "fr-FR": "Gagne 5 étoiles sur toutes les chansons en mode Coop au niveau Difficile",
+                    "it-IT": "Ottieni 5 stelle in tutti i brani cooperativi al livello Difficile"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "53.png"
+        },
+        "63": {
+            "text": {
+                "name": {
+                    "de-DE": "Lebende Legenden",
+                    "en-US": "Living Legends",
+                    "es-ES": "Leyendas vivas",
+                    "fr-FR": "Légendes vivantes",
+                    "it-IT": "Leggende viventi"
+                },
+                "description": {
+                    "de-DE": "5 Sterne bei allen Koop-Songs auf dem Schwierigkeitsgrad Profi",
+                    "en-US": "5 Star all Co-op songs on Expert",
+                    "es-ES": "Consigue críticas de 5 estrellas en todos los temas del modo Cooperativo.",
+                    "fr-FR": "Obtiens 5 étoiles sur toutes les chansons en mode Coop au niveau Expert",
+                    "it-IT": "Ottieni 5 stelle in tutti i brani cooperativi al livello Esperto"
+                },
+                "howto": {
+                    "de-DE": "5 Sterne bei allen Koop-Songs auf dem Schwierigkeitsgrad Profi",
+                    "en-US": "5 Star all Co-op songs on Expert",
+                    "es-ES": "Consigue críticas de 5 estrellas en todos los temas del modo Cooperativo.",
+                    "fr-FR": "Obtiens 5 étoiles sur toutes les chansons en mode Coop au niveau Expert",
+                    "it-IT": "Ottieni 5 stelle in tutti i brani cooperativi al livello Esperto"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "75",
+            "imageId": "54.png"
+        },
+        "64": {
+            "text": {
+                "name": {
+                    "de-DE": "Wir sind die Anführer",
+                    "en-US": "Leaders of the Pack",
+                    "es-ES": "Los reyes del rock",
+                    "fr-FR": "Chefs de meute",
+                    "it-IT": "Una coppia perfetta"
+                },
+                "description": {
+                    "de-DE": "Meistere einen Song mit 100% getroffenen Noten in einem Koop-Spiel",
+                    "en-US": "100% a song in a Co-op match",
+                    "es-ES": "Consigue 100% en un tema del modo Cooperativo.",
+                    "fr-FR": "Obtiens 100 % sur une chanson en mode Coop",
+                    "it-IT": "Completa un brano con il 100% di note suonate in una partita cooperativa"
+                },
+                "howto": {
+                    "de-DE": "Meistere einen Song mit 100% getroffenen Noten in einem Koop-Spiel",
+                    "en-US": "100% a song in a Co-op match",
+                    "es-ES": "Consigue 100% en un tema del modo Cooperativo.",
+                    "fr-FR": "Obtiens 100 % sur une chanson en mode Coop",
+                    "it-IT": "Completa un brano con il 100% di note suonate in una partita cooperativa"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "55.png"
+        },
+        "65": {
+            "text": {
+                "name": {
+                    "de-DE": "Alle 8-ung!",
+                    "en-US": "Two by Four",
+                    "es-ES": "2 x 4",
+                    "fr-FR": "Deux par quatre",
+                    "it-IT": "Due per quattro"
+                },
+                "description": {
+                    "de-DE": "Hol Dir einen 8-fachen Multiplikator",
+                    "en-US": "Get an 8X multiplier in a Co-op game",
+                    "es-ES": "Consigue un multiplicador x8 en una partida cooperativa.",
+                    "fr-FR": "Obtiens un multiplicateur x8 en mode Coop",
+                    "it-IT": "Ottieni un moltiplicatore 8X in una partita cooperativa"
+                },
+                "howto": {
+                    "de-DE": "Hol Dir einen 8-fachen Multiplikator",
+                    "en-US": "Get an 8X multiplier in a Co-op game",
+                    "es-ES": "Consigue un multiplicador x8 en una partida cooperativa.",
+                    "fr-FR": "Obtiens un multiplicateur x8 en mode Coop",
+                    "it-IT": "Ottieni un moltiplicatore 8X in una partita cooperativa"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "56.png"
+        },
+        "66": {
+            "text": {
+                "name": {
+                    "de-DE": "Club der Halbmillionäre",
+                    "en-US": "Half Mill' Club",
+                    "es-ES": "Club del medio millón",
+                    "fr-FR": "Un demi entre amis !",
+                    "it-IT": "Mezzo milione a metà"
+                },
+                "description": {
+                    "de-DE": "Erziele 500.000 Punkte bei jedem beliebigen Song in einem Koop-Spiel",
+                    "en-US": "Score 500,000 on any song in a Co-op match",
+                    "es-ES": "Consigue 500.000 puntos en cualquier tema de la partida cooperativa.",
+                    "fr-FR": "Obtiens 500 000 points sur une chanson en mode Coop",
+                    "it-IT": "Fai 500.000 punti in qualsiasi brano in una partita cooperativa"
+                },
+                "howto": {
+                    "de-DE": "Erziele 500.000 Punkte bei jedem beliebigen Song in einem Koop-Spiel",
+                    "en-US": "Score 500,000 on any song in a Co-op match",
+                    "es-ES": "Consigue 500.000 puntos en cualquier tema de la partida cooperativa.",
+                    "fr-FR": "Obtiens 500 000 points sur une chanson en mode Coop",
+                    "it-IT": "Fai 500.000 punti in qualsiasi brano in una partita cooperativa"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "57.png"
+        },
+        "67": {
+            "text": {
+                "name": {
+                    "de-DE": "Wirf dein Geld zum Fenster raus",
+                    "en-US": "Burnin' a Hole in Your Pocket",
+                    "es-ES": "Te quema el dinero en las manos",
+                    "fr-FR": "Un vrai flambeur",
+                    "it-IT": "Mani bucate"
+                },
+                "description": {
+                    "de-DE": "Kauf alles im Laden",
+                    "en-US": "Buy everything from the store",
+                    "es-ES": "Compra todo en La Tienda.",
+                    "fr-FR": "Achète tous les articles du magasin",
+                    "it-IT": "Acquista tutti gli articoli dell'emporio"
+                },
+                "howto": {
+                    "de-DE": "Kauf alles im Laden",
+                    "en-US": "Buy everything from the store",
+                    "es-ES": "Compra todo en La Tienda.",
+                    "fr-FR": "Achète tous les articles du magasin",
+                    "it-IT": "Acquista tutti gli articoli dell'emporio"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "58.png"
+        },
+        "68": {
+            "text": {
+                "name": {
+                    "de-DE": "Eine übermenschliche Leistung",
+                    "en-US": "The Inhuman Achievement",
+                    "es-ES": "No apto para humanos",
+                    "fr-FR": "Épreuve suprême",
+                    "it-IT": "Missione (quasi) impossibile"
+                },
+                "description": {
+                    "de-DE": "Meistere Through the Fire and Flames auf der Schwierigkeitsstufe Profi",
+                    "en-US": "Complete Through the Fire and Flames on Expert",
+                    "es-ES": "Completa Through the Fire and Flames en nivel experto.",
+                    "fr-FR": "Réussis Through the Fire and Flames au niveau Expert",
+                    "it-IT": "Completa Through the Fire and Flames al livello Esperto"
+                },
+                "howto": {
+                    "de-DE": "Meistere Through the Fire and Flames auf der Schwierigkeitsstufe Profi",
+                    "en-US": "Complete Through the Fire and Flames on Expert",
+                    "es-ES": "Completa Through the Fire and Flames en nivel experto.",
+                    "fr-FR": "Réussis Through the Fire and Flames au niveau Expert",
+                    "it-IT": "Completa Through the Fire and Flames al livello Esperto"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "59.png"
+        }
+    }
+}
