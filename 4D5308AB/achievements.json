@@ -1,0 +1,3388 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Marcus, es ist dein Vater",
+                    "en-US": "Marcus, It's Your Father",
+                    "es-ES": "Marcus, es tu padre",
+                    "fr-FR": "Marcus, au sujet de ton père...",
+                    "it-IT": "Marcus, sono tuo padre",
+                    "ko-KR": "마커스, 아버지다",
+                    "pl-PL": "Marcus, to twój ojciec",
+                    "ru-RU": "Маркус, это твой отец",
+                    "zh-CHT": "馬可斯，是你父親",
+                    "pt-PT": "Marcus, é o seu pai",
+                    "ja-JP": "マーカス、お父様よ"
+                },
+                "description": {
+                    "de-DE": "Aus einem bösen Traum aufgewacht.",
+                    "en-US": "Woke up from a bad dream.",
+                    "es-ES": "Se ha despertado de una pesadilla.",
+                    "fr-FR": "Revenu d'un mauvais rêve.",
+                    "it-IT": "Risveglio dall'incubo.",
+                    "ko-KR": "악몽에서 깨어났습니다.",
+                    "pl-PL": "Obudzony z koszmaru.",
+                    "ru-RU": "Вы проснулись после кошмара.",
+                    "zh-CHT": "從惡夢中醒來。",
+                    "pt-PT": "Acordou de um sonho ruim.",
+                    "ja-JP": "悪い夢から目が覚めた"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Prolog (Standard oder Arcade).",
+                    "en-US": "Story Progression in Prologue (Standard or Arcade).",
+                    "es-ES": "Progreso en la historia en el Prólogo (estándar o arcade).",
+                    "fr-FR": "Progression de l'histoire dans le prologue (standard ou arcade).",
+                    "it-IT": "Progresso storia nel Prologo (modalità Standard o Arcade).",
+                    "ko-KR": "프롤로그까지 진행하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Postępy fabuły w Prologu.",
+                    "ru-RU": "Прохождение пролога кампании (аркадная или сюжетная).",
+                    "zh-CHT": "完成序言的劇情 (標準或過關挑戰賽)。",
+                    "pt-PT": "Progressão da história na Apresentação (Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードのプロローグをクリアする (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "5",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Schwimmt in leuchtender Soße",
+                    "en-US": "Swimmin' in Glowie Gravy",
+                    "es-ES": "A tope de salsa de luminosos",
+                    "fr-FR": "Purée de luisant à gogo",
+                    "it-IT": "A mollo",
+                    "ko-KR": "반짝이 육수에서 헤엄",
+                    "pl-PL": "Pływanie w sosie błyszczących",
+                    "ru-RU": "Плаванье в жаркой подливке",
+                    "zh-CHT": "全身都是螢光蟲子的肉汁",
+                    "pt-PT": "Nadando em molho de Glowie",
+                    "ja-JP": "ドロドロのやつらにまみれて溺れちまうぞ!"
+                },
+                "description": {
+                    "de-DE": "Verteidigte das Ravens Nest gegen leuchtenden Leviathan.",
+                    "en-US": "Defended the Raven's Nest from Lambent Leviathan.",
+                    "es-ES": "Ha defendido el nido de Raven del leviatán Lambent.",
+                    "fr-FR": "Nid de Faucons protégé du Léviathan lambent.",
+                    "it-IT": "Hai difeso il Raven's Nest dal Leviatano Splendente.",
+                    "ko-KR": "램번트 레비아단으로부터 레이븐즈 네스트를 사수했습니다.",
+                    "pl-PL": "Obroniłeś Krucze Gniazdo przed lśniącym lewiatanem.",
+                    "ru-RU": "За защиту Вороньего Гнезда от Левиафана Ламбентов.",
+                    "zh-CHT": "抵禦螢光族巨獸對母艦的攻擊。",
+                    "pt-PT": "Defendeu o Ninho dos Ravens do Leviathan Lambent",
+                    "ja-JP": "レイヴンズ ネストをランベントリバイアサンから守った"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 1 Kapitel 2 (Standard oder Arcade).",
+                    "en-US": "Story Progression in Act 1 Chapter 2 (Standard or Arcade).",
+                    "es-ES": "Progreso en la historia en el acto 1, capítulo 2 (estándar o arcade).",
+                    "fr-FR": "Progression de l'histoire dans l'acte 1, chapitre 2 (standard ou arcade).",
+                    "it-IT": "Progresso storia Atto 1 Capitolo 2 (modalità Standard o Arcade).",
+                    "ko-KR": "액트 1, 챕터 2까지 진행하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Postępy fabuły w akcie 1, rozdziale 2.",
+                    "ru-RU": "Прохождение кампании: в акте 1, главе 2 (аркадная или сюжетная).",
+                    "zh-CHT": "完成場景 1 第 2 章的劇情 (標準或過關挑戰賽)。",
+                    "pt-PT": "Progressão da história no Ato 1 Capítulo 2 (Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードの Act 1 Chapter 2 をクリアする (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Wir sind auf Gold gestoßen!",
+                    "en-US": "We Struck Gold, Son!",
+                    "es-ES": "¡Hemos encontrado oro!",
+                    "fr-FR": "Le gros lot !",
+                    "it-IT": "Centro, ragazzo!",
+                    "ko-KR": "심봤다!",
+                    "pl-PL": "Trafiliśmy na żyłę złota, synu!",
+                    "ru-RU": "Мы нашли золото, сынок!",
+                    "zh-CHT": "這回可是找到金礦啦，孩子！",
+                    "pt-PT": "Meu filho, encontramos ouro!",
+                    "ja-JP": "掘り出し物だぜ!"
+                },
+                "description": {
+                    "de-DE": "Fand Nahrung und Munition in Hanover.",
+                    "en-US": "Found food and ammo in Hanover.",
+                    "es-ES": "Ha encontrado comida y munición en Hanover.",
+                    "fr-FR": "Nourriture et munitions trouvées à Hanovre.",
+                    "it-IT": "Hai trovato cibo e munizioni ad Hanover.",
+                    "ko-KR": "하노버에서 식량과 탄약을 발견했습니다.",
+                    "pl-PL": "Znaleziono żywność i amunicję w Hanoverze.",
+                    "ru-RU": "За нахождение еды и патронов в Ганновере.",
+                    "zh-CHT": "在漢諾瓦找到食物和彈藥。",
+                    "pt-PT": "Encontrou comida e munição em Hanover.",
+                    "ja-JP": "ハノーバーで食糧と弾薬を見つけた"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 1 Kapitel 3 (Standard oder Arcade).",
+                    "en-US": "Story Progression in Act 1 Chapter 3 (Standard or Arcade).",
+                    "es-ES": "Progreso en la historia en el acto 1, capítulo 3 (estándar o arcade).",
+                    "fr-FR": "Progression de l'histoire dans l'acte 1, chapitre 3 (standard ou arcade).",
+                    "it-IT": "Progresso storia Atto 1 Capitolo 3 (modalità Standard o Arcade).",
+                    "ko-KR": "액트 1, 챕터 3까지 진행하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Postępy fabuły w akcie 1, rozdziale 3.",
+                    "ru-RU": "Прохождение кампании: в акте 1, главе 3 (аркадная или сюжетная).",
+                    "zh-CHT": "完成場景 1 第 3 章的劇情 (標準或過關挑戰賽)。",
+                    "pt-PT": "Progressão da história no Ato 1 Capítulo 3 (Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードの Act 1 Chapter 3 をクリアする (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Mein Terrain! Cougars Gebiet!",
+                    "en-US": "My Turf! Cougars Territory!",
+                    "es-ES": "¡Mi tierra! ¡Territorio Cougar!",
+                    "fr-FR": "Le territoire des Cougars !",
+                    "it-IT": "Il territorio dei Cougars!",
+                    "ko-KR": "내 잔디! 쿠거의 땅!",
+                    "pl-PL": "Tereny łowieckie Pum!",
+                    "ru-RU": "Моя земля! Территория Пантер!",
+                    "zh-CHT": "我的地盤！美洲豹隊的地盤！",
+                    "pt-PT": "Minha terra! Terra dos Pumas!",
+                    "ja-JP": "ここはオレの庭、クーガースのホームだ!"
+                },
+                "description": {
+                    "de-DE": "Verteidigt und aus dem Cougar-Stadion entkommen.",
+                    "en-US": "Defended and escaped from Cougar Stadium.",
+                    "es-ES": "Ha defendido y escapado del estadio de los Cougars.",
+                    "fr-FR": "Défense et retrait du stade des Cougars.",
+                    "it-IT": "Hai difeso e sei fuggito dal Cougars Stadium.",
+                    "ko-KR": "쿠거 경기장을 지키고 탈출했습니다.",
+                    "pl-PL": "Udana ucieczka ze stadionu Pum.",
+                    "ru-RU": "За спасение со стадиона Пантер.",
+                    "zh-CHT": "防守並逃離美洲豹隊體育館。",
+                    "pt-PT": "Defendeu e fugiu do estádio dos Pumas.",
+                    "ja-JP": "クーガー スタジアムを守り脱出した"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 1 Kapitel 5 (Standard oder Arcade).",
+                    "en-US": "Story Progression in Act 1 Chapter 5 (Standard or Arcade).",
+                    "es-ES": "Progreso en la historia en el acto 1, capítulo 5 (estándar o arcade).",
+                    "fr-FR": "Progression de l'histoire dans l'acte 1, chapitre 5 (standard ou arcade).",
+                    "it-IT": "Progresso storia Atto 1 Capitolo 5 (modalità Standard o Arcade).",
+                    "ko-KR": "액트 1, 챕터 5까지 진행하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Postępy fabuły w akcie 1, rozdziale 5.",
+                    "ru-RU": "Прохождение кампании: в акте 1, главе 5 (аркадная или сюжетная).",
+                    "zh-CHT": "完成場景 1 第 5 章的劇情 (標準或過關挑戰賽)。",
+                    "pt-PT": "Progressão da história no Ato 1 Capítulo 5 (Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードの Act 1 Chapter 5 をクリアする (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Wissenschaftlich ausgedrückt ...",
+                    "en-US": "Putting it Scientifically…",
+                    "es-ES": "Dicho de forma científica...",
+                    "fr-FR": "Scientifiquement parlant...",
+                    "it-IT": "Dal lato scientifico...",
+                    "ko-KR": "과학적으로 하자면...",
+                    "pl-PL": "Technicznie rzecz ujmując…",
+                    "ru-RU": "Говоря научно…",
+                    "zh-CHT": "從科學角度來說嘛...",
+                    "pt-PT": "Cientificamente falando…",
+                    "ja-JP": "科学的に言うとな..."
+                },
+                "description": {
+                    "de-DE": "Hat den leuchtenden Leviathan von der Brücke gesprengt.",
+                    "en-US": "Blew up the Lambent Leviathan from the bridge.",
+                    "es-ES": "Ha destruido el leviatán Lambent desde el puente.",
+                    "fr-FR": "Léviathan lambent du pont éliminé.",
+                    "it-IT": "Hai fatto esplodere il Leviatano Splendente dal ponte.",
+                    "ko-KR": "다리에서 램번트 레비아단을 날려버렸습니다.",
+                    "pl-PL": "Wysadzono lśniącego lewiatana z mostu.",
+                    "ru-RU": "За уничтожение Левиафана Ламбентов на мосту.",
+                    "zh-CHT": "從橋上炸死螢光族巨獸。",
+                    "pt-PT": "Explodiu o Leviathan Lambent na ponte.",
+                    "ja-JP": "橋の上からランベントリバイアサンを吹っ飛ばした"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 1 Kapitel 6 (Standard oder Arcade).",
+                    "en-US": "Story Progression in Act 1 Chapter 6 (Standard or Arcade).",
+                    "es-ES": "Progreso en la historia en el acto 1, capítulo 6 (estándar o arcade).",
+                    "fr-FR": "Progression de l'histoire dans l'acte 1, chapitre 6 (standard ou arcade).",
+                    "it-IT": "Progresso storia Atto 1 Capitolo 6 (modalità Standard o Arcade).",
+                    "ko-KR": "액트 1, 챕터 6까지 진행하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Postępy fabuły w akcie 1, rozdziale 6.",
+                    "ru-RU": "Прохождение кампании: в акте 1, главе 6 (аркадная или сюжетная).",
+                    "zh-CHT": "完成場景 1 第 6 章的劇情 (標準或過關挑戰賽)。",
+                    "pt-PT": "Progressão da história no Ato 1 Capítulo 6 (Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードの Act 1 Chapter 6 をクリアする (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Okay, jetzt finden wir Hoffman",
+                    "en-US": "Okay, Now We Find Hoffman",
+                    "es-ES": "Iremos a buscar a Hoffman",
+                    "fr-FR": "OK, allons trouver Hoffman !",
+                    "it-IT": "OK, ora troviamo Hoffman",
+                    "ko-KR": "좋아, 이제 호프만을 찾자",
+                    "pl-PL": "Dobra, a teraz znajdźmy Hoffmana",
+                    "ru-RU": "Так, мы нашли Хоффмана",
+                    "zh-CHT": "好，我們現在去找霍夫曼",
+                    "pt-PT": "Ok, agora encontramos o Hoffman",
+                    "ja-JP": "さあ、ホフマンに会いに行こう"
+                },
+                "description": {
+                    "de-DE": "Hat den Aufenthaltsort von Adam Fenix entdeckt.",
+                    "en-US": "Discovered the location of Adam Fenix.",
+                    "es-ES": "Ha descubierto la ubicación de Adam Fenix.",
+                    "fr-FR": "Localisation d'Adam Fenix réussie.",
+                    "it-IT": "Hai scoperto la posizione di Adam Fenix.",
+                    "ko-KR": "아담 피닉스가 있는 장소를 파악했습니다.",
+                    "pl-PL": "Odkryto miejsce pobytu Adama Fenixa.",
+                    "ru-RU": "За нахождение Адама Феникса.",
+                    "zh-CHT": "發現亞當菲利的位置。",
+                    "pt-PT": "Descobriu a localização de Adam Fenix.",
+                    "ja-JP": "アダム フェニックスの居場所を突き止めた"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 2 Kapitel 1 (Standard oder Arcade).",
+                    "en-US": "Story Progression in Act 2 Chapter 1 (Standard or Arcade).",
+                    "es-ES": "Progreso en la historia en el acto 2, capítulo 1 (estándar o arcade).",
+                    "fr-FR": "Progression de l'histoire dans l'acte 2, chapitre 1 (standard ou arcade).",
+                    "it-IT": "Progresso storia Atto 2 Capitolo 1 (modalità Standard o Arcade).",
+                    "ko-KR": "액트 2, 챕터 1까지 진행하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Postępy fabuły w akcie 2, rozdziale 1.",
+                    "ru-RU": "Прохождение кампании: в акте 2, главе 1 (аркадная или сюжетная).",
+                    "zh-CHT": "完成場景 2 第 1 章的劇情 (標準或過關挑戰賽)。",
+                    "pt-PT": "Progressão da história no Ato 2 Capítulo 1 (Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードの Act 2 Chapter 1 をクリアする (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Oh ja, es ist Piratenzeit",
+                    "en-US": "Oh Yeah, It's Pirate Time",
+                    "es-ES": "¡Ja, es hora de hacer el pirata!",
+                    "fr-FR": "Jouons un peu aux pirates !",
+                    "it-IT": "Oh sì, arrivano i pirati",
+                    "ko-KR": "야호, 우리는 해적이다!",
+                    "pl-PL": "Tak, czas pobawić się w piratów",
+                    "ru-RU": "Ура! Время пиратов!",
+                    "zh-CHT": "海盜來啦！",
+                    "pt-PT": "Agora sim, é a hora do pirata",
+                    "ja-JP": "よっしゃ、まるで海賊みたいだな!"
+                },
+                "description": {
+                    "de-DE": "Hat sich einen Locust-Gaskahn geschnappt und fuhr damit zum Ambosstor.",
+                    "en-US": "Grabbed a Locust Gas Barge to travel to Anvil Gate.",
+                    "es-ES": "Ha tomado una barcaza Locust para viajar a Anvil Gate.",
+                    "fr-FR": "Une barge de carburant locuste prise pour aller à Anvil Gate.",
+                    "it-IT": "Hai preso la chiatta gas delle locuste per raggiungere Anvil Gate.",
+                    "ko-KR": "빼앗은 로커스트 가스 수송선으로 앤빌 게이트까지 왔습니다.",
+                    "pl-PL": "Zdobyto barkę gazową szarańczy, aby dostać się do Anvil Gate.",
+                    "ru-RU": "За получение дирижабля Саранчи и отправку к Вратам Наковальни.",
+                    "zh-CHT": "搶到一艘獸族運輸船前往鐵砧門基地。",
+                    "pt-PT": "Pegou uma barca de gás Locust para ir até Anvil Gate.",
+                    "ja-JP": "アンヴィル ゲートに向かうため、ローカストの飛行船を奪った"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 2 Kapitel 5 (Standard oder Arcade).",
+                    "en-US": "Story Progression in Act 2 Chapter 5 (Standard or Arcade).",
+                    "es-ES": "Progreso en la historia en el acto 2, capítulo 5 (estándar o arcade).",
+                    "fr-FR": "Progression de l'histoire dans l'acte 2, chapitre 5 (standard ou arcade).",
+                    "it-IT": "Progresso storia Atto 2 Capitolo 5 (modalità Standard o Arcade).",
+                    "ko-KR": "액트 2, 챕터 5까지 진행하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Postępy fabuły w akcie 2, rozdziale 5.",
+                    "ru-RU": "Прохождение кампании: в акте 2, главе 5 (аркадная или сюжетная).",
+                    "zh-CHT": "完成場景 2 第 5 章的劇情 (標準或過關挑戰賽)。",
+                    "pt-PT": "Progressão da história no Ato 2 Capítulo 5 (Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードの Act 2 Chapter 5 をクリアする (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Dank fürs GasBag Airways-Fliegen",
+                    "en-US": "Thanks For Flying GasBag Airways",
+                    "es-ES": "Vuele con Aerolíneas Barcazas",
+                    "fr-FR": "Barge Airways",
+                    "it-IT": "Avete volato con Gas Bag Airways",
+                    "ko-KR": "로커스트 항공",
+                    "pl-PL": "Dziękujemy za wybór linii BarGaz",
+                    "ru-RU": "Cпасибо за выбор нашей компании",
+                    "zh-CHT": "感謝您搭乘氣球航空",
+                    "pt-PT": "Linha Aérea Saco de Gás agradece",
+                    "ja-JP": "ご搭乗ありがとうございます"
+                },
+                "description": {
+                    "de-DE": "Kam sicher, so ziemlich jedenfalls, am Ambosstor an.",
+                    "en-US": "Arrived safely, kinda, at Anvil Gate.",
+                    "es-ES": "Ha llegado sano y salvo, o casi, a Anvil Gate.",
+                    "fr-FR": "Arrivée plus ou moins en douceur à Anvil Gate.",
+                    "it-IT": "Arrivati sani e salvi ad Anvil Gate. Più o meno.",
+                    "ko-KR": "어쨌든 무사히 앤빌 게이트에 도착했습니다.",
+                    "pl-PL": "Względnie bezpieczne przybycie do Anvil Gate.",
+                    "ru-RU": "За успешное (ну, почти) прибытие к Вратам Наковальни.",
+                    "zh-CHT": "安全抵達鐵砧門基地，算是吧。",
+                    "pt-PT": "Chegou com certa segurança a Anvil Gate.",
+                    "ja-JP": "なんとかアンヴィル ゲートに辿り着いた"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 2 Kapitel 7 (Standard oder Arcade).",
+                    "en-US": "Story Progression in Act 2 Chapter 7 (Standard or Arcade).",
+                    "es-ES": "Progreso en la historia en el acto 2, capítulo 7 (estándar o arcade).",
+                    "fr-FR": "Progression de l'histoire dans l'acte 2, chapitre 7 (standard ou arcade).",
+                    "it-IT": "Progresso storia Atto 2 Capitolo 7 (modalità Standard o Arcade).",
+                    "ko-KR": "액트 2, 챕터 7까지 진행하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Postępy fabuły w akcie 2, rozdziale 7.",
+                    "ru-RU": "Прохождение кампании: в акте 2, главе 7 (аркадная или сюжетная).",
+                    "zh-CHT": "完成場景 2 第 7 章的劇情 (標準或過關挑戰賽)。",
+                    "pt-PT": "Progressão da história no Ato 2 Capítulo 7 (Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードの Act 2 Chapter 7 をクリアする (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Letzte Zuflucht von Ambosstor",
+                    "en-US": "Anvil Gate's Last Resort",
+                    "es-ES": "El último recurso de Anvil Gate",
+                    "fr-FR": "Dernier recours d'Anvil Gate",
+                    "it-IT": "Ultima resistenza di Anvil Gate",
+                    "ko-KR": "앤빌 게이트의 최후의 수단",
+                    "pl-PL": "Ostatnia nadzieja Anvil Gate",
+                    "ru-RU": "Врата Наковальни, последний шанс",
+                    "zh-CHT": "鐵砧門基地的終極手段",
+                    "pt-PT": "Último recurso de Anvil Gate",
+                    "ja-JP": "アンヴィル ゲート ラスト リゾート"
+                },
+                "description": {
+                    "de-DE": "Hat Ambosstor vor der Locust-Belagerung beschützt.",
+                    "en-US": "Defended Anvil Gate from the Locust siege.",
+                    "es-ES": "Ha defendido Anvil Gate del asedio Locust.",
+                    "fr-FR": "Anvil Gate protégé du siège locuste.",
+                    "it-IT": "Hai difeso Anvil Gate dall'assedio delle locuste.",
+                    "ko-KR": "로커스트로부터 앤빌 게이트를 사수했습니다.",
+                    "pl-PL": "Obroniono Anvil Gate przed atakiem szarańczy.",
+                    "ru-RU": "За защиту Врат Наковальни от нападения Саранчи.",
+                    "zh-CHT": "抵禦弩砲獸對鐵砧門基地的攻擊。",
+                    "pt-PT": "Defendeu Anvil Gate do cerco Locust.",
+                    "ja-JP": "ローカストの攻撃からアンヴィル ゲートを守った"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 3 Kapitel 1 (Standard oder Arcade).",
+                    "en-US": "Story Progression in Act 3 Chapter 1 (Standard or Arcade).",
+                    "es-ES": "Progreso en la historia en el acto 3, capítulo 1 (estándar o arcade).",
+                    "fr-FR": "Progression de l'histoire dans l'acte 3, chapitre 1 (standard ou arcade).",
+                    "it-IT": "Progresso storia Atto 3 Capitolo 1 (modalità Standard o Arcade).",
+                    "ko-KR": "액트 3, 챕터 1까지 진행하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Postępy fabuły w akcie 3, rozdziale 1.",
+                    "ru-RU": "Прохождение кампании: в акте 3, главе 1 (аркадная или сюжетная).",
+                    "zh-CHT": "完成場景 3 第 1 章的劇情 (標準或過關挑戰賽)。",
+                    "pt-PT": "Progressão da história no Ato 3 Capítulo 1 (Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードの Act 3 Chapter 1 をクリアする (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "War es gut für Sie?",
+                    "en-US": "Was it Good For You?",
+                    "es-ES": "¿Le ha gustado?",
+                    "fr-FR": "C'était bon ?",
+                    "it-IT": "Ti è piaciuto?",
+                    "ko-KR": "어때? 좋았어?",
+                    "pl-PL": "Dobrze ci było?",
+                    "ru-RU": "Хорошо ли это для вас?",
+                    "zh-CHT": "夠刺激嗎？",
+                    "pt-PT": "Foi bom para você?",
+                    "ja-JP": "これでよかったのか?"
+                },
+                "description": {
+                    "de-DE": "Hat den leuchtenden Berserker besiegt.",
+                    "en-US": "Defeated the Lambent Berserker.",
+                    "es-ES": "Ha derrotado al Berserker Lambent.",
+                    "fr-FR": "Berserker lambent vaincu.",
+                    "it-IT": "Hai sconfitto il Berserker Splendente.",
+                    "ko-KR": "램번트 버서커를 처치했습니다.",
+                    "pl-PL": "Pokonano lśniącego berserkera.",
+                    "ru-RU": "За победу над Берсерком-Ламбентом.",
+                    "zh-CHT": "擊敗螢光族狂暴女獸人。",
+                    "pt-PT": "Derrotou o Lambent Berserker.",
+                    "ja-JP": "ランベントベルセルクを倒した"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 3 Kapitel 2 (Standard oder Arcade).",
+                    "en-US": "Story Progression in Act 3 Chapter 2 (Standard or Arcade).",
+                    "es-ES": "Progreso en la historia en el acto 3, capítulo 2 (estándar o arcade).",
+                    "fr-FR": "Progression de l'histoire dans l'acte 3, chapitre 2 (standard ou arcade).",
+                    "it-IT": "Progresso storia Atto 3 Capitolo 2 (modalità Standard o Arcade).",
+                    "ko-KR": "액트 3, 챕터 2까지 진행하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Postępy fabuły w akcie 3, rozdziale 2.",
+                    "ru-RU": "Прохождение кампании: в акте 3, главе 2 (аркадная или сюжетная).",
+                    "zh-CHT": "完成場景 3 第 2 章的劇情 (標準或過關挑戰賽)。",
+                    "pt-PT": "Progressão da história no Ato 3 Capítulo 2 (Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードの Act 3 Chapter 2 をクリアする (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Guter-Fahrer-Rabatt verloren",
+                    "en-US": "Lost Your Good Driver Discount",
+                    "es-ES": "Todos los puntos perdidos",
+                    "fr-FR": "Points de permis perdus",
+                    "it-IT": "Hai perso il bonus guida sicura",
+                    "ko-KR": "운전수 필요하신 분?",
+                    "pl-PL": "Tracisz zniżkę na ubezpieczenie",
+                    "ru-RU": "Страховка подорожала",
+                    "zh-CHT": "毀了你的優良駕駛記錄",
+                    "pt-PT": "Sem desconto de bom condutor",
+                    "ja-JP": "俺の安全運転はどんなもんだ!"
+                },
+                "description": {
+                    "de-DE": "Fuhr vom Ambosstor nach Mercy.",
+                    "en-US": "Drove from Anvil Gate to Mercy.",
+                    "es-ES": "Ha conducido desde Anvil Gate hasta Mercy.",
+                    "fr-FR": "Trajet d'Anvil Gate à Mercy.",
+                    "it-IT": "Hai guidato da Anvil Gate a Mercy.",
+                    "ko-KR": "앤빌 게이트에서 머시까지 이동했습니다.",
+                    "pl-PL": "Odbyto podróż z Anvil Gate do Mercy.",
+                    "ru-RU": "Переброска из Врат Наковальни в Мерси.",
+                    "zh-CHT": "從鐵砧門基地開車前往到梅西鎮。",
+                    "pt-PT": "Dirigiu de Anvil Gate a Mercy.",
+                    "ja-JP": "アンヴィル ゲートからマーシーまでドライブした"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 3 Kapitel 3 (Standard oder Arcade).",
+                    "en-US": "Story Progression in Act 3 Chapter 3 (Standard or Arcade).",
+                    "es-ES": "Progreso en la historia en el acto 3, capítulo 3 (estándar o arcade).",
+                    "fr-FR": "Progression de l'histoire dans l'acte 3, chapitre 3 (standard ou arcade).",
+                    "it-IT": "Progresso storia Atto 3 Capitolo 3 (modalità Standard o Arcade).",
+                    "ko-KR": "액트 3, 챕터 3까지 진행하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Postępy fabuły w akcie 3, rozdziale 3.",
+                    "ru-RU": "Прохождение кампании: в акте 3, главе 3 (аркадная или сюжетная).",
+                    "zh-CHT": "完成場景 3 第 3 章的劇情 (標準或過關挑戰賽)。",
+                    "pt-PT": "Progressão da história no Ato 3 Capítulo 3 (Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードの Act 3 Chapter 3 をクリアする (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Brüder bis zum Ende",
+                    "en-US": "Brothers to the End",
+                    "es-ES": "Hermanos hasta el fin",
+                    "fr-FR": "Frères jusqu'à la mort",
+                    "it-IT": "Fratelli fino alla fine",
+                    "ko-KR": "영원한 형제",
+                    "pl-PL": "Bracia aż po grób",
+                    "ru-RU": "Братья до конца",
+                    "zh-CHT": "末日兄弟情",
+                    "pt-PT": "Irmãos até o fim",
+                    "ja-JP": "固い絆"
+                },
+                "description": {
+                    "de-DE": "Treibstoffpumpe gefunden und aktiviert.",
+                    "en-US": "Found and activated the fuel pump.",
+                    "es-ES": "Ha encontrado y activado la bomba de combustible.",
+                    "fr-FR": "Pompe à carburant trouvée et activée.",
+                    "it-IT": "Hai trovato e attivato la pompa di carburante.",
+                    "ko-KR": "연료 펌프를 찾아 작동시켰습니다.",
+                    "pl-PL": "Znaleziono i uruchomiono pompę paliwową.",
+                    "ru-RU": "За нахождение и включение топливного насоса.",
+                    "zh-CHT": "找出並啟動燃料幫浦。",
+                    "pt-PT": "Encontrou e ativou a bomba de combustível.",
+                    "ja-JP": "燃料ポンプを発見し、作動"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 3 Kapitel 5 (Standard oder Arcade).",
+                    "en-US": "Story Progression in Act 3 Chapter 5 (Standard or Arcade).",
+                    "es-ES": "Progreso en la historia en el acto 3, capítulo 3 (estándar o arcade).",
+                    "fr-FR": "Progression de l'histoire dans l'acte 3, chapitre 5 (standard ou arcade).",
+                    "it-IT": "Progresso storia Atto 3 Capitolo 5 (modalità Standard o Arcade).",
+                    "ko-KR": "액트 3, 챕터 5까지 진행하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Postępy fabuły w akcie 3, rozdziale 5.",
+                    "ru-RU": "Прохождение кампании: в акте 3, главе 5 (аркадная или сюжетная).",
+                    "zh-CHT": "完成場景 3 第 5 章的劇情 (標準或過關挑戰賽)。",
+                    "pt-PT": "Progressão da história no Ato 3 Capítulo 5 (Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードの Act 3 Chapter 5 をクリア (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "12.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "Meinst du, du kommst damit klar?",
+                    "en-US": "Think You Can Handle That?",
+                    "es-ES": "¿Podrá controlarlo?",
+                    "fr-FR": "T'es capable de te débrouiller ?",
+                    "it-IT": "Pensi di potercela fare?",
+                    "ko-KR": "잘 처리할 수 있겠어?",
+                    "pl-PL": "Myślisz, że podołasz?",
+                    "ru-RU": "Думаешь, удастся справиться?",
+                    "zh-CHT": "可以處理嗎？",
+                    "pt-PT": "Acha que pode dar conta disso?",
+                    "ja-JP": "大丈夫なのか?"
+                },
+                "description": {
+                    "de-DE": "Hat genügend Treibstoff gefunden, um zur Endeavor-Flottenbasis zu kommen.",
+                    "en-US": "Found enough fuel to get to Endeavor naval base.",
+                    "es-ES": "Ha encontrado combustible suficiente para llegar a la base naval de Endeavour.",
+                    "fr-FR": "Assez de carburant pour aller au chantier naval d'Endeavour.",
+                    "it-IT": "Hai trovato il carburante necessario per arrivare alla base navale Endeavour.",
+                    "ko-KR": "인데버 해군 기지까지 가는 데 필요한 연료를 찾았습니다.",
+                    "pl-PL": "Znaleziono dostatecznie dużo paliwa, by dotrzeć do bazy morskiej Endeavor.",
+                    "ru-RU": "Найдено достаточно горючего для отправки на верфь Индэвор.",
+                    "zh-CHT": "找到足夠的燃油好前往伊甸爾海軍基地。",
+                    "pt-PT": "Encontrou combustível suficiente para chegar à base naval de Endeavor.",
+                    "ja-JP": "エンデバー造船所に向かうための燃料を確保した"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 4 Kapitel 3 (Standard oder Arcade).",
+                    "en-US": "Story Progression in Act 4 Chapter 3 (Standard or Arcade).",
+                    "es-ES": "Progreso en la historia en el acto 4, capítulo 3 (estándar o arcade).",
+                    "fr-FR": "Progression de l'histoire dans l'acte 4, chapitre 3 (standard ou arcade).",
+                    "it-IT": "Progresso storia Atto 4 Capitolo 3 (modalità Standard o Arcade).",
+                    "ko-KR": "액트 4, 챕터 3까지 진행하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Postępy fabuły w akcie 4, rozdziale 3.",
+                    "ru-RU": "Прохождение кампании: в акте 4, главе 3 (аркадная или сюжетная).",
+                    "zh-CHT": "完成場景 4 第 3 章的劇情 (標準或過關挑戰賽)。",
+                    "pt-PT": "Progressão da história no Ato 4 Capítulo 3 (Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードの Act 4 Chapter 3 をクリアする (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "13.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "Bairds Lieblingsspielzeug",
+                    "en-US": "Baird's Favorite Kind of Toy",
+                    "es-ES": "El juguete favorito de Baird",
+                    "fr-FR": "Jouet préféré de Baird",
+                    "it-IT": "Il giocattolo preferito di Baird",
+                    "ko-KR": "베어드가 애용하는 장난감",
+                    "pl-PL": "Ulubiona zabawka Bairda",
+                    "ru-RU": "Любимая игрушка Беарда",
+                    "zh-CHT": "巴德最愛的玩具",
+                    "pt-PT": "O brinquedo favorito do Baird",
+                    "ja-JP": "ベアードが喜びそうなオモチャだな!"
+                },
+                "description": {
+                    "de-DE": "Startete das U-Boot.",
+                    "en-US": "Launched the sub.",
+                    "es-ES": "Ha puesto en marcha el submarino.",
+                    "fr-FR": "Sous-marin lancé.",
+                    "it-IT": "Il sottomarino è stato lanciato.",
+                    "ko-KR": "잠수함을 발진시켰습니다.",
+                    "pl-PL": "Zwodowano okręt podwodny.",
+                    "ru-RU": "За запуск подводной лодки.",
+                    "zh-CHT": "開動潛水艇。",
+                    "pt-PT": "Lançou o submarino.",
+                    "ja-JP": "潜水艦を発進させた"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 4 Kapitel 5 (Standard oder Arcade).",
+                    "en-US": "Story Progression in Act 4 Chapter 5 (Standard or Arcade).",
+                    "es-ES": "Progreso en la historia en el acto 4, capítulo 5 (estándar o arcade).",
+                    "fr-FR": "Progression de l'histoire dans l'acte 4, chapitre 5 (standard ou arcade).",
+                    "it-IT": "Progresso storia Atto 4 Capitolo 5 (modalità Standard o Arcade).",
+                    "ko-KR": "액트 4, 챕터 5까지 진행하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Postępy fabuły w akcie 4, rozdziale 5.",
+                    "ru-RU": "Прохождение кампании: в акте 4, главе 5 (аркадная или сюжетная).",
+                    "zh-CHT": "完成場景 4 第 5 章的劇情 (標準或過關挑戰賽)。",
+                    "pt-PT": "Progressão da história no Ato 4 Capítulo 5 (Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードの Act 4 Chapter 5 をクリアする (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "14.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "de-DE": "Willkommen zu -zensiert-",
+                    "en-US": "Welcome To -redacted-",
+                    "es-ES": "Bienvenido a (omitido)",
+                    "fr-FR": "Bienvenue - -redacted-",
+                    "it-IT": "Benvenuto a -redatto-",
+                    "ko-KR": "낙원을 꿈꾸었던 곳",
+                    "pl-PL": "Witaj w -cenzura-",
+                    "ru-RU": "Добро пожаловать в -изменено-",
+                    "zh-CHT": "歡迎來到「秘密基地」",
+                    "pt-PT": "Bem-vindo a -editado-",
+                    "ja-JP": "アズラへようこそ "
+                },
+                "description": {
+                    "de-DE": "Kam unter dem Mahlstrom hindurch und fand Azura.",
+                    "en-US": "Passed under the Maelstrom and found Azura.",
+                    "es-ES": "Ha pasado bajo el Maelstrom y ha encontrado Azura.",
+                    "fr-FR": "Passage sous le Maelström et arrivée à Azura.",
+                    "it-IT": "Sei passato sotto al Maelstrom e hai trovato Azura.",
+                    "ko-KR": "마엘스트롬을 지나 아주라를 발견했습니다.",
+                    "pl-PL": "Przedostano się pod Maelstrom i znaleziono Azurę.",
+                    "ru-RU": "За проход под Мэлстромом и нахождение Азуры.",
+                    "zh-CHT": "通過曼斯壯並發現亞祖拉。",
+                    "pt-PT": "Passou sob o Maelstrom e encontrou Azura.",
+                    "ja-JP": "メールシュトロームを潜り抜け、アズラを見つけた"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 4 Kapitel 6 (Standard oder Arcade).",
+                    "en-US": "Story Progression in Act 4 Chapter 6 (Standard or Arcade).",
+                    "es-ES": "Progreso en la historia en el acto 4, capítulo 6 (estándar o arcade).",
+                    "fr-FR": "Progression de l'histoire dans l'acte 4, chapitre 6 (standard ou arcade).",
+                    "it-IT": "Progresso storia Atto 4 Capitolo 6 (modalità Standard o Arcade).",
+                    "ko-KR": "액트 4, 챕터 6까지 진행하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Postępy fabuły w akcie 4, rozdziale 6.",
+                    "ru-RU": "Прохождение кампании: в акте 4, главе 6 (аркадная или сюжетная).",
+                    "zh-CHT": "完成場景 4 第 6 章的劇情 (標準或過關挑戰賽)。",
+                    "pt-PT": "Progressão da história no Ato 4 Capítulo 6 (Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードの Act 4 Chapter 6 をクリアする (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "15.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Seht mal, plötzlich ist Sommer.",
+                    "en-US": "Look at That, Instant Summer.",
+                    "es-ES": "Eh, verano instantáneo",
+                    "fr-FR": "Ça alors... C'est l'été indien.",
+                    "it-IT": "Wow... Estate istantanea.",
+                    "ko-KR": "순식간에 여름이군",
+                    "pl-PL": "Patrzcie, lato!",
+                    "ru-RU": "Мгновенная смена сезонов",
+                    "zh-CHT": "快看，馬上就出現大太陽了。",
+                    "pt-PT": "Olha só, verão instantâneo.",
+                    "ja-JP": "見ろよ、一瞬で夏だ"
+                },
+                "description": {
+                    "de-DE": "Hat die Mahlstrom-Vorrichtung abgeschaltet.",
+                    "en-US": "Turned off the Maelstrom device.",
+                    "es-ES": "Ha apagado el dispositivo Maelstrom.",
+                    "fr-FR": "Maelström désactivé.",
+                    "it-IT": "Hai disattivato la struttura del Maelstrom.",
+                    "ko-KR": "마엘스트롬 장치를 껐습니다.",
+                    "pl-PL": "Wyłączono urządzenie Maelstrom.",
+                    "ru-RU": "За отключение устройства Мэлстрома.",
+                    "zh-CHT": "關閉曼斯壯裝置。",
+                    "pt-PT": "Desligou o Maelstrom.",
+                    "ja-JP": "メールシュトローム発生装置を止めた"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 5 Kapitel 2 (Standard oder Arcade).",
+                    "en-US": "Story Progression in Act 5 Chapter 2 (Standard or Arcade).",
+                    "es-ES": "Progreso en la historia en el acto 5, capítulo 2 (estándar o arcade).",
+                    "fr-FR": "Progression de l'histoire dans l'acte 5, chapitre 2 (standard ou arcade).",
+                    "it-IT": "Progresso storia Atto 5 Capitolo 2 (modalità Standard o Arcade).",
+                    "ko-KR": "액트 5, 챕터 2까지 진행하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Postępy fabuły w akcie 5, rozdziale 2.",
+                    "ru-RU": "Прохождение кампании: в акте 5, главе 2 (аркадная или сюжетная).",
+                    "zh-CHT": "完成場景 5 第 2 章的劇情 (標準或過關挑戰賽)。",
+                    "pt-PT": "Progressão da história no Ato 5 Capítulo 2 (Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードの Act 5 Chapter 2 をクリアする (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "16.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "Okay. Vertrauen. Ja. Verstanden.",
+                    "en-US": "Ok. Faith. Yeah. Got It.",
+                    "es-ES": "Vale. Fe. Sí, lo pillo",
+                    "fr-FR": "OK, la foi. C'est bon, j'ai.",
+                    "it-IT": "OK, fiducia. Sì, ricevuto.",
+                    "ko-KR": "약속을 지키다",
+                    "pl-PL": "Ok. Wiara. Tak. Kumam.",
+                    "ru-RU": "Ага. Вера. Да. Понятно.",
+                    "zh-CHT": "好，要有信心。關掉了。",
+                    "pt-PT": "Ok. Fé. Sim. Entendi.",
+                    "ja-JP": "どうだ、静かになった。これでいい"
+                },
+                "description": {
+                    "de-DE": "Rettete Adam Fenix aus Gefangenschaft.",
+                    "en-US": "Rescued Adam Fenix from captivity.",
+                    "es-ES": "Ha rescatado a Adam Fenix de su cautiverio.",
+                    "fr-FR": "Adam Fenix libéré.",
+                    "it-IT": "Hai liberato Adam Fenix.",
+                    "ko-KR": "감금되어 있던 아담 피닉스를 구출했습니다.",
+                    "pl-PL": "Udało się uwolnić Adama Fenixa.",
+                    "ru-RU": "За спасение Адама Феникса из плена.",
+                    "zh-CHT": "救出被俘虜的亞當菲利。",
+                    "pt-PT": "Resgatou Adam Fenix do cativeiro.",
+                    "ja-JP": "アダム フェニックスを救出した"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 5 Kapitel 5 (Standard oder Arcade).",
+                    "en-US": "Story Progression in Act 5 Chapter 5 (Standard or Arcade).",
+                    "es-ES": "Progreso en la historia en el acto 5, capítulo 5 (estándar o arcade).",
+                    "fr-FR": "Progression de l'histoire dans l'acte 5, chapitre 5 (standard ou arcade).",
+                    "it-IT": "Progresso storia Atto 5 Capitolo 5 (modalità Standard o Arcade).",
+                    "ko-KR": "액트 5, 챕터 5까지 진행하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Postępy fabuły w akcie 5, rozdziale 5.",
+                    "ru-RU": "Прохождение кампании: в акте 5, главе 5 (аркадная или сюжетная).",
+                    "zh-CHT": "完成場景 5 第 5 章的劇情 (標準或過關挑戰賽)。",
+                    "pt-PT": "Progressão da história no Ato 5 Capítulo 5 (Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードの Act 5 Chapter 5 をクリアする (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "17.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "de-DE": "Du bist tot! Und bleib tot!",
+                    "en-US": "You're Dead! Now Stay Dead!",
+                    "es-ES": "¡Estás muerto! ¡Quédate así!",
+                    "fr-FR": "Crève ! Vas-y, crève !",
+                    "it-IT": "Sei morto! E vedi di rimanerci!",
+                    "ko-KR": "넌 죽었어! 얌전히 죽어!",
+                    "pl-PL": "Nie żyjesz i niech tak zostanie!",
+                    "ru-RU": "Мертва! Совсем мертва!",
+                    "zh-CHT": "你死了！不要再讓我看到你爬起來！",
+                    "pt-PT": "Você Morreu! Fique Morto!",
+                    "ja-JP": "くたばった! 二度と起きるなよ"
+                },
+                "description": {
+                    "de-DE": "Tötete Myrrah.",
+                    "en-US": "Killed Myrrah.",
+                    "es-ES": "Ha matado a Myrrah.",
+                    "fr-FR": "Myrrah tuée.",
+                    "it-IT": "Hai ucciso Myrrah.",
+                    "ko-KR": "미라 여왕을 죽였습니다.",
+                    "pl-PL": "Zabito Myrrah.",
+                    "ru-RU": "За убийство Мирры.",
+                    "zh-CHT": "殺掉米拉女王。",
+                    "pt-PT": "Matou Myrrah.",
+                    "ja-JP": "ミラを倒した"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 5 Kapitel 6 (Standard oder Arcade).",
+                    "en-US": "Story Progression in Act 5 Chapter 6 (Standard or Arcade).",
+                    "es-ES": "Progreso en la historia en el acto 5, capítulo 6 (estándar o arcade).",
+                    "fr-FR": "Progression de l'histoire dans l'acte 5, chapitre 6 (standard ou arcade).",
+                    "it-IT": "Progresso storia Atto 5 Capitolo 6 (modalità Standard o Arcade).",
+                    "ko-KR": "액트 5, 챕터 6까지 진행하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Postępy fabuły w akcie 5, rozdziale 6.",
+                    "ru-RU": "Прохождение кампании: в акте 5, главе 6 (аркадная или сюжетная).",
+                    "zh-CHT": "完成場景 5 第 6 章的劇情 (標準或過關挑戰賽)。",
+                    "pt-PT": "Progressão da história no Ato 5 Capítulo 6 (Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードの Act 5 Chapter 6 をクリアする (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "18.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "Respekt gegenüber den Toten",
+                    "en-US": "Respect for the Dead",
+                    "es-ES": "Respeto a los muertos",
+                    "fr-FR": "Respect des morts",
+                    "it-IT": "Rispetto per i caduti",
+                    "ko-KR": "죽음에 경의를 표하라",
+                    "pl-PL": "Szacunek dla zmarłych",
+                    "ru-RU": "Уважение к павшим",
+                    "zh-CHT": "尊重死者",
+                    "pt-PT": "Respeito pelos mortos",
+                    "ja-JP": "死者への敬意"
+                },
+                "description": {
+                    "de-DE": "Ihr Respekt gegenüber den Toten hat Ihnen Zugang zu Griffins Spezialwaffen-Versteck verschafft.",
+                    "en-US": "Your respect for the dead earned you access to Griffin's special weapons stash.",
+                    "es-ES": "Su respeto por los muertos le ha otorgado acceso al arsenal especial de Griffin.",
+                    "fr-FR": "Votre respect pour les morts vous a donné accès à la cache d'armes spéciale de Griffin.",
+                    "it-IT": "Il rispetto mostrato per i caduti ti ha dato accesso alla riserva speciale di armi di Griffin.",
+                    "ko-KR": "죽은 자에 대한 경의를 표하였기에 그리핀의 특별 무기 은닉처로 갈 수 있게 되었습니다.",
+                    "pl-PL": "Okazując szacunek zmarłym, zyskujesz dostęp do składu broni specjalnej Griffina.",
+                    "ru-RU": "Ваше уважение к павшим открывает вам доступ к особому оружию Гриффина.",
+                    "zh-CHT": "您對死者的尊重讓您可以取得葛里芬庫藏的特殊武器。",
+                    "pt-PT": "Com o seu respeito pelos mortos, conquistou o acesso ao esconderijo de armas especiais de Griffin.",
+                    "ja-JP": "死者に対する敬意が認められ、グリフィンの秘密の武器庫への入室が許可された"
+                },
+                "howto": {
+                    "de-DE": "Geheim.",
+                    "en-US": "Secret.",
+                    "es-ES": "Secreto.",
+                    "fr-FR": "Secret.",
+                    "it-IT": "Segreto.",
+                    "ko-KR": "비밀입니다.",
+                    "pl-PL": "Tajemnica.",
+                    "ru-RU": "Секрет.",
+                    "zh-CHT": "祕密。",
+                    "pt-PT": "Segredo.",
+                    "ja-JP": "秘密"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "19.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "Bereit für mehr",
+                    "en-US": "Ready for More",
+                    "es-ES": "Listo para más",
+                    "fr-FR": "Toujours plus loin",
+                    "it-IT": "Pronto a ricominciare",
+                    "ko-KR": "이걸로 만족하는가",
+                    "pl-PL": "Gotowy na więcej",
+                    "ru-RU": "Пора продолжать",
+                    "zh-CHT": "準備好進行更多戰役",
+                    "pt-PT": "Pronto para mais",
+                    "ja-JP": "まだまだ行ける"
+                },
+                "description": {
+                    "de-DE": "Hat alle Kampagnenakte bei lässiger oder normaler Schwierigkeit abgeschlossen.",
+                    "en-US": "Completed all campaign Acts on Casual or Normal Difficulty.",
+                    "es-ES": "Todos los actos de Campaña completados en dificultad Informal o Normal.",
+                    "fr-FR": "Tous les actes de la campagne terminés en difficulté Recrue ou Normal.",
+                    "it-IT": "Hai completato tutti gli atti della Campagna a livello Facile o Normale.",
+                    "ko-KR": "쉬움 또는 보통 난이도로 캠페인을 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie akty kampanii na poziomie niedzielnego lub dzielnego gracza.",
+                    "ru-RU": "За завершение всех актов кампании на низком или нормальном уровне сложности.",
+                    "zh-CHT": "已完成難度為簡單或一般的所有戰役。",
+                    "pt-PT": "Concluiu todos os atos da campanha na dificuldade Casual ou Normal.",
+                    "ja-JP": "難易度カジュアルまたはノーマルでストーリーモードをクリアした"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie alle Kampagnenakte bei lässiger oder normaler Schwierigkeit ab (Standard oder Arcade).",
+                    "en-US": "Complete all campaign Acts on Casual or Normal Difficulty (Standard or Arcade).",
+                    "es-ES": "Completar todos los actos de la Campaña en dificultad Informal o Normal (estándar o arcade).",
+                    "fr-FR": "Terminez tous les actes de la campagne en difficulté Recrue ou Normal (standard ou arcade).",
+                    "it-IT": "Completa tutti gli atti Campagna a liv. Facile o Normale (Standard o Arcade).",
+                    "ko-KR": "쉬움 또는 보통 난이도로 캠페인을 완료하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Ukończ kampanię na poziomie niedzielnego lub dzielnego gracza.",
+                    "ru-RU": "Завершите все акты кампании на низком или среднем уровне сложности (аркадная или сюжетная).",
+                    "zh-CHT": "完成難度為簡單或一般的所有戰役 (標準或過關挑戰賽)。",
+                    "pt-PT": "Conclua todos os atos da campanha no nível de dificuldade Casual ou Normal (Padrão ou Arcade).",
+                    "ja-JP": "難易度カジュアルまたはノーマルでストーリーモードをクリアする (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "20.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "Ist nicht mein erstes Rodeo",
+                    "en-US": "Ain't My First Rodeo",
+                    "es-ES": "No es mi primer rodeo",
+                    "fr-FR": "C'est pas mon premier rodéo",
+                    "it-IT": "Non è la mia prima corsa",
+                    "ko-KR": "도전해 볼 만하군",
+                    "pl-PL": "To nie jest moje pierwsze rodeo",
+                    "ru-RU": "Она у меня не первая",
+                    "zh-CHT": "這可不是我第一次狩獵",
+                    "pt-PT": "Não é o meu primeiro rodeio",
+                    "ja-JP": "ロデオなら任せてくれ"
+                },
+                "description": {
+                    "de-DE": "Hat alle Kampagnenakte bei Schwierigkeit \"Hardcore\" abgeschlossen.\n\n",
+                    "en-US": "Completed all campaign Acts on Hardcore Difficulty.\n\n",
+                    "es-ES": "Todos los actos de Campaña completados en dificultad Elevada.\n\n",
+                    "fr-FR": "Tous les actes de la campagne terminés en difficulté Vétéran.\n\n",
+                    "it-IT": "Hai completato tutti gli atti della Campagna a livello Difficile.\n\n",
+                    "ko-KR": "어려움 난이도로 캠페인을 완료했습니다.\n\n",
+                    "pl-PL": "Ukończono wszystkie akty kampanii na poziomie hardkora.\n\n",
+                    "ru-RU": "За завершение всех актов кампании на сложном уровне.\n\n",
+                    "zh-CHT": "已完成難度為困難的所有戰役。\n\n",
+                    "pt-PT": "Concluiu todos os atos da campanha na dificuldade Difícil.\n\n",
+                    "ja-JP": "難易度ハードコアでストーリーモードをクリアした"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie alle Kampagnenakte bei Schwierigkeit \"Hardcore\" ab (Standard oder Arcade).",
+                    "en-US": "Complete all campaign Acts on Hardcore Difficulty (Standard or Arcade).",
+                    "es-ES": "Completar todos los actos de Campaña en dificultad Elevada (estándar o arcade).",
+                    "fr-FR": "Terminez tous les actes de la campagne en difficulté Vétéran (standard ou arcade).",
+                    "it-IT": "Completa tutti gli atti della Campagna a livello Difficile (modalità Standard o Arcade).",
+                    "ko-KR": "어려움 난이도로 캠페인을 완료하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Ukończ wszystkie akty kampanii na poziomie hardkora.",
+                    "ru-RU": "Завершите все акты кампании на сложном уровне (аркадная или сюжетная).",
+                    "zh-CHT": "完成難度為困難的所有戰役 (標準或過關挑戰賽)。",
+                    "pt-PT": "Conclua todos os atos da campanha no nível de dificuldade Difícil (Padrão ou Arcade).",
+                    "ja-JP": "難易度ハードコアでストーリーモードをクリアする (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "21.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "de-DE": "Das ist einfach verrückt",
+                    "en-US": "That's Just Crazy",
+                    "es-ES": "Eso es una locura",
+                    "fr-FR": "C'est de la folie",
+                    "it-IT": "È pazzesco",
+                    "ko-KR": "이건 미친 짓이야",
+                    "pl-PL": "Czyste szaleństwo",
+                    "ru-RU": "Просто безумие",
+                    "zh-CHT": "這簡直是太瘋狂了",
+                    "pt-PT": "Isso é uma loucura",
+                    "ja-JP": "イカれてるぜ"
+                },
+                "description": {
+                    "de-DE": "Hat alle Kampagnenakte bei wahnsinniger Schwierigkeit abgeschlossen.",
+                    "en-US": "Completed all campaign Acts on Insane Difficulty.",
+                    "es-ES": "Todos los actos de Campaña completados en dificultad Locura.",
+                    "fr-FR": "Terminez tous les actes de la campagne en difficulté Dément.",
+                    "it-IT": "Hai completato tutti gli atti della Campagna a livello Folle.",
+                    "ko-KR": "매우 어려움 난이도로 캠페인을 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie akty kampanii na poziomie wariata.",
+                    "ru-RU": "За прохождение всех актов кампании на безумном уровне сложности.",
+                    "zh-CHT": "已完成難度為瘋狂的所有戰役。",
+                    "pt-PT": "Concluiu todos os atos da campanha no nível de dificuldade Insano.",
+                    "ja-JP": "難易度インセインでストーリーモードをクリアした"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie alle Kampagnenakte bei wahnsinniger Schwierigkeit ab (Standard oder Arcade).",
+                    "en-US": "Complete all campaign Acts on Insane Difficulty (Standard or Arcade).",
+                    "es-ES": "Completar todos los actos de Campaña en dificultad Locura (estándar o arcade).",
+                    "fr-FR": "Terminez tous les actes de la campagne en difficulté Dément (standard ou arcade).",
+                    "it-IT": "Completa tutti gli atti della Campagna a livello Folle (modalità Standard o Arcade).",
+                    "ko-KR": "매우 어려움 난이도로 캠페인을 완료하십시오.(표준 및 아케이드)",
+                    "pl-PL": "Ukończ wszystkie akty kampanii na poziomie wariata.",
+                    "ru-RU": "Завершите все акты кампании на безумном уровне (аркадная или сюжетная).",
+                    "zh-CHT": "完成難度為瘋狂的所有戰役 (標準或過關挑戰賽)。",
+                    "pt-PT": "Conclua todos os atos da campanha no nível de dificuldade Insano (Padrão ou Arcade).",
+                    "ja-JP": "難易度インセインでストーリーモードをクリアする (スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "75",
+            "imageId": "22.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "Sammler",
+                    "en-US": "Collector",
+                    "es-ES": "Coleccionista",
+                    "fr-FR": "Collectionneur",
+                    "it-IT": "Collezionista",
+                    "ko-KR": "초보 수집가",
+                    "pl-PL": "Kolekcjoner",
+                    "ru-RU": "Коллекционер",
+                    "zh-CHT": "收集迷",
+                    "pt-PT": "Colecionador",
+                    "ja-JP": "コレクター"
+                },
+                "description": {
+                    "de-DE": "Holte 5 von 42 Sammlerstücken.",
+                    "en-US": "Recovered 5 of 42 Collectibles.",
+                    "es-ES": "Recuperados 5 de 42 objetos.",
+                    "fr-FR": "5 objets à collectionner trouvés sur 42.",
+                    "it-IT": "Hai recuperato 5 collezionabili su 42.",
+                    "ko-KR": "42개 중 5개의 획득 아이템을 수집했습니다.",
+                    "pl-PL": "Zebrano 5 z 42 przedmiotów kolekcjonerskich.",
+                    "ru-RU": "За получение 5 трофеев из 42 возможных.",
+                    "zh-CHT": "已取得 42 個收藏物品中的 5 個。",
+                    "pt-PT": "5 de 42 itens colecionáveis recuperados.",
+                    "ja-JP": "42 種類中 5 個の収集品を手に入れた"
+                },
+                "howto": {
+                    "de-DE": "Holen Sie 5 Kampagnen-Sammlerstücke (beliebige Schwierigkeit, Standard oder Arcade).",
+                    "en-US": "Recover 5 Campaign Collectibles (any difficulty, Standard or Arcade).",
+                    "es-ES": "Recuperar 5 objetos de Campaña (cualquier dificultad, estándar o arcade).",
+                    "fr-FR": "Trouvez 5 objets à collectionner (toute difficulté, standard ou arcade).",
+                    "it-IT": "Recupera 5 collezionabili della Campagna (qualsiasi difficoltà, modalità Standard o Arcade).",
+                    "ko-KR": "캠페인에서 5개의 획득 아이템을 수집하십시오.(난이도 상관없음, 표준 또는 아케이드)",
+                    "pl-PL": "Zdobądź 5 przedmiotów kolekcjonerskich w kampanii.",
+                    "ru-RU": "Получите 5 трофеев в кампании (аркадной или сюжетной, на любой сложности).",
+                    "zh-CHT": "取得 5 個戰役收藏物品 (不限難度，標準或過關挑戰賽)。",
+                    "pt-PT": "Recupere 5 itens colecionáveis da campanha (qualquer dificuldade, Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードの収集品を 5 個手に入れる (難易度は任意、スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "5",
+            "imageId": "23.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "Sammelwütiger",
+                    "en-US": "Pack Rat",
+                    "es-ES": "Urraca",
+                    "fr-FR": "Rat des champs",
+                    "it-IT": "Raccoglitore",
+                    "ko-KR": "노력하는 수집가",
+                    "pl-PL": "Sroczka",
+                    "ru-RU": "Барахольщик",
+                    "zh-CHT": "戀物狂",
+                    "pt-PT": "Fuçador",
+                    "ja-JP": "マニア コレクター"
+                },
+                "description": {
+                    "de-DE": "Holte 20 von 42 Sammlerstücken.",
+                    "en-US": "Recovered 20 of 42 Collectibles.",
+                    "es-ES": "Recuperados 20 de 42 objetos.",
+                    "fr-FR": "20 objets à collectionner trouvés sur 42.",
+                    "it-IT": "Hai recuperato 20 collezionabili su 42.",
+                    "ko-KR": "42개 중 20개의 획득 아이템을 수집했습니다.",
+                    "pl-PL": "Zebrano 20 z 42 przedmiotów kolekcjonerskich.",
+                    "ru-RU": "За получение 20 трофеев из 42 возможных.",
+                    "zh-CHT": "已取得 42 個收藏物品中的 20 個。",
+                    "pt-PT": "20 de 42 itens colecionáveis recuperados.",
+                    "ja-JP": "42 種類中 20 個の収集品を手に入れた"
+                },
+                "howto": {
+                    "de-DE": "Holen Sie 20 Kampagnen-Sammlerstücke (beliebige Schwierigkeit, Standard oder Arcade).",
+                    "en-US": "Recover 20 Campaign Collectibles (any difficulty, Standard or Arcade).",
+                    "es-ES": "Recuperar 20 objetos de Campaña (cualquier dificultad, estándar o arcade).",
+                    "fr-FR": "Trouvez 20 objets à collectionner (toute difficulté, standard ou arcade).",
+                    "it-IT": "Recupera 20 collezionabili della Campagna (qualsiasi difficoltà, modalità Standard o Arcade).",
+                    "ko-KR": "캠페인에서 20개의 획득 아이템을 수집하십시오.(난이도 상관없음, 표준 또는 아케이드)",
+                    "pl-PL": "Zdobądź 20 przedmiotów kolekcjonerskich w kampanii.",
+                    "ru-RU": "Получите 20 трофеев в кампании (аркадной или сюжетной, на любой сложности).",
+                    "zh-CHT": "取得 20 個戰役收藏物品 (不限難度，標準或過關挑戰賽)。",
+                    "pt-PT": "Recupere 20 itens colecionáveis da campanha (qualquer dificuldade, Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードで収集品を 20 個手に入れる (難易度は任意、スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "10",
+            "imageId": "24.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Messie",
+                    "en-US": "Hoarder",
+                    "es-ES": "Acaparador",
+                    "fr-FR": "Maniaque",
+                    "it-IT": "Saccheggiatore",
+                    "ko-KR": "진정한 수집가",
+                    "pl-PL": "Chomik",
+                    "ru-RU": "Хапуга",
+                    "zh-CHT": "囤積狂",
+                    "pt-PT": "Acumulador",
+                    "ja-JP": "究極のコレクター"
+                },
+                "description": {
+                    "de-DE": "Holte alle 42 Sammlerstücke.",
+                    "en-US": "Recovered all 42 Collectibles.",
+                    "es-ES": "Recuperados los 42 objetos.",
+                    "fr-FR": "42 objets à collectionner trouvés.",
+                    "it-IT": "Hai recuperato tutti i 42 collezionabili.",
+                    "ko-KR": "42개의 모든 획득 아이템을 수집했습니다.",
+                    "pl-PL": "Zebrano wszystkie 42 przedmioty kolekcjonerskie.",
+                    "ru-RU": "За полную коллекцию из 42 трофеев.",
+                    "zh-CHT": "已取得所有 42 個收藏物品。",
+                    "pt-PT": "Recuperou todos os 42 itens colecionáveis.",
+                    "ja-JP": "42 種類の収集品をすべて手に入れた"
+                },
+                "howto": {
+                    "de-DE": "Holen Sie alle 42 Kampagnen-Sammlerstücke (beliebige Schwierigkeit, Standard oder Arcade).",
+                    "en-US": "Recover all 42 Campaign Collectibles (any difficulty, Standard or Arcade).",
+                    "es-ES": "Recuperar los 42 objetos de Campaña (cualquier dificultad, estándar o arcade).",
+                    "fr-FR": "Trouvez 42 objets à collectionner (toute difficulté, standard ou arcade).",
+                    "it-IT": "Recupera tutti i 42 collezionabili della Campagna (qualsiasi diff., modalità Standard o Arcade).",
+                    "ko-KR": "캠페인에서 42개의 모든 획득 아이템을 모두 수집하십시오.(난이도 상관없음, 표준 또는 아케이드)",
+                    "pl-PL": "Zdobądź wszystkie 42 przedmioty kolekcjonerskie w kampanii.",
+                    "ru-RU": "Получите 42 трофея в кампании (аркадной или сюжетной, на любой сложности).",
+                    "zh-CHT": "取得所有 42 個戰役收藏物品 (不限難度，標準或過關挑戰賽)。",
+                    "pt-PT": "Recupere todos os 42 itens colecionáveis da campanha (qualquer dificuldade, Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードで収集品を 42 個手に入れる (難易度は任意、スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "15",
+            "imageId": "25.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "Gedenken Sie der Gefallenen",
+                    "en-US": "Remember the Fallen",
+                    "es-ES": "Recordar a los caídos",
+                    "fr-FR": "Hommage aux disparus",
+                    "it-IT": "Ricorda i caduti",
+                    "ko-KR": "동료를 추모하며",
+                    "pl-PL": "Apel poległych",
+                    "ru-RU": "Память о павших",
+                    "zh-CHT": "懷念陣亡將士",
+                    "pt-PT": " Lembre-se dos derrotados",
+                    "ja-JP": "帰らぬ戦士たち"
+                },
+                "description": {
+                    "de-DE": "Holte alle 15 KOR-Marken.",
+                    "en-US": "Recovered all 15 COG Tags.",
+                    "es-ES": "Ha recuperado las 15 placas de identificación de la CGO.",
+                    "fr-FR": "Trouvez 15 plaques militaires de la CGU.",
+                    "it-IT": "Hai recuperato tutte le 15 piastrine COG.",
+                    "ko-KR": "15개의 모든 COG 인식표를 수집했습니다.",
+                    "pl-PL": "Znaleziono wszystkie 15 identyfikatorów Koalicji.",
+                    "ru-RU": "За получение 15 бирок Коалиции.",
+                    "zh-CHT": "已取得所有 15 個戰士兵籍牌。",
+                    "pt-PT": "Recuperou as 15 etiquetas CGO.",
+                    "ja-JP": "COG タグを 15 個すべて手に入れた"
+                },
+                "howto": {
+                    "de-DE": "Holen Sie alle 15 KOR-Marken in der Kampagne (beliebige Schwierigkeit, Standard oder Arcade).",
+                    "en-US": "Recover all 15 COG Tags during the Campaign (any difficulty, Standard or Arcade).",
+                    "es-ES": "Recuperar las 15 placas de identif. de la CGO en Campaña (cualquier dificultad, estándar o arcade).",
+                    "fr-FR": "Trouvez 15 plaques militaires de la CGU pendant la campagne (toute difficulté, standard ou arcade).",
+                    "it-IT": "Recupera tutte le 15 piastrine COG nella Campagna (qualsiasi difficoltà, Standard o Arcade).",
+                    "ko-KR": "캠페인에서 15개의 모든 COG 인식표를 수집하십시오.(난이도 상관없음, 표준 또는 아케이드)",
+                    "pl-PL": "Znajdź 15 nieśmiertelników Koalicji w kampanii.",
+                    "ru-RU": "Найдите все 15 бирок Коалиции в кампании (аркадной или сюжетной, на любой сложности).",
+                    "zh-CHT": "在戰役中取得所有 15 個戰士兵籍牌 (不限難度，標準或過關挑戰賽)。",
+                    "pt-PT": "Recupere as 15 etiquetas CGO durante a campanha (qualquer dificuldade, Padrão ou Arcade).",
+                    "ja-JP": "ストーリーモードで COG タグを 15 個すべて手に入れる (難易度は任意、スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "15",
+            "imageId": "26.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "Meine Gears-Kameraden",
+                    "en-US": "My Fellow Gears",
+                    "es-ES": "Mis colegas Gear",
+                    "fr-FR": "Mes chers Gears",
+                    "it-IT": "I compagni d'armi Gears",
+                    "ko-KR": "내 친구 기어",
+                    "pl-PL": "Moi towarzysze",
+                    "ru-RU": "Мои братья по оружию",
+                    "zh-CHT": "鐵哥兒們",
+                    "pt-PT": "Meus caros Gears",
+                    "ja-JP": "最高の仲間"
+                },
+                "description": {
+                    "de-DE": "Schloss alle Akte in Co-op in beliebiger Schwierigkeit ab.",
+                    "en-US": "Complete all Acts in Co-op on any difficulty.",
+                    "es-ES": "Completados todos los actos en modo cooperativo en cualquier dificultad.",
+                    "fr-FR": "Terminez tous les actes en coopération, quel que soit le niveau de difficulté.",
+                    "it-IT": "Completa tutti gli atti in Co-op a qualsiasi difficoltà.",
+                    "ko-KR": "난이도에 상관없이 협동 모드에서 모든 액트를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie akty w trybie współpracy.",
+                    "ru-RU": "За завершение всех глав в режиме совместной игры.",
+                    "zh-CHT": "完成合作遊戲中任何難度的所有戰役。",
+                    "pt-PT": "Conclua todos os atos no modo cooperativo em qualquer dificuldade.",
+                    "ja-JP": "協力プレイでストーリーモードをクリアした"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie alle Kampagnen-Akte in Co-op ab (beliebige Schwierigkeit, Standard oder Arcade).",
+                    "en-US": "Complete all Campaign Acts in Co-op (any difficulty, Standard or Arcade).",
+                    "es-ES": "Completar todos los actos de la Campaña en cooperativo (cualquier dificultad, estándar o arcade).",
+                    "fr-FR": "Terminez tous les actes en coopération (toute difficulté, standard ou arcade).",
+                    "it-IT": "Completa tutti gli atti della Campagna in Co-op (qualsiasi difficoltà, modalità Standard o Arcade).",
+                    "ko-KR": "협동 모드로 모든 캠페인을 완료하십시오.(난이도 상관없음, 표준 또는 아케이드)",
+                    "pl-PL": "Ukończ wszystkie akty w trybie współpracy.",
+                    "ru-RU": "За завершение всех актов кампании в совместной игре на любой сложности (аркадная или сюжетная).",
+                    "zh-CHT": "在合作模式完成所有戰役場景 (不限難度，標準或過關挑戰賽)。",
+                    "pt-PT": "Conclua os atos da campanha modo cooperativo (qualquer dificuldade, Padrão ou Arcade).",
+                    "ja-JP": "協力プレイでストーリーモードをクリアする (難易度は任意、スタンダードまたはアーケード)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "27.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "Wir glücklichen wenigen ...",
+                    "en-US": "We Few, We Happy Few...",
+                    "es-ES": "Somos pocos, pero felices",
+                    "fr-FR": "Rares sont les veinards...",
+                    "it-IT": "Pochi ma buoni...",
+                    "ko-KR": "그대와 함께",
+                    "pl-PL": "My, wybrańców garść...",
+                    "ru-RU": "Маленькие, да удаленькие...",
+                    "zh-CHT": "我們幾個，快樂的幾個人呀...",
+                    "pt-PT": "Somos poucos, mas felizes...",
+                    "ja-JP": "我ら幸せな者たち..."
+                },
+                "description": {
+                    "de-DE": "Schloss alle Akte in 4-Spieler Co-op in beliebiger Schwierigkeit ab.",
+                    "en-US": "Complete all Acts in 4 player Co-op on any difficulty.",
+                    "es-ES": "Completados todos los actos en modo cooperativo para 4 jugadores en cualquier dificultad.",
+                    "fr-FR": "Terminez tous les actes en coopération avec 4 joueurs quel que soit le niveau de difficulté.",
+                    "it-IT": "Completa tutti gli atti giocando in 4 a qualsiasi difficoltà.",
+                    "ko-KR": "난이도에 상관없이 4인 협동 모드에서 모든 액트를 완료했습니다.",
+                    "pl-PL": "Ukończono wszystkie akty w trybie współpracy 4 graczy.",
+                    "ru-RU": "За завершение всех актов в режиме совместной игры для 4 игроков на любой сложности.",
+                    "zh-CHT": "不限難度，在 4 名玩家的合作模式完成所有場景。",
+                    "pt-PT": "Conclua todos os atos da campanha no modo cooperativo com 4 jogadores em qualquer dificuldade.",
+                    "ja-JP": "4 人の協力プレイで、難易度問わず任意のストーリーモードをクリアした"
+                },
+                "howto": {
+                    "de-DE": "Alle Kampagnenakte in 4-Spieler Co-op (belieb. Schwierigkeit, Standard oder Arcade) abschließen.",
+                    "en-US": "Complete all Campaign Acts in 4 player Co-op (any difficulty, Standard or Arcade).",
+                    "es-ES": "Completar todos los actos de la Campaña en coop. para 4 jug. (cualquier dific., estándar o arcade).",
+                    "fr-FR": "Terminez tous les actes de campagne en coopération avec 4 joueurs (standard ou arcade).",
+                    "it-IT": "Completa tutti gli atti Campagna Co-op a 4 gioc. (qualsiasi difficoltà, Standard o Arcade).",
+                    "ko-KR": "4인 협동 모드로 모든 캠페인을 완료하십시오.(난이도 상관없음, 표준 또는 아케이드)",
+                    "pl-PL": "Ukończ wszystkie akty w trybie współpracy 4 graczy.",
+                    "ru-RU": "За завершение всех актов кампании в режиме для 4 игроков на любой сложности (аркадная или сюжетная).",
+                    "zh-CHT": "在 4 名玩家的合作模式完成所有戰役場景 (不限難度，標準或過關挑戰賽)。",
+                    "pt-PT": "Conclua todos os atos da camp. modo cooperativo, 4 jogadores (qualq. dificuldade, Padrão ou Arcade).",
+                    "ja-JP": "4 人の協力プレイでストーリーモードをクリアする (難易度は任意、スタンダードまたはカジュアル)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "28.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "Level 5",
+                    "en-US": "Level 5",
+                    "es-ES": "Nivel 5",
+                    "fr-FR": "Niveau 5",
+                    "it-IT": "Livello 5",
+                    "ko-KR": "레벨 5",
+                    "pl-PL": "Poziom 5",
+                    "ru-RU": "Уровень 5",
+                    "zh-CHT": "等級 5",
+                    "pt-PT": "Nível 5",
+                    "ja-JP": "レベル 5"
+                },
+                "description": {
+                    "de-DE": "Erreichte Level 5.",
+                    "en-US": "Reached level 5.",
+                    "es-ES": "Ha llegado al nivel 5.",
+                    "fr-FR": "Niveau 5 atteint.",
+                    "it-IT": "Hai raggiunto il livello 5.",
+                    "ko-KR": "레벨 5에 도달했습니다.",
+                    "pl-PL": "Osiągnięto poziom 5.",
+                    "ru-RU": "За получение уровня 5.",
+                    "zh-CHT": "已達到等級 5。",
+                    "pt-PT": "Alcançou o nível 5.",
+                    "ja-JP": "レベル 5 に到達した"
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie Level 5.",
+                    "en-US": "Reach level 5.",
+                    "es-ES": "Llegar al nivel 5.",
+                    "fr-FR": "Atteignez le niveau 5.",
+                    "it-IT": "Raggiungi il livello 5.",
+                    "ko-KR": "레벨 5에 도달하십시오.",
+                    "pl-PL": "Osiągnij poziom 5.",
+                    "ru-RU": "Получите уровень 5.",
+                    "zh-CHT": "達到等級 5。",
+                    "pt-PT": "Alcance o nível 5.",
+                    "ja-JP": "レベル 5 に到達する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "5",
+            "imageId": "29.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Level 10",
+                    "en-US": "Level 10",
+                    "es-ES": "Nivel 10",
+                    "fr-FR": "Niveau 10",
+                    "it-IT": "Livello 10",
+                    "ko-KR": "레벨 10",
+                    "pl-PL": "Poziom 10",
+                    "ru-RU": "Уровень 10",
+                    "zh-CHT": "等級 10",
+                    "pt-PT": "Nível 10",
+                    "ja-JP": "レベル 10"
+                },
+                "description": {
+                    "de-DE": "Erreichte Level 10.",
+                    "en-US": "Reached level 10.",
+                    "es-ES": "Ha llegado al nivel 10.",
+                    "fr-FR": "Niveau 10 atteint.",
+                    "it-IT": "Hai raggiunto il livello 10.",
+                    "ko-KR": "레벨 10에 도달했습니다.",
+                    "pl-PL": "Osiągnięto poziom 10.",
+                    "ru-RU": "За получение уровня 10.",
+                    "zh-CHT": "已達到等級 10。",
+                    "pt-PT": "Alcançou o nível 10.",
+                    "ja-JP": "レベル 10 に到達した"
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie Level 10.",
+                    "en-US": "Reach level 10.",
+                    "es-ES": "Llegar al nivel 10.",
+                    "fr-FR": "Atteignez le niveau 10.",
+                    "it-IT": "Raggiungi il livello 10.",
+                    "ko-KR": "레벨 10에 도달하십시오.",
+                    "pl-PL": "Osiągnij poziom 10.",
+                    "ru-RU": "Получите уровень 10.",
+                    "zh-CHT": "達到等級 10。",
+                    "pt-PT": "Alcance o nível 10.",
+                    "ja-JP": "レベル 10 に到達する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "10",
+            "imageId": "30.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Level 15",
+                    "en-US": "Level 15",
+                    "es-ES": "Nivel 15",
+                    "fr-FR": "Niveau 15",
+                    "it-IT": "Livello 15",
+                    "ko-KR": "레벨 15",
+                    "pl-PL": "Poziom 15",
+                    "ru-RU": "Уровень 15",
+                    "zh-CHT": "等級 15",
+                    "pt-PT": "Nível 15",
+                    "ja-JP": "レベル 15"
+                },
+                "description": {
+                    "de-DE": "Erreichte Level 15.",
+                    "en-US": "Reached level 15.",
+                    "es-ES": "Ha llegado al nivel 15.",
+                    "fr-FR": "Niveau 15 atteint.",
+                    "it-IT": "Hai raggiunto il livello 15.",
+                    "ko-KR": "레벨 15에 도달했습니다.",
+                    "pl-PL": "Osiągnięto poziom 15.",
+                    "ru-RU": "За получение уровня 15.",
+                    "zh-CHT": "已達到等級 15。",
+                    "pt-PT": "Alcançou o nível 15.",
+                    "ja-JP": "レベル 15 に到達した"
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie Level 15.",
+                    "en-US": "Reach level 15.",
+                    "es-ES": "Llegar al nivel 15.",
+                    "fr-FR": "Atteignez le niveau 15.",
+                    "it-IT": "Raggiungi il livello 15.",
+                    "ko-KR": "레벨 15에 도달하십시오.",
+                    "pl-PL": "Osiągnij poziom 15.",
+                    "ru-RU": "Получите уровень 15.",
+                    "zh-CHT": "達到等級 15。",
+                    "pt-PT": "Alcance o nível 15.",
+                    "ja-JP": "レベル 15 に到達する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "15",
+            "imageId": "31.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Level 25",
+                    "en-US": "Level 25",
+                    "es-ES": "Nivel 25",
+                    "fr-FR": "Niveau 25",
+                    "it-IT": "Livello 25",
+                    "ko-KR": "레벨 25",
+                    "pl-PL": "Poziom 25",
+                    "ru-RU": "Уровень 25",
+                    "zh-CHT": "等級 25",
+                    "pt-PT": "Nível 25",
+                    "ja-JP": "レベル 25"
+                },
+                "description": {
+                    "de-DE": "Erreichte Level 25.",
+                    "en-US": "Reached level 25.",
+                    "es-ES": "Ha llegado al nivel 25.",
+                    "fr-FR": "Niveau 25 atteint.",
+                    "it-IT": "Hai raggiunto il livello 25.",
+                    "ko-KR": "레벨 25에 도달했습니다.",
+                    "pl-PL": "Osiągnięto poziom 25.",
+                    "ru-RU": "За получение уровня 25.",
+                    "zh-CHT": "已達到等級 25。",
+                    "pt-PT": "Alcançou o nível 25.",
+                    "ja-JP": "レベル 25 に到達した"
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie Level 25.",
+                    "en-US": "Reach level 25.",
+                    "es-ES": "Llegar al nivel 25.",
+                    "fr-FR": "Atteignez le niveau 25.",
+                    "it-IT": "Raggiungi il livello 25.",
+                    "ko-KR": "레벨 25에 도달하십시오.",
+                    "pl-PL": "Osiągnij poziom 25.",
+                    "ru-RU": "Получите уровень 25.",
+                    "zh-CHT": "達到等級 25。",
+                    "pt-PT": "Alcance o nível 25.",
+                    "ja-JP": "レベル 25 に到達する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "25",
+            "imageId": "32.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Level 50",
+                    "en-US": "Level 50",
+                    "es-ES": "Nivel 50",
+                    "fr-FR": "Niveau 50",
+                    "it-IT": "Livello 50",
+                    "ko-KR": "레벨 50",
+                    "pl-PL": "Poziom 50",
+                    "ru-RU": "Уровень 50",
+                    "zh-CHT": "等級 50",
+                    "pt-PT": "Nível 50",
+                    "ja-JP": "レベル 50"
+                },
+                "description": {
+                    "de-DE": "Erreichte Level 50.",
+                    "en-US": "Reached level 50.",
+                    "es-ES": "Ha llegado al nivel 50.",
+                    "fr-FR": "Niveau 50 atteint.",
+                    "it-IT": "Hai raggiunto il livello 50.",
+                    "ko-KR": "레벨 50에 도달했습니다.",
+                    "pl-PL": "Osiągnięto poziom 50.",
+                    "ru-RU": "За достижение 50 уровня.",
+                    "zh-CHT": "已達到等級 50。",
+                    "pt-PT": "Alcançou o nível 50.",
+                    "ja-JP": "レベル 50 に到達した"
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie Level 50.",
+                    "en-US": "Reach level 50.",
+                    "es-ES": "Llegar al nivel 50.",
+                    "fr-FR": "Atteignez le niveau 50.",
+                    "it-IT": "Raggiungi il livello 50.",
+                    "ko-KR": "레벨 50에 도달하십시오.",
+                    "pl-PL": "Osiągnij 50 poziom.",
+                    "ru-RU": "Достигните 50 уровня.",
+                    "zh-CHT": "達到等級 50。",
+                    "pt-PT": "Alcance o nível 50.",
+                    "ja-JP": "レベル 50 に到達する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "50",
+            "imageId": "33.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "Richter, Geschworener und Henker",
+                    "en-US": "Judge, Jury and Executioner",
+                    "es-ES": "Juez, jurado y verdugo",
+                    "fr-FR": "Juge, juré et bourreau",
+                    "it-IT": "Giudice, giuria e carnefice",
+                    "ko-KR": "재판 결과를 알린다",
+                    "pl-PL": "Sędzia, ława przysięgłych i kat",
+                    "ru-RU": "Суд, присяжные и палач",
+                    "zh-CHT": "法官、陪審團、劊子手",
+                    "pt-PT": "Juiz, jurado e executor",
+                    "ja-JP": "判事、陪審、死刑執行人"
+                },
+                "description": {
+                    "de-DE": "Richtete seine Gegner mit Abwechslung und Stil hin.",
+                    "en-US": "Executed your enemies with variety and style.",
+                    "es-ES": "Ha ejecutado a sus enemigos con variedad y estilo.",
+                    "fr-FR": "Exécutez vos ennemis avec originalité et style.",
+                    "it-IT": "Hai giustiziato i nemici con stile e varietà.",
+                    "ko-KR": "적을 다양한 방식으로 처형했습니다.",
+                    "pl-PL": "Zabijano wrogów w dobrym i zróżnicowanym stylu.",
+                    "ru-RU": "За уничтожение врагов различными способами.",
+                    "zh-CHT": "利用各種方式處決敵人。",
+                    "pt-PT": "Executou seus inimigos com técnicas variadas e estilo.",
+                    "ja-JP": "あらゆる手段で敵を処刑した"
+                },
+                "howto": {
+                    "de-DE": "Holen Sie sich einen Abschuss in jeder möglichen Hinrichtungsart (beliebiger Modus).",
+                    "en-US": "Get a kill with every possible execution finishing move (any mode).",
+                    "es-ES": "Conseguir una baja con cada uno de los movimientos de ejecución final posibles (cualquier modo).",
+                    "fr-FR": "Tuez un ennemi en l'exécutant (tout mode).",
+                    "it-IT": "Esegui un'uccisione con ogni possibile mossa finale per giustiziare il nemico (qualsiasi modalità).",
+                    "ko-KR": "모드에 상관없이 모든 종류의 처형 기술을 사용해 사살하십시오.",
+                    "pl-PL": "Zabij przeciwnika każdym dostępnym rodzajem egzekucji (w dowolnym trybie).",
+                    "ru-RU": "Казните врагов всеми возможными способами (любой режим).",
+                    "zh-CHT": "不限模式，使用所有可用的處決方法，分別殺死一名敵人。",
+                    "pt-PT": "Faça uma vítima utilizando cada um dos movimentos de execução (qualquer modo).",
+                    "ja-JP": "すべての処刑スタイルで敵にとどめを刺す (モードは任意)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "34.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Locust-Rache wird genommen",
+                    "en-US": "Wreaking Locust Vengence",
+                    "es-ES": "Es la hora de la venganza Locust",
+                    "fr-FR": "Vengeance locuste à assouvir",
+                    "it-IT": "Vendetta delle locuste",
+                    "ko-KR": "인류에게 복수하라!",
+                    "pl-PL": "Zemsta szarańczy",
+                    "ru-RU": "Месть Саранчи",
+                    "zh-CHT": "獸族的復仇",
+                    "pt-PT": "Fazendo a vingança Locust",
+                    "ja-JP": "復讐の念をぶちまけろ!"
+                },
+                "description": {
+                    "de-DE": "An der Menschheit gerächt!",
+                    "en-US": "Wreaked vengence upon humanity!",
+                    "es-ES": "¡Ha descargado su venganza contra la humanidad!",
+                    "fr-FR": "Vengeance assouvie sur l'humanité !",
+                    "it-IT": "Hai seminato vendetta sull'umanità!",
+                    "ko-KR": "모든 종류의 로커스트로 인류에게 복수하였습니다.",
+                    "pl-PL": "Dokonano zemsty na ludziach!",
+                    "ru-RU": "За отмщение человечеству!",
+                    "zh-CHT": "對人類施行報復！",
+                    "pt-PT": "Vingança realizada contra a humanidade!",
+                    "ja-JP": "人類に復讐した"
+                },
+                "howto": {
+                    "de-DE": "Holen Sie sich einen Abschuss mit jedem Locust-Monster im Bestie-Modus (beliebige Schwierigkeit).",
+                    "en-US": "Get a kill with every Locust monster in Beast mode (any difficulty).",
+                    "es-ES": "Conseguir una baja con cada uno de los monstruos Locust en el modo Bestia (cualquier dificultad).",
+                    "fr-FR": "Tuez en tant que monstre locuste en mode Bestial (toute difficulté).",
+                    "it-IT": "Esegui un'uccisione con ogni mostro locusta in modalità Belva (qualsiasi difficoltà).",
+                    "ko-KR": "비스트 모드에서 난이도에 상관없이 모든 종류의 로커스트를 사용해 사살하십시오.",
+                    "pl-PL": "Zabij wroga każdym potworem szarańczy w trybie bestii.",
+                    "ru-RU": "Совершите убийство каждым видом Саранчи в режиме Зверь (любая сложность).",
+                    "zh-CHT": "不限難度，在殺戮戰場模式中，扮演所有獸族怪獸，並分別殺死一名敵人。",
+                    "pt-PT": "Faça uma vítima com todos os monstros Locusts no modo Besta (qualquer dificuldade).",
+                    "ja-JP": "Beast モードですべてのローカストを使用して、それぞれキルを達成する (難易度は任意)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "35.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Bereichert und verstärkt",
+                    "en-US": "Enriched and Fortified",
+                    "es-ES": "Enriquecido y reforzado",
+                    "fr-FR": "Enrichi et vitaminé",
+                    "it-IT": "Arricchito e fortificato",
+                    "ko-KR": "난공불락의 요새",
+                    "pl-PL": "Wzmocniony i zaopatrzony",
+                    "ru-RU": "Укрепление и защита",
+                    "zh-CHT": "戰備防禦高手",
+                    "pt-PT": "Enriquecido e fortificado",
+                    "ja-JP": "完全なる要塞化"
+                },
+                "description": {
+                    "de-DE": "Überlebte alle 50 Wellen in Horde.",
+                    "en-US": "Survived all 50 waves of Horde.",
+                    "es-ES": "Ha sobrevivido a las 50 oleadas de Horda.",
+                    "fr-FR": "A survécu aux 50 vagues du mode Horde.",
+                    "it-IT": "Sei sopravvissuto a tutte le 50 ondate della modalità Orda.",
+                    "ko-KR": "호드의 50번의 전투에서 살아남았습니다.",
+                    "pl-PL": "Udało się przetrwać wszystkie 50 fal hordy.",
+                    "ru-RU": "За отражение 50 волн Орды.",
+                    "zh-CHT": "抵擋持久戰全部 50 波攻擊。",
+                    "pt-PT": "Sobreviveu às 50 ondas da Horda.",
+                    "ja-JP": "Horde で 50 ウェーブをクリアした"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie alle 50 Wellen im Horde-Modus ab (beliebige Schwierigkeit, beliebige Karte).",
+                    "en-US": "Complete all 50 waves of Horde mode (any difficulty, any map).",
+                    "es-ES": "Completar las 50 oleadas del modo Horda (cualquier dificultad y mapa).",
+                    "fr-FR": "Repoussez les 50 vagues en mode Horde (toute difficulté, toute carte).",
+                    "it-IT": "Completa tutte le 50 ondate della modalità Orda (qualsiasi difficoltà, qualsiasi mappa).",
+                    "ko-KR": "난이도와 맵에 상관없이 호드 모드에서 50번의 전투를 모두 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie 50 fal w trybie hordy.",
+                    "ru-RU": "Отразить 50 волн в режиме Орды (любая сложность, любая карта).",
+                    "zh-CHT": "不限難度及地圖，在持久戰模式完成全部 50 波攻擊。",
+                    "pt-PT": "Conclua as 50 ondas do modo Horda (qualquer dificuldade, qualquer mapa).",
+                    "ja-JP": "Horde で 50 ウェーブをクリアする (難易度とマップは任意)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "36.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "Alles dreht sich um die Beute!",
+                    "en-US": "It's All About the Loot!",
+                    "es-ES": "¡Todo por el botín!",
+                    "fr-FR": "Un butin, c'est bien !",
+                    "it-IT": "Questione di bottino!",
+                    "ko-KR": "약탈이란 무엇인가?",
+                    "pl-PL": "Liczą się tylko łupy!",
+                    "ru-RU": "Добыча, добыча!",
+                    "zh-CHT": "搶刀、搶槍、搶子彈！",
+                    "pt-PT": "É só pensar no roubo!",
+                    "ja-JP": "略奪こそすべて!"
+                },
+                "description": {
+                    "de-DE": "Hat die Bronze-Medaille \"Beute-Kurtisane\" gewonnen.",
+                    "en-US": "Earned the Bronze \"Loot Courtesan\" medal.",
+                    "es-ES": "Ha obtenido la medalla de bronce \"Cortesana del saqueo\".",
+                    "fr-FR": "Médaille de Bronze \"Ramasseur servile\" gagnée.",
+                    "it-IT": "Hai ottenuto la medaglia di bronzo \"Amico del bottino\".",
+                    "ko-KR": "약탈자 동메달을 획득했습니다.",
+                    "pl-PL": "Zdobyto brązowy medal „Łupieżcza kurtyzana”.",
+                    "ru-RU": "За получение бронзовой медали \"Мародер\".",
+                    "zh-CHT": "已獲得掠奪女神銅質勛章。",
+                    "pt-PT": "Ganhou a medalha de bronze de \"Cortesã do Roubo\".",
+                    "ja-JP": "略奪名人ブロンズ メダルを獲得した"
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie die Bronze-Medaille \"Beute-Kurtisane\".",
+                    "en-US": "Earn the Bronze \"Loot Courtesan\" medal.",
+                    "es-ES": "Obtener la medalla de bronce \"Cortesana del saqueo\".",
+                    "fr-FR": "Gagnez la médaille de Bronze \"Ramasseur servile\".",
+                    "it-IT": "Ottieni la medaglia di bronzo \"Amico del bottino\".",
+                    "ko-KR": "약탈자 동메달을 획득하십시오.",
+                    "pl-PL": "Zdobądź brązowy medal „Łupieżcza kurtyzana”.",
+                    "ru-RU": "Получить бронзовую медаль \"Мародер\".",
+                    "zh-CHT": "獲得掠奪女神銅質勛章。",
+                    "pt-PT": "Ganhe a medalha de bronze de \"Cortesã do Roubo\".",
+                    "ja-JP": "略奪名人ブロンズ メダルを獲得する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "37.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "de-DE": "Alle für einen, einer für alle",
+                    "en-US": "All for One, One for All",
+                    "es-ES": "Uno para todos y todos para uno",
+                    "fr-FR": "Tous pour un, un pour tous",
+                    "it-IT": "Tutti per uno, uno per tutti",
+                    "ko-KR": "우리는 하나",
+                    "pl-PL": "Jeden za wszystkich",
+                    "ru-RU": "Один за всех и все за одного!",
+                    "zh-CHT": "隊友救星！",
+                    "pt-PT": "Um por Todos e Todos por Um",
+                    "ja-JP": "万人は一人のために"
+                },
+                "description": {
+                    "de-DE": "Hat die Bronze-Medaille \"Force Multiplier\" gewonnen.",
+                    "en-US": "Earned the Bronze \"Force Multiplier\" medal.",
+                    "es-ES": "Ha obtenido la medalla de bronce \"Multiplicador de fuerza\".",
+                    "fr-FR": "Médaille de Bronze \"Force multijoueur\" gagnée.",
+                    "it-IT": "Hai ottenuto la medaglia di bronzo \"Moltiplicatore di forza\".",
+                    "ko-KR": "능력 증폭자 동메달을 획득했습니다.",
+                    "pl-PL": "Zdobyto brązowy medal „Mnożnik siły”.",
+                    "ru-RU": "За получение бронзовой медали \"Умножитель сил\".",
+                    "zh-CHT": "已獲得強制倍數銅質勛章。",
+                    "pt-PT": "Ganhou a medalha de bronze de \"Multiplicador da Força\".",
+                    "ja-JP": "戦力増強ブロンズ メダルを獲得した"
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie die Bronze-Medaille \"Force Multiplier\".",
+                    "en-US": "Earn the Bronze \"Force Multiplier\" medal.",
+                    "es-ES": "Obtenga la medalla de bronce \"Multiplicador de fuerza\".",
+                    "fr-FR": "Gagnez la médaille de Bronze \"Force multijoueur\".",
+                    "it-IT": "Ottieni la medaglia di bronzo \"Moltiplicatore di forza\".",
+                    "ko-KR": "능력 증폭자 동메달을 획득하십시오.",
+                    "pl-PL": "Zdobądź brązowy medal „Mnożnik siły”.",
+                    "ru-RU": "Получить бронзовую медаль \"Умножитель сил\".",
+                    "zh-CHT": "獲得強制倍數銅質勛章。",
+                    "pt-PT": "Ganhe a medalha de bronze de \"Multiplicador da Força\".",
+                    "ja-JP": "戦力増強ブロンズ メダルを獲得する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "38.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "de-DE": "Erster unter Gleichen",
+                    "en-US": "First Among Equals",
+                    "es-ES": "Miembro destacado",
+                    "fr-FR": "Le meilleur équipier",
+                    "it-IT": "Il primo dei primi",
+                    "ko-KR": "동급 최고",
+                    "pl-PL": "Pierwszy wśród równych",
+                    "ru-RU": "Первый среди равных",
+                    "zh-CHT": "第一把交椅",
+                    "pt-PT": "Primeiro entre iguais",
+                    "ja-JP": "同等の中で最初"
+                },
+                "description": {
+                    "de-DE": "Hat die \"Nummer 1\" Silbermedaille gewonnen.",
+                    "en-US": "Earned the Silver \"Number 1\" medal.",
+                    "es-ES": "Ha obtenido la medalla de plata \"Número 1\".",
+                    "fr-FR": "Médaille d'Argent \"Numéro 1\" gagnée.",
+                    "it-IT": "Hai ottenuto la medaglia d'argento \"Numero 1\".",
+                    "ko-KR": "넘버 1 은메달을 획득했습니다.",
+                    "pl-PL": "Zdobyto srebrny medal „Numer 1”.",
+                    "ru-RU": "За получение серебряной медали \"Номер Первый\".",
+                    "zh-CHT": "已獲得第一名銀質勛章。",
+                    "pt-PT": "Ganhou a medalha de prata \"Número 1\".",
+                    "ja-JP": "ナンバー 1 シルバー メダルを獲得した"
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie die \"Nummer 1\" Silbermedaille.",
+                    "en-US": "Earn the Silver \"Number 1\" medal.",
+                    "es-ES": "Obtener la medalla de plata \"Número 1\".",
+                    "fr-FR": "Gagnez la médaille d'Argent \"Numéro 1\".",
+                    "it-IT": "Ottieni la medaglia d'argento \"Numero 1\".",
+                    "ko-KR": "넘버 1 은메달을 획득하십시오.",
+                    "pl-PL": "Zdobądź srebrny medal „Numer 1”.",
+                    "ru-RU": "Заработать серебряную медаль \"Номер Первый\".",
+                    "zh-CHT": "獲得第一名銀質勛章。",
+                    "pt-PT": "Ganhe a medalha de prata \"Número 1\".",
+                    "ja-JP": "ナンバー 1 シルバー メダルを獲得する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "39.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "Preisgekrönte Taktik",
+                    "en-US": "Award Winning Tactics",
+                    "es-ES": "Tácticas premiadas",
+                    "fr-FR": "Tactiques de gains de trophée",
+                    "it-IT": "Tattiche da Oscar",
+                    "ko-KR": "인정받은 전술",
+                    "pl-PL": "Nagradzana taktyka",
+                    "ru-RU": "Отмеченная наградой тактика",
+                    "zh-CHT": "獲獎戰術",
+                    "pt-PT": "Táticas premiadas",
+                    "ja-JP": "表彰ものの戦術"
+                },
+                "description": {
+                    "de-DE": "Gewann eine Onyx-Medaille.",
+                    "en-US": "Earned an Onyx medal.",
+                    "es-ES": "Ha obtenido una medalla de ónice.",
+                    "fr-FR": "Médaille onyx gagnée.",
+                    "it-IT": "Hai ottenuto una medaglia Onyx.",
+                    "ko-KR": "오닉스 메달을 획득했습니다.",
+                    "pl-PL": "Zdobyto onyksowy medal.",
+                    "ru-RU": "За получение ониксовой медали.",
+                    "zh-CHT": "已獲得一面黑甲勛章。",
+                    "pt-PT": "Ganhou uma medalha Onyx.",
+                    "ja-JP": "オニキス メダルを 1 つ獲得した"
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie mindestens eine Onyx-Medaille.",
+                    "en-US": "Earn at least one Onyx medal.",
+                    "es-ES": "Obtener al menos una medalla de ónice.",
+                    "fr-FR": "Gagnez au moins une médaille onyx.",
+                    "it-IT": "Ottieni almeno una medaglia Onyx.",
+                    "ko-KR": "최소 하나의 오닉스 메달을 획득하십시오.",
+                    "pl-PL": "Zdobądź przynajmniej jeden onyksowy medal.",
+                    "ru-RU": "Получить хотя бы одну ониксовую медаль.",
+                    "zh-CHT": "獲得至少一面黑甲勛章。",
+                    "pt-PT": "Ganhe pelo menos uma medalha Onyx.",
+                    "ja-JP": "オニキス メダルを 1 つ獲得する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "40.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "de-DE": "3.0 Ernstgemeint",
+                    "en-US": "Seriously 3.0",
+                    "es-ES": "Seriamente 3.0",
+                    "fr-FR": "Sérieux 3.0",
+                    "it-IT": "Seriamente 3.0",
+                    "ko-KR": "질리지도 않는 전쟁의 신",
+                    "pl-PL": "Na poważnie 3.0",
+                    "ru-RU": "Серьезный противник 3.0",
+                    "zh-CHT": "不同凡響 3.0",
+                    "pt-PT": "Sério 3.0",
+                    "ja-JP": "これぞ真剣勝負"
+                },
+                "description": {
+                    "de-DE": "Sie sind der ultimative Gear!",
+                    "en-US": "You are the ultimate Gear!",
+                    "es-ES": "¡Es el Gear definitivo!",
+                    "fr-FR": "Vous êtes le Gear ultime !",
+                    "it-IT": "Sei il Gear supremo!",
+                    "ko-KR": "당신은 위대한 기어입니다!",
+                    "pl-PL": "Jesteś elitarnym Gearem!",
+                    "ru-RU": "Превосходный солдат Коалиции!",
+                    "zh-CHT": "您是全能戰士！",
+                    "pt-PT": "Você é o Gear supremo!",
+                    "ja-JP": "君こそ究極の COG 軍兵士だ!"
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie Level 100 und gewinnen Sie jede Onyx-Medaille.",
+                    "en-US": "Reach level 100 and earn every Onyx medal.",
+                    "es-ES": "Llegar al nivel 100 y obtener todas las medallas de ónice.",
+                    "fr-FR": "Atteignez le niveau 100 et gagnez toutes les médailles onyx.",
+                    "it-IT": "Raggiungi il livello 100 e ottieni ogni medaglia Onyx.",
+                    "ko-KR": "레벨 100 도달 및 모든 오닉스 메달을 획득하십시오.",
+                    "pl-PL": "Osiągnij poziom 100 i zdobądź wszystkie onyksowe medale.",
+                    "ru-RU": "Достигнуть 100 уровня и получить все ониксовые медали.",
+                    "zh-CHT": "達到等級 100 並獲得每一面黑甲勛章。",
+                    "pt-PT": "Atinja o nível 100 e ganhe cada uma das medalhas Onyx.",
+                    "ja-JP": "レベル 100 に到達してすべてのオニキス メダルを獲得する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "100",
+            "imageId": "41.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "Willkommen zu Versus",
+                    "en-US": "Welcome to Versus",
+                    "es-ES": "Bienvenido a Enfrentamiento",
+                    "fr-FR": "Bienvenue dans Bataille",
+                    "it-IT": "Benvenuto a Versus",
+                    "ko-KR": "대결 모드에 오신 걸 환영합니다",
+                    "pl-PL": "Witamy w rywalizacji",
+                    "ru-RU": "Введение в Противостояние",
+                    "zh-CHT": "歡迎參加對戰",
+                    "pt-PT": "Bem-vindo ao modo Versus",
+                    "ja-JP": "対戦へようこそ!"
+                },
+                "description": {
+                    "de-DE": "Tötete 10 Feinde in Team-Todesmatch.",
+                    "en-US": "Killed 10 enemies in Team Deathmatch.",
+                    "es-ES": "Ha matado a 10 enemigos en Duelo por equipos.",
+                    "fr-FR": "10 ennemis tués en mode Match à mort en équipe.",
+                    "it-IT": "Hai ucciso 10 nemici in Deathmatch a squadre.",
+                    "ko-KR": "팀 데스매치에서 10명의 적을 사살했습니다.",
+                    "pl-PL": "Zabito 10 wrogów w drużynowym deathmatchu.",
+                    "ru-RU": "За убийство 10 врагов в режиме командной схватки.",
+                    "zh-CHT": "已在團隊生死戰中殺死 10 名敵人。",
+                    "pt-PT": "Matou 10 inimigos em uma partida de Duelo Mortal.",
+                    "ja-JP": "Team Deathmatch で敵を 10 体倒した"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie 10 Feinde in Team Deathmatch (Standard oder Casual).",
+                    "en-US": "Kill 10 enemies in Team Deathmatch (Standard or Casual).",
+                    "es-ES": "Matar a 10 enemigos en Duelo por equipos (Estándar o Informal).",
+                    "fr-FR": "Tuez 10 ennemis en mode Match à mort en équipe (standard ou loisirs).",
+                    "it-IT": "Uccidi 10 nemici in una partita Deathmatch a squadre (modalità Standard o Arcade).",
+                    "ko-KR": "팀 데스매치에서 10명의 적을 사살하십시오.(표준 또는 캐주얼)",
+                    "pl-PL": "Zabij 10 wrogów w drużynowym deathmatchu (tryb standardowy lub rekreacyjny).",
+                    "ru-RU": "Убить 10 врагов в командной схватке (стандартная или легкая игра).",
+                    "zh-CHT": "在團隊生死戰中殺死 10 名敵人 (標準或簡單)。",
+                    "pt-PT": "Mate 10 inimigos em uma partida de Duelo Mortal (Padrão ou Casual).",
+                    "ja-JP": "Team Deathmatch で敵を 10 体倒す (スタンダードまたはカジュアル)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "42.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Versus-Kostprobenteller",
+                    "en-US": "The Versus Sampler Platter",
+                    "es-ES": "Muestrario de enfrentamientos",
+                    "fr-FR": "Échantillon de Bataille",
+                    "it-IT": "Versus compilation",
+                    "ko-KR": "대결 맛보기",
+                    "pl-PL": "Próbka rywalizacji",
+                    "ru-RU": "Испытавший Противостояние",
+                    "zh-CHT": "對戰遊戲愛好者",
+                    "pt-PT": "Travessa das amostras de Versus",
+                    "ja-JP": "対戦お試しパック"
+                },
+                "description": {
+                    "de-DE": "Hat ein Spiel in allen sechs Versus-Multiplayermodi abgeschlossen.",
+                    "en-US": "Completed one match in all six Versus multiplayer modes.",
+                    "es-ES": "Ha completado una partida en los seis modos de Enfrentamiento multijugador.",
+                    "fr-FR": "Une partie dans les six modes Bataille multijoueurs terminée.",
+                    "it-IT": "Completa una partita per ognuna delle sei modalità Versus.",
+                    "ko-KR": "대결 모드에서 6종류의 모든 매치를 각각 한번씩 완료하였습니다.",
+                    "pl-PL": "Ukończono jeden mecz z każdego z sześciu wieloosobowych trybów rywalizacji.",
+                    "ru-RU": "За игру в каждом из шести видов Противостояния.",
+                    "zh-CHT": "已在 6 個多人對戰遊戲模式中，各完成一場配對遊戲。",
+                    "pt-PT": "Concluiu uma partida nos seis modos multijogador Versus.",
+                    "ja-JP": "対戦モードの 6 種類すべてのマッチで、それぞれ 1 つのマッチをクリアした"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie ein Spiel aller sechs Versus-Spielmodi ab (Standard oder Casual).",
+                    "en-US": "Complete one match of all six Versus game modes (Standard or Casual).",
+                    "es-ES": "Completar una partida en los seis modos de juego de Enfrentamiento (Estándar o Informal).",
+                    "fr-FR": "Terminez une partie dans les six modes Bataille (standard ou loisirs).",
+                    "it-IT": "Completa una partita per ognuna delle sei modalità Versus (modalità Standard o Arcade).",
+                    "ko-KR": "대결 모드에서 6종류의 모든 매치를 각각 한번씩 완료하십시오.(표준 또는 캐주얼)",
+                    "pl-PL": "Ukończ jeden mecz z każdego z sześciu trybów rywalizacji (tryb standardowy lub rekreacyjny).",
+                    "ru-RU": "Сыграть игру в каждом из шести видов Противостояния (стандартная или легкая игра).",
+                    "zh-CHT": "在 6 個對戰遊戲模式中，各完成一場配對遊戲 (標準或簡單)。",
+                    "pt-PT": "Conclua uma partida em todos os modos de jogo Versis (Padrão ou Casual).",
+                    "ja-JP": "対戦モードの 6 種類すべてのマッチで、それぞれ 1 つのマッチをクリアする (スタンダードまたはカジュアル)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "43.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "de-DE": "Willkommen im Horde-Modus",
+                    "en-US": "Welcome to Horde Mode",
+                    "es-ES": "Bienvenido al modo Horda",
+                    "fr-FR": "Bienvenue dans Horde",
+                    "it-IT": "Benvenuto alla modalità Orda",
+                    "ko-KR": "호드 모드에 오신 걸 환영합니다",
+                    "pl-PL": "Witamy w trybie hordy",
+                    "ru-RU": "Введение в режим \"Орда\"",
+                    "zh-CHT": "歡迎參加持久戰模式",
+                    "pt-PT": "Bem-vindo ao modo Horda",
+                    "ja-JP": "Horde へようこそ!"
+                },
+                "description": {
+                    "de-DE": "Überlebte die ersten 10 Wellen in Horde.",
+                    "en-US": "Survived the first 10 waves of Horde.",
+                    "es-ES": "Ha sobrevivido a las 10 primeras oleadas de Horda.",
+                    "fr-FR": "A survécu aux 10 premières vagues du mode Horde.",
+                    "it-IT": "Sei sopravvissuto alle prime 10 ondate della modalità Orda.",
+                    "ko-KR": "호드에서 첫 10번의 전투에서 생존했습니다.",
+                    "pl-PL": "Udało się przetrwać 10 pierwszych fal w trybie hordy.",
+                    "ru-RU": "За выживание в бою с 10 волнами Орды.",
+                    "zh-CHT": "已在持久戰的前 10 波攻擊存活下來。",
+                    "pt-PT": "Sobreviveu às 10 primeiras ondas do modo Horda.",
+                    "ja-JP": "Horde で最初の 10 ウェーブをクリアした"
+                },
+                "howto": {
+                    "de-DE": "Überleben Sie die ersten 10 Wellen im Horde-Modus (beliebige Schwierigkeit, beliebige Karte).",
+                    "en-US": "Survive the first 10 waves of Horde mode (any difficulty, any map).",
+                    "es-ES": "Sobrevivir a las 10 primeras oleadas del modo Horda (cualquier dificultad y mapa).",
+                    "fr-FR": "Survivez aux 10 premières vagues du mode Horde (toute difficulté, toute carte).",
+                    "it-IT": "Sopravvivi alle prime 10 ondate della modalità Orda (qualsiasi difficoltà, qualsiasi mappa).",
+                    "ko-KR": "난이도와 맵에 상관없이 호드 모드의 첫 10번의 전투에서 생존하십시오.",
+                    "pl-PL": "Przetrwaj 10 pierwszych fal w trybie hordy.",
+                    "ru-RU": "Выжить в бою с 10 волнами в режиме \"Орда\" (на любой сложности и карте).",
+                    "zh-CHT": "不限難度及地圖，在持久戰模式的前 10 波攻擊存活下來。",
+                    "pt-PT": "Sobreviva às 10 primeiras ondas do modo Horda (qualquer dificuldade, qualquer mapa).",
+                    "ja-JP": "Horde で最初の 10 ウェーブをクリアする (難易度とマップは任意)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "44.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "Willkommen im Bestie-Modus",
+                    "en-US": "Welcome to Beast Mode",
+                    "es-ES": "Bienvenido al modo Bestia",
+                    "fr-FR": "Bienvenue dans Bestial",
+                    "it-IT": "Benvenuto alla modalità Belva",
+                    "ko-KR": "비스트 모드에 오신 걸 환영합니다",
+                    "pl-PL": "Witamy w trybie bestii",
+                    "ru-RU": "Введение в режим \"Зверь\"",
+                    "zh-CHT": "歡迎參加殺戳戰場模式",
+                    "pt-PT": "Bem-vindo ao modo Besta",
+                    "ja-JP": "Beast へようこそ!"
+                },
+                "description": {
+                    "de-DE": "Schloss 12 Wellen im Bestie-Modus ab.",
+                    "en-US": "Completed the first 12 waves of Beast.",
+                    "es-ES": "Completadas las 12 oleadas de Bestia.",
+                    "fr-FR": "12 premières vagues du mode Bestial terminées.",
+                    "it-IT": "Hai completato tutte le 12 ondate della modalità Belva.",
+                    "ko-KR": "비스트에서 첫 12번의 전투를 완료했습니다.",
+                    "pl-PL": "Udało sie przetrwać wszystkie 12 fal w trybie bestii.",
+                    "ru-RU": "За победу над 12 первыми волнами в режиме \"Зверь\".",
+                    "zh-CHT": "已完成殺戳戰場的前 12 波攻擊。",
+                    "pt-PT": "Concluiu as 12 primeiras ondas do modo Besta.",
+                    "ja-JP": "Beast で 12 ウェーブをクリアした"
+                },
+                "howto": {
+                    "de-DE": "Überleben Sie alle 12 Wellen im Bestie-Modus (beliebige Schwierigkeit, beliebige Karte).",
+                    "en-US": "Survive all 12 waves of Beast mode (any difficulty, any map).",
+                    "es-ES": "Sobrevivir a las 12 oleadas del modo Bestia (cualquier dificultad y mapa).",
+                    "fr-FR": "Survivez aux 12 vagues du mode Bestial (toute difficulté, toute carte).",
+                    "it-IT": "Sopravvivi a tutte le 12 ondate della modalità Belva (qualsiasi difficoltà, qualsiasi mappa).",
+                    "ko-KR": "난이도와 맵에 상관없이 비스트 모드를 플레이하여 12번의 모든 전투에서 생존하십시오.",
+                    "pl-PL": "Przetrwaj wszystkie 12 fal w trybie bestii.",
+                    "ru-RU": "Пережить все 12 волн в режиме \"Зверь\" (на любой сложности и карте).",
+                    "zh-CHT": "不限難度及地圖，在殺戮戰場模式全部 12 波攻擊存活下來。",
+                    "pt-PT": "Sobreviva às 12 primeiras ondas do modo Besta (qualquer dificuldade, qualquer mapa).",
+                    "ja-JP": "Beast で 12 ウェーブをクリアする (難易度とマップは任意)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "45.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "Willkommen im Arcade-Modus",
+                    "en-US": "Welcome to Arcade Mode",
+                    "es-ES": "Bienvenido al modo arcade",
+                    "fr-FR": "Bienvenue dans Arcade",
+                    "it-IT": "Benvenuto alla modalità Arcade",
+                    "ko-KR": "아케이드 모드에 어서오세요",
+                    "pl-PL": "Witamy w trybie zręcznościowym",
+                    "ru-RU": "Введение в аркадный режим",
+                    "zh-CHT": "歡迎參加過關挑戰賽模式",
+                    "pt-PT": "Bem-vindo ao modo Arcade",
+                    "ja-JP": "アーケードへようこそ!"
+                },
+                "description": {
+                    "de-DE": "Schloss 5 Arcade-Kampagnenkapitel in Co-op ab.",
+                    "en-US": "Completed 5 Arcade Campaign chapters in co-op.",
+                    "es-ES": "Completados 5 capítulos de la Campaña arcade en modo cooperativo.",
+                    "fr-FR": "5 chapitres de la campagne Arcade en mode coopération terminés.",
+                    "it-IT": "Hai completato 5 capitoli della modalità Arcade della Campagna in Co-op.",
+                    "ko-KR": "협동 모드에서 5개의 아케이드 캠페인을 완료했습니다.",
+                    "pl-PL": "Ukończono 5 rozdziałów kampanii zręcznościowej w trybie współpracy.",
+                    "ru-RU": "За завершение 5 глав кампании в аркадном режиме совместной игры.",
+                    "zh-CHT": "已在合作模式完成 5 個過關挑戰賽戰役章節。",
+                    "pt-PT": "Concluiu 5 capítulos da campanha Arcade no modo cooperativo.",
+                    "ja-JP": "協力プレイでアーケードの Chapter を 5 章クリアした"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie 5 Arcade-Kampagnenkapitel in Co-op ab (beliebige Schwierigkeit).",
+                    "en-US": "Complete 5 Arcade Campaign chapters in co-op (any difficulty).",
+                    "es-ES": "Completar 5 capítulos de la Campaña arcade en modo cooperativo (cualquier dificultad).",
+                    "fr-FR": "Terminez 5 chapitres de la campagne Arcade en mode coopération (toute difficulté).",
+                    "it-IT": "Completa 5 capitoli della modalità Arcade della Campagna in Co-op (qualsiasi difficoltà).",
+                    "ko-KR": "난이도에 상관없이 협동 모드로 5개의 아케이드 캠페인 챕터를 완료하십시오.",
+                    "pl-PL": "Ukończ 5 rozdziałów kampanii zręcznościowej w trybie współpracy.",
+                    "ru-RU": "Завершите 5 глав кампании в аркадном режиме совместной игры (на любой сложности).",
+                    "zh-CHT": "不限難度，在合作模式完成 5 個過關挑戰賽戰役章節。",
+                    "pt-PT": "Conclua 5 capítulos da campanha Arcade no modo cooperativo (qualquer dificuldade).",
+                    "ja-JP": "協力プレイでアーケードの Chapter を 5 章クリアする (難易度は任意)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "46.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "de-DE": "Willkommen in den Großen Ligen",
+                    "en-US": "Welcome to the Big Leagues",
+                    "es-ES": "Bienvenido a la primera división",
+                    "fr-FR": "Bienvenue chez les grands",
+                    "it-IT": "Benvenuto ai Campionati maggiori",
+                    "ko-KR": "빅 리그 진출",
+                    "pl-PL": "Witamy w pierwszej lidze",
+                    "ru-RU": "Добро пожаловать в большую лигу",
+                    "zh-CHT": "歡迎來到大聯盟",
+                    "pt-PT": "Bem-vindo às ligas dos campeões",
+                    "ja-JP": "ビッグ リーグへようこそ\n\n"
+                },
+                "description": {
+                    "de-DE": "Ihr Können und Ihre Erfahrung zeigen, dass Sie bereit sind für den Standard-Versus-Multiplayer.",
+                    "en-US": "Your skill and experience means you’re ready for Standard Versus multiplayer.",
+                    "es-ES": "Su habilidad y experiencia lo capacitan para el Enfrentamiento multijugador Normal.",
+                    "fr-FR": "Avec votre niveau et votre expérience, vous pouvez jouer en Bataille multijoueur.",
+                    "it-IT": "Grazie alla tua abilità ed esperienza sei pronto per il multiplayer Versus standard.",
+                    "ko-KR": "당신의 기술과 경험을 바탕으로 일반 대결 멀티 플레이에서 활약할 준비가 되었습니다.",
+                    "pl-PL": "Twoje umiejętności pozwalają ci grać w wieloosobowym trybie rankingowej rywalizacji.",
+                    "ru-RU": "Вы показали навыки, которые позволят вам принять участие в конкурсной игре Противостояние.",
+                    "zh-CHT": "您的技巧和經驗表示您已經準備好參加多人標準對戰遊戲。",
+                    "pt-PT": "Sua habilidade e experiência indicam que você está pronto para o multijogador Versus Normal.",
+                    "ja-JP": "スタンダードの対戦に臨めるようになった"
+                },
+                "howto": {
+                    "de-DE": "Demonstrieren Sie Ihr Können im Casual-Versus-Multiplayer.",
+                    "en-US": "Demonstrate your skill in Casual Versus multiplayer.",
+                    "es-ES": "Demuestre su habilidad en Enfrentamiento multijugador Informal.",
+                    "fr-FR": "Montrez de quoi vous êtes capable en Bataille multijoueur (loisirs).",
+                    "it-IT": "Dimostra la tua abilità in multiplayer Versus facile.",
+                    "ko-KR": "캐주얼 대결 멀티 플레이에서 실력을 발휘하십시오.",
+                    "pl-PL": "Zaprezentuj swoje umiejętności w rekreacyjnym trybie wieloosobowej rywalizacji.",
+                    "ru-RU": "Продемонстрировать свои навыки в легком режиме Противостояния.",
+                    "zh-CHT": "在多人簡單對戰遊戲中展現您的技巧。",
+                    "pt-PT": "Demonstre suas habilidades em multijogador Recreacional Versus.",
+                    "ja-JP": "カジュアルの対戦でプレイする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "0",
+            "imageId": "47.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "de-DE": "Moment, wie spät ist es?",
+                    "en-US": "Wait, What Time is it?",
+                    "es-ES": "Un momento, ¿qué hora es?",
+                    "fr-FR": "Mais quelle heure est-il ?",
+                    "it-IT": "Ehi, che ore sono?",
+                    "ko-KR": "잠깐, 지금 몇 시야?",
+                    "pl-PL": "Chwila, która godzina?",
+                    "ru-RU": "Подождите, который час?",
+                    "zh-CHT": "等等，現在幾點了？",
+                    "pt-PT": "Espere, que horas são?",
+                    "ja-JP": "待て、今何時だ?"
+                },
+                "description": {
+                    "de-DE": "Hat den fortlaufenden Spiel-Bonus in Versus-Multiplayer ausgeschöpft.",
+                    "en-US": "Maxed the Consecutive Match Bonus in Versus multiplayer.",
+                    "es-ES": "Ha obtenido la máxima bonificación por partidas consecutivas en Enfrentamiento multijugador.",
+                    "fr-FR": "Obtenez un bonus maximum de parties consécutives en Bataille multijoueur.",
+                    "it-IT": "Hai ottenuto il massimo bonus Partite Consecutive in Versus multiplayer.",
+                    "ko-KR": "대결 멀티 플레이에서 최대 연속 매치 보너스에 도달했습니다.",
+                    "pl-PL": "Uzyskano maksymalną premię za serię rozgrywek w wieloosobowym trybie rywalizacji.",
+                    "ru-RU": "За максимальную премию за последовательные игры в режиме Противостояние.",
+                    "zh-CHT": "已在多人對戰遊戲中獲得最高連續配對加分。",
+                    "pt-PT": "Conseguiu o bônus máximo por partidas consecutivas em multijogador Versus.",
+                    "ja-JP": "対戦モードで最高の連続マッチ ボーナスを獲得した"
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie den maximalen fortlaufenden Spiel-Bonus im Versus-Spiel (Standard oder Casual).",
+                    "en-US": "Earn the maximum Consecutive Match Bonus in Versus multiplayer (Standard or Casual).",
+                    "es-ES": "Obtener la máxima bonif. por partidas consecutivas en Enfrentamiento multi. (Estándar o Informal).",
+                    "fr-FR": "Gagnez le bonus maximum de parties consécutives en Bataille multijoueur (standard ou loisirs).",
+                    "it-IT": "Ottieni il massimo bonus Partite Consecutive in Versus multiplayer (Standard o Arcade).",
+                    "ko-KR": "대결 멀티 플레이에서 최대 연속 매치 보너스를 획득하십시오.(표준 또는 캐주얼)",
+                    "pl-PL": "Zdobądź maksymalną premię za serię gier w rywalizacji (tryb standardowy lub rekreacyjny).",
+                    "ru-RU": "Заработать макс. премию за последовательные игры в Противостоянии (стандартная или легкая игра).",
+                    "zh-CHT": "在多人對戰遊戲中獲得最高連續配對加分 (標準或簡單)。",
+                    "pt-PT": "Ganhe o bônus máximo por partidas consecutivas em multijogador Versus (Padrão ou Casual).",
+                    "ja-JP": "対戦モードで最高のマッチ ボーナスを獲得する (スタンダードまたはカジュアル)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "48.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "Leuchten",
+                    "en-US": "Lambency",
+                    "es-ES": "Lambentismo",
+                    "fr-FR": "Lambentation",
+                    "it-IT": "Condizione Splendente",
+                    "ko-KR": "변이",
+                    "pl-PL": "Zaraza",
+                    "ru-RU": "Ламбентность",
+                    "zh-CHT": "螢光病毒",
+                    "pt-PT": "Lambência",
+                    "ja-JP": "ランベント化"
+                },
+                "description": {
+                    "de-DE": "Exekutierte einen infizierten Spieler und wird jetzt zum Leuchtenden.",
+                    "en-US": "Executed an infected player and is now turning Lambent.",
+                    "es-ES": "Ha ejecutado a un jugador infectado y ahora se está convirtiendo en Lambent.",
+                    "fr-FR": "Tuez un joueur infecté qui s'est transformé en lambent.",
+                    "it-IT": "Hai ucciso con un'esecuzione un giocatore infettato e ora si sta trasformando in Splendente.",
+                    "ko-KR": "감염된 플레이어를 처형하고 램번트가 되었습니다.",
+                    "pl-PL": "Dokonano egzekucji na zarażonym graczu i teraz sam jesteś zarażony.",
+                    "ru-RU": "За уничтожение зараженного игрока и превращение в Ламбента.",
+                    "zh-CHT": "已處決受到感染並成為螢光族的玩家。",
+                    "pt-PT": "Executou um jogador infectado e agora está virando Lambent.",
+                    "ja-JP": "感染したプレイヤーを処刑して、自分がランベント化しつつある"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie Epic-Angestellte oder jmnd, der Leuchten hat, im Versus-Multiplayer (belieb. Modus).",
+                    "en-US": "Execute an Epic employee, or someone who already has Lambency, in Versus multiplayer (any mode).",
+                    "es-ES": "Ejecutar a un empleado de Epic o alguien con Lambentismo en Enfrentamiento multi. (cualquier modo).",
+                    "fr-FR": "Tuez un employé Epic ou quelqu'un qui est devenu un lambent en Bataille multijoueur (tout mode).",
+                    "it-IT": "Uccidi 1 impiegato Epic, o qualcuno in cond. Splendente, in Versus multiplayer (qualsiasi modalità).",
+                    "ko-KR": "모드에 상관없이 대결 멀티 플레이에서 Epic 직원 또는 이미 변이된 상대를 처형하십시오.",
+                    "pl-PL": "W wieloosobowej rywalizacji dokonaj egzekucji na pracowniku Epic lub zarażonym graczu.",
+                    "ru-RU": "Убейте сотрудника Epic или убившего его игрока в режиме Противостояние (любой режим).",
+                    "zh-CHT": "不限模式，在多人對戰遊戲中處決 Epic 員工或已經感染螢光病毒的人。",
+                    "pt-PT": "Abata um funcionário Épico ou alguém que está em lambência no multijogador Versus (qualquer modo).",
+                    "ja-JP": "対戦型マルチプレイヤーで Epic のスタッフまたはランベント化しているプレイヤーを処刑する (モードは任意)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "49.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "de-DE": "Salonlöwe",
+                    "en-US": "Socialite",
+                    "es-ES": "Popular",
+                    "fr-FR": "Mondanités",
+                    "it-IT": "Vita mondana",
+                    "ko-KR": "유명 인사",
+                    "pl-PL": "Celebryta",
+                    "ru-RU": "Социализация",
+                    "zh-CHT": "社交名流",
+                    "pt-PT": "Socialite",
+                    "ja-JP": "社交界の花形"
+                },
+                "description": {
+                    "de-DE": "Gewann die \"Kriegsunterstützer\" Onyxmedaille.",
+                    "en-US": "Earned the Onyx \"War Supporter\" medal.",
+                    "es-ES": "Ha obtenido la medalla de ónice \"Belicoso\".",
+                    "fr-FR": "Médaille onyx \"Belliqueux\" gagnée.",
+                    "it-IT": "Hai ottenuto la medaglia Onyx \"Supporto\".",
+                    "ko-KR": "오닉스 \"전투 협력자\" 메달을 획득했습니다.",
+                    "pl-PL": "Zdobyto onyksowy medal „Orędownik wojny”.",
+                    "ru-RU": "За получение ониксовой медали \"Поборник войны\".",
+                    "zh-CHT": "已獲得戰爭支持者黑甲勛章。",
+                    "pt-PT": "Ganhou a medalha Onyx  de \"Apoiador da Guerra\".",
+                    "ja-JP": "ウォー サポーターオニキス メダルを獲得した"
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie die \"Kriegsunterstützer\" Onyxmedaille.",
+                    "en-US": "Earn the Onyx \"War Supporter\" medal.",
+                    "es-ES": "Obtenga la medalla de ónice \"Belicoso\".",
+                    "fr-FR": "Gagnez la médaille onyx \"Belliqueux\".",
+                    "it-IT": "Ottieni la medaglia Onyx \"Supporto\".",
+                    "ko-KR": "오닉스 \"전투 협력자\" 메달을 획득하십시오.",
+                    "pl-PL": "Zdobądź onyksowy medal „Orędownik wojny”.",
+                    "ru-RU": "Получите ониксовую медаль \"Поборник войны\".",
+                    "zh-CHT": "獲得戰爭支持者黑甲勛章。",
+                    "pt-PT": "Ganhe a medalha Onyx  de \"Apoiador da Guerra\".",
+                    "ja-JP": "ウォー サポーター オニキス メダルを獲得する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "70",
+            "imageId": "50.png"
+        },
+        "51": {
+            "text": {
+                "name": {
+                    "de-DE": "Der perfekte Gastgeber",
+                    "en-US": "The Host with the Most",
+                    "es-ES": "El mejor anfitrión",
+                    "fr-FR": "Hôte qui a la cote",
+                    "it-IT": "Super-Host",
+                    "ko-KR": "나 이런 호스트야",
+                    "pl-PL": "Host dowódcy hordy",
+                    "ru-RU": "Гостеприимный хозяин",
+                    "zh-CHT": "最佳主持人",
+                    "ja-JP": "パーフェクト ホスト",
+                    "pt-PT": "O Anfitrião Mais Generoso"
+                },
+                "description": {
+                    "de-DE": "Ihren Freunden die Sehenswürdigkeiten des Horde-Kommandopakets gezeigt.",
+                    "en-US": "Showed your friends the Horde Command Pack sights.",
+                    "es-ES": "Ha enseñado a sus amigos las vistas del pack Mando de Horda.",
+                    "fr-FR": "Vous avez fait découvrir le pack Commandement Horde à vos amis.",
+                    "it-IT": "Hai mostrato agli amici il pacchetto Commando Orda.",
+                    "ko-KR": "친구들에게 호드 사령부 팩을 보여주었습니다.",
+                    "pl-PL": "Pokazano przyjaciołom widoki z zestawu dowódcy hordy.",
+                    "ru-RU": "За показ друзьям набора командира для Орды.",
+                    "zh-CHT": "帶領您的好友玩過持久戰指揮套件的地圖。",
+                    "ja-JP": "フレンドに Horde コマンド パックを見せた",
+                    "pt-PT": "Mostrou aos amigos as atrações turísticas do Pacote Comando da Horda."
+                },
+                "howto": {
+                    "de-DE": "Privates Horde-Spiel mit 5 Spielern auf Horde-Kommandopaket-Karte (Schwierigkeit beliebig) hosten. ",
+                    "en-US": "Host a private Horde Match with a party of 5 players on any Horde Command Pack map (any difficulty).",
+                    "es-ES": "Aloje una part. priv. de Horda con grupo de 5 jug. en un mapa del pack Mando de Horda (cualq. dif.).",
+                    "fr-FR": "Hébergez 1 partie privée Horde 5 joueurs sur 1 carte du pack Commandement Horde (toute difficulté).",
+                    "it-IT": "Ospita 1 partita privata Orda con 5 giocatori su una mappa di Commando Orda (qualsiasi difficoltà).",
+                    "ko-KR": "난이도에 상관없이 5명의 플레이어로 구성된 파티로 호드 사령부 팩 맵에서 비공개 호드 매치를 호스트하십시오.",
+                    "pl-PL": "Utwórz prywatną grę hordy złożoną z drużyny 5 osobowej na dowolnej mapie z zestawu dowódcy hordy.",
+                    "ru-RU": "Пригласите команду из 5 игроков в частную игру в режиме Орда на карте из набора командира для Орды.",
+                    "zh-CHT": "在任一持久戰指揮套件地圖上，主持一場由 5 名玩家所組成隊伍的未公開持久戰配對遊戲 (任一難度)。",
+                    "ja-JP": "Horde コマンド パックの任意のマップで 5 人のプレイヤーからなるプライベート Horde マッチをホスト (難易度は任意)",
+                    "pt-PT": "Hospede uma partida priv. de Horda com 5 jogadores em mapas do Pacote Comando Horda (qualq. dific.)."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "51.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "de-DE": "Viel zu sehen, viele zu töten",
+                    "en-US": "Places to See, People to Destroy",
+                    "es-ES": "Lugares que ver, gente que matar",
+                    "fr-FR": "Lieux à visiter, gens à tuer",
+                    "it-IT": "Luoghi nuovi, soliti massacri...",
+                    "ko-KR": "여기에도 인간이 있군",
+                    "pl-PL": "Nowe miejca, nowi ludzie",
+                    "ru-RU": "Людишек не жалеть! ",
+                    "zh-CHT": "趕盡殺絕",
+                    "ja-JP": "見るべき場所、倒すべき人間",
+                    "pt-PT": "Pessoas Para Ver e Destruir"
+                },
+                "description": {
+                    "de-DE": "Neue Orte zur Auslöschung der Menschheit gefunden.",
+                    "en-US": "Found new places to destroy all humans.",
+                    "es-ES": "Ha encontrado nuevos lugares en los que destruir a los humanos.",
+                    "fr-FR": "Nouveaux lieux repérés pour massacre d'humains.",
+                    "it-IT": "Hai trovato nuovi luoghi dove distruggere gli umani.",
+                    "ko-KR": "처치해야 할 인간들이 남아 있는 새로운 장소를 찾았습니다.",
+                    "pl-PL": "Znaleziono nowe miejsca, aby zniszczyć wszystkich ludzi.",
+                    "ru-RU": "За поиск новых мест где можно убить всех людей.",
+                    "zh-CHT": "找到新場所來消滅所有人類。",
+                    "ja-JP": "すべての人間を倒す新しい場所を見つけた",
+                    "pt-PT": "Encontrou novos lugares para destruir todos os humanos."
+                },
+                "howto": {
+                    "de-DE": "Privates Bestie-Spiel mit 5 Spielern auf Horde-Kommandopaketkarte (Schwierigkeit beliebig) hosten.",
+                    "en-US": "Host a private Beast Match with a party of 5 players on any Horde Command Pack map (any difficulty).",
+                    "es-ES": "Aloje una part. priv. de Bestia con grupo de 5 jug. en mapa del pack Mando de Horda (cualq. dif.).",
+                    "fr-FR": "Hébergez 1 partie privée Bestial 5 joueurs sur 1 carte du pack Commandement Horde (tte difficulté).",
+                    "it-IT": "Ospita 1 partita privata Belva con 5 giocatori su una mappa di Commando Orda (qualsiasi difficoltà).",
+                    "ko-KR": "난이도에 상관없이 5명의 플레이어로 구성된 파티로 호드 사령부 팩 맵에서 비공개 비스트 매치를 호스트하십시오.",
+                    "pl-PL": "Utwórz prywatną grę bestii złożoną z drużyny 5 osobowej na dowolnej mapie z zestawu dowódcy hordy.",
+                    "ru-RU": "Пригласите команду из 5 игроков в частную игру в режиме Зверь на карте из набора командира для Орды.",
+                    "zh-CHT": "在任一持久戰指揮套件地圖上，主持一場由 5 名玩家所組成隊伍的未公開殺戮戰場配對遊戲 (任一難度)。",
+                    "ja-JP": "Horde コマンド パックの任意のマップで 5 人のプレイヤーからなるプライベート Beast マッチをホスト (難易度は任意)",
+                    "pt-PT": "Hospede uma partida priv. de Besta com 5 jogadores em mapas do Pacote Comando Horda (qualq. dific.)."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "52.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "de-DE": "Wofür ist dieser Knopf da?",
+                    "en-US": "What Does This Button Do?",
+                    "es-ES": "¿Para qué sirve este botón?",
+                    "fr-FR": "À quoi sert ce bouton ?",
+                    "it-IT": "Questo pulsante a cosa serve?",
+                    "ko-KR": "이 단추는 뭐지?",
+                    "pl-PL": "A co robi ten przycisk?",
+                    "ru-RU": "Для чего же эта кнопка?",
+                    "zh-CHT": "超級火力",
+                    "ja-JP": "驚異のスイッチ",
+                    "pt-PT": "O Que Esse Botão Faz?"
+                },
+                "description": {
+                    "de-DE": "Das Silverback-Upgrade bringt eine gute Rendite ein.",
+                    "en-US": "Good ROI on that Silverback upgrade.",
+                    "es-ES": "Buen rendimiento de esa actualización de Silverback.",
+                    "fr-FR": "Important RSI avec cette amélioration Silverback.",
+                    "it-IT": "Buon ROI sul quel potenziamento Silverback.",
+                    "ko-KR": "실버백 업그레이드로 높은 효과를 보았습니다.",
+                    "pl-PL": "Wskaźnik rentowności Silverbacka na dobrym poziomie.",
+                    "ru-RU": "За высокий КПД при использовании поргузчика.",
+                    "zh-CHT": "升級您的銀背機甲是項不錯的投資吧。",
+                    "ja-JP": "シルバーバックで多大な戦果をあげた",
+                    "pt-PT": "Bom retorno na atualização do Silverback."
+                },
+                "howto": {
+                    "de-DE": "500 Silverback-Raketen-Abschüsse im Horde-Modus (beliebige Karte, beliebige Schwierigkeit).",
+                    "en-US": "Get 500 Silverback rocket kills in Horde (any map, any difficulty).",
+                    "es-ES": "Consiga 500 bajas con cohetes Silverback en Horda (cualquier mapa, cualquier dificultad).",
+                    "fr-FR": "Obtenez 500 tués à la roquette Silverback en mode Horde (toute carte, toute difficulté).",
+                    "it-IT": "Esegui 500 uccisioni con il lanciarazzi del Silverback in Orda (qualsiasi mappa e difficoltà).",
+                    "ko-KR": "난이도와 맵에 상관없이 호드 모드에서 실버백 로켓으로 500마리를 사살하십시오.",
+                    "pl-PL": "Zabij 500 przeciwników rakietami Silverbacka w trybie hordy.",
+                    "ru-RU": "Уничтожьте 500 противников ракетами погрузчика в режиме Орда (на любой карте и сложности).",
+                    "zh-CHT": "在持久戰模式中，使用銀背機甲火箭殺死 500 名敵人 (任一地圖，任一難度)。",
+                    "ja-JP": "Horde でシルバーバックのロケットを使用してキルを 500 回達成 (難易度とマップは任意)",
+                    "pt-PT": "Obtenha 500 vítimas com míssies de Silverback no modo Horda (qualquer mapa e dificuldade)."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "53.png"
+        },
+        "54": {
+            "text": {
+                "name": {
+                    "de-DE": "It's Hammer Time!",
+                    "en-US": "It's Hammer Time!",
+                    "es-ES": "¡Hora del Martillo!",
+                    "fr-FR": "C'est l'heure du Rayon !",
+                    "it-IT": "È ora di martellare!",
+                    "ko-KR": "역시 해머 오브 던은 끝내줘!",
+                    "pl-PL": "Czas na Młot!",
+                    "ru-RU": "Время Молота!",
+                    "zh-CHT": "重鎚出擊！",
+                    "ja-JP": "イッツ ハンマー タイム!",
+                    "pt-PT": "Está na Hora do Martelo!"
+                },
+                "description": {
+                    "de-DE": "Der Hammer der Morgenröte ist jetzt einsatzbereit!",
+                    "en-US": "The Hammer of Dawn is now online!",
+                    "es-ES": "¡El Martillo del Alba está listo!",
+                    "fr-FR": "Le Rayon de l'Aube est disponible en ligne !",
+                    "it-IT": "Il Martello dell'Alba è attivo!",
+                    "ko-KR": "이제 해머 오브 던을 사용할 수 있습니다!",
+                    "pl-PL": "Młot Świtu w gotowości!",
+                    "ru-RU": "Молот Зари теперь в действии!",
+                    "zh-CHT": "黎明之鎚已經連線！",
+                    "ja-JP": "ドーンハンマーはオンラインよ",
+                    "pt-PT": "O Martelo da Aurora está pronto!"
+                },
+                "howto": {
+                    "de-DE": "Die Festung einer Horde-Kommandozentrale auf Level 4 upgraden.",
+                    "en-US": "Achieve Level 4 in Horde Command Center fortifications.",
+                    "es-ES": "Llegue al nivel 4 de las fortificaciones de los centros de mando de Horda.",
+                    "fr-FR": "Terminez le niveau 4 en Fortifications Commandement Horde.",
+                    "it-IT": "Raggiungi il livello 4 nelle fortificazioni del centro di comando Orda.",
+                    "ko-KR": "호드 사령부 요새 시설 레벨 4에 도달하십시오.",
+                    "pl-PL": "Osiągnij 4 poziom Sztabu w trybie hordy.",
+                    "ru-RU": "Достигните 4 уровня Командного центра в режима \"Орда\".",
+                    "zh-CHT": "將持久戰模式中的指揮中心防禦工事升級到等級 4。",
+                    "ja-JP": "Horde で司令部の防衛設備をレベル 4 にする",
+                    "pt-PT": "Atinja o nível 4 em fortificações de Centro de Comando no modo Horda."
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "50",
+            "imageId": "54.png"
+        },
+        "55": {
+            "text": {
+                "name": {
+                    "de-DE": "Die glorreichen Fünf",
+                    "en-US": "Kill Locust (Like a Boss)",
+                    "es-ES": "Matar Locust (como un jefe)",
+                    "fr-FR": "Éliminez Locuste (Comme un Boss)",
+                    "it-IT": "Uccidi una locusta (come boss).",
+                    "ko-KR": "보스도 결국 로커스트일 뿐",
+                    "pl-PL": "Zabij szarańcze, jak boss",
+                    "ru-RU": "Убей Саранчу как босс!",
+                    "zh-CHT": "消滅獸族 (王者之尊)",
+                    "ja-JP": "ローカスト キラー",
+                    "pt-PT": "Mate Locusts (Como um Chefe)"
+                },
+                "description": {
+                    "de-DE": "Wir sind die Elite-Onyx-Wachen!",
+                    "en-US": "We are the elite Onyx Guard!",
+                    "es-ES": "¡Somos la Guardia Ónice de élite!",
+                    "fr-FR": "Nous sommes la garde d'élite Onyx !",
+                    "it-IT": "Siamo la Guardia d'élite Onyx!",
+                    "ko-KR": "우리는 엘리트 오닉스 호위병이다!",
+                    "pl-PL": "Jesteśmy onyksowymi gwardzistami!",
+                    "ru-RU": "Мы - элита Ониксовых Стражей!",
+                    "zh-CHT": "我們是最優秀的黑甲護衛！",
+                    "ja-JP": "俺たちオニキスガード エリート!",
+                    "pt-PT": "Somos a elite da Guarda Onyx!"
+                },
+                "howto": {
+                    "de-DE": "Als 5 Onyx-Wachen eine Bosswelle besiegen (Schwierigkeit \"Hardcore\").",
+                    "en-US": "Defeat a Boss Wave as 5 Onyx Guards (Hardcore difficulty).",
+                    "es-ES": "Supere una oleada de jefe con 5 guardias Ónice (dificultad Elevada).",
+                    "fr-FR": "Éliminez une vague Boss avec 5 gardes Onyx (difficulté Vétéran).",
+                    "it-IT": "Sconfiggi un'ondata boss nei panni di 5 Guardie Onyx (livello Difficile).",
+                    "ko-KR": "어려움 난이도에서 5명의 오닉스 호위병이 되어 보스 전투를 승리하십시오.",
+                    "pl-PL": "Przejdz falę bossa drużyną złożoną z 5 onyksowych gwardzistów (na poziomie hardkora).",
+                    "ru-RU": "Победи волну боссов командой из 5 Ониксовых Стражей на высокой сложности.",
+                    "zh-CHT": "扮演 5 名黑甲護衛，擊退一波大頭目攻擊 (難度困難)。",
+                    "ja-JP": "難易度ハードコアで 5 人のオニキスガードとしてボス ウェーブをクリア",
+                    "pt-PT": "Derrote uma onda de chefes com 5 Guardas Onyx (qualquer dificuldade)."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "100",
+            "imageId": "55.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "de-DE": "Willkommen beim Zeta-Trupp",
+                    "en-US": "Welcome To Zeta",
+                    "es-ES": "Bienvenido a Zeta",
+                    "fr-FR": "Bienvenue dans Zeta",
+                    "it-IT": "Benvenuto a Zeta",
+                    "ko-KR": "제타에 온 걸 환영한다",
+                    "pl-PL": "Witaj w  Zeta",
+                    "ru-RU": "Добро пожаловать в Дзету",
+                    "zh-CHT": "歡迎來到 Z 小隊",
+                    "ja-JP": "ゼータへようこそ!",
+                    "pt-PT": "Bem-vindo ao Zeta"
+                },
+                "description": {
+                    "de-DE": "\"RAAM's Shadow\" in der Standard-Kampagne abgeschlossen.",
+                    "en-US": "Completed \"RAAM's Shadow\" in Standard Campaign.",
+                    "es-ES": "Ha terminado 'Sombra de RAAM' en la Campaña estándar.",
+                    "fr-FR": "Vous avez terminé la campagne standard RAAM's Shadow.",
+                    "it-IT": "L'ombra di RAAM è stata completata nella campagna standard.",
+                    "ko-KR": "라암의 그림자 표준 캠페인을 완료했습니다.",
+                    "pl-PL": "Ukończono RAAM's Shadow w kampanii standardowej.",
+                    "ru-RU": "За прохождение стандартной кампании \"RAAM's Shadow\" на любом уровне сложности.",
+                    "zh-CHT": "已在標準戰役模式完成蘭姆將軍的暗影。",
+                    "ja-JP": "ラームの影のスタンダードをクリアした",
+                    "pt-PT": "Concluiu o \"RAAM's Shadow\" na Campanha Normal."
+                },
+                "howto": {
+                    "de-DE": "Die Standard-Kampagne von \"RAAM's Shadow\" auf beliebiger Schwierigkeit abschließen.",
+                    "en-US": "Complete \"RAAM's Shadow\" in Standard Campaign on any difficulty.",
+                    "es-ES": "Termine 'Sombra de RAAM' en la Campaña estándar en cualquier dificultad.",
+                    "fr-FR": "Terminez la campagne standard RAAM's Shadow dans n'importe quelle difficulté.",
+                    "it-IT": "Completa L'ombra di RAAM nella campagna standard a qualsiasi difficoltà.",
+                    "ko-KR": "난이도에 상관없이 라암의 그림자 표준 캠페인을 완료하십시오.",
+                    "pl-PL": "Przejdź standardową kampanię RAAM's Shadow na dowolnym poziomie trudności.",
+                    "ru-RU": "Пройти стандартную кампанию \"RAAM's Shadow\" на любом уровне сложности.",
+                    "zh-CHT": "不限難度，在標準戰役模式中完成蘭姆將軍的暗影。",
+                    "ja-JP": "ラームの影のスタンダードをクリアする (難易度は任意)",
+                    "pt-PT": "Conclua o \"RAAM's Shadow\" na Campanha Normal em qualquer dificuldade."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "56.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "de-DE": "Konkurrenz belebt das Geschäft",
+                    "en-US": "Some Friendly Competition",
+                    "es-ES": "Competición amistosa",
+                    "fr-FR": "Compétition amicale",
+                    "it-IT": "Un po' di sana competizione",
+                    "ko-KR": "선의의 경쟁",
+                    "pl-PL": "Przyjacielska konkurencja",
+                    "ru-RU": "Дружеское соревнование",
+                    "zh-CHT": "好一場友誼賽",
+                    "ja-JP": "切磋琢磨",
+                    "pt-PT": "Competição Amigável"
+                },
+                "description": {
+                    "de-DE": "\"RAAM's Shadow\" in der Arcade-Kampagne abgeschlossen.",
+                    "en-US": "Completed \"RAAM's Shadow\" in Arcade Campaign.",
+                    "es-ES": "Ha terminado 'Sombra de RAAM' en la Campaña arcade.",
+                    "fr-FR": "Vous avez terminé la campagne Arcade de RAAM's Shadow.",
+                    "it-IT": "L'ombra di RAAM è stata completata nella campagna arcade.",
+                    "ko-KR": "라암의 그림자 아케이드 캠페인을 완료했습니다.",
+                    "pl-PL": "Ukończono RAAM's Shadow w kampanii zręcznościowej.",
+                    "ru-RU": "За прохождение кампании \"RAAM's Shadow\" в аркадном режиме на любом уровне сложности.",
+                    "zh-CHT": "已在過關挑戰賽模式完成蘭姆將軍的暗影。",
+                    "ja-JP": "ラームの影のアーケードをクリアした",
+                    "pt-PT": "Concluiu o \"RAAM's Shadow\" na Campanha Arcade."
+                },
+                "howto": {
+                    "de-DE": "Die Arcade-Kampagne von \"RAAM's Shadow\" in beliebiger Schwierigkeit abschließen.",
+                    "en-US": "Complete \"RAAM's Shadow\" in Arcade Campaign on any difficulty.",
+                    "es-ES": "Termine 'Sombra de RAAM' en la Campaña arcade en cualquier dificultad.",
+                    "fr-FR": "Terminez la campagne Arcade de RAAM's Shadow dans n'importe quelle difficulté.",
+                    "it-IT": "Completa L'ombra di RAAM nella campagna arcade a qualsiasi difficoltà.",
+                    "ko-KR": "난이도에 상관없이 라암의 그림자 아케이드 캠페인을 완료하십시오.",
+                    "pl-PL": "Przejdź zręcznościową kampanię RAAM's Shadow na dowolnym poziomie trudności.",
+                    "ru-RU": "Пройти кампанию \"RAAM's Shadow\" в аркадном режиме на любом уровне сложности.",
+                    "zh-CHT": "不限難度，在過關挑戰賽模式中完成蘭姆將軍的暗影。",
+                    "ja-JP": "ラームの影のアーケードをクリアする (難易度は任意)",
+                    "pt-PT": "Conclua o \"RAAM's Shadow\" na Campanha Arcade em qualquer dificuldade."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "57.png"
+        },
+        "58": {
+            "text": {
+                "name": {
+                    "de-DE": "Dafür sind Freunde ja da",
+                    "en-US": "Help From My Friends",
+                    "es-ES": "Ayuda de mis amigos",
+                    "fr-FR": "Avoir un bon copain",
+                    "it-IT": "Amici in aiuto",
+                    "ko-KR": "친구야 도와줘",
+                    "pl-PL": "Przyjacielska pomoc",
+                    "ru-RU": "Помощь моих друзей",
+                    "zh-CHT": "來自好友的協助",
+                    "ja-JP": "友の助け",
+                    "pt-PT": "Ajuda dos Amigos"
+                },
+                "description": {
+                    "de-DE": "\"RAAM's Shadow\" im 4-Spieler-Co-op abgeschlossen.",
+                    "en-US": "Completed \"RAAM's Shadow\" in 4 player co-op.",
+                    "es-ES": "Ha terminado Sombra de RAAM en cooperativo con 4 jugadores.",
+                    "fr-FR": "Vous avez terminé RAAM's Shadow en coopération à 4 joueurs.",
+                    "it-IT": "L'ombra di RAAM è stata completata in modalità Co-op a 4 giocatori.",
+                    "ko-KR": "4인 협동 모드에서 \"라암의 그림자\"를 완료했습니다.",
+                    "pl-PL": "Ukończono RAAM's Shadow w kooperacji dla 4 graczy.",
+                    "ru-RU": "За совместное прохождение \"RAAM's Shadow\" (4 игрока).",
+                    "zh-CHT": "已在 4 個玩家的合作模式完成「蘭姆將軍的暗影」。",
+                    "ja-JP": "4 人の協力プレイでラームの影をクリア",
+                    "pt-PT": "Concluiu o \"RAAM's Shadow\" no modo cooperativo para 4 jogadores."
+                },
+                "howto": {
+                    "de-DE": "\"RAAM's Shadow\" im 4-Spieler-Co-op im Arcade- oder Standard-Modus abschließen.",
+                    "en-US": "Complete \"RAAM's Shadow\" in 4 player co-op in either Arcade or Standard mode.",
+                    "es-ES": "Termine 'Sombra de RAAM' en cooperativo con 4 jugadores en modo arcade o normal.",
+                    "fr-FR": "Terminez RAAM's Shadow en coopération à 4 joueurs en mode Arcade ou standard.",
+                    "it-IT": "Completa L'ombra di RAAM in modalità Co-op a 4 giocatori in modalità arcade o standard.",
+                    "ko-KR": "아케이드 또는 표준 캠페인에서 4인 협동 모드로 \"라암의 그림자\"를 완료하십시오.",
+                    "pl-PL": "Przejdź RAAM's Shadow w trybie współpracy 4 graczy w trybie zręcznościowym lub standardowym.",
+                    "ru-RU": "Пройти кампанию \"RAAM's Shadow\" в режиме совместной игры для 4 игроков (аркадный или стандартный).",
+                    "zh-CHT": "在過關挑戰賽或標準模式中，以 4 個玩家的合作模式完成「蘭姆將軍的暗影」。",
+                    "ja-JP": "4 人の協力プレイでスタンダードまたはアーケードのラームの影をクリアする",
+                    "pt-PT": "Conclua o \"RAAM's Shadow\" no modo cooperativo para 4 jogadores (modo Arcade ou Normal)."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "58.png"
+        },
+        "59": {
+            "text": {
+                "name": {
+                    "de-DE": "Finger des Todes",
+                    "en-US": "Finger of Doom",
+                    "es-ES": "Dedo condenatorio",
+                    "fr-FR": "Le doigt du chaos",
+                    "it-IT": "Il dito della morte",
+                    "ko-KR": "심판의 손짓",
+                    "pl-PL": "Palec zagłady",
+                    "ru-RU": "Перст Судьбы",
+                    "zh-CHT": "奪魂指",
+                    "ja-JP": "破滅の指",
+                    "pt-PT": "Dedo do Apocalipse"
+                },
+                "description": {
+                    "de-DE": "Als RAAM mit Hilfe der Kryll 50 Soldaten in Stücke gerissen.",
+                    "en-US": "As RAAM, ripped 50 Gears to shreds with your Kryll.",
+                    "es-ES": "Como RAAM, ha hecho pedazos a 50 Gears con su Kril.",
+                    "fr-FR": "Vous avez réduit 50 gears en miettes avec votre kryll en incarnant RAAM.",
+                    "it-IT": "Nei panni di RAAM hai fatto a pezzi 50 Gears con i tuoi Kryll.",
+                    "ko-KR": "라암으로 크릴을 사용해 50명의 기어를 산산조각 냈습니다.",
+                    "pl-PL": "Jako RAAM rozerwałeś 50 Gearów kryllami. Na strzępy.",
+                    "ru-RU": "За уничтожение 50 бойцов Коалиции при помощи \"Крилла\", играя за РААМа.",
+                    "zh-CHT": "扮演蘭姆將軍，並且已用您的夜行蝠將 50 名戰士撕成碎片。",
+                    "ja-JP": "ラームとして、クリルで COG 軍兵士を 50 人倒した",
+                    "pt-PT": "Jogando como RAAM, destruiu 50 Gears com os Krylls."
+                },
+                "howto": {
+                    "de-DE": "Als RAAM 50 Soldaten mit Hilfe der Kryll töten.",
+                    "en-US": "As RAAM, kill 50 Gears using your Kryll.",
+                    "es-ES": "Como RAAM, mate a 50 Gears con su Kril.",
+                    "fr-FR": "Tuez 50 gears avec votre kryll en incarnant RAAM.",
+                    "it-IT": "Nei panni di RAAM uccidi 50 Gear usando i tuoi Kryll.",
+                    "ko-KR": "라암으로 크릴을 사용해 50명의 기어를 사살하십시오.",
+                    "pl-PL": "Jako RAAM zabij 50 gearów, używając krylli.",
+                    "ru-RU": "Уничтожить 50 бойцов Коалиции при помощи \"Крилла\", играя за РААМа.",
+                    "zh-CHT": "扮演蘭姆將軍，使用您的夜行蝠殺死 50 名戰士。",
+                    "ja-JP": "ラームとして、クリルで COG 軍兵士を 50 人倒す",
+                    "pt-PT": "Jogando como RAAM, mate 50 Gears usando os Krylls."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "59.png"
+        },
+        "60": {
+            "text": {
+                "name": {
+                    "de-DE": "Spiegel! Doppelspiegel!",
+                    "en-US": "I'm Rubber, You're Glue",
+                    "es-ES": "Me rebota y te explota",
+                    "fr-FR": "Retour à l'envoyeur",
+                    "it-IT": "Specchio riflesso",
+                    "ko-KR": "되로 주고 말로 받고",
+                    "pl-PL": "Ja jestem gumą, a ty klejem",
+                    "ru-RU": "Как об стену горох",
+                    "zh-CHT": "我被打你倒楣",
+                    "ja-JP": "ゴムで跳ねて糊に着く",
+                    "pt-PT": "Sou a Borracha, Você é a Cola"
+                },
+                "description": {
+                    "de-DE": "Mit dem Mauler-Schild 10 Soldaten getötet, die dreist genug waren, Sie und den General anzugreifen.",
+                    "en-US": "Used the Mauler shield to kill 10 Gears that had the temerity to fire upon you and your General.",
+                    "es-ES": "Ha usado el escudo Mauler para matar a 10 Gears que han osado dispararles a usted y a su general.",
+                    "fr-FR": "Vous avez tué 10 gears ayant osé tirer sur vous ou votre Général avec le bouclier de mauler.",
+                    "it-IT": "Hai usato lo scudo del Mauler per uccidere 10 Gears che hanno osato sparare a te e al tuo generale.",
+                    "ko-KR": "몰러로 방패를 사용해 총알을 반사시켜 당신과 장군님께 무모하게 도전한 10명의 기어를 사살했습니다.",
+                    "pl-PL": "Użyłeś tarczy do zabicia 10 Gearów, którzy odważyli się strzelić do ciebie i twojego generała.",
+                    "ru-RU": "За уничтожение щитом Маулера 10 бойцов Коалиции, осмелившихся напасть на вас и вашего генерала.",
+                    "zh-CHT": "已使用戰盾兵護盾殺死 10 名膽敢朝您或您的將軍開火的戰士。",
+                    "ja-JP": "自分や将軍を狙ってきた向こう見ずな COG 軍兵士をモーラー シールドを使って 10 人倒した",
+                    "pt-PT": "Usou o escudo do Marreteiro para matar 10 Gears que ousaram atirar em você e no seu General."
+                },
+                "howto": {
+                    "de-DE": "Als Mauler 10 Soldaten mit vom eigenen Schild zurückgeprallten Kugeln getötet.",
+                    "en-US": "As Mauler, kill 10 Gears by reflecting their bullets using your shield.",
+                    "es-ES": "Como Mauler, mate a 10 Gears haciendo rebotar sus balas con un escudo.",
+                    "fr-FR": "Tuez 10 gears en renvoyant leurs balles avec votre bouclier en incarnant un mauler.",
+                    "it-IT": "Nei panni di un Mauler, uccidi 10 Gear riflettendo i proiettili con il tuo scudo.",
+                    "ko-KR": "몰러로 방패를 사용해 총알을 반사시켜 10명의 기어를 사살하십시오.",
+                    "pl-PL": "Jako oprawca zabij 10 gearów, odbijając tarczą ich pociski.",
+                    "ru-RU": "Играя за Маулера, уничтожить 10 бойцов Коалиции, отражая их пули щитом.",
+                    "zh-CHT": "扮演戰盾兵，使用您的護盾反彈戰士的子彈並殺死 10 名戰士。",
+                    "ja-JP": "モーラーとして、シールド反射で 10 人の COG 軍兵士を倒す",
+                    "pt-PT": "Jogando como Marreteiro, mate 10 Gears refletindo as balas com o escudo."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "60.png"
+        },
+        "61": {
+            "text": {
+                "name": {
+                    "de-DE": "Tod von oben",
+                    "en-US": "Death from Above",
+                    "es-ES": "Muerte desde el cielo",
+                    "fr-FR": "La mort venue d'en haut",
+                    "it-IT": "Morte dai cieli",
+                    "ko-KR": "위에서 엄습하는 죽음",
+                    "pl-PL": "Śmierć z przestworzy",
+                    "ru-RU": "Смерть с небес",
+                    "zh-CHT": "裁決之光",
+                    "ja-JP": "天罰",
+                    "pt-PT": "A Morte Vem de Cima"
+                },
+                "description": {
+                    "de-DE": "50 Locust mit der HDR-Kommandozentrale gezeigt, was es heißt, wenn es Feuer regnet.",
+                    "en-US": "Showed 50 Locusts the meaning of sky-fire with HOD Command Center.",
+                    "es-ES": "Le ha demostrado a 50 Locust el significado de 'ataque aéreo' con el centro de mando del Martillo.",
+                    "fr-FR": "Vous avez montré à 50 locustes ce qu'est le \"feu du ciel\" avec le commandement du Rayon de l'Aube.",
+                    "it-IT": "Hai mostrato a 50 locuste il significato di \"fuoco dal cielo\" con il centro di comando MDA.",
+                    "ko-KR": "해머 오브 던 사령부를 사용해 50마리의 로커스트에게 \"천벌\"을 내렸습니다.",
+                    "pl-PL": "Pokazałeś 50 osobnikom szarańczy znaczenie „ognia z nieba” za pomocą centrum dowodzenia MŚ.",
+                    "ru-RU": "За демонстрацию 50 бойцам Саранчи небесного огня при помощи центра управления.",
+                    "zh-CHT": "已用黎明之鎚指揮中心讓 50 個獸族見識到「空襲」的意義。",
+                    "ja-JP": "HOD 司令部で 50 体のローカストに空からの銃弾を見せつけてやった",
+                    "pt-PT": "Mostrou a 50 Locusts o significado de \"fogo no céu\" com o Centro de Comando do Martelo da Aurora."
+                },
+                "howto": {
+                    "de-DE": "50 Locust durch Einsatz der Hammer der Morgenröte-Kommandozentrale töten.",
+                    "en-US": "Using the Hammer of Dawn Command Center, kill 50 Locust.",
+                    "es-ES": "Mate a 50 Locust con el centro de mando del Martillo del Alba.",
+                    "fr-FR": "Tuez 50 locustes avec le Cmd. du Rayon de l'Aube.",
+                    "it-IT": "Usando il centro di comando del Martello dell'Alba uccidi 50 locuste.",
+                    "ko-KR": "해머 오브 던 사령부를 사용해 50 마리의 로커스트를 사살하십시오.",
+                    "pl-PL": "Zabij 50 osobników szarańczy, używając Młota Świtu z centrum dowodzenia.",
+                    "ru-RU": "Уничтожить при помощи центра управления Молотом Зари 50 бойцов Саранчи.",
+                    "zh-CHT": "使用黎明之鎚指揮中心，殺死 50 個獸族。",
+                    "ja-JP": "ドーンハンマー司令部を使って、50 体のローカストを倒す",
+                    "pt-PT": "Usando o Centro de Comando do Martelo da Aurora, mate 50 Locusts."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "61.png"
+        },
+        "62": {
+            "text": {
+                "name": {
+                    "de-DE": "Unbewaffnet und gefährlich",
+                    "en-US": "Unarmed and Dangerous",
+                    "es-ES": "Desarmado y peligroso",
+                    "fr-FR": "Désarmé et dangereux",
+                    "it-IT": "Disarmato ma pericoloso",
+                    "ko-KR": "비무장 흉기",
+                    "pl-PL": "Nieuzbrojony i niebezpieczny",
+                    "ru-RU": "Разоружен и опасен",
+                    "zh-CHT": "致命非武器",
+                    "ja-JP": "丸腰で危険",
+                    "pt-PT": "Desarmado e Perigoso"
+                },
+                "description": {
+                    "de-DE": "Alle Staplersicherheitsrichtlinien ignoriert und 10 Locust getötet.",
+                    "en-US": "Ignored all Loader safety guidelines and killed 10 Locusts.",
+                    "es-ES": "No ha hecho caso a las normas de seguridad del cargador y ha matado a 10 Locust.",
+                    "fr-FR": "Vous avez tué 10 locustes en ignorant toutes les consignes de sécurité sur le maniement du chargeur.",
+                    "it-IT": "Hai ignorato tutte le direttive di sicurezza del sollevatore e hai ucciso 10 locuste.",
+                    "ko-KR": "로더의 안전 사용 수칙을 무시하고 10마리의 로커스트를 사살했습니다.",
+                    "pl-PL": "Zignorowałeś wszystkie zasady bezpieczeństwa podnośnika i zabiłeś nim 10 osobników szarańczy.",
+                    "ru-RU": "За пренебрежение всеми правилами управления погрузчика и уничтожение 10 бойцов Саранчи.",
+                    "zh-CHT": "已忽視所有裝卸機的安全使用守則並殺死 10 個獸族。",
+                    "ja-JP": "ローダーの安全ガイドラインを無視して 10 体のローカストを倒した",
+                    "pt-PT": "Ignorou todas as diretrizes de segurança do Carregador e matou 10 Locusts."
+                },
+                "howto": {
+                    "de-DE": "10 Locust mit dem Stapler töten.",
+                    "en-US": "Using the Loader, kill 10 Locust.",
+                    "es-ES": "Mate a 10 Locust con el cargador.",
+                    "fr-FR": "Tuez 10 locustes en utilisant le chargeur.",
+                    "it-IT": "Uccidi 10 locuste usando il sollevatore.",
+                    "ko-KR": "로더를 사용해 10마리의 로커스트를 사살하십시오.",
+                    "pl-PL": "Zabij 10 osobników szarańczy, używając podnośnika.",
+                    "ru-RU": "Уничтожить погрузчиком 10 бойцов Саранчи.",
+                    "zh-CHT": "使用裝卸機，殺死 10 個獸族。",
+                    "ja-JP": "ローダーを使って、10 体のローカストを倒す",
+                    "pt-PT": "Usando o Carregador, mate 10 Locusts."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "62.png"
+        },
+        "63": {
+            "text": {
+                "name": {
+                    "de-DE": "Geister der Vergangenheit",
+                    "en-US": "Ghosts from the Past",
+                    "es-ES": "Fantasmas del pasado",
+                    "fr-FR": "Les fantômes du passé",
+                    "it-IT": "Fantasmi del passato",
+                    "ko-KR": "과거의 유령",
+                    "pl-PL": "Duchy przeszłości",
+                    "ru-RU": "Призраки из прошлого",
+                    "zh-CHT": "過往幽靈",
+                    "ja-JP": "過去の亡霊",
+                    "pt-PT": "Fantasmas do Passado"
+                },
+                "description": {
+                    "de-DE": "In 10 Versus-Spielen dem Andenken des Zeta-Trupps gedacht.",
+                    "en-US": "Honored the memory of Zeta Squad in 10 matches of Versus.",
+                    "es-ES": "Ha honrado la memoria del pelotón Zeta en 10 partidas de Enfrentamiento.",
+                    "fr-FR": "Vous avez honoré la mémoire de l'équipe Zeta lors de 10 batailles.",
+                    "it-IT": "Hai onorato la memoria della squadra Zeta in 10 partite di Sfida.",
+                    "ko-KR": "제타 분대의 명예를 기리며 대결 모드를 10 매치 플레이했습니다.",
+                    "pl-PL": "Oddałeś cześć pamięci drużyny Zeta w 10 meczach trybu rywalizacji.",
+                    "ru-RU": "За прославление имени отряда Дзета в 10 играх в режиме \"Противостояние\".",
+                    "zh-CHT": "已進行 10 場配對對戰遊戲紀念 Z 小隊。",
+                    "ja-JP": "対戦モードの 10 マッチでゼータ部隊に敬意を表した",
+                    "pt-PT": "Honrou a memória do Esquadrão Zeta em 10 partidas do modo Versus."
+                },
+                "howto": {
+                    "de-DE": "10 Versus-Spiele als ein Mitglied des Zeta-Trupps spielen (Barrick, Tai, Minh oder Valera).",
+                    "en-US": "Play 10 matches of Versus as a member of Zeta (Barrick, Tai, Minh, or Valera)(Standard or Casual).",
+                    "es-ES": "Juegue 10 partidas de Enfrentamiento como miembro de Zeta (Barrick, Tai, Minh o Valera).",
+                    "fr-FR": "Jouez 10 batailles en incarnant un membre de Zeta (Barrick, Tai, Minh ou Valera).",
+                    "it-IT": "Gioca 10 partite di Sfida nei panni di un membro della squadra Zeta (Barrick, Tai, Minh o Valera).",
+                    "ko-KR": "제타 대원(배릭, 타이, 김민형, 벨라라) 중 하나로 대결 모드를 10 매치 플레이하십시오.",
+                    "pl-PL": "Rozegraj 10 walk w trybie rywalizacji jako członek drużyny Zeta (Barrick, Tai, Minh albo Valera).",
+                    "ru-RU": "Сыграть 10 игр в режиме \"Противостояние\" за члена Дзеты (Баррика, Тая, Минг или Валеру).",
+                    "zh-CHT": "扮演 Z 小隊的成員 (貝利克、泰伊、金名揚或瓦勒拉)，進行 10 場配對對戰遊戲。",
+                    "ja-JP": "対戦モードで 10 マッチをゼータのメンバーとしてプレイする (バリック、タイ、ミンまたはヴァレラ)",
+                    "pt-PT": "Jogue em 10 partidas do modo Versus como um membro do Esquadrão Zeta (Barrick, Tai, Minh ou Valera)."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "63.png"
+        },
+        "64": {
+            "text": {
+                "name": {
+                    "de-DE": "Vorahnung",
+                    "en-US": "Foreshadowing",
+                    "es-ES": "Presagios",
+                    "fr-FR": "Présage",
+                    "it-IT": "Premonizione",
+                    "ko-KR": "데자뷰",
+                    "pl-PL": "Zwiastowanie",
+                    "ru-RU": "Предчувствие",
+                    "zh-CHT": "伏筆",
+                    "ja-JP": "暗示",
+                    "pt-PT": "Presságio"
+                },
+                "description": {
+                    "de-DE": "Als RAAM dafür gesorgt, dass Minh diesen Tag außerhalb des Hauses der Herrscher nie vergessen wird.",
+                    "en-US": "As RAAM, made sure Minh never forgets that day outside the House of Sovereigns.",
+                    "es-ES": "Como RAAM, se ha asegurado de que Minh no olvide nunca aquel día fuera de la Casa de los Soberanos.",
+                    "fr-FR": "Vous vous êtes assuré que Minh n'oublie jamais le jour du Palais des souverains en incarnant RAAM.",
+                    "it-IT": "Nei panni di RAAM, assicurati che Minh non dimentichi quel giorno fuori dalla House of Sovereigns.",
+                    "ko-KR": "소버린의 집 바깥에서 라암으로 김민형에게 잊을 수 없는 날의 기억을 안겨주었습니다.",
+                    "pl-PL": "Jako RAAM dopilnowałeś, by Minh nigdy nie zapomniał dnia przed Domem Suwerenów.",
+                    "ru-RU": "За то, что Минг больше никогда не забудет дня снаружи Дома Суверенов (играя за РААМа).",
+                    "zh-CHT": "扮演蘭姆將軍並已確認金名揚永遠不會忘了在聯盟總部外面的那一天。",
+                    "ja-JP": "ラームとして、ハウス オブ ソブリンズの外でのあの日をキムが忘れないように思い知らせてやった",
+                    "pt-PT": "Jogando como RAAM, garantiu que Minh jamais se esquecerá daquele dia fora da Casa dos Soberanos."
+                },
+                "howto": {
+                    "de-DE": "Als RAAM in Versus-Spielen Minh 10 Mal hinrichten (Ranglisten-, schnelle oder Casual-Spiele).",
+                    "en-US": "As RAAM, execute Minh 10 times in Versus MP (Standard or Casual).",
+                    "es-ES": "Como RAAM, ejecute a Minh 10 veces en Enfrentamiento multijugador (igualada, rápida o Informal).",
+                    "fr-FR": "Exécutez Minh 10 fois en incarnant RAAM en Bataille multijoueur (classement, partie rapide, recrue).",
+                    "it-IT": "Nei panni di RAAM uccidi Minh 10 volte in Sfida multiplayer (classificata, partita veloce o facile).",
+                    "ko-KR": "랭킹, 퀵 매치, 캐주얼의 대결 모드에서 라암으로 김민형을 10번 처형하십시오.",
+                    "pl-PL": "Jako RAAM, wykonaj 10 egzekucji Minha w trybie rywalizacji (gra rankingowa, szybka lub zwykła).",
+                    "ru-RU": "10 раз казнить Минг в режиме \"Противостояние\" (игра по рейтингу, быстрая игра или низкая сложность).",
+                    "zh-CHT": "扮演蘭姆將軍，在多人對戰遊戲中 (等級配對、快速配對或簡單) 處決金名揚 10 次。",
+                    "ja-JP": "ラームとして、対戦モードでミンを 10 回処刑する (ランク、クイックマッチまたはカジュアル)",
+                    "pt-PT": "Jogando como RAAM, execute Minh 10 vezes no modo Versus (partida rápida, classificada ou casual)."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "64.png"
+        },
+        "65": {
+            "text": {
+                "name": {
+                    "de-DE": "Los, Zeta Team!",
+                    "en-US": "Zeta Team, Go!",
+                    "es-ES": "¡Equipo Zeta, vamos!",
+                    "fr-FR": "Équipe Zeta, en avant !",
+                    "it-IT": "Squadra Zeta, via!",
+                    "ko-KR": "제타 분대, 가자!",
+                    "pl-PL": "Drużyna Zeta, naprzód!",
+                    "ru-RU": "Отряд Дзета, вперед!",
+                    "zh-CHT": "Z 小隊，出發！",
+                    "ja-JP": "ゼータ チーム、行け!",
+                    "pt-PT": "Equipe Zeta, Vamos!"
+                },
+                "description": {
+                    "de-DE": "Im Horde-Modus mit jedem Mitglied des Zeta-Trupps im Team die ersten 10 Wellen abgewehrt.",
+                    "en-US": "Defeated the first 10 waves of Horde with every member of Zeta in your party.",
+                    "es-ES": "Ha derrotado a las 10 primeras oleadas de Horda con todos los miembros de Zeta de su grupo.",
+                    "fr-FR": "Vous avez repoussé les 10 premières vagues de la horde avec chaque membre de Zeta dans votre équipe.",
+                    "it-IT": "Hai sconfitto le prime 10 ondate di Orda con ogni membro della squadra Zeta nel tuo gruppo.",
+                    "ko-KR": "모든 제타 대원과 한 팀이 되어 호드 모드에서 초반 10번의 전투를 완료했습니다.",
+                    "pl-PL": "Pokonałeś pierwszych 10 fal hordy, mając w drużynie każdego członka Zety.",
+                    "ru-RU": "За уничтожение 10 волн Орды каждым из бойцов отряда Дзета.",
+                    "zh-CHT": "已用每位在您隊伍當中的 Z 小隊成員贏得持久戰的前 10 波攻擊。",
+                    "ja-JP": "Horde で最初の 10 ウェーブをパーティーの全ゼータ メンバーと一緒にクリアした",
+                    "pt-PT": "Derrotou as 10 primeiras ondas do modo Horda com todos os membros do Zeta no seu grupo."
+                },
+                "howto": {
+                    "de-DE": "Im Horde-Modus die Wellen 1-10 mit 5 Zeta-Mitglieder abwehren (Barrick, Tai, Minh, Valera und Jace).",
+                    "en-US": "Complete waves 1-10 of Horde with 5 players as Zeta (Barrick, Tai, Minh, Valera and Jace).",
+                    "es-ES": "Termine las oleadas 1-10 de Horda con 5 jugadores como Zeta (Barrick, Tai, Minh, Valera y Jace).",
+                    "fr-FR": "Repoussez les vagues 1 à 10 de la Horde avec 5 J incarnant Zeta (Barrick, Tai, Minh, Valera, Jace).",
+                    "it-IT": "Completa le ondate 1-10 di Orda con 5 gioc. nella squadra Zeta (Barrick, Tai, Minh, Valera e Jace).",
+                    "ko-KR": "5명의 제타 대원(배릭, 타이, 김민형, 발레라, 제이스)으로 호드 모드의 1-10 전투를 완료하십시오.",
+                    "pl-PL": "Przejdź pierwsze 10 fal hordy z 5 graczami z drużyny Zeta (Barrick, Tai, Minh, Valera i Jace).",
+                    "ru-RU": "Пройти 1-10 волну Орды за 5 игроков Дзеты (Баррик, Тай, Минг, Валера и Джейс).",
+                    "zh-CHT": "和 5 名扮演 Z 小隊成員 (貝利克、泰伊、金名揚、瓦勒拉和傑斯) 的玩家完成持久戰第 1-10 波的攻擊。",
+                    "ja-JP": "5 人のプレイヤーでゼータとして Horde の 1 から 10 ウェーブまでをクリアする (バリック、タイ、ミン、ヴァレラそしてジェイス)",
+                    "pt-PT": "Conclua as ondas 1-10 do modo Horda com 5 jogadores Zeta (Barrick, Tai, Minh, Valera e Jace)."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "75",
+            "imageId": "65.png"
+        },
+        "66": {
+            "text": {
+                "name": {
+                    "de-DE": "So langsam verstehen sie es",
+                    "en-US": "Now They Begin to Understand",
+                    "es-ES": "Empiezan a entenderlo",
+                    "fr-FR": "Ils commencent à comprendre",
+                    "it-IT": "Ora iniziano a capire",
+                    "ko-KR": "뼈저리도록 후회하게 해주마.",
+                    "pl-PL": "Wreszcie to do nich dotarło",
+                    "ru-RU": "Вот теперь начинают понимать",
+                    "zh-CHT": "他們終於開始了解",
+                    "ja-JP": "思い知らせてやれ",
+                    "pt-PT": "Agora eles começam a entender"
+                },
+                "description": {
+                    "de-DE": "Auf allen Fenix Rising-Karten im Beast-Modus alle 12 Wellen abgeschlossen.",
+                    "en-US": "Completed all 12 waves of Beast on all Fenix Rising maps.",
+                    "es-ES": "Ha completado las 12 oleadas de Bestia en todos los mapas de Fenix Rising.",
+                    "fr-FR": "12 vagues du mode Bestial repoussées sur toutes les cartes du Retour de Fenix.",
+                    "it-IT": "Hai completato tutte le 12 ondate di Belva su tutte le mappe Il risveglio di Fenix.",
+                    "ko-KR": "비스트 모드의 모든 피닉스 라이징 맵에서 12번의 전투를 모두 완료했습니다.",
+                    "pl-PL": "Przetrwano 12 fal bestii na wszystkich mapach Fenix Rising.",
+                    "ru-RU": "Вы выдержали нападение всех 12 волн бойцов в режиме \"Зверь\" на всех картах \"Восставшего Феникса\".",
+                    "zh-CHT": "已在所有的「菲利再起」地圖上，完成殺戮戰場 12 波攻擊。",
+                    "ja-JP": "すべてのフェニックス ライジング マップで Beast の 12 のウェーブすべてをクリアした",
+                    "pt-PT": "Concluiu as 12 ondas de Besta em todos os mapas de Ascensão da Fênix."
+                },
+                "howto": {
+                    "de-DE": "Auf allen Fenix Rising-Karten im Beast-Modus alle 12 Wellen abschließen.",
+                    "en-US": "Complete all 12 waves of Beast on all Fenix Rising maps.",
+                    "es-ES": "Complete las 12 oleadas de Bestia en todos los mapas de Fenix Rising.",
+                    "fr-FR": "Repoussez les 12 vagues du mode Bestial sur toutes les cartes du Retour de Fenix.",
+                    "it-IT": "Completa tutte le 12 ondate di Belva su tutte le mappe Il risveglio di Fenix.",
+                    "ko-KR": "비스트 모드의 모든 피닉스 라이징 맵에서 12번의 전투를 모두 완료하십시오.",
+                    "pl-PL": "Przetrwaj 12 fal bestii na wszystkich mapach Fenix Rising.",
+                    "ru-RU": "Выдержать нападение всех 12 волн бойцов в режиме \"Зверь\" на всех картах \"Восставшего Феникса\".",
+                    "zh-CHT": "在所有的「菲利再起」地圖上，完成殺戮戰場 12 波攻擊。",
+                    "ja-JP": "すべてのフェニックス ライジング マップで Beast の 12 のウェーブすべてをクリア",
+                    "pt-PT": "Conclua as 12 ondas de Besta em todos os mapas de Ascensão da Fênix."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "66.png"
+        },
+        "67": {
+            "text": {
+                "name": {
+                    "de-DE": "Verteidigung der Vergangenheit",
+                    "en-US": "Defending the Past",
+                    "es-ES": "La defensa del pasado",
+                    "fr-FR": "Au nom du passé",
+                    "it-IT": "Difesa del passato",
+                    "ko-KR": "과거를 지켜라",
+                    "pl-PL": "Obrona przeszłości",
+                    "ru-RU": "Защита прошлого",
+                    "zh-CHT": "捍衛過去",
+                    "ja-JP": "過去を守る",
+                    "pt-PT": "Defendendo o passado"
+                },
+                "description": {
+                    "de-DE": "Auf allen Fenix Rising-Karten im Horde-Modus alle 50 Wellen abgeschlossen.",
+                    "en-US": "Completed all 50 waves of Horde on any of the Fenix Rising maps.",
+                    "es-ES": "Ha completado las 50 oleadas de Horda en cualquier mapa de Fenix Rising.",
+                    "fr-FR": "50 vagues du mode Horde repoussées sur toutes les cartes du Retour de Fenix.",
+                    "it-IT": "Hai completato tutte le 50 ondate di Orda sulle mappe Il risveglio di Fenix.",
+                    "ko-KR": "호드 모드의 피닉스 라이징 맵 중 하나에서 50번의 전투를 모두 완료했습니다.",
+                    "pl-PL": "Przetrwano wszystkie 50 fal hordy na dowolnej mapie Fenix Rising.",
+                    "ru-RU": "Вы выдержали нападение всех 50 волн бойцов Орды на карте \"Восставшего Феникса\".",
+                    "zh-CHT": "已在任何一張「菲利再起」地圖上，完成持久戰 50 波攻擊。",
+                    "ja-JP": "任意のフェニックス ライジング マップで Horde の 50 のウェーブすべてをクリアした",
+                    "pt-PT": "Concluiu as 50 ondas da Horda em qualqer mapa de Ascensão da Fênix."
+                },
+                "howto": {
+                    "de-DE": "Auf allen Fenix Rising-Karten im Horde-Modus alle 50 Wellen abschließen.",
+                    "en-US": "Complete all 50 waves of Horde on any of the Fenix Rising maps.",
+                    "es-ES": "Complete las 50 oleadas de Horda en cualquier mapa de Fenix Rising.",
+                    "fr-FR": "Repoussez les 50 vagues du mode Horde sur toutes les cartes du Retour de Fenix.",
+                    "it-IT": "Completa tutte le 50 ondate di Orda sulle mappe Il risveglio di Fenix.",
+                    "ko-KR": "호드 모드의 피닉스 라이징 맵 중 하나에서 50번의 전투를 모두 완료하십시오.",
+                    "pl-PL": "Przetrwaj wszystkie 50 fal hordy na dowolnej mapie Fenix Rising.",
+                    "ru-RU": "Выдержать нападение всех 50 волн бойцов Орды на любой карте \"Восставшего Феникса\".",
+                    "zh-CHT": "在任何一張「菲利再起」地圖上，完成持久戰 50 波攻擊。",
+                    "ja-JP": "任意のフェニックス ライジング マップで Horde の 50 のウェーブすべてをクリア",
+                    "pt-PT": "Conclua as 50 ondas da Horda em qualqer mapa de Ascensão da Fênix."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "67.png"
+        },
+        "68": {
+            "text": {
+                "name": {
+                    "de-DE": "Komm zu Papa!",
+                    "en-US": "Come to Poppa!",
+                    "es-ES": "¡Ven con papá!",
+                    "fr-FR": "Viens voir papa !",
+                    "it-IT": "Venite da papà!",
+                    "ko-KR": "아빠한테 와라!",
+                    "pl-PL": "Chodź do taty!",
+                    "ru-RU": "Иди к папочке!",
+                    "zh-CHT": "來老爸這裡！",
+                    "ja-JP": "親父の元へ来い!",
+                    "pt-PT": "Vem pro papai!"
+                },
+                "description": {
+                    "de-DE": "Ein Versus-Multiplayerspiel mit einem Team aus fünf Rekrut Claytons gewonnen (beliebiger Modus).",
+                    "en-US": "Won a Versus multiplayer match as a team of five Recruit Claytons (any mode).",
+                    "es-ES": "Ha ganado en Enfrentamiento multijugador con un equipo de 5 reclutas Clayton (cualquier modo).",
+                    "fr-FR": "1 partie en Bataille multijoueur gagnée en équipe de 5 recrues Clayton (tout mode).",
+                    "it-IT": "Hai vinto 1 partita Sfida multiplayer in 1 squadra di 5 reclute Clayton (qualsiasi mod.).",
+                    "ko-KR": "모드에 상관없이 대결 멀티 플레이 매치에서 5명의 신병 클레이튼으로 팀을 이뤄 승리했습니다.",
+                    "pl-PL": "Zwyciężono w wieloosobowym trybie rywalizacji jako członek drużyny pięciu rekrutów Claytonów.",
+                    "ru-RU": "Вы выиграли в режиме \"Противостояние\", играя за команду из пяти рекрутов Клейтонов (любой режим).",
+                    "zh-CHT": "已組成一隊五人都是新兵克萊頓卡敏的小隊並贏得一場多人對戰配對遊戲 (任何模式)。",
+                    "ja-JP": "対戦型マルチプレイヤーゲームで 5 人の新兵クレイトンのチームで勝利した (モードは任意)",
+                    "pt-PT": "Vença uma partida multijogador Versus como equipe de cinco Recrutas Clayton (qualquer modo)."
+                },
+                "howto": {
+                    "de-DE": "Ein Versus-Multiplayerspiel mit einem Team aus fünf Rekrut Claytons gewinnen (beliebiger Modus).",
+                    "en-US": "Win a Versus multiplayer match as a team of five Recruit Claytons (any mode).",
+                    "es-ES": "Gane en Enfrentamiento multijugador con un equipo de 5 reclutas Clayton (cualquier modo).",
+                    "fr-FR": "Gagnez 1 partie en Bataille multijoueur en équipe de 5 recrues Clayton (tout mode).",
+                    "it-IT": "Vinci 1 partita Sfida multiplayer in 1 squadra di 5 reclute Clayton (qualsiasi modalità).",
+                    "ko-KR": "모드에 상관없이 대결 멀티 플레이 매치에서 5명의 신병 클레이튼으로 팀을 이뤄 승리하십시오.",
+                    "pl-PL": "Zwycięż w wieloosobowym trybie rywalizacji jako członek drużyny pięciu rekrutów Claytonów.",
+                    "ru-RU": "Выиграть игру в режиме \"Противостояние\" , играя за команду из пяти рекрутов Клейтонов (любой режим).",
+                    "zh-CHT": "組成一隊五人都是新兵克萊頓卡敏的小隊，贏得一場多人對戰配對遊戲 (任何模式)。",
+                    "ja-JP": "対戦型マルチプレイヤーゲームで 5 人の新兵クレイトンのチームで勝利 (モードは任意)",
+                    "pt-PT": "Vença uma partida multijogador Versus como uma equipe de cinco Recrutas Clayton (qualquer modo)."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "68.png"
+        },
+        "69": {
+            "text": {
+                "name": {
+                    "de-DE": "Locust, für immer!",
+                    "en-US": "Locust, Forever!",
+                    "es-ES": "¡Locust para siempre!",
+                    "fr-FR": "Locuste, à la vie à la mort !",
+                    "it-IT": "Locuste vittoriose!",
+                    "ko-KR": "로커스트여, 영원하라!",
+                    "pl-PL": "Szarańcza na zawsze!",
+                    "ru-RU": "Саранча навсегда!",
+                    "zh-CHT": "獸族萬歲！",
+                    "ja-JP": "ローカストよ、永遠に!",
+                    "pt-PT": "Locust, para sempre!"
+                },
+                "description": {
+                    "de-DE": "Ein Versus-Multiplayerspiel mit einem Team aus fünf Savage Marauders gewonnen (beliebiger Modus).",
+                    "en-US": "Won a Versus multiplayer match as a team of five Savage Marauders (any mode).",
+                    "es-ES": "Ha ganado en Enfrentamiento multijugador con un equipo de 5 Merodeadores salvajes (cualquier modo).",
+                    "fr-FR": "1 partie en Bataille multijoueur gagnée en équipe de 5 marauders sauvages (tout mode).",
+                    "it-IT": "Hai vinto 1 partita Sfida multiplayer in 1 squadra di 5 Savage Marauder (qualsiasi mod.).",
+                    "ko-KR": "모드에 상관없이 대결 멀티 플레이 매치에서 5명의 새비지 마라우더로 팀을 이뤄 승리했습니다.",
+                    "pl-PL": "Zwyciężono w wieloosobowym trybie rywalizacji jako członek drużyny pięciu dzikich grabieżców.",
+                    "ru-RU": "Вы выиграли в режиме \"Противостояние\", играя за команду из пяти яростных мародеров (любой режим).",
+                    "zh-CHT": "已組成一隊五人都是掠奪反叛軍的小隊並贏得一場多人對戰配對遊戲 (任何模式)。",
+                    "ja-JP": "対戦型マルチプレイヤーゲームで 5 体のサベッジモローダーのチームで勝利した (モードは任意)",
+                    "pt-PT": "Venceu uma partida multijogador Versus como equipe de cinco Demolidores Selvagens (qualquer modo)."
+                },
+                "howto": {
+                    "de-DE": "Ein Versus-Multiplayerspiel mit einem Team aus fünf Savage Marauders gewinnen (beliebiger Modus).",
+                    "en-US": "Win a Versus multiplayer match as a team of five Savage Marauders (any mode).",
+                    "es-ES": "Gane en Enfrentamiento multijugador con un equipo de 5 Merodeadores salvajes (cualquier modo).",
+                    "fr-FR": "Gagnez 1 partie en Bataille multijoueur en équipe de 5 marauders sauvages (tout mode).",
+                    "it-IT": "Vinci 1 partita Sfida multiplayer in 1 squadra di 5 Savage Marauder (qualsiasi mod.).",
+                    "ko-KR": "모드에 상관없이 대결 멀티 플레이 매치에서 5명의 새비지 마라우더로 팀을 이뤄 승리하십시오.",
+                    "pl-PL": "Zwycięż w wieloosobowym trybie rywalizacji jako członek drużyny pięciu dzikich grabieżców.",
+                    "ru-RU": "Выиграть игру в режиме \"Противостояние\", играя за команду из пяти яростных мародеров (любой режим).",
+                    "zh-CHT": "組成一隊五人都是掠奪反叛軍的小隊，贏得一場多人對戰配對遊戲 (任何模式)。",
+                    "ja-JP": "対戦型マルチプレイヤーゲームで 5 体のサベッジモローダーのチームで勝利 (モードは任意)",
+                    "pt-PT": "Vença uma partida multijogador Versus como equipe de cinco Demolidores Selvagens (qualquer modo)."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "69.png"
+        },
+        "70": {
+            "text": {
+                "name": {
+                    "de-DE": "Zeit, sich erneut zu melden!",
+                    "en-US": "Time to Re-up!",
+                    "es-ES": "¡Hora de repetir!",
+                    "fr-FR": "Rengagez-vous !",
+                    "it-IT": "È ora di ripartire!",
+                    "ko-KR": "새출발을 하자!",
+                    "pl-PL": "Powtórka z rozrywki!",
+                    "ru-RU": "Пора начать по новой!",
+                    "zh-CHT": "再度服役的時刻到了！",
+                    "ja-JP": "リアップするぞ!",
+                    "pt-PT": "Hora de renovar!"
+                },
+                "description": {
+                    "de-DE": "Level 100 erreicht, aber das ist noch nicht genug!",
+                    "en-US": "Level 100 and going back for more!",
+                    "es-ES": "¡Nivel 100 y vuelvo a por más!",
+                    "fr-FR": "Niveau 100 atteint. On remet ça ?",
+                    "it-IT": "Livello 100 e ancora non mi basta!",
+                    "ko-KR": "레벨 100이 되었다가 다시 새출발했습니다!",
+                    "pl-PL": "Poziom 100 i chcę więcej!",
+                    "ru-RU": "100 уровень - и все заново!",
+                    "zh-CHT": "等級 100，欲罷不能！",
+                    "ja-JP": "レベル 100 達成でさらに進むぞ!",
+                    "pt-PT": "Nível 100 e querendo mais!"
+                },
+                "howto": {
+                    "de-DE": "Level 100 erreichen und sich erneut für den Einsatz melden.",
+                    "en-US": "Achieve level 100 and choose to re-up for another tour of duty.",
+                    "es-ES": "Llegue al nivel 100 y decida repetir para iniciar otro período de servicio.",
+                    "fr-FR": "Atteignez le niveau 100 et remettez ça : signez un rengagement et retournez au combat.",
+                    "it-IT": "Ottieni il livello 100 e riparti da zero con una nuova campagna di guerra.",
+                    "ko-KR": "레벨 100을 달성한 다음 새출발을 선택해 다시 업적을 이루어 나가십시오.",
+                    "pl-PL": "Wejdź na 100 poziom i zdecyduj się na powtórne rozpoczęcie służby.",
+                    "ru-RU": "Достигнуть 100 уровня и пойти на второй круг.",
+                    "zh-CHT": "達到等級 100，然後選擇再度從軍投入下一場戰役。",
+                    "ja-JP": "レベル 100 を達成し、リアップを選択して新たな任務に備える",
+                    "pt-PT": "Chegue ao nível 100 e opte por renovar para outro período de serviço."
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "50",
+            "imageId": "70.png"
+        },
+        "71": {
+            "text": {
+                "name": {
+                    "de-DE": "Nochmal!",
+                    "en-US": "Again!",
+                    "es-ES": "¡Otra vez!",
+                    "fr-FR": "C'est reparti pour un tour !",
+                    "it-IT": "Ancora!",
+                    "ko-KR": "다시!",
+                    "pl-PL": "Jeszcze raz!",
+                    "ru-RU": "Еще раз!",
+                    "zh-CHT": "再一次！",
+                    "ja-JP": "またやったぞ!",
+                    "pt-PT": "De novo!"
+                },
+                "description": {
+                    "de-DE": "Level 100 – auch zwei Mal reicht noch nicht.",
+                    "en-US": "Level 100 - so nice, I did it twice.",
+                    "es-ES": "Nivel 100: genial, lo he hecho dos veces.",
+                    "fr-FR": "Niveau 100. Et de deux ! Ça, c'est fait.",
+                    "it-IT": "Livello 100, ho fatto il bis.",
+                    "ko-KR": "레벨 100을 두 번이나 달성했습니다.",
+                    "pl-PL": "Poziom 100 to mało, dwa razy się udało.",
+                    "ru-RU": "100 уровень, дубль 2.",
+                    "zh-CHT": "等級 100 實在太美妙，而且我忍不住達成兩次。",
+                    "ja-JP": "いいぞ、レベル 100 を 2 回も達成した",
+                    "pt-PT": "Nível 100 - tão bom que fiz duas vezes."
+                },
+                "howto": {
+                    "de-DE": "Level 100 ein zweites Mal erreichen und sich erneut für den Einsatz melden.",
+                    "en-US": "Achieve level 100 a second time and choose to re-up for another tour.",
+                    "es-ES": "Llegue al nivel 100 una segunda vez y decida repetir para iniciar otro período de servicio.",
+                    "fr-FR": "Atteignez une 2e fois le niveau 100 et remettez ça : signez un rengagement et retournez au combat.",
+                    "it-IT": "Ottieni il livello 100 una seconda volta e riparti da zero con una nuova campagna.",
+                    "ko-KR": "레벨 100을 두 번째 달성한 다음 새출발을 선택하십시오.",
+                    "pl-PL": "Wejdź na 100 poziom po raz drugi i zdecyduj się na powtórne rozpoczęcie służby.",
+                    "ru-RU": "Достигнуть 100 уровня во второй раз и пойти на третий круг.",
+                    "zh-CHT": "二度達到等級 100，然後選擇再度從軍投入下一場戰役。",
+                    "ja-JP": "2 度目のレベル 100 を達成し、リアップを選択して新たな任務に備える",
+                    "pt-PT": "Chegue ao nível 100 pela segunda vez e opte por renovar para outro período de serviço."
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "50",
+            "imageId": "71.png"
+        },
+        "72": {
+            "text": {
+                "name": {
+                    "de-DE": "Ich hab alles schon gesehen!",
+                    "en-US": "I've Done it All!",
+                    "es-ES": "¡Lo he hecho todo!",
+                    "fr-FR": "Ça, c'est fait !",
+                    "it-IT": "È tutta opera mia!",
+                    "ko-KR": "다 끝냈어!",
+                    "pl-PL": "Mam już wszystkie!",
+                    "ru-RU": "Полный комплект!",
+                    "zh-CHT": "功成名就！",
+                    "ja-JP": "すべてをこの手に!",
+                    "pt-PT": "Já fiz tudo isso!"
+                },
+                "description": {
+                    "de-DE": "Alle 132 Verdienstbänder erhalten.",
+                    "en-US": "Earned all 132 combat ribbons.",
+                    "es-ES": "Ha obtenido las 132 insignias de combate.",
+                    "fr-FR": "Vous avez gagné chacune des 132 décorations.",
+                    "it-IT": "Hai ottenuto tutte le 132 onorificenze di combattimento.",
+                    "ko-KR": "132종류의 모든 전투 리본을 획득했습니다.",
+                    "pl-PL": "Zdobyto wszystkie 132 odznaki bojowe.",
+                    "ru-RU": "Вы получили боевые ленты всех 132 видов.",
+                    "zh-CHT": "已獲得全部 132 種戰鬥勛帶。",
+                    "ja-JP": "132 個の戦闘リボンをすべて獲得した",
+                    "pt-PT": "Ganhou as 132 medalhas de combate."
+                },
+                "howto": {
+                    "de-DE": "Erhalten Sie mindestens ein Mal jedes der ursprünglichen 132 Verdienstbänder.",
+                    "en-US": "Earn at least one of each of the original 132 combat ribbons.",
+                    "es-ES": "Obtenga al menos una de cada una de las 132 insignias de combate originales.",
+                    "fr-FR": "Gagnez au moins une décoration de chacune des 132 catégories originales.",
+                    "it-IT": "Ottieni almeno una delle 132 originali onorificenze di combattimento.",
+                    "ko-KR": "132종류의 모든 전투 리본을 최소 하나씩 획득하십시오.",
+                    "pl-PL": "Zdobądź przynajmniej po jednej ze wszystkich 132 oryginalnych odznak bojowych.",
+                    "ru-RU": "Получить как минимум по одной боевой ленте каждого из 132 видов.",
+                    "zh-CHT": "獲得 132 種初始戰鬥勛帶，每種至少一個。",
+                    "ja-JP": "オリジナルの 132 個の戦闘リボンを最低 1 つずつ獲得",
+                    "pt-PT": "Conquiste pelo menos uma de cada das 132 medalhas de combate."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "75",
+            "imageId": "72.png"
+        }
+    }
+}
