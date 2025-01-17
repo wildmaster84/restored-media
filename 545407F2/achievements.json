@@ -1,0 +1,2084 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Runter vom Boot",
+                    "en-US": "Off The Boat",
+                    "es-ES": "Desembarco",
+                    "fr-FR": "Fraîchement débarqué",
+                    "it-IT": "Appena sbarcato",
+                    "ja-JP": "船から降りた新参者"
+                },
+                "description": {
+                    "de-DE": "Du hast die erste Mission beendet.",
+                    "en-US": "You have completed the first mission.",
+                    "es-ES": "Has completado la primera misión.",
+                    "fr-FR": "Tu as terminé la première mission.",
+                    "it-IT": "Hai completato la prima missione.",
+                    "ja-JP": "最初のミッションをクリアした"
+                },
+                "howto": {
+                    "de-DE": "Beende die erste Mission.",
+                    "en-US": "Complete the first mission.",
+                    "es-ES": "Completa la primera misión.",
+                    "fr-FR": "Termine la première mission.",
+                    "it-IT": "Completa la prima missione.",
+                    "ja-JP": "最初のミッションをクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "5",
+            "imageId": "01.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Tiefpunkt",
+                    "en-US": "Lowest Point",
+                    "es-ES": "Punto más bajo",
+                    "fr-FR": "En bas de l'échelle",
+                    "it-IT": "Toccare il fondo",
+                    "ja-JP": "人生最悪の時"
+                },
+                "description": {
+                    "de-DE": "Du hast die Mission \"Roman's Sorrow\" beendet.",
+                    "en-US": "You completed the mission \"Roman's Sorrow\".",
+                    "es-ES": "Has completado la misión \"Roman's Sorrow\".",
+                    "fr-FR": "Tu as terminé la mission \"Roman's Sorrow\".",
+                    "it-IT": "Hai completato la missione \"Roman's Sorrow\".",
+                    "ja-JP": "ミッション\"Roman's Sorrow\"をクリアした"
+                },
+                "howto": {
+                    "de-DE": "Beende die Mission \"Roman's Sorrow\".",
+                    "en-US": "Complete mission \"Roman's Sorrow\".",
+                    "es-ES": "Completa la misión \"Roman's Sorrow\".",
+                    "fr-FR": "Termine la mission \"Roman's Sorrow\".",
+                    "it-IT": "Completa la missione \"Roman's Sorrow\".",
+                    "ja-JP": "ミッション\"Roman's Sorrow\"をクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "5",
+            "imageId": "02.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "Unmögliche Trinität",
+                    "en-US": "Impossible Trinity",
+                    "es-ES": "Trinidad imposible",
+                    "fr-FR": "Impossible trinité",
+                    "it-IT": "Trinità impossibile",
+                    "ja-JP": "流血のトリレンマ"
+                },
+                "description": {
+                    "de-DE": "Du hast die Mission \"Museum Piece\" beendet.",
+                    "en-US": "You completed the mission \"Museum Piece\".",
+                    "es-ES": "Has completado la misión \"Museum Piece\".",
+                    "fr-FR": "Tu as terminé la mission \"Museum Piece\".",
+                    "it-IT": "Hai completato la missione \"Museum Piece\".",
+                    "ja-JP": "ミッション\"Museum Piece\"をクリアした"
+                },
+                "howto": {
+                    "de-DE": "Beende die Mission \"Museum Piece\".",
+                    "en-US": "Complete mission \"Museum Piece\".",
+                    "es-ES": "Completa la misión \"Museum Piece\".",
+                    "fr-FR": "Termine la mission \"Museum Piece\".",
+                    "it-IT": "Completa la missione \"Museum Piece\".",
+                    "ja-JP": "ミッション\"Museum Piece\"をクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "Komplette Erkundung",
+                    "en-US": "Full Exploration",
+                    "es-ES": "Exploración completa",
+                    "fr-FR": "Exploration complète",
+                    "it-IT": "Grande esploratore",
+                    "ja-JP": "アイランドホッパー"
+                },
+                "description": {
+                    "de-DE": "Du hast alle Inseln freigeschaltet.",
+                    "en-US": "You unlocked all the islands.",
+                    "es-ES": "Has desbloqueado todas las islas.",
+                    "fr-FR": "Tu as débloqué toutes les îles.",
+                    "it-IT": "Hai sbloccato tutte le isole.",
+                    "ja-JP": "全ての島に行けるようになった"
+                },
+                "howto": {
+                    "de-DE": "Schalte alle Inseln frei.",
+                    "en-US": "Unlock all the islands.",
+                    "es-ES": "Desbloquea todas las islas.",
+                    "fr-FR": "Débloque toutes les îles.",
+                    "it-IT": "Sblocca tutte le isole.",
+                    "ja-JP": "全ての島に行けるようになる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "20",
+            "imageId": "04.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "de-DE": "Gewonnen!",
+                    "en-US": "You Won!",
+                    "es-ES": "¡Has ganado!",
+                    "fr-FR": "Tu as gagné !",
+                    "it-IT": "Hai vinto!",
+                    "ja-JP": "勝利の時"
+                },
+                "description": {
+                    "de-DE": "Du hast die Story beendet.",
+                    "en-US": "You have completed the story.",
+                    "es-ES": "Has completado la historia.",
+                    "fr-FR": "Tu as terminé l'histoire.",
+                    "it-IT": "Hai completato la storia.",
+                    "ja-JP": "シングルプレイの最終ミッションをクリアした"
+                },
+                "howto": {
+                    "de-DE": "Beende die letzte Mission.",
+                    "en-US": "Complete the final mission.",
+                    "es-ES": "Completa la última misión.",
+                    "fr-FR": "Termine la dernière mission.",
+                    "it-IT": "Completa l'ultima missione.",
+                    "ja-JP": "シングルプレイの最終ミッションをクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "60",
+            "imageId": "05.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "Schlüssel zur Stadt",
+                    "en-US": "Key To The City",
+                    "es-ES": "Llave de la ciudad",
+                    "fr-FR": "Les clés de la ville",
+                    "it-IT": "Le chiavi della città",
+                    "ja-JP": "自由の街への鍵"
+                },
+                "description": {
+                    "de-DE": "Du hast GTA IV zu 100% durchgespielt.",
+                    "en-US": "You completed GTA IV to 100%.",
+                    "es-ES": "Has completado el 100% de GTA IV.",
+                    "fr-FR": "Tu as terminé GTA IV à 100%.",
+                    "it-IT": "Hai completato GTA IV al 100%.",
+                    "ja-JP": "ゲームの達成率が100%に到達した"
+                },
+                "howto": {
+                    "de-DE": "Erziele 100% in der Statistik \"Spielfortschritt\".",
+                    "en-US": "Achieve 100% in \"Game progress\" statistic.",
+                    "es-ES": "Consigue la estadística del 100% en \"Progreso del juego\".",
+                    "fr-FR": "Atteins 100% pour la statistique \"Progression\".",
+                    "it-IT": "Raggiunto il 100% nei \"Progressi di gioco\".",
+                    "ja-JP": "ゲームの達成率を100%にする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "100",
+            "imageId": "06.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "Warmer Kaffee",
+                    "en-US": "Warm Coffee",
+                    "es-ES": "Café caliente",
+                    "fr-FR": "Café chaud",
+                    "it-IT": "Caffè tiepido",
+                    "ja-JP": "ウェルカムコーヒー"
+                },
+                "description": {
+                    "de-DE": "Du wurdest zu deiner Freundin nach Hause eingeladen.",
+                    "en-US": "You were invited into your girlfriend's house.",
+                    "es-ES": "Tu novia te ha invitado a su casa.",
+                    "fr-FR": "Ta copine t'a invité à \"prendre un dernier verre\".",
+                    "it-IT": "Sei stato invitato a casa della tua ragazza.",
+                    "ja-JP": "ガールフレンドの家に招待された"
+                },
+                "howto": {
+                    "de-DE": "Verabrede dich mit einem Mädchen und erreiche, dass sie dich zu sich nach Hause einlädt.",
+                    "en-US": "Successfully date a girl to be invited into her house.",
+                    "es-ES": "Consigue una cita con una chica para que te invite a su casa.",
+                    "fr-FR": "Fais-toi inviter chez une fille pour prendre un dernier verre.",
+                    "it-IT": "Corteggia una ragazza e fatti invitare a casa sua.",
+                    "ja-JP": "ガールフレンドの家に招待される"
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "5",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Aller guten Dinge sind drei",
+                    "en-US": "Gobble Gobble",
+                    "es-ES": "Ñam ñam",
+                    "fr-FR": "Triple coup de boule rotatif",
+                    "it-IT": "Tripletta!",
+                    "ja-JP": "ワイルドターキー"
+                },
+                "description": {
+                    "de-DE": "Du hast im Bowling drei Strikes nacheinander geschafft.",
+                    "en-US": "You got a turkey in 10-pin bowling.",
+                    "es-ES": "Has anotado tres plenos seguidos a los bolos.",
+                    "fr-FR": "Tu as réussi 3 strikes consécutifs dans une partie de bowling.",
+                    "it-IT": "Hai fatto 3 strike di fila a bowling.",
+                    "ja-JP": "ボウリングでターキー（3回連続ストライク）を達成した"
+                },
+                "howto": {
+                    "de-DE": "Erziele beim Bowling 3 Strikes in Folge.",
+                    "en-US": "Score 3 strikes in a row, a turkey, in 10-pin bowling.",
+                    "es-ES": "Anota 3 plenos seguidos a los bolos.",
+                    "fr-FR": "Fais 3 strikes consécutifs dans une partie de bowling.",
+                    "it-IT": "Realizza 3 strike di fila a bowling.",
+                    "ja-JP": "ボウリングでターキー（3回連続ストライク）を達成する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "08.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Einhundertundachtzig",
+                    "en-US": "One Hundred And Eighty",
+                    "es-ES": "Ciento ochenta",
+                    "fr-FR": "Cent quatre-vingts",
+                    "it-IT": "Cento e ottanta",
+                    "ja-JP": "トン・エイティ"
+                },
+                "description": {
+                    "de-DE": "Du hast mit 3 Pfeilen 180 Punkte erzielt.",
+                    "en-US": "You scored 180 with 3 darts.",
+                    "es-ES": "Has conseguido 180 con 3 dardos.",
+                    "fr-FR": "Tu as marqué 180 points avec 3 fléchettes.",
+                    "it-IT": "Hai totalizzato 180 punti con 3 freccette.",
+                    "ja-JP": "ダーツでトン・エイティを達成した"
+                },
+                "howto": {
+                    "de-DE": "Erziele beim Darts 180 Punkte mit 3 Pfeilen.",
+                    "en-US": "In a darts game score 180 with 3 darts.",
+                    "es-ES": "En una partida a los dardos, consigue 180 con 3 dardos.",
+                    "fr-FR": "Marque 180 points avec 3 fléchettes dans une partie.",
+                    "it-IT": "Fai 180 punti con 3 freccette.",
+                    "ja-JP": "1回のスローでダーツ3本すべてを20のトリプルにヒットさせる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "König des QUB3D",
+                    "en-US": "King of QUB3D",
+                    "es-ES": "Rey de QUB3D",
+                    "fr-FR": "Dans ton Qub3D",
+                    "it-IT": "Maestro di QUB3D",
+                    "ja-JP": "QUB3Dの覇者"
+                },
+                "description": {
+                    "de-DE": "Du hast den Highscore in QUB3D geschlagen.",
+                    "en-US": "You beat the high score in QUB3D.",
+                    "es-ES": "Has superado el récord de QUB3D.",
+                    "fr-FR": "Tu as marqué le meilleur score à QUB3D.",
+                    "it-IT": "Hai stabilito il record di QUB3D.",
+                    "ja-JP": "QUB3Dのハイスコアで一位になった"
+                },
+                "howto": {
+                    "de-DE": "Schlage den Highscore in QUB3D.",
+                    "en-US": "Beat the High Score in QUB3D.",
+                    "es-ES": "Supera el récord de QUB3D.",
+                    "fr-FR": "Obtiens le meilleur score à QUB3D.",
+                    "it-IT": "Stabilisci il record di QUB3D.",
+                    "ja-JP": "QUB3Dのハイスコアで一位になる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Tournament",
+            "credits": "15",
+            "imageId": "10.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "Das wird teuer",
+                    "en-US": "It'll Cost Ya",
+                    "es-ES": "Le va a costar una pasta",
+                    "fr-FR": "Ca te coûtera bonbon",
+                    "it-IT": "Tutto ha un prezzo",
+                    "ja-JP": "タクシーライド"
+                },
+                "description": {
+                    "de-DE": "Du hast eine Taxifahrt von einer Insel zur anderen gemacht, ohne sie zu überspringen.",
+                    "en-US": "You made a taxi trip from one island to another without skipping.",
+                    "es-ES": "Has dado una vuelta de taxi limpia desde una isla a otra.",
+                    "fr-FR": "Tu es allé d'une île à une autre en taxi, sans passer le trajet.",
+                    "it-IT": "Hai effettuato un viaggio in taxi da un'isola all'altra senza salti.",
+                    "ja-JP": "タクシーに乗車しスキップなしで別の島に移動した"
+                },
+                "howto": {
+                    "de-DE": "Absolviere eine Taxifahrt, ohne die Fahrt von einer Insel zur nächsten zu überspringen.",
+                    "en-US": "Complete a taxi ride without skipping from one island to another.",
+                    "es-ES": "Completa una vuelta en taxi sin saltar de una isla a otra.",
+                    "fr-FR": "Termine une course de taxi d'une île à une autre sans passer le trajet.",
+                    "it-IT": "Completa una corsa in taxi da un'isola all'altra senza saltare il viaggio.",
+                    "ja-JP": "タクシーに乗車しスキップなしで別の島に移動する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "11.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "Bestellung ausgeführt",
+                    "en-US": "Order Fulfilled",
+                    "es-ES": "Encargo cumplido",
+                    "fr-FR": "59 Secondes Chrono",
+                    "it-IT": "Pronta consegna",
+                    "ja-JP": "任務完了"
+                },
+                "description": {
+                    "de-DE": "Du hast alle 10 \"Exotic Export\"-Bestellungen ausgeführt.",
+                    "en-US": "You completed all 10 Exotic Export orders.",
+                    "es-ES": "Has completado los 10 encargos de \"Exotic Exports\".",
+                    "fr-FR": "Tu as effectué les 10 commandes d'Exotic Export.",
+                    "it-IT": "Hai consegnato tutti e 10 gli ordini di Exotic Export.",
+                    "ja-JP": "ブルーシーから頼まれた乗り物10台を全て盗み出した"
+                },
+                "howto": {
+                    "de-DE": "Erledige alle 10 exotischen \"Exotic Export\"-Bestellungen.",
+                    "en-US": "Complete all 10 Exotic Export orders.",
+                    "es-ES": "Completa los 10 encargos de \"Exotic Exports\".",
+                    "fr-FR": "Effectue les 10 commandes d'Exotic Export.",
+                    "it-IT": "Consegna tutti e 10 gli ordini di Exotic Export.",
+                    "ja-JP": "ブルーシーから頼まれる乗り物10台を全て盗み出す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "12.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Kurierdienst",
+                    "en-US": "Courier Service",
+                    "es-ES": "Servicio de mensajería",
+                    "fr-FR": "FDP Inclus",
+                    "it-IT": "Corriere",
+                    "ja-JP": "宅配サービス"
+                },
+                "description": {
+                    "de-DE": "Du hast alle 10 Päckchen-Kurierjobs absolviert.",
+                    "en-US": "You completed all 10 package delivery jobs.",
+                    "es-ES": "Has completado los 10 encargos de reparto de paquetes.",
+                    "fr-FR": "Tu as complété les 10 missions de livraison de paquets.",
+                    "it-IT": "Hai portato a termine tutti e 10 i lavori di consegna.",
+                    "ja-JP": "リトル・ジェイコブから頼まれた小包10個を全て届けた"
+                },
+                "howto": {
+                    "de-DE": "Erledige alle 10 Paketauslieferjobs.",
+                    "en-US": "Complete all 10 package delivery jobs.",
+                    "es-ES": "Completa los 10 encargos de reparto de paquetes.",
+                    "fr-FR": "Termine les 10 missions de livraison de paquets.",
+                    "it-IT": "Completa tutti e 10 i lavori di consegna.",
+                    "ja-JP": "リトル・ジェイコブから頼まれる小包10個を全て届ける"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "13.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "de-DE": "Menschenjagd",
+                    "en-US": "Manhunt",
+                    "es-ES": "Manhunt",
+                    "fr-FR": "Chasse à l'homme",
+                    "it-IT": "Manhunt: caccia all'uomo",
+                    "ja-JP": "マンハント"
+                },
+                "description": {
+                    "de-DE": "Du hast die Nebenmission \"Most Wanted\" abgeschlossen.",
+                    "en-US": "You completed the most wanted side mission.",
+                    "es-ES": "Has completado la misión secundaria de Más buscados.",
+                    "fr-FR": "Tu as terminé la mission secondaire des criminels les plus recherchés.",
+                    "it-IT": "Hai completato la missione secondaria del cacciatore di taglie.",
+                    "ja-JP": "警察の端末から開始できる指名手配ミッションをクリアした"
+                },
+                "howto": {
+                    "de-DE": "Beende die Polizeicomputer-Nebenmission \"Most Wanted\".",
+                    "en-US": "Complete the most wanted side missions from the police computer.",
+                    "es-ES": "Completa las misiones secundarias de \"más buscados\" del ordenador de la policía.",
+                    "fr-FR": "Termine les missions de recherche données par l'ordinateur de la police.",
+                    "it-IT": "Completa le missioni del cacciatore di taglie usando il computer della polizia.",
+                    "ja-JP": "警察の端末から開始できる指名手配ミッションをクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "14.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Assassin's Greed",
+                    "en-US": "Assassin's Greed",
+                    "es-ES": "Codicia de asesino",
+                    "fr-FR": "Assassin's Greed",
+                    "it-IT": "Assassino nato",
+                    "ja-JP": "アサシン グリード"
+                },
+                "description": {
+                    "de-DE": "Du hast alle 9 Attentäter-Missionen absolviert.",
+                    "en-US": "You completed all 9 assassin missions.",
+                    "es-ES": "Has completado las 9 misiones de asesino.",
+                    "fr-FR": "Tu as terminé les 9 missions Assassin.",
+                    "it-IT": "Hai completato tutte e 9 le missioni da assassino.",
+                    "ja-JP": "9つの暗殺ミッションを全てクリアした"
+                },
+                "howto": {
+                    "de-DE": "Beende alle 9 Attentätermissionen.",
+                    "en-US": "Complete all 9 assassin missions.",
+                    "es-ES": "Completa las 9 misiones de asesino.",
+                    "fr-FR": "Termine les 9 missions d'assassinat.",
+                    "it-IT": "Completa tutte e 9 le missioni da assassino.",
+                    "ja-JP": "9つの暗殺ミッションを全てクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "15.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "de-DE": "Teamspieler",
+                    "en-US": "Teamplayer",
+                    "es-ES": "Jugador de equipo",
+                    "fr-FR": "Une équipe, quelle équipe ?",
+                    "it-IT": "Giocatore di squadra",
+                    "ja-JP": "チームプレイヤー"
+                },
+                "description": {
+                    "de-DE": "Du hast 5 Mitglieder eines gegnerischen Teams ausgeschaltet.",
+                    "en-US": "You killed 5 opposing team members.",
+                    "es-ES": "Has matado a 5 miembros del equipo enemigo.",
+                    "fr-FR": "Tu as tué 5 membres d'une équipe adverse.",
+                    "it-IT": "Hai ucciso 5 membri di una squadra avversaria.",
+                    "ja-JP": "ランク マッチのチーム戦で敵チームのプレイヤーを5人以上倒した"
+                },
+                "howto": {
+                    "de-DE": "Schalte 5 Spieler eines Gegnerteams bei einem beliebigen Ranglisten-Multiplayer-Teamspiel aus.",
+                    "en-US": "Kill 5 players who are not in your team, in any ranked multiplayer team game.",
+                    "es-ES": "Mata a 5 miembros del otro equipo en cualquier partida igualada por equipos multijugador.",
+                    "fr-FR": "Tue 5 joueurs qui ne sont pas de ton équipe dans une partie en équipe avec classement.",
+                    "it-IT": "Uccidi 5 giocatori appartenenti ad altre squadre, in una qualsiasi partita classificata a squadre.",
+                    "ja-JP": "ランク マッチのチーム戦で敵チームのプレイヤーを5人以上倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "16.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "Erste Lorbeeren",
+                    "en-US": "Cut Your Teeth",
+                    "es-ES": "Ganando experiencia",
+                    "fr-FR": "Fais-toi les dents",
+                    "it-IT": "Farsi le ossa",
+                    "ja-JP": "パシリ卒業"
+                },
+                "description": {
+                    "de-DE": "Du bist im Multiplayermodus um eine Einstufung gestiegen.",
+                    "en-US": "You were successfully promoted up a rank in multiplayer.",
+                    "es-ES": "Has ascendido una clasificación en multijugador.",
+                    "fr-FR": "Tu es monté d’un rang en multijoueur (classement multijoueur).",
+                    "it-IT": "Ti sei guadagnato una classificazione migliore in multiplayer.",
+                    "ja-JP": "マルチプレイでランクが上がった"
+                },
+                "howto": {
+                    "de-DE": "Steige um eine Einstufung im Multiplayermodus.",
+                    "en-US": "Earn a personal rank promotion in multiplayer.",
+                    "es-ES": "Gana un rango en tu clasificación personal en multijugador.",
+                    "fr-FR": "Obtiens un rang plus élevé dans le classement multijoueur.",
+                    "it-IT": "Guadagnati una classificazione personale migliore in multiplayer.",
+                    "ja-JP": "マルチプレイでランクを上げる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "5",
+            "imageId": "17.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "Midnight Club-Mitglied",
+                    "en-US": "Join The Midnight Club",
+                    "es-ES": "Únete al Midnight Club",
+                    "fr-FR": "Bienvenue au Midnight Club",
+                    "it-IT": "Benvenuto nel Midnight Club",
+                    "ja-JP": "ミッドナイトクラブ入会"
+                },
+                "description": {
+                    "de-DE": "Du hast ein Multiplayer-Ranglisten-Rennen gewonnen, ohne dein Gefährt zu stark zu beschädigen.",
+                    "en-US": "You won a ranked multiplayer race without damaging your vehicle too much.",
+                    "es-ES": "Has ganado una carrera igualada multijugador sin dañar demasiado el vehículo.",
+                    "fr-FR": "Tu as gagné une course multijoueur avec classement sans trop endommager ton véhicule.",
+                    "it-IT": "Hai vinto una corsa multiplayer classificata senza danneggiare troppo il veicolo.",
+                    "ja-JP": "マルチプレイのランク マッチのレースをほぼノーダメージで勝利した"
+                },
+                "howto": {
+                    "de-DE": "Gewinne ein Ranglisten-Rennen bei aktiviertem Schaden, ohne dein Gefährt zu stark zu beschädigen.",
+                    "en-US": "Win a ranked multiplayer race without damaging your vehicle too much and with damage enabled.",
+                    "es-ES": "Gana una carrera igualada multijugador sin dañar demasiado el vehículo y con el daño activado.",
+                    "fr-FR": "Gagne une course multijoueur avec classement et dégâts activés et sans trop endommager ton véhicule.",
+                    "it-IT": "Vinci una corsa multiplayer classificata con danni abilitati senza danneggiare troppo il tuo mezzo.",
+                    "ja-JP": "マルチプレイのランク マッチのレースをほぼノーダメージで勝利する（ダメージ\"あり\"の設定で）"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "18.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "de-DE": "Zusammen seid ihr stark",
+                    "en-US": "Fly The Co-op",
+                    "es-ES": "Piloto cooperativo",
+                    "fr-FR": "Vive la coop",
+                    "it-IT": "La cooperazione paga",
+                    "ja-JP": "頼れる男"
+                },
+                "description": {
+                    "de-DE": "Du hast \"Deal-Verderber\", \"N.O.O.S.E.-Alarm\" und \"Bombenanschlag II\" rechtzeitig absolviert.",
+                    "en-US": "You completed \"Deal Breaker\", \"Hangman's NOOSE\" and \"Bomb da Base II\" in time.",
+                    "es-ES": "Has completado \"Rompetratos\", \"Cerco de Seguridad Nacional\" y \"Bombardear la Base II\" a tiempo.",
+                    "fr-FR": "Tu as terminé \"Casseur de Deal\", \"Assaut du N.O.O.S.E.\" et \"Boum la base\" dans les temps.",
+                    "it-IT": "Hai completato in tempo \"Il guastafeste\", \"NOOSE scappa\" e \"Mina la base II\".",
+                    "ja-JP": "マルチプレイの\"ディール・ブレイカー\" \"ハングマンズ・ヌース\" \"ボム・ダ・ベースII\"で各目標タイム内にクリアした"
+                },
+                "howto": {
+                    "de-DE": "Schlage unsere \"Deal-Verderber\", \"N.O.O.S.E.-Alarm\" und \"Bombenanschlag II\" Ranglisten-Spiel-Zeiten.",
+                    "en-US": "Beat our time in ranked versions of \"Deal Breaker\", \"Hangman's NOOSE\" and \"Bomb da Base II\".",
+                    "es-ES": "Bate nuestro tiempo en \"Rompetratos\", \"Cerco de Seguridad Nac.\" y \"Bombardear la Base II\" igualados.",
+                    "fr-FR": "Bats les temps sur \"Casseur de trafic\", \"Assaut du N.O.O.S.E.\" et \"Boum la base\" avec classement.",
+                    "it-IT": "Batti il tempo nelle versioni classificate de \"Il guastafeste\", \"NOOSE Scappa\" e \"Mina la Base II\".",
+                    "ja-JP": "マルチプレイの\"ディール・ブレイカー\" \"ハングマンズ・ヌース\" \"ボム・ダ・ベースII\"で各目標タイム内にクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "19.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "Voller Einsatz für das Team",
+                    "en-US": "Taking It For The Team",
+                    "es-ES": "Todo por el equipo",
+                    "fr-FR": "Tout pour l'équipe",
+                    "it-IT": "L'unione fa la forza",
+                    "ja-JP": "勝ち組"
+                },
+                "description": {
+                    "de-DE": "Du warst bei allen Multiplayer-Teamspielen im Siegerteam.",
+                    "en-US": "You were on the winning team in all multiplayer team games.",
+                    "es-ES": "Has ganado en todas las partidas multijugador por equipos.",
+                    "fr-FR": "Tu t'es retrouvé dans l'équipe gagnante dans chaque mode multijoueur en équipe.",
+                    "it-IT": "Eri nella squadra vincente in ogni tipo di partita multiplayer a squadre.",
+                    "ja-JP": "ランク マッチの全てのチーム戦で所属チームが勝利した"
+                },
+                "howto": {
+                    "de-DE": "Sei bei allen Ranglisten-Multiplayer-Teamspielen im Siegerteam.",
+                    "en-US": "Be on the winning team in all ranked multiplayer team games.",
+                    "es-ES": "Gana en todas las partidas igualadas multijugador por equipos.",
+                    "fr-FR": "Gagne une partie avec classement de chacun des modes multijoueur en équipe.",
+                    "it-IT": "Fai parte della squadra vincente in ogni tipo di partita classificata a squadre in multiplayer.",
+                    "ja-JP": "ランク マッチの全てのチーム戦で所属チームが勝利する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "20.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "Spitze der Nahrungskette",
+                    "en-US": "Top Of The Food Chain",
+                    "es-ES": "En la cima del mundo",
+                    "fr-FR": "Sommet de la chaîne alimentaire",
+                    "it-IT": "In cima alla catena alimentare",
+                    "ja-JP": "食物連鎖の頂点"
+                },
+                "description": {
+                    "de-DE": "Du konntest in einem Multiplayer-Ranglisten-Deathmatch 20 Spieler mit einer Pistole ausschalten.",
+                    "en-US": "You successfully killed 20 players with a pistol in a ranked deathmatch.",
+                    "es-ES": "Has matado con éxito a 20 jugadores con una pistola en una partida a muerte igualada.",
+                    "fr-FR": "Tu as tué 20 joueurs avec un pistolet au cours d'une partie Deathmatch multijoueur avec classement.",
+                    "it-IT": "Sei riuscito a uccidere 20 giocatori durante un deathmatch classificato con una pistola.",
+                    "ja-JP": "ランク マッチのデスマッチでピストルを使って20人以上のプレイヤーを倒した"
+                },
+                "howto": {
+                    "de-DE": "Schalte in einem Multiplayer-Ranglisten-Deathmatch 20 Spieler mit einer Pistole aus.",
+                    "en-US": "Kill 20 players with a pistol in a ranked multiplayer deathmatch.",
+                    "es-ES": "Mata a 20 jugadores con una pistola en una partida a muerte igualada.  ",
+                    "fr-FR": "Tue 20 joueurs avec un pistolet au cours d'une partie Deathmatch multijoueur avec classement.",
+                    "it-IT": "Uccidi 20 giocatori usando la pistola in un deathmatch multiplayer classificato.",
+                    "ja-JP": "ランク マッチのデスマッチでピストルを使って20人以上のプレイヤーを倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "21.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "de-DE": "An der Spitze des Midnight Club",
+                    "en-US": "Top The Midnight Club",
+                    "es-ES": "La cima del Midnight Club",
+                    "fr-FR": "Boss du Midnight Club",
+                    "it-IT": "Il meglio del Midnight Club",
+                    "ja-JP": "ミッドナイトクラブ最速の男"
+                },
+                "description": {
+                    "de-DE": "Du hast 20 verschiedene Multiplayer-Standardrennen gewonnen.",
+                    "en-US": "You won 20 different multiplayer standard races.",
+                    "es-ES": "Has ganado 20 carreras estándar multijugador.",
+                    "fr-FR": "Tu as gagné 20 courses standard multijoueur différentes.",
+                    "it-IT": "Hai vinto 20 diverse corse multiplayer.",
+                    "ja-JP": "マルチプレイの20種類のレース全てで勝利した"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 20 verschiedene Multiplayer-Standard-Ranglisten-Rennen.",
+                    "en-US": "Come first in 20 different ranked standard multiplayer races.",
+                    "es-ES": "Llega el primero en 20 carreras estándar igualadas multijugador distintas.",
+                    "fr-FR": "En multijoueur, arrive premier dans 20 différentes courses standard avec classement.",
+                    "it-IT": "Arriva primo in 20 diverse corse multiplayer classificate.",
+                    "ja-JP": "マルチプレイの20種類のレース全てで勝利する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "22.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "Dosvidanya, Petrovic",
+                    "en-US": "Auf Wiedersehen Petrovic",
+                    "es-ES": "Auf Wiedersehen Petrovic",
+                    "fr-FR": "Le roi, c'est moi !",
+                    "it-IT": "Auf Wiedersehen Petrovic",
+                    "ja-JP": "グッバイ・ペトロヴィッチ"
+                },
+                "description": {
+                    "de-DE": "Du hast bei allen Varianten von Multiplayerspielen gewonnen.",
+                    "en-US": "You won in all variations of multiplayer games.",
+                    "es-ES": "Has ganado en todas las variaciones de partida multijugador.",
+                    "fr-FR": "Tu as gagné dans toutes les variantes du mode multijoueur.",
+                    "it-IT": "Hai vinto in tutte le varianti delle modalità multiplayer.",
+                    "ja-JP": "全てのランク マッチのゲームで勝利した"
+                },
+                "howto": {
+                    "de-DE": "Gewinne Cops und Gangster für jede Seite, alle Rennen und 1 Multiplayer-Ranglisten-Spiel jeder Art.",
+                    "en-US": "Win all ranked multiplayer variations, all races and \"Cops 'n Crooks\", as both sides.",
+                    "es-ES": "Gana toda variación igualada de multijugador, carreras y \"Policías y ladrones\" con ambos bandos.",
+                    "fr-FR": "Gagne chaque course, tous les modes avec classement et dans les 2 équipes en \"Gendarmes et voleurs\".",
+                    "it-IT": "Vinci a Guardie & Ladroni (ambo i lati), tutte le gare e le varianti multiplayer classificate.",
+                    "ja-JP": "全てのランク マッチのゲームとレースに勝利し\"コップス＆クルックス\"を両サイドでクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "23.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "de-DE": "Rockstars Schläferzelle",
+                    "en-US": "Let Sleeping Rockstars Lie",
+                    "es-ES": "No revuelvas a los Rockstars",
+                    "fr-FR": "Virus Rockstar",
+                    "it-IT": "Non svegliar Rockstar che dorme!",
+                    "ja-JP": "眠れる森のロックスター"
+                },
+                "description": {
+                    "de-DE": "Du hast im Multiplayermodus einen Rockstar besiegt.",
+                    "en-US": "You killed a Rockstar in multiplayer.",
+                    "es-ES": "Has matado a un Rockstar en multijugador.",
+                    "fr-FR": "Tu as tué un mec de Rockstar en multijoueur.",
+                    "it-IT": "Hai ucciso qualcuno di Rockstar in multiplayer.",
+                    "ja-JP": "マルチプレイでRockstar Gamesの開発者を倒した"
+                },
+                "howto": {
+                    "de-DE": "Erledige einen Rockstar-Entwickler in einem Multiplayer-Ranglisten-Spiel.",
+                    "en-US": "Kill a Rockstar developer in a ranked multiplayer match.",
+                    "es-ES": "Mata a un desarrollador de Rockstar en una partida igualada de multijugador.",
+                    "fr-FR": "Tue un développeur de chez Rockstar dans une partie multijoueur avec classement.",
+                    "it-IT": "Uccidi uno sviluppatore Rockstar in una partita multiplayer classificata.",
+                    "ja-JP": "マルチプレイでRockstar Gamesの開発者を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "24.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Genetisch überlegen",
+                    "en-US": "Genetically Superior",
+                    "es-ES": "Genéticamente superior",
+                    "fr-FR": "Génétiquement supérieur",
+                    "it-IT": "Geneticamente superiore",
+                    "ja-JP": "選ばれし者"
+                },
+                "description": {
+                    "de-DE": "Du hast 20 Singleplayer-Straßenrennen gewonnen.",
+                    "en-US": "You came first in 20 singleplayer street races.",
+                    "es-ES": "Has llegado el primero en 20 carreras callejeras para un jugador.",
+                    "fr-FR": "Tu es arrivé premier dans 20 courses de rues en solo.",
+                    "it-IT": "Sei arrivato primo in 20 corse stradali nella modalità in singolo.",
+                    "ja-JP": "シングルプレイのストリートレースで20回勝利した"
+                },
+                "howto": {
+                    "de-DE": "Beende 20 Singleplayer-Straßenrennen als Erster.",
+                    "en-US": "Come first in 20 singleplayer street races.",
+                    "es-ES": "Llega el primero en 20 carreras callejeras para un jugador.",
+                    "fr-FR": "Termine premier dans 20 courses de rue en solo.",
+                    "it-IT": "Piazzati primo in 20 gare a giocatore singolo.",
+                    "ja-JP": "シングルプレイのストリートレースで20回勝利する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "25.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Wheelie-Fahrer",
+                    "en-US": "Wheelie Rider",
+                    "es-ES": "Piloto a caballito",
+                    "fr-FR": "Sauvez Wheelie",
+                    "it-IT": "Impennata!",
+                    "ja-JP": "ウイリーの達人"
+                },
+                "description": {
+                    "de-DE": "Du hast einen 500-Fuß-Wheelie auf einem Motorrad absolviert.",
+                    "en-US": "You completed a 500 foot wheelie on a motorbike.",
+                    "es-ES": "Has completado un caballito de 152 metros en una moto.",
+                    "fr-FR": "Tu as réussi une roue arrière de 500 pieds en moto.",
+                    "it-IT": "Hai fatto un'impennata lunga 500 piedi.",
+                    "ja-JP": "バイクのウイリーでおよそ160メートルを走破した"
+                },
+                "howto": {
+                    "de-DE": "Mach einen Wheelie auf einem Motorrad und halte ihn wenigstens 500 Fuß.",
+                    "en-US": "Do a wheelie lasting at least 500 feet on a motorbike.",
+                    "es-ES": "Haz un caballito que recorra al menos 152 metros con una moto.",
+                    "fr-FR": "A moto, fais une roue arrière sur plus de 500 pieds (150m).",
+                    "it-IT": "Mantieni un'impennata con la moto per almeno 500 piedi.",
+                    "ja-JP": "バイクのウイリーでおよそ160メートルを走破する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "26.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Unter dem Radar",
+                    "en-US": "Under The Radar",
+                    "es-ES": "Bajo el radar",
+                    "fr-FR": "Sous le radar",
+                    "it-IT": "Vivere sotto i ponti",
+                    "ja-JP": "レーダー探知不可"
+                },
+                "description": {
+                    "de-DE": "Du bist unter allen wichtigen Brücken des Spiels hindurchgeflogen.",
+                    "en-US": "You flew under all the main bridges in the game.",
+                    "es-ES": "Has volado bajo todos los puentes principales del juego.",
+                    "fr-FR": "Tu es passé sous tous les principaux ponts du jeu en volant.",
+                    "it-IT": "Sei passato in volo sotto tutti i principali ponti del gioco.",
+                    "ja-JP": "リバティーシティの主要な橋の下をヘリでくぐり抜けた"
+                },
+                "howto": {
+                    "de-DE": "Fliege mit einem Hubschrauber unter den Hauptbrücken des Spiels, die über Wasser führen, hindurch.",
+                    "en-US": "Fly underneath the main bridges in the game that cross water with a helicopter.",
+                    "es-ES": "Pasa con un helicóptero por debajo de los principales puentes sobre el agua en el juego.",
+                    "fr-FR": "En hélicoptère, passe sous les ponts principaux du jeu.",
+                    "it-IT": "Vola sotto i principali ponti su corsi d'acqua con un elicottero.",
+                    "ja-JP": "リバティーシティの主要な橋の下をヘリでくぐり抜ける"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "40",
+            "imageId": "27.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Liberty City (5)",
+                    "en-US": "Liberty City (5)",
+                    "es-ES": "Liberty City (5)",
+                    "fr-FR": "Liberty City (5)",
+                    "it-IT": "Liberty City (5)",
+                    "ja-JP": "自由の街の人気者"
+                },
+                "description": {
+                    "de-DE": "Alle deine Freundschaften liegen über 90%.",
+                    "en-US": "Your friends all like you above 90%.",
+                    "es-ES": "A todos tus amigos les gustas por encima del 90%.",
+                    "fr-FR": "Tes amis t'apprécient tous à plus de 90%.",
+                    "it-IT": "Tutti i tuoi amici ti stimano sopra il 90%.",
+                    "ja-JP": "ニコの友達全員の友好度が90%に達した"
+                },
+                "howto": {
+                    "de-DE": "Nachdem du alle Freunde kennengelernt hast, liegt die Beliebtheit bei den überlebenden bei über 90%.",
+                    "en-US": "After meeting all possible friends, the ones left alive all like you above 90%.",
+                    "es-ES": "Tras conocer a todos los posibles amigos, a los supervivientes les gustas por encima del 90%.",
+                    "fr-FR": "Après avoir rencontré tous les amis possibles, ceux encore en vie t'apprécient à plus de 90%.",
+                    "it-IT": "Dopo aver incontrato tutti i possibili amici, a quelli rimasti vivi piaci più del 90%.",
+                    "ja-JP": "全ての友達に会い 生存している友達全員の友好度を90%以上にする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "28.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "de-DE": "Liberty City-Zeitraffer",
+                    "en-US": "Liberty City Minute",
+                    "es-ES": "Liberty City al minuto",
+                    "fr-FR": "30 heures, douche comprise",
+                    "it-IT": "Cronometro di Liberty City",
+                    "ja-JP": "時間との闘い"
+                },
+                "description": {
+                    "de-DE": "Du hast die Story in unter 30 Stunden durchgespielt.",
+                    "en-US": "You finished the story in less than 30 hours.",
+                    "es-ES": "Has acabado la historia en menos de 30 horas.",
+                    "fr-FR": "Tu as terminé l'histoire en moins de 30 heures.",
+                    "it-IT": "Hai finito la storia in meno di 30 ore.",
+                    "ja-JP": "シングルプレイを30時間以内にクリアした"
+                },
+                "howto": {
+                    "de-DE": "Absolviere die Story in weniger als 30 Stunden.",
+                    "en-US": "Complete the story missions in less than 30 hours.",
+                    "es-ES": "Completa las misiones de la historia en menos de 30 horas.",
+                    "fr-FR": "Termine les missions de l'histoire en moins de 30 heures.",
+                    "it-IT": "Completa le missioni della storia in meno di 30 ore.",
+                    "ja-JP": "シングルプレイを30時間以内にクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "29.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Überroller",
+                    "en-US": "Rolled Over",
+                    "es-ES": "Vueltas de campana",
+                    "fr-FR": "Tonneaux",
+                    "it-IT": "Sto per vomitare",
+                    "ja-JP": "スタントマン"
+                },
+                "description": {
+                    "de-DE": "Es ist dir gelungen, dich mit deinem Wagen 5 mal zu überschlagen. Nach nur einem Unfall.",
+                    "en-US": "You managed 5 car rolls in a row from one crash.",
+                    "es-ES": "Has conseguido dar 5 vueltas de campana con tu coche con un solo choque.",
+                    "fr-FR": "Tu as réussi à faire 5 tonneaux en un seul accident.",
+                    "it-IT": "La tua macchina si è ribaltata 5 volte di fila in un unico incidente.",
+                    "ja-JP": "一定時間内に車を5回転させた"
+                },
+                "howto": {
+                    "de-DE": "Überschlage dich nach einem einzigen Unfall 5-mal nacheinander mit deinem Auto.",
+                    "en-US": "Do 5 car rolls in a row from one crash.",
+                    "es-ES": "Da 5 vueltas de campana con tu coche con un solo choque.",
+                    "fr-FR": "Effectue 5 tonneaux d'affilée lors d'un seul accident.",
+                    "it-IT": "Fai ribaltare la tua auto 5 volte di fila in un unico incidente.",
+                    "ja-JP": "一定時間内に車を5回転させる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "30.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "de-DE": "Tourist",
+                    "en-US": "Sightseer",
+                    "es-ES": "Turista",
+                    "fr-FR": "De là-haut, je vois ma maison",
+                    "it-IT": "Turista",
+                    "ja-JP": "自由の街の観光客"
+                },
+                "description": {
+                    "de-DE": "Du hast sämtliche Hubschraubertouren in Liberty City gemacht.",
+                    "en-US": "You have taken all variations of the helicopter tours of Liberty City.",
+                    "es-ES": "Has realizado todas las variantes de los recorridos en helicóptero por Liberty City.",
+                    "fr-FR": "Tu as suivi toutes les visites en hélico de Liberty City.",
+                    "it-IT": "Hai partecipato a tutte le varianti dei tour in elicottero di Liberty City.",
+                    "ja-JP": "全てのヘリツアーに参加した"
+                },
+                "howto": {
+                    "de-DE": "Absolviere alle Helikoptertouren in Liberty City.",
+                    "en-US": "Fly on all helicopter tours of Liberty City.",
+                    "es-ES": "Haz todos los tours en helicóptero de Liberty City.",
+                    "fr-FR": "Prends part à toutes les visites en hélicoptère de Liberty City.",
+                    "it-IT": "Partecipa a tutti i tour in elicottero su Liberty City.",
+                    "ja-JP": "全てのヘリツアーに参加する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "31.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Poolhai",
+                    "en-US": "Pool Shark",
+                    "es-ES": "As del billar",
+                    "fr-FR": "Maître queue",
+                    "it-IT": "Drago del biliardo",
+                    "ja-JP": "ハスラー"
+                },
+                "description": {
+                    "de-DE": "Du hast einen Freund beim Pool besiegt.",
+                    "en-US": "You beat a friend at pool.",
+                    "es-ES": "Has derrotado a un amigo al billar.",
+                    "fr-FR": "Tu as battu un ami au billard.",
+                    "it-IT": "Hai battuto un amico a biliardo.",
+                    "ja-JP": "ビリヤードで友達に勝利した"
+                },
+                "howto": {
+                    "de-DE": "Schlage einen Freund beim Pool.",
+                    "en-US": "Beat a friend at pool.",
+                    "es-ES": "Derrota a un amigo al billar.",
+                    "fr-FR": "Bats un ami au billard.",
+                    "it-IT": "Batti un amico a biliardo.",
+                    "ja-JP": "ビリヤードで友達に勝利する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "32.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "de-DE": "Einmannarmee",
+                    "en-US": "One Man Army",
+                    "es-ES": "Ejército de un hombre",
+                    "fr-FR": "Armée d'un seul homme",
+                    "it-IT": "Un uomo, un esercito",
+                    "ja-JP": "激弾ひとり"
+                },
+                "description": {
+                    "de-DE": "Du hast ganze 5 Minuten lang mit 6 Fahndungssternen überlebt.",
+                    "en-US": "You survived a 6 star wanted level for a full 5 minutes.",
+                    "es-ES": "Has sobrevivido a un nivel de búsqueda de 6 estrellas durante 5 minutos.",
+                    "fr-FR": "Tu as survécu pendant 5 minutes avec un indice de recherche de 6 étoiles.",
+                    "it-IT": "Sei sopravvissuto per 5 minuti con 6 stelle di livello di sospetto.",
+                    "ja-JP": "手配度6の状態で5分間生き延びた"
+                },
+                "howto": {
+                    "de-DE": "Überlebe 5 Minuten lang mit 6 Fahndungssternen.",
+                    "en-US": "Survive 5 minutes on 6 star wanted level.",
+                    "es-ES": "Sobrevive 5 minutos con un nivel de búsqueda de 6 estrellas.",
+                    "fr-FR": "Survis pendant 5 minutes avec un indice de recherche de 6 étoiles.",
+                    "it-IT": "Sopravvivi per 5 minuti con 6 stelle di livello di sospetto.",
+                    "ja-JP": "手配度6の状態で5分間生き延びる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "33.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "de-DE": "Gesucht",
+                    "en-US": "Wanted",
+                    "es-ES": "Se busca",
+                    "fr-FR": "Recherché, mort ou vif",
+                    "it-IT": "Ricercato",
+                    "ja-JP": "最重要指名手配"
+                },
+                "description": {
+                    "de-DE": "Du hast im Multiplayermodus die höchste persönliche Einstufung erreicht.",
+                    "en-US": "You achieved the highest personal rank possible in multiplayer.",
+                    "es-ES": "Has obtenido la clasificación más alta en multijugador.",
+                    "fr-FR": "Tu as obtenu le rang le plus élevé dans le classement multijoueur.",
+                    "it-IT": "Ti sei guadagnato la massima classificazione personale in multiplayer.",
+                    "ja-JP": "マルチプレイで最高ランクを獲得した"
+                },
+                "howto": {
+                    "de-DE": "Erreiche im Multiplayermodus die höchste persönliche Einstufung.",
+                    "en-US": "Achieve the highest personal rank in multiplayer.",
+                    "es-ES": "Obtén la clasificación más alta en multijugador.",
+                    "fr-FR": "Obtiens le rang le plus élevé dans le classement multijoueur.",
+                    "it-IT": "Guadagnati la massima classificazione personale in multiplayer.",
+                    "ja-JP": "マルチプレイで最高ランクを獲得する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "34.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "Gracie-öse Lieferung",
+                    "en-US": "Gracefully Taken",
+                    "es-ES": "Cogida con elegancia",
+                    "fr-FR": "Gracieuse prise",
+                    "it-IT": "Presa con dolcezza",
+                    "ja-JP": "グレイシー誘拐事件"
+                },
+                "description": {
+                    "de-DE": "Du hast die Mission \"I'll Take Her\" beendet.",
+                    "en-US": "You completed the mission \"I'll Take Her\".",
+                    "es-ES": "Has completado la misión \"I'll Take Her\".",
+                    "fr-FR": "Tu as terminé la mission \"I'll Take Her\".",
+                    "it-IT": "Hai completato la missione \"I'll Take Her\".",
+                    "ja-JP": "ミッション\"I'll Take Her\"をクリアした"
+                },
+                "howto": {
+                    "de-DE": "Beende die Mission \"I'll Take Her\".",
+                    "en-US": "Complete mission \"I'll Take Her\".",
+                    "es-ES": "Completa la misión \"I'll Take Her\".",
+                    "fr-FR": "Termine la mission \"I'll Take Her\".",
+                    "it-IT": "Completa la missione \"I'll Take Her\".",
+                    "ja-JP": "ミッション\"I'll Take Her\"をクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "35.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "That Special Someone",
+                    "en-US": "That Special Someone",
+                    "es-ES": "Esa persona especial",
+                    "fr-FR": "That Special Someone",
+                    "it-IT": "Come lui non c'è nessuno",
+                    "ja-JP": "特別な誰か"
+                },
+                "description": {
+                    "de-DE": "Du hast die Mission \"That Special Someone\" beendet.",
+                    "en-US": "You completed the mission \"That Special Someone\".",
+                    "es-ES": "Has completado la misión \"That Special Someone\".",
+                    "fr-FR": "Tu as terminé la mission \"That Special Someone\".",
+                    "it-IT": "Hai completato la missione \"That Special Someone\".",
+                    "ja-JP": "ミッション\"That Special Someone\"をクリアした"
+                },
+                "howto": {
+                    "de-DE": "Beende die Mission \"That Special Someone\".",
+                    "en-US": "Complete mission \"That Special Someone\".",
+                    "es-ES": "Completa la misión \"That Special Someone\".",
+                    "fr-FR": "Termine la mission \"That Special Someone\".",
+                    "it-IT": "Completa la missione \"That Special Someone\".",
+                    "ja-JP": "ミッション\"That Special Someone\"をクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "36.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "Säubere die Straßen",
+                    "en-US": "Cleaned The Mean Streets",
+                    "es-ES": "Calles peligrosas despejadas",
+                    "fr-FR": "Justicier de la rue",
+                    "it-IT": "Ripulite le strade",
+                    "ja-JP": "防犯活動家"
+                },
+                "description": {
+                    "de-DE": "Du hast mithilfe des Polizeicomputers 20 Verbrecher geschnappt.",
+                    "en-US": "You caught 20 criminals through the police computer.",
+                    "es-ES": "Has capturado a 20 criminales mediante el ordenador de la policía.",
+                    "fr-FR": "Tu as attrapé 20 criminels en utilisant l'ordinateur de la police.",
+                    "it-IT": "Hai preso 20 criminali usando il computer della polizia.",
+                    "ja-JP": "警察の端末から開始できる犯罪者を仕留めるミッションを20回クリアした"
+                },
+                "howto": {
+                    "de-DE": "Schnappe mithilfe des Polizeicomputers 20 Verbrecher.",
+                    "en-US": "Capture 20 criminals through the police computer.",
+                    "es-ES": "Captura a 20 criminales a través del ordenador de la policía.",
+                    "fr-FR": "Capture 20 criminels grâce à l'ordinateur de la police.",
+                    "it-IT": "Cattura 20 criminali tramite il computer della polizia.",
+                    "ja-JP": "警察の端末から開始できる犯罪者を仕留めるミッションを20回クリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "37.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "Nachricht erhalten",
+                    "en-US": "You Got The Message",
+                    "es-ES": "Has recibido el mensaje",
+                    "fr-FR": "Reçu cinq sur cinq",
+                    "it-IT": "SMS: Servizio Mezzi Sgraffignati",
+                    "ja-JP": "ユー・ガット・メッセージ"
+                },
+                "description": {
+                    "de-DE": "Du hast alle 30 per SMS bestellten Wagen geliefert.",
+                    "en-US": "You delivered all 30 cars ordered through text message.",
+                    "es-ES": "Has entregado los 30 coches solicitados mediante mensajes de texto.",
+                    "fr-FR": "Tu as livré les 30 voitures commandées par SMS.",
+                    "it-IT": "Hai consegnato tutte e 30 le auto ordinate tramite messaggi.",
+                    "ja-JP": "スティービーから携帯メールで注文された車30台を全て届けた"
+                },
+                "howto": {
+                    "de-DE": "Liefere alle 30 per SMS bestellten Wagen.",
+                    "en-US": "Deliver all 30 cars ordered through text message.",
+                    "es-ES": "Entrega los 30 coches solicitados mediante mensajes de texto.",
+                    "fr-FR": "Livre les 30 voitures commandées par SMS.",
+                    "it-IT": "Consegna tutte e 30 le auto ordinate tramite messaggi.",
+                    "ja-JP": "スティービーから携帯メールで注文された車30台を全て届ける"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "38.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Keine weiteren Fremden",
+                    "en-US": "No More Strangers",
+                    "es-ES": "¡Basta de extraños!",
+                    "fr-FR": "Relations publiques",
+                    "it-IT": "Giro di amici",
+                    "ja-JP": "全員お友達"
+                },
+                "description": {
+                    "de-DE": "Du hast alle Zufallscharaktere kennengelernt.",
+                    "en-US": "You've met all the random characters.",
+                    "es-ES": "Has conocido a todos los personajes aleatorios.",
+                    "fr-FR": "Tu as rencontré tous les personnages aléatoires.",
+                    "it-IT": "Hai incontrato tutti i personaggi casuali.",
+                    "ja-JP": "街にいる全てのサブキャラクターに会った"
+                },
+                "howto": {
+                    "de-DE": "Triff alle Zufallscharaktere.",
+                    "en-US": "Meet all random characters.",
+                    "es-ES": "Conoce a todos los personajes aleatorios. ",
+                    "fr-FR": "Rencontre tous les personnages aléatoires. ",
+                    "it-IT": "Incontra tutti i personaggi casuali. ",
+                    "ja-JP": "街にいる全てのサブキャラクターに会う"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "39.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "Gefütterte Fische",
+                    "en-US": "Fed The Fish",
+                    "es-ES": "Peces alimentados",
+                    "fr-FR": "Vlad et Niko sont sur un bateau",
+                    "it-IT": "Cibo per i pesci",
+                    "ja-JP": "魚のエサ"
+                },
+                "description": {
+                    "de-DE": "Du hast die Mission \"Uncle Vlad\" beendet.",
+                    "en-US": "You completed the mission \"Uncle Vlad\".",
+                    "es-ES": "Has completado la misión \"Uncle Vlad\".",
+                    "fr-FR": "Tu as terminé la mission \"Uncle Vlad\".",
+                    "it-IT": "Hai completato la missione \"Uncle Vlad\".",
+                    "ja-JP": "ミッション\"Uncle Vlad\"をクリアした"
+                },
+                "howto": {
+                    "de-DE": "Beende die Mission \"Uncle Vlad\".",
+                    "en-US": "Complete the mission \"Uncle Vlad\".",
+                    "es-ES": "Completa la misión \"Uncle Vlad\".",
+                    "fr-FR": "Termine la mission \"Uncle Vlad\".",
+                    "it-IT": "Completa la missione \"Uncle Vlad\".",
+                    "ja-JP": "ミッション\"Uncle Vlad\"をクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "5",
+            "imageId": "40.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Wähle B für Bombe",
+                    "en-US": "Dial B For Bomb",
+                    "es-ES": "Pulsa la B de bomba",
+                    "fr-FR": "Pour la bombe, tapez deux",
+                    "it-IT": "B come bomba",
+                    "ja-JP": "遠隔操作ボム"
+                },
+                "description": {
+                    "de-DE": "Du hast die Spezialfähigkeit 'Autobombenleger Packie' freigeschaltet.",
+                    "en-US": "You unlocked the special ability of Packie's car bomb placement.",
+                    "es-ES": "Has desbloqueado la habilidad especial de colocación de bombas de Packie.",
+                    "fr-FR": "Tu as débloqué la compétence spéciale de Packie : poser des bombes dans des voitures.",
+                    "it-IT": "Hai sbloccato l'abilità speciale dell'autobomba di Packie.",
+                    "ja-JP": "パッキーの車載爆弾を利用できるようになった"
+                },
+                "howto": {
+                    "de-DE": "Schalte die Spezialfähigkeit frei, eine Bombe per Telefon zu bestellen.",
+                    "en-US": "Unlock the special ability of phoning for a bomb to be placed.",
+                    "es-ES": "Desbloquea la habilidad especial de pedir que se coloque una bomba por teléfono.",
+                    "fr-FR": "Débloque la compétence spéciale permettant de poser une bombe en un coup de fil.",
+                    "it-IT": "Sblocca l'abilità speciale di piazzare una bomba via telefono.",
+                    "ja-JP": "パッキーの特殊技能を解除する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "10",
+            "imageId": "41.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Mr. Bellics Chauffeur",
+                    "en-US": "Driving Mr. Bellic",
+                    "es-ES": "Paseando al Sr. Bellic",
+                    "fr-FR": "M. Bellic et son chauffeur",
+                    "it-IT": "Dove vuole andare, sig. Bellic?",
+                    "ja-JP": "ドライビングMr.ベリック"
+                },
+                "description": {
+                    "de-DE": "Du hast die Spezialfähigkeit von Romans Taxi freigeschaltet.",
+                    "en-US": "You unlocked the special ability of Roman's taxi.",
+                    "es-ES": "Has desbloqueado la habilidad especial del taxi de Roman.",
+                    "fr-FR": "Tu as débloqué la compétence spéciale de Roman : taxi.",
+                    "it-IT": "Hai sbloccato l'abilità speciale del taxi di Roman.",
+                    "ja-JP": "ローマンに送迎サービスを頼めるようになった"
+                },
+                "howto": {
+                    "de-DE": "Spiele die Spezialfähigkeit Taxi frei.",
+                    "en-US": "Unlock the special ability of taxi.",
+                    "es-ES": "Desbloquea la habilidad especial de taxi.",
+                    "fr-FR": "Débloque la capacité spéciale permettant d'appeler un taxi.",
+                    "it-IT": "Sblocca l'abilità speciale di chiamare un taxi.",
+                    "ja-JP": "ローマンの特殊技能を解除する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "10",
+            "imageId": "42.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "Das ist unser Style!",
+                    "en-US": "That's How We Roll!",
+                    "es-ES": "¡Así es como furulamos!",
+                    "fr-FR": "Ca roule ma poule !",
+                    "it-IT": "Volare, oh oh!",
+                    "ja-JP": "オレたちの生き様！"
+                },
+                "description": {
+                    "de-DE": "Du hast die Spezialfähigkeit von Brucies Hubschrauber-Flug freigeschaltet.",
+                    "en-US": "You unlocked the special ability of Brucie's helicopter ride.",
+                    "es-ES": "Has desbloqueado la habilidad especial de viajar en helicóptero de Brucie.",
+                    "fr-FR": "Tu as débloqué la compétence spéciale de Brucie : tours d'hélico.",
+                    "it-IT": "Hai sbloccato l'abilità speciale dell'elicottero di Brucie.",
+                    "ja-JP": "ブルーシーがヘリコプターで送迎してくれるようになった"
+                },
+                "howto": {
+                    "de-DE": "Spiele die Spezialfähigkeit Helikopter frei.",
+                    "en-US": "Unlock the special ability of helicopter.",
+                    "es-ES": "Desbloquea la habilidad especial de helicóptero.",
+                    "fr-FR": "Débloque la capacité spéciale permettant d'appeler un hélicoptère.",
+                    "it-IT": "Sblocca l'abilità speciale di chiamare un elicottero.",
+                    "ja-JP": "ブルーシーの特殊技能を解除する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "10",
+            "imageId": "43.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "Frustkauf",
+                    "en-US": "Retail Therapy",
+                    "es-ES": "Terapia al por menor",
+                    "fr-FR": "Fournisseur perso",
+                    "it-IT": "Shopping terapeutico",
+                    "ja-JP": "買い物セラピー"
+                },
+                "description": {
+                    "de-DE": "Du hast die Spezialfähigkeit des Waffenkaufs bei Little Jacob freigeschaltet.",
+                    "en-US": "You unlocked the special ability of buying guns from Little Jacob.",
+                    "es-ES": "Has desbloqueado la habilidad especial de comprar armas a Little Jacob.",
+                    "fr-FR": "Tu as débloqué la compétence spéciale de Little Jacob : vente d'armes.",
+                    "it-IT": "Hai sbloccato l'abilità speciale di comprare armi da Little Jacob.",
+                    "ja-JP": "リトル・ジェイコブから武器が買えるようになった"
+                },
+                "howto": {
+                    "de-DE": "Spiele die Spezialfähigkeit frei, Schusswaffen von einem Freund zu kaufen.",
+                    "en-US": "Unlock the special ability of buying guns from a friend.",
+                    "es-ES": "Desbloquea la habilidad especial de comprarle armas a un amigo.",
+                    "fr-FR": "Débloque la capacité spéciale permettant d'acheter des armes à un ami.",
+                    "it-IT": "Sblocca l'abilità speciale di acquistare armi da un amico.",
+                    "ja-JP": "リトル・ジェイコブの特殊技能を解除する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "10",
+            "imageId": "44.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Eine halbe Million",
+                    "en-US": "Half Million",
+                    "es-ES": "Medio millón",
+                    "fr-FR": "Le 1/2 million, le 1/2 million !",
+                    "it-IT": "Mezzo milione",
+                    "ja-JP": "50万ドル"
+                },
+                "description": {
+                    "de-DE": "Du hast ein Vermögen von 500.000 $ angehäuft.",
+                    "en-US": "You have amassed a fortune of $500,000.",
+                    "es-ES": "Has amasado una fortuna de 500.000 $.",
+                    "fr-FR": "Tu as amassé 500.000$.",
+                    "it-IT": "Hai accumulato 500.000$.",
+                    "ja-JP": "$500,000の資産を貯めこんだ"
+                },
+                "howto": {
+                    "de-DE": "Erreiche eine Bilanz von 500.000 $.",
+                    "en-US": "Reach a balance of $500,000.",
+                    "es-ES": "Consigue una fortuna de 500.000 $.",
+                    "fr-FR": "Amasse 500.000$.",
+                    "it-IT": "Accumula 500.000$.",
+                    "ja-JP": "所持金を$500,000まで増やす"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "55",
+            "imageId": "45.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "Kettenreaktion",
+                    "en-US": "Chain Reaction",
+                    "es-ES": "Reacción en cadena",
+                    "fr-FR": "Réaction en chaîne",
+                    "it-IT": "Reazione a catena",
+                    "ja-JP": "誘爆"
+                },
+                "description": {
+                    "de-DE": "Du hast in 10 Sekunden 10 Fahrzeuge explodieren lassen.",
+                    "en-US": "You exploded 10 vehicles in 10 seconds.",
+                    "es-ES": "Has hecho explotar 10 vehículos en 10 segundos.",
+                    "fr-FR": "Tu as fait exploser 10 véhicules en 10 secondes.",
+                    "it-IT": "Hai fatto esplodere 10 veicoli in 10 secondi.",
+                    "ja-JP": "10秒以内に10台の乗り物を爆破した"
+                },
+                "howto": {
+                    "de-DE": "Du musst in 10 Sekunden 10 Fahrzeuge in die Luft jagen.",
+                    "en-US": "You must blow up 10 vehicles in 10 seconds.",
+                    "es-ES": "Debes hacer explotar 10 vehículos en 10 segundos.",
+                    "fr-FR": "Fais exploser 10 véhicules en 10 secondes.",
+                    "it-IT": "Devi far saltare in aria 10 veicoli in 10 secondi.",
+                    "ja-JP": "10秒以内に10台の乗り物を爆破する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "46.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Finish Him",
+                    "en-US": "Finish Him",
+                    "es-ES": "Acaba con él",
+                    "fr-FR": "Poing final",
+                    "it-IT": "Finiscilo!",
+                    "ja-JP": "とどめの一撃"
+                },
+                "description": {
+                    "de-DE": "Du hast in 4 Minuten 10 Nahkampfangriffe erfolgreich gekontert.",
+                    "en-US": "You completed 10 melee counters in 4 minutes.",
+                    "es-ES": "Has completado 10 desafíos cuerpo a cuerpo en 4 minutos.",
+                    "fr-FR": "Tu as réussi à contrer 10 fois en 4 minutes dans des combats au corps à corps.",
+                    "it-IT": "Hai completato 10 contrattacchi in mischia in 4 minuti.",
+                    "ja-JP": "近接格闘のカウンターを4分以内に10回成功した"
+                },
+                "howto": {
+                    "de-DE": "Kontere 10 Nahkampfangriffe in 4 Minuten.",
+                    "en-US": "Complete 10 melee counters in 4 minutes.",
+                    "es-ES": "Completa 10 desafíos cuerpo a cuerpo en 4 minutos.",
+                    "fr-FR": "Contre 10 fois en 4 minutes dans des combats au corps à corps.",
+                    "it-IT": "Esegui 10 contrattacchi in mischia entro 4 minuti.",
+                    "ja-JP": "近接格闘のカウンターを4分以内に10回成功する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "47.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "Stuntfahrer",
+                    "en-US": "Dare Devil",
+                    "es-ES": "Temerario",
+                    "fr-FR": "L'homme qui tombe à pique",
+                    "it-IT": "Vita spericolata",
+                    "ja-JP": "不死身の男"
+                },
+                "description": {
+                    "de-DE": "Du hast alle Monster-Stunts absolviert.",
+                    "en-US": "You completed all the unique stunt jumps.",
+                    "es-ES": "Has completado todos los saltos acrobáticos únicos.",
+                    "fr-FR": "Tu as réussi toutes les cascades uniques.",
+                    "it-IT": "Hai completato tutte le acrobazie folli.",
+                    "ja-JP": "全てのユニーク・スタントジャンプに成功した"
+                },
+                "howto": {
+                    "de-DE": "Absolviere 100% der Monster-Stunts.",
+                    "en-US": "Complete 100% of the unique stunt jumps.",
+                    "es-ES": "Completa el 100% de los saltos acrobáticos.",
+                    "fr-FR": "Termine les cascades uniques à 100%.",
+                    "it-IT": "Completa il 100% delle acrobazie folli.",
+                    "ja-JP": "全てのユニーク・スタントジャンプに成功する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "48.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Gefährdete Spezies",
+                    "en-US": "Endangered Species",
+                    "es-ES": "Especie en peligro de extinción",
+                    "fr-FR": "Espèce menacée",
+                    "it-IT": "Specie in via di estinzione",
+                    "ja-JP": "絶滅危惧種"
+                },
+                "description": {
+                    "de-DE": "Du hast alle versteckten Päckchen des Spiels eingesammelt.",
+                    "en-US": "You collected every hidden package in the game.",
+                    "es-ES": "Has recogido todos los paquetes ocultos del juego.",
+                    "fr-FR": "Tu as récupéré tous les paquets cachés du jeu.",
+                    "it-IT": "Hai raccolto tutti i pacchetti nascosti del gioco.",
+                    "ja-JP": "鳥インフルエンザのハトを全て駆除した"
+                },
+                "howto": {
+                    "de-DE": "Sammle alle im Spiel versteckten Päckchen.",
+                    "en-US": "Collect every hidden package in the game.",
+                    "es-ES": "Consigue todos los paquetes ocultos del juego.",
+                    "fr-FR": "Récupère tous les paquets cachés dans le jeu.",
+                    "it-IT": "Recupera tutti i pacchetti nascosti.",
+                    "ja-JP": "鳥インフルエンザのハトを全て駆除する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "49.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Freie Bahn",
+                    "en-US": "Walk Free",
+                    "es-ES": "Camina en libertad",
+                    "fr-FR": "En catimini",
+                    "it-IT": "A piede libero",
+                    "ja-JP": "無罪放免"
+                },
+                "description": {
+                    "de-DE": "Du bist deine 4 Fahndungssterne losgeworden.",
+                    "en-US": "You successfully lost a 4 star wanted rating.",
+                    "es-ES": "Has perdido con éxito un nivel de búsqueda de 4 estrellas.",
+                    "fr-FR": "Tu as réussi à faire baisser un indice de recherche de 4 étoiles.",
+                    "it-IT": "Ti sei liberato da 4 stelle di livello di sospetto.",
+                    "ja-JP": "手配度4を消すことに成功した"
+                },
+                "howto": {
+                    "de-DE": "Werde einen 4-Sterne-Fahndungslevel los, indem du die Cops abhängst.",
+                    "en-US": "Lose a 4 star wanted rating by outrunning the cops.",
+                    "es-ES": "Pierde un nivel de búsqueda de 4 estrellas dejando atrás a los polis.",
+                    "fr-FR": "Perds un indice de recherche de 4 étoiles en semant les flics.",
+                    "it-IT": "Azzera le 4 stelle di livello di sospetto sfuggendo alla polizia.",
+                    "ja-JP": "手配度4を消すことに成功する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "50.png"
+        },
+        "51": {
+            "text": {
+                "name": {
+                    "de-DE": "TLAD: Einprozentig",
+                    "en-US": "TLAD: One Percenter",
+                    "es-ES": "TLAD: Uno por ciento",
+                    "fr-FR": "TLAD: Vieux motard que jamais",
+                    "it-IT": "TLAD: One Percenter",
+                    "ja-JP": "TLAD：ワン・パーセンター"
+                },
+                "description": {
+                    "de-DE": "Billy sitzt wieder auf seinem Bike.",
+                    "en-US": "Billy is back on his bike.",
+                    "es-ES": "Billy recupera su moto",
+                    "fr-FR": "Billy a retrouvé sa moto.",
+                    "it-IT": "Billy è tornato sulla sua moto.",
+                    "ja-JP": "ビリーがバイクに戻った"
+                },
+                "howto": {
+                    "de-DE": "Hilf Billy, sein Bike zurückzubekommen. (The Lost and Damned)",
+                    "en-US": "Help Billy get his bike back. (The Lost and Damned)",
+                    "es-ES": "Ayuda a Billy a recuperar su moto (The Lost and Damned).",
+                    "fr-FR": "Aider Billy à retrouver sa moto. (The Lost and Damned)",
+                    "it-IT": "Aiuta Billy a recuperare la sua moto. (The Lost and Damned)",
+                    "ja-JP": "ビリーがバイクを取り戻す手助けをする（The Lost and Damned）"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "5",
+            "imageId": "51.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "de-DE": "TLAD: Der verlorene Sohn",
+                    "en-US": "TLAD: The Lost Boy",
+                    "es-ES": "TLAD: El chico perdido",
+                    "fr-FR": "TLAD: Le fils prodigue",
+                    "it-IT": "TLAD: Il ragazzo perduto",
+                    "ja-JP": "TLAD：ロスト・ボーイ"
+                },
+                "description": {
+                    "de-DE": "Gepriesen sei der Anführer der Lost!",
+                    "en-US": "All hail the leader of The Lost!",
+                    "es-ES": "¡Saludad al jefe de los Lost!",
+                    "fr-FR": "Un nouveau président pour les Lost !",
+                    "it-IT": "Viva il capo dei Lost!",
+                    "ja-JP": "ロストのリーダー万歳！"
+                },
+                "howto": {
+                    "de-DE": "Werde Anführer der Lost. (The Lost and Damned)",
+                    "en-US": "Become leader of The Lost. (The Lost and Damned)",
+                    "es-ES": "Conviértete en el jefe de los Lost (The Lost and Damned).",
+                    "fr-FR": "Devenir président des Lost. (The Lost and Damned)",
+                    "it-IT": "Diventa il capo dei Lost. (The Lost and Damned)",
+                    "ja-JP": "ロストのリーダーになる（The Lost and Damned）"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "52.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "de-DE": "TLAD: Easy Rider",
+                    "en-US": "TLAD: Easy Rider ",
+                    "es-ES": "TLAD: Easy Rider",
+                    "fr-FR": "TLAD: Easy Rider",
+                    "it-IT": "TLAD: Easy Rider",
+                    "ja-JP": "TLAD：イージーライダー"
+                },
+                "description": {
+                    "de-DE": "Du hast die Story von 'The Lost and Damned' abgeschlossen.",
+                    "en-US": "You have completed the story for 'The Lost and Damned'.",
+                    "es-ES": "Has completado la historia de \"The Lost and Damned\".",
+                    "fr-FR": "Tu as terminé la trame principale de \"The Lost and Damned\".",
+                    "it-IT": "Hai completato la storia di 'The Lost and Damned'.",
+                    "ja-JP": "「The Lost and Damned」のストーリーモードをクリアした"
+                },
+                "howto": {
+                    "de-DE": "Schließe die Story ab. (The Lost and Damned)",
+                    "en-US": "Finish the story. (The Lost and Damned)",
+                    "es-ES": "Acaba la historia (The Lost and Damned).",
+                    "fr-FR": "Terminer l'histoire principale. (The Lost and Damned)",
+                    "it-IT": "Finisci la storia. (The Lost and Damned)",
+                    "ja-JP": "「The Lost and Damned」のストーリーモードをクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "100",
+            "imageId": "53.png"
+        },
+        "54": {
+            "text": {
+                "name": {
+                    "de-DE": "TLAD: Krasser Knüppel",
+                    "en-US": "TLAD: Get Good Wood",
+                    "es-ES": "TLAD: Repartiendo leña",
+                    "fr-FR": "TLAD: Batte-man",
+                    "it-IT": "TLAD: Duro come il marmo",
+                    "ja-JP": "TLAD：ジャストミートを狙え"
+                },
+                "description": {
+                    "de-DE": "Du hast 69 Biker bei Rennen heruntergeschlagen.",
+                    "en-US": "You maimed 69 bikers while racing.",
+                    "es-ES": "Has lesionado a 69 moteros durante las carreras.",
+                    "fr-FR": "Tu as éclaté la tronche de 69 motards lors de courses.",
+                    "it-IT": "Hai picchiato 69 biker durante le gare.",
+                    "ja-JP": "レース中に69人のバイカーを叩き落とした"
+                },
+                "howto": {
+                    "de-DE": "Schlage bei Rennen 69 Biker mit einem Baseballschläger vom Bike. (The Lost and Damned)",
+                    "en-US": "In the bike races, whack off 69 bikers with a bat. (The Lost and Damned)",
+                    "es-ES": "En las carreras de motos, golpea a 69 moteros con un bate (The Lost and Damned).",
+                    "fr-FR": "Lors des courses de motos, dégager 69 motards à l'aide d'une batte. (The Lost and Damned)",
+                    "it-IT": "Durante le gare in moto disarciona a mazzate 69 biker. (The Lost and Damned)",
+                    "ja-JP": "バイクレース中にバットで69人のバイカーを叩き落とす（The Lost and Damned）"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "50",
+            "imageId": "54.png"
+        },
+        "55": {
+            "text": {
+                "name": {
+                    "de-DE": "TLAD: Voller Chat",
+                    "en-US": "TLAD: Full Chat",
+                    "es-ES": "TLAD: Charla a tope",
+                    "fr-FR": "TLAD: Mastoc",
+                    "it-IT": "TLAD: Una tribù che picchia",
+                    "ja-JP": "TLAD：フルチャット"
+                },
+                "description": {
+                    "de-DE": "Deine Verstärkung ist knallhart!",
+                    "en-US": "Your backup are riding at their best!",
+                    "es-ES": "¡Tus refuerzos son insuperables!",
+                    "fr-FR": "Tes renforts sont sacrément balaises !",
+                    "it-IT": "I tuoi rinforzi sono temprati come non mai!",
+                    "ja-JP": "応援に来た仲間はベストを尽くしている！"
+                },
+                "howto": {
+                    "de-DE": "Bring Terrys und Clays Härte auf 100%. (The Lost and Damned)",
+                    "en-US": "Build Terry and Clay's toughness to 100%. (The Lost and Damned)",
+                    "es-ES": "Aumenta la veteranía de Terry y Clay a 100% (The Lost and Damned).",
+                    "fr-FR": "Développer la résistance de Terry et Clay jusqu'à 100%. (The Lost and Damned)",
+                    "it-IT": "Porta la tempra di Terry e Clay al 100%. (The Lost and Damned)",
+                    "ja-JP": "テリーとクレイのタフネスを100％にする（The Lost and Damned）"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "70",
+            "imageId": "55.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "de-DE": "TBoGT: Abwärts",
+                    "en-US": "TBoGT: Gone Down",
+                    "es-ES": "TBoGT: Para abajo",
+                    "fr-FR": "TBOGT : Casse-cou",
+                    "it-IT": "TBoGT: Con i piedi per terra",
+                    "ja-JP": "TBoGT：降下完了"
+                },
+                "description": {
+                    "de-DE": "Alle Basejumps gefunden und abgeschlossen.",
+                    "en-US": "You found and completed all base jumps.",
+                    "es-ES": "Encontraste y completaste todos los saltos base.",
+                    "fr-FR": "Tu as trouvé et réussi tous les base jumps.",
+                    "it-IT": "Hai trovato e completato tutti i salti con il paracadute.",
+                    "ja-JP": "すべてのベースジャンプを達成した"
+                },
+                "howto": {
+                    "de-DE": "Schließe alle Basejumps ab. (The Ballad of Gay Tony)",
+                    "en-US": "Complete all base jumps. (The Ballad of Gay Tony)",
+                    "es-ES": "Completa todos los saltos base. (The Ballad of Gay Tony)",
+                    "fr-FR": "Réussir tous les base jumps. (The Ballad of Gay Tony)",
+                    "it-IT": "Completa tutti i salti con il paracadute. (The Ballad of Gay Tony)",
+                    "ja-JP": "すべてのベースジャンプを達成する（The Ballad of Gay Tony）"
+                }
+            },
+            "isSecret": "true",
+            "type": "Tournament",
+            "credits": "5",
+            "imageId": "56.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "de-DE": "TBoGT: Diamantenfieber",
+                    "en-US": "TBoGT: Diamonds Forever",
+                    "es-ES": "TBoGT: Diamantes para siempre",
+                    "fr-FR": "TBoGT : Les diam's sont éternels",
+                    "it-IT": "TBoGT: Un diamante per amico",
+                    "ja-JP": "TBoGT：ダイヤは永遠に"
+                },
+                "description": {
+                    "de-DE": "Du hast die Museum-Story abgeschlossen.",
+                    "en-US": "You completed the Museum story.",
+                    "es-ES": "Has completado la historia del museo.",
+                    "fr-FR": "Tu as terminé l'histoire du musée.",
+                    "it-IT": "Hai completato la storia nel museo.",
+                    "ja-JP": "博物館のミッションをクリアした"
+                },
+                "howto": {
+                    "de-DE": "Beende die Trinität. (The Ballad of Gay Tony)",
+                    "en-US": "Complete the Trinity. (The Ballad of Gay Tony)",
+                    "es-ES": "Completa la Trinidad. (The Ballad of Gay Tony)",
+                    "fr-FR": "Terminer l'histoire du musée. (The Ballad of Gay Tony)",
+                    "it-IT": "Completa la trinità. (The Ballad of Gay Tony)",
+                    "ja-JP": "博物館のミッションをクリアする（The Ballad of Gay Tony）"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "5",
+            "imageId": "57.png"
+        },
+        "63": {
+            "text": {
+                "name": {
+                    "de-DE": "TBoGT: Maestro",
+                    "en-US": "TBoGT: Maestro",
+                    "es-ES": "TBoGT: Maestro",
+                    "fr-FR": "TBoGT : Maestro",
+                    "it-IT": "TBoGT: Maestro",
+                    "ja-JP": "TBoGT：マエストロ"
+                },
+                "description": {
+                    "de-DE": "Du hast die Story von The Ballad of Gay Tony abgeschlossen.",
+                    "en-US": "You finished the story of The Ballad of Gay Tony.",
+                    "es-ES": "Has completado la historia de The Ballad of Gay Tony.",
+                    "fr-FR": "Tu as terminé l'histoire de The Ballad of Gay Tony.",
+                    "it-IT": "Hai finito la storia di The Ballad of Gay Tony.",
+                    "ja-JP": "「The Ballad of Gay Tony」のストーリーモードをクリアした"
+                },
+                "howto": {
+                    "de-DE": "Beende die Ballade. (The Ballad of Gay Tony)",
+                    "en-US": "Finish the Ballad. (The Ballad of Gay Tony)",
+                    "es-ES": "Completa la Balada. (The Ballad of Gay Tony)",
+                    "fr-FR": "Terminer l'épisode. (The Ballad of Gay Tony)",
+                    "it-IT": "Finisci la ballata. (The Ballad of Gay Tony)",
+                    "ja-JP": "「The Ballad of Gay Tony」のストーリーモードをクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "58.png"
+        },
+        "61": {
+            "text": {
+                "name": {
+                    "de-DE": "TBoGT: Schneekönigin",
+                    "en-US": "TBoGT: Snow Queen",
+                    "es-ES": "TBoGT: Reina de la nieve",
+                    "fr-FR": "TBoGT : Carte blanche",
+                    "it-IT": "TBoGT: La regina in bianco",
+                    "ja-JP": "TBoGT：スノークイーン"
+                },
+                "description": {
+                    "de-DE": "Du hast 25 Drogenkriege abgeschlossen.",
+                    "en-US": "You finished 25 drug wars.",
+                    "es-ES": "Has completado 25 guerras de drogas.",
+                    "fr-FR": "Tu as terminé 25 guerres des drogues.",
+                    "it-IT": "Hai portato a termine 25 guerre di droga.",
+                    "ja-JP": "25件のドラッグウォーをクリアした"
+                },
+                "howto": {
+                    "de-DE": "Schließe 25 Drogenkriege ab. (The Ballad of Gay Tony)",
+                    "en-US": "Complete 25 drug wars. (The Ballad of Gay Tony)",
+                    "es-ES": "Completa 25 guerras de drogas. (The Ballad of Gay Tony)",
+                    "fr-FR": "Terminer 25 guerres des drogues. (The Ballad of Gay Tony)",
+                    "it-IT": "Completa 25 guerre di droga. (The Ballad of Gay Tony)",
+                    "ja-JP": "25件のドラッグウォーをクリアする（The Ballad of Gay Tony）"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "59.png"
+        },
+        "59": {
+            "text": {
+                "name": {
+                    "de-DE": "TBoGT: Harter Kampf",
+                    "en-US": "TBoGT: Bear Fight",
+                    "es-ES": "TBoGT: Lucha de osos",
+                    "fr-FR": "TBoGT : Imbattable",
+                    "it-IT": "TBoGT: Animale da combattimento",
+                    "ja-JP": "TBoGT：ベア・ファイト"
+                },
+                "description": {
+                    "de-DE": "Du bist der unangefochtene Champion des L.C. Cage Fighters.",
+                    "en-US": "You are the undisputed champion of L.C. Cage Fighters.",
+                    "es-ES": "Eres el campeón indiscutible de la Lucha en Jaula L.C.",
+                    "fr-FR": "Tu es le champion incontesté de L.C. Cage Fighters.",
+                    "it-IT": "Sei il campione indiscusso delle lotte nella gabbia.",
+                    "ja-JP": "文句なしでLCケージファイトのチャンピオンだ"
+                },
+                "howto": {
+                    "de-DE": "Gewinne den L.C. Cage Fighters Champion Titel. (The Ballad of Gay Tony)",
+                    "en-US": "Win the L.C. Cage Fighters championship. (The Ballad of Gay Tony)",
+                    "es-ES": "Gana el campeonato de Lucha en Jaula L.C. (The Ballad of Gay Tony)",
+                    "fr-FR": "Devenir champion de L.C. Cage Fighters. (The Ballad of Gay Tony)",
+                    "it-IT": "Diventa il campione delle lotte nella gabbia. (The Ballad of Gay Tony)",
+                    "ja-JP": "LCケージファイト選手権で優勝する（The Ballad of Gay Tony）"
+                }
+            },
+            "isSecret": "true",
+            "type": "Tournament",
+            "credits": "15",
+            "imageId": "60.png"
+        },
+        "58": {
+            "text": {
+                "name": {
+                    "de-DE": "TBoGT: Vierer",
+                    "en-US": "TBoGT: Four Play",
+                    "es-ES": "TBoGT: Juego de cuatro",
+                    "fr-FR": "TBoGT : Pro du swing",
+                    "it-IT": "TBoGT: Ammazza che precisione!",
+                    "ja-JP": "TBoGT：フォー・プレー"
+                },
+                "description": {
+                    "de-DE": "Dein Abschlag ist sehr gut.",
+                    "en-US": "You are a very good swinger.",
+                    "es-ES": "Eres un buen golfista.",
+                    "fr-FR": "Le golf, ça te connaît.",
+                    "it-IT": "La tua mazza ti precede.",
+                    "ja-JP": "どんな棒でも上手く扱えそうだ"
+                },
+                "howto": {
+                    "de-DE": "Triff mit einem Golfball vier Mal eine Flagge. (The Ballad of Gay Tony)",
+                    "en-US": "Hit a flag with a golf ball four times. (The Ballad of Gay Tony)",
+                    "es-ES": "Golpea una bandera con una pelota de golf cuatro veces. (The Ballad of Gay Tony)",
+                    "fr-FR": "Toucher quatre fois un drapeau avec une balle de golf. (The Ballad of Gay Tony)",
+                    "it-IT": "Colpisci quattro volte una bandierina con la pallina da golf. (The Ballad of Gay Tony)",
+                    "ja-JP": "ゴルフボールを旗に4回当てる（The Ballad of Gay Tony）"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "61.png"
+        },
+        "64": {
+            "text": {
+                "name": {
+                    "de-DE": "TBoGT: Hinter der Samtschnur",
+                    "en-US": "TBoGT: Past the Velvet Rope",
+                    "es-ES": "TBoGT: Tras el hilo de seda",
+                    "fr-FR": "TBoGT : Sur la liste",
+                    "it-IT": "TBoGT: Oltre il tappeto rosso",
+                    "ja-JP": "TBoGT：ベルベットロープを越えて"
+                },
+                "description": {
+                    "de-DE": "Du hast ein gutes Flair dafür.",
+                    "en-US": "You have a good flair for this.",
+                    "es-ES": "Esto se te da bien.",
+                    "fr-FR": "Tu t'en sors plutôt bien.",
+                    "it-IT": "Hai mostrato classe ed eleganza.",
+                    "ja-JP": "いいゲームセンスだ"
+                },
+                "howto": {
+                    "de-DE": "Erreiche 80% in allen Missionen. (The Ballad of Gay Tony)",
+                    "en-US": "Score 80% or above in all missions. (The Ballad of Gay Tony)",
+                    "es-ES": "Completa al 80% o más todas las misiones. (The Ballad of Gay Tony)",
+                    "fr-FR": "Terminer toutes les missions à au moins 80%. (The Ballad of Gay Tony)",
+                    "it-IT": "Ottieni almeno l'80% in tutte le missioni. (The Ballad of Gay Tony)",
+                    "ja-JP": "すべてのミッションで80％以上のスコアを獲得する（The Ballad of Gay Tony）"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "45",
+            "imageId": "62.png"
+        },
+        "62": {
+            "text": {
+                "name": {
+                    "de-DE": "TBoGT: Adrenalin-Junkie",
+                    "en-US": "TBoGT: Adrenaline Junkie",
+                    "es-ES": "TBoGT: Adicto a la adrenalina",
+                    "fr-FR": "TBoGT : Des sensations... pures",
+                    "it-IT": "TBoGT: Fino all'ultimo respiro",
+                    "ja-JP": "TBoGT：アドレナリン中毒"
+                },
+                "description": {
+                    "de-DE": "Du hast deinen Fallschirm beim höchsten freien Fall im letzten Moment geöffnet.",
+                    "en-US": "You pulled your chute at the last possible moment from the highest freefall.",
+                    "es-ES": "Has abierto el paracaídas en el último momento posible desde la caída libre de máxima altura.",
+                    "fr-FR": "Tu as ouvert ton parachute au dernier moment lors de la chute libre la plus longue.",
+                    "it-IT": "Hai aperto il paracadute all'ultimissimo momento dopo la caduta libera più lunga possibile.",
+                    "ja-JP": "一番高い場所からの自由落下でギリギリまで開傘を待った"
+                },
+                "howto": {
+                    "de-DE": "Bleib so lange wie möglich im freien Fall. (The Ballad of Gay Tony)",
+                    "en-US": "Freefall for the longest possible time. (The Ballad of Gay Tony)",
+                    "es-ES": "Mantén la caída libre durante el máximo tiempo posible. (The Ballad of Gay Tony)",
+                    "fr-FR": "Sauter en chute libre le plus longtemps possible. (The Ballad of Gay Tony)",
+                    "it-IT": "Vola in caduta libera per il tempo più lungo possibile. (The Ballad of Gay Tony)",
+                    "ja-JP": "最長自由落下を達成する（The Ballad of Gay Tony）"
+                }
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "25",
+            "imageId": "63.png"
+        },
+        "60": {
+            "text": {
+                "name": {
+                    "de-DE": "TBoGT: Fang den Bus.",
+                    "en-US": "TBoGT: Catch the Bus",
+                    "es-ES": "TBoGT: Me paso el día bailando",
+                    "fr-FR": "TBoGT : Il est D.I.S.C.O.",
+                    "it-IT": "TBoGT: Agile come un giaguaro",
+                    "ja-JP": "TBoGT：ノリノリで行こう"
+                },
+                "description": {
+                    "de-DE": "Deine Moves sind so heiß!",
+                    "en-US": "Love your smoking hot moves!",
+                    "es-ES": "¡Nos encantan tus sensuales pasos de baile!",
+                    "fr-FR": "Tu as le rythme dans la peau !",
+                    "it-IT": "Le tue mosse bollenti hanno fatto colpo!",
+                    "ja-JP": "めちゃイケてるダンスだ！"
+                },
+                "howto": {
+                    "de-DE": "Tanze perfekt in beiden Nachtclubs von Tony. (The Ballad of Gay Tony)",
+                    "en-US": "Dance perfectly in both Tony's nightclubs. (The Ballad of Gay Tony)",
+                    "es-ES": "Baila a la perfección en los dos locales de Tony. (The Ballad of Gay Tony)",
+                    "fr-FR": "Danser parfaitement dans les deux clubs de Tony. (The Ballad of Gay Tony)",
+                    "it-IT": "Danza alla perfezione in entrambi i club di Tony. (The Ballad of Gay Tony)",
+                    "ja-JP": "トニーの両ナイトクラブでダンスを完ぺきに決める（The Ballad of Gay Tony）"
+                }
+            },
+            "isSecret": "true",
+            "type": "Tournament",
+            "credits": "15",
+            "imageId": "64.png"
+        },
+        "65": {
+            "text": {
+                "name": {
+                    "de-DE": "TBoGT: Superstar",
+                    "en-US": "TBoGT: Gold Star",
+                    "es-ES": "TBoGT: Estrella de oro",
+                    "fr-FR": "TBoGT : VIP",
+                    "it-IT": "TBoGT: Nel privé del paradiso",
+                    "ja-JP": "TBoGT：ゴールドスター"
+                },
+                "description": {
+                    "de-DE": "Du bist jetzt offizieller TBoGT-Experte. Geh rumstolzieren!",
+                    "en-US": "You are now officially an expert in TBoGT, go strut!",
+                    "es-ES": "Eres oficialmente un experto en TBoGT, ¡presume de ello!",
+                    "fr-FR": "Tu as gagné le titre d'expert de TBoGT, bien joué !",
+                    "it-IT": "Sei ufficialmente un esperto di TBoGT, vantati pure!",
+                    "ja-JP": "このゲームの達人と認定しよう さあ 威張り倒すがいい！"
+                },
+                "howto": {
+                    "de-DE": "Erreiche 100% in allen Missionen. (The Ballad of Gay Tony)",
+                    "en-US": "Score 100% in all missions. (The Ballad of Gay Tony)",
+                    "es-ES": "Completa al 100% todas las misiones. (The Ballad of Gay Tony)",
+                    "fr-FR": "Terminer toutes les missions à 100%. (The Ballad of Gay Tony)",
+                    "it-IT": "Ottieni il 100% in tutte le missioni. (The Ballad of Gay Tony)",
+                    "ja-JP": "すべてのミッションで100％のスコアを獲得する（The Ballad of Gay Tony）"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "80",
+            "imageId": "65.png"
+        }
+    }
+}
