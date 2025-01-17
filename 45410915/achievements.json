@@ -1,0 +1,1223 @@
+{
+    "Achievements": {
+        "54": {
+            "text": {
+                "name": {
+                    "de-DE": "Rundumschlag",
+                    "en-US": "A Fist For Every Face",
+                    "fr-FR": "Un poing pour tous"
+                },
+                "description": {
+                    "de-DE": "Besiege das gesamte Fight Night Champion-Aufgebot im Schnellkampf.",
+                    "en-US": "Defeat the entire Fight Night Champion roster in Fight Now",
+                    "fr-FR": "Battre tous les boxeurs de Fight Night Champion en Combat immédiat"
+                },
+                "howto": {
+                    "de-DE": "Besiege das gesamte Fight Night Champion-Aufgebot im Schnellkampf.",
+                    "en-US": "Defeat the entire Fight Night Champion roster in Fight Now",
+                    "fr-FR": "Battre tous les boxeurs de Fight Night Champion en Combat immédiat"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "100",
+            "imageId": "01.png"
+        },
+        "55": {
+            "text": {
+                "name": {
+                    "de-DE": "Schweißausbruch",
+                    "en-US": "Breaking A Sweat",
+                    "fr-FR": "Transpiration"
+                },
+                "description": {
+                    "de-DE": "Erziele eine Champion-Bewertung in jedem Trainingsspiel.",
+                    "en-US": "Get a Champion rating on every Training Game",
+                    "fr-FR": "Obtenir une évaluation de Champion à chaque atelier d'entraînement"
+                },
+                "howto": {
+                    "de-DE": "Erziele eine Champion-Bewertung in jedem Trainingsspiel.",
+                    "en-US": "Get a Champion rating on every Training Game",
+                    "fr-FR": "Obtenir une évaluation de Champion à chaque atelier d'entraînement"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "02.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "de-DE": "Schmutzige Tricks",
+                    "en-US": "Low Down Dirty Tricks",
+                    "fr-FR": "Des coups bien bas"
+                },
+                "description": {
+                    "de-DE": "Besiege Kobe Nichols im Champion-Modus.",
+                    "en-US": "Defeat Kobe Nichols in Champion Mode",
+                    "fr-FR": "Battre Kobe Nichols en mode Champion"
+                },
+                "howto": {
+                    "de-DE": "Besiege Kobe Nichols im Champion-Modus.",
+                    "en-US": "Defeat Kobe Nichols in Champion Mode",
+                    "fr-FR": "Battre Kobe Nichols en mode Champion"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "58": {
+            "text": {
+                "name": {
+                    "de-DE": "Kraftreserven",
+                    "en-US": "Everything You Got Left",
+                    "fr-FR": "Tout donner"
+                },
+                "description": {
+                    "de-DE": "Besiege Meldrick Johnson im Champion-Modus.",
+                    "en-US": "Defeat Meldrick Johnson in Champion Mode",
+                    "fr-FR": "Battre Meldrick Johnson en mode Champion"
+                },
+                "howto": {
+                    "de-DE": "Besiege Meldrick Johnson im Champion-Modus.",
+                    "en-US": "Defeat Meldrick Johnson in Champion Mode",
+                    "fr-FR": "Battre Meldrick Johnson en mode Champion"
+                }
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "60": {
+            "text": {
+                "name": {
+                    "de-DE": "Willkommen im Dschungel",
+                    "en-US": "Welcome To The Jungle",
+                    "fr-FR": "Ici c'est la jungle"
+                },
+                "description": {
+                    "de-DE": "Besiege das Mitglied der Knastgang im Champion-Modus.",
+                    "en-US": "Defeat the prison gang member in Champion Mode",
+                    "fr-FR": "Battre le membre du gang en prison en mode Champion"
+                },
+                "howto": {
+                    "de-DE": "Besiege das Mitglied der Knastgang im Champion-Modus.",
+                    "en-US": "Defeat the prison gang member in Champion Mode",
+                    "fr-FR": "Battre le membre du gang en prison en mode Champion"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "62": {
+            "text": {
+                "name": {
+                    "de-DE": "Goldreif",
+                    "en-US": "Gold Medal Performance",
+                    "fr-FR": "Une performance qui vaut de l'or"
+                },
+                "description": {
+                    "de-DE": "Schlag Joel Savon im Champion-Modus nieder.",
+                    "en-US": "Knockout Joel Savon in Champion Mode",
+                    "fr-FR": "Mettre KO Joel Savon en mode Champion"
+                },
+                "howto": {
+                    "de-DE": "Schlag Joel Savon im Champion-Modus nieder.",
+                    "en-US": "Knockout Joel Savon in Champion Mode",
+                    "fr-FR": "Mettre KO Joel Savon en mode Champion"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "06.png"
+        },
+        "64": {
+            "text": {
+                "name": {
+                    "de-DE": "Wie du mir, so ich dir.",
+                    "en-US": "Turnabout If Fair Play",
+                    "fr-FR": "La réponse du berger…"
+                },
+                "description": {
+                    "de-DE": "Schlag Keyshawn Hayes mit einem linken Haken im Champion-Modus nieder.",
+                    "en-US": "Knockdown Keyshawn Hayes with a left hook in Champion Mode",
+                    "fr-FR": "Réaliser un Knockdown sur Keyshawn Hayes d'un crochet gauche en mode Champion"
+                },
+                "howto": {
+                    "de-DE": "Schlag Keyshawn Hayes mit einem linken Haken im Champion-Modus nieder.",
+                    "en-US": "Knockdown Keyshawn Hayes with a left hook in Champion Mode",
+                    "fr-FR": "Réaliser un Knockdown sur Keyshawn Hayes d'un crochet gauche en mode Champion"
+                }
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "25",
+            "imageId": "07.png"
+        },
+        "67": {
+            "text": {
+                "name": {
+                    "de-DE": "Krösus",
+                    "en-US": "Earning Baller Dollars",
+                    "fr-FR": "Des dollars à la pelle"
+                },
+                "description": {
+                    "de-DE": "Verdiene im Karriere-Modus 1 Millionen Dollar.",
+                    "en-US": "Earn $1,000,000 in Legacy Mode",
+                    "fr-FR": "Remporter 1 000 000 $ en mode Palmarès"
+                },
+                "howto": {
+                    "de-DE": "Verdiene im Karriere-Modus 1 Millionen Dollar.",
+                    "en-US": "Earn $1,000,000 in Legacy Mode",
+                    "fr-FR": "Remporter 1 000 000 $ en mode Palmarès"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "08.png"
+        },
+        "68": {
+            "text": {
+                "name": {
+                    "de-DE": "Pure Angeberei",
+                    "en-US": "Now You're Just Showing Off",
+                    "fr-FR": "Juste pour la route"
+                },
+                "description": {
+                    "de-DE": "Beginne einen Karriere-Modus-Kampf mit weniger als 50 % Ausdauer und gewinne.",
+                    "en-US": "Enter a Legacy Mode fight with less than 50% stamina and win",
+                    "fr-FR": "Participer à un combat du mode Palmarès avec moins de 50% d'endurance et gagner"
+                },
+                "howto": {
+                    "de-DE": "Beginne einen Karriere-Modus-Kampf mit weniger als 50 % Ausdauer und gewinne.",
+                    "en-US": "Enter a Legacy Mode fight with less than 50% stamina and win",
+                    "fr-FR": "Participer à un combat du mode Palmarès avec moins de 50% d'endurance et gagner"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "09.png"
+        },
+        "69": {
+            "text": {
+                "name": {
+                    "de-DE": "Buchstabensuppe",
+                    "en-US": "Alphabet Soup",
+                    "fr-FR": "Je mets quelle ceinture ?"
+                },
+                "description": {
+                    "de-DE": "Besitze im Karriere-Modus gleichzeitig alle Gürtel einer Gewichtsklasse.",
+                    "en-US": "Own all belts within one weight class at the same time in Legacy Mode",
+                    "fr-FR": "Détenir toutes les ceintures d'une catégorie en même temps en mode Palmarès"
+                },
+                "howto": {
+                    "de-DE": "Besitze im Karriere-Modus gleichzeitig alle Gürtel einer Gewichtsklasse.",
+                    "en-US": "Own all belts within one weight class at the same time in Legacy Mode",
+                    "fr-FR": "Détenir toutes les ceintures d'une catégorie en même temps en mode Palmarès"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "10.png"
+        },
+        "72": {
+            "text": {
+                "name": {
+                    "de-DE": "Bleib auf dem Teppich",
+                    "en-US": "Don't Let It Go To Your Head",
+                    "fr-FR": "Grosse tête"
+                },
+                "description": {
+                    "de-DE": "Lass dich im Karriere-Modus sponsern.",
+                    "en-US": "Get sponsored in Legacy Mode",
+                    "fr-FR": "Se faire sponsoriser en mode Palmarès"
+                },
+                "howto": {
+                    "de-DE": "Lass dich im Karriere-Modus sponsern.",
+                    "en-US": "Get sponsored in Legacy Mode",
+                    "fr-FR": "Se faire sponsoriser en mode Palmarès"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "73": {
+            "text": {
+                "name": {
+                    "de-DE": "Geh aufs Ganze",
+                    "en-US": "The Edge Of Legitimacy",
+                    "fr-FR": "Vers la reconnaissance"
+                },
+                "description": {
+                    "de-DE": "Werde im Karriere-Modus zum Profi.",
+                    "en-US": "Turn pro in Legacy Mode",
+                    "fr-FR": "Passer pro en mode Palmarès"
+                },
+                "howto": {
+                    "de-DE": "Werde im Karriere-Modus zum Profi.",
+                    "en-US": "Turn pro in Legacy Mode",
+                    "fr-FR": "Passer pro en mode Palmarès"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "12.png"
+        },
+        "74": {
+            "text": {
+                "name": {
+                    "de-DE": "Pure Poesie",
+                    "en-US": "How Poetic",
+                    "fr-FR": "Que c'est beau"
+                },
+                "description": {
+                    "de-DE": "Setz dich im Karriere-Modus als G.O.A.T. zur Ruhe.",
+                    "en-US": "Retire as the GOAT in Legacy Mode",
+                    "fr-FR": "Prendre sa retraite en étant Le plus grand en mode Palmarès"
+                },
+                "howto": {
+                    "de-DE": "Setz dich im Karriere-Modus als G.O.A.T. zur Ruhe.",
+                    "en-US": "Retire as the GOAT in Legacy Mode",
+                    "fr-FR": "Prendre sa retraite en étant Le plus grand en mode Palmarès"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "50",
+            "imageId": "13.png"
+        },
+        "77": {
+            "text": {
+                "name": {
+                    "de-DE": "Bankdrücken",
+                    "en-US": "Bench Pressing",
+                    "fr-FR": "Soulèvement de fonte"
+                },
+                "description": {
+                    "de-DE": "Erreiche in der OWC Boxer-Stufe 30.",
+                    "en-US": "Obtain boxer level 30 in OWC",
+                    "fr-FR": "Obtenir le niveau boxeur 30 en CML"
+                },
+                "howto": {
+                    "de-DE": "Erreiche in der OWC Boxer-Stufe 30.",
+                    "en-US": "Obtain boxer level 30 in OWC",
+                    "fr-FR": "Obtenir le niveau boxeur 30 en CML"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "14.png"
+        },
+        "78": {
+            "text": {
+                "name": {
+                    "de-DE": "Beinpresse",
+                    "en-US": "Hamstring Blasting",
+                    "fr-FR": "Renforcement musculaire"
+                },
+                "description": {
+                    "de-DE": "Erreiche in der OWC Boxer-Stufe 45.",
+                    "en-US": "Obtain boxer level 45 in OWC",
+                    "fr-FR": "Obtenir le niveau boxeur 45 en CML"
+                },
+                "howto": {
+                    "de-DE": "Erreiche in der OWC Boxer-Stufe 45.",
+                    "en-US": "Obtain boxer level 45 in OWC",
+                    "fr-FR": "Obtenir le niveau boxeur 45 en CML"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "75",
+            "imageId": "15.png"
+        },
+        "81": {
+            "text": {
+                "name": {
+                    "de-DE": "Fehde unter Freunden 1",
+                    "en-US": "A Fight Amongst Friends I",
+                    "fr-FR": "Petit combat entre amis I"
+                },
+                "description": {
+                    "de-DE": "Meistere einen Leichtgewichts-Ligakampf in einem Online-Gym.",
+                    "en-US": "Complete a lightweight League Match in an Online Gym",
+                    "fr-FR": "Terminer un combat de ligue poids légers dans un gymnase en ligne"
+                },
+                "howto": {
+                    "de-DE": "Meistere einen Leichtgewichts-Ligakampf in einem Online-Gym.",
+                    "en-US": "Complete a lightweight League Match in an Online Gym",
+                    "fr-FR": "Terminer un combat de ligue poids légers dans un gymnase en ligne"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "16.png"
+        },
+        "82": {
+            "text": {
+                "name": {
+                    "de-DE": "Crew-Aushängeschild 2",
+                    "en-US": "Represent The Crew II",
+                    "fr-FR": "Fier de nos couleurs II"
+                },
+                "description": {
+                    "de-DE": "Meistere einen Mittelgewichtskampf gegen ein Mitglied eines Rivalen-Gyms.",
+                    "en-US": "Complete a middleweight fight against a member of a Rival Gym",
+                    "fr-FR": "Terminer un combat poids moyens face à un membre d'un gymnase rival"
+                },
+                "howto": {
+                    "de-DE": "Meistere einen Mittelgewichtskampf gegen ein Mitglied eines Rivalen-Gyms.",
+                    "en-US": "Complete a middleweight fight against a member of a Rival Gym",
+                    "fr-FR": "Terminer un combat poids moyens face à un membre d'un gymnase rival"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "17.png"
+        },
+        "83": {
+            "text": {
+                "name": {
+                    "de-DE": "Fehde unter Freunden 2",
+                    "en-US": "A Fight Amongst Friends II",
+                    "fr-FR": "Petit combat entre amis II"
+                },
+                "description": {
+                    "de-DE": "Meistere einen Mittelgewichts-Ligakampf in einem Online-Gym.",
+                    "en-US": "Complete a middleweight League Match in an Online Gym",
+                    "fr-FR": "Terminer un combat de ligue poids moyens dans un gymnase en ligne"
+                },
+                "howto": {
+                    "de-DE": "Meistere einen Mittelgewichts-Ligakampf in einem Online-Gym.",
+                    "en-US": "Complete a middleweight League Match in an Online Gym",
+                    "fr-FR": "Terminer un combat de ligue poids moyens dans un gymnase en ligne"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "5",
+            "imageId": "18.png"
+        },
+        "85": {
+            "text": {
+                "name": {
+                    "de-DE": "Fehde unter Freunden 3",
+                    "en-US": "A Fight Amongst Friends III",
+                    "fr-FR": "Petit combat entre amis III"
+                },
+                "description": {
+                    "de-DE": "Meistere einen Schwergewichts-Ligakampf in einem Online-Gym.",
+                    "en-US": "Complete a heavyweight League Match in an Online Gym",
+                    "fr-FR": "Terminer un combat de ligue poids lourds dans un gymnase en ligne"
+                },
+                "howto": {
+                    "de-DE": "Meistere einen Schwergewichts-Ligakampf in einem Online-Gym.",
+                    "en-US": "Complete a heavyweight League Match in an Online Gym",
+                    "fr-FR": "Terminer un combat de ligue poids lourds dans un gymnase en ligne"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "5",
+            "imageId": "19.png"
+        },
+        "86": {
+            "text": {
+                "name": {
+                    "de-DE": "Es läuft, es läuft",
+                    "en-US": "This Is Going Well",
+                    "fr-FR": "Ça se présente bien"
+                },
+                "description": {
+                    "de-DE": "Schlag in einem Ranglisten-Spiel einen Gegner zwei Mal in einer Runde nieder.",
+                    "en-US": "Knockdown an opponent twice in the same round of a Ranked Match",
+                    "fr-FR": "Envoyer deux fois un adversaire au tapis dans le même round d'un matchmaking selon classement"
+                },
+                "howto": {
+                    "de-DE": "Schlag in einem Ranglisten-Spiel einen Gegner zwei Mal in einer Runde nieder.",
+                    "en-US": "Knockdown an opponent twice in the same round of a Ranked Match",
+                    "fr-FR": "Envoyer deux fois un adversaire au tapis dans le même round d'un matchmaking selon classement"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "15",
+            "imageId": "20.png"
+        },
+        "98": {
+            "text": {
+                "name": {
+                    "de-DE": "Geburt eines Champions",
+                    "en-US": "A Champion Emerges",
+                    "fr-FR": "Un nouveau champion"
+                },
+                "description": {
+                    "de-DE": "Besiege Isaac Frost im Champion-Modus.",
+                    "en-US": "Defeat Isaac Frost in Champion Mode",
+                    "fr-FR": "Battre Isaac Frost en mode Champion"
+                },
+                "howto": {
+                    "de-DE": "Besiege Isaac Frost im Champion-Modus.",
+                    "en-US": "Defeat Isaac Frost in Champion Mode",
+                    "fr-FR": "Battre Isaac Frost en mode Champion"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "21.png"
+        },
+        "99": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Richter gehören mir",
+                    "en-US": "I Brought My Own Judges",
+                    "fr-FR": "Arbitrage maison"
+                },
+                "description": {
+                    "de-DE": "Besiege Ricardo Alvarez im Champion-Modus.",
+                    "en-US": "Defeat Ricardo Alvarez in Champion Mode",
+                    "fr-FR": "Battre Ricardo Alvarez en mode Champion"
+                },
+                "howto": {
+                    "de-DE": "Besiege Ricardo Alvarez im Champion-Modus.",
+                    "en-US": "Defeat Ricardo Alvarez in Champion Mode",
+                    "fr-FR": "Battre Ricardo Alvarez en mode Champion"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "22.png"
+        },
+        "100": {
+            "text": {
+                "name": {
+                    "de-DE": "Überleben des Härtesten",
+                    "en-US": "Survival Of The Fittest",
+                    "fr-FR": "Lutte pour la survie"
+                },
+                "description": {
+                    "de-DE": "Besiege den Anführer der Knastgang im Champion-Modus.",
+                    "en-US": "Defeat the prison gang leader in Champion Mode",
+                    "fr-FR": "Battre le leader du gang en prison en mode Champion"
+                },
+                "howto": {
+                    "de-DE": "Besiege den Anführer der Knastgang im Champion-Modus.",
+                    "en-US": "Defeat the prison gang leader in Champion Mode",
+                    "fr-FR": "Battre le leader du gang en prison en mode Champion"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "23.png"
+        },
+        "101": {
+            "text": {
+                "name": {
+                    "de-DE": "Geblutet wird später",
+                    "en-US": "No Time To Bleed",
+                    "fr-FR": "Pas le temps de saigner"
+                },
+                "description": {
+                    "de-DE": "Schlag Dwight Cooper vor der 6. Runde im Champion-Modus nieder.",
+                    "en-US": "Knockout Dwight Cooper before the 6th round in Champion Mode",
+                    "fr-FR": "Mettre Dwight Cooper KO avant le 6ème round en mode Champion"
+                },
+                "howto": {
+                    "de-DE": "Schlag Dwight Cooper vor der 6. Runde im Champion-Modus nieder.",
+                    "en-US": "Knockout Dwight Cooper before the 6th round in Champion Mode",
+                    "fr-FR": "Mettre Dwight Cooper KO avant le 6ème round en mode Champion"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "24.png"
+        },
+        "102": {
+            "text": {
+                "name": {
+                    "de-DE": "Das Erwachen",
+                    "en-US": "The Awakening",
+                    "fr-FR": "Le réveil"
+                },
+                "description": {
+                    "de-DE": "Schlag Mason Brooks in weniger als 3 Minuten im Champion-Modus nieder.",
+                    "en-US": "Knockdown Mason Brooks in under 3 minutes in Champion Mode",
+                    "fr-FR": "Réaliser un Knockdown sur Mason Brooks en moins de 3 minutes en mode Champion"
+                },
+                "howto": {
+                    "de-DE": "Schlag Mason Brooks in weniger als 3 Minuten im Champion-Modus nieder.",
+                    "en-US": "Knockdown Mason Brooks in under 3 minutes in Champion Mode",
+                    "fr-FR": "Réaliser un Knockdown sur Mason Brooks en moins de 3 minutes en mode Champion"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "25.png"
+        },
+        "103": {
+            "text": {
+                "name": {
+                    "de-DE": "Eine Frage der Einstellung",
+                    "en-US": "THIS Is Sim",
+                    "fr-FR": "ÇA c'est de la simulation"
+                },
+                "description": {
+                    "de-DE": "Erstelle eine Einstellungs-Datei und lade sie auf EA SPORTS World hoch.",
+                    "en-US": "Create and upload a Settings file to EA SPORTS World",
+                    "fr-FR": "Créer et mettre en ligne un fichier Paramètres sur EA SPORTS World"
+                },
+                "howto": {
+                    "de-DE": "Erstelle eine Einstellungs-Datei und lade sie auf EA SPORTS World hoch.",
+                    "en-US": "Create and upload a Settings file to EA SPORTS World",
+                    "fr-FR": "Créer et mettre en ligne un fichier Paramètres sur EA SPORTS World"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "26.png"
+        },
+        "104": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Termin steht",
+                    "en-US": "A Fight Is Made",
+                    "fr-FR": "Paré au combat"
+                },
+                "description": {
+                    "de-DE": "Setz im Karriere-Modus deine erste Titelverteidigung an.",
+                    "en-US": "Schedule your first title defense in Legacy Mode",
+                    "fr-FR": "Programmer votre première défense de titre en mode Palmarès"
+                },
+                "howto": {
+                    "de-DE": "Setz im Karriere-Modus deine erste Titelverteidigung an.",
+                    "en-US": "Schedule your first title defense in Legacy Mode",
+                    "fr-FR": "Programmer votre première défense de titre en mode Palmarès"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "27.png"
+        },
+        "105": {
+            "text": {
+                "name": {
+                    "de-DE": "Weltenbummler",
+                    "en-US": "Globetrotter",
+                    "fr-FR": "Tour des gymnases"
+                },
+                "description": {
+                    "de-DE": "Trainiere im Karriere-Modus an allen Austragungsorten.",
+                    "en-US": "Train at every location in Legacy Mode",
+                    "fr-FR": "Entraînez-vous dans tous les lieux du mode Palmarès"
+                },
+                "howto": {
+                    "de-DE": "Trainiere im Karriere-Modus an allen Austragungsorten.",
+                    "en-US": "Train at every location in Legacy Mode",
+                    "fr-FR": "Entraînez-vous dans tous les lieux du mode Palmarès"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "28.png"
+        },
+        "106": {
+            "text": {
+                "name": {
+                    "de-DE": "Handstandliegestütze",
+                    "en-US": "Squat Thrusting",
+                    "fr-FR": "Squat intensif"
+                },
+                "description": {
+                    "de-DE": "Erreiche in der OWC Boxer-Stufe 60.",
+                    "en-US": "Obtain boxer level 60 in OWC",
+                    "fr-FR": "Obtenir le niveau boxeur 60 en CML"
+                },
+                "howto": {
+                    "de-DE": "Erreiche in der OWC Boxer-Stufe 60.",
+                    "en-US": "Obtain boxer level 60 in OWC",
+                    "fr-FR": "Obtenir le niveau boxeur 60 en CML"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "100",
+            "imageId": "29.png"
+        },
+        "107": {
+            "text": {
+                "name": {
+                    "de-DE": "Crew-Aushängeschild 1",
+                    "en-US": "Represent The Crew I",
+                    "fr-FR": "Fier de nos couleurs I"
+                },
+                "description": {
+                    "de-DE": "Meistere einen Leichtgewichtskampf gegen ein Mitglied eines Rivalen-Gyms.",
+                    "en-US": "Complete a lightweight fight against a member of a Rival Gym",
+                    "fr-FR": "Terminer un combat poids légers face à un membre d'un gymnase rival"
+                },
+                "howto": {
+                    "de-DE": "Meistere einen Leichtgewichtskampf gegen ein Mitglied eines Rivalen-Gyms.",
+                    "en-US": "Complete a lightweight fight against a member of a Rival Gym",
+                    "fr-FR": "Terminer un combat poids légers face à un membre d'un gymnase rival"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "30.png"
+        },
+        "108": {
+            "text": {
+                "name": {
+                    "de-DE": "Crew-Aushängeschild 3",
+                    "en-US": "Represent The Crew III",
+                    "fr-FR": "Fier de nos couleurs III"
+                },
+                "description": {
+                    "de-DE": "Meistere einen Schwergewichtskampf gegen ein Mitglied eines Rivalen-Gyms.",
+                    "en-US": "Complete a heavyweight fight against a member of a Rival Gym",
+                    "fr-FR": "Terminer un combat poids lourds face à un membre d'un gymnase rival"
+                },
+                "howto": {
+                    "de-DE": "Meistere einen Schwergewichtskampf gegen ein Mitglied eines Rivalen-Gyms.",
+                    "en-US": "Complete a heavyweight fight against a member of a Rival Gym",
+                    "fr-FR": "Terminer un combat poids lourds face à un membre d'un gymnase rival"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "31.png"
+        },
+        "109": {
+            "text": {
+                "name": {
+                    "de-DE": "Muskeltraining",
+                    "en-US": "Bicep Curling",
+                    "fr-FR": "Gonflement de biceps"
+                },
+                "description": {
+                    "de-DE": "Erreiche in der OWC Boxer-Stufe 15.",
+                    "en-US": "Obtain boxer level 15 in OWC",
+                    "fr-FR": "Obtenir le niveau boxeur 15 en CML"
+                },
+                "howto": {
+                    "de-DE": "Erreiche in der OWC Boxer-Stufe 15.",
+                    "en-US": "Obtain boxer level 15 in OWC",
+                    "fr-FR": "Obtenir le niveau boxeur 15 en CML"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "32.png"
+        },
+        "111": {
+            "text": {
+                "name": {
+                    "de-DE": "Betonriegel",
+                    "en-US": "My Defense Is Impregnable ",
+                    "fr-FR": "Défense impénétrable"
+                },
+                "description": {
+                    "de-DE": "Gewinne ein Ranglisten-Spiel, in dem die Präzision des Gegners höchstens 20 Prozent beträgt.",
+                    "en-US": "Win a Ranked Match with your opponent's accuracy at or below 20%",
+                    "fr-FR": "Remporter un matchmaking selon classement où la précision de votre adv. est inf. ou égale à 20 %\n\n"
+                },
+                "howto": {
+                    "de-DE": "Gewinne ein Ranglisten-Spiel, in dem die Präzision des Gegners höchstens 20 Prozent beträgt.",
+                    "en-US": "Win a Ranked Match with your opponent's accuracy at or below 20%",
+                    "fr-FR": "Remporter un matchmaking selon classement où la précision de votre adv. est inf. ou égale à 20 %\n\n"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "33.png"
+        },
+        "112": {
+            "text": {
+                "name": {
+                    "de-DE": "Es tut sich noch jemand weh",
+                    "en-US": "Somebody's Gonna Get Hurt",
+                    "fr-FR": "Ça va faire mal"
+                },
+                "description": {
+                    "de-DE": "Gewinne ein Ranglisten-Spiel durch Ringrichter-Abbruch.",
+                    "en-US": "Win a Ranked Match by referee stoppage",
+                    "fr-FR": "Remporter un matchmaking selon classement sur arrêt de l'arbitre"
+                },
+                "howto": {
+                    "de-DE": "Gewinne ein Ranglisten-Spiel durch Ringrichter-Abbruch.",
+                    "en-US": "Win a Ranked Match by referee stoppage",
+                    "fr-FR": "Remporter un matchmaking selon classement sur arrêt de l'arbitre"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "34.png"
+        },
+        "113": {
+            "text": {
+                "name": {
+                    "de-DE": "Zeit der Entscheidung",
+                    "en-US": "A Verdict Is In",
+                    "fr-FR": "Place au verdict"
+                },
+                "description": {
+                    "de-DE": "Gewinne ein Ranglisten-Spiel über 10 Runden.",
+                    "en-US": "Win a 10-round Ranked Match",
+                    "fr-FR": "Remporter un matchmaking selon classement en 10 rounds"
+                },
+                "howto": {
+                    "de-DE": "Gewinne ein Ranglisten-Spiel über 10 Runden.",
+                    "en-US": "Win a 10-round Ranked Match",
+                    "fr-FR": "Remporter un matchmaking selon classement en 10 rounds"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "35.png"
+        },
+        "114": {
+            "text": {
+                "name": {
+                    "de-DE": "Mister Zuverlässig",
+                    "en-US": "Mr. Reliable",
+                    "fr-FR": "Mr Confiance"
+                },
+                "description": {
+                    "de-DE": "Erreiche nach mind. 100 Ranglisten-Spielen einen Zuverlässigkeits-Multiplikator von mehr als 85 %.",
+                    "en-US": "Earn a Reliability Multiplier of more than 85% after playing at least 100 Ranked Matches",
+                    "fr-FR": "Remporter un multiplicateur de confiance sup. à 85% après au moins 100 matchmakings selon classement"
+                },
+                "howto": {
+                    "de-DE": "Erreiche nach mind. 100 Ranglisten-Spielen einen Zuverlässigkeits-Multiplikator von mehr als 85 %.",
+                    "en-US": "Earn a Reliability Multiplier of more than 85% after playing at least 100 Ranked Matches",
+                    "fr-FR": "Remporter un multiplicateur de confiance sup. à 85% après au moins 100 matchmakings selon classement"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "36.png"
+        },
+        "115": {
+            "text": {
+                "name": {
+                    "de-DE": "Erfolg ist ansteckend",
+                    "en-US": "Viral Victory",
+                    "fr-FR": "Victoire contagieuse"
+                },
+                "description": {
+                    "de-DE": "Besiege einen Entwickler (oder jemanden, der diesen Erfolg erreicht hat) in einem Ranglisten-Spiel.",
+                    "en-US": "Beat a Developer in a Ranked Match, or anyone with this Achievement",
+                    "fr-FR": "Battre un développeur dans un matchmaking selon classement ou tout adversaire possédant ce succès"
+                },
+                "howto": {
+                    "de-DE": "Besiege einen Entwickler (oder jemanden, der diesen Erfolg erreicht hat) in einem Ranglisten-Spiel.",
+                    "en-US": "Beat a Developer in a Ranked Match, or anyone with this Achievement",
+                    "fr-FR": "Battre un développeur dans un matchmaking selon classement ou tout adversaire possédant ce succès"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "37.png"
+        },
+        "116": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Mischung macht's",
+                    "en-US": "A Little This, A Little That",
+                    "fr-FR": "Un peu de ci, un peu de ça"
+                },
+                "description": {
+                    "de-DE": "Schlag einen Gegner in einem Ranglisten-Spiel mit einem Kopftreffer und einem Körpertreffer nieder.",
+                    "en-US": "Knockdown an opponent with a head shot and a body shot in a Ranked Match",
+                    "fr-FR": "Faire un knockdown avec un coup au visage et un coup au corps dans un matchmaking selon classement"
+                },
+                "howto": {
+                    "de-DE": "Schlag einen Gegner in einem Ranglisten-Spiel mit einem Kopftreffer und einem Körpertreffer nieder.",
+                    "en-US": "Knockdown an opponent with a head shot and a body shot in a Ranked Match",
+                    "fr-FR": "Faire un knockdown avec un coup au visage et un coup au corps dans un matchmaking selon classement"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "38.png"
+        },
+        "117": {
+            "text": {
+                "name": {
+                    "de-DE": "Wie macht er das bloß?",
+                    "en-US": "Will They Believe You?",
+                    "fr-FR": "Incroyable non ?"
+                },
+                "description": {
+                    "de-DE": "Steh in einem Ranglisten-Spiel nach dem vierten Niederschlag wieder auf.",
+                    "en-US": "Get up from a fourth knockdown during a Ranked Match",
+                    "fr-FR": "Se relever après un quatrième knockdown dans un matchmaking selon classement"
+                },
+                "howto": {
+                    "de-DE": "Steh in einem Ranglisten-Spiel nach dem vierten Niederschlag wieder auf.",
+                    "en-US": "Get up from a fourth knockdown during a Ranked Match",
+                    "fr-FR": "Se relever après un quatrième knockdown dans un matchmaking selon classement"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "39.png"
+        },
+        "118": {
+            "text": {
+                "name": {
+                    "de-DE": "Weg zum Ruhm",
+                    "en-US": "Road To Glory",
+                    "fr-FR": "En route pour la gloire"
+                },
+                "description": {
+                    "de-DE": "Schließe in der Online-World Championship 100 Kämpfe ab.",
+                    "en-US": "Complete 100 fights in Online World Championship",
+                    "fr-FR": "Terminer 100 combats dans le championnat du monde en ligne"
+                },
+                "howto": {
+                    "de-DE": "Schließe in der Online-World Championship 100 Kämpfe ab.",
+                    "en-US": "Complete 100 fights in Online World Championship",
+                    "fr-FR": "Terminer 100 combats dans le championnat du monde en ligne"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "40.png"
+        },
+        "119": {
+            "text": {
+                "name": {
+                    "de-DE": "Ich mach hier bloß meinen Jab",
+                    "en-US": "I'm Just Doing My Jab",
+                    "fr-FR": "Je fais simplement mon \"jab\""
+                },
+                "description": {
+                    "de-DE": "Teile 10.000 Jabs aus.",
+                    "en-US": "Jab 10,000 times",
+                    "fr-FR": "Effectuer 10 000 jabs"
+                },
+                "howto": {
+                    "de-DE": "Teile 10.000 Jabs aus.",
+                    "en-US": "Jab 10,000 times",
+                    "fr-FR": "Effectuer 10 000 jabs"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "41.png"
+        },
+        "120": {
+            "text": {
+                "name": {
+                    "de-DE": "Wie gewonnen, so benommen",
+                    "en-US": "Numba One Stunna",
+                    "fr-FR": "Sonneur de cloches"
+                },
+                "description": {
+                    "de-DE": "Schlag deine Gegner 1.000 Mal benommen.",
+                    "en-US": "Stun your opponents 1000 times",
+                    "fr-FR": "Sonner 1 000 fois vos adversaires"
+                },
+                "howto": {
+                    "de-DE": "Schlag deine Gegner 1.000 Mal benommen.",
+                    "en-US": "Stun your opponents 1000 times",
+                    "fr-FR": "Sonner 1 000 fois vos adversaires"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "42.png"
+        },
+        "121": {
+            "text": {
+                "name": {
+                    "de-DE": "Jede Sekunde zählt",
+                    "en-US": "Every Second Counts",
+                    "fr-FR": "Chaque seconde compte"
+                },
+                "description": {
+                    "de-DE": "Schlag einen Gegner in einem Ranglisten-Spiel weniger als 10 Sekunden vor Rundenende nieder.",
+                    "en-US": "Knockdown an opponent in a Ranked Match with less than 10 seconds left in the round",
+                    "fr-FR": "Mettre un adversaire knockdown dans les 10 dernières secondes d'un matchmaking selon classement"
+                },
+                "howto": {
+                    "de-DE": "Schlag einen Gegner in einem Ranglisten-Spiel weniger als 10 Sekunden vor Rundenende nieder.",
+                    "en-US": "Knockdown an opponent in a Ranked Match with less than 10 seconds left in the round",
+                    "fr-FR": "Mettre un adversaire knockdown dans les 10 dernières secondes d'un matchmaking selon classement"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "43.png"
+        },
+        "122": {
+            "text": {
+                "name": {
+                    "de-DE": "Das Gefühl der Macht",
+                    "en-US": "Can You Feel The Power?",
+                    "fr-FR": "Vous sentez la puissance ?"
+                },
+                "description": {
+                    "de-DE": "Bring einen Boxer-Wert aufs Maximum (Karriere-Modus, World Championship oder Online-Gyms).",
+                    "en-US": "Max out any skill of a Legacy Mode, World Championship, or Online Gyms boxer",
+                    "fr-FR": "Atteindre le niveau max. d'une aptitude en mode Palmarès, Championnat du monde ou Gymnases en ligne"
+                },
+                "howto": {
+                    "de-DE": "Bring einen Boxer-Wert aufs Maximum (Karriere-Modus, World Championship oder Online-Gyms).",
+                    "en-US": "Max out any skill of a Legacy Mode, World Championship, or Online Gyms boxer",
+                    "fr-FR": "Atteindre le niveau max. d'une aptitude en mode Palmarès, Championnat du monde ou Gymnases en ligne"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "44.png"
+        },
+        "123": {
+            "text": {
+                "name": {
+                    "de-DE": "Handschuhe aus!",
+                    "en-US": "The Gloves Come Off",
+                    "fr-FR": "Sans les gants"
+                },
+                "description": {
+                    "de-DE": "Meistere ein Ranglisten-Spiel im Bare-Knuckle-Modus.",
+                    "en-US": "Complete a Ranked Match in Bareknuckles Mode",
+                    "fr-FR": "Terminer un matchmaking selon classement en mode Combat à mains nues"
+                },
+                "howto": {
+                    "de-DE": "Meistere ein Ranglisten-Spiel im Bare-Knuckle-Modus.",
+                    "en-US": "Complete a Ranked Match in Bareknuckles Mode",
+                    "fr-FR": "Terminer un matchmaking selon classement en mode Combat à mains nues"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "45.png"
+        },
+        "125": {
+            "text": {
+                "name": {
+                    "de-DE": "Geschichtsstunde",
+                    "en-US": "Unforgiven",
+                    "fr-FR": "L'Impardonnable"
+                },
+                "description": {
+                    "de-DE": "Besiege Jack Johnson in einem Schnellkampf mit Standardeinstellungen.",
+                    "en-US": "Defeat Jack Johnson in Fight Now on default settings",
+                    "fr-FR": "Battre Jack Johnson en combat immédiat avec les paramètres par défaut"
+                },
+                "howto": {
+                    "de-DE": "Besiege Jack Johnson in einem Schnellkampf mit Standardeinstellungen.",
+                    "en-US": "Defeat Jack Johnson in Fight Now on default settings",
+                    "fr-FR": "Battre Jack Johnson en combat immédiat avec les paramètres par défaut"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "46.png"
+        },
+        "126": {
+            "text": {
+                "name": {
+                    "de-DE": "Düpierter Dempsey",
+                    "en-US": "Maul the Manassa Mauler",
+                    "fr-FR": "Qui a tué le Tueur de Manassa ?"
+                },
+                "description": {
+                    "de-DE": "Besiege Jack Dempsey in einem Schnellkampf mit Standardeinstellungen.",
+                    "en-US": "Defeat Jack Dempsey in Fight Now on default settings",
+                    "fr-FR": "Battre Jack Dempsey en combat immédiat avec les paramètres par défaut"
+                },
+                "howto": {
+                    "de-DE": "Besiege Jack Dempsey in einem Schnellkampf mit Standardeinstellungen.",
+                    "en-US": "Defeat Jack Dempsey in Fight Now on default settings",
+                    "fr-FR": "Battre Jack Dempsey en combat immédiat avec les paramètres par défaut"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "47.png"
+        },
+        "127": {
+            "text": {
+                "name": {
+                    "de-DE": "Brockton Blockbuster-Schock",
+                    "en-US": "Rock the Brockton Blockbuster",
+                    "fr-FR": "Un roc qui s'effrite"
+                },
+                "description": {
+                    "de-DE": "Besiege Rocky Marciano in einem Schnellkampf mit Standardeinstellungen.",
+                    "en-US": "Defeat Rocky Marciano in Fight Now on default settings",
+                    "fr-FR": "Battre Rocky Marciano en combat immédiat avec les paramètres par défaut"
+                },
+                "howto": {
+                    "de-DE": "Besiege Rocky Marciano in einem Schnellkampf mit Standardeinstellungen.",
+                    "en-US": "Defeat Rocky Marciano in Fight Now on default settings",
+                    "fr-FR": "Battre Rocky Marciano en combat immédiat avec les paramètres par défaut"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "48.png"
+        },
+        "128": {
+            "text": {
+                "name": {
+                    "de-DE": "Gentleman-Sieg",
+                    "en-US": "A Gentleman's Victory",
+                    "fr-FR": "Une victoire en gentleman"
+                },
+                "description": {
+                    "de-DE": "Besiege Floyd Patterson in einem Schnellkampf mit Standardeinstellungen.",
+                    "en-US": "Defeat Floyd Patterson in Fight Now on default settings",
+                    "fr-FR": "Battre Floyd Patterson en combat immédiat avec les paramètres par défaut"
+                },
+                "howto": {
+                    "de-DE": "Besiege Floyd Patterson in einem Schnellkampf mit Standardeinstellungen.",
+                    "en-US": "Defeat Floyd Patterson in Fight Now on default settings",
+                    "fr-FR": "Battre Floyd Patterson en combat immédiat avec les paramètres par défaut"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "49.png"
+        },
+        "129": {
+            "text": {
+                "name": {
+                    "de-DE": "Leiser Louis",
+                    "en-US": "Take Out the Brown Bomber",
+                    "fr-FR": "La chute du Bombardier brun"
+                },
+                "description": {
+                    "de-DE": "Besiege Joe Louis in einem Schnellkampf mit Standardeinstellungen.",
+                    "en-US": "Defeat Joe Louis in Fight Now on default settings",
+                    "fr-FR": "Battre Joe Louis en combat immédiat avec les paramètres par défaut"
+                },
+                "howto": {
+                    "de-DE": "Besiege Joe Louis in einem Schnellkampf mit Standardeinstellungen.",
+                    "en-US": "Defeat Joe Louis in Fight Now on default settings",
+                    "fr-FR": "Battre Joe Louis en combat immédiat avec les paramètres par défaut"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "50.png"
+        },
+        "130": {
+            "text": {
+                "name": {
+                    "de-DE": "Gelöschte Flamme",
+                    "en-US": "Put Out the Filipino Flame",
+                    "fr-FR": "Souffler la flamme philippine"
+                },
+                "description": {
+                    "de-DE": "Besiege Manny Pacquiao (Leichtgewicht) in einem Schnellkampf mit Standardeinstellungen.",
+                    "en-US": "Defeat Lightweight Manny Pacquiao in Fight Now on default settings",
+                    "fr-FR": "Battre Manny Pacquiao (poids léger) en combat immédiat avec les paramètres par défaut"
+                },
+                "howto": {
+                    "de-DE": "Besiege Manny Pacquiao (Leichtgewicht) in einem Schnellkampf mit Standardeinstellungen.",
+                    "en-US": "Defeat Lightweight Manny Pacquiao in Fight Now on default settings",
+                    "fr-FR": "Battre Manny Pacquiao (poids léger) en combat immédiat avec les paramètres par défaut"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "51.png"
+        },
+        "131": {
+            "text": {
+                "name": {
+                    "de-DE": "Pikierter Pacquiao",
+                    "en-US": "Execute the Mexicutioner",
+                    "fr-FR": "Tomber le tombeur"
+                },
+                "description": {
+                    "de-DE": "Besiege Manny Pacquiao (Federgewicht) in einem Schnellkampf mit Standardeinstellungen.",
+                    "en-US": "Defeat Featherweight Manny Pacquiao in Fight Now on default settings",
+                    "fr-FR": "Battre Manny Pacquiao (poids plume) en combat immédiat avec les paramètres par défaut"
+                },
+                "howto": {
+                    "de-DE": "Besiege Manny Pacquiao (Federgewicht) in einem Schnellkampf mit Standardeinstellungen.",
+                    "en-US": "Defeat Featherweight Manny Pacquiao in Fight Now on default settings",
+                    "fr-FR": "Battre Manny Pacquiao (poids plume) en combat immédiat avec les paramètres par défaut"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "52.png"
+        },
+        "132": {
+            "text": {
+                "name": {
+                    "de-DE": "Schule hat begonnen",
+                    "en-US": "Take Junior to School",
+                    "fr-FR": "Une bonne leçon"
+                },
+                "description": {
+                    "de-DE": "Besiege Roy Jones Jr. (Mittelgewicht) in einem Schnellkampf mit Standardeinstellungen.",
+                    "en-US": "Defeat Middleweight Roy Jones Jr in Fight Now on default settings",
+                    "fr-FR": "Battre Roy Jones Jr (poids moyen) en combat immédiat avec les paramètres par défaut"
+                },
+                "howto": {
+                    "de-DE": "Besiege Roy Jones Jr. (Mittelgewicht) in einem Schnellkampf mit Standardeinstellungen.",
+                    "en-US": "Defeat Middleweight Roy Jones Jr in Fight Now on default settings",
+                    "fr-FR": "Battre Roy Jones Jr (poids moyen) en combat immédiat avec les paramètres par défaut"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "53.png"
+        }
+    }
+}
