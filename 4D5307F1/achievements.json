@@ -1,0 +1,2908 @@
+{
+    "Achievements": {
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "Plagegeist",
+                    "en-US": "The Teaser",
+                    "es-ES": "Bromista",
+                    "fr-FR": "Arsouille",
+                    "it-IT": "Il tormento",
+                    "ja-JP": "からかい好き",
+                    "ko-KR": "대담한 조롱꾼",
+                    "pl-PL": "Prowokator",
+                    "ru-RU": "Задира",
+                    "zh-CHT": "搗蛋鬼"
+                },
+                "description": {
+                    "de-DE": "Die Banditen haben es gar nicht anders verdient, als verwirrt zu werden. Und Spaß macht es auch!",
+                    "en-US": "Bandits deserve having their minds messed with, and it's also jolly good fun!",
+                    "es-ES": "Los bandidos están para meterse con ellos. ¡Es tronchante!",
+                    "fr-FR": "Les bandits méritent de se faire manipuler, et c'est tellement drôle !",
+                    "it-IT": "I banditi meritano di avere le idee annebbiate, e inoltre, è davvero divertente!",
+                    "ja-JP": "山賊をからかって、心をかき乱してやった。あー面白かった!",
+                    "ko-KR": "도적들은 조롱을 당해도 쌉니다. 그리고 재미도 있지 않습니까?",
+                    "pl-PL": "Bandytom należy fundować wiele wrażeń, a jaka przy tym zabawa!",
+                    "ru-RU": "Разбойники заслуживают того, чтобы им пудрили мозги. А еще это безумно весело!",
+                    "zh-CHT": "您就是喜歡去惹那些強盜，好玩的經驗！"
+                },
+                "howto": {
+                    "de-DE": "Bringt die Banditen dazu, mit Furcht, Wut, Freude und Verwirrung zu reagieren - und zwar im Kampf!",
+                    "en-US": "Make bandits respond to expressions with fear, anger, mirth, and confusion... during combat!",
+                    "es-ES": "En combate, los bandidos reaccionan ante las expresiones con miedo, furia, alegría y confusión. ",
+                    "fr-FR": "Provoquez la peur, la colère, l'hilarité et la confusion chez des bandits... pendant un combat !",
+                    "it-IT": "Fai reagire i banditi con paura, rabbia, allegria e confusione... durante il combattimento!",
+                    "ja-JP": "山賊との戦いの最中にアクションを実行し、怒り、恐怖、笑い、困惑などの反応を確かめる",
+                    "ko-KR": "전투 중에 여러 가지 표현을 사용하여 도적들이 두려워하고, 분노하고, 기뻐하고, 혼란스럽게 하십시오!",
+                    "pl-PL": "Sprowokuj bandytów gestem, wywołując strach, złość, rozbawienie i dezorientację... podczas walki!",
+                    "ru-RU": "Заставь разбойников реагировать смехом, злостью, страхом или смущением на твои выражения - в бою!",
+                    "zh-CHT": "在戰鬥中，做出表情讓強盜感覺恐懼、憤怒、好笑及困惑。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "01.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "Herrscher Albions",
+                    "en-US": "The Ruler of Albion",
+                    "es-ES": "Gobernante de Albión",
+                    "fr-FR": "Magnat",
+                    "it-IT": "Il signore di Albion",
+                    "ja-JP": "アルビオンの支配者",
+                    "ko-KR": "알비온의 통치자",
+                    "pl-PL": "Władca Albionu",
+                    "ru-RU": "Владыка Альбиона",
+                    "zh-CHT": "阿爾比恩的統治者"
+                },
+                "description": {
+                    "de-DE": "Reichere Helden gibt es in ganz Albion nicht!",
+                    "en-US": "There is no richer Hero in the whole of Albion!",
+                    "es-ES": "¡No hay héroe más rico en todo Albión!",
+                    "fr-FR": "Nul héros en Albion n'est plus riche que vous !",
+                    "it-IT": "In tutta Albion non c'è eroe più ricco di te!",
+                    "ja-JP": "アルビオンで最も裕福な英雄の誕生だ!",
+                    "ko-KR": "당신은 알비온 최고의 갑부입니다.",
+                    "pl-PL": "W całym Albionie nie ma bogatszego Bohatera!",
+                    "ru-RU": "Во всем Альбионе нет Героя богаче!",
+                    "zh-CHT": "您是阿爾比恩最有錢的英雄。"
+                },
+                "howto": {
+                    "de-DE": "Häuft Immobilien im Wert von 2,5 Millionen Gold an oder seid dabei, wenn andere Helden dies tun.",
+                    "en-US": "Amass a 2.5 million gold real estate empire, or be there when another Hero does.",
+                    "es-ES": "¡Levanta un imperio inmobiliario de 2 millones y medio de oro o presencia cómo lo hace otro héroe!",
+                    "fr-FR": "Créez un empire immobilier de 2,5 M de pièces d'or ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Accumula 2,5 milioni di monete d'oro in possedimenti, o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "所有する不動産の価値を 250 万ゴールド以上にする",
+                    "ko-KR": "부동산 가치를 250만 골드로 늘리거나 다른 영웅이 부동산 가치를 250만 골드로 늘리는 것을 확인하십시오.",
+                    "pl-PL": "Zbuduj imperium nieruchomości warte 2,5 miliona szt. złota lub zobacz, jak osiąga to inny Bohater.",
+                    "ru-RU": "Нужно накупить недвижимости на 2,5 миллиона золотых. Или увидеть, как это удалось другому Герою.",
+                    "zh-CHT": "持有價值超過 250 萬金幣的不動產！"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "100",
+            "imageId": "02.png"
+        },
+        "63": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Held des Willens",
+                    "en-US": "The Hero of Will",
+                    "es-ES": "El héroe de la Voluntad",
+                    "fr-FR": "Le héros de la Volonté",
+                    "it-IT": "L'Eroe della Volontà",
+                    "ja-JP": "ウィルの英雄",
+                    "ko-KR": "마법의 영웅",
+                    "pl-PL": "Bohater Woli",
+                    "ru-RU": "Герой Воли",
+                    "zh-CHT": "精之英雄"
+                },
+                "description": {
+                    "de-DE": "Ihr wart dabei, als der Held des Willens rekrutiert wurde.",
+                    "en-US": "You were there when the Hero of Will was recruited.",
+                    "es-ES": "Estabas presente cuando reclutaron al héroe de la Voluntad.",
+                    "fr-FR": "Vous étiez là lorsque le héros de la Volonté a été recruté.",
+                    "it-IT": "Eri presente quando l'Eroe della Volontà è stato reclutato.",
+                    "ja-JP": "ウィルの英雄を仲間にした",
+                    "ko-KR": "마법의 영웅을 동료로 맞이했습니다.",
+                    "pl-PL": "Bohater był obecny przy rekrutacji Bohatera Woli.",
+                    "ru-RU": "Тебе удалось завербовать Героя Воли или присутствовать при этом.",
+                    "zh-CHT": "徵召精之英雄。"
+                },
+                "howto": {
+                    "de-DE": "Vollendet den Quest \"Held des Willens\".",
+                    "en-US": "Complete The Hero of Will.",
+                    "es-ES": "Completa El héroe de la Voluntad.",
+                    "fr-FR": "Recrutez le héros de la Volonté.",
+                    "it-IT": "Completa L'Eroe della Volontà.",
+                    "ja-JP": "ウィルの英雄を仲間にする",
+                    "ko-KR": "마법의 영웅을 동료로 맞이하십시오.",
+                    "pl-PL": "Ukończ wątek Bohatera Woli.",
+                    "ru-RU": "Выполни задание \"Герой Воли\".",
+                    "zh-CHT": "完成精之英雄的徵召任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "100",
+            "imageId": "03.png"
+        },
+        "62": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Held der Stärke",
+                    "en-US": "The Hero of Strength",
+                    "es-ES": "El héroe de la Fuerza",
+                    "fr-FR": "Le héros de la Force",
+                    "it-IT": "L'Eroe della Forza",
+                    "ja-JP": "強さの英雄",
+                    "ko-KR": "힘의 영웅",
+                    "pl-PL": "Bohater Siły",
+                    "ru-RU": "Герой Силы",
+                    "zh-CHT": "力之英雄"
+                },
+                "description": {
+                    "de-DE": "Ihr wart dabei, als die Heldin der Stärke rekrutiert wurde.",
+                    "en-US": "You were there when the Hero of Strength was recruited.",
+                    "es-ES": "Estabas presente cuando reclutaron a la heroína de la Fuerza.",
+                    "fr-FR": "Vous étiez là lorsque le héros de la Force a été recruté.",
+                    "it-IT": "Eri presente quando l'Eroina della Forza è stata reclutata.",
+                    "ja-JP": "強さの英雄を仲間にした",
+                    "ko-KR": "힘의 영웅을 동료로 맞이했습니다.",
+                    "pl-PL": "Bohater był obecny przy rekrutacji Bohaterki Siły.",
+                    "ru-RU": "Тебе удалось завербовать Героя Силы или присутствовать при этом.",
+                    "zh-CHT": "徵召力之英雄。"
+                },
+                "howto": {
+                    "de-DE": "Vollendet den Quest \"Held der Stärke\".",
+                    "en-US": "Complete The Hero of Strength.",
+                    "es-ES": "Completa El héroe de la Fuerza.",
+                    "fr-FR": "Recrutez le héros de la Force.",
+                    "it-IT": "Completa L'Eroe della Forza.",
+                    "ja-JP": "強さの英雄を仲間にする",
+                    "ko-KR": "힘의 영웅을 동료로 맞이하십시오.",
+                    "pl-PL": "Ukończ wątek Bohatera Siły.",
+                    "ru-RU": "Выполни задание \"Герой Силы\".",
+                    "zh-CHT": "完成力之英雄的徵召任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "100",
+            "imageId": "04.png"
+        },
+        "64": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Held des Könnens",
+                    "en-US": "The Hero of Skill",
+                    "es-ES": "El héroe de la Habilidad",
+                    "fr-FR": "Le héros de l'Adresse",
+                    "it-IT": "L'Eroe dell'Abilità",
+                    "ja-JP": "スキルの英雄",
+                    "ko-KR": "기술의 영웅",
+                    "pl-PL": "Bohater Umiejętności",
+                    "ru-RU": "Герой Ловкости",
+                    "zh-CHT": "技之英雄"
+                },
+                "description": {
+                    "de-DE": "Ihr wart dabei, als der Held des Könnens rekrutiert wurde.",
+                    "en-US": "You were there when the Hero of Skill was recruited.",
+                    "es-ES": "Estabas presente cuando reclutaron al héroe de la Habilidad.",
+                    "fr-FR": "Vous étiez là lorsque le héros de l'Adresse a été recruté.",
+                    "it-IT": "Eri presente quando l'Eroe dell'Abilità è stato reclutato.",
+                    "ja-JP": "スキルの英雄を仲間にした",
+                    "ko-KR": "기술의 영웅을 동료로 맞이했습니다.",
+                    "pl-PL": "Bohater był obecny przy rekrutacji Bohatera Umiejętności.",
+                    "ru-RU": "Тебе удалось завербовать Героя Ловкости или присутствовать при этом.",
+                    "zh-CHT": "徵召技之英雄。"
+                },
+                "howto": {
+                    "de-DE": "Vollendet den Quest \"Held des Könnens\".",
+                    "en-US": "Complete The Hero of Skill.",
+                    "es-ES": "Completa El héroe de la Habilidad.",
+                    "fr-FR": "Recrutez le héros de l'Adresse.",
+                    "it-IT": "Completa L'Eroe dell'Abilità.",
+                    "ja-JP": "スキルの英雄を仲間にする",
+                    "ko-KR": "기술의 영웅을 동료로 맞이하십시오.",
+                    "pl-PL": "Ukończ wątek Bohatera Umiejętności.",
+                    "ru-RU": "Выполни задание \"Герой Ловкости\".",
+                    "zh-CHT": "完成技之英雄的徵召任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "100",
+            "imageId": "05.png"
+        },
+        "60": {
+            "text": {
+                "name": {
+                    "de-DE": "Neue Helden",
+                    "en-US": "The New Hero",
+                    "es-ES": "Novedad",
+                    "fr-FR": "Nouvelle star",
+                    "it-IT": "Il nuovo eroe",
+                    "ja-JP": "新たな英雄",
+                    "ko-KR": "새로운 영웅",
+                    "pl-PL": "Nowy Bohater",
+                    "ru-RU": "Новый Герой",
+                    "zh-CHT": "新英雄"
+                },
+                "description": {
+                    "de-DE": "Thag der Ungeduldige wurde besiegt. Albion hat neue Hoffnung auf neue Helden.",
+                    "en-US": "Thag the Impatient has been defeated. Albion has a new Hero.",
+                    "es-ES": "Han vencido a Thag el Impaciente. Albión tiene un nuevo héroe.",
+                    "fr-FR": "Thag l'Impatient a été vaincu. L'Albion compte une nouvelle star dans ses rangs.",
+                    "it-IT": "Thag l'impaziente è stato sconfitto. Albion ha un nuovo eroe.",
+                    "ja-JP": "山賊のボスであるサグが討伐され、アルビオンに新たな英雄が誕生した",
+                    "ko-KR": "불 같은 타그를 물리쳤습니다. 알비온의 새로운 영웅이 되었습니다.",
+                    "pl-PL": "Thag Niecierpliwy został pokonany. Albion ma teraz nowego Bohatera.",
+                    "ru-RU": "Тебе удалось сразиться с Убивцем Нетерпеливым и одолеть его. В Альбионе теперь есть новый Герой.",
+                    "zh-CHT": "您擊敗了沒耐心的薩格，一位新的英雄在阿爾比恩誕生了。"
+                },
+                "howto": {
+                    "de-DE": "Der Schrecken von Bowertümpel muss besiegt werden.",
+                    "en-US": "The terror of Bower Lake must be defeated.",
+                    "es-ES": "Hay que vencer al terror del lago Bower.",
+                    "fr-FR": "La terreur du lac de Bower doit être vaincue.",
+                    "it-IT": "Il terrore di Bower Lake deve essere sconfitto.",
+                    "ja-JP": "バウワーレイクに恐怖をもたらす悪党を始末する",
+                    "ko-KR": "바워 호수의 타그 일당을 물리치십시오.",
+                    "pl-PL": "Postrach znad jeziora Bower musi zostać pokonany.",
+                    "ru-RU": "Ужас Глуховодья должен быть повержен.",
+                    "zh-CHT": "擊敗包爾湖的恐怖份子。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "50",
+            "imageId": "06.png"
+        },
+        "59": {
+            "text": {
+                "name": {
+                    "de-DE": "Frechdachs",
+                    "en-US": "The Whippersnapper",
+                    "es-ES": "Arribista",
+                    "fr-FR": "Demi-portion",
+                    "it-IT": "Il risparmiatore",
+                    "ja-JP": "たくましき子供たち",
+                    "ko-KR": "부자 어린이",
+                    "pl-PL": "Zarozumialec",
+                    "ru-RU": "Зазнайка",
+                    "zh-CHT": "傲慢的傢伙"
+                },
+                "description": {
+                    "de-DE": "Ein heldenhaftes Kind hat fünf Goldstücke für einen schicksalhaften Zweck gesammelt.",
+                    "en-US": "A child Hero collected five gold pieces for a fateful purpose.",
+                    "es-ES": "Un joven héroe ha recogido cinco monedas de oro con un fatídico fin.",
+                    "fr-FR": "Un héros en herbe a récupéré cinq pièces d'or dans un but bien précis.",
+                    "it-IT": "Un eroe bambino ha raccolto cinque pezzi d'oro per uno scopo importante.",
+                    "ja-JP": "子供時代に、これからの人生を左右することになる運命の 5 ゴールドを集めた",
+                    "ko-KR": "어린 영웅의 운명을 결정지을 금화 5개를 모았습니다.",
+                    "pl-PL": "Dziecięcy Bohater zebrał pięć sztuk złota na podniosły cel.",
+                    "ru-RU": "Герою-ребенку удалось собрать пять золотых для очень важной цели.",
+                    "zh-CHT": "為了心中深信的信念，收集到 5 枚金幣。"
+                },
+                "howto": {
+                    "de-DE": "Ein heldenhaftes Kind muss fünf Goldstücke sammeln.",
+                    "en-US": "A child Hero must collect five gold pieces.",
+                    "es-ES": "Un joven héroe debe recoger cinco monedas de oro.",
+                    "fr-FR": "Un héros en herbe doit récupérer cinq pièces d'or.",
+                    "it-IT": "Un eroe bambino deve raccogliere cinque pezzi d'oro.",
+                    "ja-JP": "子供時代に 5 ゴールド集める",
+                    "ko-KR": "금화 5개를 모으십시오.",
+                    "pl-PL": "Dziecięcy Bohater musi zebrać pięć sztuk złota.",
+                    "ru-RU": "Герою-ребенку нужно собрать пять золотых.",
+                    "zh-CHT": "在英雄童年時收集 5 枚金幣。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "07.png"
+        },
+        "54": {
+            "text": {
+                "name": {
+                    "de-DE": "Puppenjagd",
+                    "en-US": "The Dollcatcher",
+                    "es-ES": "Recogemuñecas",
+                    "fr-FR": "Fan de poupées",
+                    "it-IT": "Il collezionista",
+                    "ja-JP": "人形コレクター",
+                    "ko-KR": "인형 수집가",
+                    "pl-PL": "Zbieracz lalek",
+                    "ru-RU": "Коллекционер кукол",
+                    "zh-CHT": "布偶收集家"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften habt alle Heldenpuppen gesammelt. Aber Ihr werdet sie nicht los.",
+                    "en-US": "You, or a friend, collected all the Hero dolls. Shame you can't auction them off now.",
+                    "es-ES": "Tú o un amigo habéis recogido todas las muñecas heroicas. Lástima que no las puedas subastar.",
+                    "fr-FR": "Vous, ou votre ami, avez récupéré toutes les poupées héros. Mais vous ne pouvez plus les vendre.",
+                    "it-IT": "Tu o un tuo amico avete trovato tutte le bambole degli eroi. Peccato non poterle vendere.",
+                    "ja-JP": "英雄の人形を全部集めた。残念ながらオークションには出せそうにないが...",
+                    "ko-KR": "당신 또는 다른 영웅이 영웅 인형을 모두 모았습니다. 경매에 올릴 수 없다는 게 아쉬울 따름이군요.",
+                    "pl-PL": "Ty lub twój przyjaciel zebraliście wszystkie lalki Bohaterów. Szkoda, że nie możesz ich sprzedać.",
+                    "ru-RU": "Тебе или твоему другу удалось собрать все куклы Героев. Жаль, что нельзя продать их на аукционе.",
+                    "zh-CHT": "您已經收集到所有英雄布偶，就連非常稀有的也拿到手了。真可惜您沒辦法把它們高價拍賣掉。"
+                },
+                "howto": {
+                    "de-DE": "Sammelt alle Heldenpuppen oder seid dabei, wenn andere Helden dies tun.",
+                    "en-US": "Collect all the Hero dolls, or see another Hero collect them.",
+                    "es-ES": "Recoge todas las muñecas heroicas o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Récupérez toutes les poupées héros ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Trova tutte le bambole degli eroi, o assisti mentre le trova un altro eroe.",
+                    "ja-JP": "英雄の人形を全部集める",
+                    "ko-KR": "영웅 인형을 모두 모으거나 다른 영웅이 모두 모으는 것을 확인하십시오.",
+                    "pl-PL": "Zbierz wszystkie lalki Bohatera lub bądź przy tym, jak inny Bohater je zbierze.",
+                    "ru-RU": "Нужно собрать все куклы Героев или увидеть, как их собирает другой Герой.",
+                    "zh-CHT": "收集所有英雄布偶。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "08.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Bigamie",
+                    "en-US": "The Bigamist",
+                    "es-ES": "Culpable de bigamia",
+                    "fr-FR": "Bigame",
+                    "it-IT": "Il bigamo",
+                    "ja-JP": "重婚者",
+                    "ko-KR": "두집살림",
+                    "pl-PL": "Bigamista",
+                    "ru-RU": "Адепт бигамии",
+                    "zh-CHT": "重婚者"
+                },
+                "description": {
+                    "de-DE": "Hochzeiten sind einfach toll - da kann man glatt zweimal heiraten!",
+                    "en-US": "Marriage is so great, one might as well do it twice!",
+                    "es-ES": "¡El matrimonio es tan maravilloso que no importa repetir!",
+                    "fr-FR": "Le mariage, c'est super ! Alors pourquoi se contenter d'un seul ?",
+                    "it-IT": "Il matrimonio è fantastico, ci si potrebbe sposare due volte!",
+                    "ja-JP": "結婚があまりに楽しくて、ついついもう一度やっちゃった!?",
+                    "ko-KR": "결혼을 중복해서 하다니, 결혼이 어지간히도 좋은가 봅니다.",
+                    "pl-PL": "Małżeństwo jest tak wspaniałe, że warto wziąć ślub dwa razy!",
+                    "ru-RU": "Свадьба - это так здорово! Зачем ограничиваться одним разом? ",
+                    "zh-CHT": "婚姻生活太棒了，再結一次婚吧！"
+                },
+                "howto": {
+                    "de-DE": "Heiratet während Eurer ersten Ehe erneut oder seid bei der zweiten Hochzeit anderer Helden anwesend.",
+                    "en-US": "Get married a second time, whilst already married, or attend the second wedding of another Hero.",
+                    "es-ES": "Cásate de nuevo, sin divorciarte antes, o asiste a la segunda boda de otro héroe.",
+                    "fr-FR": "Mariez-vous une seconde fois, sans divorcer, ou assistez au second mariage d'un autre héros.",
+                    "it-IT": "Sposati una seconda volta mentre sei coniugato, o partecipa al secondo matrimonio di un altro eroe.",
+                    "ja-JP": "配偶者がいる状態で別の人と結婚する",
+                    "ko-KR": "결혼한 상태에서 다른 상대와 또 결혼하거나 다른 영웅의 두 번째 결혼식에 참석하십시오.",
+                    "pl-PL": "Weź ślub po raz drugi, będąc już w związku małżeńskim lub idź na drugi ślub innego Bohatera.",
+                    "ru-RU": "Вступи в повторный брак, перед этим не разводясь, или посети второе бракосочетание другого Героя.",
+                    "zh-CHT": "和第一位配偶仍有婚姻關係時，結第二次婚，或是參加其他英雄的二次婚禮。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "Duellant",
+                    "en-US": "The Duellist",
+                    "es-ES": "Duelista",
+                    "fr-FR": "Duelliste",
+                    "it-IT": "Il duellante",
+                    "ja-JP": "決闘愛好家",
+                    "ko-KR": "결투사",
+                    "pl-PL": "Miłośnik pojedynków",
+                    "ru-RU": "Дуэлянт",
+                    "zh-CHT": "決鬥高手"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften habt den Kettenangriff gemeistert. Die Angriffe sind bärenstark.",
+                    "en-US": "You, or a friend, have mastered the chain attack. Lightning-quick strikes are almost unstoppable.",
+                    "es-ES": "Tú o un amigo domináis los ataques concatenados. Tus veloces ataques son prácticamente imparables.",
+                    "fr-FR": "Vous, ou votre ami, maîtrisez les enchaînements. Ces coups fulgurants sont presque imparables.",
+                    "it-IT": "Tu o un tuo amico siete maestri degli attacchi a catena. Questi attacchi sono inarrestabili.",
+                    "ja-JP": "華麗なコンボ攻撃を繰り出した。目にも止まらぬその早業は、もう誰にも止められない!",
+                    "ko-KR": "당신 또는 다른 영웅은 연속 공격의 명수입니다. 번개같은 당신의 공격을 막을 자는 아무도 없습니다.",
+                    "pl-PL": "Ty lub twój przyjaciel opanowaliście Serię ataków, szybką jak błyskawica i prawie nie do uniknięcia.",
+                    "ru-RU": "Ты мастер сражения, можешь выполнить серию молниеносных ударов. Или это можно сказать о твоем друге.",
+                    "zh-CHT": "您(或好友)是連環攻擊大師，那閃電般快速的攻擊，幾乎無人能擋。"
+                },
+                "howto": {
+                    "de-DE": "Führt einen blitzschnellen Kettenangriff aus oder seid dabei, wenn andere Helden dies tun.",
+                    "en-US": "String together a full-speed chain attack, or see another Hero do so.",
+                    "es-ES": "Desata un ataque concatenado a toda velocidad o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Réalisez un enchaînement à toute vitesse ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Esegui una sequenza di attacchi a velocità massima, o assisti mentre un altro eroe la esegue.",
+                    "ja-JP": "高速のコンボ攻撃を繰り出す",
+                    "ko-KR": "최고 속도로 연속 공격을 펼치거나 다른 영웅이 펼치는 것을 확인하십시오.",
+                    "pl-PL": "Wykonaj jedną superszybką serię ataków lub zobacz, jak robi to inny Bohater.",
+                    "ru-RU": "Нужно выполнить самую быструю серию ударов или увидеть, как это удается сделать другому Герою.",
+                    "zh-CHT": "使出快速的連續攻擊，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "10.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "Glücksspiele",
+                    "en-US": "The Gambler",
+                    "es-ES": "Amante del azar",
+                    "fr-FR": "Esprit joueur",
+                    "it-IT": "Il giocatore d'azzardo",
+                    "ja-JP": "ギャンブラー",
+                    "ko-KR": "타짜",
+                    "pl-PL": "Hazardzista",
+                    "ru-RU": "Игрок",
+                    "zh-CHT": "賭徒"
+                },
+                "description": {
+                    "de-DE": "Ein heldenhaftes Individuum hat bei einem Kneipenspiel 500 Goldstücke auf einmal gewonnen. Sehr gut!",
+                    "en-US": "A Hero won 500 gold at a tavern game in one sitting. Time for more gambling!",
+                    "es-ES": "Un héroe ha ganado 500 de oro de una sentada en un juego de taberna. ¡Es hora de seguir apostando!",
+                    "fr-FR": "Un héros a gagné 500 pièces d'or au jeu en une fois. Il ne faut pas s'arrêter en si bonne voie !",
+                    "it-IT": "Un eroe ha vinto 500 monete d'oro al gioco in una sola sessione. Avanti con le puntate!",
+                    "ja-JP": "パブ ゲームで一度に 500 ゴールド稼いだ。もっともっと賭けまくれ!",
+                    "ko-KR": "Pub 게임에 참가하여 자리를 뜨지 않고 500골드를 벌었습니다. 아직 판은 끝나지 않았습니다!",
+                    "pl-PL": "Bohater wygrał 500 szt. złota w grze barowej podczas jednego posiedzenia. Zagrajmy jeszcze!",
+                    "ru-RU": "Герою удалось выиграть 500 золотых в азартную игру за один присест. Пора бы сыграть еще!",
+                    "zh-CHT": "在一場賭博遊戲中贏得 500 枚金幣。別在您手氣正好時停下來，再繼續賭啊！"
+                },
+                "howto": {
+                    "de-DE": "Helden müssen beim Kneipenspiel 500 Gold auf einmal gewinnen und dabei jeden Spieltyp ausprobieren.",
+                    "en-US": "A Hero must win 500 gold at a pub game in one sitting, having tried each game type at least once.",
+                    "es-ES": "Un héroe debe ganar 500 oro a la vez en la taberna y probar todos los juegos.",
+                    "fr-FR": "Un héros doit gagner 500 pièces d'or en une fois, après avoir essayé les jeux au moins une fois.",
+                    "it-IT": "Un eroe deve vincere 500 monete al gioco in una sessione, dopo aver provato tutti gli altri giochi.",
+                    "ja-JP": "すべてのパブ ゲームを最低 1 回はプレイした状態で、いずれかのゲームで一度に 500 ゴールド稼ぐ",
+                    "ko-KR": "Pub 게임에 참가하여 자리를 뜨지 않고 500골드를 획득하십시오. 종류별로 최소한 한 번씩 게임에 참가해야 합니다.",
+                    "pl-PL": "Bohater musi wygrać 500 szt. złota w grze barowej, naraz, po wypróbowaniu każdego typu gry.",
+                    "ru-RU": "Герой должен выиграть 500 золотых в азартную игру за один присест, сыграв в каждую игру хотя бы раз.",
+                    "zh-CHT": "在一場賭博遊戲中贏得 500 枚金幣，而且已經嘗試過所有不同的賭博遊戲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "de-DE": "Handwerker",
+                    "en-US": "The Artisan",
+                    "es-ES": "Menestral",
+                    "fr-FR": "Artisan",
+                    "it-IT": "L'artigiano",
+                    "ja-JP": "職人",
+                    "ko-KR": "위대한 장인",
+                    "pl-PL": "Rzemieślnik",
+                    "ru-RU": "Мастер",
+                    "zh-CHT": "工藝大師"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften habt Euch als mustergültiges Arbeitstier erwiesen.",
+                    "en-US": "You, or a friend, showed what it takes to be a model employee.",
+                    "es-ES": "Tú o un amigo habéis demostrado que tenéis lo que se requiere para triunfar en el trabajo.",
+                    "fr-FR": "Vous, ou votre ami, avez prouvé que vous étiez un employé modèle.",
+                    "it-IT": "Tu o un tuo amico avete mostrato cosa serve per diventare un dipendente modello.",
+                    "ja-JP": "一生懸命働いて模範的な仕事人として認められた",
+                    "ko-KR": "당신 또는 다른 영웅은 모범적인 직원이자 매우 성실한 일꾼입니다.",
+                    "pl-PL": "Ty lub twój przyjaciel jesteście przykładem modelowego pracownika.",
+                    "ru-RU": "Ты образцовый работник, просто само трудолюбие. Или это можно сказать о твоем друге.",
+                    "zh-CHT": "您(或好友)是努力工作的模範員工！"
+                },
+                "howto": {
+                    "de-DE": "Erreicht bei einer Arbeitsstelle Stufe 5 oder seid dabei, wenn andere Helden dies tun.",
+                    "en-US": "Succeed at one job to Level 5, or see another Hero do so.",
+                    "es-ES": "Asciende a Nivel 5 en un trabajo o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Atteignez le niveau 5 d'une profession ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Raggiungi il livello 5 in un lavoro, o assisti mentre lo raggiunge un altro eroe.",
+                    "ja-JP": "1 つの仕事でレベル 5 に到達する",
+                    "ko-KR": "한 가지 일거리에서 5단계로 진급하거나 다른 영웅이 진급하는 것을 확인하십시오.",
+                    "pl-PL": "Osiągnij w jednym zawodzie poziom 5 lub zobacz, jak robi to inny Bohater.",
+                    "ru-RU": "Нужно получить 5 уровень в любой работе или увидеть, как это удалось другому Герою.",
+                    "zh-CHT": "某一種工作達到等級 5，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "12.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "Ehepartner",
+                    "en-US": "The Spouse",
+                    "es-ES": "Cónyuge",
+                    "fr-FR": "Conjoint",
+                    "it-IT": "Il coniuge",
+                    "ja-JP": "生涯の伴侶",
+                    "ko-KR": "혼인 신고",
+                    "pl-PL": "W stałym związku",
+                    "ru-RU": "Вторая половина",
+                    "zh-CHT": "百年好合"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften seid verheiratet! Erinnert Ihr Euch nicht? Wart wohl betrunken.",
+                    "en-US": "You, or a friend, got married! You don't remember the wedding night? You were probably drunk.",
+                    "es-ES": "¡Tú o un amigo os habéis casado! ¿No recuerdas la noche de bodas? Beberías más de la cuenta.",
+                    "fr-FR": "Vous, ou votre ami, avez convolé ! Vous avez oublié votre nuit de noces ? Vous étiez sûrement ivre.",
+                    "it-IT": "Tu o un tuo amico vi siete sposati! Non ricordate la notte di nozze? Probabilmente eravate ubriachi.",
+                    "ja-JP": "結婚おめでとう! え、結婚式のことを覚えてない? 酔っ払いは困るなあ...",
+                    "ko-KR": "당신 또는 당신 침구가 결혼했습니다! 첫날밤이 생각은 나십니까? 정신없이 취했더군요.",
+                    "pl-PL": "Ty lub twój przyjaciel wzięliście ślub! Nie pamiętasz nocy poślubnej? Za dużo trunków.",
+                    "ru-RU": "У тебя была свадьба. Или у твоего друга. Что, не помнишь брачную ночь? Нечего было так напиваться.",
+                    "zh-CHT": "您(或好友)結婚了！什麼？不記得新婚之夜？您大概是喝醉了。"
+                },
+                "howto": {
+                    "de-DE": "Heiratet ein Mitglied der Dorfgemeinschaft oder seid bei der Hochzeit anderer Helden anwesend.",
+                    "en-US": "Marry a villager, or attend the wedding of another Hero.",
+                    "es-ES": "Cásate con alguien de la zona o asiste a la boda de otro héroe.",
+                    "fr-FR": "Épousez un villageois ou une villageoise ou assistez au mariage d'un autre héros.",
+                    "it-IT": "Sposa qualcuno, o partecipa al matrimonio di un altro eroe.",
+                    "ja-JP": "村人と結婚する",
+                    "ko-KR": "마을 주민과 결혼하거나 다른 영웅의 결혼식에 참석하십시오.",
+                    "pl-PL": "Poślub kogoś lub bądź na ślubie innego Bohatera.",
+                    "ru-RU": "Создай семью с кем-нибудь из поселян или приди на свадьбу другого Героя.",
+                    "zh-CHT": "和某位村民結婚，或是參加其他英雄的婚禮。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "13.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Romantik",
+                    "en-US": "The Romantic",
+                    "es-ES": "Alma romántica",
+                    "fr-FR": "Romantique",
+                    "it-IT": "Il romantico",
+                    "ja-JP": "ロマンチスト",
+                    "ko-KR": "로맨티스트",
+                    "pl-PL": "Romantyczna dusza",
+                    "ru-RU": "Романтичная душа",
+                    "zh-CHT": "浪漫高手"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften habt das perfekte Rendezvous organisiert. War es das wert?",
+                    "en-US": "You, or a friend, organised the perfect date. Let's hope it was worth the trouble.",
+                    "es-ES": "Tú o un amigo habéis organizado la cita perfecta. Esperemos que valga la pena.",
+                    "fr-FR": "Vous, ou votre ami, avez organisé un rendez-vous parfait. Espérons que ça en valait le coup.",
+                    "it-IT": "Tu o un tuo amico avete organizzato l'appuntamento perfetto. Speriamo che ne sia valsa la pena.",
+                    "ja-JP": "カンペキなデートの演出に成功した。あとはこの苦労が報われることを祈るだけ...",
+                    "ko-KR": "당신 또는 다른 영웅이 끝내주는 데이트를 했습니다. 당신의 연인이 괜찮은 사람이기를 기대해 봅시다.",
+                    "pl-PL": "Udało ci się (lub przyjacielowi) zorganizować idealną randkę. Miejmy nadzieję, że było warto.",
+                    "ru-RU": "Тебе или твоему другу удалось организовать прекрасное свидание. Будем надеяться, оно того стоило.",
+                    "zh-CHT": "您(或好友)安排了一場完美的約會，希望您的心上人值得您花那麼多心思。"
+                },
+                "howto": {
+                    "de-DE": "Ladet einen Dorfbewohner zu einem Rendezvous ein oder begleitet andere dabei.",
+                    "en-US": "Take a villager on a perfect date, or tag along to one. Location and expressions are all-important.",
+                    "es-ES": "Organiza una cita con alguien o ve a una de aguantavelas. El lugar y las expresiones son vitales.",
+                    "fr-FR": "Allez ou incrustez-vous dans un rendez-vous galant. L'endroit et les expressions sont cruciaux.",
+                    "it-IT": "Fissa l'appuntamento ideale o assisti a quello di qualcun'altro. Espressione e luogo sono decisivi.",
+                    "ja-JP": "場所とアクションを慎重に選んで、村人をカンペキなデートに誘う",
+                    "ko-KR": "마을 주민과 완벽한 데이트를 즐기거나 따라오게 하십시오. 적절한 장소에서 적절한 표현을 사용해야 합니다.",
+                    "pl-PL": "Zorganizuj idealną randkę (lub przyłącz się). Bardzo ważne jest miejsce oraz wykonywanie gestów.",
+                    "ru-RU": "Своди объект своей любви на свидание. Очень важно не ошибиться с выбором места и выражений.",
+                    "zh-CHT": "和某位村民來場完美的約會，您需要合適的地點和表情。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "14.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Schurke",
+                    "en-US": "The Rogue",
+                    "es-ES": "Granuja",
+                    "fr-FR": "Fripouille",
+                    "it-IT": "Il mascalzone",
+                    "ja-JP": "ならず者",
+                    "ko-KR": "보이지 않는 손",
+                    "pl-PL": "Włamywacz",
+                    "ru-RU": "Воришка",
+                    "zh-CHT": "惡棍"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften habt etwas aus einem Haus geklaut, ohne bemerkt zu werden.",
+                    "en-US": "You, or a friend, managed to steal something from a house while people stood nearby.",
+                    "es-ES": "Tú o un amigo habéis robado en una casa con gente cerca.",
+                    "fr-FR": "Vous, ou votre ami, avez volé un objet dans une maison alors qu'il y avait des gens à proximité.",
+                    "it-IT": "Tu o un tuo amico siete riusciti a rubare in una casa in presenza di altre persone.",
+                    "ja-JP": "周囲に人がいるときに他人の家で盗みをはたらいた。これであなたも立派な泥棒!",
+                    "ko-KR": "당신 또는 다른 영웅이 사람들이 가까이 있는데도 남의 집에서 물건을 훔쳤습니다.",
+                    "pl-PL": "Udało ci się (lub twojemu przyjacielowi) okraść dom, kiedy w pobliżu stali ludzie.",
+                    "ru-RU": "Тебе удалось стащить что-то из дома, когда рядом были люди. Или это можно сказать о твоем друге.",
+                    "zh-CHT": "您(或好友)是偷竊大師，在附近有村民時偷了房子裡的東西。"
+                },
+                "howto": {
+                    "de-DE": "Klaut unbemerkt etwas aus einem Gebäude, während Leute anwesend sind, oder seht anderen dabei zu.",
+                    "en-US": "Steal something undetected from a building while there are people nearby, or see another Hero do so.",
+                    "es-ES": "Roba algo en un edificio sin que te pillen mientras haya gente cerca o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Volez un objet dans une maison occupée ni vu ni connu ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Ruba da una casa, senza farti notare, mentre c'è gente vicina o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "周囲に人がいるときに、建物から何かを盗み出す",
+                    "ko-KR": "사람들이 가까이 있는 상태에서 들키지 않고 물건을 훔치거나 다른 영웅이 훔치는 것을 확인하십시오.",
+                    "pl-PL": "Ukradnij coś z budynku, kiedy w pobliżu są ludzie lub zobacz, jak robi to inny Bohater.",
+                    "ru-RU": "Надо незаметно украсть что-то из дома, когда рядом люди, или увидеть, как это делает другой Герой.",
+                    "zh-CHT": "在附近有人時偷竊房子裡的東西，而且沒有被發現，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "15.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "Stimmungsmache",
+                    "en-US": "The Pied Piper",
+                    "es-ES": "Alma de la fiesta",
+                    "fr-FR": "Boute-en-train",
+                    "it-IT": "Il pifferaio",
+                    "ja-JP": "盛り上げ上手",
+                    "ko-KR": "피리 부는 사나이",
+                    "pl-PL": "Wabiszczur",
+                    "ru-RU": "Гуру танцев",
+                    "zh-CHT": "彩衣魔笛手"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften habt ein tolles Fest veranstaltet. Ein Heidenspaß!",
+                    "en-US": "You, or a friend, threw a really swinging party. No one spreads joy like a Hero.",
+                    "es-ES": "Tú o un amigo habéis dado una fiesta de lo más animada. Nadie transmite tanta alegría como un héroe.",
+                    "fr-FR": "Votre fête, ou celle de votre ami, était des plus réussies. Un héros sait rendre les gens heureux.",
+                    "it-IT": "Tu o un tuo amico avete organizzato una festa strepitosa. Nessuno fa divertire come un eroe. ",
+                    "ja-JP": "ダンス パーティーは大盛況。これほどの盛り上げ上手はそういないでしょう",
+                    "ko-KR": "당신 또는 다른 영웅이 신나는 파티를 열었습니다. 남들을 즐겁게 하는 데 일가견이 있어요.",
+                    "pl-PL": "Ty lub twój przyjaciel urządziliście świetne przyjęcie. Ludzie garną się do Bohatera.",
+                    "ru-RU": "Ты или твой друг - душа танцевальных вечеринок! Только Герою под силу устроить такое веселье.",
+                    "zh-CHT": "您(或好友)辦了一場很棒的舞會，沒人比您更會散播歡樂了。"
+                },
+                "howto": {
+                    "de-DE": "Bringt mindestens fünf Leute zum Tanzen oder seid dabei, wenn andere Helden dies tun.",
+                    "en-US": "Start a party where at least five villagers are dancing, or see another Hero do so.",
+                    "es-ES": "Da una fiesta donde bailen al menos cinco aldeanos o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Organisez une fête où danseront au moins cinq villageois ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Organizza una festa in cui ballino almeno cinque persone, o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "場を盛り上げて 5 人以上を踊らせる",
+                    "ko-KR": "최소한 주민 5명이 춤을 추게 하거나 다른 영웅이 주민과 춤추는 것을 확인하십시오.",
+                    "pl-PL": "Zorganizuj przyjęcie, na którym zatańczy przynajmniej 5 osób lub zobacz, jak robi to inny Bohater.",
+                    "ru-RU": "Надо устроить танцы хотя бы с пятью участниками или увидеть, как это удалось другому Герою.",
+                    "zh-CHT": "辦一場至少有 5 位村民在跳舞的舞會，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "16.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Scharfschütze",
+                    "en-US": "The Sharpshooter",
+                    "es-ES": "El tirador infalible",
+                    "fr-FR": "Tireur d'élite",
+                    "it-IT": "Il tiratore",
+                    "ja-JP": "狙撃手",
+                    "ko-KR": "일석 삼조",
+                    "pl-PL": "Strzelec wyborowy",
+                    "ru-RU": "Меткий стрелок",
+                    "zh-CHT": "神槍手"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften habt drei Ziele mit nur einem Schuss getroffen. Respekt!",
+                    "en-US": "You, or a friend, hit three targets with one shot. Reaver himself would be envious.",
+                    "es-ES": "Tú o un amigo alcanzasteis tres blancos de un disparo. Hasta el propio Reaver sentiría envidiaría.",
+                    "fr-FR": "Vous, ou votre ami, avez touché trois cibles d'un seul coup. Reaver lui-même serait jaloux.",
+                    "it-IT": "Tu o un tuo amico avete colpito tre bersagli con un colpo solo. Anche Reaver sarebbe invidioso.",
+                    "ja-JP": "1 発の弾を 3 体の敵に命中させた。その腕前には、あのリーバーも感服だ",
+                    "ko-KR": "당신 또는 다른 영웅이 한 번의 사격으로 적 3명을 맞혔습니다. 리버조차도 당신의 솜씨를 부러워할 것입니다.",
+                    "pl-PL": "Udało ci się (lub twojemu przyjacielowi) trafić 3 cele jednym strzałem. Łupieżca byłby zazdrosny.",
+                    "ru-RU": "Ты поражаешь три цели одним выстрелом. Или это делает твой друг. Сам Ловкач такому позавидует.",
+                    "zh-CHT": "您(或好友)用一顆子彈就擊中三個目標，就連李弗也會嫉妒您。"
+                },
+                "howto": {
+                    "de-DE": "Trefft drei Gegner mit einem Schuss oder seid dabei, wenn andere Helden dies tun.",
+                    "en-US": "Hit three enemies with one shot, or see another Hero do so.",
+                    "es-ES": "Alcanza tres blancos de un disparo o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Touchez trois ennemis d'un seul coup ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Colpisci tre nemici con un colpo solo, o assisti mentre un altro eroe compie l'impresa.",
+                    "ja-JP": "1 発の弾を、3 体の敵に命中させる",
+                    "ko-KR": "한 번의 사격으로 적 3명을 맞히거나 다른 영웅이 맞히는 것을 확인하십시오.",
+                    "pl-PL": "Traf trzech wrogów jednym strzałem lub zobacz, jak robi to inny Bohater.",
+                    "ru-RU": "Нужно убить трех противником одним выстрелом или увидеть, как другому Герою удалось это сделать.",
+                    "zh-CHT": "一發就擊中三個敵人，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "17.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "de-DE": "Das Elternteil",
+                    "en-US": "The Parent",
+                    "es-ES": "Cambiapañales",
+                    "fr-FR": "Parent",
+                    "it-IT": "Il genitore",
+                    "ja-JP": "親",
+                    "ko-KR": "어버이",
+                    "pl-PL": "Rodzic",
+                    "ru-RU": "Родитель",
+                    "zh-CHT": "為人父母"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften habt zum Bevölkerungswachstum Albions beigetragen.",
+                    "en-US": "You, or a friend, have contributed to the population of Albion.",
+                    "es-ES": "Tú o un amigo habéis contribuido al aumento de la población de Albión.",
+                    "fr-FR": "Vous, ou votre ami, avez participé à la croissance démographique en Albion.",
+                    "it-IT": "Tu o un tuo amico avete contribuito ad aumentare la popolazione di Albion.",
+                    "ja-JP": "子供をもうけたことにより、アルビオンの人口アップに貢献した",
+                    "ko-KR": "당신 또는 다른 영웅이 아이를 낳아 알비온의 인구 증가에 이바지했습니다.",
+                    "pl-PL": "Ty lub twój przyjaciel przyczyniliście się do zwiększenia populacji Albionu.",
+                    "ru-RU": "Население Альбиона возрастает благодаря тебе или твоему другу.",
+                    "zh-CHT": "您(或好友)努力增產，來增加阿爾比恩的人口。"
+                },
+                "howto": {
+                    "de-DE": "Bringt ein Kind zur Welt oder seid dabei, wenn andere Helden ein Kind bekommen.",
+                    "en-US": "Have a child, or be there for the birth of another Hero's child.",
+                    "es-ES": "Ten descendencia o presencia el nacimiento del retoño de otro héroe.",
+                    "fr-FR": "Faites un enfant ou assistez à la naissance de l'enfant d'un autre héros.",
+                    "it-IT": "Datti una discendenza, o assisti alla nascita del figlio di un altro eroe.",
+                    "ja-JP": "子供をもうける",
+                    "ko-KR": "아이를 낳거나 다른 영웅이 아이 낳는 것을 확인하십시오.",
+                    "pl-PL": "Musisz mieć dziecko lub być przy narodzinach dziecka innego Bohatera.",
+                    "ru-RU": "Заведи ребенка или присутствуй при рождении ребенка другого Героя.",
+                    "zh-CHT": "生了小孩，或是其他英雄的小孩出生時在場。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "18.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Das Arbeitstier",
+                    "en-US": "The Workhorse",
+                    "es-ES": "La bestia de tiro",
+                    "fr-FR": "Bête de somme",
+                    "it-IT": "Il mulo",
+                    "ja-JP": "働き者",
+                    "ko-KR": "일개미",
+                    "pl-PL": "Koń pociągowy",
+                    "ru-RU": "Рабочая лошадка",
+                    "zh-CHT": "優良員工"
+                },
+                "description": {
+                    "de-DE": "Es gibt nichts Besseres, als wenn man seine Arbeit ordentlich erledigt!",
+                    "en-US": "There is nothing more fulfilling than doing one's job well!",
+                    "es-ES": "¡Nada satisface tanto como hacer bien el trabajo!",
+                    "fr-FR": "Il n'y a rien de plus satisfaisant qu'un travail bien fait !",
+                    "it-IT": "Non c'è nulla di più appagante che fare bene il proprio lavoro!",
+                    "ja-JP": "仕事がうまくいったときの達成感はサイコーだ!",
+                    "ko-KR": "쉴 새 없이 일한 당신은 마침내 달인의 경지에 올랐습니다!",
+                    "pl-PL": "Nie ma nic bardziej satysfakcjonującego niż dobra robota.",
+                    "ru-RU": "Нет ничего приятней, чем хорошо потрудиться!",
+                    "zh-CHT": "沒有比認真工作更讓人覺得生活充實了！"
+                },
+                "howto": {
+                    "de-DE": "Helden müssen bei Ihrer Arbeit eine ausreichend hohe Reihe erreichen.",
+                    "en-US": "A Hero must achieve a high-enough chain while performing a job.",
+                    "es-ES": "Un héroe debe conseguir una racha lo bastante buena mientras trabajas.",
+                    "fr-FR": "Un héros doit accomplir une série suffisamment élevée en travaillant.",
+                    "it-IT": "Un eroe deve creare una serie abbastanza lunga sul lavoro.",
+                    "ja-JP": "仕事で高い連続スコアを獲得する",
+                    "ko-KR": "실수 없이 연속으로 일정 횟수 이상 일을 수행하십시오.",
+                    "pl-PL": "Bohater musi osiągnąć wystarczająco długą serię podczas pracy zawodowej.",
+                    "ru-RU": "Выполняя работу, Герой должен совершить удачную последовательность.",
+                    "zh-CHT": "在工作時獲得大量連續成功次數。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "19.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "Großgrundbesitz",
+                    "en-US": "The Property Magnate",
+                    "es-ES": "Magnate",
+                    "fr-FR": "Pro de l'immobilier",
+                    "it-IT": "Il genio immobiliare",
+                    "ja-JP": "不動産王",
+                    "ko-KR": "거물급 장사꾼",
+                    "pl-PL": "Magnat nieruchomości",
+                    "ru-RU": "Финансовый гений",
+                    "zh-CHT": "房地產大亨"
+                },
+                "description": {
+                    "de-DE": "Ein Grundstück wurde für das Doppelte des Originalwerts verkauft. Was für ein Geschäft!",
+                    "en-US": "A property was sold for twice its original value. Now that's good business.",
+                    "es-ES": "Se ha vendido una propiedad por el doble del valor original. Eso sí que es un negocio.",
+                    "fr-FR": "Une propriété a été vendue deux fois son prix d'origine. Joli !",
+                    "it-IT": "Una proprietà è stata venduta al doppio del suo valore originale. Che affare!",
+                    "ja-JP": "所有物を購入時の 2 倍の価格で売った。まさにビジネスの達人!",
+                    "ko-KR": "구입 가격의 두 배를 받고 물건을 팔았습니다. 장사라는 건 그렇게 하는 겁니다.",
+                    "pl-PL": "Posiadłość została sprzedana za dwukrotność jej pierwotnej wartości. To się nazywa dobry interes.",
+                    "ru-RU": "Дом удалось продать за двойную цену. Вот это сделка!",
+                    "zh-CHT": "您以房地產原價的兩倍把它賣出去了，真是筆好交易。"
+                },
+                "howto": {
+                    "de-DE": "Ein Grundstück muss für den doppelten Kaufpreis verkauft werden.",
+                    "en-US": "A property must be sold for twice the price it was bought for.",
+                    "es-ES": "Se debe vender una propiedad por el doble de lo que costó.",
+                    "fr-FR": "Une propriété doit être vendue deux fois son prix d'origine.",
+                    "it-IT": "Una proprietà deve essere venduta al doppio del prezzo d'acquisto originale.",
+                    "ja-JP": "所有物を購入時の 2 倍の価格で売る",
+                    "ko-KR": "구입 가격의 두 배를 받고 물건을 판매하십시오.",
+                    "pl-PL": "Posiadłość musi zostać sprzedana za dwa razy więcej niż kosztowała.",
+                    "ru-RU": "Нужно продать дом за двойную цену.",
+                    "zh-CHT": "以您購買價的兩倍賣出房地產。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "20.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "de-DE": "Erzmagier",
+                    "en-US": "The Archmage",
+                    "es-ES": "As de la magia",
+                    "fr-FR": "Archimage",
+                    "it-IT": "L'arcimago",
+                    "ja-JP": "魔導師",
+                    "ko-KR": "위대한 마법사",
+                    "pl-PL": "Arcymag",
+                    "ru-RU": "Архимаг",
+                    "zh-CHT": "大法師"
+                },
+                "description": {
+                    "de-DE": "Fünf menschliche Feinde wurden mit einem mächtigen Zauber erledigt.",
+                    "en-US": "Five human enemies were killed with one magnificent spell.",
+                    "es-ES": "Un conjuro sublime ha matado a cinco enemigos humanos.",
+                    "fr-FR": "Cinq ennemis humains ont été tués avec un sort de toute beauté.",
+                    "it-IT": "Cinque nemici umani sono stati uccisi con uno spettacolare incantesimo.",
+                    "ja-JP": "1 つのスペルで人間の敵を同時に 5 人倒した",
+                    "ko-KR": "한 번의 마법으로 적 5명을 처치했습니다.",
+                    "pl-PL": "Pięciu ludzi zabitych jednym czarem.",
+                    "ru-RU": "Пять человек были убиты одним мощным заклинанием.",
+                    "zh-CHT": "您用一個威力強大的法術殺死了 5 個人類對手。"
+                },
+                "howto": {
+                    "de-DE": "Ein heldenhaftes Individuum muss fünf menschliche Feinde mit einem Zauber erledigen.",
+                    "en-US": "A Hero must kill five human enemies with one spell.",
+                    "es-ES": "Un héroe debe matar a cinco enemigos humanos con un solo conjuro.",
+                    "fr-FR": "Un héros doit tuer cinq ennemis humains avec un seul sort.",
+                    "it-IT": "Un eroe deve uccidere cinque nemici umani con un solo incantesimo.",
+                    "ja-JP": "1 つのスペルで人間の敵を同時に 5 人倒す",
+                    "ko-KR": "한 번의 마법으로 적 5명을 처치하십시오.",
+                    "pl-PL": "Bohater musi zabić pięciu ludzi jednym czarem.",
+                    "ru-RU": "Герою нужно убить пять человек одним заклинанием.",
+                    "zh-CHT": "用一個法術殺死 5 個人類對手。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "21.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Gefährten",
+                    "en-US": "The Companions",
+                    "es-ES": "Los compañeros",
+                    "fr-FR": "Compagnons",
+                    "it-IT": "I compagni",
+                    "ja-JP": "相棒",
+                    "ko-KR": "좋은 친구들",
+                    "pl-PL": "Towarzysze",
+                    "ru-RU": "Компаньоны",
+                    "zh-CHT": "好夥伴"
+                },
+                "description": {
+                    "de-DE": "Ihr habt ein perfektes Kooperationsausdruckmittel gezeigt. Gemeinsam geht alles besser, oder?",
+                    "en-US": "You performed a perfect co-op expression. Isn't it nice playing together?",
+                    "es-ES": "Has realizado una expresión en cooperativa perfecta. ¿No es fenomenal jugar en compañía?",
+                    "fr-FR": "Vous avez effectué une expression parfaite en coopération. C'est ça, l'esprit d'équipe !",
+                    "it-IT": "Hai eseguito un'espressione cooperativa. Non è bello giocare assieme?",
+                    "ja-JP": "息をそろえて連携アクションを成功させた。仲間と一緒にプレイするのって楽しい!",
+                    "ko-KR": "협동 표현을 완벽하게 해냈습니다. 역시 하나보다는 둘이 나은 것 같습니다.",
+                    "pl-PL": "Udało ci się wykonać idealny gest wspólnie z innym graczem. Miło jest grać wspólnie, prawda?",
+                    "ru-RU": "Вам удалось организовать совместное выражение. Здорово играть вместе, правда?",
+                    "zh-CHT": "您們做出了一個完美的合作模式表情。能一起玩遊戲真棒，不是嗎？"
+                },
+                "howto": {
+                    "de-DE": "Zeigt ein perfektes Kooperationsausdrucksmittel.",
+                    "en-US": "Perform a perfect co-op expression.",
+                    "es-ES": "Realiza una expresión en cooperativa perfecta.",
+                    "fr-FR": "Effectuez une expression parfaite en coopération.",
+                    "it-IT": "Esegui un'espressione cooperativa perfetta.",
+                    "ja-JP": "協力プレイで連携アクションを成功させる",
+                    "ko-KR": "협동 표현을 성공시키십시오.",
+                    "pl-PL": "Wykonaj idealny gest wspólnie z innym graczem.",
+                    "ru-RU": "Удачно примите совместное выражение.",
+                    "zh-CHT": "做出一個完美的合作模式表情。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "22.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "de-DE": "Die doppelte Bedrohung",
+                    "en-US": "The Double Threat",
+                    "es-ES": "La doble amenaza",
+                    "fr-FR": "Double menace",
+                    "it-IT": "Doppio pericolo",
+                    "ja-JP": "戦友",
+                    "ko-KR": "혈맹",
+                    "pl-PL": "Podwójne zagrożenie",
+                    "ru-RU": "Братья по оружию",
+                    "zh-CHT": "雙重威脅"
+                },
+                "description": {
+                    "de-DE": "Ihr habt einen Kooperationsbonus im Kampf erreicht.",
+                    "en-US": "You achieved a co-op combat bonus.",
+                    "es-ES": "Has obtenido una bonificación de combate en cooperativa.",
+                    "fr-FR": "Vous avez obtenu un bonus combat en coopération.",
+                    "it-IT": "Hai ottenuto un bonus nel combattimento cooperativo.",
+                    "ja-JP": "協力プレイで戦闘ボーナスを獲得した",
+                    "ko-KR": "협동 공격 보너스를 받았습니다.",
+                    "pl-PL": "Udało ci się uzyskać premię za współpracę w walce.",
+                    "ru-RU": "Вы получаете бонус от совместного боя.",
+                    "zh-CHT": "您得到了合作戰鬥獎勵。"
+                },
+                "howto": {
+                    "de-DE": "Erreicht einen Kooperationsbonus im Kampf.",
+                    "en-US": "Get a co-op combat bonus.",
+                    "es-ES": "Obtén una bonificación de combate en cooperativa.",
+                    "fr-FR": "Obtenez un bonus combat en coopération.",
+                    "it-IT": "Ottieni un bonus nel combattimento cooperativo.",
+                    "ja-JP": "協力プレイで戦闘ボーナスを獲得する",
+                    "ko-KR": "협동 공격 보너스를 받으십시오.",
+                    "pl-PL": "Uzyskaj premię za współpracę w walce.",
+                    "ru-RU": "Получите бонус за совместный бой.",
+                    "zh-CHT": "得到合作戰鬥獎勵。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "23.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Hundetraining",
+                    "en-US": "The Dog Trainer",
+                    "es-ES": "As de la doma",
+                    "fr-FR": "Coach canin",
+                    "it-IT": "L'addestratore",
+                    "ja-JP": "犬の訓練士",
+                    "ko-KR": "개 조련사",
+                    "pl-PL": "Treser psów",
+                    "ru-RU": "Собаковод",
+                    "zh-CHT": "馴犬師"
+                },
+                "description": {
+                    "de-DE": "Euer Hund oder der von anderen Helden hat einen weiteren Trick im Repertoire.",
+                    "en-US": "Your dog, or another Hero's, has one more trick in his repertoire.",
+                    "es-ES": "Tu perro o el de otro héroe cuentan con un truco más en su repertorio.",
+                    "fr-FR": "Votre chien, ou celui d'un autre héros, a appris un nouveau tour.",
+                    "it-IT": "Il tuo cane, o quello di un altro eroe, ha imparato un'acrobazia in più.",
+                    "ja-JP": "犬をしつけて新たな芸を覚えさせた",
+                    "ko-KR": "당신 또는 다른 영웅의 애완견이 새로운 재주를 부릴 수 있게 되었습니다.",
+                    "pl-PL": "Pies twój lub twojego przyjaciela zna o jedną sztuczkę więcej.",
+                    "ru-RU": "Репертуар твоего пса или пса другого Героя пополняется очередным трюком.",
+                    "zh-CHT": "您的小狗(或其他英雄的小狗)多會了一種把戲，這都要感謝您。"
+                },
+                "howto": {
+                    "de-DE": "Bringt Eurem Hund einen Trick bei oder seid dabei, wenn die Hunde anderer Helden welche lernen.",
+                    "en-US": "Teach your dog a trick, or see another Hero's dog learn one.",
+                    "es-ES": "Enséñale un truco a tu perro mira cómo lo aprende el perro de otro héroe.",
+                    "fr-FR": "Apprenez un tour à votre chien ou voyez le chien d'un autre héros en apprendre un.",
+                    "it-IT": "Insegna un'acrobazia al tuo cane, o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "犬に芸を教える",
+                    "ko-KR": "애완견에게 재주를 가르치거나 다른 영웅이 가르치는 것을 확인하십시오.",
+                    "pl-PL": "Naucz swojego psa jakiejś sztuczki lub zobacz, jak uczy się pies innego Bohatera.",
+                    "ru-RU": "Нужно обучить твоего пса какому-нибудь трюку. Или увидеть, как другой Герой учит своего пса.",
+                    "zh-CHT": "教小狗把戲，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "24.png"
+        },
+        "58": {
+            "text": {
+                "name": {
+                    "de-DE": "Philanthropie",
+                    "en-US": "The Philanthropist",
+                    "es-ES": "Filántropo",
+                    "fr-FR": "Philanthrope",
+                    "it-IT": "Il filantropo",
+                    "ja-JP": "慈善家",
+                    "ko-KR": "자선 사업가",
+                    "pl-PL": "Filantrop",
+                    "ru-RU": "Филантроп",
+                    "zh-CHT": "慈善家"
+                },
+                "description": {
+                    "de-DE": "Einem Xbox LIVE-Freund wurde ein Geschenk geschickt. Helden sind einfach nett!",
+                    "en-US": "A gift was sent to an Xbox LIVE friend. Aren't Heroes nice people?",
+                    "es-ES": "Se ha enviado un regalo a un amigo de Xbox Live. Si es que los héroes son bellísimas personas.",
+                    "fr-FR": "Un cadeau a été envoyé à un ami Xbox LIVE. C'est pas gentil, ça ?",
+                    "it-IT": "Un regalo è stato inviato a un amico su Xbox LIVE. Che persone gentili, gli eroi.",
+                    "ja-JP": "Xbox LIVE でフレンドにプレゼントが贈られた。なんて優しい英雄だろう!",
+                    "ko-KR": "Xbox LIVE 친구에게 선물했습니다. 보기보다 좋은 사람이군요!",
+                    "pl-PL": "Przyjaciel z Xbox Live otrzymał prezent. Czyż Bohaterowie to nie mili ludzie?",
+                    "ru-RU": "Друг по Xbox Live получает подарок! Герои - просто прелесть, правда?",
+                    "zh-CHT": "您送了一個禮物給 Xbox LIVE 好友。真是個好心人啊。"
+                },
+                "howto": {
+                    "de-DE": "Schickt einem Xbox LIVE-Freund ein Geschenk oder seid dabei, wenn andere Helden dies tun.",
+                    "en-US": "Send a gift to an Xbox LIVE friend, or watch another Hero send one.",
+                    "es-ES": "Envíale un regalo a un amigo de Xbox Live mira cómo lo envía otro héroe.",
+                    "fr-FR": "Envoyez un cadeau à un ami Xbox LIVE ou observez un autre héros en envoyer un.",
+                    "it-IT": "Manda un regalo a un amico su Xbox LIVE, o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "Xbox LIVE でフレンドにプレゼントを贈る",
+                    "ko-KR": "Xbox LIVE 친구에게 선물하거나 다른 영웅이 선물하는 것을 확인하십시오.",
+                    "pl-PL": "Wyślij prezent przyjacielowi z Xbox LIVE lub zobacz, jak robi to inny Bohater.",
+                    "ru-RU": "Нужно послать подарок другу по Xbox Live или увидеть, как это делает другой Герой.",
+                    "zh-CHT": "送禮物給 Xbox LIVE 好友。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "25.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Hundeliebe",
+                    "en-US": "The Pooch Pamperer",
+                    "es-ES": "Amante de los perros",
+                    "fr-FR": "Maître à son chien-chien",
+                    "it-IT": "L'animalista",
+                    "ja-JP": "じゃれ合いっこ",
+                    "ko-KR": "즐거운 한때",
+                    "pl-PL": "Przyjaciel psów",
+                    "ru-RU": "Добрый хозяин",
+                    "zh-CHT": "愛狗人"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften habt mit Eurem Hund Apportieren gespielt. Süßer kleiner Fratz!",
+                    "en-US": "You, or your friend, played fetch with the dog. That little fellow just loves to play.",
+                    "es-ES": "Tú o tu amigo habéis jugado a traer con el perro. Al pobrecito le encanta jugar.",
+                    "fr-FR": "Vous, ou votre ami, avez joué avec le chien. Cette petite canaille adore jouer.",
+                    "it-IT": "Tu o un tuo amico avete giocato a \"prendi la palla\" con il cane. Quel cucciolotto adora giocare.",
+                    "ja-JP": "犬とボール遊びをした。犬は大喜びだ!",
+                    "ko-KR": "당신 또는 다른 영웅이 애완견과 물어오기 놀이를 했습니다. 녀석도 당신이랑 노는 게 좋은가 봅니다.",
+                    "pl-PL": "Ty lub twój przyjaciel bawiliście sie z psem w aportowanie. Futrzak to uwielbia.",
+                    "ru-RU": "Здорово было поиграть со своим псом, да? Малыш просто обожает игры!",
+                    "zh-CHT": "您(或好友)跟小狗玩了您丟我撿的遊戲。這小傢伙就是喜歡玩。"
+                },
+                "howto": {
+                    "de-DE": "Spielt mit Eurem Hund Apportieren oder seht den Hunden anderer Helden dabei zu.",
+                    "en-US": "Play fetch with your dog, or see another Hero's dog play.",
+                    "es-ES": "Juega a traer con tu perro o mira cómo juega el perro de otro héroe.",
+                    "fr-FR": "Jouez à la balle avec votre chien ou observez le chien d'un autre héros jouer.",
+                    "it-IT": "Gioca a \"prendi la palla\" con il tuo cane, o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "犬とボール遊びをする",
+                    "ko-KR": "애완견과 물어오기 놀이를 하거나 다른 영웅이 하는 것을 확인하십시오.",
+                    "pl-PL": "Pobaw się z psem w aportowanie lub zobacz, jak robi to inny Bohater.",
+                    "ru-RU": "Нужно поиграть со своим псом или увидеть, как другой Герой играет со своей собакой.",
+                    "zh-CHT": "跟小狗玩您丟我撿，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "26.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "Hühnertreterei",
+                    "en-US": "The Chicken Kicker",
+                    "es-ES": "Pateapollos",
+                    "fr-FR": "Hantise des poulets",
+                    "it-IT": "Il calciatore di polli",
+                    "ja-JP": "ニワトリいじめ",
+                    "ko-KR": "닭 걷어차기",
+                    "pl-PL": "Kopacz kurczaków",
+                    "ru-RU": "Гроза кур",
+                    "zh-CHT": "踢雞高手"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften habt ein armes, schutzloses Huhn getreten.",
+                    "en-US": "You, or a friend, kicked a poor, defenceless chicken. Good thing they have reinforced feathers.",
+                    "es-ES": "Tú o un amigo habéis dado una patada a un inofensivo pollo. Menos mal que tienen plumas resistentes.",
+                    "fr-FR": "Vous, ou votre ami, avez envoyé valser un pauvre poulet. Une chance qu'ils soient rembourrés.",
+                    "it-IT": "Tu o un tuo amico avete calciato una povera gallina indifesa. Se non altro ha le piume rinforzate.",
+                    "ja-JP": "無抵抗でか弱いニワトリを思いっきり蹴飛ばした。丈夫な羽が生えていてよかった...",
+                    "ko-KR": "당신 또는 다른 영웅이 힘없고 불쌍한 닭을 멀리 걷어찼습니다. 그나마 깃털이 보호해주니 다행입니다.",
+                    "pl-PL": "Ty lub twój przyjaciel kopnęliście bezbronnego kurczaka. Dobrze, że mają amortyzację w postaci piór.",
+                    "ru-RU": "Пинаешь беззащитных куриц. Или это делает твой друг. Хорошо, что у них перья повышенной прочности.",
+                    "zh-CHT": "您(或好友)把一隻可憐、不會自衛的雞踢到遠處，還好它身上有強化羽毛。"
+                },
+                "howto": {
+                    "de-DE": "Tretet ein Huhn über eine ordentliche Entfernung oder schaut anderen dabei zu.",
+                    "en-US": "Kick a chicken a good distance, or see one getting kicked.",
+                    "es-ES": "Manda lejos a un pollo de una patada o mira cómo lo hacen otros.",
+                    "fr-FR": "Envoyez valser un poulet au loin ou observez-en un prendre un coup.",
+                    "it-IT": "Calcia una gallina lontano, o assisti mentre lo fa qualcun'altro.",
+                    "ja-JP": "ニワトリを思いっきり蹴飛ばす。心を鬼にして、さあ思いっきり!",
+                    "ko-KR": "닭을 있는 힘껏 걷어차서 날려 보내거나 걷어차여 날아가는 것을 구경하십시오.",
+                    "pl-PL": "Kopnij kurczaka na dużą odległość lub zobacz, jak robi to ktoś inny.",
+                    "ru-RU": "Нужно пнуть курицу так, чтобы она далеко улетела. Или увидеть, как это делает кто-то другой.",
+                    "zh-CHT": "把一隻雞踢到一段距離外。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "27.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Swinger",
+                    "en-US": "The Swinger",
+                    "es-ES": "Vivalavida",
+                    "fr-FR": "Libertin",
+                    "it-IT": "Il lascivo",
+                    "ja-JP": "自由奔放人",
+                    "ko-KR": "쾌락의 화신",
+                    "pl-PL": "Swingers",
+                    "ru-RU": "Душа Оргий",
+                    "zh-CHT": "花心漢"
+                },
+                "description": {
+                    "de-DE": "Ihr seid mit mehr als einer Person ins Bett gegangen ... na, warum war wohl der Bildschirm schwarz?!",
+                    "en-US": "You went to bed with more than one person and... Well, why do you think we blacked out the screen?",
+                    "es-ES": "Te has acostado con más de una persona a la vez. ¿Por qué crees que pusimos la pantalla en negro?",
+                    "fr-FR": "Vous avez couché avec plus d'une personne et... C'est pas pour rien qu'on a masqué la scène !",
+                    "it-IT": "Hai portato più di una persona a letto e... Be', perché credi che abbiamo annerito lo schermo?",
+                    "ja-JP": "複数の相手と恋をして、それから... これ以上はここにはとても書けません!",
+                    "ko-KR": "두 명 이상을 침대로 끌어들였습니다. 음... 그 뒤는 알아서 상상하십시오.",
+                    "pl-PL": "W łóżku z więcej niż jedną osobą i... A jak myślisz, dlaczego zaciemniliśmy ekran?",
+                    "ru-RU": "Захотелось лечь в постель сразу с несколькими? И почему-то вдруг сразу погас экран...",
+                    "zh-CHT": "您帶了不只一個人上床…呃，您以為我們為什麼要讓畫面變黑呢？"
+                },
+                "howto": {
+                    "de-DE": "Nehmt an einer ausufernden Party mit mehreren Leuten in einem Bett teil.",
+                    "en-US": "Take part in a debauched bedroom party with several participants.",
+                    "es-ES": "Acude a una libertina fiesta de dormitorio con varios participantes.",
+                    "fr-FR": "Participez à un acte de débauche impliquant plusieurs participants.",
+                    "it-IT": "Prendi parte a uno scostumato festino da camera con molti partecipanti.",
+                    "ja-JP": "複数の相手と夜を楽しむ",
+                    "ko-KR": "뜨거운 광란의 밤을 보내십시오.",
+                    "pl-PL": "Weź udział w rozpustnej imprezie sypialnianej z kilkoma osobami.",
+                    "ru-RU": "Прими участие в разнузданной вечеринке, плавно переходящей в групповую оргию. ",
+                    "zh-CHT": "與多人同時縱慾狂歡。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "28.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "Bedrohung für die Gesellschaft",
+                    "en-US": "The Menace To Society",
+                    "es-ES": "La amenaza a la sociedad",
+                    "fr-FR": "Menace",
+                    "it-IT": "Il nemico pubblico",
+                    "ja-JP": "危険人物",
+                    "ko-KR": "사회악",
+                    "pl-PL": "Wróg społeczny",
+                    "ru-RU": "Угроза обществу",
+                    "zh-CHT": "社會公敵"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften habt eine Erregung öffentlichen Ärgernisses begangen. Schlimm!",
+                    "en-US": "You, or a friend, committed an act of public indecency. Oh, the shame of it.",
+                    "es-ES": "Tú o un amigo habéis cometido una falta de escándalo público. ¡Qué bochorno!",
+                    "fr-FR": "Vous, ou votre ami, avez commis un attentat à la pudeur. Quelle honte !",
+                    "it-IT": "Tu o un tuo amico avete commesso atti osceni in luogo pubblico. Che vergogna.",
+                    "ja-JP": "公然わいせつ罪を犯した。ああ... 恥を知れ!",
+                    "ko-KR": "당신 또는 다른 영웅이 외설죄를 저질렀습니다. 부끄러운 줄 아십시오.",
+                    "pl-PL": "Ty lub twój przyjaciel popełniliście przestępstwo. Wstyd i hańba.",
+                    "ru-RU": "Ты публично совершаешь непристойное действие. Или это твой друг... Фууу, как не стыдно?",
+                    "zh-CHT": "您(或好友)犯下了公然猥褻罪，真丟臉唷。"
+                },
+                "howto": {
+                    "de-DE": "Begeht eine Erregung öffentlichen Ärgernisses oder seid dabei, wenn andere Helden dies tun.",
+                    "en-US": "Commit an act of public indecency, or see another Hero commit one.",
+                    "es-ES": "Comete una falta de escándalo público o mira cómo la comete otro héroe.",
+                    "fr-FR": "Commettez un attentat à la pudeur ou observez un autre héros en commettre un.",
+                    "it-IT": "Commetti atti osceni in luogo pubblico, o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "公然わいせつ罪を犯す",
+                    "ko-KR": "외설죄를 저지르거나 다른 영웅이 저지르는 것을 확인하십시오.",
+                    "pl-PL": "Popełnij jakieś przestępstwo lub zobacz, jak popełnia je inny Bohater.",
+                    "ru-RU": "Надо публично совершить непристойное действие или увидеть, как это делает другой Герой.",
+                    "zh-CHT": "犯下公然猥褻罪，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "29.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "de-DE": "Partylöwe",
+                    "en-US": "The Party Animal",
+                    "es-ES": "El animal de fiesta",
+                    "fr-FR": "Fêtard",
+                    "it-IT": "L'anima della festa",
+                    "ja-JP": "パーティー大好き",
+                    "ko-KR": "파티광",
+                    "pl-PL": "Zwierzątko imprezowe",
+                    "ru-RU": "Гуляка",
+                    "zh-CHT": "派對狂"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften habt fünf Leuten in unter drei Minuten betrunken gemacht.",
+                    "en-US": "You, or a friend, spread the joy (and pain) of intoxication to five people in under three minutes.",
+                    "es-ES": "Tú o un amigo lograsteis en menos de 3 minutos que 5 personas conozcan lo que acarrea la embriaguez.",
+                    "fr-FR": "Vous, ou votre ami, avez répandu la joie de l'ivresse à cinq personnes en moins de trois minutes.",
+                    "it-IT": "Tu o un tuo amico avete diffuso gioie e dolori dell'ubriachezza su 5 persone in meno di 3 min.",
+                    "ja-JP": "3 分以内に 5 人の村人を酔わせ、ドンチャン騒ぎを巻き起こした",
+                    "ko-KR": "당신 또는 다른 영웅이 3분 만에 5명을 만취 상태로 만들었습니다.",
+                    "pl-PL": "W mniej niż 3 minuty udało ci się (lub twojemu przyjacielowi) upić 5 osób.",
+                    "ru-RU": "Ты даришь пьяное веселье и тяжкое похмелье 5 поселянам за 3 минуты. Или это делает твой друг.",
+                    "zh-CHT": "您(或好友)在 3 分鐘之內，就把喝醉酒的快樂 (或痛苦) 傳播給 5 個人。 "
+                },
+                "howto": {
+                    "de-DE": "Macht fünf Dorfbewohner in unter drei Minuten betrunken oder seid dabei, wenn andere dies tun.",
+                    "en-US": "Get five villagers drunk in under three minutes, or see another Hero do so.",
+                    "es-ES": "Emborracha a 5 aldeanos en menos de 3 minutos o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Rendez cinq villageois ivres en moins de trois minutes ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Ubriaca 5 persone in meno di tre minuti, o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "3 分以内に 5 人の村人を酔わせる",
+                    "ko-KR": "3분 안에 주민 5명을 취한 상태로 만들거나 다른 영웅이 하는 것을 확인하십시오.",
+                    "pl-PL": "Upij pięcioro wieśniaków w czasie poniżej trzech minut lub zobacz, jak robi to inny Bohater. ",
+                    "ru-RU": "Нужно заставить 5 поселян напиться за 3 минуты или увидеть, как это делает другой Герой.",
+                    "zh-CHT": "在 3 分鐘內讓 5 位村民喝醉，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "30.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "Überredungskunst",
+                    "en-US": "The Persuader",
+                    "es-ES": "As de la persuasión",
+                    "fr-FR": "Persuasif",
+                    "it-IT": "Il persuasore",
+                    "ja-JP": "おねだり上手",
+                    "ko-KR": "달변가",
+                    "pl-PL": "Mistrz perswazji",
+                    "ru-RU": "Мастер убеждения",
+                    "zh-CHT": "說服高手"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften habt jemanden überzeugt, Euch ein Geschenk zu machen.",
+                    "en-US": "You, or a friend, convinced someone to hand over a present.",
+                    "es-ES": "Tú o un amigo habéis convencido a una persona de que haga un regalo.",
+                    "fr-FR": "Vous, ou votre ami, avez convaincu quelqu'un de faire un cadeau.",
+                    "it-IT": "Tu o un tuo amico avete convinto qualcuno a darvi un regalo.",
+                    "ja-JP": "村人をその気にさせてプレゼントを受け取った",
+                    "ko-KR": "당신 또는 다른 영웅이 화려한 언변으로 상대의 마음을 사로잡아 선물을 받아냈습니다.",
+                    "pl-PL": "Ty lub twój przyjaciel przekonaliście kogoś do wręczenia prezentu.",
+                    "ru-RU": "Тебе или твоему другу удалось выпросить подарок у селянина.",
+                    "zh-CHT": "您(或好友)說服了某人送您一樣禮物。"
+                },
+                "howto": {
+                    "de-DE": "Überzeugt einen Dorfbewohner, Euch zu beschenken, oder seid dabei, wenn andere Helden dies tun.",
+                    "en-US": "Convince a villager to give you a present, or see another Hero do so.",
+                    "es-ES": "Convence a alguien para que te regale algo o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Persuadez un villageois de vous offrir un cadeau ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Convinci una persona a darti un regalo, o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "村人からプレゼントを受け取る",
+                    "ko-KR": "주민을 설득하여 선물을 받아내거나 다른 영웅이 받는 것을 확인하십시오.",
+                    "pl-PL": "Przekonaj wieśniaka, aby dał ci prezent lub zobacz, jak robi to inny Bohater.",
+                    "ru-RU": "Надо уговорить поселянина вручить тебе подарок или увидеть, как поселян уговаривает другой Герой.",
+                    "zh-CHT": "說服村民送您禮物，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "31.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "de-DE": "Angeberei",
+                    "en-US": "The Show-off",
+                    "es-ES": "As de la pose",
+                    "fr-FR": "M'as-tu-vu",
+                    "it-IT": "L'esibizionista",
+                    "ja-JP": "スター気取り",
+                    "ko-KR": "자랑꾼",
+                    "pl-PL": "Szpaner",
+                    "ru-RU": "Позер",
+                    "zh-CHT": "愛現高手"
+                },
+                "description": {
+                    "de-DE": "Ihr oder ein Freund habt mit einem perfekten Ausdrucksmittel einen Bewohner beeindruckt. Angeber!",
+                    "en-US": "You, or a friend, performed a perfect expression and impressed a villager. Heroes are such a posers.",
+                    "es-ES": "Tú o un amigo habéis realizado una expresión perfecta e impresionado a una persona. Increíble.",
+                    "fr-FR": "Vous, ou votre ami, avez impressionné quelqu'un en réalisant une expression parfaite. Quel frimeur.",
+                    "it-IT": "Tu o un tuo amico avete eseguito un'espressione perfetta e impressionato una persona. Attori nati!",
+                    "ja-JP": "カンペキなアクションで村人の注目を集めた。も～、目立ちたがり屋なんだから!",
+                    "ko-KR": "당신 또는 다른 영웅이 표현에 성공하여 마을 사람에게 깊은 인상을 남겼습니다. 솜씨가 대단하군요.",
+                    "pl-PL": "Udało ci się (lub twojemu przyjacielowi) idealnie wykonać gest i zrobić wrażenie. Szpaner.",
+                    "ru-RU": "Одно идеальное выражение - и бедные селяне только рот разевают в восторге. Какое позерство!",
+                    "zh-CHT": "您(或好友)做了一個很棒的表情並讓村民留下深刻的印象。您真是天生的模特兒。"
+                },
+                "howto": {
+                    "de-DE": "Beeindruckt einen Dorfbewohner mit einem Ausdrucksmittel oder seid dabei, wenn andere dies tun.",
+                    "en-US": "Impress a villager with a perfect expression, or see another Hero do so.",
+                    "es-ES": "Impresiona a una persona con una expresión perfecta o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Épatez quelqu'un en réalisant une expression parfaite ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Impressiona una persona con un'espressione perfetta, o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "カンペキなアクションで村人の注目を集める",
+                    "ko-KR": "표현에 성공하여 마을 사람에게 깊은 인상을 남기거나 다른 영웅이 성공하는 것을 확인하십시오.",
+                    "pl-PL": "Zrób wrażenie na wieśniaku  idealnym gestem lub zobacz, jak robi to inny Bohater.",
+                    "ru-RU": "Надо впечатлить поселянина идеальным выражением. Или увидеть, как это удалось другому Герою.",
+                    "zh-CHT": "做了一個讓村民留下深刻印象的表情，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "32.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "Klippensprung",
+                    "en-US": "The Cliff Diver",
+                    "es-ES": "As de la zambullida",
+                    "fr-FR": "Tête brûlée",
+                    "it-IT": "Il tuffatore",
+                    "ja-JP": "跳躍選手",
+                    "ko-KR": "겁 없는 도약",
+                    "pl-PL": "Mistrz skoków z klifu ",
+                    "ru-RU": "Бесстрашный ныряльщик",
+                    "zh-CHT": "跳崖高手"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften seid eine 200 Meter hohe Klippe hinabgesprungen. Beeindruckend!",
+                    "en-US": "You, or a friend, plunged an incredible 500 feet off a cliff. Heights hold no fears for Heroes.",
+                    "es-ES": "Tú o un amigo os habéis arrojado por un acantilado de 150 m. Los héroes no conocéis el vértigo.",
+                    "fr-FR": "Vous, ou votre ami, avez sauté d'une falaise de 150 mètres de haut. Les héros n'ont pas le vertige.",
+                    "it-IT": "Tu o un tuo amico vi siete lanciati da una scogliera molto alta. Gli eroi non soffrono di vertigini.",
+                    "ja-JP": "500 フィートという驚異的な高さからジャンプした。どんな高さも恐れないその姿、カッコいい!",
+                    "ko-KR": "당신 또는 다른 영웅이 150미터 높이의 절벽에서 뛰어내렸습니다. 영웅은 높은 곳을 두려워하지 않습니다.",
+                    "pl-PL": "Udało ci się (lub przyjacielowi) skoczyć z ponad 150-metrowego klifu. Bohaterowie nie znają lęku.",
+                    "ru-RU": "Тебе или твоему другу удалось нырнуть с утеса на глубину 500 футов. Герои не боятся высоты!",
+                    "zh-CHT": "您(或好友)跳下了 500 呎高的懸崖，高度顯然不會對您造成威脅。"
+                },
+                "howto": {
+                    "de-DE": "Springt eine 200 Meter hohe Klippe hinab oder seid dabei, wenn andere Helden dies tun.",
+                    "en-US": "Cliff dive 500 feet, or see another Hero do so.",
+                    "es-ES": "Arrójate por un acantilado de 150 m o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Sautez d'une falaise de 150 mètres de haut ou assistez au saut d'un autre héros.",
+                    "it-IT": "Tuffati da un'altezza impressionante, o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "500 フィートの高さの崖からジャンプする",
+                    "ko-KR": "150미터 높이의 절벽에서 뛰어내리거나 다른 영웅이 뛰어내는 것을 확인하십시오.",
+                    "pl-PL": "Skocz z klifu o wysokości ponad 150 lub zobacz, jak robi to inny Bohater.",
+                    "ru-RU": "Надо нырнуть на глубину 500 футов или увидеть, как это делает другой Герой.",
+                    "zh-CHT": "跳下 500 呎高的懸崖，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "33.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Archäologie",
+                    "en-US": "The Archaeologist",
+                    "es-ES": "El arqueólogo",
+                    "fr-FR": "Archéologue",
+                    "it-IT": "L'archeologo",
+                    "ja-JP": "考古学者",
+                    "ko-KR": "고고학자",
+                    "pl-PL": "Archeolog",
+                    "ru-RU": "Археолог",
+                    "zh-CHT": "考古學家"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften habt an einem Ort, den Euer Hund entdeckt hat, etwas gefunden.",
+                    "en-US": "You, or a friend, excavated a site discovered by the dog and found something.",
+                    "es-ES": "Tú o un amigo habéis excavado donde te indicó el perro y habéis encontrado algo.",
+                    "fr-FR": "Vous, ou votre ami, avez déterré quelque chose à l'endroit indiqué par le chien.",
+                    "it-IT": "Tu o un tuo amico avete scavato nel punto indicato dal cane e avete trovato qualcosa.",
+                    "ja-JP": "犬が教えてくれた場所を掘り返して何かを発見した",
+                    "ko-KR": "당신 또는 다른 영웅이 애완견이 발견한 장소를 삽으로 파내 뭔가를 찾았습니다.",
+                    "pl-PL": "Ty lub twój przyjaciel odkopaliście coś znalezionego przez psa.",
+                    "ru-RU": "Покопавшись там, где порылась твоя собака, тебе удалось сделать находку. ",
+                    "zh-CHT": "您(或好友)挖掘小狗發現的地點，並發現了某樣東西。"
+                },
+                "howto": {
+                    "de-DE": "Grabt etwas aus, das Euer Hund gefunden hat, oder seid dabei, wenn andere Helden dies tun.",
+                    "en-US": "Dig up something the dog has discovered, or see another Hero do so.",
+                    "es-ES": "Desentierra lo que el perro ha encontrado o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Déterrez un objet découvert par votre chien ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Scava per estrarre una cosa trovata dal tuo cane, o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "犬が教えてくれた場所を掘り返す",
+                    "ko-KR": "애완견이 발견한 장소를 삽으로 파내거나 다른 영웅이 파내는 것을 확인하십시오.",
+                    "pl-PL": "Wykop coś, co znalazł pies lub zobacz, jak robi to inny Bohater.",
+                    "ru-RU": "Нужно выкопать что-нибудь, что нашел твой пес, или увидеть, как это делает другой Герой.",
+                    "zh-CHT": "挖掘小狗發現的東西，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "34.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "de-DE": "Perfektion",
+                    "en-US": "The Completionist",
+                    "es-ES": "Coleccionista",
+                    "fr-FR": "Perfectionniste",
+                    "it-IT": "Il completista",
+                    "ja-JP": "カンペキ主義者",
+                    "ko-KR": "완벽주의자",
+                    "pl-PL": "Omnibus",
+                    "ru-RU": "Перфекционист",
+                    "zh-CHT": "完整主義者"
+                },
+                "description": {
+                    "de-DE": "Ihr oder ein Freund habt sämtliche Ausdrucksmittel, Tricks und Fertigkeiten erhalten. Beeindruckend!",
+                    "en-US": "You, or a friend, have gathered every expression, pet trick and ability available. Such dedication.",
+                    "es-ES": "Tú o un amigo habéis reunido todos los trucos de mascota, expresiones y aptitudes. Qué tenacidad.",
+                    "fr-FR": "Vous, ou votre ami, avez toutes les expressions, tous les tours canins et toutes les capacités.",
+                    "it-IT": "Tu o un tuo amico avete raccolto tutte le espressioni, le acrobazie del cane e le capacità. Bene!",
+                    "ja-JP": "すべてのアクション、犬の芸、アビリティを習得した。地道な努力の成果だ!",
+                    "ko-KR": "당신 또는 다른 영웅이 표현, 애완견 재주를 하나도 빠짐없이 모두 획득하고 모든 능력을 배웠습니다. 잘하셨습니다!",
+                    "pl-PL": "Ty lub twój przyjaciel zgromadziliście każdy dostępny gest, psią sztuczkę i zdolność. Niesamowite.",
+                    "ru-RU": "Теперь ты знаешь все выражения, навыки и собачьи трюки. Или все это знает твой друг. Ну и упорство!",
+                    "zh-CHT": "您(或好友)已經收集了每種表情、小狗把戲、英雄頭銜及能力。做得好！"
+                },
+                "howto": {
+                    "de-DE": "Sammelt alle Ausdrucksmittel, Tricks und Fertigkeiten oder seid dabei, wenn andere Helden dies tun.",
+                    "en-US": "Get all expressions, pet tricks and abilities, or see another Hero do so.",
+                    "es-ES": "Reúne todos los trucos de mascota, expresiones y aptitudes o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Obtenez tous les tours, les expressions et les capacités ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Ottieni tutte le espressioni, acrobazie del cane e capacità, o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "すべてのアクション、犬の芸、アビリティを習得する",
+                    "ko-KR": "표현, 애완견 재주를 모두 획득하고 모든 능력을 배우거나 다른 영웅이 모두 배우는 것을 확인하십시오.",
+                    "pl-PL": "Zdobądź wszystkie gesty, psie sztuczki i zdolności lub zobacz, jak robi to inny Bohater.",
+                    "ru-RU": "Нужно изучить все выражения, навыки и все собачьи трюки. Или увидеть, как это удалось другому Герою.",
+                    "zh-CHT": "收集所有表情、小狗把戲及能力，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "35.png"
+        },
+        "67": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Egomane",
+                    "en-US": "The Egomaniac",
+                    "es-ES": "Ególatra",
+                    "fr-FR": "Égoïste",
+                    "it-IT": "L'egoista",
+                    "ja-JP": "利己主義者",
+                    "ko-KR": "이기주의자",
+                    "pl-PL": "Maniakalne ego",
+                    "ru-RU": "Воплощение Эгоизма",
+                    "zh-CHT": "損人利己"
+                },
+                "description": {
+                    "de-DE": "Es wurde \"Im Sinne des Einzelnen\" entschieden und Tausende ließen ihr Leben - nur für Gold.",
+                    "en-US": "The Needs of the One' has condemned thousands to death for nothing but gold.",
+                    "es-ES": "'El propio bien' ha condenado a muerte a miles de personas por un poco de oro.",
+                    "fr-FR": "\"Le destin d'un seul être\" a condamné des milliers de gens à mourir pour de l'or.",
+                    "it-IT": "Il bene del singolo ha condannato a morte migliaia di persone per nient'altro che l'oro.",
+                    "ja-JP": "「自分の幸福」を求め、何千もの人々の命を犠牲にしてゴールドを手に入れることを選んだ",
+                    "ko-KR": "'부'를 선택하여 수천 명의 목숨을 희생시키고 엄청난 금화를 손에 넣었습니다.",
+                    "pl-PL": "„Potrzeby jednostki” -- twoja żądza złota oznaczała śmierć tysięcy osób.",
+                    "ru-RU": "Этот выбор принес благо лишь одному человеку. Тысячи людей погибли только ради чьего-то обогащения.",
+                    "zh-CHT": "您選擇「犧牲大我，完成小我」，為了財富犧牲了數千人的性命。"
+                },
+                "howto": {
+                    "de-DE": "Ein heldenhaftes Individuum muss sich \"Im Sinne des Einzelnen\" entscheiden.",
+                    "en-US": "A Hero must choose 'The Needs of the One'.",
+                    "es-ES": "Un héroe debe elegir 'el propio bien'.",
+                    "fr-FR": "Un héros doit choisir \"Le destin d'un seul être\".",
+                    "it-IT": "Un eroe deve scegliere il bene del singolo.",
+                    "ja-JP": "「自分の幸福」を叶える選択をする",
+                    "ko-KR": "'부'를 선택하십시오.",
+                    "pl-PL": "Bohater musi wybrać „Potrzeby jednostki”.",
+                    "ru-RU": "В финале Герою нужно сделать выбор в свою пользу.",
+                    "zh-CHT": "選擇「犧牲大我，完成小我」。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "36.png"
+        },
+        "65": {
+            "text": {
+                "name": {
+                    "de-DE": "Das Opfer",
+                    "en-US": "The Sacrifice",
+                    "es-ES": "El sacrificio",
+                    "fr-FR": "Sacrifice",
+                    "it-IT": "Il sacrificio",
+                    "ja-JP": "無私無欲",
+                    "ko-KR": "서글픈 희생",
+                    "pl-PL": "Poświęcenie",
+                    "ru-RU": "Великая Жертва",
+                    "zh-CHT": "自我犧牲"
+                },
+                "description": {
+                    "de-DE": "Es wurde \"Im Sinne der Allgemeinheit\" entschieden und Nahestehende geopfert, damit andere leben.",
+                    "en-US": "The Needs of the Many' has sacrificed loved ones so that many more will live.",
+                    "es-ES": "'El bien colectivo' ha sacrificado a algunos seres queridos para salvar a la mayoría.",
+                    "fr-FR": "\"Le destin du plus grand nombre\" a sacrifié des êtres aimés pour la survie de milliers de personnes.",
+                    "it-IT": "Il bene di molti ha causato il sacrificio delle persone amate perché in molti potessero vivere.",
+                    "ja-JP": "「多数の幸福」を求め、愛する者を犠牲にして、大勢の命を救うことを選んだ",
+                    "ko-KR": "'희생'을 선택하여 당신이 사랑하는 몇 명의 목숨을 희생시키고 많은 사람을 구원했습니다.",
+                    "pl-PL": "„Potrzeby wielu” -- życie ukochanych było ceną za życie wielu innych osób. ",
+                    "ru-RU": "Выбор сделан в пользу других людей. Близкие погибли, но выжили многие тысячи.",
+                    "zh-CHT": "您選擇「犧牲小我，完成大我」，為了讓許多人能夠活下去，犧牲了自己心愛的人。"
+                },
+                "howto": {
+                    "de-DE": "Ein heldenhaftes Individuum muss sich \"Im Sinne der Allgemeinheit\" entscheiden.",
+                    "en-US": "A Hero must choose 'The Needs of the Many'.",
+                    "es-ES": "Un héroe debe elegir 'el bien colectivo'.",
+                    "fr-FR": "Un héros doit choisir \"Le destin du plus grand nombre\".",
+                    "it-IT": "Un eroe deve scegliere il bene di molti.",
+                    "ja-JP": "「多数の幸福」を叶える選択をする",
+                    "ko-KR": "'희생'을 선택하십시오.",
+                    "pl-PL": "Bohater musi wybrać „Potrzeby wielu”.",
+                    "ru-RU": "В финале Герою нужно сделать выбор в пользу человечества.",
+                    "zh-CHT": "選擇「犧牲小我，完成大我」。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "37.png"
+        },
+        "66": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Familie",
+                    "en-US": "The Family",
+                    "es-ES": "La familia",
+                    "fr-FR": "Famille",
+                    "it-IT": "La famiglia",
+                    "ja-JP": "家族",
+                    "ko-KR": "가족을 위하여",
+                    "pl-PL": "Rodzina",
+                    "ru-RU": "Семейный человек",
+                    "zh-CHT": "家人"
+                },
+                "description": {
+                    "de-DE": "Es wurde \"Im Sinne der Familie\" entschieden und Tausende wurden für ihr Leben zum Tode verurteilt.",
+                    "en-US": "The Needs of The Few' has condemned thousands to death so that loved ones might live.",
+                    "es-ES": "'El bien de la minoría' ha condenado a miles para salvar a algunos seres queridos.",
+                    "fr-FR": "\"Le destin d'une poignée\" a condamné des milliers à périr pour la survie d'êtres aimés.",
+                    "it-IT": "Il bene di pochi ha condannato a morte migliaia di individui per tenere in vita le persone amate.",
+                    "ja-JP": "「少数の幸福」を求め、何千もの人々の命を犠牲にして家族や愛する者との再会を選んだ",
+                    "ko-KR": "'사랑'을 선택하여 수천 명의 목숨을 희생시키고 당신이 사랑하는 몇 명을 구원했습니다.",
+                    "pl-PL": "„Potrzeby nielicznych” -- tysiące osób zginęło, aby twoi ukochani mogli żyć.",
+                    "ru-RU": "Выбор сделан в пользу семьи. Тысячи людей погибли, чтобы выжили близкие.",
+                    "zh-CHT": "您選擇成就個人的小愛，而枉顧成千上萬人的死活，只為了讓自己所愛之人繼續活下去。"
+                },
+                "howto": {
+                    "de-DE": "Ein heldenhaftes Individuum muss sich \"Im Sinne der Familie\" entscheiden.",
+                    "en-US": "A Hero must choose 'The Needs of The Few'.",
+                    "es-ES": "Un héroe debe elegir 'el bien de la minoría'.",
+                    "fr-FR": "Un héros doit choisir \"Le destin d'une poignée\".",
+                    "it-IT": "Un eroe deve scegliere il bene di pochi.",
+                    "ja-JP": "「少数の幸福」を叶える選択をする",
+                    "ko-KR": "'사랑'을 선택하십시오.",
+                    "pl-PL": "Bohater musi wybrać „Potrzeby nielicznych”.",
+                    "ru-RU": "В финале Герою нужно сделать выбор в пользу семьи.",
+                    "zh-CHT": "選擇「少數人的需求」。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "38.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "de-DE": "Extreme",
+                    "en-US": "The Extremist",
+                    "es-ES": "Extremista",
+                    "fr-FR": "Extrémiste",
+                    "it-IT": "L'estremista",
+                    "ja-JP": "極限挑戦者",
+                    "ko-KR": "극단주의자",
+                    "pl-PL": "Ekstremista",
+                    "ru-RU": "Ходячая Крайность",
+                    "zh-CHT": "極端主義者"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften habt Reinheit oder Verdorbenheit schamlos übertrieben.",
+                    "en-US": "You, or a friend, have taken purity or corruption to its utmost extreme.",
+                    "es-ES": "Tú o un amigo sois la pureza o la corrupción en persona.",
+                    "fr-FR": "Vous, ou votre ami, avez atteint des sommets de pureté ou de corruption.",
+                    "it-IT": "Tu o un tuo amico avete portato la purezza o la corruzione all'estremo.",
+                    "ja-JP": "純粋度または堕落度を極限まで高めた",
+                    "ko-KR": "당신 또는 다른 영웅이 순수 또는 타락 성향 최대치에 도달했습니다.",
+                    "pl-PL": "Ty lub twój przyjaciel macie skrajne podejście do czystości lub zepsucia.",
+                    "ru-RU": "Идея золотой середины не знакома тебе или твоему другу. ",
+                    "zh-CHT": "您(或好友)已經讓自己的純真或墮落程度達到極致。"
+                },
+                "howto": {
+                    "de-DE": "Erreicht 100 % Reinheit oder Verdorbenheit oder seid dabei, wenn andere Helden dies tun.",
+                    "en-US": "Reach 100% purity or corruption, or see another Hero do so.",
+                    "es-ES": "Consigue el 100% de pureza o de corrupción o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Obtenez 100 % de pureté ou de corruption ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Raggiungi il 100% in purezza o corruzione, o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "純粋度または堕落度を 100% まで高める",
+                    "ko-KR": "순수 또는 타락 성향 최대치에 도달하거나 다른 영웅이 최대치가 되는 것을 확인하십시오.",
+                    "pl-PL": "Osiągnij 100% czystości lub zepsucia lub zobacz, jak robi to inny Bohater.",
+                    "ru-RU": "Нужно достигнуть 100-процентной добродетели или порока. Или увидеть, как это удалось другому Герою.",
+                    "zh-CHT": "達到 100% 純真或墮落，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "39.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "Das Vorbild",
+                    "en-US": "The Paragon",
+                    "es-ES": "El dechado",
+                    "fr-FR": "Modèle",
+                    "it-IT": "L'esempio",
+                    "ja-JP": "神人",
+                    "ko-KR": "화신",
+                    "pl-PL": "Idealista",
+                    "ru-RU": "Максималист",
+                    "zh-CHT": "完美典範"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften habt die Moral ins Extrem getrieben. Besser als neutral!",
+                    "en-US": "You, or a friend, have taken morality to its utmost extreme. Neutral Heroes are so boring.",
+                    "es-ES": "Para ti o un amigo la moral es lo primero. No hay nada más aburrido que un héroe neutral.",
+                    "fr-FR": "Votre morale, ou celle de votre ami, atteint un niveau extrême. Les héros neutres sont si barbants.",
+                    "it-IT": "Tu o un tuo amico avete portato la moralità all'estremo. Gli eroi neutrali sono così noiosi.",
+                    "ja-JP": "モラルに関する値を極限まで高めた。普通の英雄なんて面白くないですよね",
+                    "ko-KR": "당신 또는 다른 영웅이 선 또는 악 성향이 최대치에 도달했습니다. 어중간한 영웅은 지루합니다.",
+                    "pl-PL": "Ty lub twój przyjaciel macie skrajne podejście do moralności. Neutralni Bohaterowie są tacy nudni.",
+                    "ru-RU": "Идея золотой середины не знакома тебе или твоему другу. Нейтральные Герои ужасно скучные.",
+                    "zh-CHT": "您(或好友)已經讓自己的道德感達到極致，這下可沒人能指控您是牆頭草了。"
+                },
+                "howto": {
+                    "de-DE": "Erreicht 100 % Güte oder Bosheit oder seid dabei, wenn andere Helden dies tun.",
+                    "en-US": "Reach 100% good or evil, or see another Hero do so.",
+                    "es-ES": "Consigue el 100% de bondad o de maldad o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Obtenez 100 % de bonté ou de méchanceté ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Raggiungi il 100% in bontà o malvagità, o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "善良度または邪悪度を 100% まで高める",
+                    "ko-KR": "선 또는 악 성향 최대치에 도달하거나 다른 영웅이 최대치가 되는 것을 확인하십시오.",
+                    "pl-PL": "Osiągnij 100% dobra lub zła lub zobacz, jak robi to inny Bohater.",
+                    "ru-RU": "Нужно достигнуть 100 процентов Добра или Зла. Или увидеть, как это удалось другому Герою.",
+                    "zh-CHT": "達到 100% 善良或邪惡，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "40.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Gezeichneter Held",
+                    "en-US": "The Illustrated Hero",
+                    "es-ES": "Lienzo ilustrado",
+                    "fr-FR": "Dessin humain",
+                    "it-IT": "L'eroe illustrato",
+                    "ja-JP": "歩く芸術品",
+                    "ko-KR": "인간 그림판",
+                    "pl-PL": "Ilustrowany Bohater",
+                    "ru-RU": "Герой-Картинка",
+                    "zh-CHT": "彩繪英雄"
+                },
+                "description": {
+                    "de-DE": "Tätowierungen halten ein Leben lang. Genau wie dieser Erfolg.",
+                    "en-US": "Tattoos are forever. Just like this achievement.",
+                    "es-ES": "Un tatuaje es para siempre. Igual que este logro.",
+                    "fr-FR": "Les tatouages sont indélébiles. Tout comme ce succès.",
+                    "it-IT": "I tatuaggi sono per sempre. Proprio come questo obiettivo.",
+                    "ja-JP": "タトゥーは一生モノです。そしてこの実績も、一度手に入れれば一生モノ!",
+                    "ko-KR": "문신은 영원합니다. 마치 도전 과제와 비슷하죠.",
+                    "pl-PL": "Tatuaże są wieczne. Tak jak to osiągnięcie.",
+                    "ru-RU": "Татуировки вечны. Как и это достижение.",
+                    "zh-CHT": "刺青是永恆的，就像這個成就一樣。"
+                },
+                "howto": {
+                    "de-DE": "Tätowiert Euren gesamten Heldenkörper oder seid dabei, wenn andere Helden dies tun.",
+                    "en-US": "Tattoo every part of your Hero's body, or see another Hero do so.",
+                    "es-ES": "Tatúa todo el cuerpo de tu héroe o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Faites-vous tatouer tout le corps ou observez un autre héros se faire tatouer le corps entier.",
+                    "it-IT": "Tatua l'intero corpo del tuo eroe, o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "体のすべての部分にタトゥーを入れる",
+                    "ko-KR": "모든 신체 부위에 문신을 새겨 넣거나 다른 영웅이 그렇게 한 것을 확인하십시오.",
+                    "pl-PL": "Wytatuuj każdą część ciała Bohatera lub zobacz, jak robi to inny Bohater.",
+                    "ru-RU": "Нужно сделать себе татуировки на всех частях тела. Или увидеть, как это удалось другому Герою.",
+                    "zh-CHT": "讓英雄身上每個部位都刺上刺青，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "41.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Henker",
+                    "en-US": "The Executioner",
+                    "es-ES": "Verdugo",
+                    "fr-FR": "Bourreau",
+                    "it-IT": "Il carnefice",
+                    "ja-JP": "死の使い",
+                    "ko-KR": "사형 집행인",
+                    "pl-PL": "Kat",
+                    "ru-RU": "Палач",
+                    "zh-CHT": "處決者"
+                },
+                "description": {
+                    "de-DE": "Sind Erfolge die Leben so vieler Unschuldiger wirklich wert? Wahrscheinlich schon.",
+                    "en-US": "Are achievements really worth the lives of so many innocents? Probably.",
+                    "es-ES": "¿De verdad los logros valen más que la vida de tantos inocentes? Quizá sí.",
+                    "fr-FR": "Cela vaut-il la peine de tuer tant d'innocents pour obtenir un succès ? Sûrement.",
+                    "it-IT": "Gli obiettivi valgono veramente la vita di tanti innocenti? Può essere.",
+                    "ja-JP": "実績のために大勢の命を犠牲にするなんて... まあ気持ちはわかりますけど",
+                    "ko-KR": "무고한 사람의 목숨보다 도전 과제가 더 중요한 겁니까? 당신에겐 아마 그럴지도...",
+                    "pl-PL": "Czy osiągnięcia są naprawdę warte życia tak wielu niewinnych? Prawdopodobnie tak.",
+                    "ru-RU": "И стоило это достижение стольких жизней? Впрочем, все может быть.",
+                    "zh-CHT": "這個成就真的值得您犧牲那麼多無辜村民的性命嗎？也許值得吧。"
+                },
+                "howto": {
+                    "de-DE": "Opfert zehn Menschen im Tempel der Schatten oder seid dabei, wenn andere Helden dies tun.",
+                    "en-US": "Sacrifice ten people in the Temple of Shadows, or see another Hero do so.",
+                    "es-ES": "Sacrifica a diez personas en el Templo de las sombras o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Sacrifiez dix personnes dans le Temple des Ombres ou observez un autre héros s'y livrer.",
+                    "it-IT": "Sacrifica dieci persone nel Tempio delle Ombre, o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "10 人の命を生贄として影の寺院に捧げる",
+                    "ko-KR": "그림자 사원에 10명을 제물로 바치거나 다른 영웅이 바치는 것을 확인하십시오.",
+                    "pl-PL": "Poświęć dziesięć osób w Świątyni Cieni lub zobacz, jak robi to inny Bohater.",
+                    "ru-RU": "Нужно принести в жертву 10 человек в Храме Тьмы. Или увидеть, как это удалось сделать другому Герою.",
+                    "zh-CHT": "在闇影殿內獻祭 10 位村民，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "42.png"
+        },
+        "51": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Berühmtheit",
+                    "en-US": "The Celebrity",
+                    "es-ES": "La celebridad",
+                    "fr-FR": "Star",
+                    "it-IT": "La celebrità",
+                    "ja-JP": "セレブ",
+                    "ko-KR": "알비온의 유명 인사",
+                    "pl-PL": "Gwiazda",
+                    "ru-RU": "Знаменитость",
+                    "zh-CHT": "名流之士"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften seid die berühmteste Person Albions. Helden müssen berühmt sein!",
+                    "en-US": "You, or a friend, are the most famous person in Albion. Heroes deserve to be celebrities!",
+                    "es-ES": "Tú o un amigo sois la persona más famosa de Albión. ¡Los héroes se merecen ser celebridades!",
+                    "fr-FR": "Vous, ou votre ami, êtes la personne la plus célèbre en Albion. Les héros méritent d'être célèbres !",
+                    "it-IT": "Tu o un tuo amico siete una delle persone più famose di Albion. Gli eroi meritano la celebrità!",
+                    "ja-JP": "アルビオンで最も有名な人物となった。これぞ本物のセレブだ!",
+                    "ko-KR": "당신 또는 다른 영웅이 알비온에서 가장 유명한 사람이 되었습니다. 영웅에게는 그럴 만한 자격이 있습니다.",
+                    "pl-PL": "Jesteś (lub twój przyjaciel jest) najsłynniejszą osobą w Albionie. Bohaterom należy się sława!",
+                    "ru-RU": "Ты самая известная персона в Альбионе. Или это можно сказать о твоем друге. Герои заслужили славу!",
+                    "zh-CHT": "您(或好友)是阿爾比恩最出名的人，是真正的名流之士。"
+                },
+                "howto": {
+                    "de-DE": "Erreicht 50 000 Ansehen oder seid dabei, wenn andere Helden dies tun.",
+                    "en-US": "Reach 50,000 renown, or see another Hero do so.",
+                    "es-ES": "Consigue 50.000 de renombre o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Obtenez 50 000 points de renom ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Raggiungi 50.000 punti di fama, o assisti mentre li ottiene un altro eroe.",
+                    "ja-JP": "名声を 50,000 まで高める",
+                    "ko-KR": "명성치 50,000을 쌓거나 다른 영웅이 명성을 쌓는 것을 확인하십시오.",
+                    "pl-PL": "Zdobądź 50 000 sławy lub zobacz, jak robi to inny Bohater.",
+                    "ru-RU": "Нужно добиться известности в 50000 очков. Или увидеть, как это удалось другому Герою.",
+                    "zh-CHT": "獲得 50,000 點聲望，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "43.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "Hamsterei",
+                    "en-US": "The Hoarder",
+                    "es-ES": "As del ahorro",
+                    "fr-FR": "Maniaque",
+                    "it-IT": "Il cercatore",
+                    "ja-JP": "収集家",
+                    "ko-KR": "보물찾기",
+                    "pl-PL": "Skarbnik",
+                    "ru-RU": "Скопидом",
+                    "zh-CHT": "囤積高手"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften habt jeden Silberschlüssel in Albion gefunden. Respekt!",
+                    "en-US": "You, or a friend, found every single silver key in Albion. Some would call you obsessive. Not us.",
+                    "es-ES": "Tú o un amigo habéis encontrado todas las llaves de plata. Algunos lo llaman obsesión. Nosotros no.",
+                    "fr-FR": "Vous, ou votre ami, avez trouvé toutes les clés en argent dispersées en Albion. Maniaque ?",
+                    "it-IT": "Tu o un tuo amico avete trovato tutte le chiavi d'argento di Albion. Collezionisti o maniacali?",
+                    "ja-JP": "アルビオンにあるすべてのシルバー キーを見つけた。ものすごい執念だ。いや、いい意味ですよ",
+                    "ko-KR": "당신 또는 다른 영웅이 알비온에 있는 실버 키를 모두 발견했습니다. 누군가는 보물을 지나치게 탐한다고 생각하겠지만 저는 그렇지 않습니다.",
+                    "pl-PL": "Udało ci się (lub twojemu przyjacielowi) znaleźć każdy srebrny klucz w Albionie. Czy to nie obsesja?",
+                    "ru-RU": "Тебе или другу удалось найти все серебряные ключи в Альбионе. Кое-кто скажет: это мания! Но не мы.",
+                    "zh-CHT": "您(或好友)找到了阿爾比恩境內的所有銀鑰匙。有人可能會說您過於執著，但我們可不怎這麼認為。"
+                },
+                "howto": {
+                    "de-DE": "Sammelt jeden Silberschlüssel oder seid dabei, wenn andere Helden dies tun.",
+                    "en-US": "Collect every silver key, or see another Hero do so.",
+                    "es-ES": "Reúne todas las llaves de plata o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Récupérez toutes les clés en argent ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Raccogli tutte le chiavi d'argento, o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "すべてのシルバー キーを集める",
+                    "ko-KR": "실버 키를 모두 획득하거나 다른 영웅이 모두 획득하는 것을 확인하십시오.",
+                    "pl-PL": "Zbierz każdy srebrny klucz lub zobacz, jak robi to inny Bohater.",
+                    "ru-RU": "Надо собрать все серебряные ключи. Или увидеть, как это удалось другому Герою.",
+                    "zh-CHT": "收集所有銀鑰匙，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "44.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "Held der vielen Namen",
+                    "en-US": "The Hero of Many Names",
+                    "es-ES": "Multinombre",
+                    "fr-FR": "Mille noms",
+                    "it-IT": "L'eroe dai molti nomi",
+                    "ja-JP": "異名使い",
+                    "ko-KR": "영웅의 수많은 이름",
+                    "pl-PL": "Bohater wielu imion",
+                    "ru-RU": "Герой Многих Имен",
+                    "zh-CHT": "多頭銜英雄"
+                },
+                "description": {
+                    "de-DE": "Ihr oder eine Eurer Bekanntschaften habt den Titel gewechselt. Aber wir wissen, wer Ihr seid. Immer!",
+                    "en-US": "You, or a friend, changed titles. We still know who you really are. No one hides from us.",
+                    "es-ES": "Tú o un amigo habéis cambiado de título pero os conocemos igual. No podéis esconderos.",
+                    "fr-FR": "Vous, ou votre ami, avez changé de titre, mais on sait qui vous êtes. On ne peut rien nous cacher.",
+                    "it-IT": "Tu o un tuo amico avete cambiato il vostro titolo, ma noi sappiamo chi siete. Noi sappiamo tutto.",
+                    "ja-JP": "称号を変更した。ただし名前を変えても正体はバレバレ。逃げようったってそうはいきませんよ",
+                    "ko-KR": "당신 또는 다른 영웅이 영웅 칭호를 바꿨습니다. 우리는 당신이 누군지 압니다. 우리 눈을 속일 순 없습니다.",
+                    "pl-PL": "Ty lub twój przyjaciel zmieniliście tytuły. Ale i tak wiemy, kim jesteście.",
+                    "ru-RU": "Можешь менять титулы сколько угодно, твой друг - тоже, но мы знаем, кто есть кто. Нас не проведешь!",
+                    "zh-CHT": "您(或好友)變更英雄頭銜，但我們還是認得您。沒人躲的了我們。"
+                },
+                "howto": {
+                    "de-DE": "Ändert Euren Titel oder seid dabei, wenn andere Helden dies tun.",
+                    "en-US": "Change your Hero's title, or see another Hero change theirs.",
+                    "es-ES": "Cambia tu título o mira cómo otro héroe cambia el suyo.",
+                    "fr-FR": "Changez de titre ou assistez au changement de titre d'un autre héros.",
+                    "it-IT": "Cambia il titolo del tuo eroe, o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "称号を変更する",
+                    "ko-KR": "영웅 칭호를 바꾸거나 다른 영웅이 칭호를 바꾸는 것을 확인하십시오.",
+                    "pl-PL": "Zmień tytuł swojego Bohatera lub zobacz, jak robi to inny Bohater.",
+                    "ru-RU": "Надо сменить титул своего Героя или присутствовать при смене титула другим Героем.",
+                    "zh-CHT": "變更英雄頭銜，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "45.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "de-DE": "Grufti",
+                    "en-US": "The Goth",
+                    "es-ES": "Parangón gótico",
+                    "fr-FR": "Gothique",
+                    "it-IT": "Il gotico",
+                    "ja-JP": "パンク ロッカー",
+                    "ko-KR": "어둠의 신사",
+                    "pl-PL": "Got",
+                    "ru-RU": "Гот",
+                    "zh-CHT": "歌德風格"
+                },
+                "description": {
+                    "de-DE": "Jeder weiß, dass schwarz die coolste Farbe ist.",
+                    "en-US": "Everybody knows black is the coolest colour.",
+                    "es-ES": "Todos saben que no hay color más elegante que el negro.",
+                    "fr-FR": "On sait tous que le noir est la couleur la plus tendance.",
+                    "it-IT": "Il nero è il colore più bello, lo sanno tutti.",
+                    "ja-JP": "アルビオンに黒でキメたクールな奴が現れたともっぱらの噂だ",
+                    "ko-KR": "이제 모두 검은색이 얼마나 멋진지 알았습니다.",
+                    "pl-PL": "Wszyscy wiedzą, że czarny to najfajniejszy kolor.",
+                    "ru-RU": "Все знают, что самый крутой цвет - черный.",
+                    "zh-CHT": "大家都知道黑色是最酷的顏色。"
+                },
+                "howto": {
+                    "de-DE": "Ein heldenhaftes Individuum muss schwarze Haare, schwarze Kleidung und schwarze Schminke tragen.",
+                    "en-US": "A Hero must dye their hair black, and wear a black outfit and black makeup.",
+                    "es-ES": "Un héroe debe teñirse, trajearse y maquillarse de negro.",
+                    "fr-FR": "Un héros doit teindre ses cheveux en noir, porter des vêtements noirs et mettre du maquillage noir.",
+                    "it-IT": "Un eroe deve tingersi i capelli di nero, indossare solo vestiti neri e usare del trucco nero.",
+                    "ja-JP": "髪を黒く染め、全身真っ黒の服を着て、黒系のメイクをする",
+                    "ko-KR": "검은색으로 머리를 염색하고 검은색 옷을 입고 검은색으로 화장하십시오.",
+                    "pl-PL": "Bohater musi przefarbować włosy na czarno oraz nosić czarne ubranie i czarny makijaż.",
+                    "ru-RU": "Герою надо покрасить волосы в черный цвет, облачиться в черную одежду и добавить черный макияж!",
+                    "zh-CHT": "染黑頭髮、穿上全黑的衣服，並化上黑色的妝。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "46.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "de-DE": "Schwarzer Ritter",
+                    "en-US": "The Black Knight",
+                    "es-ES": "El caballero negro",
+                    "fr-FR": "Guerrier des ténèbres",
+                    "it-IT": "Il cavaliere nero",
+                    "ja-JP": "暗黒の騎士",
+                    "ko-KR": "흑기사",
+                    "pl-PL": "Czarny Rycerz",
+                    "ru-RU": "Черный Рыцарь",
+                    "zh-CHT": "黑騎士"
+                },
+                "description": {
+                    "de-DE": "Ihr habt das Töten von Hohlen Männern zur Kunstform erhoben. War wohl doch keine Fleischwunde.",
+                    "en-US": "You have turned hollow man-killing into an artform. Turns out it wasn't a flesh wound.",
+                    "es-ES": "Has hecho un arte de la cacería de hombres huecos. Resulta que no era una herida superficial.",
+                    "fr-FR": "Avec vous, le massacre d'hommes creux est un art. Ce n'était pas qu'une blessure superficielle.",
+                    "it-IT": "Hai reso lo sterminio dei piagati una forma d'arte. Niente carne al sangue per te.",
+                    "ja-JP": "ゾンビにとどめを刺して、腐りかけのただの物体にしてやった",
+                    "ko-KR": "할로우맨을 죽이는 솜씨가 예술의 경지에 올랐습니다. 그들은 당신의 털끝 하나 건드리지 못했습니다.",
+                    "pl-PL": "Zamieniłeś zabijanie upiorów w sztukę. To jednak nie była rana powierzchowna.",
+                    "ru-RU": "Тебе удалось превратить охоту на пустотелых в высокое искусство.",
+                    "zh-CHT": "您已經把殺死死靈人的技巧提昇成一種藝術，結果您發現它們受到的可不只是皮肉傷。"
+                },
+                "howto": {
+                    "de-DE": "Schießt einem Hohlen Mann die Waffe aus der Hand, enthauptet ihn und erledigt ihn damit endgültig!",
+                    "en-US": "Shoot the weapons from a hollow man's hands, blow off his head and then kill him for good!",
+                    "es-ES": "Desarma a un hombre hueco, reviéntale la cabeza y mátalo de una vez por todas.",
+                    "fr-FR": "Désarmez un homme creux, arrachez-lui la tête puis achevez-le !",
+                    "it-IT": "Spara a un piagato: strappagli le armi, fagli saltare la testa e poi uccidilo una volta per tutte!",
+                    "ja-JP": "ゾンビの手から武器を撃ち落とし、さらに頭に命中させてとどめを刺す",
+                    "ko-KR": "할로우맨의 손에서 무기를 떨어트리고 머리를 날려버린 다음 완전히 죽이십시오.",
+                    "pl-PL": "Pociskami wytrąć broń z dłoni upiora, odstrzel mu łeb i wykończ go na dobre!",
+                    "ru-RU": "Выбей метким выстрелом оружие из рук пустотелого, разнеси ему голову, а потом прикончи!",
+                    "zh-CHT": "射掉死靈人手上的武器，轟掉它的頭，然後讓它永遠安息！"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "47.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "de-DE": "Gargoyle",
+                    "en-US": "The Gargoyle",
+                    "es-ES": "La gárgola",
+                    "fr-FR": "Gargouille",
+                    "it-IT": "La gargolla",
+                    "ja-JP": "ガーゴイル",
+                    "ko-KR": "가고일",
+                    "pl-PL": "Gargulec",
+                    "ru-RU": "Горгулья",
+                    "zh-CHT": "石像怪尋寶專家"
+                },
+                "description": {
+                    "de-DE": "Ihr habt den Schatz der Gargoyles gefunden. Die fiesen Felsen haben Euch zum letzten Mal verhöhnt.",
+                    "en-US": "You uncovered the gargoyles' treasure. The cheeky rocks have mocked you for the last time.",
+                    "es-ES": "Has descubierto el tesoro de las gárgolas. Esos pedruscos descarados no volverán a reírse de ti.",
+                    "fr-FR": "Vous avez déniché le trésor des gargouilles, coupant ainsi la chique à ces rochers insolents.",
+                    "it-IT": "Hai scoperto il tesoro delle gargolle. È l'ultima volta che quelle stupide rocce ti deridono.",
+                    "ja-JP": "ガーゴイルの財宝を発見した。これであのうるさい岩の塊にからかわれることもなくなるだろう",
+                    "ko-KR": "가고일의 보물을 발견했습니다. 그 뻔뻔스러운 돌멩이가 마지막으로, 또다시 당신을 농락했습니다.",
+                    "pl-PL": "Udało ci się odkryć skarb gargulców. Bezczelne kawałki skały wyśmiewały się z ciebie po raz ostatni.",
+                    "ru-RU": "Тебе удалось добыть сокровища горгулий. Эти наглые каменные твари смеялись в последний раз!",
+                    "zh-CHT": "您發現了石像怪的寶藏，那些厚臉皮的石頭再也不會嘲笑您了。"
+                },
+                "howto": {
+                    "de-DE": "Findet den legendären Schatz der Gargoyles.",
+                    "en-US": "Find the gargoyles' legendary treasure.",
+                    "es-ES": "Encuentra el legendario tesoro de las gárgolas.",
+                    "fr-FR": "Trouvez le trésor légendaire des gargouilles.",
+                    "it-IT": "Trova il leggendario tesoro delle gargolle.",
+                    "ja-JP": "ガーゴイルの伝説の財宝を発見する",
+                    "ko-KR": "가고일이 숨겨 둔 전설의 보물을 찾으십시오.",
+                    "pl-PL": "Odnajdź legendarny skarb gargulców.",
+                    "ru-RU": "Найди легендарные сокровища горгулий.",
+                    "zh-CHT": "尋找傳說中石像怪的寶藏。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "48.png"
+        },
+        "55": {
+            "text": {
+                "name": {
+                    "de-DE": "Muse",
+                    "en-US": "The Muse",
+                    "es-ES": "La musa",
+                    "fr-FR": "Muse",
+                    "it-IT": "La musa",
+                    "ja-JP": "創作の源",
+                    "ko-KR": "영웅의 노래",
+                    "pl-PL": "Muza",
+                    "ru-RU": "Муза",
+                    "zh-CHT": "繆思"
+                },
+                "description": {
+                    "de-DE": "Ganz Albion hat die Lieder über Euch gehört, die Ihr in Auftrag gegeben habt. Angeber.",
+                    "en-US": "The whole of Albion has heard the songs you've commissioned about yourself. Show-off.",
+                    "es-ES": "Todo Albión se sabe las canciones que has encargado componer sobre ti. Alardea.",
+                    "fr-FR": "Tout l'Albion a entendu les chansons que vous avez commandées vous-même au barde.",
+                    "it-IT": "Tutta Albion ha sentito le canzoni che hai commissionato su di te. Esibizionista.",
+                    "ja-JP": "アルビオンの民は、英雄をテーマにした歌に聴き入った。これで目立ちたがり屋のあなたも満足だ",
+                    "ko-KR": "알비온의 모든 사람이 당신에 대한 노래를 들었습니다. 마음껏 자랑하십시오.",
+                    "pl-PL": "Cały Albion słyszał zamówione piosenki o tobie. Szpaner.",
+                    "ru-RU": "Теперь весь Альбион слышал песни о тебе, заказанные тобой же. Выскочка.",
+                    "zh-CHT": "整個阿爾比恩都聽得到您付錢歌頌您英勇行為的歌曲，真是愛現。"
+                },
+                "howto": {
+                    "de-DE": "Inspiriert einen Barden, Lieder über Eure großen Taten zu komponieren.",
+                    "en-US": "Inspire the Bard to compose songs celebrating your great deeds.",
+                    "es-ES": "Inspira al bardo para que componga canciones que rememoren tus hazañas.",
+                    "fr-FR": "Demandez au barde de composer des chansons relatant vos exploits.",
+                    "it-IT": "Ispira il bardo a comporre canzoni che celebrino le tue grandi imprese.",
+                    "ja-JP": "吟遊詩人に、英雄の冒険をテーマにした歌を作ってもらう",
+                    "ko-KR": "음유시인이 당신의 업적을 기리는 노래를 작곡하게 하십시오.",
+                    "pl-PL": "Zainspiruj Barda, aby skomponował piosenki opisujące twoje wielkie czyny.",
+                    "ru-RU": "Вдохнови Барда, чтобы он сочинил песни, восхваляющие твои деяния.",
+                    "zh-CHT": "給吟遊詩人靈感，讓他譜出歌頌您豐功偉業的歌曲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "49.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Jagd",
+                    "en-US": "The Hunter",
+                    "es-ES": "As de la caza",
+                    "fr-FR": "Chasseur",
+                    "it-IT": "Il cacciatore",
+                    "ja-JP": "ハンター",
+                    "ko-KR": "대단한 사냥꾼",
+                    "pl-PL": "Łowca",
+                    "ru-RU": "Охотник",
+                    "zh-CHT": "獵人"
+                },
+                "description": {
+                    "de-DE": "Seid Ihr etwa stolz? Habt Ihr mutig ein unschuldiges Häschen ermordet? Schämt Ihr Euch nicht?",
+                    "en-US": "So, proud of yourself?  Big brave hunter killed an innocent rabbit?  How do you sleep at night?",
+                    "es-ES": "Qué bien, ¿eh? ¿Has matado a un inofensivo conejito? ¿Te sientes mejor?",
+                    "fr-FR": "Vous parlez d'un exploit ! Vous avez tué un petit lapin sans défense ! Et vous arrivez à dormir ?",
+                    "it-IT": "Sei felice adesso? Il grande cacciatore coraggioso che uccide i teneri coniglietti? Hai un cuore?",
+                    "ja-JP": "よくもまあ、あんなにかわいいウサギの命を奪うことができたものだ。後悔の念はないのだろうか?",
+                    "ko-KR": "퍽이나 자랑스럽겠군요. 위대하신 사냥꾼이 작고 연약한 토끼나 죽이다니, 그러고도 잠이 옵니까?",
+                    "pl-PL": "I co, przepełnia cię duma? Wielki, odważny łowca zabił niewinnego króliczka? Miewasz koszmary?",
+                    "ru-RU": "Ну что, гордишься собой? Один убитый кролик - и ты у нас храбрый охотник? Спится-то ночью тебе как?",
+                    "zh-CHT": "有那麼得意啊？一位英勇的獵人殺死了一隻無辜的兔子？您晚上怎麼睡得著啊？"
+                },
+                "howto": {
+                    "de-DE": "Erledigt ein süßes, unschuldiges Häschen (ohne Sicherheitsmodus!)",
+                    "en-US": "Kill a sweet, innocent, fluffy bunny rabbit (remember, safety's off!)",
+                    "es-ES": "Mata a un adorable e inofensivo conejito (recuerda quitar el seguro).",
+                    "fr-FR": "Tuez un gentil lapinou tout mignon (n'oubliez pas la sécurité !).",
+                    "it-IT": "Uccidi un tenero, innocente e peloso coniglietto (ricordati di togliere la sicura).",
+                    "ja-JP": "かわいくて無垢でふわふわのウサギを仕留める (安全装置を外すのを忘れずに!)",
+                    "ko-KR": "귀엽고 연약하며 두려움에 벌벌 떠는 토끼를 죽이십시오. 안전 모드를 꺼야 합니다!",
+                    "pl-PL": "Zabij uroczego, niewinnego, puszystego króliczka (pamiętaj o wyłączeniu trybu bezpieczeństwa!)",
+                    "ru-RU": "Убей миленького ни в чем не повинного пушистого кролика (и не забудь убрать режим безопасности)!",
+                    "zh-CHT": "殺死可愛、天真、毛茸茸的兔子。記得要關閉安全模式喔！"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "50.png"
+        },
+        "68": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Sammler",
+                    "en-US": "The Collector",
+                    "es-ES": "El recopilador",
+                    "fr-FR": "Collectionneur",
+                    "it-IT": "Il Collezionista",
+                    "ja-JP": "コレクター",
+                    "ko-KR": "수집가",
+                    "pl-PL": "The Collector",
+                    "ru-RU": "The Collector",
+                    "zh-CHT": "收藏家"
+                },
+                "description": {
+                    "de-DE": "Dank heldenhafter Handelsfertigkeiten wurde jedes Geheimnis in der Geheimniskiste entdeckt.",
+                    "en-US": "Thanks to heroic trading skills, every mystery item in The Box of Secrets has been uncovered.",
+                    "es-ES": "Gracias a una gran habilidad comercial se han desvelado todos los objetos de La caja de secretos.",
+                    "fr-FR": "Grâce à un négoce habile, chaque objet mystère dans la Boîte à secrets a été découvert.",
+                    "it-IT": "Grazie a eroiche doti di commercio, tutti gli oggetti de La Scatola dei segreti sono svelati.",
+                    "ja-JP": "優れた物品調達スキルのおかげで、シークレット ボックスにある謎のアイテムをすべて手に入れた",
+                    "ko-KR": "영웅적인 거래 기술 덕분에, 비밀의 상자에 있는 비밀 아이템을 모두 획득했습니다.",
+                    "pl-PL": "Thanks to heroic trading skills, every mystery item in The Box of Secrets has been uncovered.",
+                    "ru-RU": "Thanks to heroic trading skills, every mystery item in The Box of Secrets has been uncovered.",
+                    "zh-CHT": "多虧英雄高超的交換技巧，發掘了「神秘之盒」中的所有神秘物品。"
+                },
+                "howto": {
+                    "de-DE": "Erwerbt alle Geheimnisse im Laden der Geheimniskiste oder veranlasst einen anderen Helden dazu.",
+                    "en-US": "Acquire all the mystery items in The Box of Secrets shop, or see another Hero do so.",
+                    "es-ES": "Consigue todos los objetos misteriosos de La caja de los secretos, o mira a otro héroe conseguirlos.",
+                    "fr-FR": "Obtenez tous les objets mystère du magasin Boîte à secrets, ou regardez un autre héros le faire.",
+                    "it-IT": "Acquista tutti gli oggetti misteriosi de La Scatola dei segreti o assisti a un eroe mentre lo fa.",
+                    "ja-JP": "シークレット ボックス店内の謎のアイテムをすべて手に入れる",
+                    "ko-KR": "비밀의 상자 상점에서 비밀 아이템을 모두 모으거나 다른 영웅이 모으는 것을 확인하십시오.",
+                    "pl-PL": "Acquire all the mystery items in The Box of Secrets shop, or see another Hero do so.",
+                    "ru-RU": "Acquire all the mystery items in The Box of Secrets shop, or see another Hero do so.",
+                    "zh-CHT": "獲得「神秘之盒」中所有的神秘物品，或旁觀其他英雄的表現。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "51.png"
+        },
+        "69": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Meteorologe",
+                    "en-US": "The Meteorologist",
+                    "es-ES": "El meteorólogo",
+                    "fr-FR": "Météorologue",
+                    "it-IT": "Il Meteorologo",
+                    "ja-JP": "気象学者",
+                    "ko-KR": "기상학자",
+                    "pl-PL": "The Meteorologist",
+                    "ru-RU": "The Meteorologist",
+                    "zh-CHT": "氣象學者"
+                },
+                "description": {
+                    "de-DE": "Ihr oder ein Freund habt alle Totems der Astloch-Insel gefunden und die Wetterkammer reaktiviert.",
+                    "en-US": "You, or a friend, recovered all the totems in Knothole Island and reactivated the Weather Chamber.",
+                    "es-ES": "Tú o un amigo habéis recobrado todos los tótems de Isla Knothole y reactivado la Cámara del clima.",
+                    "fr-FR": "Vous, ou un ami, avez retrouvé tous les totems sur l'île de Knothole et réactivé la Salle du temps.",
+                    "it-IT": "Tu o un amico avete recuperato tutti i totem di Knothole Island e attivato la Camera del Tempo.",
+                    "ja-JP": "ノットホール島のトーテムをすべて取り戻し、天気の間を再び使えるようにした",
+                    "ko-KR": "당신 또는 다른 영웅이 노트홀 섬의 토템을 모두 모으고 날씨의 방을 재가동시켰습니다.",
+                    "pl-PL": "You, or a friend, recovered all the totems in Knothole Island and reactivated the Weather Chamber.",
+                    "ru-RU": "You, or a friend, recovered all the totems in Knothole Island and reactivated the Weather Chamber.",
+                    "zh-CHT": "您或好友，取得納特島上的所有圖騰，並重新啟動天氣大廳。"
+                },
+                "howto": {
+                    "de-DE": "Bringt die Wetterprobleme der Astloch-Insel unter Kontrolle oder helft einem anderen Helden dabei.",
+                    "en-US": "Bring all of Knothole Island’s weather problems under control, or help another Hero to do so.",
+                    "es-ES": "Resuelve todos los problemas meteorológicos de Isla Knothole, o ayuda a otro héroe a lograrlo.",
+                    "fr-FR": "Reprenez le contrôle du temps sur l'île de Knothole, ou aidez un autre héros à le faire.",
+                    "it-IT": "Metti fine ai problemi meteorologici di Knothole Island o aiuta un altro eroe a farlo. ",
+                    "ja-JP": "ノットホール島の天気にまつわる問題をすべて解決する",
+                    "ko-KR": "노트홀 섬의 날씨 문제를 모두 해결하거나 다른 영웅이 해결하는 것을 확인하십시오.",
+                    "pl-PL": "Bring all of Knothole Island’s weather problems under control, or help another Hero to do so.",
+                    "ru-RU": "Bring all of Knothole Island’s weather problems under control, or help another Hero to do so.",
+                    "zh-CHT": "掌控納特島的所有氣候問題，或協助其他英雄完成此任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "52.png"
+        },
+        "70": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Bibliophile",
+                    "en-US": "The Bibliophile",
+                    "es-ES": "El bibliófilo",
+                    "fr-FR": "Bibliophile",
+                    "it-IT": "Il Bibliofilo",
+                    "ja-JP": "愛書家",
+                    "ko-KR": "장서가",
+                    "pl-PL": "The Bibliophile",
+                    "ru-RU": "The Bibliophile",
+                    "zh-CHT": "愛書者"
+                },
+                "description": {
+                    "de-DE": "Ihr oder ein anderer Held habt das verlorene Wissen der Astloch-Insel gefunden.",
+                    "en-US": "You, or another Hero, have recovered the lost lore of Knothole Island.",
+                    "es-ES": "Tú u otro héroe habéis recobrado el saber perdido de Isla Knothole.",
+                    "fr-FR": "Vous, ou un autre héros, avez retrouvé les traditions oubliées de l'île de Knothole.",
+                    "it-IT": "Tu o un altro eroe avete recuperato il sapere perduto di Knothole Island.",
+                    "ja-JP": "ノットホール島の失われた歴史を掘り起こした",
+                    "ko-KR": "당신 또는 다른 영웅이 사라진 노트홀 섬의 전설을 찾았습니다.",
+                    "pl-PL": "You, or another Hero, have recovered the lost lore of Knothole Island.",
+                    "ru-RU": "You, or another Hero, have recovered the lost lore of Knothole Island.",
+                    "zh-CHT": "您或好友，發掘了納特島失落的寶典。"
+                },
+                "howto": {
+                    "de-DE": "Findet alle Bücher über die Geschichte der Astloch-Insel oder helft einem anderen Helden dabei.",
+                    "en-US": "Find all the books detailing the history of Knothole Island, or help another Hero to do so.",
+                    "es-ES": "Encuentra todos los libros con la historia de Isla Knothole, o ayuda a otro héroe a lograrlo.",
+                    "fr-FR": "Trouvez tous les livres sur l'histoire de l'île de Knothole, ou aidez un autre héros à le faire.",
+                    "it-IT": "Trova tutti i libri sulla storia di Knothole Island, o aiuta un altro eroe a farlo.",
+                    "ja-JP": "ノットホール島の歴史について記された書物をすべて探し出す",
+                    "ko-KR": "노트홀 섬의 자세한 역사를 다룬 책들을 모두 찾거나 다른 영웅이 찾는 것을 확인하십시오.",
+                    "pl-PL": "Find all the books detailing the history of Knothole Island, or help another Hero to do so.",
+                    "ru-RU": "Find all the books detailing the history of Knothole Island, or help another Hero to do so.",
+                    "zh-CHT": "找尋記載著納特島詳細歷史的書籍，或協助其他英雄尋找。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "53.png"
+        },
+        "71": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Nussknacker",
+                    "en-US": "The Nutcracker",
+                    "es-ES": "El cascanueces",
+                    "fr-FR": "Casse-noisette",
+                    "it-IT": "Lo schiaccianoci",
+                    "ja-JP": "くるみ割り人形",
+                    "ko-KR": "호두까기 대가",
+                    "pl-PL": "The Nutcracker",
+                    "ru-RU": "The Nutcracker",
+                    "zh-CHT": "胡桃鉗"
+                },
+                "description": {
+                    "de-DE": "Helden stehen für Verletzungen - schmerzhafte wie komische. Was die 25 Leistenschüsse erklärt.",
+                    "en-US": "Heroes are the harbingers of injuries both painful and comedic. Which explains the 25 groin shots.",
+                    "es-ES": "Los héroes siembran la muerte, ya sea de dolor o de risa. Así se explica tanto disparo a la ingle.",
+                    "fr-FR": "Les héros aiment infliger des blessures aussi douloureuses que comiques. D'où les 25 coups à l'aine.",
+                    "it-IT": "Gli eroi preannunciano danni dolorosi ma anche comici, come 25 colpi all'inguine.",
+                    "ja-JP": "ものすごく痛いけど思わず笑ってしまう必殺技、急所攻撃を 25 回命中させた",
+                    "ko-KR": "고통을 주면서 폭소를 자아내는 모욕의 대가가 되었습니다. 급소 공격을 25회나 성공시킨 덕분이죠.",
+                    "pl-PL": "Heroes are the harbingers of injuries both painful and comedic. Which explains the 25 groin shots.",
+                    "ru-RU": "Heroes are the harbingers of injuries both painful and comedic. Which explains the 25 groin shots.",
+                    "zh-CHT": "英雄喜歡疼痛又戲謔的傷害，這就是為什麼有 25 次射擊鼠蹊數。"
+                },
+                "howto": {
+                    "de-DE": "Erzielt 25 Leistenschüsse oder seht zu, wenn andere Helden dies tun.",
+                    "en-US": "Score 25 groin shots, or see another Hero do so. ",
+                    "es-ES": "Realiza 25 disparos en la ingle o mira cómo lo hace otro héroe. ",
+                    "fr-FR": "Infligez 25 coups à l'aine ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Colpisci 25 vittime all'inguine o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "急所への攻撃を 25 回命中させる",
+                    "ko-KR": "급소 공격을 25회 성공하거나 다른 영웅이 성공하는 것을 확인하십시오.",
+                    "pl-PL": "Score 25 groin shots, or see another Hero do so. ",
+                    "ru-RU": "Score 25 groin shots, or see another Hero do so. ",
+                    "zh-CHT": "獲得 25 次射擊鼠蹊數，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "54.png"
+        },
+        "72": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Liebhaber",
+                    "en-US": "The Paramour",
+                    "es-ES": "El amante",
+                    "fr-FR": "Love machine",
+                    "it-IT": "L'amante",
+                    "ja-JP": "愛の伝道師",
+                    "ko-KR": "호색한",
+                    "pl-PL": "The Paramour",
+                    "ru-RU": "The Paramour",
+                    "zh-CHT": "情婦情夫"
+                },
+                "description": {
+                    "de-DE": "Im Leben eines Helden geht es nicht nur um Quests, sondern auch um Liebe. Einer Menge Liebe.",
+                    "en-US": "Being a Hero isn't just about quests, it's about spreading the love. A lot of love.",
+                    "es-ES": "Aparte de completar misiones, un héroe también se dedica a repartir amor. Mucho amor.",
+                    "fr-FR": "Un héros ne fait pas qu'accomplir des quêtes, il doit aussi répandre l'amour. Beaucoup d'amour.",
+                    "it-IT": "Il ruolo di un eroe non si limita alle missioni, è anche questione di amore. Molto amore.",
+                    "ja-JP": "英雄たるもの、クエストをこなすばかりが能じゃない。世界を愛で満たすのも仕事のうち!?",
+                    "ko-KR": "영웅이 된다는 것은 단지 퀘스트만 수행하는 것은 아니겠지요. 사랑을 퍼트리는 것도 중요할 겁니다. 그것도 아주 많은 사랑을요.",
+                    "pl-PL": "Being a Hero isn't just about quests, it's about spreading the love. A lot of love.",
+                    "ru-RU": "Being a Hero isn't just about quests, it's about spreading the love. A lot of love.",
+                    "zh-CHT": "當英雄不只是要完成任務，還要散播愛，很多很多的愛。"
+                },
+                "howto": {
+                    "de-DE": "Macht 25 Mal Liebe oder seht zu, wenn andere Helden dies tun.",
+                    "en-US": "Make love 25 times, or see another Hero do so. ",
+                    "es-ES": "Haz el amor 25 veces o mira cómo lo hace otro héroe. ",
+                    "fr-FR": "Ayez 25 rapports sexuels ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Fai l'amore 25 volte o assisti mentre lo fa un altro eroe. ",
+                    "ja-JP": "25 回ベッドインする",
+                    "ko-KR": "25명과 사랑은 나누거나 다른 영웅이 그렇게 하는 것을 확인하십시오.",
+                    "pl-PL": "Make love 25 times, or see another Hero do so. ",
+                    "ru-RU": "Make love 25 times, or see another Hero do so. ",
+                    "zh-CHT": "做愛 25 次，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "55.png"
+        },
+        "73": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Portier",
+                    "en-US": "The Concierge",
+                    "es-ES": "El conserje",
+                    "fr-FR": "Concierge",
+                    "it-IT": "Il portiere",
+                    "ja-JP": "門番",
+                    "ko-KR": "문지기",
+                    "pl-PL": "The Concierge",
+                    "ru-RU": "The Concierge",
+                    "zh-CHT": "守門人"
+                },
+                "description": {
+                    "de-DE": "Sämtliche Dämonentüren in Albion wurden geöffnet. Kein Wunder, dass es so zieht.",
+                    "en-US": "All the Demon Doors in Albion have been opened. No wonder there’s an unnatural draught.",
+                    "es-ES": "Todas las puertas demoniacas de Albión se han abierto. Normal que haya una corriente tan terrible.",
+                    "fr-FR": "Toutes les Portes démoniaques d'Albion ont été ouvertes. Merci pour le courant d'air...",
+                    "it-IT": "Sono state aperte tutte le Porte del demonio di Albion. Ecco perché c'è tutta questa corrente.",
+                    "ja-JP": "アルビオンにあるデーモンの扉をすべて開けた。どうりで風通しが良くなったわけだ",
+                    "ko-KR": "알비온에 있는 모든 마법의 문이 열렸습니다. 이상한 기운을 느꼈어도 이제는 전혀 이상할 것이 없습니다.",
+                    "pl-PL": "All the Demon Doors in Albion have been opened. No wonder there’s an unnatural draught.",
+                    "ru-RU": "All the Demon Doors in Albion have been opened. No wonder there’s an unnatural draught.",
+                    "zh-CHT": "阿爾比恩所有的惡魔之門都已經打開，難怪會有超自然的乾旱。"
+                },
+                "howto": {
+                    "de-DE": "Öffnet sämtliche Dämonentüren in Albion oder seht zu, wenn andere Helden dies tun.",
+                    "en-US": "Open all the Demon Doors in Albion, or see another Hero do so.",
+                    "es-ES": "Abre todas las puertas demoniacas de Albión o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Ouvrez toutes les Portes démoniaques d'Albion ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Apri tutte le Porte del demonio di Albion o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "アルビオンにあるデーモンの扉をすべて開ける",
+                    "ko-KR": "모든 마법의 문을 열거나 다른 영웅이 여는 것을 확인하십시오.",
+                    "pl-PL": "Open all the Demon Doors in Albion, or see another Hero do so.",
+                    "ru-RU": "Open all the Demon Doors in Albion, or see another Hero do so.",
+                    "zh-CHT": "開啟阿爾比恩所有的惡魔之門，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "56.png"
+        },
+        "74": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Visionär",
+                    "en-US": "The Visionary",
+                    "es-ES": "El visionario",
+                    "fr-FR": "Visionnaire",
+                    "it-IT": "Il visionario",
+                    "ja-JP": "予言者",
+                    "ko-KR": "미래연구가",
+                    "pl-PL": "The Visionary",
+                    "ru-RU": "The Visionary",
+                    "zh-CHT": "預言家"
+                },
+                "description": {
+                    "de-DE": "Ihr habt gesehen, was kommen wird. Aber seid Ihr auch bereit für die Zukunft, wenn sie eintrifft?",
+                    "en-US": "You have seen what is to come. But will you be ready for the future when it arrives?",
+                    "es-ES": "Sabes lo que va a ocurrir. ¿Pero podrás afrontar el futuro cuando llegue?",
+                    "fr-FR": "Vous avez vu l'avenir. Mais saurez-vous l'affronter le moment venu ?",
+                    "it-IT": "Hai visto quel che ti aspetta. Ma sarai pronto per il futuro quando arriverà?",
+                    "ja-JP": "未来をこの目で見届けた。来たるべきその未来に、あなたはどう立ち向かうのだろう",
+                    "ko-KR": "미래의 모습을 봤습니다. 하지만 그 미래를 받아드릴 준비는 됐나요?",
+                    "pl-PL": "You have seen what is to come. But will you be ready for the future when it arrives?",
+                    "ru-RU": "You have seen what is to come. But will you be ready for the future when it arrives?",
+                    "zh-CHT": "你已經看到未來，但是你已經準備好迎接未來了嗎？"
+                },
+                "howto": {
+                    "de-DE": "Werft einen Blick in die Zukunft oder seht zu, wenn andere Helden dies tun.",
+                    "en-US": "Take a look into the future, or see another Hero do so.",
+                    "es-ES": "Asómate al destino o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Découvrez l'avenir ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Osserva il futuro o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "未来の様子を見る",
+                    "ko-KR": "미래를 보거나 다른 영웅이 그렇게 하는 것을 확인하십시오.",
+                    "pl-PL": "Take a look into the future, or see another Hero do so.",
+                    "ru-RU": "Take a look into the future, or see another Hero do so.",
+                    "zh-CHT": "預見未來，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "57.png"
+        },
+        "75": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Hochstapler",
+                    "en-US": "The Con Artist",
+                    "es-ES": "El estafador",
+                    "fr-FR": "Escroc",
+                    "it-IT": "L'artista dell'inganno",
+                    "ja-JP": "詐欺師",
+                    "ko-KR": "사기꾼",
+                    "pl-PL": "The Con Artist",
+                    "ru-RU": "The Con Artist",
+                    "zh-CHT": "詐騙藝術家"
+                },
+                "description": {
+                    "de-DE": "Ihr oder ein Freund habt alle Murgo-Statuen gefunden. Eine Karriere im Schwindeln wartet.",
+                    "en-US": "You, or a friend, managed to find all of Murgo's statuettes. A career in swindling beckons.",
+                    "es-ES": "Tú o un amigo habéis encontrado todas las figuras de Murgo. Seréis unos ases del timo.",
+                    "fr-FR": "Vous, ou un ami, avez trouvé toutes les statuettes de Murgo. Vous êtes désormais expert en arnaque.",
+                    "it-IT": "Tu o un amico siete riusciti a trovare tutte le statuette di Murgo. Una carriera davanti.",
+                    "ja-JP": "マーゴの像をすべて見つけた。これで安心して詐欺師への第一歩を踏み出せるはず!?",
+                    "ko-KR": "당신 또는 다른 영웅이 머고의 조각상 10개를 모두 찾았습니다. 사기치는 솜씨를 제대로 배울 수 있겠군요.",
+                    "pl-PL": "You, or a friend, managed to find all of Murgo's statuettes. A career in swindling beckons.",
+                    "ru-RU": "You, or a friend, managed to find all of Murgo's statuettes. A career in swindling beckons.",
+                    "zh-CHT": "你或是朋友設法找到所有墨果的雕像，一個詐騙行業。"
+                },
+                "howto": {
+                    "de-DE": "Findet alle 10 Murgo-Statuen oder seht zu, wenn andere Helden dies tun.",
+                    "en-US": "Find all 10 of Murgo's statuettes, or see another Hero do so.",
+                    "es-ES": "Encuentra las 10 figuras de Murgo o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Trouvez les 10 statuettes de Murgo ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Trova tutte le 10 statuette di Murgo o assisti mentre le trova un altro eroe.",
+                    "ja-JP": "マーゴの像を 10 体すべて見つける",
+                    "ko-KR": "머고의 조각상 10개를 모두 찾거나 다른 영웅이 찾는 것을 확인하십시오.",
+                    "pl-PL": "Find all 10 of Murgo's statuettes, or see another Hero do so.",
+                    "ru-RU": "Find all 10 of Murgo's statuettes, or see another Hero do so.",
+                    "zh-CHT": "找到墨果所有 10 個雕像，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "58.png"
+        },
+        "76": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Heuler",
+                    "en-US": "The Howler",
+                    "es-ES": "El patán",
+                    "fr-FR": "Croquemitaine",
+                    "it-IT": "Lo spaventone",
+                    "ja-JP": "吠える人",
+                    "ko-KR": "울부짖는 짐승",
+                    "pl-PL": "The Howler",
+                    "ru-RU": "The Howler",
+                    "zh-CHT": "狼嚎"
+                },
+                "description": {
+                    "de-DE": "Ein Balverin-Held hat fünf Zuschauer erschreckt. Woher sollten sie wissen, dass es ein Kostüm war?",
+                    "en-US": "A balverine Hero scared five innocent bystanders. How were they to know it was just a costume?",
+                    "es-ES": "Un héroe balverino ha asustado a cinco transeúntes. ¿Cómo iban a saber que solo era un disfraz?",
+                    "fr-FR": "Un héros déguisé en balverine a effrayé cinq passants. Ils ignoraient qu'il s'agissait d'un costume.",
+                    "it-IT": "Un eroe balverino ha spaventato cinque innocenti. Chi s'immaginava che era solo un travestimento?",
+                    "ja-JP": "バルバリンになりきって、何の罪もない人を 5 人怖がらせた。ただのコスチュームだとは誰も気づかなかったらしい",
+                    "ko-KR": "밸버린 영웅이 5명의 무고한 사람들을 겁에 질리게 했습니다. 단순한 의상이라는 것을 사람들은 왜 몰랐을까요?",
+                    "pl-PL": "A balverine Hero scared five innocent bystanders. How were they to know it was just a costume?",
+                    "ru-RU": "A balverine Hero scared five innocent bystanders. How were they to know it was just a costume?",
+                    "zh-CHT": "穿狼人套裝嚇跑五個旁觀者，他們怎麼會知道這只是道具服呢？"
+                },
+                "howto": {
+                    "de-DE": "Erschreckt fünf Leute in Balverin-Verkleidung, oder seht zu, wenn andere Helden dies tun.",
+                    "en-US": "Scare five people while dressed as a balverine, or see another Hero do so.",
+                    "es-ES": "Vístete de balverino y asusta a cinco personas o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Effrayez cinq personnes en étant déguisé en balverine ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Travestiti da balverino e spaventa cinque persone o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "バルバリンの格好をして 5 人の人々を怖がらせる",
+                    "ko-KR": "밸버린 의상을 입고 5명을 겁에 질리게 하거나 다른 영웅이 겁에 질리게 하는 것을 확인하십시오.",
+                    "pl-PL": "Scare five people while dressed as a balverine, or see another Hero do so.",
+                    "ru-RU": "Scare five people while dressed as a balverine, or see another Hero do so.",
+                    "zh-CHT": "穿狼人套裝嚇跑五個人，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "59.png"
+        },
+        "77": {
+            "text": {
+                "name": {
+                    "de-DE": "Der garstige Spaßvogel",
+                    "en-US": "The Ghastly Jester",
+                    "es-ES": "El bufón patético",
+                    "fr-FR": "Clown sinistre",
+                    "it-IT": "L'orrendo giullare",
+                    "ja-JP": "お調子者のモンスター",
+                    "ko-KR": "무시무시한 광대",
+                    "pl-PL": "The Ghastly Jester",
+                    "ru-RU": "The Ghastly Jester",
+                    "zh-CHT": "糟透的小丑"
+                },
+                "description": {
+                    "de-DE": "Nichts finden die Leute lustiger als Hobbs in Helden-Kostümen. Außer Helden in Hobb-Kostümen.",
+                    "en-US": "Nothing makes people laugh more than hobbes dressed as heroes. Except Heroes dressed as hobbes.",
+                    "es-ES": "Nada provoca tantas risas como un hobbe vestido de héroe. Excepto un héroe vestido de hobbe.",
+                    "fr-FR": "Il n'y a rien de plus drôle qu'un hobbe déguisé en héros. Sauf, bien sûr, un héros déguisé en hobbe.",
+                    "it-IT": "Non c'è nulla di più divertente di un hobbe vestito da eroe. O forse sì: un eroe vestito da hobbe.",
+                    "ja-JP": "英雄の格好をしたホブなのか、ホブの格好をした英雄なのか... どちらにしても笑えます",
+                    "ko-KR": "호브가 영웅처럼 갖춰 입은 모습보다 우스운 장면은 없을 겁니다. 영웅이 호브 의상을 입는다면 모를까...",
+                    "pl-PL": "Nothing makes people laugh more than hobbes dressed as heroes. Except Heroes dressed as hobbes.",
+                    "ru-RU": "Nothing makes people laugh more than hobbes dressed as heroes. Except Heroes dressed as hobbes.",
+                    "zh-CHT": "除了穿成霍比人的英雄外，沒有什麼比穿成英雄的霍比人更好笑了。"
+                },
+                "howto": {
+                    "de-DE": "Bringt in der Verkleidung als Hobb fünf Leute zum Lachen oder seht zu, wenn andere Helden dies tun.",
+                    "en-US": "Make five people laugh while dressed as a hobbe, or see another Hero do so.",
+                    "es-ES": "Vístete de hobbe y haz reír a cinco personas o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Faites rire cinq personnes en étant déguisé en hobbe ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Fai ridere cinque persone mentre sei travestito da hobbe o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "ホブの格好をして 5 人の人々を笑わせる",
+                    "ko-KR": "호브 의상을 입고 5명을 웃게 하거나 다른 영웅이 웃게 하는 것을 확인하십시오.",
+                    "pl-PL": "Make five people laugh while dressed as a hobbe, or see another Hero do so.",
+                    "ru-RU": "Make five people laugh while dressed as a hobbe, or see another Hero do so.",
+                    "zh-CHT": "穿成霍比人裝扮讓五個人哈哈笑，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "60.png"
+        },
+        "78": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Widerwärtige",
+                    "en-US": "The Repugnant",
+                    "es-ES": "El asqueroso",
+                    "fr-FR": "Cadavre ambulant",
+                    "it-IT": "Il ripugnante",
+                    "ja-JP": "迷惑人",
+                    "ko-KR": "구역질 유발자",
+                    "pl-PL": "The Repugnant",
+                    "ru-RU": "The Repugnant",
+                    "zh-CHT": "厭惡反胃"
+                },
+                "description": {
+                    "de-DE": "Ihr oder ein Freund habt den Ekel von fünf Leuten erregt. Es lag wohl am falschen fauligen Fleisch.",
+                    "en-US": "You, or a friend, brought a wave of nausea to five poor people. It was probably fake rotting flesh.",
+                    "es-ES": "Tú, o un amigo, provocasteis náuseas a cinco personas. Quizá era carne putrefacta de mentira.",
+                    "fr-FR": "Vous avez donné la nausée à cinq personnes. C'était sûrement la fausse chair en décomposition.",
+                    "it-IT": "Tu o un amico avete nauseato cinque poveretti. Dev'essere per la finta carne marcia.",
+                    "ja-JP": "かわいそうに、5 人とも吐き気をこらえ切れなかったようだ。特殊加工の腐った皮膚がリアル過ぎたのかも?",
+                    "ko-KR": "당신 또는 다른 영웅이 불쌍한 5명에게 구역질을 유발시켰습니다. 썩은 살이 역겨웠나 봅니다.",
+                    "pl-PL": "You, or a friend, brought a wave of nausea to five poor people. It was probably fake rotting flesh.",
+                    "ru-RU": "You, or a friend, brought a wave of nausea to five poor people. It was probably fake rotting flesh.",
+                    "zh-CHT": "你或你的朋友讓五個人產生作嘔噁心症狀，可能因為假的腐爛食物關係吧。"
+                },
+                "howto": {
+                    "de-DE": "Erregt im \"Hohler Mann\"-Kostüm den Ekel von fünf Leuten oder seht zu, wenn andere es tun.",
+                    "en-US": "Disgust five people while dressed as a hollow man, or see another Hero do so.",
+                    "es-ES": "Vístete de hombre hueco y asquea a cinco personas o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Écoeurez cinq personnes en étant déguisé en homme creux ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Disgusta cinque persone travestendoti da piagato o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "ゾンビの格好をして 5 人の人々に不快な思いをさせる",
+                    "ko-KR": "할로우맨 의상을 입고 5명을 불쾌하게 하거나 다른 영웅이 불쾌하게 하는 것을 확인하십시오.",
+                    "pl-PL": "Disgust five people while dressed as a hollow man, or see another Hero do so.",
+                    "ru-RU": "Disgust five people while dressed as a hollow man, or see another Hero do so.",
+                    "zh-CHT": "穿著死靈人套裝讓五個人作嘔厭惡，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "61.png"
+        },
+        "79": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Gladiator",
+                    "en-US": "The Gladiator",
+                    "es-ES": "El gladiador",
+                    "fr-FR": "Gladiateur",
+                    "it-IT": "Il gladiatore",
+                    "ja-JP": "剣闘士",
+                    "ko-KR": "투사",
+                    "pl-PL": "The Gladiator",
+                    "ru-RU": "The Gladiator",
+                    "zh-CHT": "神鬼格鬥士"
+                },
+                "description": {
+                    "de-DE": "20.000 Kolosseum-Punkte! Nur wenige haben dieses Ergebnis erreicht. Weniger als eine Million.",
+                    "en-US": "20,000 Colosseum points! Few have attained such a landmark. Less than a million, probably.",
+                    "es-ES": "¡20.000 puntos del Coliseo! Pocos han alcanzado semejante éxito. Menos de un millón, tal vez.",
+                    "fr-FR": "20 000 points au Colosseum ! Moins d'un million de combattants ont obtenu un tel score...",
+                    "it-IT": "20.000 punti Colosseo! Pochi ci sono arrivati. Meno di un milione di persone probabilmente.",
+                    "ja-JP": "コロシアムで 20,000 ポイントを獲得した! これほどの記録を持つ人はめったにいないはず。おそらく 100 万人にも満たないでしょう",
+                    "ko-KR": "콜로세움에서 20,000점을 획득했습니다! 놀라운 기록을 달성한 역사적인 인물이 거의 없죠. 아마 100만 명이 못될걸요.",
+                    "pl-PL": "20,000 Colosseum points! Few have attained such a landmark. Less than a million, probably.",
+                    "ru-RU": "20,000 Colosseum points! Few have attained such a landmark. Less than a million, probably.",
+                    "zh-CHT": "獲得 20,000 點圓形競技場點數，很少有人能拿這麼高分，大概少於一百萬人吧。"
+                },
+                "howto": {
+                    "de-DE": "Erzielt im Kolosseum eine Gesamtpunktzahl von mehr als 20.000 oder seht zu, wenn andere dies tun.",
+                    "en-US": "Score a total high score of 20,000 points or more in the Colosseum, or see another Hero do so.",
+                    "es-ES": "Alcanza una puntuación máxima de 20.000 puntos en el Coliseo o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Obtenez 20 000 points ou plus dans le Colosseum ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Segna un totale massimo di 20.000 punti o oltre nel Colosseo o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "コロシアムで 20,000 ポイント以上のハイスコアを獲得する",
+                    "ko-KR": "콜로세움에서 총 20,000점 이상을 획득하거나 다른 영웅이 획득하는 것을 확인하십시오.",
+                    "pl-PL": "Score a total high score of 20,000 points or more in the Colosseum, or see another Hero do so.",
+                    "ru-RU": "Score a total high score of 20,000 points or more in the Colosseum, or see another Hero do so.",
+                    "zh-CHT": "在圓形競技場獲得 20,000 或更高分，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "62.png"
+        },
+        "80": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Multiplikator",
+                    "en-US": "The Multiplicator",
+                    "es-ES": "El multiplicador",
+                    "fr-FR": "Mathématicien",
+                    "it-IT": "Il moltiplicatore",
+                    "ja-JP": "倍率チャンピオン",
+                    "ko-KR": "점수 보너스 대가",
+                    "pl-PL": "The Multiplicator",
+                    "ru-RU": "The Multiplicator",
+                    "zh-CHT": "加成大師"
+                },
+                "description": {
+                    "de-DE": "Ihr oder ein Freund habt im Kolosseum einen beeindruckenden Multiplikator von 10 erreicht.",
+                    "en-US": "You, or a friend, reached an impressive multiplier of 10 in the intimidating Colosseum.",
+                    "es-ES": "Tú o un amigo conseguisteis un asombroso multiplicador de 10 en el peligroso Coliseo.",
+                    "fr-FR": "Vous, ou un ami, avez obtenu un multiplicateur de 10 dans le redoutable Colosseum. Impressionnant !",
+                    "it-IT": "Tu o un amico avete raggiunto un moltiplicatore strabiliante pari a 10 nel terrificante Colosseo.",
+                    "ja-JP": "誰もが恐れるあのコロシアムで、スコアの倍率をなんと 10 倍にした",
+                    "ko-KR": "당신 또는 다른 영웅이 무시무시한 콜로세움에서 기록적으로 점수 보너스 10점을 얻었습니다.",
+                    "pl-PL": "You, or a friend, reached an impressive multiplier of 10 in the intimidating Colosseum.",
+                    "ru-RU": "You, or a friend, reached an impressive multiplier of 10 in the intimidating Colosseum.",
+                    "zh-CHT": "你或朋友在圓形競技場獲得加成 10。"
+                },
+                "howto": {
+                    "de-DE": "Erzielt im Kolosseum einen Multiplikator von 10 oder mehr oder seht zu, wenn andere Helden dies tun.",
+                    "en-US": "Achieve a multiplier of 10 or more in the Colosseum, or see another Hero do so.",
+                    "es-ES": "Consigue un multiplicador de 10 o más en el Coliseo o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Obtenez un multiplicateur de 10 dans le Colosseum ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Raggiungi un moltiplicatore di 10 o più nel Colosseo o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "コロシアムでスコアの倍率を 10 倍以上にする",
+                    "ko-KR": "콜로세움에서 10점 이상의 점수 보너스를 얻거나 다른 영웅이 받는 것을 확인하십시오.",
+                    "pl-PL": "Achieve a multiplier of 10 or more in the Colosseum, or see another Hero do so.",
+                    "ru-RU": "Achieve a multiplier of 10 or more in the Colosseum, or see another Hero do so.",
+                    "zh-CHT": "在圓形競技場獲得加成 10 或更高分，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "63.png"
+        },
+        "81": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Kämpfer",
+                    "en-US": "The Combatant",
+                    "es-ES": "El combatiente",
+                    "fr-FR": "Combattant",
+                    "it-IT": "Il combattente",
+                    "ja-JP": "強者",
+                    "ko-KR": "싸움꾼",
+                    "pl-PL": "The Combatant",
+                    "ru-RU": "The Combatant",
+                    "zh-CHT": "戰鬥大師"
+                },
+                "description": {
+                    "de-DE": "Der Nekromant des Kolosseums hatte nicht den Hauch einer Chance gegen solch einen Helden.",
+                    "en-US": "The Colosseum's resident necromancer stood little chance against such a Hero.",
+                    "es-ES": "El nigromante del Coliseo no tenía nada que hacer contra un héroe de categoría.",
+                    "fr-FR": "Le nécromancien du Colosseum n'avait aucune chance contre vous.",
+                    "it-IT": "Il negromante residente nel Colosseo non ha molte possibilità di fronte a cotanto eroe.",
+                    "ja-JP": "コロシアムで幅をきかせているネクロマンサーも、あなたの前では歯が立たなかった",
+                    "ko-KR": "콜로세움에서 눌러 사는 네크로맨서가 영웅을 상대로 이길 가망은 없어 보였습니다.",
+                    "pl-PL": "The Colosseum's resident necromancer stood little chance against such a Hero.",
+                    "ru-RU": "The Colosseum's resident necromancer stood little chance against such a Hero.",
+                    "zh-CHT": "圓形競技場的死靈法師要打贏英雄的機會應該不高吧。"
+                },
+                "howto": {
+                    "de-DE": "Besiegt den Nekromanten im Kolosseum oder seht zu, wenn andere Helden dies tun.",
+                    "en-US": "Defeat the necromancer in the Colosseum, or see another Hero do so.",
+                    "es-ES": "Vence al nigromante en el Coliseo o mira cómo lo hace otro héroe. ",
+                    "fr-FR": "Tuez le nécromancien dans le Colosseum ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Sconfiggi il negromante nel Colosseo o assisti mentre lo fa un altro eroe. ",
+                    "ja-JP": "コロシアムでネクロマンサーを倒す",
+                    "ko-KR": "콜로세움에서 네크로맨서를 물리치거나 다른 영웅이 물리치는 것을 확인하십시오.",
+                    "pl-PL": "Defeat the necromancer in the Colosseum, or see another Hero do so.",
+                    "ru-RU": "Defeat the necromancer in the Colosseum, or see another Hero do so.",
+                    "zh-CHT": "在圓形競技場擊敗死靈法師，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "64.png"
+        },
+        "82": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Geflügelspieler",
+                    "en-US": "The Fowl Player",
+                    "es-ES": "El jugador gallina",
+                    "fr-FR": "Imposteur à plumes",
+                    "it-IT": "Il calciapollame",
+                    "ja-JP": "ニワトリ ファイター",
+                    "ko-KR": "닭 애호가",
+                    "pl-PL": "The Fowl Player",
+                    "ru-RU": "The Fowl Player",
+                    "zh-CHT": "家禽玩家"
+                },
+                "description": {
+                    "de-DE": "Ein Held verkleidete sich als Huhn und trat viele Angehörige seiner eigenen Art. Abscheulich.",
+                    "en-US": "A Hero dressed as a chicken and proceeded to kick many of its own kind. We're sickened.",
+                    "es-ES": "Un héroe se vistió de pollo y empezó a patear a los de su clase. Qué cobardía.",
+                    "fr-FR": "Un héros déguisé en poulet s'est amusé à frapper plusieurs de ses congénères. C'est intolérable.",
+                    "it-IT": "Un eroe si è travestito da pollo e ha preso a calci molti suoi simili. Siamo disgustati.",
+                    "ja-JP": "ニワトリの格好をして、仲間のニワトリを何羽も蹴り飛ばした。見ているだけで心が痛みます...",
+                    "ko-KR": "닭 의상을 입고 불쌍한 닭을 많이도 찼습니다. 역겹군요.",
+                    "pl-PL": "A Hero dressed as a chicken and proceeded to kick many of its own kind. We're sickened.",
+                    "ru-RU": "A Hero dressed as a chicken and proceeded to kick many of its own kind. We're sickened.",
+                    "zh-CHT": "穿著雞套裝然後去踢雞，真是病態。"
+                },
+                "howto": {
+                    "de-DE": "Tretet während der Kolosseum-Kämpfe im Hühnerkostüm fünf Hühner oder seht zu, wenn andere dies tun.",
+                    "en-US": "Dress as a chicken and kick five chickens during the Colosseum battles, or see another Hero do so.",
+                    "es-ES": "Vístete de pollo y patea a cinco durante los combates del Coliseo, o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Déguisé en poulet, frappez 5 poulets dans le Colosseum ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Vestiti da pollo e calcia cinque tuoi simili nel Colosseo o assisti mentre lo fa un altro eroe.",
+                    "ja-JP": "ニワトリの格好をして、コロシアムで戦闘中にニワトリを 5 回蹴る",
+                    "ko-KR": "닭 의상을 입고 콜로세움 전투에서 닭 5마리를 발로 차거나 다른 영웅이 차는 것을 확인하십시오.",
+                    "pl-PL": "Dress as a chicken and kick five chickens during the Colosseum battles, or see another Hero do so.",
+                    "ru-RU": "Dress as a chicken and kick five chickens during the Colosseum battles, or see another Hero do so.",
+                    "zh-CHT": "在圓形競技場戰鬥時，穿著雞套裝踢五隻雞，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "65.png"
+        },
+        "83": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Kolorist",
+                    "en-US": "The Colourist",
+                    "es-ES": "El colorista",
+                    "fr-FR": "Coloriste",
+                    "it-IT": "L'artista del colore",
+                    "ja-JP": "染色師",
+                    "ko-KR": "채색가",
+                    "pl-PL": "The Colourist",
+                    "ru-RU": "The Colourist",
+                    "zh-CHT": "色彩大師"
+                },
+                "description": {
+                    "de-DE": "Ihr oder ein Freund habt alle Spezialfärbemittel in den anderen Welten gefunden.",
+                    "en-US": "You, or a friend, managed to collect all the special dyes secreted in other worlds.",
+                    "es-ES": "Tú, o un amigo, habéis reunido todos los tintes especiales escondidos en otros mundos.",
+                    "fr-FR": "Vous, ou un ami, avez réussi à obtenir tous les colorants spéciaux fabriqués dans d'autres mondes.",
+                    "it-IT": "Tu o un amico siete riusciti a raccogliere tutte le tinte speciali nascoste in altri mondi.",
+                    "ja-JP": "別世界に隠された特殊な染料をすべて集めた",
+                    "ko-KR": "당신 또는 다른 영웅이 다른 세상에 숨겨진 특별한 염료를 모두 찾았습니다.",
+                    "pl-PL": "You, or a friend, managed to collect all the special dyes secreted in other worlds.",
+                    "ru-RU": "You, or a friend, managed to collect all the special dyes secreted in other worlds.",
+                    "zh-CHT": "你或朋友設法收集到，所有其他世界的特殊染料。"
+                },
+                "howto": {
+                    "de-DE": "Sammelt die Färbemittel in Murgos magischen Gegenständen oder seht zu, wenn andere Helden dies tun.",
+                    "en-US": "Collect the dyes hidden in Murgo's magical items, or see another Hero do so.",
+                    "es-ES": "Reúne los tintes contenidos en los objetos mágicos de Murgo o mira cómo lo hace otro héroe.",
+                    "fr-FR": "Obtenez les colorants cachés dans les objets de Murgo ou assistez à la réussite d'un autre héros.",
+                    "it-IT": "Utilizza gli oggetti magici di Murgo per trovare le tinte nascoste o guarda mentre lo fa un amico.",
+                    "ja-JP": "どこかに隠されているマーゴの魔法の染料をすべて集める",
+                    "ko-KR": "머고의 마법 물건들에 숨겨진 염료를 찾거나 다른 영웅이 찾는 것을 확인하십시오.",
+                    "pl-PL": "Collect the dyes hidden in Murgo's magical items, or see another Hero do so.",
+                    "ru-RU": "Collect the dyes hidden in Murgo's magical items, or see another Hero do so.",
+                    "zh-CHT": "收集藏在墨果神奇物品中的染料，或是看其他英雄這麼做。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "66.png"
+        }
+    }
+}
