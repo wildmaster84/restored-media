@@ -1861,6 +1861,310 @@
             "type": "Event",
             "credits": "50",
             "imageId": "49.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "de-DE": "DAS! IST! ANNEX!",
+                    "en-US": "THIS! IS! ANNEX!",
+                    "es-ES": "¡ESTO ES “ANEXIÓN”!",
+                    "fr-FR": "MODE ANNEXE !",
+                    "it-IT": "QUESTO! È! ANNEX!",
+                    "ja-JP": "Annex ラバー",
+                    "ko-KR": "점령!",
+                    "zh-CHT": "極限攻防"
+                },
+                "description": {
+                    "de-DE": "Beende 100 Multiplayer-Matches mit mehr als 3 Runden in Annex; erreiche jeweils 3 Ziele",
+                    "en-US": "Complete 100 multiplayer matches of 3+ rounds in Annex and capture 3 objectives in each match",
+                    "es-ES": "Completa 100 partidas multijugador de más de 3 rondas en Anexión y captura 3 objetivos en cada una",
+                    "fr-FR": "Terminez 100 parties multijoueurs de + de 3 tours en mode Annexe et capturez 3 objectifs par partie",
+                    "it-IT": "Completa 100 partite multiplayer di 3+ round in Annex e raggiungi 3 obiettivi in ogni partita",
+                    "ja-JP": "3 ラウンド以上の Annex 対戦で 1 ゲーム中エリア制圧を 3 回 x 100 ゲーム達成",
+                    "ko-KR": "게임 종류 ‘점령’에서 3라운드 이상의 멀티 플레이 매치를 100번 완료하고 각 매치에서 3개의 작전 지역을 점령",
+                    "zh-CHT": "在 100 場 3 回合以上的攻防模式多人遊戲中贏得每場至少三次以上的佔領總數"
+                },
+                "howto": {
+                    "de-DE": "Beende 100 Multiplayer-Matches mit mehr als 3 Runden in Annex; erreiche jeweils 3 Ziele",
+                    "en-US": "Complete 100 multiplayer matches of 3+ rounds in Annex and capture 3 objectives in each match",
+                    "es-ES": "Completa 100 partidas multijugador de más de 3 rondas en Anexión y captura 3 objetivos en cada una",
+                    "fr-FR": "Terminez 100 parties multijoueurs de + de 3 tours en mode Annexe et capturez 3 objectifs par partie",
+                    "it-IT": "Completa 100 partite multiplayer di 3+ round in Annex e raggiungi 3 obiettivi in ogni partita",
+                    "ja-JP": "3 ラウンド以上の Annex 対戦で 1 ゲーム中エリア制圧を 3 回 x 100 ゲーム達成",
+                    "ko-KR": "게임 종류 ‘점령’에서 3라운드 이상의 멀티 플레이 매치를 100번 완료하고 각 매치에서 3개의 작전 지역을 점령",
+                    "zh-CHT": "在 100 場 3 回合以上的攻防模式多人遊戲中贏得每場至少三次以上的佔領總數"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "50.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "de-DE": "Unglaublich!",
+                    "en-US": "Inconceivable!",
+                    "es-ES": "¡Inconcebible!",
+                    "fr-FR": "Inconcevable !",
+                    "it-IT": "Inconcepibile!",
+                    "ja-JP": "Annex キラー",
+                    "ko-KR": "불가능한 작전",
+                    "zh-CHT": "驚險攻防戰"
+                },
+                "description": {
+                    "de-DE": "Gewinne 20 Runden in Multiplayermatches in Annex mit weniger als 5 Punkten Vorsprung",
+                    "en-US": "Win 20 rounds of multiplayer matches in Annex by fewer than 5 points",
+                    "es-ES": "Gana 20 rondas de partidas multijugador en Anexión por menos de 5 puntos",
+                    "fr-FR": "Gagnez 20 manches de parties multijoueurs en mode Annexe en moins de 5 points",
+                    "it-IT": "Vinci 20 round di partite multiplayer in Annex per meno di 5 punti",
+                    "ja-JP": "Annex 対戦で 5 ポイント以下の僅差で 20 ラウンド勝利達成",
+                    "ko-KR": "게임 종류 ‘점령’에서 5점 미만의 점수 차로 멀티 플레이 매치 20라운드를 승리",
+                    "zh-CHT": "在多人遊戲的攻防模式中贏得 20 回合勝分少於5 的勝利 "
+                },
+                "howto": {
+                    "de-DE": "Gewinne 20 Runden in Multiplayermatches in Annex mit weniger als 5 Punkten Vorsprung",
+                    "en-US": "Win 20 rounds of multiplayer matches in Annex by fewer than 5 points",
+                    "es-ES": "Gana 20 rondas de partidas multijugador en Anexión por menos de 5 puntos",
+                    "fr-FR": "Gagnez 20 manches de parties multijoueurs en mode Annexe en moins de 5 points",
+                    "it-IT": "Vinci 20 round di partite multiplayer in Annex per meno di 5 punti",
+                    "ja-JP": "Annex 対戦で 5 ポイント以下の僅差で 20 ラウンド勝利達成",
+                    "ko-KR": "게임 종류 ‘점령’에서 5점 미만의 점수 차로 멀티 플레이 매치 20라운드를 승리",
+                    "zh-CHT": "在多人遊戲的攻防模式中贏得 20 回合勝分少於5 的勝利 "
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "51.png"
+        },
+        "54": {
+            "text": {
+                "name": {
+                    "de-DE": "Nub Pwn3r",
+                    "en-US": "Nub Pwn3r",
+                    "es-ES": "El amo del cotarro",
+                    "fr-FR": "Ennemis à terre",
+                    "it-IT": "Dominatore",
+                    "ja-JP": "完封勝利",
+                    "ko-KR": "작전 지역 사수",
+                    "zh-CHT": "攻防高手"
+                },
+                "description": {
+                    "de-DE": "Gewinne 20 Runden in Multiplayermatches in Annex, indem du das gegnerische Team ausschließt",
+                    "en-US": "Win 20 rounds of multiplayer matches in Annex by shutting out the opposing team",
+                    "es-ES": "Gana 20 rondas de partidas multijugador en Anexión dejando fuera al equipo contrario",
+                    "fr-FR": "Gagnez 20 manches de parties multijoueurs en mode Annexe en éliminant l'équipe adverse",
+                    "it-IT": "Vinci 20 round di partite multiplayer in Annex escludendo il team rivale",
+                    "ja-JP": "Annex 対戦で相手チームを完封して 20 勝達成",
+                    "ko-KR": "게임 종류 ‘점령’에서 상대 팀의 득점을 허용하지 않고 멀티 플레이 매치 20라운드를 승리",
+                    "zh-CHT": "在多人遊戲的攻防模式中贏得 20 回合的完全勝利"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 20 Runden in Multiplayermatches in Annex, indem du das gegnerische Team ausschließt",
+                    "en-US": "Win 20 rounds of multiplayer matches in Annex by shutting out the opposing team",
+                    "es-ES": "Gana 20 rondas de partidas multijugador en Anexión dejando fuera al equipo contrario",
+                    "fr-FR": "Gagnez 20 manches de parties multijoueurs en mode Annexe en éliminant l'équipe adverse",
+                    "it-IT": "Vinci 20 round di partite multiplayer in Annex escludendo il team rivale",
+                    "ja-JP": "Annex 対戦で相手チームを完封して 20 勝達成",
+                    "ko-KR": "게임 종류 ‘점령’에서 상대 팀의 득점을 허용하지 않고 멀티 플레이 매치 20라운드를 승리",
+                    "zh-CHT": "在多人遊戲的攻防模式中贏得 20 回合的完全勝利"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "52.png"
+        },
+        "55": {
+            "text": {
+                "name": {
+                    "de-DE": "Bist du bei E.P.I.C.?",
+                    "en-US": "You Down With E.P.I.C?",
+                    "es-ES": "¿Has caído con E.P.I.C?",
+                    "fr-FR": "Terminé avec E.P.I.C. ?",
+                    "it-IT": "Ti piace E.P.I.C.?",
+                    "ja-JP": "ダウンロード キラー",
+                    "ko-KR": "다운로드 중독",
+                    "zh-CHT": "全方位戰士"
+                },
+                "description": {
+                    "de-DE": "Gewinne ein Multiplayermatch mit >3 Runden in beliebigen Spieltypen auf 6 verschiedenen D/L-Maps",
+                    "en-US": "Win a multiplayer match of 3+ rounds in any game type on 6 different downloadable maps",
+                    "es-ES": "Gana cualquier tipo de partida multijugador de más de 3 rondas en 6 mapas descargables distintos",
+                    "fr-FR": "Gagnez 1 partie multijoueurs de + de 3 manches dans n'importe quel mode sur 6 cartes téléchargeables",
+                    "it-IT": "Vinci una partita multiplayer di 3+ round in ogni tipo di gioco su 6 mappe diverse scaricabili",
+                    "ja-JP": "6 種の異なる追加マップを用いた 3 ラウンド以上の対戦でそれぞれ勝利 (ゲームタイプは任意)",
+                    "ko-KR": "게임 종류에 상관없이 6개의 다운로드 맵에서 3라운드 이상의 멀티 플레이 매치를 승리",
+                    "zh-CHT": "在6 個不同的下載地圖中贏得3 回合以上之多人遊戲配對"
+                },
+                "howto": {
+                    "de-DE": "Gewinne ein Multiplayermatch mit >3 Runden in beliebigen Spieltypen auf 6 verschiedenen D/L-Maps",
+                    "en-US": "Win a multiplayer match of 3+ rounds in any game type on 6 different downloadable maps",
+                    "es-ES": "Gana cualquier tipo de partida multijugador de más de 3 rondas en 6 mapas descargables distintos",
+                    "fr-FR": "Gagnez 1 partie multijoueurs de + de 3 manches dans n'importe quel mode sur 6 cartes téléchargeables",
+                    "it-IT": "Vinci una partita multiplayer di 3+ round in ogni tipo di gioco su 6 mappe diverse scaricabili",
+                    "ja-JP": "6 種の異なる追加マップを用いた 3 ラウンド以上の対戦でそれぞれ勝利 (ゲームタイプは任意)",
+                    "ko-KR": "게임 종류에 상관없이 6개의 다운로드 맵에서 3라운드 이상의 멀티 플레이 매치를 승리",
+                    "zh-CHT": "在6 個不同的下載地圖中贏得3 回合以上之多人遊戲配對"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "53.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "de-DE": "Grüner Daumen",
+                    "en-US": "Green Thumb",
+                    "es-ES": "¿Se te dan bien las plantas?",
+                    "fr-FR": "Main verte",
+                    "it-IT": "Pollice verde",
+                    "ja-JP": "Garden マスター",
+                    "ko-KR": "정원사",
+                    "zh-CHT": "花園高手"
+                },
+                "description": {
+                    "de-DE": "Gewinne 20 Multiplayermatches mit >3 Runden in einem beliebigen Spieltyp auf der MP-Map Garden",
+                    "en-US": "Win 20 multiplayer matches of 3+ rounds in any game type on the Garden multiplayer map",
+                    "es-ES": "Gana 20 partidas multijugador (de cualquier tipo) de más de 3 rondas en el mapa multijugador Jardín",
+                    "fr-FR": "Gagnez 20 parties multijoueurs de + de 3 manches dans n'importe quel mode sur la carte Jardin",
+                    "it-IT": "Vinci 20 partite multiplayer di 3+ round in ogni tipo di gioco sulla mappa multiplayer Giardino",
+                    "ja-JP": "Garden のマップを用いた 3 ラウンド以上の対戦で 20 勝達成 (ゲームタイプは任意)",
+                    "ko-KR": "게임 종류에 상관없이 Garden 맵에서 3라운드 이상의 멀티 플레이 매치를 20번 승리",
+                    "zh-CHT": "在「花園」地圖中贏得 20 場3 回合以上之多人遊戲配對"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 20 Multiplayermatches mit >3 Runden in einem beliebigen Spieltyp auf der MP-Map Garden",
+                    "en-US": "Win 20 multiplayer matches of 3+ rounds in any game type on the Garden multiplayer map",
+                    "es-ES": "Gana 20 partidas multijugador (de cualquier tipo) de más de 3 rondas en el mapa multijugador Jardín",
+                    "fr-FR": "Gagnez 20 parties multijoueurs de + de 3 manches dans n'importe quel mode sur la carte Jardin",
+                    "it-IT": "Vinci 20 partite multiplayer di 3+ round in ogni tipo di gioco sulla mappa multiplayer Giardino",
+                    "ja-JP": "Garden のマップを用いた 3 ラウンド以上の対戦で 20 勝達成 (ゲームタイプは任意)",
+                    "ko-KR": "게임 종류에 상관없이 Garden 맵에서 3라운드 이상의 멀티 플레이 매치를 20번 승리",
+                    "zh-CHT": "在「花園」地圖中贏得 20 場3 回合以上之多人遊戲配對"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "54.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "de-DE": "Achtung, Lücke!",
+                    "en-US": "Mind the Gap",
+                    "es-ES": "“Mind the Gap”",
+                    "fr-FR": "Attention à la marche",
+                    "it-IT": "Attenti al gradino",
+                    "ja-JP": "Subway マスター",
+                    "ko-KR": "열차가 들어오고 있습니다",
+                    "zh-CHT": "地鐵高手"
+                },
+                "description": {
+                    "de-DE": "Gewinne 20 Multiplayermatches mit >3 Runden in einem beliebigen Spieltyp auf der MP-Map Subway",
+                    "en-US": "Win 20 multiplayer matches of 3+ rounds in any game type on the Subway multiplayer map",
+                    "es-ES": "Gana 20 partidas multijugador (de cualquier tipo) de más de 3 rondas en el mapa multijugador Metro",
+                    "fr-FR": "Gagnez 20 parties multijoueurs de + de 3 manches dans n'importe quel mode sur la carte Métro",
+                    "it-IT": "Vinci 20 partite multiplayer di 3+ round in ogni tipo di gioco sulla mappa multiplayer Sottopassag.",
+                    "ja-JP": "Subway のマップを用いた 3 ラウンド以上の対戦で 20 勝達成 (ゲームタイプは任意)",
+                    "ko-KR": "게임 종류에 상관없이 Subway 맵에서 3라운드 이상의 멀티 플레이 매치를 20번 승리",
+                    "zh-CHT": "在「地鐵」地圖中贏得 20 場3 回合以上之多人遊戲配對"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 20 Multiplayermatches mit >3 Runden in einem beliebigen Spieltyp auf der MP-Map Subway",
+                    "en-US": "Win 20 multiplayer matches of 3+ rounds in any game type on the Subway multiplayer map",
+                    "es-ES": "Gana 20 partidas multijugador (de cualquier tipo) de más de 3 rondas en el mapa multijugador Metro",
+                    "fr-FR": "Gagnez 20 parties multijoueurs de + de 3 manches dans n'importe quel mode sur la carte Métro",
+                    "it-IT": "Vinci 20 partite multiplayer di 3+ round in ogni tipo di gioco sulla mappa multiplayer Sottopassag.",
+                    "ja-JP": "Subway のマップを用いた 3 ラウンド以上の対戦で 20 勝達成 (ゲームタイプは任意)",
+                    "ko-KR": "게임 종류에 상관없이 Subway 맵에서 3라운드 이상의 멀티 플레이 매치를 20번 승리",
+                    "zh-CHT": "在「地鐵」地圖中贏得 20 場3 回合以上之多人遊戲配對"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "55.png"
+        },
+        "58": {
+            "text": {
+                "name": {
+                    "de-DE": "Süße Lippen",
+                    "en-US": "Purdy Mouth",
+                    "es-ES": "Bonita boca",
+                    "fr-FR": "Jolie bouche",
+                    "it-IT": "Bocca di rosa",
+                    "ja-JP": "Bullet Marsh マスター",
+                    "ko-KR": "피에 굶주린 입",
+                    "zh-CHT": "沼澤激戰高手"
+                },
+                "description": {
+                    "de-DE": "Gewinne 20 MP-Matches mit mehr als 3 Runden in einem Spieltyp auf der Bullet Marsh-Map",
+                    "en-US": "Win 20 multiplayer matches of 3+ rounds in any game type on the Bullet Marsh multiplayer map",
+                    "es-ES": "Gana 20 partidas multijugador (de cualquier tipo) de más de 3 rondas en el mapa Pantano de balas.",
+                    "fr-FR": "Gagnez 20 parties multijoueurs de 3+ manches dans n'importe quel mode sur la carte Marais de balles",
+                    "it-IT": "Vinci 20 partite multiplayer di 3+ round in ogni tipo di gioco sulla mappa multiplayer Palude",
+                    "ja-JP": "Bullet Marsh のマップを用いた 3 ラウンド以上の対戦で 20 勝達成 (ゲームタイプは任意)",
+                    "ko-KR": "게임 종류에 상관없이 Bullet Marsh 맵에서 3라운드 이상의 멀티 플레이 매치를 20번 승리",
+                    "zh-CHT": "在「沼澤激戰」地圖中贏得 20 場3 回合以上之多人遊戲配對"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 20 MP-Matches mit mehr als 3 Runden in einem Spieltyp auf der Bullet Marsh-Map",
+                    "en-US": "Win 20 multiplayer matches of 3+ rounds in any game type on the Bullet Marsh multiplayer map",
+                    "es-ES": "Gana 20 partidas multijugador (de cualquier tipo) de más de 3 rondas en el mapa Pantano de balas.",
+                    "fr-FR": "Gagnez 20 parties multijoueurs de 3+ manches dans n'importe quel mode sur la carte Marais de balles",
+                    "it-IT": "Vinci 20 partite multiplayer di 3+ round in ogni tipo di gioco sulla mappa multiplayer Palude",
+                    "ja-JP": "Bullet Marsh のマップを用いた 3 ラウンド以上の対戦で 20 勝達成 (ゲームタイプは任意)",
+                    "ko-KR": "게임 종류에 상관없이 Bullet Marsh 맵에서 3라운드 이상의 멀티 플레이 매치를 20번 승리",
+                    "zh-CHT": "在「沼澤激戰」地圖中贏得 20 場3 回合以上之多人遊戲配對"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "56.png"
+        },
+        "60": {
+            "text": {
+                "name": {
+                    "de-DE": "Jede Menge Saft",
+                    "en-US": "All That Juice",
+                    "es-ES": "Todo ese zumo...",
+                    "fr-FR": "Tout ce jus",
+                    "it-IT": "Tutto quel sugo",
+                    "ja-JP": "Process マスター",
+                    "ko-KR": "이멀젼 주스",
+                    "zh-CHT": "能源處理場高手"
+                },
+                "description": {
+                    "de-DE": "Gewinne 20 Multiplayermatches mit >3 Runden in einem beliebigen Spieltyp auf der MP-Map Process",
+                    "en-US": "Win 20 multiplayer matches of 3+ rounds in any game type on the Process multiplayer map",
+                    "es-ES": "Gana 20 partidas multijugador de cualquier tipo de más de 3 rondas en el mapa multijugador Proceso",
+                    "fr-FR": "Gagnez 20 parties multijoueurs de + de 3 manches dans n'importe quel mode sur la carte Processus",
+                    "it-IT": "Vinci 20 partite multiplayer di 3+ round in ogni tipo di gioco sulla mappa multiplayer Processo",
+                    "ja-JP": "Process のマップを用いた 3 ラウンド以上の対戦で 20 勝達成 (ゲームタイプは任意)",
+                    "ko-KR": "게임 종류에 상관없이 Process 맵에서 3라운드 이상의 멀티 플레이 매치를 20번 승리",
+                    "zh-CHT": "在「能源處理場」地圖中贏得 20 場3 回合以上之多人遊戲配對"
+                },
+                "howto": {
+                    "de-DE": "Gewinne 20 Multiplayermatches mit >3 Runden in einem beliebigen Spieltyp auf der MP-Map Process",
+                    "en-US": "Win 20 multiplayer matches of 3+ rounds in any game type on the Process multiplayer map",
+                    "es-ES": "Gana 20 partidas multijugador de cualquier tipo de más de 3 rondas en el mapa multijugador Proceso",
+                    "fr-FR": "Gagnez 20 parties multijoueurs de + de 3 manches dans n'importe quel mode sur la carte Processus",
+                    "it-IT": "Vinci 20 partite multiplayer di 3+ round in ogni tipo di gioco sulla mappa multiplayer Processo",
+                    "ja-JP": "Process のマップを用いた 3 ラウンド以上の対戦で 20 勝達成 (ゲームタイプは任意)",
+                    "ko-KR": "게임 종류에 상관없이 Process 맵에서 3라운드 이상의 멀티 플레이 매치를 20번 승리",
+                    "zh-CHT": "在「能源處理場」地圖中贏得 20 場3 回合以上之多人遊戲配對"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "57.png"
         }
     }
 }

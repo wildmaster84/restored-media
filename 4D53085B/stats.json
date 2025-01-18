@@ -1,0 +1,5979 @@
+{
+    "properties": {
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000087": {
+            "info": "global_matchmade_games_won",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000088": {
+            "info": "global_matchmade_campaign_games_played",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000089": {
+            "info": "global_matchmade_firefight_games_played",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000008A": {
+            "info": "global_matchmade_multiplayer_games_played",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x1000008B": {
+            "info": "global_matchmade_campaign_kills",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x1000008C": {
+            "info": "global_matchmade_firefight_kills",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x1000008D": {
+            "info": "global_matchmade_multiplayer_kills",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x10000086": {
+            "info": "global_matchmade_games_played",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        },
+        "0x20000014": {
+            "info": "UNUSED",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000003": {
+            "info": "games played",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000005": {
+            "info": "games won",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000008E": {
+            "info": "hopper_high_score_0",
+            "method": "max",
+            "statId": 1
+        },
+        "0x1000008F": {
+            "info": "hopper_high_score_1",
+            "method": "max",
+            "statId": 4
+        },
+        "0x10000090": {
+            "info": "hopper_high_score_2",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000091": {
+            "info": "hopper_high_score_3",
+            "method": "max",
+            "statId": 6
+        },
+        "0x10000092": {
+            "info": "hopper_high_score_4",
+            "method": "max",
+            "statId": 7
+        },
+        "0x10000093": {
+            "info": "hopper_high_score_5",
+            "method": "max",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "hopper_high_score_6",
+            "method": "max",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "hopper_high_score_7",
+            "method": "max",
+            "statId": 10
+        },
+        "0x10000096": {
+            "info": "hopper_high_score_8",
+            "method": "max",
+            "statId": 11
+        },
+        "0x10000097": {
+            "info": "hopper_high_score_9",
+            "method": "max",
+            "statId": 12
+        },
+        "0x10000098": {
+            "info": "hopper_high_score_10",
+            "method": "max",
+            "statId": 13
+        },
+        "0x10000099": {
+            "info": "hopper_high_score_11",
+            "method": "max",
+            "statId": 14
+        },
+        "0x1000009A": {
+            "info": "hopper_high_score_12",
+            "method": "max",
+            "statId": 15
+        },
+        "0x1000009B": {
+            "info": "hopper_high_score_13",
+            "method": "max",
+            "statId": 16
+        },
+        "0x1000009C": {
+            "info": "hopper_high_score_14",
+            "method": "max",
+            "statId": 17
+        },
+        "0x1000009D": {
+            "info": "hopper_high_score_15",
+            "method": "max",
+            "statId": 18
+        },
+        "0x1000009E": {
+            "info": "hopper_high_score_16",
+            "method": "max",
+            "statId": 19
+        },
+        "0x1000009F": {
+            "info": "hopper_high_score_17",
+            "method": "max",
+            "statId": 20
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_18",
+            "method": "max",
+            "statId": 21
+        },
+        "0x100000A0": {
+            "info": "hopper_high_score_19",
+            "method": "max",
+            "statId": 22
+        },
+        "0x100000A2": {
+            "info": "hopper_high_score_20",
+            "method": "max",
+            "statId": 23
+        },
+        "0x100000A3": {
+            "info": "hopper_high_score_21",
+            "method": "max",
+            "statId": 24
+        },
+        "0x100000A4": {
+            "info": "hopper_high_score_22",
+            "method": "max",
+            "statId": 25
+        },
+        "0x100000A5": {
+            "info": "hopper_high_score_23",
+            "method": "max",
+            "statId": 26
+        },
+        "0x100000A6": {
+            "info": "hopper_high_score_24",
+            "method": "max",
+            "statId": 27
+        },
+        "0x100000A7": {
+            "info": "hopper_high_score_25",
+            "method": "max",
+            "statId": 28
+        },
+        "0x100000A8": {
+            "info": "hopper_high_score_26",
+            "method": "max",
+            "statId": 29
+        },
+        "0x100000A9": {
+            "info": "hopper_high_score_27",
+            "method": "max",
+            "statId": 30
+        },
+        "0x100000AA": {
+            "info": "hopper_high_score_28",
+            "method": "max",
+            "statId": 31
+        },
+        "0x100000AB": {
+            "info": "hopper_high_score_29",
+            "method": "max",
+            "statId": 32
+        },
+        "0x100000AC": {
+            "info": "hopper_high_score_30",
+            "method": "max",
+            "statId": 33
+        },
+        "0x100000AD": {
+            "info": "hopper_high_score_31",
+            "method": "max",
+            "statId": 34
+        }
+    }
+}

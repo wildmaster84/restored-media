@@ -1,0 +1,3243 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Grün wie Gras",
+                    "en-US": "Green as Grass",
+                    "es-ES": "Verde como una lechuga",
+                    "fr-FR": "Vert comme de l'herbe",
+                    "it-IT": "Alle prime armi",
+                    "ko-KR": "풋내기 신병",
+                    "pl-PL": "Zielony jak trawa",
+                    "ru-RU": "Совсем еще зеленый",
+                    "zh-CHT": "新兵報到"
+                },
+                "description": {
+                    "de-DE": "Carmine das Handwerk beigebracht",
+                    "en-US": "Showed Carmine the ropes",
+                    "es-ES": "Enseñar a Carmine el negocio",
+                    "fr-FR": "Les ficelles du métier dévoilées à Carmine",
+                    "it-IT": "Insegnati i rudimenti a Carmine",
+                    "ko-KR": "카민을 훈련시켰습니다.",
+                    "pl-PL": "Carmine poznał podstawy",
+                    "ru-RU": "Научил Кармайна основам боя",
+                    "zh-CHT": "帶領卡敏進行基本訓練。"
+                },
+                "howto": {
+                    "de-DE": "Den Neuling trainieren (beliebiger Schwierigkeitsgrad)",
+                    "en-US": "Train the rook (any difficulty)",
+                    "es-ES": "Entrenar al novato (cualquier dificultad)",
+                    "fr-FR": "Entraînez le bleu (toute difficulté)",
+                    "it-IT": "Addestramento del novellino (qualsiasi difficoltà)",
+                    "ko-KR": "카민을 훈련시키십시오. (난이도 상관 없음)",
+                    "pl-PL": "Szkolenie żółtodzioba (dowolny poziom trudności)",
+                    "ru-RU": "Тренировать новичка (любой уровень сложности)",
+                    "zh-CHT": "訓練菜鳥 (不限難度)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Es ist eine Falle!",
+                    "en-US": "It's a Trap!",
+                    "es-ES": "¡Es una trampa!",
+                    "fr-FR": "C'est un piège !",
+                    "it-IT": "È una trappola!",
+                    "ko-KR": "함정",
+                    "pl-PL": "To pułapka!",
+                    "ru-RU": "Это ловушка!",
+                    "zh-CHT": "保護醫院"
+                },
+                "description": {
+                    "de-DE": "Krankenhaus erfolgreich verteidigt",
+                    "en-US": "Successfully defended the hospital",
+                    "es-ES": "Defensa triunfal del hospital",
+                    "fr-FR": "Défense de l'hôpital réussie",
+                    "it-IT": "L'ospedale è stato difeso",
+                    "ko-KR": "적으로부터 병원을 성공적으로 방어했습니다.",
+                    "pl-PL": "Udało ci się obronić szpital",
+                    "ru-RU": "Госпиталь успешно защищен",
+                    "zh-CHT": "已成功保護醫院。"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 1, Kapitel 2",
+                    "en-US": "Story progression in Act 1, Chapter 2",
+                    "es-ES": "Progresión de la historia en el Acto 1, Capítulo 2",
+                    "fr-FR": "Progression de l'histoire dans l'acte 1, chapitre 2",
+                    "it-IT": "Sviluppi della trama nell'Atto 1, Capitolo 2",
+                    "ko-KR": "액트 1, 챕터 2까지 진행하십시오.",
+                    "pl-PL": "Postępy w fabule: akt 1, rozdział 2",
+                    "ru-RU": "Доберитесь до второй главы первого действия",
+                    "zh-CHT": "進行到第一幕第二章的劇情。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Begleitservice",
+                    "en-US": "Escort Service",
+                    "es-ES": "Servicio de escolta",
+                    "fr-FR": "Service d'escorte",
+                    "it-IT": "Servizio di scorta",
+                    "ko-KR": "베티 호위",
+                    "pl-PL": "Eskorta",
+                    "ru-RU": "Сопровождение",
+                    "zh-CHT": "護送服務"
+                },
+                "description": {
+                    "de-DE": "Betty nach Landown eskortiert",
+                    "en-US": "Escorted Betty to Landown",
+                    "es-ES": "Escolta de Betty a Landown",
+                    "fr-FR": "Betty escortée jusqu'à Landown",
+                    "it-IT": "Betty scortata fino a Landown",
+                    "ko-KR": "베티를 랜다운까지 무사히 호위했습니다.",
+                    "pl-PL": "Udało się doprowadzić Betty do Landown",
+                    "ru-RU": "Сопроводил Бетти в Ландаун",
+                    "zh-CHT": "護送貝蒂前往蘭登市。"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 1, Kapitel 4",
+                    "en-US": "Story progression in Act 1, Chapter 4",
+                    "es-ES": "Progresión de la historia en el Acto 1, Capítulo 4",
+                    "fr-FR": "Progression de l'histoire dans l'acte 1, chapitre 4",
+                    "it-IT": "Sviluppi della trama nell'Atto 1, Capitolo 4",
+                    "ko-KR": "액트 1, 챕터 4까지 진행하십시오.",
+                    "pl-PL": "Postępy w fabule: akt 1, rozdział 4",
+                    "ru-RU": "Доберитесь до четвертой главы первого действия",
+                    "zh-CHT": "進行到第一幕第四章的劇情。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Führ die Kleine aus",
+                    "en-US": "Girl About Town",
+                    "es-ES": "Una chica en la ciudad",
+                    "fr-FR": "Fille à travers la ville",
+                    "it-IT": "Una ragazza mondana",
+                    "ko-KR": "바람둥이 소녀",
+                    "pl-PL": "Dziewczyna w mieście",
+                    "ru-RU": "Светская девушка",
+                    "zh-CHT": "招搖過街"
+                },
+                "description": {
+                    "de-DE": "Betty die Sehenswürdigkeiten gezeigt",
+                    "en-US": "Seen the sights with Betty",
+                    "es-ES": "Visita a los lugares de interés con Betty",
+                    "fr-FR": "Vue admirée avec Betty",
+                    "it-IT": "Con Betty a guardare panorami",
+                    "ko-KR": "베티가 진행할 수 있도록 모든 티커를 제거했습니다.",
+                    "pl-PL": "Podziwiałeś widoki razem z Betty",
+                    "ru-RU": "Посмотрел достопримечательности с Бетти",
+                    "zh-CHT": "確保貝蒂安全通過街道。"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 1, Kapitel 6",
+                    "en-US": "Story progression in Act 1, Chapter 6",
+                    "es-ES": "Progresión de la historia en el Acto 1, Capítulo 6",
+                    "fr-FR": "Progression de l'histoire dans l'acte 1, chapitre 6",
+                    "it-IT": "Sviluppi della trama nell'Atto 1, Capitolo 6",
+                    "ko-KR": "액트 1, 챕터 6까지 진행하십시오.",
+                    "pl-PL": "Postępy w fabule: akt 1, rozdział 6",
+                    "ru-RU": "Доберитесь до шестой главы первого действия",
+                    "zh-CHT": "進行到第一幕第六章的劇情。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Stimmung sinkt",
+                    "en-US": "That Sinking Feeling",
+                    "es-ES": "Desazón",
+                    "fr-FR": "Ce sentiment de naufrage",
+                    "it-IT": "Sensazione di sprofondare",
+                    "ko-KR": "사기 저하",
+                    "pl-PL": "Zapadające uczucie",
+                    "ru-RU": "Это поглощающее чувство",
+                    "zh-CHT": "城市陷落"
+                },
+                "description": {
+                    "de-DE": "Gesehen, wie Ilima versank",
+                    "en-US": "Watched Ilima sink",
+                    "es-ES": "Testigo del hundimiento de Ilima",
+                    "fr-FR": "Vu Ilima couler",
+                    "it-IT": "Visto Ilima sprofondare",
+                    "ko-KR": "일리마 시의 붕괴를 지켜봤습니다.",
+                    "pl-PL": "Obejrzyj zapadnięcie Ilimy",
+                    "ru-RU": "Видел, как Илима ушла под землю",
+                    "zh-CHT": "目睹伊利馬市沈沒。"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 2, Kapitel 4",
+                    "en-US": "Story progression in Act 2, Chapter 4",
+                    "es-ES": "Progresión de la historia en el Acto 2, Capítulo 4",
+                    "fr-FR": "Progression de l'histoire dans l'acte 2, chapitre 4",
+                    "it-IT": "Sviluppi della trama nell'Atto 2, Capitolo 4",
+                    "ko-KR": "액트 2, 챕터 4까지 진행하십시오.",
+                    "pl-PL": "Postępy w fabule: akt 2, rozdział 4",
+                    "ru-RU": "Доберитесь до четвертой главы второго действия",
+                    "zh-CHT": "進行到第二幕第四章的劇情。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Frei Baird!",
+                    "en-US": "Freebaird!",
+                    "es-ES": "¡Liberación de Baird!",
+                    "fr-FR": "Baird libre !",
+                    "it-IT": "Baird libero!",
+                    "ko-KR": "베어드에게 자유를!",
+                    "pl-PL": "Uwolnić Bairda!",
+                    "ru-RU": "Освободить Беарда",
+                    "zh-CHT": "解救巴德"
+                },
+                "description": {
+                    "de-DE": "Baird aus der Gefangenschaft befreit",
+                    "en-US": "Freed Baird from capture",
+                    "es-ES": "Liberación de Baird de su cautiverio",
+                    "fr-FR": "Baird libéré",
+                    "it-IT": "Baird libero dalla prigionia",
+                    "ko-KR": "갇혀 있던 베어드를 구했습니다.",
+                    "pl-PL": "Udało ci się uwolnić Bairda",
+                    "ru-RU": "Освободил Беарда из плена",
+                    "zh-CHT": "將被囚的巴德解救出獄。"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 2, Kapitel 5",
+                    "en-US": "Story progression in Act 2, Chapter 5",
+                    "es-ES": "Progresión de la historia en el Acto 2, Capítulo 5",
+                    "fr-FR": "Progression de l'histoire dans l'acte 2, chapitre 5",
+                    "it-IT": "Sviluppi della trama nell'Atto 2, Capitolo 5",
+                    "ko-KR": "액트 2, 챕터 5까지 진행하십시오.",
+                    "pl-PL": "Postępy w fabule: akt 2, rozdział 5",
+                    "ru-RU": "Доберитесь до пятой главы второго действия",
+                    "zh-CHT": "進行到第二幕第五章的劇情。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Gebrochenes Herz",
+                    "en-US": "Heartbroken",
+                    "es-ES": "Destrozado",
+                    "fr-FR": "Cœur brisé",
+                    "it-IT": "Cuore spezzato",
+                    "ko-KR": "절규하는 심장",
+                    "pl-PL": "Złamane serce",
+                    "ru-RU": "Разбитые сердца",
+                    "zh-CHT": "開心手術"
+                },
+                "description": {
+                    "de-DE": "Mehrfachen Kettensägen-Bypass gelegt",
+                    "en-US": "Performed a chainsaw multiple bypass",
+                    "es-ES": "Burlarse varias veces con una sierra eléctrica",
+                    "fr-FR": "Tronçonneuse évitée plusieurs fois",
+                    "it-IT": "Bypass multiplo con una motosega",
+                    "ko-KR": "전기톱으로 심장의 동맥을 모두 절단했습니다.",
+                    "pl-PL": "Wielokrotny bajpas piłą łańcuchową",
+                    "ru-RU": "Провел коронарное шунтирование нескольких сердец с помощью бензопилы",
+                    "zh-CHT": "以鏈鋸砍斷巨蟲動脈。"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 2, Kapitel 6",
+                    "en-US": "Story progression in Act 2, Chapter 6",
+                    "es-ES": "Progresión de la historia en el Acto 2, Capítulo 6",
+                    "fr-FR": "Progression de l'histoire dans l'acte 2, chapitre 6",
+                    "it-IT": "Sviluppi della trama nell'Atto 2, Capitolo 6",
+                    "ko-KR": "액트 2, 챕터 6까지 진행하십시오.",
+                    "pl-PL": "Postępy w fabule: akt 2, rozdział 6",
+                    "ru-RU": "Доберитесь до шестой главы второго действия",
+                    "zh-CHT": "進行到第二幕第六章的劇情。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Koordinaten und Krawalle",
+                    "en-US": "Longitude and Attitude",
+                    "es-ES": "Longitud y altitud",
+                    "fr-FR": "Longitude et attitude",
+                    "it-IT": "Longitudine e attitudine",
+                    "ko-KR": "위도와 경도",
+                    "pl-PL": "Długość i szerokość",
+                    "ru-RU": "Широта и долгота",
+                    "zh-CHT": "水落石出"
+                },
+                "description": {
+                    "de-DE": "Aufenthaltsort der Locust-Königin entdeckt",
+                    "en-US": "Discovered the location of the Locust queen",
+                    "es-ES": "Detección de la ubicación de la reina de los Locust",
+                    "fr-FR": "Repaire de la reine des locustes découvert",
+                    "it-IT": "La posizione della regina delle locuste scoperta",
+                    "ko-KR": "로커스트 여왕 본거지의 위치를 파악했습니다.",
+                    "pl-PL": "Udało się odkryć położenie królowej szarańczy",
+                    "ru-RU": "Обнаружил местоположение королевы Саранчи",
+                    "zh-CHT": "找到獸族女王的所在位置。"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 3, Kapitel 3",
+                    "en-US": "Story progression in Act 3, Chapter 3",
+                    "es-ES": "Progresión de la historia en el Acto 3, Capítulo 3",
+                    "fr-FR": "Progression de l'histoire dans l'acte 3, chapitre 3",
+                    "it-IT": "Sviluppi della trama nell'Atto 3, Capitolo 3",
+                    "ko-KR": "액트 3, 챕터 3까지 진행하십시오.",
+                    "pl-PL": "Postępy w fabule: akt 3, rozdział 3",
+                    "ru-RU": "Доберитесь до третьей главы третьего действия",
+                    "zh-CHT": "進行到第三幕第三章的劇情。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Tanke für die Erinnerungen",
+                    "en-US": "Tanks for the Memories",
+                    "es-ES": "Tanques para el recuerdo",
+                    "fr-FR": "Tanks pour les souvenirs",
+                    "it-IT": "Barili per i ricordi",
+                    "ko-KR": "전설로 기억될 탱크",
+                    "pl-PL": "Wspomnienia czołgisty",
+                    "ru-RU": "Танки на память",
+                    "zh-CHT": "回憶深淵"
+                },
+                "description": {
+                    "de-DE": "Sicher im Gestrandeten-Lager bei Mount Kadar angekommen",
+                    "en-US": "Arrived safely at Mount Kadar Stranded camp",
+                    "es-ES": "Sanos y salvos en el campamento de supervivientes del Monte Kadar",
+                    "fr-FR": "Arrivé sain et sauf au campement des parias du Mont Kadar",
+                    "it-IT": "In salvo al villaggio profughi di Monte Kadar",
+                    "ko-KR": "카다르 산 난민 캠프까지 무사히 도착했습니다.",
+                    "pl-PL": "Udało się dotrzeć do obozu uchodźców na Górze Kadar",
+                    "ru-RU": "Добрался до лагеря изгнанников в горе Кадар",
+                    "zh-CHT": "安全抵達卡達峰難民營。"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 3, Kapitel 4",
+                    "en-US": "Story progression in Act 3, Chapter 4",
+                    "es-ES": "Progresión de la historia en el Acto 3, Capítulo 4",
+                    "fr-FR": "Progression de l'histoire dans l'acte 3, chapitre 4",
+                    "it-IT": "Sviluppi della trama nell'Atto 3, Capitolo 4",
+                    "ko-KR": "액트 3, 챕터 4까지 진행하십시오.",
+                    "pl-PL": "Postępy w fabule: akt 3, rozdział 4",
+                    "ru-RU": "Доберитесь до четвертой главы третьего действия",
+                    "zh-CHT": "進行到第三幕第四章的劇情。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Wassersport",
+                    "en-US": "Water Sports",
+                    "es-ES": "Deportes de agua",
+                    "fr-FR": "Sports aquatiques",
+                    "it-IT": "Sport acquatici",
+                    "ko-KR": "호수에서 벌인 혈투",
+                    "pl-PL": "Sporty wodne",
+                    "ru-RU": "Водный спорт",
+                    "zh-CHT": "水中蛟龍"
+                },
+                "description": {
+                    "de-DE": "Leviathan besiegt",
+                    "en-US": "Defeated the Leviathan",
+                    "es-ES": "Derrota del Leviathan",
+                    "fr-FR": "Monstre éliminé",
+                    "it-IT": "Sconfitto il Leviatano",
+                    "ko-KR": "레비아단을 처치했습니다.",
+                    "pl-PL": "Udało się pokonać Lewiatana",
+                    "ru-RU": "Победил Левиафана",
+                    "zh-CHT": "打敗巨獸。"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 3, Kapitel 6",
+                    "en-US": "Story progression in Act 3, Chapter 6",
+                    "es-ES": "Progresión de la historia en el Acto 3, Capítulo 6",
+                    "fr-FR": "Progression de l'histoire dans l'acte 3, chapitre 6",
+                    "it-IT": "Sviluppi della trama nell'Atto 3, Capitolo 6",
+                    "ko-KR": "액트 3, 챕터 6까지 진행하십시오.",
+                    "pl-PL": "Postępy w fabule: akt 3, rozdział 6",
+                    "ru-RU": "Доберитесь до шестой главы третьего действия",
+                    "zh-CHT": "進行到第三幕第六章的劇情。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Das ist Zeit für Uns!",
+                    "en-US": "There's a Time for Us",
+                    "es-ES": "Hay un tiempo para nosotros",
+                    "fr-FR": "Du temps pour nous",
+                    "it-IT": "C'è un tempo per noi",
+                    "ko-KR": "우리만을 위한 시간",
+                    "pl-PL": "Czas dla nas",
+                    "ru-RU": "Настал наш час",
+                    "zh-CHT": "破鏡重圓"
+                },
+                "description": {
+                    "de-DE": "Maria gefunden",
+                    "en-US": "Found Maria",
+                    "es-ES": "Salvación de María",
+                    "fr-FR": "Maria retrouvée",
+                    "it-IT": "Maria ritrovata",
+                    "ko-KR": "마리아를 찾았습니다.",
+                    "pl-PL": "Udało się odnaleźć Marię",
+                    "ru-RU": "Нашел Марию",
+                    "zh-CHT": "找到瑪莉亞。"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 4, Kapitel 2",
+                    "en-US": "Story progression in Act 4, Chapter 2",
+                    "es-ES": "Progresión de la historia en el Acto 4, Capítulo 2",
+                    "fr-FR": "Progression de l'histoire dans l'acte 4, chapitre 2",
+                    "it-IT": "Sviluppi della trama nell'Atto 4, Capitolo 2",
+                    "ko-KR": "액트 4, 챕터 2까지 진행하십시오.",
+                    "pl-PL": "Postępy w fabule: akt 4, rozdział 2",
+                    "ru-RU": "Доберитесь до второй главы четвертого действия",
+                    "zh-CHT": "進行到第四幕第二章的劇情。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Nach Hause telefonieren",
+                    "en-US": "Better Wrapped in Beacon",
+                    "es-ES": "Mejor rodeado de balizas",
+                    "fr-FR": "Emballés dans du bacon",
+                    "it-IT": "Meglio se coperti da segnalatore",
+                    "ko-KR": "횃불을 밝혀라",
+                    "pl-PL": "Lepiej schować nadajnik",
+                    "ru-RU": "Приводной радиомаяк",
+                    "zh-CHT": "定位信號"
+                },
+                "description": {
+                    "de-DE": "Jack als Peilsignal in Nexus aktiviert",
+                    "en-US": "Activated Jack as homing beacon in Nexus",
+                    "es-ES": "Activación de Jack como baliza detectora en Nexus",
+                    "fr-FR": "Jack activé comme émetteur autoguidé dans Nexus",
+                    "it-IT": "Jack utilizzato come segnalatore autoguidato al Nexis",
+                    "ko-KR": "넥서스에서 잭의 신호를 가동시켰습니다.",
+                    "pl-PL": "Udało się uaktywnić sygnał lokacyjny Jacka w Nexus.",
+                    "ru-RU": "Активировал передатчик Джека в Нексусе",
+                    "zh-CHT": "成功讓傑克啟動定位信號。"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 4, Kapitel 3",
+                    "en-US": "Story progression in Act 4, Chapter 3",
+                    "es-ES": "Progresión de la historia en el Acto 4, Capítulo 3",
+                    "fr-FR": "Progression de l'histoire dans l'acte 4, chapitre 3",
+                    "it-IT": "Sviluppi della trama nell'Atto 4, Capitolo 3",
+                    "ko-KR": "액트 4, 챕터 3까지 진행하십시오.",
+                    "pl-PL": "Postępy w fabule: akt 4, rozdział 3",
+                    "ru-RU": "Доберитесь до третьей главы четвертого действия",
+                    "zh-CHT": "進行到第四幕第三章的劇情。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "12.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "Küss die Hand, gnädige Frau",
+                    "en-US": "Have Fun Storming the Castle",
+                    "es-ES": "Asalta el castillo y diviértete",
+                    "fr-FR": "Faites sauter le château",
+                    "it-IT": "Che spasso assaltare il castello",
+                    "ko-KR": "여왕의 궁전을 쑥대밭으로",
+                    "pl-PL": "Miłej zabawy przy szturmie zamku",
+                    "ru-RU": "Зрелищный штурм замка",
+                    "zh-CHT": "橫掃千軍"
+                },
+                "description": {
+                    "de-DE": "Locust-Königin gefunden",
+                    "en-US": "Found the Locust queen",
+                    "es-ES": "Se encontró a la reina de los Locust",
+                    "fr-FR": "Reine des locustes trouvée",
+                    "it-IT": "Trovata la regina delle locuste",
+                    "ko-KR": "로커스트 여왕을 찾았습니다.",
+                    "pl-PL": "Udało się znaleźć królową szarańczy",
+                    "ru-RU": "Нашел королеву Саранчи.",
+                    "zh-CHT": "找到獸族女王。"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 4, Kapitel 6",
+                    "en-US": "Story progression in Act 4, Chapter 6",
+                    "es-ES": "Progresión de la historia en el Acto 4, Capítulo 6",
+                    "fr-FR": "Progression de l'histoire dans l'acte 4, chapitre 6",
+                    "it-IT": "Sviluppi della trama nell'Atto 4, Capitolo 6",
+                    "ko-KR": "액트 4, 챕터 6까지 진행하십시오.",
+                    "pl-PL": "Postępy w fabule: akt 4, rozdział 6",
+                    "ru-RU": "Доберитесь до шестой главы четвертого действия",
+                    "zh-CHT": "進行到第四幕第六章的劇情。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "13.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "Und das Pferd, auf dem du kamst",
+                    "en-US": "And the Horsey You Rode in On",
+                    "es-ES": "Y el caballito que montabas...",
+                    "fr-FR": "Et le cheval que vous avez monté",
+                    "it-IT": "E il cavallo che hai cavalcato",
+                    "ko-KR": "빌어먹을 망아지",
+                    "pl-PL": "Konik na biegunach",
+                    "ru-RU": "Конек-горбунок",
+                    "zh-CHT": "駕馭高手"
+                },
+                "description": {
+                    "de-DE": "Skorge und seine Hydra besiegt",
+                    "en-US": "Defeated Skorge and his Hydra",
+                    "es-ES": "Derrota de Skorge y su Hydra",
+                    "fr-FR": "Skorge et son hydre vaincus",
+                    "it-IT": "Sconfitti Skorge e la sua Hydra",
+                    "ko-KR": "스코지와 히드라를 사살했습니다.",
+                    "pl-PL": "Udało się pokonać Skorga i jego hydrę",
+                    "ru-RU": "Победил Скорджа и его гидру",
+                    "zh-CHT": "打敗司寇將軍與海卓獸。"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 5, Kapitel 1",
+                    "en-US": "Story progression in Act 5, Chapter 1",
+                    "es-ES": "Progresión de la historia en el Acto 5, Capítulo 1",
+                    "fr-FR": "Progression de l'histoire dans l'acte 5, chapitre 1",
+                    "it-IT": "Sviluppi della trama nell'Atto 5, Capitolo 1",
+                    "ko-KR": "액트 5, 챕터 1까지 진행하십시오.",
+                    "pl-PL": "Postępy w fabule: akt 5, rozdział 1",
+                    "ru-RU": "Доберитесь до первой главы пятого действия",
+                    "zh-CHT": "進行到第五幕第一章的劇情。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "14.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "de-DE": "Du bist der Nachschub, Junge",
+                    "en-US": "You Are the Support, Son",
+                    "es-ES": "Tú eres la ayuda, hijo",
+                    "fr-FR": "Tu es le soutien, mon fils",
+                    "it-IT": "Tu sei il sostegno, figliolo",
+                    "ko-KR": "너희가 바로 지원군이야!",
+                    "pl-PL": "Jesteś naszym wsparciem, synu",
+                    "ru-RU": "Ты наша поддержка, сынок",
+                    "zh-CHT": "最佳支援"
+                },
+                "description": {
+                    "de-DE": "KOR-Hauptquartier erfolgreich verteidigt",
+                    "en-US": "Successfully defended COG headquarters",
+                    "es-ES": "Defensa con éxito del Cuartel General de Operaciones Militares de la CGO",
+                    "fr-FR": "Défense du QG de la CGU réussie",
+                    "it-IT": "Il quartier generale della COG è stato difeso",
+                    "ko-KR": "적으로부터 COG 본부를 성공적으로 방어했습니다.",
+                    "pl-PL": "Udało się obronić kwaterę główną COG",
+                    "ru-RU": "Штаб-квартира Коалиции успешно защищена",
+                    "zh-CHT": "成功保衛住維安政府聯盟總部。"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 5, Kapitel 2",
+                    "en-US": "Story progression in Act 5, Chapter 2",
+                    "es-ES": "Progresión de la historia en el Acto 5, Capítulo 2",
+                    "fr-FR": "Progression de l'histoire dans l'acte 5, chapitre 2",
+                    "it-IT": "Sviluppi della trama nell'Atto 5, Capitolo 2",
+                    "ko-KR": "액트 5, 챕터 2까지 진행하십시오.",
+                    "pl-PL": "Postępy w fabule: akt 5, rozdział 2",
+                    "ru-RU": "Доберитесь до второй главы пятого действия",
+                    "zh-CHT": "進行到第五幕第二章的劇情。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "15.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Brumak-Rodeo",
+                    "en-US": "Brumak Rodeo",
+                    "es-ES": "Rodeo de Brumak",
+                    "fr-FR": "Rodéo de brumak",
+                    "it-IT": "Rodeo di Brumak",
+                    "ko-KR": "브루먹 로데오",
+                    "pl-PL": "Rodeo na brumaku",
+                    "ru-RU": "Родео на брумаке",
+                    "zh-CHT": "獵龍高手"
+                },
+                "description": {
+                    "de-DE": "Einen Brumak gefangen",
+                    "en-US": "Captured a Brumak",
+                    "es-ES": "Captura de un Brumak",
+                    "fr-FR": "Brumak capturé",
+                    "it-IT": "Un Brumak catturato",
+                    "ko-KR": "브루먹을 탈취했습니다.",
+                    "pl-PL": "Udało się schwytać brumaka",
+                    "ru-RU": "Поймал брумака",
+                    "zh-CHT": "捉住一頭巨龍獸。"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 5, Kapitel 4",
+                    "en-US": "Story progression in Act 5, Chapter 4",
+                    "es-ES": "Progresión de la historia en el Acto 5, Capítulo 4",
+                    "fr-FR": "Progression de l'histoire dans l'acte 5, chapitre 4",
+                    "it-IT": "Sviluppi della trama nell'Atto 5, Capitolo 4",
+                    "ko-KR": "액트 5, 챕터 4까지 진행하십시오.",
+                    "pl-PL": "Postępy w fabule: akt 5, rozdział 1",
+                    "ru-RU": "Доберитесь до четвертой главы пятого действия",
+                    "zh-CHT": "進行到第五幕第四章的劇情。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "16.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "Meinst du, das ist entzündet?",
+                    "en-US": "Does This Look Infected to You?",
+                    "es-ES": "¿Te parece infectado?",
+                    "fr-FR": "Ça te semble infecté ?",
+                    "it-IT": "Ti sembra infetto?",
+                    "ko-KR": "내가 아직도 브루먹으로 보이니?",
+                    "pl-PL": "Czy to ci wygląda na zakażenie?",
+                    "ru-RU": "Не кажется ли вам это заразным?",
+                    "zh-CHT": "屠龍專家"
+                },
+                "description": {
+                    "de-DE": "Leuchtenden Brumak besiegt",
+                    "en-US": "Defeated the Lambent Brumak",
+                    "es-ES": "Derrota del Brumak Lambent",
+                    "fr-FR": "Brumak Lambent éliminé",
+                    "it-IT": "Sconfitto il Brumak splendente",
+                    "ko-KR": "램번트 브루먹을 사살했습니다.",
+                    "pl-PL": "Udało ci się pokonać świecącego brumaka",
+                    "ru-RU": "Победил брумака-ламбента",
+                    "zh-CHT": "打敗螢光巨龍獸。"
+                },
+                "howto": {
+                    "de-DE": "Story-Fortschritt in Akt 5, Kapitel 5",
+                    "en-US": "Story progression in Act 5, Chapter 5",
+                    "es-ES": "Progresión de la historia en el Acto 5, Capítulo 5",
+                    "fr-FR": "Progression de l'histoire dans l'acte 5, chapitre 5",
+                    "it-IT": "Sviluppi della trama nell'Atto 5, Capitolo 5",
+                    "ko-KR": "액트 5, 챕터 5까지 진행하십시오.",
+                    "pl-PL": "Postępy w fabule: akt 5, rozdział 5",
+                    "ru-RU": "Доберитесь до пятой главы пятого действия",
+                    "zh-CHT": "進行到第五幕第五章的劇情。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "17.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "de-DE": "Verpflichteter Tourist",
+                    "en-US": "Tourist of Duty",
+                    "es-ES": "Turista de guardia",
+                    "fr-FR": "Touriste engagé",
+                    "it-IT": "Turista del dovere",
+                    "ko-KR": "전장의 방랑자",
+                    "pl-PL": "Bojowy turysta",
+                    "ru-RU": "Турист на задании",
+                    "zh-CHT": "優秀新兵"
+                },
+                "description": {
+                    "de-DE": "Alle Akte der Kampagne auf Schwierigkeitsgrad \"Lässig\" abgeschlossen",
+                    "en-US": "Completed all campaign acts on Casual Difficulty",
+                    "es-ES": "Todos los actos de campaña completados en Dificultad Informal",
+                    "fr-FR": "Tous les actes de la campagne terminés en difficulté Recrue",
+                    "it-IT": "Tutti gli atti della campagna in difficoltà Facile sono stati completati",
+                    "ko-KR": "모든 액트를 쉬움 난이도로 완료했습니다.",
+                    "pl-PL": "Udało się przejść wszystkie akty kampanii na poziomie trudności nowicjusza",
+                    "ru-RU": "Прошел все действия кампании на легком уровне сложности",
+                    "zh-CHT": "已完成所有難度為簡單的戰役。"
+                },
+                "howto": {
+                    "de-DE": "Alle Akte der Kampagne auf Schwierigkeitsgrad \"Lässig\" abschließen",
+                    "en-US": "Complete all campaign acts on Casual Difficulty",
+                    "es-ES": "Completar todos los actos de campaña en Dificultad Informal",
+                    "fr-FR": "Terminez tous les actes de la campagne en difficulté Recrue",
+                    "it-IT": "Completa tutti gli atti della campagna in difficoltà Facile",
+                    "ko-KR": "모든 액트를 쉬움 난이도로 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie akty kampanii na poziomie trudności nowicjusza",
+                    "ru-RU": "Пройдите все действия кампании на легком уровне сложности",
+                    "zh-CHT": "完成所有難度為簡單的戰役"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "18.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "Guerilla-Taktiker",
+                    "en-US": "Guerilla Tactician",
+                    "es-ES": "Guerrillero",
+                    "fr-FR": "Stratège de guérilla",
+                    "it-IT": "Stratega della guerriglia",
+                    "ko-KR": "게릴라 전술가",
+                    "pl-PL": "Partyzancki taktyk",
+                    "ru-RU": "Тактик-партизан",
+                    "zh-CHT": "游擊戰好手"
+                },
+                "description": {
+                    "de-DE": "Alle Akte der Kampagne auf Schwierigkeitsgrad \"Normal\" abgeschlossen",
+                    "en-US": "Completed all campaign acts on Normal Difficulty",
+                    "es-ES": "Todos los actos de campaña completados en Dificultad Normal",
+                    "fr-FR": "Tous les actes de la campagne terminés en difficulté Normal",
+                    "it-IT": "Tutti gli atti della campagna in difficoltà Normale sono stati completati",
+                    "ko-KR": "모든 액트를 보통 난이도로 완료했습니다.",
+                    "pl-PL": "Udało się przejść wszystkie akty kampanii na normalnym poziomie trudności",
+                    "ru-RU": "Прошел все действия кампании на нормальном уровне сложности",
+                    "zh-CHT": "已完成所有難度為一般的戰役。"
+                },
+                "howto": {
+                    "de-DE": "Alle Akte der Kampagne auf Schwierigkeitsgrad \"Normal\" abschließen",
+                    "en-US": "Complete all campaign acts on Normal Difficulty",
+                    "es-ES": "Completar todos los actos de campaña en Dificultad Normal",
+                    "fr-FR": "Terminez tous les actes de la campagne en difficulté Normal",
+                    "it-IT": "Completa tutti gli atti della campagna in difficoltà Normale",
+                    "ko-KR": "모든 액트를 보통 난이도로 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie akty kampanii na normalnym poziomie trudności",
+                    "ru-RU": "Пройдите все действия кампании на нормальном уровне сложности",
+                    "zh-CHT": "完成所有難度為一般的戰役。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "19.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "Kriegskünstler",
+                    "en-US": "Artist of War",
+                    "es-ES": "Artista de la guerra",
+                    "fr-FR": "Artiste de guerre",
+                    "it-IT": "Artista della guerra",
+                    "ko-KR": "뛰어난 책략가",
+                    "pl-PL": "Artysta wojny",
+                    "ru-RU": "Творец войны",
+                    "zh-CHT": "戰略專家"
+                },
+                "description": {
+                    "de-DE": "Alle Akte der Kampagne auf Schwierigkeitsgrad \"Hardcore\" abgeschlossen",
+                    "en-US": "Completed all campaign acts on Hardcore Difficulty",
+                    "es-ES": "Todos los actos de campaña completados en Dificultad Elevada",
+                    "fr-FR": "Tous les actes de la campagne terminés en difficulté Vétéran",
+                    "it-IT": "Tutti gli atti della campagna in difficoltà Difficile sono stati completati",
+                    "ko-KR": "모든 액트를 어려움 난이도로 완료했습니다.",
+                    "pl-PL": "Udało się przejść wszystkie akty kampanii na wysokim poziomie trudności",
+                    "ru-RU": "Прошел все действия кампании на сложном уровне сложности",
+                    "zh-CHT": "已完成所有難度為困難的戰役。"
+                },
+                "howto": {
+                    "de-DE": "Alle Akte der Kampagne auf Schwierigkeitsgrad \"Hardcore\" abschließen",
+                    "en-US": "Complete all campaign acts on Hardcore Difficulty",
+                    "es-ES": "Completar todos los actos de campaña en Dificultad Elevada",
+                    "fr-FR": "Terminez tous les actes de la campagne en difficulté Vétéran",
+                    "it-IT": "Completa tutti gli atti della campagna in difficoltà Difficile",
+                    "ko-KR": "모든 액트를 어려움 난이도로 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie akty kampanii na wysokim poziomie trudności",
+                    "ru-RU": "Пройдите все действия кампании на сложном уровне сложности",
+                    "zh-CHT": "完成所有難度為困難的戰役。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "75",
+            "imageId": "20.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "Selbstmord-Missionär",
+                    "en-US": "Suicide Missionary",
+                    "es-ES": "Misionero suicida",
+                    "fr-FR": "Missionnaire suicidaire",
+                    "it-IT": "In missione suicida",
+                    "ko-KR": "전쟁광",
+                    "pl-PL": "Samobójczy misjonarz",
+                    "ru-RU": "Камикадзе",
+                    "zh-CHT": "終極勇士"
+                },
+                "description": {
+                    "de-DE": "Alle Akte der Kampagne auf Schwierigkeitsgrad \"Wahnsinnig\" abgeschlossen",
+                    "en-US": "Completed all campaign acts on Insane Difficulty",
+                    "es-ES": "Todos los actos de campaña completados en Dificultad Locura",
+                    "fr-FR": "Tous les actes de la campagne terminés en difficulté Dément",
+                    "it-IT": "Tutti gli atti della campagna in difficoltà Folle sono stati completati",
+                    "ko-KR": "모든 액트를 매우 어려움 난이도로 완료했습니다.",
+                    "pl-PL": "Udało się przejść wszystkie akty kampanii na szalonym poziomie trudności",
+                    "ru-RU": "Прошел все действия кампании на очень сложном уровне сложности",
+                    "zh-CHT": "已完成所有難度為瘋狂的戰役。"
+                },
+                "howto": {
+                    "de-DE": "Alle Akte der Kampagne auf Schwierigkeitsgrad \"Wahnsinnig\" abschließen",
+                    "en-US": "Complete all campaign acts on Insane Difficulty",
+                    "es-ES": "Completar todos los actos de campaña en Dificultad Locura",
+                    "fr-FR": "Terminez tous les actes de la campagne en difficulté Dément",
+                    "it-IT": "Completa tutti gli atti della campagna in difficoltà Folle",
+                    "ko-KR": "모든 액트를 매우 어려움 난이도로 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie akty kampanii na szalonym poziomie trudności",
+                    "ru-RU": "Пройдите все действия кампании на очень сложном уровне сложности",
+                    "zh-CHT": "完成所有難度為瘋狂的戰役。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "150",
+            "imageId": "21.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "de-DE": "Sammler",
+                    "en-US": "Collector",
+                    "es-ES": "Coleccionista",
+                    "fr-FR": "Collectionneur",
+                    "it-IT": "Collezionista",
+                    "ko-KR": "풋내기 수집가",
+                    "pl-PL": "Kolekcjoner",
+                    "ru-RU": "Коллекционер",
+                    "zh-CHT": "收集迷"
+                },
+                "description": {
+                    "de-DE": "5 von 41 Sammlerstücken gefunden",
+                    "en-US": "Recovered 5 of 41 collectibles",
+                    "es-ES": "Recuperados 5 de 41 objetos para recoger",
+                    "fr-FR": "5 objets à collectionner trouvés sur 41",
+                    "it-IT": "Recuperati 5 oggetti da collezione su 41",
+                    "ko-KR": "획득 아이템 41개 중 5개를 찾았습니다.",
+                    "pl-PL": "Udało ci się zebrać 5 z 41 przedmiotów z kolekcji",
+                    "ru-RU": "Нашел 5 предметов из 41",
+                    "zh-CHT": "已取得 41 個收藏物品中的 5 個。"
+                },
+                "howto": {
+                    "de-DE": "5 Sammlerstücke finden (beliebiger Schwierigkeitsgrad)",
+                    "en-US": "Recover 5 collectibles (any difficulty)",
+                    "es-ES": "Recuperar 5 objetos para recoger (cualquier dificultad)",
+                    "fr-FR": "Trouvez 5 objets à collectionner (toute difficulté)",
+                    "it-IT": "Recupera 5 oggetti da collezione (qualsiasi difficoltà)",
+                    "ko-KR": "획득 아이템 5개를 찾으십시오. (난이도 상관 없음)",
+                    "pl-PL": "Zbierz 5 przedmiotów z kolekcji (dowolny poziom trudności)",
+                    "ru-RU": "Найдите 5 предметов (на любом уровне сложности)",
+                    "zh-CHT": "不限難度，取得 41 個收藏物品中的 5 個 。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "22.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "Packratte",
+                    "en-US": "Pack Rat",
+                    "es-ES": "Urraca",
+                    "fr-FR": "Rat des champs",
+                    "it-IT": "Amatore",
+                    "ko-KR": "전장의 수집가",
+                    "pl-PL": "Chomik",
+                    "ru-RU": "Барахольщик",
+                    "zh-CHT": "戀物狂"
+                },
+                "description": {
+                    "de-DE": "20 von 41 Sammlerstücken gefunden",
+                    "en-US": "Recovered 20 of 41 collectibles",
+                    "es-ES": "Recuperados 20 de 41 objetos para recoger",
+                    "fr-FR": "20 objets à collectionner trouvés sur 41",
+                    "it-IT": "Recuperati 20 oggetti da collezione su 41",
+                    "ko-KR": "획득 아이템 41개 중 20개를 찾았습니다.",
+                    "pl-PL": "Udało ci się zebrać 20 z 41 przedmiotów z kolekcji",
+                    "ru-RU": "Нашел 20 предметов из 41",
+                    "zh-CHT": "已取得 41 個收藏物品中的 20 個。"
+                },
+                "howto": {
+                    "de-DE": "20 Sammlerstücke finden (beliebiger Schwierigkeitsgrad)",
+                    "en-US": "Recover 20 collectibles (any difficulty)",
+                    "es-ES": "Recuperar 20 objetos para recoger (cualquier dificultad)",
+                    "fr-FR": "Trouvez 20 objets à collectionner (toute difficulté)",
+                    "it-IT": "Recupera 20 oggetti da collezione (qualsiasi difficoltà)",
+                    "ko-KR": "획득 아이템 20개를 찾으십시오. (난이도 상관 없음)",
+                    "pl-PL": "Zbierz 20 przedmiotów z kolekcji (dowolny poziom trudności)",
+                    "ru-RU": "Найдите 20 предметов (на любом уровне сложности)",
+                    "zh-CHT": "不限難度，取得 41 個收藏物品中的 20 個 。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "23.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "Liebhaber",
+                    "en-US": "Completionist",
+                    "es-ES": "Perfeccionista",
+                    "fr-FR": "Perfectionniste",
+                    "it-IT": "Perfezionista",
+                    "ko-KR": "완벽주의자",
+                    "pl-PL": "Finalizator",
+                    "ru-RU": "Заядлый коллекционер",
+                    "zh-CHT": "收藏家"
+                },
+                "description": {
+                    "de-DE": "Alle 41 Sammlerstücke gefunden",
+                    "en-US": "Recovered all 41 collectibles",
+                    "es-ES": "41 objetos para recoger recuperados",
+                    "fr-FR": "41 objets à collectionner trouvés",
+                    "it-IT": "Recuperati tutti i 41 oggetti da collezione",
+                    "ko-KR": "획득 아이템 41개를 모두 찾았습니다.",
+                    "pl-PL": "Udało ci się zebrać wszystkie 41 przedmiotów z kolekcji",
+                    "ru-RU": "Нашел все предметы (41 штука)",
+                    "zh-CHT": "已完整取得 41 個收集物。"
+                },
+                "howto": {
+                    "de-DE": "Alle 41 Sammlerstücke finden (beliebiger Schwierigkeitsgrad)",
+                    "en-US": "Recover all 41 collectibles (any difficulty)",
+                    "es-ES": "Recuperar los 41 objetos para recoger (cualquier dificultad)",
+                    "fr-FR": "Trouvez les 41 objets à collectionner (toute difficulté)",
+                    "it-IT": "Recupera tutti i 41 oggetti da collezione (qualsiasi difficoltà)",
+                    "ko-KR": "획득 아이템 41개를 모두 찾으십시오. (난이도 상관 없음)",
+                    "pl-PL": "Zbierz wszystkie 41 przedmiotów z kolekcji (dowolny poziom trudności)",
+                    "ru-RU": "Найдите 41 предмет (на любом уровне сложности)",
+                    "zh-CHT": "不限難度，完整取得 41 個收集物。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "24.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein mal mehr zusammen",
+                    "en-US": "One-Night Stand",
+                    "es-ES": "Conquista de una noche",
+                    "fr-FR": "Histoire sans lendemain",
+                    "it-IT": "Avventura di una notte",
+                    "ko-KR": "하룻밤의 인연",
+                    "pl-PL": "Przygoda na jedną noc",
+                    "ru-RU": "Роман на одну ночь",
+                    "zh-CHT": "初試身手"
+                },
+                "description": {
+                    "de-DE": "1 Kapitel im Co-op-Modus auf beliebigem Schwierigkeitsgrad abgeschlossen",
+                    "en-US": "Completed 1 chapter in Co-op on any difficulty",
+                    "es-ES": "Completado 1 capítulo en modo cooperativo en cualquier dificultad",
+                    "fr-FR": "1 chapitre terminé en Coopération dans n'importe quelle difficulté",
+                    "it-IT": "Capitolo 1 in Co-op completato in qualsiasi difficoltà",
+                    "ko-KR": "협동 게임에서 한 개의 챕터를 완료했습니다. (난이도 상관 없음)",
+                    "pl-PL": "Udało ci się ukończyć 1 rozdział w trybie współpracy na dowolnym poziomie trudności",
+                    "ru-RU": "Прошел все действия в совместном режиме с любым уровнем сложности",
+                    "zh-CHT": "不限難度，已經以合作模式完成一個章節。"
+                },
+                "howto": {
+                    "de-DE": "1 Kapitel im Co-op-Modus auf beliebigem Schwierigkeitsgrad abschließen (Marcus oder Dom)",
+                    "en-US": "Complete 1 chapter in Co-op on any difficulty (Marcus or Dom)",
+                    "es-ES": "Completar 1 capítulo en modo cooperativo en cualquier dificultad (Marcus o Dom)",
+                    "fr-FR": "Terminez 1 chapitre en coopération dans n'importe quelle difficulté (Marcus ou Dom)",
+                    "it-IT": "Completa il capitolo 1 in Co-op in qualsiasi difficoltà (Marcus o Dom)",
+                    "ko-KR": "협동 게임에서 한 개의 챕터를 완료하십시오. (난이도 상관 없음, 마커스 또는 도미닉)",
+                    "pl-PL": "Ukończ 1 rozdział w trybie współpracy na dowolnym poziomie trudności (Marcus lub Dom)",
+                    "ru-RU": "Пройдите 1 главу в совместном режиме с любым уровнем сложности (играть за Маркуса или Дома)",
+                    "zh-CHT": "不限難度，以馬可斯或多姆的身分在合作模式完成一個章節。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "25.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "Offene Beziehung",
+                    "en-US": "Open Relationship",
+                    "es-ES": "Relación abierta",
+                    "fr-FR": "Relation ouverte",
+                    "it-IT": "Relazione aperta",
+                    "ko-KR": "쿨한 관계",
+                    "pl-PL": "Otwarty związek",
+                    "ru-RU": "Свободные отношения",
+                    "zh-CHT": "親密戰友"
+                },
+                "description": {
+                    "de-DE": "10 Kapitel im Co-op-Modus auf beliebigem Schwierigkeitsgrad abgeschlossen",
+                    "en-US": "Completed 10 chapters in Co-op on any difficulty",
+                    "es-ES": "Completados 10 capítulos en modo cooperativo en cualquier dificultad",
+                    "fr-FR": "10 chapitres terminés en coopération dans n'importe quelle difficulté",
+                    "it-IT": "10 capitoli in Co-op completati in qualsiasi difficoltà",
+                    "ko-KR": "협동 게임에서 10개의 챕터를 완료했습니다. (난이도 상관 없음)",
+                    "pl-PL": "Udało ci się ukończyć 10 rozdziałów w trybie współpracy na dowolnym poziomie trudności",
+                    "ru-RU": "Прошел 10 глав в совместном режиме с любым уровнем сложности",
+                    "zh-CHT": "不限難度，已經以合作模式完成十個章節。"
+                },
+                "howto": {
+                    "de-DE": "10 Kapitel im Co-op-Modus auf beliebigem Schwierigkeitsgrad abschließen (Marcus oder Dom)",
+                    "en-US": "Complete 10 chapters in Co-op on any difficulty (Marcus or Dom)",
+                    "es-ES": "Completar 10 capítulos en modo cooperativo en cualquier dificultad (Marcus o Dom)",
+                    "fr-FR": "Terminez 10 chapitres en coopération dans n'importe quelle difficulté (Marcus ou Dom)",
+                    "it-IT": "Completa 10 capitoli in Co-op in qualsiasi difficoltà (Marcus o Dom)",
+                    "ko-KR": "협동 게임에서 10개의 챕터를 완료하십시오. (난이도 상관 없음, 마커스 또는 도미닉)",
+                    "pl-PL": "Ukończ 10 rozdziałów w trybie współpracy na dowolnym poziomie trudności (Marcus lub Dom)",
+                    "ru-RU": "Пройдите 10 глав в совместном режиме с любым уровнем сложности (играть за Маркуса или Дома)",
+                    "zh-CHT": "不限難度，以馬可斯或多姆的身分在合作模式完成十個章節。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "26.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "Harmonische Partnerschaft",
+                    "en-US": "Friends with Benefits",
+                    "es-ES": "Amigos con derecho a roce",
+                    "fr-FR": "Amitié sans faille",
+                    "it-IT": "Amici con incentivi",
+                    "ko-KR": "믿음직한 전우",
+                    "pl-PL": "Przyjaciół poznaje się w biedzie",
+                    "ru-RU": "Полезные друзья",
+                    "zh-CHT": "合作無間"
+                },
+                "description": {
+                    "de-DE": "Alle Akte im Co-op-Modus auf beliebigem Schwierigkeitsgrad abgeschlossen",
+                    "en-US": "Completed all acts in Co-op on any difficulty",
+                    "es-ES": "Completados todos los capítulos en modo cooperativo en cualquier dificultad",
+                    "fr-FR": "Tous les actes terminés en coopération dans n'importe quelle difficulté",
+                    "it-IT": "Completati tutti gli atti in Co-op in qualsiasi difficoltà",
+                    "ko-KR": "협동 게임에서 모든 챕터를 완료했습니다. (난이도 상관 없음)",
+                    "pl-PL": "Udało ci się ukończyć wszystkie akty w trybie współpracy na dowolnym poziomie trudności",
+                    "ru-RU": "Прошел 1 главу в совместном режиме с любым уровнем сложности",
+                    "zh-CHT": "不限難度，已經以合作模式完成所有章節。"
+                },
+                "howto": {
+                    "de-DE": "Alle Akte im Co-op-Modus auf beliebigem Schwierigkeitsgrad abschließen (Marcus oder Dom)",
+                    "en-US": "Complete all acts in Co-op on any difficulty (Marcus or Dom)",
+                    "es-ES": "Completar todos los capítulos en modo cooperativo en cualquier dificultad (Marcus o Dom)",
+                    "fr-FR": "Terminez tous les actes en coopération dans n'importe quelle difficulté (Marcus ou Dom)",
+                    "it-IT": "Completati tutti gli atti in Co-op in qualsiasi difficoltà (Marcus o Dom)",
+                    "ko-KR": "협동 게임에서 모든 챕터를 완료하십시오. (난이도 상관 없음, 마커스 또는 도미닉)",
+                    "pl-PL": "Ukończ wszystkie akty w trybie współpracy na dowolnym poziomie trudności (Marcus lub Dom)",
+                    "ru-RU": "Пройдите все действия в совместном режиме с любым уровнем сложности (Маркусом или Домом)",
+                    "zh-CHT": "不限難度，以馬可斯或多姆的身分在合作模式完成所有章節。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "27.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "Gekreuzte Klingen",
+                    "en-US": "Crossed Swords",
+                    "es-ES": "Enfrentamiento",
+                    "fr-FR": "Sabres croisés",
+                    "it-IT": "A spade incrociate",
+                    "ko-KR": "엇갈린 칼날",
+                    "pl-PL": "Skrzyżowane miecze",
+                    "ru-RU": "Скрещенные мечи",
+                    "zh-CHT": "鏈鋸高手"
+                },
+                "description": {
+                    "de-DE": "10 Kettensägenduelle gewonnen",
+                    "en-US": "Won 10 chainsaw duels",
+                    "es-ES": "Ganados 10 duelos de motosierra",
+                    "fr-FR": "10 duels à la tronçonneuse remportés",
+                    "it-IT": "Vinti 10 duelli a motosega",
+                    "ko-KR": "전기톱 결투에서 10번 승리했습니다.",
+                    "pl-PL": "Udało ci się wygrać 10 pojedynków na piły mechaniczne",
+                    "ru-RU": "Выиграл 10 дуэлей на бензопилах",
+                    "zh-CHT": "已贏得十場鏈鋸對決。"
+                },
+                "howto": {
+                    "de-DE": "10 Kettensägenduelle gewinnen (beliebiger Modus)",
+                    "en-US": "Win 10 chainsaw duels (any mode)",
+                    "es-ES": "Ganar 10 duelos de motosierra (cualquier modo)",
+                    "fr-FR": "Remportez 10 duels à la tronçonneuse (tout mode)",
+                    "it-IT": "Vinci 10 duelli a motosega (qualsiasi modalità)",
+                    "ko-KR": "전기톱 결투에서 10번 승리하십시오. (게임 모드 상관 없음)",
+                    "pl-PL": "Wygraj 10 pojedynków na piły mechaniczne (w dowolnym trybie)",
+                    "ru-RU": "Выиграйте 10 дуэлей на бензопилах (в любом режиме)",
+                    "zh-CHT": "不限模式，贏得十場鏈鋸對決。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "28.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein Pfund Fleisch",
+                    "en-US": "Pound of Flesh",
+                    "es-ES": "Libra de carne",
+                    "fr-FR": "Kilo de viande",
+                    "it-IT": "Una libbra di carne",
+                    "ko-KR": "시체 더미",
+                    "pl-PL": "Kilogram mięcha",
+                    "ru-RU": "Килограммы плоти",
+                    "zh-CHT": "肉盾好手"
+                },
+                "description": {
+                    "de-DE": "10 Feinde zum Überleben benutzt",
+                    "en-US": "Used 10 meatshields to survive",
+                    "es-ES": "10 escudos humanos utilizados para sobrevivir",
+                    "fr-FR": "10 boucliers humains utilisés pour survivre",
+                    "it-IT": "Utilizzati 10 scudi di carne per la sopravvivenza",
+                    "ko-KR": "10명의 적을 총알받이로 사용했습니다.",
+                    "pl-PL": "Udało ci się 10 razy użyć żywej tarczy, aby przeżyć",
+                    "ru-RU": "Использовал 10 живых щитов и выжил",
+                    "zh-CHT": "成功地使用十次肉盾。"
+                },
+                "howto": {
+                    "de-DE": "10 mal Feinde als Schutz zum Überleben benutzen (beliebiger Modus)",
+                    "en-US": "Use a meatshield to save your life 10 times (any mode)",
+                    "es-ES": "Utilizar un escudo humano para salvarse 10 veces (cualquier modo)",
+                    "fr-FR": "Utilisez un bouclier humain 10 fois pour survivre (tout mode)",
+                    "it-IT": "Utilizza uno scudo di carne per salvarti la vita 10 volte (qualsiasi modalità)",
+                    "ko-KR": "10명의 적을 총알받이로 사용하십시오. (게임 모드 상관 없음)",
+                    "pl-PL": "Użyj żywej tarczy, aby 10 razy uratować życie (w dowolnym trybie)",
+                    "ru-RU": "Используйте живой щит 10 раз, чтобы выжить (в любом режиме)",
+                    "zh-CHT": "不限模式，成功地使用十次肉盾死裡逃生。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "29.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Drehorgelspieler",
+                    "en-US": "Organ Grinder",
+                    "es-ES": "Trituradora de órganos",
+                    "fr-FR": "Moulin à organes",
+                    "it-IT": "Tritaorgani",
+                    "ko-KR": "로커스트 분쇄",
+                    "pl-PL": "Flaki Miażdżyciela",
+                    "ru-RU": "Мясоруб",
+                    "zh-CHT": "慕丘神射手"
+                },
+                "description": {
+                    "de-DE": "30 Feinde mit dem Mulcher-Turm getötet",
+                    "en-US": "Killed 30 enemies with your Mulcher turret",
+                    "es-ES": "30 enemigos exterminados con la torreta con ametralladora de cadena",
+                    "fr-FR": "30 ennemis tués avec votre tourelle Sulfator",
+                    "it-IT": "Uccisi 30 nemici con la torretta Mulcher",
+                    "ko-KR": "멀처로 30명의 적을 사살했습니다.",
+                    "pl-PL": "Udało ci się zabić 30 wrogów za pomocą działka Gatlinga",
+                    "ru-RU": "Убито 30 врагов с помощью многоствольного пулемета",
+                    "zh-CHT": "用慕丘機槍殺死三十名敵軍。"
+                },
+                "howto": {
+                    "de-DE": "30 Feinde mit einem auf die Deckung montierten Mulcher töten (beliebiger Modus)",
+                    "en-US": "Kill 30 enemies with a cover mounted Mulcher (any mode)",
+                    "es-ES": "Exterminar a 30 enemigos con la ametralladora de cadena acoradaza (cualquier modo)",
+                    "fr-FR": "Tuez 30 ennemis avec le Sulfator camouflé (tout mode)",
+                    "it-IT": "Uccidi 30 nemici con il Mulcher con copertura (qualsiasi modalità)",
+                    "ko-KR": "멀처로 30명의 적을 사살하십시오. (게임 모드 상관 없음)",
+                    "pl-PL": "Zabij 30 wrogów za pomocą stacjonarnego działka Gatlinga (w dowolnym trybie)",
+                    "ru-RU": "Убейте 30 врагов с помощью многоствольного пулемета  из стационарного положения",
+                    "zh-CHT": "不限模式，使用固定在掩蔽物上的慕丘機槍殺死三十名敵軍。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "30.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Schreck und Furcht",
+                    "en-US": "Shock and Awe",
+                    "es-ES": "Conmoción y terror",
+                    "fr-FR": "Choc et effroi",
+                    "it-IT": "Stupore e sconvolgimento",
+                    "ko-KR": "충격과 공포",
+                    "pl-PL": "Wściekłość i wrzask",
+                    "ru-RU": "Шок и страх",
+                    "zh-CHT": "迫擊砲高手"
+                },
+                "description": {
+                    "de-DE": "30 Feinde mit Tod aus dem Himmel bestraft",
+                    "en-US": "Killed 30 enemies raining down death from the sky",
+                    "es-ES": "30 enemigos exterminados con una lluvia mortal",
+                    "fr-FR": "30 ennemis abattus par la mort venue du ciel",
+                    "it-IT": "Uccisi 30 nemici con una pioggia mortale dal cielo",
+                    "ko-KR": "하늘에서 내리는 죽음의 비로 30명의 적을 사살했습니다.",
+                    "pl-PL": "Udało ci się zabić 30 wrogów sprowadzając śmierć z niebios",
+                    "ru-RU": "Убито 30 врагов из миномета",
+                    "zh-CHT": "已使用迫擊砲殺死三十名敵軍。"
+                },
+                "howto": {
+                    "de-DE": "30 Feinde mit dem schweren Mörser töten (beliebiger Modus)",
+                    "en-US": "Kill 30 enemies with the heavy Mortar (any mode)",
+                    "es-ES": "Exterminar 30 enemigos con un mortero pesado (cualquier modo)",
+                    "fr-FR": "Tuez 30 ennemis avec le mortier lourd (tout mode)",
+                    "it-IT": "Uccidi 30 nemici con il fuoco pesante dei mortai (qualsiasi modalità)",
+                    "ko-KR": "박격포로 30명의 적을 사살하십시오. (게임 모드 상관 없음)",
+                    "pl-PL": "Zabij 30 wrogów za pomocą ciężkiego moździerza (w dowolnym trybie)",
+                    "ru-RU": "Убейте 30 врагов из миномета (в любом режиме)",
+                    "zh-CHT": "使用迫擊砲殺死三十名敵軍。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "31.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Da sagt die Spinne zu der Fliege",
+                    "en-US": "Said the Spider to the Fly",
+                    "es-ES": "Le dijo la araña a la mosca",
+                    "fr-FR": "Dit l'araignée à la mouche",
+                    "it-IT": "Disse il ragno alla mosca",
+                    "ko-KR": "거미가 파리를 사냥하듯",
+                    "pl-PL": "Powiedział pająk do muchy",
+                    "ru-RU": "Колобок, сядь ко мне на язычок",
+                    "zh-CHT": "地雷專家"
+                },
+                "description": {
+                    "de-DE": "Erfolgreich Granaten als Minen benutzt",
+                    "en-US": "Effectively used grenade mines",
+                    "es-ES": "Minas de proximidad con granadas usadas eficazmente",
+                    "fr-FR": "Mines à grenades utilisées efficacement",
+                    "it-IT": "Mine utilizzate efficacemente",
+                    "ko-KR": "수류탄을 효과적으로 근접 지뢰처럼 사용했습니다.",
+                    "pl-PL": "Udało ci się skutecznie użyć min z granatów",
+                    "ru-RU": "Эффективно использовал гранатные ловушки",
+                    "zh-CHT": "已用榴彈當作地雷殺死多位敵軍。"
+                },
+                "howto": {
+                    "de-DE": "10 Feinde mit als Falle gelegten Granaten töten (beliebiger Modus)",
+                    "en-US": "Kill 10 enemies with a planted grenade (any mode)",
+                    "es-ES": "Exterminar a 10 enemigos con una granada colocada (cualquier modo)",
+                    "fr-FR": "Tuez 10 ennemis avec une grenade plantée (tout mode)",
+                    "it-IT": "Uccidi 10 nemici con una granata armata (qualsiasi modalità)",
+                    "ko-KR": "수류탄 부착으로 10명의 적을 사살하십시오. (게임 모드 상관 없음)",
+                    "pl-PL": "Zabij 10 wrogów za pomocą podłożonego granatu (w dowolnym trybie)",
+                    "ru-RU": "Убейте 10 врагов с помощью гранатной мины-ловушки",
+                    "zh-CHT": "不限模式，放置榴彈殺死十名敵軍。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "32.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Aufruhrbekämpfung",
+                    "en-US": "Crowd Control",
+                    "es-ES": "Control de masas",
+                    "fr-FR": "Contrôle des foules",
+                    "it-IT": "Controllo della folla",
+                    "ko-KR": "군중 진압",
+                    "pl-PL": "Kontrola tłumu",
+                    "ru-RU": "Омоновец",
+                    "zh-CHT": "射擊好手"
+                },
+                "description": {
+                    "de-DE": "Körpereinsatz mit dem Boomer-Schild gezeigt",
+                    "en-US": "Got up close and personal with the Boomshield",
+                    "es-ES": "Acercar el escudo acorazado",
+                    "fr-FR": "Bouclier de Boomer apprivoisé",
+                    "it-IT": "Un incontro ravvicinato con lo scudo",
+                    "ko-KR": "붐실드를 장착한 상태에서 가까이에 있는 적을 근접 공격으로 해치웠습니다.",
+                    "pl-PL": "Udało Ci się blisko podejść do wroga używając tarczy.",
+                    "ru-RU": "Обучился навыку использования щита",
+                    "zh-CHT": "使用防護盾時，近距離殺死敵軍。"
+                },
+                "howto": {
+                    "de-DE": "10 Feinde im Nahkampf mit dem Boomer-Schild niederschlagen (beliebiger Modus)",
+                    "en-US": "Melee 10 enemies down with the Boomshield equipped (any mode)",
+                    "es-ES": "Atacar cuerpo a cuerpo y derribar a 10 enemigos con el escudo acorazado (cualquier modo)",
+                    "fr-FR": "Battez 10 ennemis au corps-à-corps avec le bouclier de Boomer (tout mode)",
+                    "it-IT": "Atterra 10 nemici armato di scudo nel corpo a corpo (qualsiasi modalità)",
+                    "ko-KR": "붐실드를 장착한 상태에서 10명의 적을 근접 공격으로 해치우십시오. (게임 모드 상관 없음)",
+                    "pl-PL": "Powal 10 przeciwników zasłaniając się tarczą (w dowolnym trybie)",
+                    "ru-RU": "Повалите в рукопашном бою 10 врагов, защищаясь щитом (в любом режиме)",
+                    "zh-CHT": "不限模式，躲在防護盾後以近戰擊敗十名敵軍。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "33.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "Das riecht nach Sieg",
+                    "en-US": "Smells Like Victory",
+                    "es-ES": "Huele a victoria",
+                    "fr-FR": "Une odeur de victoire",
+                    "it-IT": "Profumo di vittoria",
+                    "ko-KR": "승리의 향기",
+                    "pl-PL": "Zapach zwycięstwa",
+                    "ru-RU": "Запахло победой",
+                    "zh-CHT": "火烤大餐"
+                },
+                "description": {
+                    "de-DE": "30 Feinde abgefackelt",
+                    "en-US": "Torched 30 enemies",
+                    "es-ES": "30 enemigos quemados",
+                    "fr-FR": "30 ennemis enflammés",
+                    "it-IT": "30 nemici carbonizzati",
+                    "ko-KR": "30명의 적을 통구이로 만들었습니다.",
+                    "pl-PL": "Udało ci się spalić 30 wrogów",
+                    "ru-RU": "Сожжено 30 врагов",
+                    "zh-CHT": "已燒死三十名敵軍。"
+                },
+                "howto": {
+                    "de-DE": "30 Feinde mit dem Scorcher-Flammenwerfer töten (beliebiger Modus)",
+                    "en-US": "Kill 30 enemies with the Scorcher Flamethrower (any mode)",
+                    "es-ES": "Exterminar a 30 enemigos con el lanzallamas abrasador (cualquier modo)",
+                    "fr-FR": "Tuez 30 ennemis avec le lance-flammes Calcinator (tout mode)",
+                    "it-IT": "Uccidi 30 nemici con il lanciafiamme Scorcher (qualsiasi modalità)",
+                    "ko-KR": "스콜처 화염방사기로 30명의 적을 사살하십시오. (게임 모드 상관 없음)",
+                    "pl-PL": "Zabij 30 wrogów za pomocą miotacza ognia (w dowolnym trybie)",
+                    "ru-RU": "Убить 30 врагов из огнемета (любой режим)",
+                    "zh-CHT": "不限模式，使用地獄火焰發射器殺死三十名敵軍。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "34.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Nochmal mit Gefühl",
+                    "en-US": "Once More, With Feeling",
+                    "es-ES": "Una vez más, con sentimiento",
+                    "fr-FR": "Encore une fois, avec les tripes",
+                    "it-IT": "Ancora una volta, con sentimento",
+                    "ko-KR": "재장전의 달인",
+                    "pl-PL": "Jeszcze raz, ale z uczuciem",
+                    "ru-RU": "Еще раз, с чувством",
+                    "zh-CHT": "彈藥裝填高手"
+                },
+                "description": {
+                    "de-DE": "Die Kunst des aktiven Nachladens gemeistert",
+                    "en-US": "Mastered the ways of the Active Reload",
+                    "es-ES": "Dominio de los modos de Recarga activa",
+                    "fr-FR": "Rechargement éclair maîtrisé",
+                    "it-IT": "Hai compreso il sistema di Ricarica attiva",
+                    "ko-KR": "빠른 재장전을 완벽하게 몸에 익혔습니다.",
+                    "pl-PL": "Udało się opanować aktywne przeładowanie",
+                    "ru-RU": "Овладел навыком активной перезарядки",
+                    "zh-CHT": "擁有高超的主動裝填彈藥技巧。"
+                },
+                "howto": {
+                    "de-DE": "30 mal perfekt aktiv nachgeladen (beliebiger Modus)",
+                    "en-US": "Perform 30 perfect Active Reloads (any mode)",
+                    "es-ES": "Realizar 30 Recargas activas perfectas (cualquier modo)",
+                    "fr-FR": "Effectuer 30 rechargements éclairs parfaits (tout mode)",
+                    "it-IT": "Esegui 30 Ricariche attive perfette (qualsiasi modalità)",
+                    "ko-KR": "완벽하게 빠른 재장전을 30번 수행하십시오. (게임 모드 상관 없음)",
+                    "pl-PL": "Wykonaj 30 idealnych aktywnych przeładowań (w dowolnym trybie)",
+                    "ru-RU": "Выполните 30 безупречных активных перезарядок (в любом режиме)",
+                    "zh-CHT": "不限模式，完成 30 次完美的主動裝填彈藥。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "35.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Wie geleckt",
+                    "en-US": "Takes a Licking",
+                    "es-ES": "Hace falta una paliza",
+                    "fr-FR": "Prend une raclée",
+                    "it-IT": "Una batosta",
+                    "ko-KR": "티커 사냥꾼",
+                    "pl-PL": "Tyku, tyku, mój ty smyku",
+                    "ru-RU": "Взбучка не по-детски",
+                    "zh-CHT": "除蟲大師"
+                },
+                "description": {
+                    "de-DE": "30 Zecken zerquetscht",
+                    "en-US": "Bashed 30 Tickers",
+                    "es-ES": "30 Ticker golpeados",
+                    "fr-FR": "30 Tickers cognés",
+                    "it-IT": "30 Ticker pestati",
+                    "ko-KR": "티커 30마리를 사살했습니다.",
+                    "pl-PL": "Udało się powalić 30 tickerów",
+                    "ru-RU": "Разнес вдребезги 30 тикеров",
+                    "zh-CHT": "消滅 30 隻爆雷蟲。"
+                },
+                "howto": {
+                    "de-DE": "30 Zecken im Nahkampf getötet (beliebiger Modus)",
+                    "en-US": "Melee 30 Tickers (any mode)",
+                    "es-ES": "Atacar cuerpo a cuerpo 30 Ticker (cualquier modo)",
+                    "fr-FR": "30 Tickers au corps-à-corps (tout mode)",
+                    "it-IT": "Corpo a corpo con 30 Ticker (qualsiasi modalità)",
+                    "ko-KR": "티커 30마리를 사살하십시오. (게임 모드 상관 없음)",
+                    "pl-PL": "Powal 30 tickerów (w dowolnym trybie)",
+                    "ru-RU": "Убейте в рукопашном бою 30 тикеров (в любом режиме)",
+                    "zh-CHT": "不限模式，使用近戰擊敗 30 隻爆雷蟲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "36.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Mischung macht's",
+                    "en-US": "Variety Is the Spice of Death",
+                    "es-ES": "La variedad da sabor a la muerte",
+                    "fr-FR": "La diversité pimente la mort",
+                    "it-IT": "La varietà è il sale della morte",
+                    "ko-KR": "골라 쓰는 연장의 재미",
+                    "pl-PL": "Śmierć ma wiele twarzy",
+                    "ru-RU": "Разнообразие - приправа к смерти",
+                    "zh-CHT": "武器專家"
+                },
+                "description": {
+                    "de-DE": "Mit jeder Waffe ein Feind getötet",
+                    "en-US": "Killed an enemy with every weapon",
+                    "es-ES": "Un enemigo exterminado con cada arma",
+                    "fr-FR": "Ennemi tué avec toutes les armes",
+                    "it-IT": "Ucciso un nemico con ogni arma",
+                    "ko-KR": "모든 무기를 사용하여 적을 사살했습니다.",
+                    "pl-PL": "Udało ci się zabić przeciwnika za pomocą każdej broni",
+                    "ru-RU": "Враг убит из каждого оружия",
+                    "zh-CHT": "已使用全部的武器殺死敵人。"
+                },
+                "howto": {
+                    "de-DE": "Mit jeder Waffe im Spiel einen Feind töten (beliebiger Modus)",
+                    "en-US": "Kill an enemy with every weapon in the game (any mode)",
+                    "es-ES": "Exterminar a un enemigo con cada arma del juego (cualquier modo)",
+                    "fr-FR": "Tuez un ennemi avec toutes les armes du jeu (tout mode)",
+                    "it-IT": "Uccidi un nemico con ogni arma del gioco (qualsiasi modalità)",
+                    "ko-KR": "게임에 등장하는 모든 무기를 사용하여 적을 사살하십시오. (게임 모드 상관 없음)",
+                    "pl-PL": "Zabij przeciwnika każdą bronią dostępną w grze (w dowolnym trybie)",
+                    "ru-RU": "Убить врага из каждого оружия (любой режим)",
+                    "zh-CHT": "不限模式，在遊戲中用遍所有武器殺敵。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "37.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "de-DE": "Immer schön nachtreten",
+                    "en-US": "Kick 'Em When They're Down",
+                    "es-ES": "¡Rematad a los heridos!",
+                    "fr-FR": "Frappez quand ils sont à terre",
+                    "it-IT": "Infierisci quando sono a terra",
+                    "ko-KR": "쓰러진 적은 밟아버려",
+                    "pl-PL": "Dobij powalonych",
+                    "ru-RU": "Добей раненых",
+                    "zh-CHT": "心狠手辣"
+                },
+                "description": {
+                    "de-DE": "Henker aus Leidenschaft",
+                    "en-US": "Executioner with style",
+                    "es-ES": "Verdugo con estilo",
+                    "fr-FR": "Bourreau avec style",
+                    "it-IT": "Boia con stile",
+                    "ko-KR": "다양한 방법으로 적을 처형했습니다.",
+                    "pl-PL": "Kat z poczuciem stylu",
+                    "ru-RU": "Искусный палач",
+                    "zh-CHT": "已使用眾多方式處決敵軍。"
+                },
+                "howto": {
+                    "de-DE": "Alle 11 einzigartigen Hinrichtungen an einem am Boden liegenden Feind vollziehen",
+                    "en-US": "Perform all 11 unique executions on a downed enemy",
+                    "es-ES": "Realizar las 11 ejecuciones únicas contra un enemigo derribado",
+                    "fr-FR": "Effectuez 11exécutions uniques sur un ennemi à terre",
+                    "it-IT": "Fai 11 esecuzioni uniche su un nemico atterrato",
+                    "ko-KR": "11종류의 다양한 방법으로 쓰러진 적을 처형하십시오.",
+                    "pl-PL": "Wykonaj 11 unikalnych egzekucji na pokananym przeciwniku",
+                    "ru-RU": "Выполните добивание сбитого с ног противника всеми доступными 11 способами",
+                    "zh-CHT": "使用 11 種不同的方式處決倒下的敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "38.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "de-DE": "2.0 Ernstgemeint",
+                    "en-US": "Seriously 2.0",
+                    "es-ES": "Seriamente 2.0",
+                    "fr-FR": "Sérieux 2.0",
+                    "it-IT": "Seriamente 2.0",
+                    "ko-KR": "새롭게 태어난 전쟁의 신",
+                    "pl-PL": "Na poważnie 2.0",
+                    "ru-RU": "Серьезный противник",
+                    "zh-CHT": "不同凡響"
+                },
+                "description": {
+                    "de-DE": "100.000 Feinde getötet",
+                    "en-US": "Killed 100,000 enemies",
+                    "es-ES": "100.000 enemigos exterminados",
+                    "fr-FR": "100 000 ennemis abattus",
+                    "it-IT": "Uccisi 100.000 nemici",
+                    "ko-KR": "적 10만 명을 사살했습니다.",
+                    "pl-PL": "Zabito 100 000 wrogów",
+                    "ru-RU": "Убито 100 000 врагов",
+                    "zh-CHT": "已殺死 10 萬名敵軍。"
+                },
+                "howto": {
+                    "de-DE": "100.000 Feinde töten (beliebiger Modus)",
+                    "en-US": "Kill 100,000 enemies (any mode)",
+                    "es-ES": "Exterminar a 100.000 enemigos (cualquier modo)",
+                    "fr-FR": "Tuez 100 000 ennemis (tout mode)",
+                    "it-IT": "Uccidi 100.000 nemici (qualsiasi modalità)",
+                    "ko-KR": "적 10만 명을 사살하십시오.(게임 모드 상관 없음)",
+                    "pl-PL": "Zabij 100 000 wrogów (w dowolnym trybie)",
+                    "ru-RU": "Убейте 100 000 врагов (в любом режиме)",
+                    "zh-CHT": "不限模式，殺死 10 萬名敵軍。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "39.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "Fotojournalist",
+                    "en-US": "Photojournalist",
+                    "es-ES": "Periodista gráfico",
+                    "fr-FR": "Photo journaliste",
+                    "it-IT": "Fotoreporter",
+                    "ko-KR": "종군 기자",
+                    "pl-PL": "Fotoreporter",
+                    "ru-RU": "Фоторепортер",
+                    "zh-CHT": "戰地攝影記者"
+                },
+                "description": {
+                    "de-DE": "Zuschauerfoto eingereicht",
+                    "en-US": "Submitted a spectator photo",
+                    "es-ES": "Enviada fotografía de espectador",
+                    "fr-FR": "Photo de spectateur envoyée",
+                    "it-IT": "Inviata la foto di uno spettatore",
+                    "ko-KR": "관전 사진을 제출했습니다.",
+                    "pl-PL": "Wysłano zdjęcie z trybu obserwatora",
+                    "ru-RU": "Опубликовал зрительское фото",
+                    "zh-CHT": "已上傳照片。"
+                },
+                "howto": {
+                    "de-DE": "Ein Zuschauerfoto einreichen",
+                    "en-US": "Submit a spectator photo",
+                    "es-ES": "Enviar una fotografía de espectador",
+                    "fr-FR": "Envoyez une photo de spectateur",
+                    "it-IT": "Invia la foto di uno spettatore",
+                    "ko-KR": "관전 사진을 제출하십시오.",
+                    "pl-PL": "Wyślij zdjęcie z trybu obserwatora",
+                    "ru-RU": "Опубликуйте зрительское фото.",
+                    "zh-CHT": "上傳照片。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "40.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "de-DE": "Ich steh total neben mir",
+                    "en-US": "Standing Here, Beside Myself",
+                    "es-ES": "Aquí, a mi lado",
+                    "fr-FR": "Debout à côté de moi",
+                    "it-IT": "Qui, solo con me stesso",
+                    "ko-KR": "나만 믿고 따라와",
+                    "pl-PL": "Stój tu, obok mnie",
+                    "ru-RU": "Стой тут, рядом со мной",
+                    "zh-CHT": "最佳戰友"
+                },
+                "description": {
+                    "de-DE": "3 Wingman-Spiele gewonnen (außer benutzerdefiniert)",
+                    "en-US": "Won 3 matches of Wingman (not Custom)",
+                    "es-ES": "3 partidas ganadas de Piloto (no personalizadas)",
+                    "fr-FR": "3 parties d'ailier gagnées (pas personnalisé)",
+                    "it-IT": "Vinte 3 partite in modalità Compagno (no personalizzate)",
+                    "ko-KR": "윙맨 매치에서 3번 승리했습니다. (사용자 지정 제외)",
+                    "pl-PL": "Udało ci się wygrać 3 mecze w trybie Skrzydłowy (nie w trybie niestandardowym)",
+                    "ru-RU": "Победил в 3 играх в режиме «Напарник» (кроме пользовательских игр)",
+                    "zh-CHT": "在非自訂的合作遊戲贏得三場最佳搭檔比賽。"
+                },
+                "howto": {
+                    "de-DE": "3 Wingman-Spiele gewinnen (außer benutzerdefiniert)",
+                    "en-US": "Win 3 matches of Wingman (not Custom)",
+                    "es-ES": "Ganar 3 partidas de Piloto (no personalizadas)",
+                    "fr-FR": "Gagnez 3 parties d'ailier (pas personnalisé)",
+                    "it-IT": "Vinci 3 partite in modalità Compagno (no personalizzate)",
+                    "ko-KR": "윙맨 매치에서 3번 승리하십시오. (사용자 지정 제외)",
+                    "pl-PL": "Wygraj 3 mecze w trybie Skrzydłowy (nie w trybie niestandardowym)",
+                    "ru-RU": "Победите в 3 играх в режиме «Напарник» (кроме пользовательских игр)",
+                    "zh-CHT": "在非自訂的合作遊戲贏得三場最佳搭檔比賽。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "41.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "Zivilistenhatz",
+                    "en-US": "Beat the Meatflag",
+                    "es-ES": "Derrotar al civil",
+                    "fr-FR": "Battez le fugitif",
+                    "it-IT": "Sconfiggi la bandiera di carne",
+                    "ko-KR": "포로 사냥",
+                    "pl-PL": "Pojmanie żywej flagi",
+                    "ru-RU": "Победитель живого флага",
+                    "zh-CHT": "挾持好手"
+                },
+                "description": {
+                    "de-DE": "10 Zivilisten gefangen genommen (außer benutzerdefiniert)",
+                    "en-US": "Captured 10 meatflags (not Custom)",
+                    "es-ES": "Capturados 10 civiles (no personalizadas)",
+                    "fr-FR": "10 fugitifs capturés (pas personnalisé)",
+                    "it-IT": "Catturate 10 bandiere di carne (no personalizzate)",
+                    "ko-KR": "10명의 포로를 납치했습니다. (사용자 지정 제외)",
+                    "pl-PL": "Udało ci się przechwycić 10 żywych flag (nie w trybie niestandardowym)",
+                    "ru-RU": "Живой флаг захвачен 10 раз (кроме пользовательских игр)",
+                    "zh-CHT": "在非自訂的合作遊戲擄獲十名肉票。"
+                },
+                "howto": {
+                    "de-DE": "10 Zivilisten bei Unterdrückung gefangen nehmen (außer benutzerdefiniert)",
+                    "en-US": "Capture 10 meatflags in Submission (not Custom)",
+                    "es-ES": "Capturar 3 civiles en Sumisión (no personalizadas)",
+                    "fr-FR": "Capturez 10 fugitifs en mode Fugitif (pas personnalisé)",
+                    "it-IT": "Cattura 10 bandiere di carne in Capitolazione (no personalizzate)",
+                    "ko-KR": "납치 게임에서 10명의 포로를 납치하십시오. (사용자 지정 제외)",
+                    "pl-PL": "Przechwyć 10 żywych flag w trybie Pojmanie (nie w trybie niestandardowym)",
+                    "ru-RU": "Захватите живой флаг 10 раз в режиме игры «Живой щит»  (кроме пользовательских игр)",
+                    "zh-CHT": "在非自訂的合作遊戲的武力挾持模式中，擄獲十名肉票。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "42.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "Es tut gut, König zu sein",
+                    "en-US": "It's Good to be the King",
+                    "es-ES": "No hay nada mejor que ser el Rey",
+                    "fr-FR": "C'est bon d'être le roi",
+                    "it-IT": "È bello essere il Re",
+                    "ko-KR": "왕이 될 자격을 갖춘 자",
+                    "pl-PL": "Dobrze jest być królem",
+                    "ru-RU": "Хорошо быть королем",
+                    "zh-CHT": "勝者為王"
+                },
+                "description": {
+                    "de-DE": "10 Runden Beschützer als Anführer gewonnen (außer benutzerdefiniert)",
+                    "en-US": "Won 10 rounds of Guardian as the leader (not Custom)",
+                    "es-ES": "10 rondas ganadas con Guardia de líder (no personalizadas)",
+                    "fr-FR": "10 manches en mode Leader gagnées en tant que leader (pas personnalisé)",
+                    "it-IT": "Vinti 10 turni di Guardiano come capo (no personalizzate)",
+                    "ko-KR": "리더로서 호위 게임 10라운드를 승리로 이끌었습니다. (사용자 지정 제외)",
+                    "pl-PL": "Udało ci się wygrać 10 rund w trybie Strażnik (nie w trybie niestandardowym)",
+                    "ru-RU": "Выиграно 10 раундов в режиме игры «Страж» в качестве командира  (кроме пользовательских игр)",
+                    "zh-CHT": "在非自訂的合作遊戲，以隊長身分贏得三場隊長保衛戰。"
+                },
+                "howto": {
+                    "de-DE": "10 Runden Beschützer als Anführer gewinnen (außer benutzerdefiniert)",
+                    "en-US": "Win 10 rounds of Guardian as the leader (not Custom)",
+                    "es-ES": "Ganar 10 rondas con Guardia de líder (no personalizadas)",
+                    "fr-FR": "Gagnez 10 manches en mode Leader en tant que leader (pas personnalisé)",
+                    "it-IT": "Vinci 10 turni di Guardiano come capo (no personalizzate)",
+                    "ko-KR": "리더로서 호위 게임 10라운드를 승리로 이끄십시오. (사용자 지정 제외)",
+                    "pl-PL": "Wygraj 10 rund w trybie Strażnik (nie w trybie niestandardowym)",
+                    "ru-RU": "Выиграйте командиром в 10 раундах игры «Страж» (кроме пользовательских игр)",
+                    "zh-CHT": "在非自訂的合作遊戲，以隊長身分贏得三場隊長保衛戰。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "43.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "de-DE": "Geht vor, ich komm schon zurecht",
+                    "en-US": "You Go Ahead, I'll Be Fine",
+                    "es-ES": "Márchate, estaré bien",
+                    "fr-FR": "Vas-y, je vais me débrouiller",
+                    "it-IT": "Tu vai avanti, io starò bene",
+                    "ko-KR": "난 괜찮으니 어서 가봐",
+                    "pl-PL": "Idź przodem, poradzę sobie",
+                    "ru-RU": "Иди первым, я справлюсь",
+                    "zh-CHT": "犧牲小我"
+                },
+                "description": {
+                    "de-DE": "3 Spiele König des Hügels gewonnen (außer benutzerdefiniert)",
+                    "en-US": "Won 3 matches of King of the Hill (not Custom)",
+                    "es-ES": "3 partidas ganadas de Rey de la colina (no personalizadas)",
+                    "fr-FR": "3 parties roi de la colline gagnées (pas personnalisé)",
+                    "it-IT": "Vinte 3 partite di Re della collina (no personalizzate)",
+                    "ko-KR": "고지 점령 매치에서 3번 승리했습니다. (사용자 지정 제외)",
+                    "pl-PL": "Udało ci się wygrać 3 mecze w trybie Król Wzgórza (nie w trybie niestandardowym)",
+                    "ru-RU": "Выиграно 3 игры в режиме «Царь горы» (кроме пользовательских игр)",
+                    "zh-CHT": "在非自訂的合作遊戲贏得三場山丘之王比賽。"
+                },
+                "howto": {
+                    "de-DE": "3 Spiele König des Hügels gewinnen (außer benutzerdefiniert)",
+                    "en-US": "Win 3 matches of King of the Hill (not Custom)",
+                    "es-ES": "Ganar 3 partidas de Rey de la colina (no personalizadas)",
+                    "fr-FR": "Gagnez 3 parties roi de la colline (pas personnalisé)",
+                    "it-IT": "Vinci 3 partite di Re della collina (no personalizzate)",
+                    "ko-KR": "고지 점령 매치에서 3번 승리하십시오. (사용자 지정 제외)",
+                    "pl-PL": "Wygraj 3 mecze w trybie Król Wzgórza (nie w trybie niestandardowym)",
+                    "ru-RU": "Выиграйте 3 игры в режиме «Царь горы» (кроме пользовательских игр)",
+                    "zh-CHT": "在非自訂的合作遊戲贏得三場山丘之王比賽。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "44.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "Zurück zu den Wurzeln",
+                    "en-US": "Back to Basic",
+                    "es-ES": "Vuelta a lo básico",
+                    "fr-FR": "Retour aux bases",
+                    "it-IT": "Di nuovo in Addestramento",
+                    "ko-KR": "초심으로 돌아가서",
+                    "pl-PL": "Powrót do podstaw",
+                    "ru-RU": "Обратно к основам",
+                    "zh-CHT": "基礎扎實"
+                },
+                "description": {
+                    "de-DE": "Alle Übungsgelände-Spiele gewonnen",
+                    "en-US": "Won all Training Grounds matches",
+                    "es-ES": "Ganadas todas las partidas de Campos de entrenamiento",
+                    "fr-FR": "Toutes les parties Camp d'entraînement gagnées",
+                    "it-IT": "Vinte tutte le partite di Campi di addestramento",
+                    "ko-KR": "훈련장 매치를 완료했습니다.",
+                    "pl-PL": "Udało się zwyciężyć we wszystkich meczach na poligonie szkoleniowym",
+                    "ru-RU": "Победил во всех играх на полигоне",
+                    "zh-CHT": "已贏得所有練習課程配對。"
+                },
+                "howto": {
+                    "de-DE": "Die 5 Lektionen auf den Multiplayer-Übungsgeländen abschließen",
+                    "en-US": "Successfully complete the 5 lessons of multiplayer Training Grounds",
+                    "es-ES": "Completar con éxito las 5 lecciones de Campos de entrenamiento multijugador",
+                    "fr-FR": "Terminez les 5 leçons du camp d'entraînement multijoueurs",
+                    "it-IT": "Completa le 5 lezioni multiplayer di Campi di addestramento",
+                    "ko-KR": "멀티 플레이 훈련장에서 5개의 코스를 성공적으로 완료하십시오.",
+                    "pl-PL": "Ukończ wszystkie 5 lekcji na poligonie szkoleniowym",
+                    "ru-RU": "Пройти обучение основам многопользовательской игры на полигоне (все 5 уроков)",
+                    "zh-CHT": "完成多人遊戲中全部的練習課程。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "45.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein Abschiedsgeschenk",
+                    "en-US": "A Parting Gift",
+                    "es-ES": "Un regalito de despedida",
+                    "fr-FR": "Cadeau de départ",
+                    "it-IT": "Un dono d'addio",
+                    "ko-KR": "작별 선물",
+                    "pl-PL": "Podarunek na rozstanie",
+                    "ru-RU": "Прощальный подарок",
+                    "zh-CHT": "臨別贈禮"
+                },
+                "description": {
+                    "de-DE": "10 Feinde vom Boden aus mit Granaten getötet",
+                    "en-US": "Killed 10 enemies with a grenade while down but not out",
+                    "es-ES": "10 enemigos exterminados con una granada mientras estaban abatidos, pero no muertos",
+                    "fr-FR": "10 ennemis tués à la grenade en étant à terre",
+                    "it-IT": "Uccisi 10 nemici con una granata mentre eri a terra ma non morto",
+                    "ko-KR": "넉다운 상태에서 수류탄으로 10명의 적을 사살했습니다.",
+                    "pl-PL": "Udało ci się zabić 10 wrogów granatem, kiedy byłeś powalony lecz wciąż żywy",
+                    "ru-RU": "Убил 10 сбитых с ног врагов гранатой",
+                    "zh-CHT": "當您倒下但尚未死亡時，用榴彈殺死十名敵軍。"
+                },
+                "howto": {
+                    "de-DE": "10 Feinde vom Boden aus mit Granaten töten (beliebiger Modus)",
+                    "en-US": "Kill 10 enemies with a grenade while down but not out (any mode)",
+                    "es-ES": "Exterminar a 10 enemigos con una granada mientras están abatidos, pero no muertos (cualquier modo)",
+                    "fr-FR": "Tuez 10 ennemis à la grenade en étant à terre (tout mode)",
+                    "it-IT": "Uccidi 10 nemici con una granata mentre sei a terra ma non morto (qualsiasi modalità)",
+                    "ko-KR": "넉다운 상태에서 수류탄으로 10명의 적을 사살하십시오. (게임 모드 상관 없음)",
+                    "pl-PL": "Zabij 10 wrogów granatem, kiedy będziesz powalony lecz wciąż żywy (w dowolnym trybie)",
+                    "ru-RU": "Убейте 10 сбитых с ног врагов гранатой (в любом режиме)",
+                    "zh-CHT": "不限模式，當您倒下但尚未死亡時，用榴彈殺死十名敵軍。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "46.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "de-DE": "Feiern wir, als wär's 1999",
+                    "en-US": "Party Like It's 1999",
+                    "es-ES": "Diviértete como si fuera 1999",
+                    "fr-FR": "Amusez-vous comme en 1999",
+                    "it-IT": "Festeggiamo il 1999",
+                    "ko-KR": "뉴 밀레니엄 파티처럼",
+                    "pl-PL": "Baw się jak w 1999",
+                    "ru-RU": "Вечеринка, как в 1999 г",
+                    "zh-CHT": "1999 派對狂人"
+                },
+                "description": {
+                    "de-DE": "1999 Runden Multiplayer gespielt",
+                    "en-US": "Played 1999 rounds in multiplayer",
+                    "es-ES": "1999 rondas jugadas en multijugador",
+                    "fr-FR": "1 999 manches jouées en multijoueur",
+                    "it-IT": "1999 turni giocati in multiplayer",
+                    "ko-KR": "멀티 플레이로 1,999라운드를 플레이했습니다.",
+                    "pl-PL": "Udało ci się rozegrać 1999 rund w trybie wieloosobowym",
+                    "ru-RU": "Сыграно 1999 раундов в многопользовательском режиме",
+                    "zh-CHT": "已進行 1999 場多人遊戲。"
+                },
+                "howto": {
+                    "de-DE": "1999 Runden Multiplayer spielen (beliebiger Modus)",
+                    "en-US": "Play 1999 rounds of multiplayer (any mode)",
+                    "es-ES": "Jugar 1999 rondas de multijugador (cualquier modo)",
+                    "fr-FR": "Jouez 1 999 manches en multijoueur (tout mode)",
+                    "it-IT": "Gioca 1999 turni di multiplayer (qualsiasi modalità)",
+                    "ko-KR": "멀티 플레이로 1,999라운드를 플레이하십시오. (게임 모드 상관 없음)",
+                    "pl-PL": "Rozegraj 1999 rund w grze wieloosobowej (w dowolnym trybie)",
+                    "ru-RU": "Сыграть 1999 раундов в многопользовательском режиме (любая игра)",
+                    "zh-CHT": "不限模式，進行 1999 場多人遊戲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "47.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "de-DE": "Um die ganze Welt, mal wieder",
+                    "en-US": "Around the World, Again",
+                    "es-ES": "Alrededor del mundo, otra vez",
+                    "fr-FR": "Autour du monde, encore",
+                    "it-IT": "Ancora intorno al mondo",
+                    "ko-KR": "또 한 번의 세계 일주",
+                    "pl-PL": "Wokół świata, jeszcze raz",
+                    "ru-RU": "Снова вокруг света",
+                    "zh-CHT": "地圖專家"
+                },
+                "description": {
+                    "de-DE": "Ein Spiel auf jeder mit dem Spiel gelieferten Karte gewonnen",
+                    "en-US": "Won a match on every map shipped with the game",
+                    "es-ES": "Una partida ganada con cada mapa del juego",
+                    "fr-FR": "Partie gagnée sur toutes les cartes livrées avec le jeu",
+                    "it-IT": "Vinta una partita su ogni mappa fornita con il gioco",
+                    "ko-KR": "게임에 기본으로 포함된 모든 맵을 사용한 매치에서 한 번씩 모두 승리했습니다.",
+                    "pl-PL": "Udało ci się zwyciężyć na każdej mapie w grze",
+                    "ru-RU": "Одержана победа в игре на каждой из основных карт",
+                    "zh-CHT": "贏得遊戲片中所有地圖的競賽各一場以上。"
+                },
+                "howto": {
+                    "de-DE": "Ein Multiplayer-Spiel auf jeder der 10 mitgelieferten Karten gewinnen (beliebiger Modus)",
+                    "en-US": "Win a multiplayer match on each of the 10 shipped maps (any mode)",
+                    "es-ES": "Ganar en una partida multijugador en cada uno de los 10 mapas incluidos (cualquier modo)",
+                    "fr-FR": "Gagnez une partie multijoueur sur toutes les cartes livrées avec le jeu (tout mode)",
+                    "it-IT": "Vinci una partita multiplayer su ciascuna delle 10 mappe fornite (qualsiasi modalità)",
+                    "ko-KR": "게임에 포함된 10개의 맵에서 멀티 플레이 매치로 모두 승리하십시오. (게임 모드 상관 없음)",
+                    "pl-PL": "Wygraj w meczu wieloosobowym na każdej z 10 map (w dowolnym trybie)",
+                    "ru-RU": "Одержите победу в многопользовательской игре на каждой из 10 основных карт",
+                    "zh-CHT": "不限模式，贏得遊戲片中所有地圖的競賽各一場以上。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "48.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "Schmutzige, schmutzige Horde",
+                    "en-US": "Dirty, Dirty Horde",
+                    "es-ES": "Horda, sucia horda",
+                    "fr-FR": "Sale, sale horde",
+                    "it-IT": "Quella lurida Orda",
+                    "ko-KR": "더러운, 너무 더러운 호드",
+                    "pl-PL": "Niegrzeczna, niegrzeczna horda",
+                    "ru-RU": "Грязная, грязная орда",
+                    "zh-CHT": "獸族屠夫"
+                },
+                "description": {
+                    "de-DE": "10 Horde-Wellen als Team überlebt",
+                    "en-US": "Team survived 10 Horde waves",
+                    "es-ES": "El equipo sobrevivió a 10 oleadas de hordas",
+                    "fr-FR": "10 vagues de la horde repoussées par l'équipe",
+                    "it-IT": "La Squadra è sopravvissuta a 10 ondate di Orde",
+                    "ko-KR": "호드 게임 전투 10에서 승리했습니다.",
+                    "pl-PL": "Zespół przetrwał 10 fal ataków w trybie Hordy",
+                    "ru-RU": "Команда выжила в 10 схватках с ордой",
+                    "zh-CHT": "抵擋十波獸族部隊的攻擊。"
+                },
+                "howto": {
+                    "de-DE": "Die ersten 10 Wellen der Horde überleben (beliebiger Schwierigkeitsgrad, beliebige Karte)",
+                    "en-US": "Survive the first 10 waves of Horde (any difficulty, any map)",
+                    "es-ES": "Sobrevivir a las 10 primeras oleadas de una horda (cualquier dificultad, cualquier mapa)",
+                    "fr-FR": "Repoussez les 10 premières vagues de la horde (toute difficulté, toute carte)",
+                    "it-IT": "Sopravvivi alle prime 10 ondate di Orde (qualsiasi difficoltà, qualsiasi mappa)",
+                    "ko-KR": "호드 게임 전투 10에서 승리하십시오. (난이도, 맵 상관 없음)",
+                    "pl-PL": "Przetrwaj 10 fal ataków w trybie Hordy (dowolny poziom trudności i mapa)",
+                    "ru-RU": "Выжить в первых 10 схватках с ордой (любой уровень сложности, любая карта)",
+                    "zh-CHT": "不限難度及地圖，抵擋十波獸族部隊的攻擊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "49.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Horde Härte zeigen",
+                    "en-US": "Hoard the Horde",
+                    "es-ES": "Reunir a la horda",
+                    "fr-FR": "Amassez la horde",
+                    "it-IT": "Afferra l'Orda",
+                    "ko-KR": "호드 시체의 산",
+                    "pl-PL": "Opanuj hordę",
+                    "ru-RU": "Победитель орды",
+                    "zh-CHT": "獸族天敵"
+                },
+                "description": {
+                    "de-DE": "Alle 50 Horde-Wellen als Team überlebt",
+                    "en-US": "Team survived all 50 Horde waves",
+                    "es-ES": "El equipo sobrevivió a las 50 oleadas de la horda",
+                    "fr-FR": "50 vagues de la horde repoussées par l'équipe",
+                    "it-IT": "La Squadra è sopravvissuta a tutte le 50 ondate di Orde",
+                    "ko-KR": "호드 게임 전투 50에서 승리했습니다.",
+                    "pl-PL": "Zespół przetrwał wszystkie 50 fal ataków w trybie Hordy",
+                    "ru-RU": "Команда выжила во всех 50 схватках с ордой",
+                    "zh-CHT": "抵擋五十波獸族部隊的攻擊。"
+                },
+                "howto": {
+                    "de-DE": "Alle 50 Wellen der Horde überleben (beliebiger Schwierigkeitsgrad, beliebige Karte)",
+                    "en-US": "Survive all 50 waves of Horde (any difficulty, any map)",
+                    "es-ES": "Sobrevivir a las 50 oleadas de la horda (cualquier dificultad, cualquier mapa)",
+                    "fr-FR": "Repoussez les 50 vagues de la horde (toute difficulté, toute carte)",
+                    "it-IT": "Sopravvivi a tutte le 50 ondate di Orde (qualsiasi difficoltà, qualsiasi mappa)",
+                    "ko-KR": "호드 게임 전투 50에서 승리하십시오. (난이도, 맵 상관 없음)",
+                    "pl-PL": "Przetrwaj wszystkie 50 fal w trybie Hordy (dowolny poziom trudności i mapa)",
+                    "ru-RU": "Выжить во всех 50 схватках с ордой (любой уровень сложности, любая карта)",
+                    "zh-CHT": "不限難度及地圖，抵擋五十波獸族部隊的攻擊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "50.png"
+        },
+        "51": {
+            "text": {
+                "name": {
+                    "de-DE": "Leichen im Keller",
+                    "en-US": "Skeletons in your Closet",
+                    "es-ES": "Esqueletos en el armario",
+                    "fr-FR": "Des squelettes dans le placard",
+                    "it-IT": "Scheletri nell'armadio",
+                    "ko-KR": "가문의 영광",
+                    "pl-PL": "Kościotrupy w szafie",
+                    "ru-RU": "Скелеты в шкафу",
+                    "zh-CHT": "戰地重現獸族天敵"
+                },
+                "description": {
+                    "de-DE": "Ihr Team hat die ersten 10 Horde-Wellen der Flashback Map Pack-Karten überlebt",
+                    "en-US": "Survived first 10 Horde waves on Flashback Map Pack maps as a team",
+                    "es-ES": "Has sobrevivido a las primeras 10 oleadas de ataque de Horda de los mapas del Flashback como equipo",
+                    "fr-FR": "Vous et votre équipe avez survécu aux dix 1res vagues de la Horde sur les cartes du pack Flashback",
+                    "it-IT": "Sopravvissuto alle prime 10 ondate di Orde sulle mappe del Flashback Map Pack in squadra",
+                    "ko-KR": "모든 플래시백 지도에서 호드 게임의 처음 10번째 전투까지 승리했습니다.",
+                    "pl-PL": "Drużyna przetrwała pierwsze 10 rund w trybie hordy na mapach pakietu Flashback",
+                    "ru-RU": "Выжили в первых 10 волнах Орды на картах из набора «Ретроспектива» в команде",
+                    "zh-CHT": "以團隊方式，使用戰地重現地圖套件中所有地圖，抵擋十波獸族部隊的攻擊。"
+                },
+                "howto": {
+                    "de-DE": "Spielen Sie die Wellen 1 bis 10 (beliebiger Schwierigkeitsgrad) in allen Flashback Map Pack-Karten",
+                    "en-US": "Complete waves 1 through 10 on all Flashback Map Pack maps in Horde (any difficulty)",
+                    "es-ES": "Finaliza las oleadas de ataque de 1 a 10 en todo mapa del Flashback en Horda (cualquier dificultad) ",
+                    "fr-FR": "Repoussez les vagues 1 à 10 de la Horde sur toutes les cartes du pack Flashback (toutes difficultés)",
+                    "it-IT": "Completa le ondate da 1 a 10 su tutte le mappe del Flashback Map Pack in Orda (qualsiasi difficoltà)",
+                    "ko-KR": "모든 플래시백 지도에서 호드와의 첫 번째 전투부터 10번째 전투까지 승리하십시오. (난이도 상관없음)",
+                    "pl-PL": "Ukończ rundy 1-10 wszystkich map pakietu Flashback w trybie hordy (dowolny poziom trudności)",
+                    "ru-RU": "Пройдите волны 1 - 10 на картах из набора «Ретроспектива» в Орде (любая сложность)  ",
+                    "zh-CHT": "不限難度，在戰地重現地圖套件的所有地圖中，抵擋 10 波獸族部隊的攻擊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "51.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "de-DE": "Große Geheimnisse",
+                    "en-US": "More Mystery, Less History",
+                    "es-ES": "Más misterio, menos historia",
+                    "fr-FR": "Du mystère et des histoires",
+                    "it-IT": "Più mistero, meno storia",
+                    "ko-KR": "믿지 못할 전적",
+                    "pl-PL": "Tajemnicze historie",
+                    "ru-RU": "Больше тайн, меньше истории",
+                    "zh-CHT": "戰地重現對戰高手"
+                },
+                "description": {
+                    "de-DE": "Sie haben ein Match auf allen Flashback Map Pack-Karten gewonnen.",
+                    "en-US": "Won a match on each of the Flashback Map Pack maps",
+                    "es-ES": "Has ganado una partida en cada uno de los mapas del paquete de mapas Flashback",
+                    "fr-FR": "Vous avez remporté une partie sur chacune des cartes du pack Flashback",
+                    "it-IT": "Vinta una partita su ciascuna delle mappe del Flashback Map Pack",
+                    "ko-KR": "모든 플래시백 지도에서 한 번씩 매치를 승리했습니다.",
+                    "pl-PL": "Wygrano mecz na każdej z map pakietu Flashback",
+                    "ru-RU": "Выигран матч на каждой карте из набора «Ретроспектива»",
+                    "zh-CHT": "在戰地重現地圖套件中的每張地圖各贏得一場多人遊戲。"
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie ein Multiplayer-Match auf allen 5 Flashback Map Pack-Karten (nicht im Wingman-Modus)",
+                    "en-US": "Win a multiplayer match on each of the 5 Flashback Map Pack maps (any mode except Wingman)",
+                    "es-ES": "Gana una partida multijugador en cada mapa de los 5 del Flashback (cualquier modo excepto Piloto)",
+                    "fr-FR": "Gagnez une partie multijoueur sur chacune des 5 cartes du pack Flashback (tous modes, sauf Ailier)",
+                    "it-IT": "Vinci una partita multiplayer su tutte le 5 mappe del Flashback Map Pack (tranne modalità Compagno)",
+                    "ko-KR": "플래시백 지도 5개 모두에서 멀티 플레이 매치를 승리하십시오. (게임 모드 상관없으나 윙맨은 제외)",
+                    "pl-PL": "Wygraj mecz dla wielu graczy na każdej z 5 map pakietu Flashback (dowolny tryb oprócz skrzydłowego)",
+                    "ru-RU": "Выиграйте многопользовательские матчи на всех 5 картах «Ретроспектива» (любой режим, кроме ведомого)",
+                    "zh-CHT": "以最佳搭檔以外的模式，在戰地重現地圖套件中的每張地圖各贏得一場多人遊戲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "52.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "de-DE": "Gemeinsame Vergangenheit",
+                    "en-US": "Bound by a Shared Past",
+                    "es-ES": "Unidos por un mismo pasado",
+                    "fr-FR": "Liés par un passé commun",
+                    "it-IT": "Uniti da un passato comune",
+                    "ko-KR": "과거에의 집착",
+                    "pl-PL": "Połączeni przeszłością",
+                    "ru-RU": "Связаны общим прошлым",
+                    "zh-CHT": "戰地重現最佳搭檔"
+                },
+                "description": {
+                    "de-DE": "Sie haben ein Wingman-Match auf allen Flashback Map Pack-Karten gewonnen",
+                    "en-US": "Won a Wingman match on each of the Flashback Map Pack maps",
+                    "es-ES": "Has ganado una partida Piloto en cada uno de los mapas del paquete de mapas Flashback",
+                    "fr-FR": "Vous avez remporté une partie en mode Ailier sur chacune des cartes du pack Flashback",
+                    "it-IT": "Vinta una partita in modalità Compagno su ciascuna delle mappe del Flashback Map Pack",
+                    "ko-KR": "모든 플래시백 지도에서 한 번씩 윙맨 매치를 승리했습니다.",
+                    "pl-PL": "Wygrano mecz w trybie skrzydłowego na każdej z map pakietu Flashback",
+                    "ru-RU": "Выигран матч в режиме ведомого на каждой карте из набора «Ретроспектива»",
+                    "zh-CHT": "以最佳搭檔模式，在戰地重現地圖套件中的每張地圖各贏得一場多人遊戲。"
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie ein Wingman-Match auf allen Flashback Map Pack-Karten",
+                    "en-US": "Win a Wingman match on each of the 5 Flashback Map Pack maps",
+                    "es-ES": "Gana una partida Piloto en cada uno de los 5 mapas del paquete de mapas Flashback",
+                    "fr-FR": "Remportez une partie en mode Ailier sur chacune des 5 cartes du pack Flashback",
+                    "it-IT": "Vinci una partita in modalità Compagno su ciascuna delle 5 mappe del Flashback Map Pack",
+                    "ko-KR": "플래시백 지도 5개 모두에서 윙맨 매치를 승리하십시오.",
+                    "pl-PL": "Wygraj mecz w trybie skrzydłowego na każdej z 5 map pakietu Flashback",
+                    "ru-RU": "Выиграйте матч на каждой из 5 карт набора «Ретроспектива»",
+                    "zh-CHT": "以最佳搭檔模式，在戰地重現地圖套件中的每張地圖各贏得一場多人遊戲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "53.png"
+        },
+        "54": {
+            "text": {
+                "name": {
+                    "de-DE": "Feuerprobe, Feuertod",
+                    "en-US": "Trial by, and on, Fire",
+                    "es-ES": "Marcado a fuego",
+                    "fr-FR": "Tout feu tout flamme",
+                    "it-IT": "La prova del fuoco",
+                    "ko-KR": "시련의 불",
+                    "pl-PL": "Próba ognia i w ogniu",
+                    "ru-RU": "Испытание огнем в пекле",
+                    "zh-CHT": "危險禁區獸族天敵"
+                },
+                "description": {
+                    "de-DE": "Ihr Team hat die ersten 10 Horde-Wellen der Combustible Map Pack-Karten überlebt",
+                    "en-US": "Team survived first 10 Horde waves on Combustible Map Pack maps",
+                    "es-ES": "Has sobrevivido a las 10 oleadas de ataque de Horda en los mapas del paquete Combustible como equipo",
+                    "fr-FR": "Vous et votre équipe avez survécu aux dix 1res vagues de la Horde sur les cartes du pack Combustible",
+                    "it-IT": "Sopravvissuto alle prime 10 ondate di Orde sulle mappe del Combustible Map Pack in squadra",
+                    "ko-KR": "모든 불타는 전장 지도에서 호드 게임의 처음 10번째 전투까지 승리했습니다.",
+                    "pl-PL": "Drużyna przetrwała pierwsze 10 rund w trybie hordy na mapach pakietu Łatwopalny",
+                    "ru-RU": "Выжили в первых 10 волнах Орды на картах из набора «Взрывоопасно» в команде",
+                    "zh-CHT": "以團隊方式，使用危險禁區地圖套件中所有地圖，抵擋十波獸族部隊的攻擊。"
+                },
+                "howto": {
+                    "de-DE": "Spielen Sie die Wellen 1 bis 10 (beliebiger Schwierigkeitsgrad) in den Combustible Map Pack-Karten",
+                    "en-US": "Survive first 10 Horde waves on Combustible Map Pack maps as a team",
+                    "es-ES": "Finaliza oleadas de ataque de 1 a 10 en todo mapa del Combustible en Horda (cualquier dificultad) ",
+                    "fr-FR": "Repoussez les vagues 1 à 10 de la Horde sur toutes les cartes du pack Combust. (toutes difficultés)",
+                    "it-IT": "Completa le ondate da 1 a 10 su tutte le mappe Combustible Map Pack in Orda (tutte le difficoltà)",
+                    "ko-KR": "모든 불타는 전장 지도에서 호드와의 첫 번째 전투부터 10번째 전투까지 승리하십시오. (난이도 상관없음)",
+                    "pl-PL": "Ukończ rundy 1-10 na wszystkich mapach pakietu Łatwopalny w trybie hordy (dowolny poziom trudności)",
+                    "ru-RU": "Пройдите волны 1 – 10 на картах из набора «Взрывоопасно» в Орде (любая сложность) ",
+                    "zh-CHT": "以團隊方式，在危險禁區地圖套件的所有地圖中，抵擋十波獸族部隊的攻擊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "54.png"
+        },
+        "55": {
+            "text": {
+                "name": {
+                    "de-DE": "Feuer frei!",
+                    "en-US": "The Roof! The Roof! The Roof…",
+                    "es-ES": "¡El tejado!, ¡El tejado!",
+                    "fr-FR": "Le toit ! Le toit ! Le toit…",
+                    "it-IT": "Il tetto! Il tetto! Il tetto…",
+                    "ko-KR": "지붕 위로!",
+                    "pl-PL": "Do pożaru mkną…",
+                    "ru-RU": "Крыша! Крыша! Крыша...",
+                    "zh-CHT": "危險禁區對戰高手"
+                },
+                "description": {
+                    "de-DE": "Sie haben ein Match auf allen Combustible Map Pack-Karten gewonnen",
+                    "en-US": "Won a match on each of the Combustible Map Pack maps",
+                    "es-ES": "Has ganado una partida en cada mapa del paquete de mapas Combustible",
+                    "fr-FR": "Vous avez remporté une partie sur chacune des cartes du pack Combustible",
+                    "it-IT": "Vinta una partita in modalità Compagno su ciascuna delle mappe del Combustible Map Pack",
+                    "ko-KR": "모든 불타는 전장 지도에서 한 번씩 윙맨 매치를 승리했습니다.",
+                    "pl-PL": "Wygrano mecz w trybie skrzydłowego na każdej z map pakietu Łatwopalny",
+                    "ru-RU": "Выигран матч на каждой карте из набора «Взрывоопасно»",
+                    "zh-CHT": "在危險禁區地圖套件中的每張地圖各贏得一場多人遊戲。"
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie ein Multiplayer-Match auf allen 3 Combustible Map Pack-Karten (nicht im Wingman-Modus)",
+                    "en-US": "Win a multiplayer match on each of the 3 Combustible Map Pack maps (any mode except Wingman)",
+                    "es-ES": "Gana una partida multijugador en cada mapa de los 3 del Combustible (cualquier modo excepto Piloto)",
+                    "fr-FR": "Gagnez une partie multijoueur sur chacune des 3 cartes du pack Combustible (tous modes, sauf Ailier)",
+                    "it-IT": "Vinci una partita multiplayer su tutte le 3 mappe Combustible Map Pack (tranne modalità Compagno)",
+                    "ko-KR": "불타는 전장 지도 3개 모두에서 멀티 플레이 매치를 승리하십시오. (게임 모드 상관없으나 윙맨은 제외)",
+                    "pl-PL": "Wygraj mecz dla wielu graczy na każdej z 3 map pakietu Łatwopalny (dowolny tryb oprócz skrzydłowego)",
+                    "ru-RU": "Выиграйте многопользовательские матчи на всех 3 картах «Взрывоопасно» (любой режим, кроме ведомого)",
+                    "zh-CHT": "以最佳搭檔以外的模式，在危險禁區地圖套件中的每張地圖各贏得一場多人遊戲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "55.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "de-DE": "Die durch das Feuer gehen",
+                    "en-US": "Forged in the Fire",
+                    "es-ES": "Forjado en el fuego",
+                    "fr-FR": "Forgé dans le feu",
+                    "it-IT": "Forgiato nel fuoco",
+                    "ko-KR": "불속의 용광로",
+                    "pl-PL": "Hartowani w ogniu",
+                    "ru-RU": "Выкованы в огне",
+                    "zh-CHT": "危險禁區最佳搭檔"
+                },
+                "description": {
+                    "de-DE": "Sie haben ein Wingman-Match auf allen Combustible Map Pack-Karten gewonnen",
+                    "en-US": "Won a Wingman match on each of the Combustible Map Pack maps",
+                    "es-ES": "Has ganado una partida Piloto en cada uno de los mapas del paquete de mapas Combustible",
+                    "fr-FR": "Vous avez remporté une partie en mode Ailier sur chacune des cartes du pack Combustible",
+                    "it-IT": "Vinta una partita in modalità Compagno su ciascuna delle mappe del Combustible Map Pack",
+                    "ko-KR": "불타는 전장 지도 3개 모두에서 윙맨 매치를 승리했습니다.",
+                    "pl-PL": "Wygrano mecz w trybie skrzydłowego na każdej z map pakietu Łatwopalny",
+                    "ru-RU": "Выигран матч в режиме ведомого на каждой карте из набора «Взрывоопасно»",
+                    "zh-CHT": "以最佳搭檔模式，在危險禁區地圖套件中的每張地圖各贏得一場多人遊戲。"
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie ein Wingman-Match auf allen Combustible Map Pack-Karten",
+                    "en-US": "Win a Wingman match on each of the 3 Combustible Map Pack maps",
+                    "es-ES": "Gana una partida Piloto en cada uno de los 3 mapas Combustible ",
+                    "fr-FR": "Remportez une partie en mode Ailier sur chacune des 3 cartes du pack Combustible",
+                    "it-IT": "Vinci una partita in modalità Compagno su ciascuna delle 3 mappe del Combustible Map Pack",
+                    "ko-KR": "불타는 전장 지도 3개 모두에서 윙맨 매치를 승리하십시오.",
+                    "pl-PL": "Wygraj mecz w trybie skrzydłowego na każdej z 3 map pakietu Łatwopalny",
+                    "ru-RU": "Выиграйте матчи в режиме ведомого на каждой из 3 карт набора «Взрывоопасно»",
+                    "zh-CHT": "以最佳搭檔模式，在危險禁區地圖套件中的每張地圖各贏得一場多人遊戲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "56.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "de-DE": "Annex: Regeln der Exekutive",
+                    "en-US": "Annex: Now With Execution Rules",
+                    "es-ES": "Anexo: con reglas ejecución",
+                    "fr-FR": "Annexion : avec exécution",
+                    "it-IT": "Annessione: Regole Esecuzione ",
+                    "ko-KR": "점령: 처형 규칙 적용",
+                    "pl-PL": "Aneksja: z regułami egzekucji",
+                    "ru-RU": "Аннекс: теперь с исключениями",
+                    "zh-CHT": "戰場先鋒"
+                },
+                "description": {
+                    "de-DE": "Ranglisten- oder geselliges Annex- -Spiel auf allen Flashback und Combustible Karten gewonnen",
+                    "en-US": "Won a ranked or social Annex match on each of the Flashback and Combustible Map Pack maps",
+                    "es-ES": "Ha ganado una partida igualada o social Anexo en todos los mapas del pack Flashback y Combustible",
+                    "fr-FR": "Partie avec classement ou amicale gagnée en mode Annex. sur chaque carte Flashback/Combustible",
+                    "it-IT": "Vinta una partita Annessione classificata o sociale su ogni mappa Flashback e Combustible",
+                    "ko-KR": "모든 플래시백 지도와 불타는 전장 지도에서 랭킹 또는 비랭킹 점령 매치를 승리했습니다.",
+                    "pl-PL": "Wygrano mecz rankingowy lub towarzyski w tr. aneksji na wszyst. mapach Flashback i Łatwopalny",
+                    "ru-RU": "Выигран рейтинговый или польз. матч на каждой карте из наборов «Ретроспектива» и «Взрывоопасно»",
+                    "zh-CHT": "在戰地重現與危險禁區這兩個地圖套件中的所有地圖進行等級或隨機配對遊戲，並在每張地圖皆贏得一場擴展領地模式遊戲。"
+                },
+                "howto": {
+                    "de-DE": "Ein Annex-Match auf den Flashback u. Combustible Map Pack-Karten gewinnen (außer benutzerdefiniert)",
+                    "en-US": "Win an Annex match on each Flashback and Combustible Map Pack map (not Custom)",
+                    "es-ES": "Gana una partida Anexo en cada mapa de los Flashback y Combustible (no personalizadas)",
+                    "fr-FR": "Gagnez une partie en mode Annexion sur chaque carte Flashback et Combustible (pas personnalisé)",
+                    "it-IT": "Vinci una partita in Annessione sulle mappe di Flashback e Combustible Map Pack (no personalizzate)",
+                    "ko-KR": "모든 플래시백 지도와 불타는 전장 지도에서 점령 매치를 승리하십시오. (사용자 지정 제외)",
+                    "pl-PL": "Wygraj w trybie aneksji na wszystkich mapach pakietu Flashback i Łatwopalny (tylko mecze publiczne)",
+                    "ru-RU": "Выиграйте матч «Аннекс» на каждой карте «Ретроспектива» и «Взрывоопасно» (кроме польз. игр)",
+                    "zh-CHT": "在戰地重現與危險禁區這兩個地圖套件中的所有地圖進行非自訂配對遊戲，並在每張地圖皆贏得一場擴展領地模式遊戲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "75",
+            "imageId": "57.png"
+        },
+        "58": {
+            "text": {
+                "name": {
+                    "de-DE": "Gear-Neuling",
+                    "en-US": "Rookie Gear",
+                    "es-ES": "Gear novato",
+                    "fr-FR": "Recrue Gear",
+                    "it-IT": "Pivello",
+                    "ko-KR": "햇병아리",
+                    "pl-PL": "Żółtodziób",
+                    "ru-RU": "Солдат-новичок",
+                    "zh-CHT": "新手戰士"
+                },
+                "description": {
+                    "de-DE": "Level 5 im Multiplayer-Modus erreicht",
+                    "en-US": "Reached level 5 in multiplayer",
+                    "es-ES": "Alcanzó el nivel 5 en multijugador",
+                    "fr-FR": "A atteint le niveau 5 en mode multijoueur",
+                    "it-IT": "Raggiunto livello 5 in multiplayer",
+                    "ko-KR": "멀티 플레이에서 Level 5에 도달했습니다.",
+                    "pl-PL": "Osiągnięto poziom 5 w trybie wieloosobowym",
+                    "ru-RU": "Достигнут 5 уровень в многопользовательской игре",
+                    "zh-CHT": "在多人遊戲中達到等級 5。"
+                },
+                "howto": {
+                    "de-DE": "Genügend Multiplayer-Erfahrung sammeln, um Level 5 zu erreichen (außer benutzerdefiniert)",
+                    "en-US": "Earn enough multiplayer experience to reach level 5 (not Custom)",
+                    "es-ES": "Obtenga suficiente experiencia multijugador para alcanzar el nivel 5 (no en personalizadas)",
+                    "fr-FR": "Gagner suffisamment d'expérience multijoueur pour atteindre le niveau 5 (pas personnalisé)",
+                    "it-IT": "Accumula esperienza MP e raggiungi il liv. 5 (no personalizzate)",
+                    "ko-KR": "멀티 플레이에서 Level 5에 도달하십시오.(사용자 지정 제외)",
+                    "pl-PL": "Zdobądź tyle doświadczenia w grze wieloosobowej, by osiągnąć poz. 5 (nie w tr. niestandardowym)",
+                    "ru-RU": "Набрать в многопользовательской игре опыт для 5-го уровня (кроме пользовательских)",
+                    "zh-CHT": "進行非自訂的多人遊戲，累積足夠的經驗，達到等級 5。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "10",
+            "imageId": "58.png"
+        },
+        "59": {
+            "text": {
+                "name": {
+                    "de-DE": "Erfahrener Gear",
+                    "en-US": "Seasoned Gear",
+                    "es-ES": "Gear experimentado",
+                    "fr-FR": "Gear expérimenté",
+                    "it-IT": "Principiante",
+                    "ko-KR": "노련한 대원",
+                    "pl-PL": "Młody wilk",
+                    "ru-RU": "Опытный солдат",
+                    "zh-CHT": "進階戰士"
+                },
+                "description": {
+                    "de-DE": "Level 15 im Multiplayer-Modus erreicht",
+                    "en-US": "Reached level 15 in multiplayer",
+                    "es-ES": "Alcanzó el nivel 15 en multijugador",
+                    "fr-FR": "A atteint le niveau 15 en mode multijoueur",
+                    "it-IT": "Raggiunto livello 15 in multiplayer",
+                    "ko-KR": "멀티 플레이에서 Level 15에 도달했습니다.",
+                    "pl-PL": "Osiągnięto poziom 15 w trybie wieloosobowym",
+                    "ru-RU": "Достигнут 15 уровень в многопользовательской игре",
+                    "zh-CHT": "在多人遊戲中達到等級 15。"
+                },
+                "howto": {
+                    "de-DE": "Genügend Multiplayer-Erfahrung sammeln, um Level 15 zu erreichen (außer benutzerdefiniert)",
+                    "en-US": "Earn enough multiplayer experience to reach level 15 (not Custom)",
+                    "es-ES": "Obtenga suficiente experiencia multijugador para alcanzar el nivel 15 (no en personalizadas)",
+                    "fr-FR": "Gagner suffisamment d'expérience multijoueur pour atteindre le niveau 15 (pas personnalisé)",
+                    "it-IT": "Accumula esperienza MP e raggiungi il liv. 15 (no personalizzate)",
+                    "ko-KR": "멀티 플레이에서 Level 15에 도달하십시오.(사용자 지정 제외)",
+                    "pl-PL": "Zdobądź tyle doświadczenia w grze wieloosobowej, by osiągnąć poz. 15 (nie w tr. niestandardowym)",
+                    "ru-RU": "Набрать в многопользовательской игре опыт для 15-го уровня (кроме пользовательских)",
+                    "zh-CHT": "進行非自訂的多人遊戲，累積足夠的經驗，達到等級 15。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "59.png"
+        },
+        "60": {
+            "text": {
+                "name": {
+                    "de-DE": "Kampferprobter Gear",
+                    "en-US": "Battle-Tested Gear",
+                    "es-ES": "Gear probado en batalla",
+                    "fr-FR": "Gear chevronné",
+                    "it-IT": "Combattente",
+                    "ko-KR": "역전의 용사",
+                    "pl-PL": "Sprawdzony żołnierz",
+                    "ru-RU": "Проверенный солдат",
+                    "zh-CHT": "優秀戰士"
+                },
+                "description": {
+                    "de-DE": "Level 25 im Multiplayer-Modus erreicht",
+                    "en-US": "Reached level 25 in multiplayer",
+                    "es-ES": "Alcanzó el nivel 25 en multijugador",
+                    "fr-FR": "A atteint le niveau 25 en mode multijoueur",
+                    "it-IT": "Raggiunto livello 25 in multiplayer",
+                    "ko-KR": "멀티 플레이에서 Level 25에 도달했습니다.",
+                    "pl-PL": "Osiągnięto poziom 25 w trybie wieloosobowym",
+                    "ru-RU": "Достигнут 25 уровень в многопользовательской игре",
+                    "zh-CHT": "在多人遊戲中達到等級 25。"
+                },
+                "howto": {
+                    "de-DE": "Genügend Multiplayer-Erfahrung sammeln, um Level 25 zu erreichen (außer benutzerdefiniert)",
+                    "en-US": "Earn enough multiplayer experience to reach level 25 (not Custom)",
+                    "es-ES": "Obtenga suficiente experiencia multijugador para alcanzar el nivel 25 (no en personalizadas)",
+                    "fr-FR": "Gagner suffisamment d'expérience multijoueur pour atteindre le niveau 25 (pas personnalisé)",
+                    "it-IT": "Accumula esperienza MP e raggiungi il liv. 25 (no personalizzate)",
+                    "ko-KR": "멀티 플레이에서 Level 25에 도달하십시오.(사용자 지정 제외)",
+                    "pl-PL": "Zdobądź tyle doświadczenia w grze wieloosobowej, by osiągnąć poz. 25 (nie w tr. niestandardowym)",
+                    "ru-RU": "Набрать в многопользовательской игре опыт для 25-го уровня (кроме пользовательских)",
+                    "zh-CHT": "進行非自訂的多人遊戲，累積足夠的經驗，達到等級 25。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "30",
+            "imageId": "60.png"
+        },
+        "61": {
+            "text": {
+                "name": {
+                    "de-DE": "Kampfgestählter Gear",
+                    "en-US": "Battle-Hardened Gear",
+                    "es-ES": "Gear experto en batalla",
+                    "fr-FR": "Gear d'élite",
+                    "it-IT": "Esperto",
+                    "ko-KR": "전쟁 영웅",
+                    "pl-PL": "Stary wyga",
+                    "ru-RU": "Закаленный солдат",
+                    "zh-CHT": "英勇戰士"
+                },
+                "description": {
+                    "de-DE": "Level 50 erreicht und im Schnee gespielt",
+                    "en-US": "Reached level 50 and played in the snow",
+                    "es-ES": "Alcanzó el nivel 50 y jugó en la nieve",
+                    "fr-FR": "A atteint le niveau 50 et a joué dans la neige",
+                    "it-IT": "Raggiunto livello 50 e giocato nella neve",
+                    "ko-KR": "모든 눈 내리는 전장 지도에서 플레이했으며 Level 50에 도달했습니다.",
+                    "pl-PL": "Osiągnięto poziom 50 i rozegrano walki w śniegu",
+                    "ru-RU": "Достигнут 50 уровень при игре в снеге",
+                    "zh-CHT": "在多人遊戲中達到等級 50，並在雪中進行遊戲。"
+                },
+                "howto": {
+                    "de-DE": "Level 50 erreichen, auf allen vier Snowblind-Paketkarten ein Spiel spielen (außer benutzerdefiniert)",
+                    "en-US": "Reach level 50 and play a match on each of the 4 Snowblind Map Pack maps (not Custom)",
+                    "es-ES": "Llegue al nivel 50 y juegue una partida en los 4 mapas del pack Snowblind (no en personalizadas)",
+                    "fr-FR": "Atteindre le niveau 50 et jouer une partie sur les 4 cartes du pack Snowblind (pas personnalisé)",
+                    "it-IT": "Raggiungi il liv. 50 e prova le 4 mappe del pacchetto Snowblind (no personalizzate)",
+                    "ko-KR": "눈 내리는 전장 지도 4개 모두에서 플레이하고 Level 50에 도달하십시오.(사용자 지정 제외)",
+                    "pl-PL": "Osiągnij poziom 50 i zagraj na każdej z 4 map pakietu Snowblind (nie w trybie niestandardowym)",
+                    "ru-RU": "Достигнуть 50-го уровня и сыграть матч на каждой из 4 карт набора «Снежная слепота» (кроме польз.)",
+                    "zh-CHT": "達到等級 50，並在荒城戰役地圖套件中的每張地圖各進行一場非自訂的多人遊戲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "50",
+            "imageId": "61.png"
+        },
+        "62": {
+            "text": {
+                "name": {
+                    "de-DE": "Gear-Veteran",
+                    "en-US": "Veteran Gear",
+                    "es-ES": "Gear veterano",
+                    "fr-FR": "Gear vétéran",
+                    "it-IT": "Veterano",
+                    "ko-KR": "전투 기계",
+                    "pl-PL": "Weteran",
+                    "ru-RU": "Солдат-ветеран",
+                    "zh-CHT": "專業戰士"
+                },
+                "description": {
+                    "de-DE": "Level 100 erreicht und zum ultimativen Gearhead geworden",
+                    "en-US": "Became an ultimate Gearhead at level 100",
+                    "es-ES": "Se convirtió en el Gearhead definitivo en el nivel 100",
+                    "fr-FR": "Est devenu un guerrier Gear ultime au niveau 100",
+                    "it-IT": "Diventato combattente supremo al livello 100",
+                    "ko-KR": "Level 100의 최강 전사가 되었습니다.",
+                    "pl-PL": "Zostałeś najwyższym dowódcą na poziomie 100",
+                    "ru-RU": "Получено звание универсального солдата на 100 уровне",
+                    "zh-CHT": "達到等級 100 的全能戰士。"
+                },
+                "howto": {
+                    "de-DE": "Level 100 erreichen, auf allen vier Snowblind-Karten ein Spiel gewinnen (außer benutzerdefiniert)",
+                    "en-US": "Reach level 100 and win a match on each of the 4 Snowblind Map Pack maps (not Custom)",
+                    "es-ES": "Llegue al nivel 100 y gane una partida en los 4 mapas del pack Snowblind (no en personalizadas)",
+                    "fr-FR": "Atteindre le niveau 100 et gagner une partie sur les 4 cartes du pack Snowblind (pas personnalisé)",
+                    "it-IT": "Raggiungi il liv. 100 e prova le 4 mappe del pacchetto Snowblind (no personalizzate)",
+                    "ko-KR": "눈 내리는 전장 지도 4개 모두에서 승리하고 Level 100에 도달하십시오.(사용자 지정 제외)",
+                    "pl-PL": "Osiągnij poziom 100 i wygraj na każdej z 4 map pakietu Snowblind (nie w trybie niestandardowym)",
+                    "ru-RU": "Достигнуть 100-го уровня и выиграть матч на каждой из 4 карт набора «Снежная слепота» (кроме польз.)",
+                    "zh-CHT": "達到等級 100，並在荒城戰役地圖套件中的每張地圖各進行一場非自訂的多人遊戲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "75",
+            "imageId": "62.png"
+        },
+        "63": {
+            "text": {
+                "name": {
+                    "de-DE": "Keinen roten Schnee essen",
+                    "en-US": "Never Eat Red Snow",
+                    "es-ES": "No coma nieve teñida de rojo",
+                    "fr-FR": "Neige sanguine",
+                    "it-IT": "Non mangiare la neve rossa",
+                    "ko-KR": "눈길 조심",
+                    "pl-PL": "Czerwony śnieg jest niesmaczny",
+                    "ru-RU": "Не ешьте красный снег",
+                    "zh-CHT": "荒城戰役獸族屠夫"
+                },
+                "description": {
+                    "de-DE": "Team hat die ersten 10 Hordenwellen auf den Snowblind-Paketkarten überlebt",
+                    "en-US": "Team survived first 10 Horde waves on Snowblind Map Pack maps",
+                    "es-ES": "Equipo superviviente de primeras 10 oleadas de Horda en mapas del pack de mapas Snowblind",
+                    "fr-FR": "A survécu en équipe aux 10 premières vagues de la Horde sur une carte du pack Snowblind",
+                    "it-IT": "La squadra è sopravvissuta alle prime 10 ondate di Orda nelle mappe del pacchetto Snowblind",
+                    "ko-KR": "모든 눈 내리는 전장 지도에서 호드 게임의 처음 10번째 전투까지 승리했습니다.",
+                    "pl-PL": "Drużyna przetrwała pierwszych 10 fal Hordy na mapach pakietu Snowblind",
+                    "ru-RU": "Команда выстояла против 10 первых набегов орды на картах «Снежная слепота»",
+                    "zh-CHT": "以團隊方式，使用荒城戰役地圖套件中所有地圖，抵擋 10 波獸族部隊的攻擊。"
+                },
+                "howto": {
+                    "de-DE": "Wellen 1–10 auf allen Snowblind-Paketkarten in Horde besiegen (beliebiger Schwierigkeitsgrad)",
+                    "en-US": "Complete waves 1 through 10 on all Snowblind Map Pack maps in Horde (any difficulty)",
+                    "es-ES": "Complete las oleadas 1-10 en todos los mapas del pack Snowblind en Horda (cualquier dificultad)",
+                    "fr-FR": "Survivre aux vagues 1 à 10 sur chaque carte du pack Snowblind en Horde (n'importe quelle difficulté)",
+                    "it-IT": "Completa le ondate 1-10 in tutte le mappe del pacchetto Snowblind in Orda (qualsiasi difficoltà)",
+                    "ko-KR": "모든 눈 내리는 전장 지도에서 호드와의 첫 번째 전투부터 10번째 전투까지 승리하십시오. (난이도 상관없음)",
+                    "pl-PL": "Ukończ fale od 1 do 10 na wszystkich mapach z pakietu Snowblind jako Horda (dowolna trudność)",
+                    "ru-RU": "Отбить набеги с 1 по 10 на всех картах «Снежная слепота» в режиме «Орда» (любая сложность)",
+                    "zh-CHT": "不限難度，在荒城戰役地圖套件的所有地圖中，抵擋 10 波獸族部隊的攻擊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "63.png"
+        },
+        "64": {
+            "text": {
+                "name": {
+                    "de-DE": "Eiskalte Leichen",
+                    "en-US": "Icy Dead People",
+                    "es-ES": "Gente mortalmente fría",
+                    "fr-FR": "Froid comme la mort",
+                    "it-IT": "Morti, stecchiti e gelati",
+                    "ko-KR": "시체 빙수",
+                    "pl-PL": "Lodowe truposze",
+                    "ru-RU": "Ледяные мертвые люди",
+                    "zh-CHT": "荒城戰役獸族天敵"
+                },
+                "description": {
+                    "de-DE": "Team hat alle 50 Hordenwellen auf einer Snowblind-Paketkarte überlebt",
+                    "en-US": "Team survived all 50 Horde waves on a Snowblind Map Pack map",
+                    "es-ES": "Equipo superviviente de las 50 oleadas de Horda en un mapa del pack de mapas Snowblind",
+                    "fr-FR": "A survécu en équipe aux 50 vagues de la Horde sur une carte du pack Snowblind",
+                    "it-IT": "La squadra è sopravvissuta a tutte le 50 ondate di Orda in una mappa del pacchetto Snowblind",
+                    "ko-KR": "눈 내리는 전장 지도 중 하나에서 호드 게임의 마지막 50번째 전투까지 승리했습니다.",
+                    "pl-PL": "Drużyna przetrwała pierwszych 50 fal Hordy na mapie pakietu Snowblind",
+                    "ru-RU": "Команда выстояла все 50 набегов орды на картах «Снежная слепота»",
+                    "zh-CHT": "以團隊方式，使用荒城戰役地圖套件中所有地圖，抵擋 50 波獸族部隊的攻擊。"
+                },
+                "howto": {
+                    "de-DE": "Wellen 1–50 auf beliebiger Snowblind-Paketkarte in Horde besiegen (beliebiger Schwierigkeitsgrad)",
+                    "en-US": "Complete waves 1 through 50 on any Snowblind Map Pack map in Horde (any difficulty) ",
+                    "es-ES": "Complete las oleadas 1-50 en todos los mapas del pack Snowblind en Horda (cualquier dificultad)",
+                    "fr-FR": "Survivre aux vagues 1 à 50 sur une carte du pack Snowblind en Horde (n'importe quelle difficulté)",
+                    "it-IT": "Completa le ondate 1-50 in qualunque mappa del pacchetto Snowblind in Orda (qualsiasi difficoltà) ",
+                    "ko-KR": "눈 내리는 전장 지도 중 하나에서 호드와의 첫 번째 전투부터 50번째 전투까지 승리하십시오. (난이도 상관없음)",
+                    "pl-PL": "Ukończ fale od 1 do 50 na dowolnej mapie z pakietu Snowblind w trybie hordy (dowolna trudność)",
+                    "ru-RU": "Отбить набеги с 1 по 50 на любой карте набора «Снежная слепота» в режиме «Орда» (любая сложность)",
+                    "zh-CHT": "不限難度，在荒城戰役地圖套件的所有地圖中，抵擋 50 波獸族部隊的攻擊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "64.png"
+        },
+        "65": {
+            "text": {
+                "name": {
+                    "de-DE": "Kaltkörperdynamik",
+                    "en-US": "Frigid Body Dynamics",
+                    "es-ES": "Dinámica del cuerpo frígido",
+                    "fr-FR": "Fraîcheur macabre",
+                    "it-IT": "Dinamica dei corpi congelati",
+                    "ko-KR": "동상에 주의하라",
+                    "pl-PL": "Dynamika sztywnego ciała",
+                    "ru-RU": "Зарядка на морозе",
+                    "zh-CHT": "荒城戰役對戰好手"
+                },
+                "description": {
+                    "de-DE": "Auf allen Snowblind-Paketkarten im Schnee gespielt",
+                    "en-US": "Played in the snow on all of the Snowblind Map Pack maps",
+                    "es-ES": "Jugó en la nieve en todos los mapas del pack de mapas Snowblind",
+                    "fr-FR": "A joué dans la neige sur toutes les cartes du pack Snowblind",
+                    "it-IT": "Hai giocato nella neve in tutte le mappe del pacchetto Snowblind",
+                    "ko-KR": "모든 눈 내리는 전장 지도에서 매치를 플레이했습니다.",
+                    "pl-PL": "Rozegrano pojedynki w śniegu na wszystkich mapach pakietu Snowblind",
+                    "ru-RU": "Играл в снегу на всех картах «Снежная слепота»",
+                    "zh-CHT": "在雪中於荒城戰役地圖套件中的所有地圖上進行遊戲。"
+                },
+                "howto": {
+                    "de-DE": "Auf jeder der vier Snowblind-Paketkarten ein Multiplayer-Spiel spielen (beliebiger Modus)",
+                    "en-US": "Play a multiplayer match on each of the 4 Snowblind Map Pack maps (any mode)",
+                    "es-ES": "Juegue una partida multijugador en los 4 mapas del pack de mapas Snowblind (cualquier modo)",
+                    "fr-FR": "Jouer une partie multijoueur sur les 4 cartes du pack Snowblind (n'importe quel mode)",
+                    "it-IT": "Gioca una partita multiplayer in tutte le 4 mappe del pacchetto Snowblind (qualsiasi modalità)",
+                    "ko-KR": "눈 내리는 전장 지도 4개 모두에서 매치를 플레이하십시오.(모드 상관없음)",
+                    "pl-PL": "Zagraj wieloosobowo na każdej z 4 map pakietu Snowblind (dowolny tryb)",
+                    "ru-RU": "Сыграть в многопользовательскую игру на всех 4 картах «Снежная слепота» (любой режим)",
+                    "zh-CHT": "不限模式，在荒城戰役地圖套件中的每張地圖各進行一場多人遊戲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "65.png"
+        },
+        "66": {
+            "text": {
+                "name": {
+                    "de-DE": "Tödliches Wetter",
+                    "en-US": "The Weather Outside Is Lethal",
+                    "es-ES": "El tiempo allí fuera es mortal",
+                    "fr-FR": "Morsure glaciale",
+                    "it-IT": "Clima letale",
+                    "ko-KR": "잠들면 얼어죽는다",
+                    "pl-PL": "Pogodę dziś mamy zabójczą",
+                    "ru-RU": "Убийственная погодка",
+                    "zh-CHT": "荒城戰役對戰高手"
+                },
+                "description": {
+                    "de-DE": "Auf allen Snowblind-Paketkarten im Schnee gespielt und gewonnen",
+                    "en-US": "Played in the snow and won on all of the Snowblind Map Pack maps",
+                    "es-ES": "Jugó en la nieve y ganó en todos los mapas del pack de mapas Snowblind",
+                    "fr-FR": "A joué dans la neige et a gagné sur toutes les cartes du pack Snowblind",
+                    "it-IT": "Hai giocato e vinto nella neve in tutte le mappe del pacchetto Snowblind",
+                    "ko-KR": "모든 눈 내리는 전장 지도에서 매치를 승리했습니다.",
+                    "pl-PL": "Rozegrano i wygrano pojedynki w śniegu na wszystkich mapach pakietu Snowblind",
+                    "ru-RU": "Играл в снегу и выиграл на всех картах «Снежная слепота»",
+                    "zh-CHT": "在雪中進行遊戲，並贏得在荒城戰役地圖套件中所有地圖上進行的遊戲。"
+                },
+                "howto": {
+                    "de-DE": "Auf jeder der vier Snowblind-Paketkarten ein Multiplayer-Spiel gewinnen (beliebiger Modus)",
+                    "en-US": "Win a multiplayer match on each of the 4 Snowblind Map Pack maps (any mode)",
+                    "es-ES": "Gane una partida multijugador en los 4 mapas del pack de mapas Snowblind (cualquier modo)",
+                    "fr-FR": "Remporter une partie multijoueur sur les 4 cartes du pack Snowblind (n'importe quel mode)",
+                    "it-IT": "Vinci una partita multiplayer in tutte le 4 mappe del pacchetto Snowblind (qualsiasi modalità)",
+                    "ko-KR": "눈 내리는 전장 지도 4개 모두에서 매치를 승리하십시오.(모드 상관없음)",
+                    "pl-PL": "Wygraj grę wieloosobową na każdej z 4 map pakietu Snowblind (dowolny tryb)",
+                    "ru-RU": "Победить в многопользовательской игре на всех 4 картах «Снежная слепота» (любой режим)",
+                    "zh-CHT": "不限模式，在荒城戰役地圖套件中的每張地圖各贏得一場多人遊戲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "66.png"
+        },
+        "67": {
+            "text": {
+                "name": {
+                    "de-DE": "Mein Weg oder der Highway",
+                    "en-US": "My Way or the Highway",
+                    "es-ES": "A mi manera, o en la carretera",
+                    "fr-FR": "Ça passe ou ça casse",
+                    "it-IT": "A modo mio sull'autostrada",
+                    "ko-KR": "조용히 따라와",
+                    "pl-PL": "Moja droga autostrada",
+                    "ru-RU": "Так или никак",
+                    "zh-CHT": "變裝任務"
+                },
+                "description": {
+                    "de-DE": "Als Theron-Wache verkleidet durch \"Straße ins Verderben\" gekommen",
+                    "en-US": "Made it through \"Road to Ruin\" dressed as a Theron Guard",
+                    "es-ES": "Superó \"Camino a la perdición\" vestido como un guardia Theron",
+                    "fr-FR": "A terminé « En route vers les ruines », habillé en garde theron",
+                    "it-IT": "Hai completato \"Via di fuga\" vestito da guardia Theron",
+                    "ko-KR": "잠입을 선택하고 \"복수를 향해\" 챕터를 완료했습니다.",
+                    "pl-PL": "Przebyto \"Drogę do ruiny\" w przebraniu therońskiego gwardzisty",
+                    "ru-RU": "Проложен «Путь к руинам» в форме Theron Guard",
+                    "zh-CHT": "換裝成護衛兵而完成毀滅之路。"
+                },
+                "howto": {
+                    "de-DE": "Gelöschte Szene \"Straße ins Verderben\" mit \"Verst. Vorgehen\" abschließen und nicht entdeckt werden",
+                    "en-US": "Without being detected, complete the \"Road to Ruin\" deleted scene after choosing the stealth option",
+                    "es-ES": "Sin ser detectado, complete la escena eliminada \"Camino a la perdición\" con la opción de sigilo",
+                    "fr-FR": "Sans être repéré, terminer la scène supprimée de « En route vers les ruines » en vous infiltrant",
+                    "it-IT": "Senza farti scoprire, seleziona Usa invisibilità e completa la scena tagliata \"Via di fuga\"",
+                    "ko-KR": "\"복수를 향해\" 챕터에서 잠입을 선택한 뒤 정체를 들키지 않고 챕터를 완료하십시오.",
+                    "pl-PL": "Wybierz opcję skradania się i ukończ usuniętą scenę \"Droga do ruiny\", nie pozwalając się wykryć",
+                    "ru-RU": "Пройдите не обнаруженными вырезанный эпизод «Пути к руинам», выбрав опцию «невидимка»",
+                    "zh-CHT": "以換裝方式且未被獸族發現，完成毀滅之路這個章節。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "67.png"
+        },
+        "68": {
+            "text": {
+                "name": {
+                    "de-DE": "Highway to Hell",
+                    "en-US": "Highway to Hell",
+                    "es-ES": "Carretera al Infierno",
+                    "fr-FR": "En route pour l'enfer",
+                    "it-IT": "Autostrada per l'inferno",
+                    "ko-KR": "지옥을 거쳐 지옥으로",
+                    "pl-PL": "Autostrada do piekła",
+                    "ru-RU": "Дорога в ад",
+                    "zh-CHT": "一夫當關"
+                },
+                "description": {
+                    "de-DE": "Mit nichts als Rache im Sinn durch \"Straße ins Verderben\" gekommen",
+                    "en-US": "Made it through \"Road to Ruin\" with nothing but vengeance on your mind",
+                    "es-ES": "Superó \"Camino a la perdición\" pensando únicamente en la venganza",
+                    "fr-FR": "A terminé « En route vers les ruines » en étant résolument déterminé à se venger",
+                    "it-IT": "Hai completato \"Via di fuga\" concentrandoti solo sulla vendetta",
+                    "ko-KR": "정면 돌파를 선택하고 \"복수를 향해\" 챕터를 완료했습니다.",
+                    "pl-PL": "Przebyto \"Drogę do ruiny\" myśląc jedynie o zemście",
+                    "ru-RU": "Проложен «Путь к руинам» с жаждой возмездия",
+                    "zh-CHT": "獨自完成毀滅之路。"
+                },
+                "howto": {
+                    "de-DE": "Gelöschte Szene \"Straße ins Verderben\" mit der Option \"Richtig krachen lassen\" abschließen",
+                    "en-US": "Complete the \"Road to Ruin\" deleted scene after choosing the guns blazing option",
+                    "es-ES": "Complete la escena eliminada \"Camino a la perdición\" tras elegir la opción de entrada a tiros",
+                    "fr-FR": "Terminer la scène supprimée de « En route vers les ruines » après avoir choisi de tirer à tout va",
+                    "it-IT": "Seleziona l'opzione Entra sparando e completa la scena tagliata \"Via di fuga\"",
+                    "ko-KR": "\"복수를 향해\" 챕터에서 정면 돌파를 선택한 뒤 챕터를 완료하십시오.",
+                    "pl-PL": "Ukończ usuniętą scenę \"Droga do ruiny\", wybrawszy opcję strzelania z broni",
+                    "ru-RU": "Пройдите вырезанный эпизод «Пути к руинам», выбрав опцию «интенсивный огонь»",
+                    "zh-CHT": "以瘋狂掃射方式完成毀滅之路這個章節。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "68.png"
+        },
+        "69": {
+            "text": {
+                "name": {
+                    "de-DE": "Zwei auf gleichem Weg",
+                    "en-US": "Two for the Road",
+                    "es-ES": "Dos en la carretera",
+                    "fr-FR": "À deux, c'est mieux",
+                    "it-IT": "Una strada per due",
+                    "ko-KR": "길동무",
+                    "pl-PL": "Na drugą nóżkę",
+                    "ru-RU": "Вместе весело шагать",
+                    "zh-CHT": "合力過關"
+                },
+                "description": {
+                    "de-DE": "Mit einem Freund durch \"Straße ins Verderben\" gekommen",
+                    "en-US": "Made it through \"Road to Ruin\" with a friend",
+                    "es-ES": "Superó \"Camino a la perdición\" con un amigo",
+                    "fr-FR": "A terminé « En route vers les ruines » avec un ami",
+                    "it-IT": "Hai completato \"Via di fuga\" con un amico",
+                    "ko-KR": "친구와 함께 \"복수를 향해\" 챕터를 완료했습니다.",
+                    "pl-PL": "Przebyto \"Drogę do ruiny\" z przyjacielem",
+                    "ru-RU": "Проложен «Путь к руинам» вместе с другом",
+                    "zh-CHT": "與好友一起完成毀滅之路。"
+                },
+                "howto": {
+                    "de-DE": "Gelöschte Szene \"Straße ins Verderben\" als Marcus oder Dom im Co-op-Modus abschließen",
+                    "en-US": "Complete the \"Road to Ruin\" deleted scene in co-op as either Marcus or Dom",
+                    "es-ES": "Complete la escena eliminada \"Camino a la perdición\" en modo cooperativo como Marcus o como Dom",
+                    "fr-FR": "Terminer la scène supprimée de « En route vers les ruines » (coopératif) en incarnant Marcus ou Dom",
+                    "it-IT": "Completa la scena tagliata \"Via di fuga\" in modalità cooperativa, impersonando Marcus o Dom",
+                    "ko-KR": "마커스 또는 도미닉으로 \"복수를 향해\" 챕터 협동 게임을 완료하십시오.",
+                    "pl-PL": "Ukończ usuniętą scenę \"Droga do ruiny\" w trybie współpracy jako Marcus lub Dom",
+                    "ru-RU": "Пройдите вырезанный эпизод «Пути к руинам» как Маркус или Дом в режиме совместной игры",
+                    "zh-CHT": "以馬可斯或多姆的身分在合作模式完成毀滅之路這個章節。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "69.png"
+        },
+        "70": {
+            "text": {
+                "name": {
+                    "de-DE": "Vorsicht mit Wünschen",
+                    "en-US": "Be Careful What You Wish For",
+                    "es-ES": "Cuidado con lo que se desea",
+                    "fr-FR": "Faites un vœu",
+                    "it-IT": "Attento a ciò che desideri",
+                    "ko-KR": "소원을 빌 때는 조심해",
+                    "pl-PL": "Bądź ostrożny z życzeniami",
+                    "ru-RU": "Бойся своих желаний",
+                    "zh-CHT": "基本要求"
+                },
+                "description": {
+                    "de-DE": "Level 8 erreicht und die Horde klassisch gerockt",
+                    "en-US": "Reached level 8 and rocked Horde old school",
+                    "es-ES": "Alcanzó el nivel 8 e hizo estremecerse a la vieja guardia de Horda",
+                    "fr-FR": "A atteint le niveau 8 et a fait passer un sale quart d'heure à la Horde",
+                    "it-IT": "Hai raggiunto il livello 8 e trionfato in Orda tradizionale",
+                    "ko-KR": "Level 8에 도달하고 호드에게 한 수 가르쳐 줬습니다.",
+                    "pl-PL": "Osiągnięto poziom 8 i potańczono z Hordą po staremu",
+                    "ru-RU": "Достигнут 8-й уровень и задан урок старой гвардии Орды",
+                    "zh-CHT": "在中央車站地圖進行持久戰，並達到等級 8。"
+                },
+                "howto": {
+                    "de-DE": "Im Multiplayer-Modus Level 8 erreichen und auf Kriegsmaschine-Karte in Horde Wellen 1-10 abschließen",
+                    "en-US": "Reach level 8 in multiplayer and complete waves 1 - 10 on the War Machine map in Horde",
+                    "es-ES": "Alcance nivel 8 en multijugador y complete las oleadas 1 - 10 en el mapa Máquina de guerra en Horda",
+                    "fr-FR": "Atteindre le niveau 8 en multijoueur et repousser les vagues 1 à 10 sur Machine de guerre en Horde",
+                    "it-IT": "Raggiungi il livello 8 multiplayer e completa le ondate 1-10 nella mappa Macchina da guerra Orda",
+                    "ko-KR": "멀티 플레이 Level 8에 도달하고 War Machine 지도에서 호드 전투를 1부터 10까지 완료하십시오.",
+                    "pl-PL": "Osiągnij poz. 8 w grze wieloosobowej i ukończ fale 1 - 10 na mapie Machina Wojenna w trybie Hordy",
+                    "ru-RU": "Достигнуть 8-го уровня в многопольз. игре и завершить схватки Орды 1–10 на карте «Военная машина»",
+                    "zh-CHT": "在多人遊戲中達到等級 8，並在中央車站地圖抵擋 10 波獸族部隊的攻擊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "70.png"
+        },
+        "71": {
+            "text": {
+                "name": {
+                    "de-DE": "Fahr die ganze Nacht",
+                    "en-US": "Ride It All Night Long",
+                    "es-ES": "Toda la noche sin parar",
+                    "fr-FR": "Une nuit de folie",
+                    "it-IT": "In viaggio per tutta la notte",
+                    "ko-KR": "이 길을 밤새 달렸지",
+                    "pl-PL": "Nocna jazda",
+                    "ru-RU": "Всю ночь на ногах",
+                    "zh-CHT": "力求進步"
+                },
+                "description": {
+                    "de-DE": "Level 10 erreicht und den Horde-Highway erreicht",
+                    "en-US": "Reached level 10 and hit the Horde Highway",
+                    "es-ES": "Alcanzó el nivel 10 y llegó a la Carretera de Horda",
+                    "fr-FR": "A atteint le niveau 10 et a posé le pied sur la Grande route Horde",
+                    "it-IT": "Hai raggiunto il livello 10 e percorso l'autostrada di Orda",
+                    "ko-KR": "Level 10에 도달하고 길에서 호드를 짓밟았습니다.",
+                    "pl-PL": "Osiągnięto poziom 10 i Autostradę Hordy",
+                    "ru-RU": "Достигнут 10-й уровень — победа над Ордой на Магистрали",
+                    "zh-CHT": "在通道地圖進行持久戰，並達到等級 10。"
+                },
+                "howto": {
+                    "de-DE": "Im Multiplayer-Modus Level 10 erreichen und auf der Highway-Karte in Horde Wellen 1-10 abschließen",
+                    "en-US": "Reach level 10 in multiplayer and complete waves 1 - 10 on the Highway map in Horde",
+                    "es-ES": "Alcance nivel 10 en multijugador y complete las oleadas 1 - 10 en el mapa Carretera en Horda",
+                    "fr-FR": "Atteindre le niveau 10 en multijoueur et repousser les vagues 1 à 10 sur Grande route en Horde",
+                    "it-IT": "Raggiungi il livello 10 multiplayer e completa le ondate 1-10 nella mappa Autostrada Orda",
+                    "ko-KR": "멀티 플레이 Level 10에 도달하고 Highway 지도에서 호드 전투를 1부터 10까지 완료하십시오.",
+                    "pl-PL": "Osiągnij poz. 10 w grze wieloosobowej i ukończ fale 1 - 10 na mapie Autostrada w trybie Hordy",
+                    "ru-RU": "Достигнуть 10-го уровня в многопольз. игре и завершить схватки Орды 1–10 на карте «Магистраль»",
+                    "zh-CHT": "在多人遊戲中達到等級 10，並在通道地圖抵擋 10 波獸族部隊的攻擊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "71.png"
+        },
+        "72": {
+            "text": {
+                "name": {
+                    "de-DE": "Nein, aber ich kenne das Gesicht",
+                    "en-US": "No, But His Face Rings a Bell",
+                    "es-ES": "No, pero su cara me suena",
+                    "fr-FR": "Non, mais je le connais",
+                    "it-IT": "Mi ricorda qualcosa",
+                    "ko-KR": "얼굴로 종을 쳤다네",
+                    "pl-PL": "Czekaj, kojarzę gościa z twarzy",
+                    "ru-RU": "Нет, но он умеет звонить головой",
+                    "zh-CHT": "努力向上"
+                },
+                "description": {
+                    "de-DE": "Level 15 erreicht und ein Horde-Heiligtum gefunden",
+                    "en-US": "Reached level 15 and found some Horde Sanctuary",
+                    "es-ES": "Alcanzó el nivel 15 y encontró algún Santuario de Horda",
+                    "fr-FR": "A atteint le niveau 15 et a trouvé un Sanctuaire Horde",
+                    "it-IT": "Hai raggiunto il livello 15 e trovato riparo in Orda",
+                    "ko-KR": "Level 15에 도달하고 호드에게 안식을 선물했습니다.",
+                    "pl-PL": "Osiągnięto poziom 15 i znaleziono Sanktuarium Hordy",
+                    "ru-RU": "Достигнут 15-й уровень и найдено Убежище Орды",
+                    "zh-CHT": "在寺院地圖進行持久戰，並達到等級 15。"
+                },
+                "howto": {
+                    "de-DE": "Im Multiplayer-Modus Level 15 erreichen und auf der Zuflucht-Karte in Horde Wellen 1-20 abschließen",
+                    "en-US": "Reach level 15 in multiplayer and complete waves 1 - 20 on the Sanctuary map in Horde",
+                    "es-ES": "Alcance nivel 15 en multijugador y complete las oleadas 1 - 20 en el mapa Santuario en Horda",
+                    "fr-FR": "Atteindre le niveau 15 en multijoueur et repousser les vagues 1 à 20 sur Sanctuaire en Horde",
+                    "it-IT": "Raggiungi il livello 15 multiplayer e completa le ondate 1-20 nella mappa Riparo Orda",
+                    "ko-KR": "멀티 플레이 Level 15에 도달하고 Sanctuary 지도에서 호드 전투를 1부터 20까지 완료하십시오.",
+                    "pl-PL": "Osiągnij poz. 15 w grze wieloosobowej i ukończ fale 1 - 20 na mapie Sanktuarium w trybie Hordy",
+                    "ru-RU": "Достигнуть 15-го уровня в многопользоват. игре и завершить схватки Орды 1–20 на карте «Убежище»",
+                    "zh-CHT": "在多人遊戲中達到等級 15，並在寺院地圖抵擋 20 波獸族部隊的攻擊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "72.png"
+        },
+        "73": {
+            "text": {
+                "name": {
+                    "de-DE": "Zwischen den Wegen",
+                    "en-US": "Lost in Transition",
+                    "es-ES": "Perdido en la transición",
+                    "fr-FR": "Décalage horaire",
+                    "it-IT": "Sosta forzata",
+                    "ko-KR": "환승역",
+                    "pl-PL": "Zaginione w transporcie",
+                    "ru-RU": "Трудности перехода",
+                    "zh-CHT": "更上層樓"
+                },
+                "description": {
+                    "de-DE": "Level 20 erreicht und beim Horde-Wegpunkt angehalten",
+                    "en-US": "Reached level 20 and stopped at the Horde Way Station",
+                    "es-ES": "Alcanzó el nivel 20 y se detuvo en la Estación intermedia de Horda",
+                    "fr-FR": "A atteint le niveau 20 et s'est arrêté à la Gare Horde",
+                    "it-IT": "Hai raggiunto il livello 20 e ti sei fermato alla stazione secondaria in Orda",
+                    "ko-KR": "Level 20에 도달하고 역에서 호드와 잠깐 쉬었습니다.",
+                    "pl-PL": "Osiągnięto poziom 20 i zatrzymano się na Przystanku Hordy",
+                    "ru-RU": "Достигнут 20-й уровень на остановке по требованию",
+                    "zh-CHT": "在中繼站地圖進行持久戰，並達到等級 20。"
+                },
+                "howto": {
+                    "de-DE": "Im Multiplayer-Modus Level 20 erreichen und auf der Wegpunkt-Karte in Horde Wellen 1-20 abschließen",
+                    "en-US": "Reach level 20 in multiplayer and complete waves 1 - 20 on the Way Station map in Horde",
+                    "es-ES": "Alcance nivel 20 multijugador y complete las oleadas 1 - 20 en el mapa Estación intermedia en Horda",
+                    "fr-FR": "Atteindre le niveau 20 en multijoueur et repousser les vagues 1 à 20 sur la carte Gare en Horde",
+                    "it-IT": "Raggiungi il livello 20 multiplayer e completa le ondate 1-20 nella mappa Stazione secondaria Orda",
+                    "ko-KR": "멀티 플레이 Level 20에 도달하고 Way Station 지도에서 호드 전투를 1부터 20까지 완료하십시오.",
+                    "pl-PL": "Osiągnij poz. 20 w grze wieloosobowej i ukończ fale 1 - 20 na mapie Przystanek w trybie Hordy",
+                    "ru-RU": "Достигнуть 20-го ур. в многопольз. игре и завершить схватки Орды 1–20 на карте «Остановка по треб.»",
+                    "zh-CHT": "在多人遊戲中達到等級 20，並在中繼站地圖抵擋 20 波獸族部隊的攻擊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "73.png"
+        },
+        "74": {
+            "text": {
+                "name": {
+                    "de-DE": "Im Namen des Vaters",
+                    "en-US": "Like Father, Like Gun",
+                    "es-ES": "De tal padre, tal pistola",
+                    "fr-FR": "Tel père, tel flingue",
+                    "it-IT": "Tale padre, tale arma",
+                    "ko-KR": "아버지의 총으로",
+                    "pl-PL": "Nieodrodny syn Miecza",
+                    "ru-RU": "Как отец, как пушка",
+                    "zh-CHT": "登高望遠"
+                },
+                "description": {
+                    "de-DE": "Level 30 erreicht und Ihrer Horde Respekt gezollt",
+                    "en-US": "Reached level 30 and paid your Horde respects",
+                    "es-ES": "Alcanzó el nivel 30 y presentó sus respetos de Horda",
+                    "fr-FR": "A atteint le niveau 30 et a présenté ses respects à la Horde",
+                    "it-IT": "Hai raggiunto il livello 30 e hai porto i tuoi omaggi in Orda",
+                    "ko-KR": "Level 30에 도달하고 호드를 위해 묵념의 시간을 가졌습니다.",
+                    "pl-PL": "Osiągnięto poziom 30 i zapoznano się z Hordą",
+                    "ru-RU": "Достигнут 30-й уровень и воздано Орде",
+                    "zh-CHT": "在英烈花園地圖進行持久戰，並達到等級 30。"
+                },
+                "howto": {
+                    "de-DE": "In Multiplayer Level 30 erreichen und auf \"Allvaters Garten\"-Karte in Horde Wellen 1-30 abschließen",
+                    "en-US": "Reach level 30 in multiplayer and complete waves 1 - 30 on the Allfathers Garden map in Horde",
+                    "es-ES": "Alcance nivel 30 multijugador y complete las oleadas 1 - 30 en el mapa Jardín de los padres en Horda",
+                    "fr-FR": "Atteindre le niveau 30 en multijoueur et repousser les vagues 1 à 30 sur Jardin des dieux en Horde",
+                    "it-IT": "Raggiungi il livello 30 multiplayer e completa le ondate 1-30 in Giardino degli antenati Orda",
+                    "ko-KR": "멀티 플레이 Level 30에 도달하고 Allfathers Garden 지도에서 호드 전투를 1부터 30까지 완료하십시오.",
+                    "pl-PL": "Osiągnij poz. 30 w grze wieloosobowej i ukończ fale 1 - 30 na mapie Allfathers Garden w trybie Hordy",
+                    "ru-RU": "Достигнуть 30-го уровня в многопольз. игре и завершить схватки Орды 1–30 на карте «Сад Господень»",
+                    "zh-CHT": "在多人遊戲中達到等級 30，並在英烈花園地圖抵擋 30 波獸族部隊的攻擊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "74.png"
+        },
+        "75": {
+            "text": {
+                "name": {
+                    "de-DE": "Träume ich nur?",
+                    "en-US": "Am I Only Dreaming?",
+                    "es-ES": "¿Seguro que sólo es un sueño?",
+                    "fr-FR": "N'est-ce qu'un rêve ?",
+                    "it-IT": "Sogno o son desto?",
+                    "ko-KR": "이건 꿈인가?",
+                    "pl-PL": "Czy to sen, czy jawa?",
+                    "ru-RU": "Неужели это лишь сон?",
+                    "zh-CHT": "美夢成真"
+                },
+                "description": {
+                    "de-DE": "Level 40 erreicht und der Horde ein Denkmal gesetzt",
+                    "en-US": "Reached level 40 and Memorialized the Horde",
+                    "es-ES": "Alcanzó el nivel 40 y logró un Monumento para Horda.",
+                    "fr-FR": "A atteint le niveau 40 et a dressé un Mémorial en hommage à la Horde",
+                    "it-IT": "Hai raggiunto il livello 40 e visitato il monumento di Orda",
+                    "ko-KR": "Level 40에 도달하고 호드를 영원히 기념하기로 했습니다.",
+                    "pl-PL": "Osiągnięto poziom 40, upamiętniając Hordę",
+                    "ru-RU": "Достингут 40-й уровень и воздвигнут Мемориал Орде",
+                    "zh-CHT": "在紀念廣場地圖進行持久戰，並達到等級 40。"
+                },
+                "howto": {
+                    "de-DE": "Im Multiplayer-Modus Level 40 erreichen und auf der Denkmal-Karte in Horde Wellen 1-40 abschließen",
+                    "en-US": "Reach level 40 in multiplayer and complete waves 1 - 40 on the Memorial map in Horde",
+                    "es-ES": "Alcance nivel 40 en multijugador y complete las oleadas 1 - 40 en el mapa Monumento en Horda",
+                    "fr-FR": "Atteindre le niveau 40 en multijoueur et repousser les vagues 1 à 40 sur la carte Mémorial en Horde",
+                    "it-IT": "Raggiungi il livello 40 multiplayer e completa le ondate 1-40 nella mappa Monumento Orda",
+                    "ko-KR": "멀티 플레이 Level 40에 도달하고 Memorial 지도에서 호드 전투를 1부터 40까지 완료하십시오.",
+                    "pl-PL": "Osiągnij poz. 40 w grze wieloosobowej i ukończ fale 1 - 40 na mapie Pomnik w trybie Hordy",
+                    "ru-RU": "Достигнуть 40-го уровня в многопольз. игре и завершить схватки Орды 1–40 на карте «Мемориал»",
+                    "zh-CHT": "在多人遊戲中達到等級 40，並在紀念廣場地圖抵擋 40 波獸族部隊的攻擊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "75.png"
+        },
+        "76": {
+            "text": {
+                "name": {
+                    "de-DE": "Blut im Sand",
+                    "en-US": "Blood on the Sand",
+                    "es-ES": "Sangre en la arena",
+                    "fr-FR": "Du sang sur le sable",
+                    "it-IT": "Sangue sulla sabbia",
+                    "ko-KR": "피와 모래",
+                    "pl-PL": "Krew na piasku",
+                    "ru-RU": "Кровь на песке",
+                    "zh-CHT": "血戰"
+                },
+                "description": {
+                    "de-DE": "Level 50 erreicht und mit der Horde Nirgendwo erreicht",
+                    "en-US": "Reached level 50 and got Nowhere in Horde",
+                    "es-ES": "Alcanzó el nivel 50 y llegó a Ningún lugar en Horda",
+                    "fr-FR": "A atteint le niveau 50 et n’est allé Nulle part en Horde",
+                    "it-IT": "Hai raggiunto il livello 50 e ti sei perso nel nulla in Orda",
+                    "ko-KR": "Level 50에 도달하고 호드의 끝을 보았습니다.",
+                    "pl-PL": "Osiągnięto poziom 50 i osiągnięto Nigdzie w trybie Hordy",
+                    "ru-RU": "Достигнут 50-й уровень в Глухомани Орды",
+                    "zh-CHT": "在廢城地圖進行持久戰，並達到等級 50。"
+                },
+                "howto": {
+                    "de-DE": "Im Multiplayer-Modus Level 50 erreichen und auf der Nirgendwo-Karte in Horde Wellen 1-50 abschließen",
+                    "en-US": "Reach level 50 in multiplayer and complete waves 1 - 50 on the Nowhere map in Horde",
+                    "es-ES": "Alcance nivel 50 en multijugador y complete las oleadas 1 - 50 en el mapa Ningún lugar en Horda",
+                    "fr-FR": "Atteindre le niveau 50 en multijoueur et repousser les vagues 1 à 50 sur Nulle part en Horde",
+                    "it-IT": "Raggiungi il livello 50 multiplayer e completa le ondate 1-50 nella mappa Nel nulla Orda",
+                    "ko-KR": "멀티 플레이 Level 50에 도달하고 Nowhere 지도에서 호드 전투를 1부터 50까지 완료하십시오.",
+                    "pl-PL": "Osiągnij poz. 50 w grze wieloosobowej i ukończ fale 1 - 50 na mapie Nigdzie w trybie Hordy",
+                    "ru-RU": "Достигнуть 50-го уровня в многопольз. игре и завершить схватки Орды 1–50 на карте «Глухомань»",
+                    "zh-CHT": "在多人遊戲中達到等級 50，並在廢城地圖抵擋 50 波獸族部隊的攻擊。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "76.png"
+        },
+        "77": {
+            "text": {
+                "name": {
+                    "de-DE": "Angst vor der Dunkelheit",
+                    "en-US": "Afraid of the Dark",
+                    "es-ES": "Miedo a la oscuridad",
+                    "fr-FR": "Peur du noir",
+                    "it-IT": "Paura del buio",
+                    "ko-KR": "어둠이 두려운가?",
+                    "pl-PL": "Lęk przed ciemnością",
+                    "ru-RU": "Страх темноты",
+                    "zh-CHT": "關鍵決戰地圖達人"
+                },
+                "description": {
+                    "de-DE": "Auf jeder Karte des Dark Corners-Kartenpakets ein Spiel gespielt",
+                    "en-US": "Played a match on all of the Dark Corners Map Pack maps",
+                    "es-ES": "Jugó una partida en todos los mapas del paquete de mapas Dark Corners",
+                    "fr-FR": "A joué une partie sur toutes les cartes du pack Dark Corners",
+                    "it-IT": "Hai disputato una partita in tutte le mappe del map pack Dark Corners",
+                    "ko-KR": "모든 어둠의 전장 지도에서 한 번씩 매치를 플레이했습니다.",
+                    "pl-PL": "Rozegrano mecz na wszystkich mapach pakietu Ciemne Zakątki",
+                    "ru-RU": "Сыграны матчи на каждой карте из набора «Темные закоулки»",
+                    "zh-CHT": "在關鍵決戰地圖套件中的每張地圖各進行一場遊戲。"
+                },
+                "howto": {
+                    "de-DE": "Auf allen 7 Karten des Dark Corners-Kartenpakets ein Multiplayer-Spiel spielen (beliebiger Modus)",
+                    "en-US": "Play a multiplayer match on each of the 7 Dark Corners Map Pack maps (any mode)",
+                    "es-ES": "Juegue una partida en cada uno de los 7 mapas del paquete de mapas Dark Corners (cualquier modo)",
+                    "fr-FR": "Jouer une partie multijoueur sur chacune des 7 cartes du pack Dark Corners (tout mode)",
+                    "it-IT": "Gioca una partita multiplayer in tutte le 7 mappe del map pack Dark Corners (qualsiasi modalità)",
+                    "ko-KR": "어둠의 전장 지도 7개 모두에서 매치를 플레이하십시오.(게임 모드 상관없음)",
+                    "pl-PL": "Rozegraj mecz wieloosobowy na każdej z siedmiu map pakietu Ciemne Zakątki (dowolny tryb)",
+                    "ru-RU": "Сыграть многопользовательский матч на каждой из 7 карт из набора «Темные закоулки» (в любом режиме)",
+                    "zh-CHT": "不限模式，在關鍵決戰地圖套件中的七張地圖各進行一場多人遊戲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "77.png"
+        },
+        "78": {
+            "text": {
+                "name": {
+                    "de-DE": "Er ging nicht sanft",
+                    "en-US": "Did Not Go Gentle",
+                    "es-ES": "Sin ningún tipo de amabilidad",
+                    "fr-FR": "Comme dans du beurre",
+                    "it-IT": "Vacci giù pesante",
+                    "ko-KR": "순순히 잠들지 않아",
+                    "pl-PL": "Po dobroci się nie dało",
+                    "ru-RU": "Без церемоний",
+                    "zh-CHT": "關鍵決戰對戰高手"
+                },
+                "description": {
+                    "de-DE": "Auf jeder Karte des Dark Corners-Kartenpakets ein Spiel gewonnen",
+                    "en-US": "Won a match on all of the Dark Corners Map Pack maps",
+                    "es-ES": "Ganó una partida en todos los mapas del paquete de mapas Dark Corners",
+                    "fr-FR": "A remporté une partie sur toutes les cartes du pack Dark Corners",
+                    "it-IT": "Hai vinto una partita in tutte le mappe del map pack Dark Corners",
+                    "ko-KR": "모든 어둠의 전장 지도에서 매치를 승리했습니다.",
+                    "pl-PL": "Wygrano mecz na wszystkich mapach pakietu Ciemne Zakątki",
+                    "ru-RU": "Выиграны матчи на каждой карте из набора «Темные закоулки»",
+                    "zh-CHT": "在關鍵決戰地圖套件中的每張地圖各贏得一場多人遊戲。"
+                },
+                "howto": {
+                    "de-DE": "Ein Multiplayer-Spiel auf allen 7 Karten des Dark Corners-Kartenpakets gewinnen (beliebiger Modus)",
+                    "en-US": "Win a multiplayer match on each of the 7 Dark Corners Map Pack maps (any mode)",
+                    "es-ES": "Gane una partida multijugador en los 7 mapas del paquete de mapas Dark Corners (cualquier modo)",
+                    "fr-FR": "Remporter une partie multijoueur sur chacune des 7 cartes du pack Dark Corners (tout mode)",
+                    "it-IT": "Vinci una partita multiplayer in tutte le 7 mappe del map pack Dark Corners (qualsiasi modalità)",
+                    "ko-KR": "어둠의 전장 지도 7개 모두에서 매치를 승리하십시오.(게임 모드 상관없음)",
+                    "pl-PL": "Wygraj mecz wieloosobowy na każdej z siedmiu map pakietu Ciemne Zakątki (dowolny tryb)",
+                    "ru-RU": "Выиграть многопользовательский матч на каждой из 7 карт из набора «Темные закоулки» (в любом режиме)",
+                    "zh-CHT": "不限模式，在關鍵決戰地圖套件中七張地圖各贏得一場多人遊戲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "78.png"
+        },
+        "79": {
+            "text": {
+                "name": {
+                    "de-DE": "Ist es heiß, oder sind Sie das?",
+                    "en-US": "Is It Hot or Is That Just You?",
+                    "es-ES": "¿Hace calor, o es cosa tuya?",
+                    "fr-FR": "Il y a quelque chose qui brûle !",
+                    "it-IT": "Sei tu o fa caldo?",
+                    "ko-KR": "바베큐 파티",
+                    "pl-PL": "Czy ten żar bije od ciebie?",
+                    "ru-RU": "Горячо или для тебя как раз?",
+                    "zh-CHT": "血騎獸屠夫"
+                },
+                "description": {
+                    "de-DE": "Ein Bloodmount-Barbecue mit 25 Gängen angerichtet",
+                    "en-US": "Cooked up some Bloodmount BBQ with 25 roastings",
+                    "es-ES": "Preparó una fiesta en la que asó a 25 Bloodmounts",
+                    "fr-FR": "A cuisiné 25 sanguinators à feu doux",
+                    "it-IT": "Hai arrostito 25 Bloodmount",
+                    "ko-KR": "블러드마운트 25마리를 노릇하게 구웠습니다.",
+                    "pl-PL": "Upieczono grilla z 25 Juchaczy",
+                    "ru-RU": "Зажарено 25 Кровяных колбасок",
+                    "zh-CHT": "使用地獄火焰發射器殺死 25 隻血騎獸。"
+                },
+                "howto": {
+                    "de-DE": "Mit Horde auf einer Karte des Dark Corners-Kartenpakets 25 Bloodmounts mit einem Scorcher töten",
+                    "en-US": "Kill 25 Bloodmounts with a Scorcher while playing Horde on a Dark Corners Map Pack map",
+                    "es-ES": "Mate 25 Bloodmounts con lanzallamas jugando en Horda en un mapa del paquete de mapas Dark Corners",
+                    "fr-FR": "Tuer 25 sanguinators avec un Calcinator lors d'une partie Horde sur une carte du pack Dark Corners",
+                    "it-IT": "Uccidi 25 Bloodmount con uno Scorcher in una mappa del map pack Dark Corners in modalità Orda",
+                    "ko-KR": "어둠의 전장 지도 중 하나에서 호드 게임 중에 블러드마운트 25마리를 스콜처 화염방사기로 사살하십시오.",
+                    "pl-PL": "Zabij 25 Juchaczy miotaczem ognia, grając w trybie Hordy na mapie z pakietu Ciemne Zakątki",
+                    "ru-RU": "Убить 25 Кровяных колбас из огнемета «Пекло» на картах из набора «Темные закоулки»",
+                    "zh-CHT": "在關鍵決戰地圖套件中進行持久戰，並使用地獄火焰發射器殺死 25 隻血騎獸。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "79.png"
+        }
+    }
+}

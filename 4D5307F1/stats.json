@@ -1,0 +1,1374 @@
+{
+    "properties": {
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Total Performed",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Minutes Played",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Decapitations",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Groin Shots",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Weapons Shot Out Of Hand",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Reversals",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Total Damage Dealt",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Total Mana Spent",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Total Damage Taken",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Number Of Times Died",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Resurrection Phials Used",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Number of Hits Taken",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Number Of Attacks Blocked",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Flourishes Done",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Most CoOp Strikes",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Villagers Killed",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Guards Killed",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Hobbes Killed",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Beetles Killed",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Bandits Killed",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Hollowmen Killed",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Shadows Killed",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Spire Guards Killed",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Lucien Soldiers Killed",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Shards Killed",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Trolls Killed",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Balverines Killed",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Banshees Killed",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Most Money Earned",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Most Money Spent",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Most Money Right Now",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Money Made Bartending",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Money Made Woodchopping",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Money Made Blacksmithing",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Money Made in Spinnerbox",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Money Made in Keystone",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Money Made in Fortunes Tower",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Money Made from Real Estate",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Money Made from Assassinations",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Money Made from Bounty Hunts",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Money Made from Slavery",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Total Renown",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Most Trophy Renown",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Gold Donated to the Temple of Light",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "People Sacrificed at the Temple of Shadows",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Assassinations Completed",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Bounties Collected",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Slaves Rescued",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Civilians Displaced",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Most Good Points",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Most Evil Points",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Most Purity Points",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Most Corruption Points",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Total of All Experience Earned",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Total Strength Experience Earned",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Total Skill Experience Earned",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Total Will Experience Earned",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Total General Experience Earned",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Top Score at the Westcliff Shooting Range",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Biggest Single Win in Spinnerbox",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Biggest Single Win in Keystone",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Biggest Single Win in Fortunes Tower",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Number of People Who Have Fallen in Love With You",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Number of Times Married",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Number of Times Divorced",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Number of Times Widowed",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Number of Children",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Love Earned",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Humour Earned",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Fear Earned",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Hate Earned",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Number of Times Had Marital Sex",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Number of Times Had Extramarital Sex",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Number of Times Paid for Sex",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Number of NPC Rewards Collected",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Most CoOp Expression Bonuses",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Number of Crimes Committed",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Crime Fines Levied",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Crime Fines Paid",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Crime Fines Paid Through Community Service",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Total Food and Drink Consumed",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Total Alchohol Consumed",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Total Potions Consumed",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Total Amount of Time Spent Drunk",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Total Vomits",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Total Distance Travelled",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Number Of Chickens Kicked",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Furthest Chicken Kick",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Best Crucible Time",
+            "method": "min",
+            "statId": 1
+        },
+        "0x20000017": {
+            "info": "Ranking Inverse",
+            "method": "max",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "STDs Contracted",
+            "method": "sum",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x20000015": {
+            "info": "Total Kills",
+            "method": "max",
+            "statId": 65534
+        }
+    }
+}

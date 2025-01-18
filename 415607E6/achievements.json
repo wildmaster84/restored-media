@@ -1,0 +1,1077 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Schaffen Sie den Sprung",
+                    "en-US": "Make the Jump",
+                    "es-ES": "A saltar",
+                    "fr-FR": "Le saut",
+                    "it-IT": "Fai il grande salto"
+                },
+                "description": {
+                    "de-DE": "Infiltrieren Sie das Frachtschiff.",
+                    "en-US": "Infiltrate a cargo ship",
+                    "es-ES": "Infíltrate en el carguero",
+                    "fr-FR": "Infiltrer un cargo",
+                    "it-IT": "Infiltrati nel mercantile"
+                },
+                "howto": {
+                    "de-DE": "Infiltrieren Sie das Frachtschiff.",
+                    "en-US": "Infiltrate a cargo ship",
+                    "es-ES": "Infíltrate en el carguero",
+                    "fr-FR": "Infiltrer un cargo",
+                    "it-IT": "Infiltrati nel mercantile"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Bekommen Sie das SAS-Abzeichen",
+                    "en-US": "Earn a Winged Dagger",
+                    "es-ES": "Ganarse una daga alada",
+                    "fr-FR": "Gagner une dague ailée",
+                    "it-IT": "Ottieni il pugnale alato."
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Mission 'Der Neue'.",
+                    "en-US": "Complete 'F.N.G.'",
+                    "es-ES": "Completa 'P.N.S.'",
+                    "fr-FR": "Bleu",
+                    "it-IT": "Completa \"F.N.G.\""
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Mission 'Der Neue'.",
+                    "en-US": "Complete 'F.N.G.'",
+                    "es-ES": "Completa 'P.N.S.'",
+                    "fr-FR": "Bleu",
+                    "it-IT": "Completa \"F.N.G.\""
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Gewinnen Sie den Krieg",
+                    "en-US": "Win the War",
+                    "es-ES": "Ganar la guerra",
+                    "fr-FR": "Gagner la guerre",
+                    "it-IT": "Corsa alla vittoria"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie das Spiel auf beliebiger Schwierigkeitsstufe.",
+                    "en-US": "Complete the game on any difficulty",
+                    "es-ES": "Completa el juego en cualquier dificultad",
+                    "fr-FR": "Terminer le jeu",
+                    "it-IT": "Completa il gioco a un qualunque livello di difficoltà."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie das Spiel auf beliebiger Schwierigkeitsstufe.",
+                    "en-US": "Complete the game on any difficulty",
+                    "es-ES": "Completa el juego en cualquier dificultad",
+                    "fr-FR": "Terminer le jeu",
+                    "it-IT": "Completa il gioco a un qualunque livello di difficoltà."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Verdammt dunkel",
+                    "en-US": "Dancing in the Dark",
+                    "es-ES": "Bailar a oscuras",
+                    "fr-FR": "Danse dans la pénombre",
+                    "it-IT": "Ballando nella notte"
+                },
+                "description": {
+                    "de-DE": "Schalten Sie den Strom ab.",
+                    "en-US": "Kill the power",
+                    "es-ES": "Corta la electricidad",
+                    "fr-FR": "Couper le courant",
+                    "it-IT": "Togli l'alimentazione"
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie den Strom ab.",
+                    "en-US": "Kill the power",
+                    "es-ES": "Corta la electricidad",
+                    "fr-FR": "Couper le courant",
+                    "it-IT": "Togli l'alimentazione"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Schweinerei",
+                    "en-US": "Save the Bacon",
+                    "es-ES": "Salvar el beicon",
+                    "fr-FR": "Sauver le jambon",
+                    "it-IT": "Salva il bestione"
+                },
+                "description": {
+                    "de-DE": "Schützen Sie 'War Pig', den Abrams-Panzer",
+                    "en-US": "Protect 'War Pig', the Abrams tank",
+                    "es-ES": "Protege al 'Jabalí', el tanque Abrams",
+                    "fr-FR": "Protéger Sanglier, le char Abrams",
+                    "it-IT": "Proteggi \"War Pig\", il carro armato Abrams."
+                },
+                "howto": {
+                    "de-DE": "Schützen Sie 'War Pig', den Abrams-Panzer",
+                    "en-US": "Protect 'War Pig', the Abrams tank",
+                    "es-ES": "Protege al 'Jabalí', el tanque Abrams",
+                    "fr-FR": "Protéger Sanglier, le char Abrams",
+                    "it-IT": "Proteggi \"War Pig\", il carro armato Abrams."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "05.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Tod kommt von oben",
+                    "en-US": "Death From Above",
+                    "es-ES": "Muerte aérea",
+                    "fr-FR": "La mort vient du ciel",
+                    "it-IT": "Morte dall'alto"
+                },
+                "description": {
+                    "de-DE": "Bedienen Sie ein AC-130 Kampfflugzeug.",
+                    "en-US": "Operate an AC-130 gun ship",
+                    "es-ES": "Pilota un avión AC-130",
+                    "fr-FR": "Opérer un AC-130",
+                    "it-IT": "Aprire il fuoco dall'AC-130"
+                },
+                "howto": {
+                    "de-DE": "Bedienen Sie ein AC-130 Kampfflugzeug.",
+                    "en-US": "Operate an AC-130 gun ship",
+                    "es-ES": "Pilota un avión AC-130",
+                    "fr-FR": "Opérer un AC-130",
+                    "it-IT": "Aprire il fuoco dall'AC-130"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "06.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Falsche Adresse",
+                    "en-US": "Wrong Number",
+                    "es-ES": "Número erróneo",
+                    "fr-FR": "Mauvais numéro",
+                    "it-IT": "Numero errato"
+                },
+                "description": {
+                    "de-DE": "Finden Sie Al-Asads Versteck.",
+                    "en-US": "Find Al-Asad's safehouse",
+                    "es-ES": "Encuentra el refugio de Al-Asad",
+                    "fr-FR": "Trouver la planque de Al-Asad",
+                    "it-IT": "Trova il nascondiglio di Al-Asad"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie Al-Asads Versteck.",
+                    "en-US": "Find Al-Asad's safehouse",
+                    "es-ES": "Encuentra el refugio de Al-Asad",
+                    "fr-FR": "Trouver la planque de Al-Asad",
+                    "it-IT": "Trova il nascondiglio di Al-Asad"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "07.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "Huckepacktouristen",
+                    "en-US": "Piggyback Ride",
+                    "es-ES": "A cuestas",
+                    "fr-FR": "Sur le dos",
+                    "it-IT": "Gita sulle spalle"
+                },
+                "description": {
+                    "de-DE": "Tragen Sie Cpt. MacMillian in Sicherheit.",
+                    "en-US": "Carry Cpt. MacMillian to safety",
+                    "es-ES": "Pon a salvo al capitán MacMillan",
+                    "fr-FR": "Mettre le capitaine MacMillan à l'abri",
+                    "it-IT": "Porta al sicuro il cap. MacMillian."
+                },
+                "howto": {
+                    "de-DE": "Tragen Sie Cpt. MacMillian in Sicherheit.",
+                    "en-US": "Carry Cpt. MacMillian to safety",
+                    "es-ES": "Pon a salvo al capitán MacMillan",
+                    "fr-FR": "Mettre le capitaine MacMillan à l'abri",
+                    "it-IT": "Porta al sicuro il cap. MacMillian."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "08.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "In die Enge getrieben",
+                    "en-US": "Desperate Measures",
+                    "es-ES": "Medidas desesperadas",
+                    "fr-FR": "Mesures désespérées",
+                    "it-IT": "Rimedi estremi"
+                },
+                "description": {
+                    "de-DE": "Drängen Sie Zakhaevs Sohn in die Enge.",
+                    "en-US": "Corner Zakhaev's Son",
+                    "es-ES": "Acorrala al hijo de Zakhaev",
+                    "fr-FR": "Coincer le fils de Zakhaev",
+                    "it-IT": "Metti il figlio di Zakhaev con le spalle al muro."
+                },
+                "howto": {
+                    "de-DE": "Drängen Sie Zakhaevs Sohn in die Enge.",
+                    "en-US": "Corner Zakhaev's Son",
+                    "es-ES": "Acorrala al hijo de Zakhaev",
+                    "fr-FR": "Coincer le fils de Zakhaev",
+                    "it-IT": "Metti il figlio di Zakhaev con le spalle al muro."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "Augen auf",
+                    "en-US": "Look Sharp",
+                    "es-ES": "Atento",
+                    "fr-FR": "Sur le qui-vive",
+                    "it-IT": "All'erta"
+                },
+                "description": {
+                    "de-DE": "Finden Sie 15 feindliche Informationen.",
+                    "en-US": "Find 15 enemy intel items",
+                    "es-ES": "Encuentra 15 objetos con información enemiga",
+                    "fr-FR": "Trouver 15 renseignements ennemis",
+                    "it-IT": "Trova 15 documenti intelligence nemici."
+                },
+                "howto": {
+                    "de-DE": "Finden Sie 15 feindliche Informationen.",
+                    "en-US": "Find 15 enemy intel items",
+                    "es-ES": "Encuentra 15 objetos con información enemiga",
+                    "fr-FR": "Trouver 15 renseignements ennemis",
+                    "it-IT": "Trova 15 documenti intelligence nemici."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "10.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "Augen und Ohren",
+                    "en-US": "Eyes and Ears",
+                    "es-ES": "Ojos y oídos",
+                    "fr-FR": "Yeux et oreilles",
+                    "it-IT": "Occhi e orecchie ovunque"
+                },
+                "description": {
+                    "de-DE": "Finden Sie 30 feindliche Informationen.",
+                    "en-US": "Find 30 enemy intel items",
+                    "es-ES": "Encuentra 30 objetos con información enemiga",
+                    "fr-FR": "Trouver 30 renseignements ennemis",
+                    "it-IT": "Trova 30 documenti intelligence nemici."
+                },
+                "howto": {
+                    "de-DE": "Finden Sie 30 feindliche Informationen.",
+                    "en-US": "Find 30 enemy intel items",
+                    "es-ES": "Encuentra 30 objetos con información enemiga",
+                    "fr-FR": "Trouver 30 renseignements ennemis",
+                    "it-IT": "Trova 30 documenti intelligence nemici."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "11.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Runter!",
+                    "en-US": "Down Boy Down",
+                    "es-ES": "Sit, sit",
+                    "fr-FR": "Couché le chien",
+                    "it-IT": "Buono, bello... buono..."
+                },
+                "description": {
+                    "de-DE": "Überleben Sie einen Hundeangriff.",
+                    "en-US": "Survive a dog attack",
+                    "es-ES": "Sobrevive al ataque del perro",
+                    "fr-FR": "Survivre à une attaque canine",
+                    "it-IT": "Sopravvivi all'attacco di un cane."
+                },
+                "howto": {
+                    "de-DE": "Überleben Sie einen Hundeangriff.",
+                    "en-US": "Survive a dog attack",
+                    "es-ES": "Sobrevive al ataque del perro",
+                    "fr-FR": "Survivre à une attaque canine",
+                    "it-IT": "Sopravvivi all'attacco di un cane."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "12.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Neuer Trupprekord",
+                    "en-US": "New Squadron Record",
+                    "es-ES": "Nuevo récord del escuadrón",
+                    "fr-FR": "Record du groupe",
+                    "it-IT": "Nuovo record di squadra"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Frachtschiffsimulation in weniger als 20 Sekunden.",
+                    "en-US": "Complete the cargo ship mockup in less than 20 seconds",
+                    "es-ES": "Completa la maqueta del carguero en menos de 20 segundos",
+                    "fr-FR": "Terminer le niveau du cargo en moins de 20 secondes",
+                    "it-IT": "Completa il percorso del mercantile simulato in meno di 20 secondi."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Frachtschiffsimulation in weniger als 20 Sekunden.",
+                    "en-US": "Complete the cargo ship mockup in less than 20 seconds",
+                    "es-ES": "Completa la maqueta del carguero en menos de 20 segundos",
+                    "fr-FR": "Terminer le niveau du cargo en moins de 20 secondes",
+                    "it-IT": "Completa il percorso del mercantile simulato in meno di 20 secondi."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "13.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Retten Sie Roycewicz",
+                    "en-US": "Rescue Roycewicz",
+                    "es-ES": "Rescata a Roycewicz",
+                    "fr-FR": "Sauver Roycewicz",
+                    "it-IT": "Salva Roycewicz"
+                },
+                "description": {
+                    "de-DE": "Retten Sie Pvt. Roycewicz von der Treppe.",
+                    "en-US": "Save Pvt. Roycewicz on the stairs",
+                    "es-ES": "Salva al soldado Roycewicz en las escaleras",
+                    "fr-FR": "Sauver le soldat Roycewicz dans l'escalier",
+                    "it-IT": "Salva il soldato Roycewicz sulle scale."
+                },
+                "howto": {
+                    "de-DE": "Retten Sie Pvt. Roycewicz von der Treppe.",
+                    "en-US": "Save Pvt. Roycewicz on the stairs",
+                    "es-ES": "Salva al soldado Roycewicz en las escaleras",
+                    "fr-FR": "Sauver le soldat Roycewicz dans l'escalier",
+                    "it-IT": "Salva il soldato Roycewicz sulle scale."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "14.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Langweiliges Fernsehprogramm",
+                    "en-US": "Your Show Sucks",
+                    "es-ES": "Tu programa es espantoso",
+                    "fr-FR": "Mauvaise émission",
+                    "it-IT": "TV spazzatura"
+                },
+                "description": {
+                    "de-DE": "Zerstören Sie alle Fernseher mit Al-Asads Rede.",
+                    "en-US": "Destroy all the TVs showing Al-Asad's speech",
+                    "es-ES": "Destruye todas las televisiones que emiten el discurso de Al-Asad",
+                    "fr-FR": "Détruire les télévisions qui retransmettent le discours d'Al-Asad",
+                    "it-IT": "Distruggi tutti i televisori che trasmettono il discorso di Al-Asad."
+                },
+                "howto": {
+                    "de-DE": "Zerstören Sie alle Fernseher mit Al-Asads Rede.",
+                    "en-US": "Destroy all the TVs showing Al-Asad's speech",
+                    "es-ES": "Destruye todas las televisiones que emiten el discurso de Al-Asad",
+                    "fr-FR": "Détruire les télévisions qui retransmettent le discours d'Al-Asad",
+                    "it-IT": "Distruggi tutti i televisori che trasmettono il discorso di Al-Asad."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "15.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "Mann des Volkes",
+                    "en-US": "Man of the People",
+                    "es-ES": "Un hombre popular",
+                    "fr-FR": "Homme du peuple",
+                    "it-IT": "Uomo del popolo"
+                },
+                "description": {
+                    "de-DE": "Retten Sie den Bauern.",
+                    "en-US": "Save the farmer",
+                    "es-ES": "Salva al granjero",
+                    "fr-FR": "Sauver le fermier",
+                    "it-IT": "Salva il contadino"
+                },
+                "howto": {
+                    "de-DE": "Retten Sie den Bauern.",
+                    "en-US": "Save the farmer",
+                    "es-ES": "Salva al granjero",
+                    "fr-FR": "Sauver le fermier",
+                    "it-IT": "Salva il contadino"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "16.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Fünf auf einen Streich",
+                    "en-US": "Straight Flush",
+                    "es-ES": "Escalera de color",
+                    "fr-FR": "Suite",
+                    "it-IT": "Piazza pulita"
+                },
+                "description": {
+                    "de-DE": "Schalten Sie fünf Feinde mit einem Schuss aus dem AC-130 Kampfflugzeug aus.",
+                    "en-US": "Kill 5 enemies with one shot while in the AC-130 gunship",
+                    "es-ES": "Mata a 5 enemigos de un disparo mientras estás en el avión AC-130",
+                    "fr-FR": "Tuer 5 ennemis d'un seul coup en étant dans le AC-130",
+                    "it-IT": "Elimina 5 nemici in un solo colpo con la mitragliatrice dell'AC-130."
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie fünf Feinde mit einem Schuss aus dem AC-130 Kampfflugzeug aus.",
+                    "en-US": "Kill 5 enemies with one shot while in the AC-130 gunship",
+                    "es-ES": "Mata a 5 enemigos de un disparo mientras estás en el avión AC-130",
+                    "fr-FR": "Tuer 5 ennemis d'un seul coup en étant dans le AC-130",
+                    "it-IT": "Elimina 5 nemici in un solo colpo con la mitragliatrice dell'AC-130."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "17.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Gut getarnt",
+                    "en-US": "Ghillies In The Mist",
+                    "es-ES": "Guías en la niebla",
+                    "fr-FR": "Dans le brouillard",
+                    "it-IT": "Nascosti nella nebbia"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Mission 'Gut getarnt', ohne die Feinde zu alarmieren.",
+                    "en-US": "Complete 'All Ghillied Up' without alerting any enemies",
+                    "es-ES": "Completa 'Todos camuflados' sin alertar a los enemigos",
+                    "fr-FR": "Terminer la mission \"Camouflage\" sans alerter un seul ennemi",
+                    "it-IT": "Completa la missione \"Mimetizzazione perfetta\" senza farti mai scoprire."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Mission 'Gut getarnt', ohne die Feinde zu alarmieren.",
+                    "en-US": "Complete 'All Ghillied Up' without alerting any enemies",
+                    "es-ES": "Completa 'Todos camuflados' sin alertar a los enemigos",
+                    "fr-FR": "Terminer la mission \"Camouflage\" sans alerter un seul ennemi",
+                    "it-IT": "Completa la missione \"Mimetizzazione perfetta\" senza farti mai scoprire."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "18.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "Über den Wolken",
+                    "en-US": "Mile High Club",
+                    "es-ES": "Club del ligue aéreo",
+                    "fr-FR": "En plein air",
+                    "it-IT": "Club Mile High"
+                },
+                "description": {
+                    "de-DE": "Springen Sie auf der Schwierigkeitsstufe Veteran aus dem Flieger ab und in Sicherheit.",
+                    "en-US": "Sky dive to safety on Veteran difficulty",
+                    "es-ES": "Salta en paracaídas y ponte a salvo en dificultad veterano",
+                    "fr-FR": "Atterrir en lieu sûr en difficulté vétéran",
+                    "it-IT": "Plana al sicuro giocando a livello di difficoltà Veterano."
+                },
+                "howto": {
+                    "de-DE": "Springen Sie auf der Schwierigkeitsstufe Veteran aus dem Flieger ab und in Sicherheit.",
+                    "en-US": "Sky dive to safety on Veteran difficulty",
+                    "es-ES": "Salta en paracaídas y ponte a salvo en dificultad veterano",
+                    "fr-FR": "Atterrir en lieu sûr en difficulté vétéran",
+                    "it-IT": "Plana al sicuro giocando a livello di difficoltà Veterano."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "19.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "de-DE": "Keine Ruhe",
+                    "en-US": "No Rest for the Weary",
+                    "es-ES": "No hay respiro para los cansados",
+                    "fr-FR": "Pas de repos pour les braves",
+                    "it-IT": "Non c'è posto per i deboli"
+                },
+                "description": {
+                    "de-DE": "Stechen Sie einen verletzten und am Boden liegenden Feind ab.",
+                    "en-US": "Stab an injured crawling enemy",
+                    "es-ES": "Apuñala a un enemigo herido que se arrastre",
+                    "fr-FR": "Mettre un coup de couteau à un ennemi rampant",
+                    "it-IT": "Pugnala un nemico ferito mentre striscia ancora a terra."
+                },
+                "howto": {
+                    "de-DE": "Stechen Sie einen verletzten und am Boden liegenden Feind ab.",
+                    "en-US": "Stab an injured crawling enemy",
+                    "es-ES": "Apuñala a un enemigo herido que se arrastre",
+                    "fr-FR": "Mettre un coup de couteau à un ennemi rampant",
+                    "it-IT": "Pugnala un nemico ferito mentre striscia ancora a terra."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "20.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "Das volle Programm",
+                    "en-US": "Deep and Hard",
+                    "es-ES": "A dar caña",
+                    "fr-FR": "Toujours plus dur",
+                    "it-IT": "Fino in fondo"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie das Spiel auf den Schwierigkeitsstufen Söldner oder Veteran.",
+                    "en-US": "Complete the game on Hardened or Veteran difficulty",
+                    "es-ES": "Completa el juego en dificultad curtido o veterano",
+                    "fr-FR": "Terminer le jeu en difficulté vétéran ou commando",
+                    "it-IT": "Completa il gioco a difficoltà Esperto o Veterano."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie das Spiel auf den Schwierigkeitsstufen Söldner oder Veteran.",
+                    "en-US": "Complete the game on Hardened or Veteran difficulty",
+                    "es-ES": "Completa el juego en dificultad curtido o veterano",
+                    "fr-FR": "Terminer le jeu en difficulté vétéran ou commando",
+                    "it-IT": "Completa il gioco a difficoltà Esperto o Veterano."
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "90",
+            "imageId": "21.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "de-DE": "Das Paket",
+                    "en-US": "The Package",
+                    "es-ES": "El paquete",
+                    "fr-FR": "Le colis",
+                    "it-IT": "Il \"carico\""
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Mission 'Besatzung entbehrlich' auf der Schwierigkeitsstufe Veteran.",
+                    "en-US": "Complete 'Crew Expendable' on Veteran difficulty",
+                    "es-ES": "Completa 'Tripulación prescindible' en dificultad veterano",
+                    "fr-FR": "Terminer la mission \"Équipage sans importance\" en difficulté vétéran",
+                    "it-IT": "Completa la missione \"Equipaggio sacrificabile\" a difficoltà Veterano."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Mission 'Besatzung entbehrlich' auf der Schwierigkeitsstufe Veteran.",
+                    "en-US": "Complete 'Crew Expendable' on Veteran difficulty",
+                    "es-ES": "Completa 'Tripulación prescindible' en dificultad veterano",
+                    "fr-FR": "Terminer la mission \"Équipage sans importance\" en difficulté vétéran",
+                    "it-IT": "Completa la missione \"Equipaggio sacrificabile\" a difficoltà Veterano."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "40",
+            "imageId": "22.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Rettung",
+                    "en-US": "The Rescue",
+                    "es-ES": "El rescate",
+                    "fr-FR": "Le sauvetage",
+                    "it-IT": "Salvataggio"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Mission 'Blackout' auf der Schwierigkeitsstufe Veteran.",
+                    "en-US": "Complete 'Blackout' on Veteran difficulty",
+                    "es-ES": "Completa 'Apagón' en dificultad veterano",
+                    "fr-FR": "Terminer la mission \"Coupure\" en vétéran",
+                    "it-IT": "Completa la missione \"Blackout\" a difficoltà Veterano."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Mission 'Blackout' auf der Schwierigkeitsstufe Veteran.",
+                    "en-US": "Complete 'Blackout' on Veteran difficulty",
+                    "es-ES": "Completa 'Apagón' en dificultad veterano",
+                    "fr-FR": "Terminer la mission \"Coupure\" en vétéran",
+                    "it-IT": "Completa la missione \"Blackout\" a difficoltà Veterano."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "40",
+            "imageId": "23.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Suche",
+                    "en-US": "The Search",
+                    "es-ES": "La búsqueda",
+                    "fr-FR": "Recherche",
+                    "it-IT": "Il setaccio"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Mission 'Charlie surft nicht!' auf der Schwierigkeitsstufe Veteran.",
+                    "en-US": "Complete 'Charlie Don't Surf' on Veteran difficulty",
+                    "es-ES": "Completa 'Charlie no hace surf' en dificultad veterano",
+                    "fr-FR": "Terminer la mission \"Charlie ne surfe pas\" en vétéran",
+                    "it-IT": "Completa la missione \"Charlie non fa surf\" a difficoltà Veterano."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Mission 'Charlie surft nicht!' auf der Schwierigkeitsstufe Veteran.",
+                    "en-US": "Complete 'Charlie Don't Surf' on Veteran difficulty",
+                    "es-ES": "Completa 'Charlie no hace surf' en dificultad veterano",
+                    "fr-FR": "Terminer la mission \"Charlie ne surfe pas\" en vétéran",
+                    "it-IT": "Completa la missione \"Charlie non fa surf\" a difficoltà Veterano."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "40",
+            "imageId": "24.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Sumpf",
+                    "en-US": "The Bog",
+                    "es-ES": "El pantano",
+                    "fr-FR": "Le marais",
+                    "it-IT": "L'acquitrino"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Missionen 'Der Sumpf' und 'Rufzeichen 'War Pig'' auf der Stufe Veteran.",
+                    "en-US": "Complete 'The Bog' and 'War Pig' on Veteran difficulty",
+                    "es-ES": "Completa 'El pantano' y 'Jabalí' en dificultad veterano",
+                    "fr-FR": "Terminer les missions \"Le marais\" et \"Sanglier\" en vétéran",
+                    "it-IT": "Completa le missioni \"L'acquitrino\" e \"War Pig\" a difficoltà Veterano."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Missionen 'Der Sumpf' und 'Rufzeichen 'War Pig'' auf der Stufe Veteran.",
+                    "en-US": "Complete 'The Bog' and 'War Pig' on Veteran difficulty",
+                    "es-ES": "Completa 'El pantano' y 'Jabalí' en dificultad veterano",
+                    "fr-FR": "Terminer les missions \"Le marais\" et \"Sanglier\" en vétéran",
+                    "it-IT": "Completa le missioni \"L'acquitrino\" e \"War Pig\" a difficoltà Veterano."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "40",
+            "imageId": "25.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Flucht",
+                    "en-US": "The Escape",
+                    "es-ES": "La huida",
+                    "fr-FR": "La fuite",
+                    "it-IT": "La fuga"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Missionen 'Auf der Flucht' und 'Der Tod kommt von oben' auf der Stufe Veteran.",
+                    "en-US": "Complete 'Hunted' and 'Death From Above' on Veteran difficulty",
+                    "es-ES": "Completa 'Cazado' y 'Muerte aérea' en dificultad veterano",
+                    "fr-FR": "Terminer les missions \"Traqué\" et \"La mort vient du ciel\" en vétéran",
+                    "it-IT": "Completa le missioni \"Preda\" e \"Morte dall'alto\" a difficoltà Veterano."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Missionen 'Auf der Flucht' und 'Der Tod kommt von oben' auf der Stufe Veteran.",
+                    "en-US": "Complete 'Hunted' and 'Death From Above' on Veteran difficulty",
+                    "es-ES": "Completa 'Cazado' y 'Muerte aérea' en dificultad veterano",
+                    "fr-FR": "Terminer les missions \"Traqué\" et \"La mort vient du ciel\" en vétéran",
+                    "it-IT": "Completa le missioni \"Preda\" e \"Morte dall'alto\" a difficoltà Veterano."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "40",
+            "imageId": "26.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "Der erste Reiter",
+                    "en-US": "The First Horseman",
+                    "es-ES": "El primer jinete",
+                    "fr-FR": "Le premier cavalier",
+                    "it-IT": "Il primo cavaliere"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Mission 'Demoralisierung' auf der Schwierigkeitsstufe Veteran.",
+                    "en-US": "Complete 'Shock and Awe' on Veteran difficulty",
+                    "es-ES": "Completa 'Sorpresa y pavor' en dificultad veterano",
+                    "fr-FR": "Terminer la mission \"Choc et effroi\" en vétéran",
+                    "it-IT": "Completa la missione \"Guerra Lampo\" a difficoltà Veterano."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Mission 'Demoralisierung' auf der Schwierigkeitsstufe Veteran.",
+                    "en-US": "Complete 'Shock and Awe' on Veteran difficulty",
+                    "es-ES": "Completa 'Sorpresa y pavor' en dificultad veterano",
+                    "fr-FR": "Terminer la mission \"Choc et effroi\" en vétéran",
+                    "it-IT": "Completa la missione \"Guerra Lampo\" a difficoltà Veterano."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "40",
+            "imageId": "27.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "de-DE": "Der zweite Reiter",
+                    "en-US": "The Second Horseman",
+                    "es-ES": "El segundo jinete",
+                    "fr-FR": "Le deuxième cavalier",
+                    "it-IT": "Il secondo cavaliere"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Mission 'Versteck' auf der Schwierigkeitsstufe Veteran.",
+                    "en-US": "Complete 'Safehouse' on Veteran difficulty",
+                    "es-ES": "Completa 'Casa franca' en dificultad veterano",
+                    "fr-FR": "Terminer la mission \"Cachette\" en vétéran",
+                    "it-IT": "Completa la missione \"Nascondiglio\" a difficoltà Veterano."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Mission 'Versteck' auf der Schwierigkeitsstufe Veteran.",
+                    "en-US": "Complete 'Safehouse' on Veteran difficulty",
+                    "es-ES": "Completa 'Casa franca' en dificultad veterano",
+                    "fr-FR": "Terminer la mission \"Cachette\" en vétéran",
+                    "it-IT": "Completa la missione \"Nascondiglio\" a difficoltà Veterano."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "40",
+            "imageId": "28.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Schuss",
+                    "en-US": "The Shot",
+                    "es-ES": "El disparo",
+                    "fr-FR": "Le coup",
+                    "it-IT": "Pronto a colpire"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Missionen 'Gut getarnt' und 'Tödliche Präzision' auf der Stufe Veteran.",
+                    "en-US": "Complete 'All Ghillied Up' and 'One Shot, One Kill' on Veteran difficulty",
+                    "es-ES": "Completa 'Todos camuflados' y 'Un tiro, un muerto' en dificultad veterano",
+                    "fr-FR": "Terminer les missions \"Camouflage\" et \"Une balle, un mort\" en vétéran",
+                    "it-IT": "Completa le missioni \"Mimetizzazione perfetta\" e \"Sicario infallibile\" a difficoltà Veterano."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Missionen 'Gut getarnt' und 'Tödliche Präzision' auf der Stufe Veteran.",
+                    "en-US": "Complete 'All Ghillied Up' and 'One Shot, One Kill' on Veteran difficulty",
+                    "es-ES": "Completa 'Todos camuflados' y 'Un tiro, un muerto' en dificultad veterano",
+                    "fr-FR": "Terminer les missions \"Camouflage\" et \"Une balle, un mort\" en vétéran",
+                    "it-IT": "Completa le missioni \"Mimetizzazione perfetta\" e \"Sicario infallibile\" a difficoltà Veterano."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "40",
+            "imageId": "29.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "Der dritte Reiter",
+                    "en-US": "The Third Horseman",
+                    "es-ES": "El tercer jinete",
+                    "fr-FR": "Le troisième cavalier",
+                    "it-IT": "Il terzo cavaliere"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie 'Die Hitze des Gefechts' und 'Die Sünden unserer Väter' auf der Stufe Veteran.",
+                    "en-US": "Complete 'Heat' and 'The Sins of the Father' on Veteran difficulty",
+                    "es-ES": "Completa 'Al rojo vivo' y 'Los pecados del padre' en dificultad veterano",
+                    "fr-FR": "Terminer les missions \"Enfer\" et \"Les péchés du père\" en vétéran",
+                    "it-IT": "Completa le missioni \"Calore\" e \"I peccati del padre\" a difficoltà Veterano."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie 'Die Hitze des Gefechts' und 'Die Sünden unserer Väter' auf der Stufe Veteran.",
+                    "en-US": "Complete 'Heat' and 'The Sins of the Father' on Veteran difficulty",
+                    "es-ES": "Completa 'Al rojo vivo' y 'Los pecados del padre' en dificultad veterano",
+                    "fr-FR": "Terminer les missions \"Enfer\" et \"Les péchés du père\" en vétéran",
+                    "it-IT": "Completa le missioni \"Calore\" e \"I peccati del padre\" a difficoltà Veterano."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "40",
+            "imageId": "30.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "de-DE": "Das Ultimatum",
+                    "en-US": "The Ultimatum",
+                    "es-ES": "El ultimátum",
+                    "fr-FR": "L'ultimatum",
+                    "it-IT": "L'Ultimatum"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Missionen 'Das Ultimatum', 'All-In' und 'Kriegsspiele' auf der Stufe Veteran.",
+                    "en-US": "Complete 'Ultimatum', 'All In', and 'No Fighting in the War Room' on Veteran difficulty",
+                    "es-ES": "Completa 'Ultimátum', 'Todos dentro' y 'En la sala de guerra no se lucha' en dificultad veterano",
+                    "fr-FR": "Terminer \"Ultimatum\", \"À l'intérieur\" et \"Pas de combat dans la salle d'opérations\" en vétéran",
+                    "it-IT": "Completa \"Ultimatum\", \"Tutti dentro\" e \"La stanza dei bottoni\" a diff. Veterano."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Missionen 'Das Ultimatum', 'All-In' und 'Kriegsspiele' auf der Stufe Veteran.",
+                    "en-US": "Complete 'Ultimatum', 'All In', and 'No Fighting in the War Room' on Veteran difficulty",
+                    "es-ES": "Completa 'Ultimátum', 'Todos dentro' y 'En la sala de guerra no se lucha' en dificultad veterano",
+                    "fr-FR": "Terminer \"Ultimatum\", \"À l'intérieur\" et \"Pas de combat dans la salle d'opérations\" en vétéran",
+                    "it-IT": "Completa \"Ultimatum\", \"Tutti dentro\" e \"La stanza dei bottoni\" a diff. Veterano."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "40",
+            "imageId": "31.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "de-DE": "Der vierte Reiter",
+                    "en-US": "The Fourth Horseman",
+                    "es-ES": "El cuarto jinete",
+                    "fr-FR": "Le quatrième cavalier",
+                    "it-IT": "Il quarto cavaliere"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Mission 'Sackgasse' auf der Schwierigkeitsstufe Veteran.",
+                    "en-US": "Complete 'Game Over' on Veteran difficulty",
+                    "es-ES": "Completa 'Fin del juego' en dificultad veterano",
+                    "fr-FR": "Terminer la mission \"Fin de partie\" en vétéran",
+                    "it-IT": "Completa la missione \"Game Over\" a difficoltà Veterano."
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Mission 'Sackgasse' auf der Schwierigkeitsstufe Veteran.",
+                    "en-US": "Complete 'Game Over' on Veteran difficulty",
+                    "es-ES": "Completa 'Fin del juego' en dificultad veterano",
+                    "fr-FR": "Terminer la mission \"Fin de partie\" en vétéran",
+                    "it-IT": "Completa la missione \"Game Over\" a difficoltà Veterano."
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "40",
+            "imageId": "32.png"
+        },
+        "53": {
+            "text": {
+                "name": {
+                    "de-DE": "Teufelskerl",
+                    "en-US": "Daredevil",
+                    "es-ES": "Temerario",
+                    "fr-FR": "Tête brûlée",
+                    "it-IT": "Daredevil"
+                },
+                "description": {
+                    "de-DE": "Schalten Sie im Einzelspieler einen Gegner aus, wenn Sie durch eine Blendgranate nichts sehen.",
+                    "en-US": "Kill an enemy while blinded by a flashbang in the single player campaign",
+                    "es-ES": "Mata a un enemigo mientras estás deslumbrado por una granada cegadora en la campaña individual",
+                    "fr-FR": "Tuer un ennemi en étant aveuglé par une grenade flash lors de la campagne solo",
+                    "it-IT": "Elimina un nemico mentre sei accecato da una granata nella modalità Campagna (Giocatore singolo)."
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie im Einzelspieler einen Gegner aus, wenn Sie durch eine Blendgranate nichts sehen.",
+                    "en-US": "Kill an enemy while blinded by a flashbang in the single player campaign",
+                    "es-ES": "Mata a un enemigo mientras estás deslumbrado por una granada cegadora en la campaña individual",
+                    "fr-FR": "Tuer un ennemi en étant aveuglé par une grenade flash lors de la campagne solo",
+                    "it-IT": "Elimina un nemico mentre sei accecato da una granata nella modalità Campagna (Giocatore singolo)."
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "33.png"
+        },
+        "55": {
+            "text": {
+                "name": {
+                    "de-DE": "Fahrerflucht",
+                    "en-US": "Roadkill",
+                    "es-ES": "Atropello",
+                    "fr-FR": "Chauffard",
+                    "it-IT": "Auto mortale"
+                },
+                "description": {
+                    "de-DE": "Schalten Sie zwei Gegner aus, indem Sie einen Wagen im Einzelspieler-Modus in die Luft jagen.",
+                    "en-US": "Kill 2 enemies by blowing up a car in the single player campaign\n\n",
+                    "es-ES": "Mata a 2 enemigos volando un coche en la campaña individual\n\n",
+                    "fr-FR": "Tuer 2 ennemis en faisant exploser une voiture lors de la campagne solo",
+                    "it-IT": "Elimina 2 nemici facendo saltare un'auto nella modalità Campagna (Giocatore singolo).\n\n"
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie zwei Gegner aus, indem Sie einen Wagen im Einzelspieler-Modus in die Luft jagen.",
+                    "en-US": "Kill 2 enemies by blowing up a car in the single player campaign\n\n",
+                    "es-ES": "Mata a 2 enemigos volando un coche en la campaña individual\n\n",
+                    "fr-FR": "Tuer 2 ennemis en faisant exploser une voiture lors de la campagne solo",
+                    "it-IT": "Elimina 2 nemici facendo saltare un'auto nella modalità Campagna (Giocatore singolo).\n\n"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "34.png"
+        },
+        "60": {
+            "text": {
+                "name": {
+                    "de-DE": "Gestutzte Flügel",
+                    "en-US": "Bird on the Ground",
+                    "es-ES": "Pájaro derribado",
+                    "fr-FR": "Oiseau sur le sol",
+                    "it-IT": "Minaccia dall'alto"
+                },
+                "description": {
+                    "de-DE": "Schießen Sie einen feindlichen Helikopter im Einzelspieler-Modus mit einem Raketenwerfer ab.",
+                    "en-US": "Shoot down an enemy helicopter with an RPG in the single player campaign\n\n",
+                    "es-ES": "Derriba un helicóptero enemigo con un RPG en la campaña individual\n\n",
+                    "fr-FR": "Descendre un hélico ennemi avec un RPG lors de la campagne solo",
+                    "it-IT": "Abbatti un elicottero nemico con un RPG nella modalità Campagna (Giocatore singolo).\n\n"
+                },
+                "howto": {
+                    "de-DE": "Schießen Sie einen feindlichen Helikopter im Einzelspieler-Modus mit einem Raketenwerfer ab.",
+                    "en-US": "Shoot down an enemy helicopter with an RPG in the single player campaign\n\n",
+                    "es-ES": "Derriba un helicóptero enemigo con un RPG en la campaña individual\n\n",
+                    "fr-FR": "Descendre un hélico ennemi avec un RPG lors de la campagne solo",
+                    "it-IT": "Abbatti un elicottero nemico con un RPG nella modalità Campagna (Giocatore singolo).\n\n"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "35.png"
+        },
+        "61": {
+            "text": {
+                "name": {
+                    "de-DE": "Vierling",
+                    "en-US": "Four of a Kind",
+                    "es-ES": "Póquer",
+                    "fr-FR": "Carré",
+                    "it-IT": "4 di un tipo"
+                },
+                "description": {
+                    "de-DE": "Schalten Sie vier Feinde hintereinander im Einzelspieler-Modus durch Schüsse in den Kopf aus.",
+                    "en-US": "Kill 4 enemies in a row with headshots in the single player campaign\n\n",
+                    "es-ES": "Mata a 4 enemigos seguidos con tiros en la cabeza en la campaña individual.\n\n",
+                    "fr-FR": "Tuer 4 ennemis d'affilée en leur tirant dans la tête lors de la campagne solo",
+                    "it-IT": "Elimina 4 nemici di fila con un colpo alla testa nella modalità Campagna (Giocatore singolo).\n\n"
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie vier Feinde hintereinander im Einzelspieler-Modus durch Schüsse in den Kopf aus.",
+                    "en-US": "Kill 4 enemies in a row with headshots in the single player campaign\n\n",
+                    "es-ES": "Mata a 4 enemigos seguidos con tiros en la cabeza en la campaña individual.\n\n",
+                    "fr-FR": "Tuer 4 ennemis d'affilée en leur tirant dans la tête lors de la campagne solo",
+                    "it-IT": "Elimina 4 nemici di fila con un colpo alla testa nella modalità Campagna (Giocatore singolo).\n\n"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "36.png"
+        },
+        "62": {
+            "text": {
+                "name": {
+                    "de-DE": "Drilling",
+                    "en-US": "Three of a Kind",
+                    "es-ES": "Trío",
+                    "fr-FR": "Brelan",
+                    "it-IT": "3 di un tipo"
+                },
+                "description": {
+                    "de-DE": "Schalten Sie drei Feinde hintereinander im Einzelspieler-Modus mit dem Messer aus.",
+                    "en-US": "Kill 3 enemies in a row with your knife in the single player campaign\n\n",
+                    "es-ES": "Mata a 3 enemigos seguidos con tu cuchillo en la campaña individual\n\n",
+                    "fr-FR": "Tuer 3 ennemis d'affilée avec votre couteau lors de la campagne solo",
+                    "it-IT": "Elimina 3 nemici di fila usando il coltello nella modalità Campagna (Giocatore singolo).\n\n"
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie drei Feinde hintereinander im Einzelspieler-Modus mit dem Messer aus.",
+                    "en-US": "Kill 3 enemies in a row with your knife in the single player campaign\n\n",
+                    "es-ES": "Mata a 3 enemigos seguidos con tu cuchillo en la campaña individual\n\n",
+                    "fr-FR": "Tuer 3 ennemis d'affilée avec votre couteau lors de la campagne solo",
+                    "it-IT": "Elimina 3 nemici di fila usando il coltello nella modalità Campagna (Giocatore singolo).\n\n"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "37.png"
+        }
+    }
+}

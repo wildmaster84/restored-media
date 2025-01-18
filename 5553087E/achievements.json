@@ -1,0 +1,1904 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Fahrschule",
+                    "en-US": "Drivers Ed.",
+                    "es-ES": "As del volante",
+                    "fr-FR": "Apprentissage",
+                    "it-IT": "Scuola guida",
+                    "ja-JP": "運転教習",
+                    "pl-PL": "Nauka jazdy",
+                    "ru-RU": "Автошкола"
+                },
+                "description": {
+                    "de-DE": "Beende den Prolog",
+                    "en-US": "Complete the Prologue",
+                    "es-ES": "Supera el prólogo",
+                    "fr-FR": "Terminer le prologue",
+                    "it-IT": "Completa il prologo",
+                    "ja-JP": "プロローグをクリアする",
+                    "pl-PL": "Ukończ prolog ",
+                    "ru-RU": "Пройти пролог"
+                },
+                "howto": {
+                    "de-DE": "Beende den Prolog",
+                    "en-US": "Complete the Prologue",
+                    "es-ES": "Supera el prólogo",
+                    "fr-FR": "Terminer le prologue",
+                    "it-IT": "Completa il prologo",
+                    "ja-JP": "プロローグをクリアする",
+                    "pl-PL": "Ukończ prolog ",
+                    "ru-RU": "Пройти пролог"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Zurück auf der Straße",
+                    "en-US": "Back on the Road",
+                    "es-ES": "Vuelta a la calzada",
+                    "fr-FR": "De retour sur le bitume",
+                    "it-IT": "Di nuovo in pista",
+                    "ja-JP": "バック・オン・ザ・ロード",
+                    "pl-PL": "Powrót na trasę",
+                    "ru-RU": "Снова на дороге"
+                },
+                "description": {
+                    "de-DE": "Beende Kapitel 1",
+                    "en-US": "Complete Chapter 1",
+                    "es-ES": "Supera el capítulo 1",
+                    "fr-FR": "Terminer le chapitre 1",
+                    "it-IT": "Completa il capitolo 1",
+                    "ja-JP": "チャプター1をクリアする",
+                    "pl-PL": "Ukończ rozdział 1 ",
+                    "ru-RU": "Пройти главу 1"
+                },
+                "howto": {
+                    "de-DE": "Beende Kapitel 1",
+                    "en-US": "Complete Chapter 1",
+                    "es-ES": "Supera el capítulo 1",
+                    "fr-FR": "Terminer le chapitre 1",
+                    "it-IT": "Completa il capitolo 1",
+                    "ja-JP": "チャプター1をクリアする",
+                    "pl-PL": "Ukończ rozdział 1",
+                    "ru-RU": "Пройти главу 1"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Augen auf die Stadt",
+                    "en-US": "Eyes on the City",
+                    "es-ES": "Visión de la ciudad",
+                    "fr-FR": "L'œil sur la ville",
+                    "it-IT": "Occhi sulla città",
+                    "ja-JP": "アイズ・オン・ザ・シティー",
+                    "pl-PL": "Strażnik miasta",
+                    "ru-RU": "На улицах города"
+                },
+                "description": {
+                    "de-DE": "Beende Kapitel 2",
+                    "en-US": "Complete Chapter 2",
+                    "es-ES": "Supera el capítulo 2",
+                    "fr-FR": "Terminer le chapitre 2",
+                    "it-IT": "Completa il capitolo 2",
+                    "ja-JP": "チャプター2をクリアする",
+                    "pl-PL": "Ukończ rozdział 2 ",
+                    "ru-RU": "Пройти главу 2 "
+                },
+                "howto": {
+                    "de-DE": "Beende Kapitel 2",
+                    "en-US": "Complete Chapter 2",
+                    "es-ES": "Supera el capítulo 2",
+                    "fr-FR": "Terminer le chapitre 2",
+                    "it-IT": "Completa il capitolo 2",
+                    "ja-JP": "チャプター2をクリアする",
+                    "pl-PL": "Ukończ rozdział 2 ",
+                    "ru-RU": "Пройти главу 2 "
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Allen Widrigkeiten zum Trotz",
+                    "en-US": "Against the Odds",
+                    "es-ES": "Contra todo pronóstico",
+                    "fr-FR": "Contre toute attente",
+                    "it-IT": "Contro ogni pronostico",
+                    "ja-JP": "強敵との戦い",
+                    "pl-PL": "Mimo wszystko",
+                    "ru-RU": "Вызов судьбе"
+                },
+                "description": {
+                    "de-DE": "Beende Kapitel 3",
+                    "en-US": "Complete Chapter 3",
+                    "es-ES": "Supera el capítulo 3",
+                    "fr-FR": "Terminer le chapitre 3",
+                    "it-IT": "Completa il capitolo 3",
+                    "ja-JP": "チャプター3をクリアする",
+                    "pl-PL": "Ukończ rozdział 3",
+                    "ru-RU": "Пройти главу 3 "
+                },
+                "howto": {
+                    "de-DE": "Beende Kapitel 3",
+                    "en-US": "Complete Chapter 3",
+                    "es-ES": "Supera el capítulo 3",
+                    "fr-FR": "Terminer le chapitre 3",
+                    "it-IT": "Completa il capitolo 3",
+                    "ja-JP": "チャプター3をクリアする",
+                    "pl-PL": "Ukończ rozdział 3 ",
+                    "ru-RU": "Пройти главу 3 "
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "20",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Jetzt siehst du mich …",
+                    "en-US": "Now You See Me...",
+                    "es-ES": "Ahora me ves...",
+                    "fr-FR": "Maintenant tu me vois…",
+                    "it-IT": "Ora mi vedi...",
+                    "ja-JP": "これで見えるか・・・",
+                    "pl-PL": "A kuku!",
+                    "ru-RU": "Настоящий я"
+                },
+                "description": {
+                    "de-DE": "Beende Kapitel 4",
+                    "en-US": "Complete Chapter 4",
+                    "es-ES": "Supera el capítulo 4",
+                    "fr-FR": "Terminer le chapitre 4",
+                    "it-IT": "Completa il capitolo 4",
+                    "ja-JP": "チャプター4をクリアする",
+                    "pl-PL": "Ukończ rozdział 4 ",
+                    "ru-RU": "Пройти главу 4 "
+                },
+                "howto": {
+                    "de-DE": "Beende Kapitel 4",
+                    "en-US": "Complete Chapter 4",
+                    "es-ES": "Supera el capítulo 4",
+                    "fr-FR": "Terminer le chapitre 4",
+                    "it-IT": "Completa il capitolo 4",
+                    "ja-JP": "チャプター4をクリアする",
+                    "pl-PL": "Ukończ rozdział 4 ",
+                    "ru-RU": "Пройти главу 4 "
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "30",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Tief verdeckt",
+                    "en-US": "Deep Cover",
+                    "es-ES": "Incógnito",
+                    "fr-FR": "Infiltré",
+                    "it-IT": "Molto infiltrato",
+                    "ja-JP": "ディープカバー",
+                    "pl-PL": "Tajniak",
+                    "ru-RU": "Под прикрытием"
+                },
+                "description": {
+                    "de-DE": "Beende Kapitel 5",
+                    "en-US": "Complete Chapter 5",
+                    "es-ES": "Supera el capítulo 5",
+                    "fr-FR": "Terminer le chapitre 5",
+                    "it-IT": "Completa il capitolo 5",
+                    "ja-JP": "チャプター5をクリアする",
+                    "pl-PL": "Ukończ rozdział 5 ",
+                    "ru-RU": "Пройти главу 5 "
+                },
+                "howto": {
+                    "de-DE": "Beende Kapitel 5",
+                    "en-US": "Complete Chapter 5",
+                    "es-ES": "Supera el capítulo 5",
+                    "fr-FR": "Terminer le chapitre 5",
+                    "it-IT": "Completa il capitolo 5",
+                    "ja-JP": "チャプター5をクリアする",
+                    "pl-PL": "Ukończ rozdział 5 ",
+                    "ru-RU": "Пройти главу 5 "
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "30",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Eine andere Perspektive",
+                    "en-US": "Another Perspective",
+                    "es-ES": "Otra perspectiva",
+                    "fr-FR": "Une nouvelle perspective",
+                    "it-IT": "Prospettiva differente",
+                    "ja-JP": "別の見解",
+                    "pl-PL": "Inna perspektywa",
+                    "ru-RU": "В другом ракурсе"
+                },
+                "description": {
+                    "de-DE": "Beende Kapitel 6",
+                    "en-US": "Complete Chapter 6",
+                    "es-ES": "Supera el capítulo 6",
+                    "fr-FR": "Terminer le chapitre 6",
+                    "it-IT": "Completa il capitolo 6",
+                    "ja-JP": "チャプター6をクリアする",
+                    "pl-PL": "Ukończ rozdział 6 ",
+                    "ru-RU": "Пройти главу 6 "
+                },
+                "howto": {
+                    "de-DE": "Beende Kapitel 6",
+                    "en-US": "Complete Chapter 6",
+                    "es-ES": "Supera el capítulo 6",
+                    "fr-FR": "Terminer le chapitre 6",
+                    "it-IT": "Completa il capitolo 6",
+                    "ja-JP": "チャプター6をクリアする",
+                    "pl-PL": "Ukończ rozdział 6 ",
+                    "ru-RU": "Пройти главу 6 "
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "40",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Wahrheit",
+                    "en-US": "The Truth",
+                    "es-ES": "La verdad",
+                    "fr-FR": "La vérité",
+                    "it-IT": "La verità",
+                    "ja-JP": "真相",
+                    "pl-PL": "Cała prawda",
+                    "ru-RU": "Правда"
+                },
+                "description": {
+                    "de-DE": "Beende Kapitel 7",
+                    "en-US": "Complete Chapter 7",
+                    "es-ES": "Supera el capítulo 7",
+                    "fr-FR": "Terminer le chapitre 7",
+                    "it-IT": "Completa il capitolo 7",
+                    "ja-JP": "チャプター7をクリアする",
+                    "pl-PL": "Ukończ rozdział 7 ",
+                    "ru-RU": "Пройти главу 7 "
+                },
+                "howto": {
+                    "de-DE": "Beende Kapitel 7",
+                    "en-US": "Complete Chapter 7",
+                    "es-ES": "Supera el capítulo 7",
+                    "fr-FR": "Terminer le chapitre 7",
+                    "it-IT": "Completa il capitolo 7",
+                    "ja-JP": "チャプター7をクリアする",
+                    "pl-PL": "Ukończ rozdział 7 ",
+                    "ru-RU": "Пройти главу 7 "
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "40",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Überlebender",
+                    "en-US": "Survivor",
+                    "es-ES": "Superviviente",
+                    "fr-FR": "Survivant",
+                    "it-IT": "Sopravvissuto",
+                    "ja-JP": "サバイバー",
+                    "pl-PL": "Ocalały",
+                    "ru-RU": "Выживший"
+                },
+                "description": {
+                    "de-DE": "Beende Kapitel 8",
+                    "en-US": "Complete Chapter 8",
+                    "es-ES": "Supera el capítulo 8",
+                    "fr-FR": "Terminer le chapitre 8",
+                    "it-IT": "Completa il capitolo 8",
+                    "ja-JP": "チャプター8をクリアする",
+                    "pl-PL": "Ukończ rozdział 8 ",
+                    "ru-RU": "Пройти главу 8 "
+                },
+                "howto": {
+                    "de-DE": "Beende Kapitel 8",
+                    "en-US": "Complete Chapter 8\n\n",
+                    "es-ES": "Supera el capítulo 8",
+                    "fr-FR": "Terminer le chapitre 8",
+                    "it-IT": "Completa il capitolo 8",
+                    "ja-JP": "チャプター8をクリアする",
+                    "pl-PL": "Ukończ rozdział 8 ",
+                    "ru-RU": "Пройти главу 8 "
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "50",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Das Ende der Straße",
+                    "en-US": "End of the Road",
+                    "es-ES": "Fin de trayecto",
+                    "fr-FR": "Le bout de la route",
+                    "it-IT": "Fine del viaggio",
+                    "ja-JP": "道の果て",
+                    "pl-PL": "Koniec drogi",
+                    "ru-RU": "Последний шаг"
+                },
+                "description": {
+                    "de-DE": "Beende die Story",
+                    "en-US": "Complete the Story",
+                    "es-ES": "Completa la historia",
+                    "fr-FR": "Terminer le mode Scénario",
+                    "it-IT": "Completa la storia",
+                    "ja-JP": "ストーリーをクリアする",
+                    "pl-PL": "Ukończ rozgrywkę",
+                    "ru-RU": "Пройти эпилог "
+                },
+                "howto": {
+                    "de-DE": "Beende die Story",
+                    "en-US": "Complete the Story",
+                    "es-ES": "Completa la historia",
+                    "fr-FR": "Terminer le mode Scénario",
+                    "it-IT": "Completa la storia",
+                    "ja-JP": "ストーリーをクリアする",
+                    "pl-PL": "Ukończ rozgrywkę",
+                    "ru-RU": "Пройти эпилог "
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Eingeweihter",
+                    "en-US": "Initiate",
+                    "es-ES": "Iniciado",
+                    "fr-FR": "Initié",
+                    "it-IT": "Adepto",
+                    "ja-JP": "新入り",
+                    "pl-PL": "Nowicjusz",
+                    "ru-RU": "Новичок"
+                },
+                "description": {
+                    "de-DE": "Erreiche Level 5 in Multiplayer (öffentlich)",
+                    "en-US": "Reach Multiplayer Level 5 (Public)",
+                    "es-ES": "Alcanza el nivel 5 en multijugador (público)",
+                    "fr-FR": "Atteindre le niveau multijoueur 5 [public]",
+                    "it-IT": "Raggiungi il livello multigiocatore 5 (Pubblica)",
+                    "ja-JP": "マルチプレイヤーでレベル5に到達する (パブリック)",
+                    "pl-PL": "Osiągnij poziom 5 w trybie wieloosobowym (Publiczna)",
+                    "ru-RU": "Достичь 5 уровня в открытой сетевой игре"
+                },
+                "howto": {
+                    "de-DE": "Erreiche Level 5 in Multiplayer (öffentlich)",
+                    "en-US": "Reach Multiplayer Level 5 (Public)",
+                    "es-ES": "Alcanza el nivel 5 en multijugador (público)",
+                    "fr-FR": "Atteindre le niveau multijoueur 5 [public]",
+                    "it-IT": "Raggiungi il livello multigiocatore 5 (Pubblica)",
+                    "ja-JP": "マルチプレイヤーでレベル5に到達する (パブリック)",
+                    "pl-PL": "Osiągnij poziom 5 w trybie wieloosobowym (Publiczna)",
+                    "ru-RU": "Достичь 5 уровня в открытой сетевой игре"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "15",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Veteran",
+                    "en-US": "Veteran",
+                    "es-ES": "Veterano",
+                    "fr-FR": "Vétéran",
+                    "it-IT": "Veterano",
+                    "ja-JP": "ベテラン",
+                    "pl-PL": "Weteran",
+                    "ru-RU": "Ветеран"
+                },
+                "description": {
+                    "de-DE": "Erreiche Level 20 in Multiplayer (öffentlich)",
+                    "en-US": "Reach Multiplayer Level 20 (Public)",
+                    "es-ES": "Alcanza el nivel 20 en multijugador (público)",
+                    "fr-FR": "Atteindre le niveau multijoueur 20 [public]",
+                    "it-IT": "Raggiungi il livello multigiocatore 20 (Pubblica)",
+                    "ja-JP": "マルチプレイヤーでレベル20に到達する (パブリック)",
+                    "pl-PL": "Osiągnij poziom 20 w trybie wieloosobowym (Publiczna)",
+                    "ru-RU": "Достичь 20 уровня в открытой сетевой игре"
+                },
+                "howto": {
+                    "de-DE": "Erreiche Level 20 in Multiplayer (öffentlich)",
+                    "en-US": "Reach Multiplayer Level 20 (Public)",
+                    "es-ES": "Alcanza el nivel 20 en multijugador (público)",
+                    "fr-FR": "Atteindre le niveau multijoueur 20 [public]",
+                    "it-IT": "Raggiungi il livello multigiocatore 20 (Pubblica)",
+                    "ja-JP": "マルチプレイヤーでレベル20に到達する (パブリック)",
+                    "pl-PL": "Osiągnij poziom 20 w trybie wieloosobowym (Publiczna)",
+                    "ru-RU": "Достичь 20 уровня в открытой сетевой игре"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "30",
+            "imageId": "12.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "Meister",
+                    "en-US": "Master",
+                    "es-ES": "Maestro",
+                    "fr-FR": "Maître",
+                    "it-IT": "Maestro",
+                    "ja-JP": "マスター",
+                    "pl-PL": "Mistrz",
+                    "ru-RU": "Мастер"
+                },
+                "description": {
+                    "de-DE": "Erreiche Level 38 in Multiplayer (öffentlich)",
+                    "en-US": "Reach Multiplayer Level 38 (Public)",
+                    "es-ES": "Alcanza el nivel 38 en multijugador (público)",
+                    "fr-FR": "Atteindre le niveau multijoueur 38 [public]",
+                    "it-IT": "Raggiungi il livello multigiocatore 38 (Pubblica)",
+                    "ja-JP": "マルチプレイヤーでレベル38に到達する (パブリック)",
+                    "pl-PL": "Osiągnij poziom 38 w trybie wieloosobowym (Publiczna)",
+                    "ru-RU": "Достичь 38 уровня в открытой сетевой игре"
+                },
+                "howto": {
+                    "de-DE": "Erreiche Level 38 in Multiplayer (öffentlich)",
+                    "en-US": "Reach Multiplayer Level 38 (Public)",
+                    "es-ES": "Alcanza el nivel 38 en multijugador (público)",
+                    "fr-FR": "Atteindre le niveau multijoueur 38 [public]",
+                    "it-IT": "Raggiungi il livello multigiocatore 38 (Pubblica)",
+                    "ja-JP": "マルチプレイヤーでレベル38に到達する (パブリック)",
+                    "pl-PL": "Osiągnij poziom 38 w trybie wieloosobowym (Publiczna)",
+                    "ru-RU": "Достичь 38 уровня в открытой сетевой игре"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "75",
+            "imageId": "13.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "Luftfuror",
+                    "en-US": "Air Rage",
+                    "es-ES": "Ira aérea",
+                    "fr-FR": "Enragé",
+                    "it-IT": "Furia cieca",
+                    "ja-JP": "エアレイジ",
+                    "pl-PL": "Zakręcony",
+                    "ru-RU": "Пилот"
+                },
+                "description": {
+                    "de-DE": "10 Fahrzeuge mit Impuls ins Schleudern bringen (öffentlich)",
+                    "en-US": "Spin out 10 Vehicles with Impulse (Public)",
+                    "es-ES": "Haz perder el control a 10 vehículos con Impulsar (público)",
+                    "fr-FR": "Faire partir 10 véhicules en tête-à-queue avec l'Impulsion [public]",
+                    "it-IT": "Manda in testacoda 10 veicoli con Impulso (Pubblica)",
+                    "ja-JP": "インパルスで10台の車をスピンさせる（パブリック）",
+                    "pl-PL": "Spowoduj obracanie się 10 pojazdów za pomocą Impulsu (Publiczna)",
+                    "ru-RU": "Ввести 10 машин в неуправляемый занос импульсным вселением (открытая игра)"
+                },
+                "howto": {
+                    "de-DE": "10 Fahrzeuge mit Impuls ins Schleudern bringen (öffentlich)",
+                    "en-US": "Spin out 10 Vehicles with Impulse (Public)",
+                    "es-ES": "Haz perder el control a 10 vehículos con Impulsar (público)",
+                    "fr-FR": "Faire partir 10 véhicules en tête-à-queue avec l'Impulsion [public]",
+                    "it-IT": "Manda in testacoda 10 veicoli con Impulso (Pubblica)",
+                    "ja-JP": "インパルスで10台の車をスピンさせる（パブリック）",
+                    "pl-PL": "Spowoduj obracanie się 10 pojazdów za pomocą Impulsu (Publiczna)",
+                    "ru-RU": "Ввести 10 машин в неуправляемый занос импульсным вселением (открытая игра)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "14.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "de-DE": "Kenner",
+                    "en-US": "Connoisseur",
+                    "es-ES": "Entendido",
+                    "fr-FR": "Connaisseur",
+                    "it-IT": "Intenditore",
+                    "ja-JP": "専門家",
+                    "pl-PL": "Koneser",
+                    "ru-RU": "Специалист"
+                },
+                "description": {
+                    "de-DE": "Tausch oder Spawn von 20 einzigartigen Fahrzeugen (öffentlich)",
+                    "en-US": "Swap or Spawn into 20 Unique Vehicles (Public)",
+                    "es-ES": "Usa Cambiar o Generar con 20 vehículos únicos (público)",
+                    "fr-FR": "Commutation ou Insertion avec 20 véhicules uniques [public]",
+                    "it-IT": "Usa Scambio o Crea su 20 veicoli unici (Pubblica)",
+                    "ja-JP": "スワップかスポーンで20台の異なった車に乗り換える（パブリック）",
+                    "pl-PL": "Użyj funkcji Wytworzenia lub Zamiany wobec 20 unikalnych aut (Publiczna)",
+                    "ru-RU": "Опробовать 20 уникальных машин, создав или сменив их в открытой игре"
+                },
+                "howto": {
+                    "de-DE": "Tausch oder Spawn von 20 einzigartigen Fahrzeugen (öffentlich)",
+                    "en-US": "Swap or Spawn into 20 Unique Vehicles (Public)",
+                    "es-ES": "Usa Cambiar o Generar con 20 vehículos únicos (público)",
+                    "fr-FR": "Commutation ou Insertion avec 20 véhicules uniques [public]",
+                    "it-IT": "Usa Scambio o Crea su 20 veicoli unici (Pubblica)",
+                    "ja-JP": "スワップかスポーンで20台の異なった車に乗り換える（パブリック）",
+                    "pl-PL": "Użyj funkcji Wytworzenia lub Zamiany wobec 20 unikalnych aut (Publiczna)",
+                    "ru-RU": "Опробовать 20 уникальных машин, создав или сменив их в открытой игре"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "15.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Profirennfahrer",
+                    "en-US": "Professional Racer",
+                    "es-ES": "Corredor profesional",
+                    "fr-FR": "Pilote professionnel",
+                    "it-IT": "Professionista",
+                    "ja-JP": "プロレーサー",
+                    "pl-PL": "Kierowca zawodowy",
+                    "ru-RU": "Гонщик-профи"
+                },
+                "description": {
+                    "de-DE": "10 Mal im klassischen Rennen unter die Top 3 kommen (öffentlich)",
+                    "en-US": "Place in the top 3 in Classic Race 10 times (Public)",
+                    "es-ES": "Llega 10 veces entre los 3 primeros en Carrera clásica (público)",
+                    "fr-FR": "Se placer 10 fois dans le top 3 en Course classique [public]",
+                    "it-IT": "Raggiungi 10 volte il podio in Gara classica (Pubblica)",
+                    "ja-JP": "クラシックレースで１０回、３位以内に入賞する（パブリック）",
+                    "pl-PL": "Zajmij 10 razy miejsce w pierwszej 3 w Wyścigu klasycznym (Publiczna)",
+                    "ru-RU": "10 раз занять призовое место в режиме \"Классика\" (открытая игра)"
+                },
+                "howto": {
+                    "de-DE": "10 Mal im klassischen Rennen unter die Top 3 kommen (öffentlich)",
+                    "en-US": "Place in the top 3 in Classic Race 10 times (Public)\n\n",
+                    "es-ES": "Llega 10 veces entre los 3 primeros en Carrera clásica (público)",
+                    "fr-FR": "Se placer 10 fois dans le top 3 en Course classique [public]",
+                    "it-IT": "Raggiungi 10 volte il podio in Gara classica (Pubblica)",
+                    "ja-JP": "クラシックレースで１０回、３位以内に入賞する（パブリック）",
+                    "pl-PL": "Zajmij 10 razy miejsce w pierwszej 3 w Wyścigu klasycznym (Publiczna)",
+                    "ru-RU": "10 раз занять призовое место в режиме \"Классика\" (открытая игра)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "16.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "Tempoverschärfung",
+                    "en-US": "Picking Up the Pace",
+                    "es-ES": "Siguiendo el ritmo",
+                    "fr-FR": "Dans le coup",
+                    "it-IT": "Inarrestabile",
+                    "ja-JP": "ペースを上げていこう",
+                    "pl-PL": "Podkręć tempo",
+                    "ru-RU": "В своем темпе"
+                },
+                "description": {
+                    "de-DE": "10 Mal im Sprint-GP unter die Top 3 kommen (öffentlich)",
+                    "en-US": "Place in the top 3 in Sprint GP 10 times (Public)",
+                    "es-ES": "Llega 10 veces entre los 3 primeros en Carrera sprint (público)",
+                    "fr-FR": "Se placer 10 fois dans le top 3 en Sprint GP [public]",
+                    "it-IT": "Raggiungi 10 volte il podio in Mini GP (Pubblica)",
+                    "ja-JP": "スプリントGPで１０回、３位以内に入賞する（パブリック）",
+                    "pl-PL": "Zajmij 10 razy miejsce w pierwszej 3 w Wyścigu sprintów (Publiczna)",
+                    "ru-RU": "10 раз занять призовое место в режиме \"Гран-при\" (открытая игра)"
+                },
+                "howto": {
+                    "de-DE": "10 Mal im Sprint-GP unter die Top 3 kommen (öffentlich)",
+                    "en-US": "Place in the top 3 in Sprint GP 10 times (Public)\n\n",
+                    "es-ES": "Llega 10 veces entre los 3 primeros en Carrera sprint (público)",
+                    "fr-FR": "Se placer 10 fois dans le top 3 en Sprint GP [public]",
+                    "it-IT": "Raggiungi 10 volte il podio in Mini GP (Pubblica)",
+                    "ja-JP": "スプリントGPで１０回、３位以内に入賞する（パブリック）",
+                    "pl-PL": "Zajmij 10 razy miejsce w pierwszej 3 w Wyścigu sprintów (Publiczna)",
+                    "ru-RU": "10 раз занять призовое место в режиме \"Гран-при\" (открытая игра)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "17.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "de-DE": "Und immer im Kreis",
+                    "en-US": "Round and Round You Go",
+                    "es-ES": "Y gira, y gira, y gira",
+                    "fr-FR": "Toujours au sommet",
+                    "it-IT": "Mini campione",
+                    "ja-JP": "堂々巡り",
+                    "pl-PL": "Jak na karuzeli",
+                    "ru-RU": "Круг за кругом"
+                },
+                "description": {
+                    "de-DE": "10 Mal im Shift-Rennen unter die Top 3 kommen (öffentlich)",
+                    "en-US": "Place in the top 3 in Shift Race 10 times (Public)",
+                    "es-ES": "Llega 10 veces entre los 3 primeros en Carrera de shift (público)",
+                    "fr-FR": "Se placer 10 fois dans le top 3 en Course de shift [public]",
+                    "it-IT": "Raggiungi 10 volte il podio in Gara Shift (Pubblica)",
+                    "ja-JP": "シフトレースで10回、3位以内に入賞する (パブリック)",
+                    "pl-PL": "Zajmij 10 razy miejsce w pierwszej 3 w Wyścigu po torze (Publiczna)",
+                    "ru-RU": "10 раз занять призовое место в режиме \"Перемещения\" (открытая игра)"
+                },
+                "howto": {
+                    "de-DE": "10 Mal im Shift-Rennen unter die Top 3 kommen (öffentlich)",
+                    "en-US": "Place in the top 3 in Shift Race 10 times (Public)\n\n",
+                    "es-ES": "Llega 10 veces entre los 3 primeros en Carrera de shift (público)",
+                    "fr-FR": "Se placer 10 fois dans le top 3 en Course de shift [public]",
+                    "it-IT": "Raggiungi 10 volte il podio in Gara Shift (Pubblica)",
+                    "ja-JP": "シフトレースで10回、3位以内に入賞する (パブリック)",
+                    "pl-PL": "Zajmij 10 razy miejsce w pierwszej 3 w Wyścigu po torze (Publiczna)",
+                    "ru-RU": "10 раз занять призовое место в режиме \"Перемещения\" (открытая игра)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "18.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "Teamretter",
+                    "en-US": "Carry the Team",
+                    "es-ES": "Guía al equipo",
+                    "fr-FR": "Maillon fort",
+                    "it-IT": "Trascinatore",
+                    "ja-JP": "チームを導け",
+                    "pl-PL": "Chorąży",
+                    "ru-RU": "Командный игрок"
+                },
+                "description": {
+                    "de-DE": "10 Mal bei Fahne erobern für dein Team punkten (öffentlich)",
+                    "en-US": "Score 10 times in Capture the Flag (Public)",
+                    "es-ES": "Puntúa 10 veces en Captura la bandera (público)",
+                    "fr-FR": "Marquer 10 fois en Capture du drapeau [public]",
+                    "it-IT": "Segna 10 volte in Cattura la bandiera (Pubblica)",
+                    "ja-JP": "フラッグゲームで１０回得点する（パブリック）",
+                    "pl-PL": "Punktuj 10 razy w trybie Zdobądź flagę (Publiczna)",
+                    "ru-RU": "В режиме \"Захват флага\" 10 раз принести своей команде очки (открытая игра)"
+                },
+                "howto": {
+                    "de-DE": "10 Mal bei Fahne erobern für dein Team punkten (öffentlich)",
+                    "en-US": "Score 10 times in Capture the Flag (Public)\n\n",
+                    "es-ES": "Puntúa 10 veces en Captura la bandera (público)",
+                    "fr-FR": "Marquer 10 fois en Capture du drapeau [public]",
+                    "it-IT": "Segna 10 volte in Cattura la bandiera (Pubblica)",
+                    "ja-JP": "フラッグゲームで１０回得点する（パブリック）",
+                    "pl-PL": "Punktuj 10 razy w trybie Zdobądź flagę (Publiczna)",
+                    "ru-RU": "В режиме \"Захват флага\" 10 раз принести своей команде очки (открытая игра)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "19.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "Fackelträger",
+                    "en-US": "Pass the Torch",
+                    "es-ES": "Pasa el testigo",
+                    "fr-FR": "Porteur de flambeau",
+                    "it-IT": "Tedoforo",
+                    "ja-JP": "トーチパサー",
+                    "pl-PL": "Przekaż pochodnię",
+                    "ru-RU": "Участник эстафеты"
+                },
+                "description": {
+                    "de-DE": "Trage die Fackel 25 Mal über 20 Sekunden im Staffelrennen (öffentlich)",
+                    "en-US": "Carry the Torch for 20s, 25 times in Relay Race (Public)",
+                    "es-ES": "Lleva el testigo durante 20 segundos 25 veces en Relevos (público)",
+                    "fr-FR": "Porter 25 fois le flambeau pendant 20s en Course de relais [public]",
+                    "it-IT": "Porta la fiaccola per 20 s in Staffetta per 25 volte (Pubblica)",
+                    "ja-JP": "リレーレースで２５回、トーチを２０秒間キープする（パブリック）",
+                    "pl-PL": "25 razy posiadaj pochodnię przez 20 s. w Sztafecie (Publiczna)",
+                    "ru-RU": "Доставить факел за 20 секунд или более 25 раз в режиме \"Эстафета\" (открытая игра)"
+                },
+                "howto": {
+                    "de-DE": "Trage die Fackel 25 Mal über 20 Sekunden im Staffelrennen (öffentlich)",
+                    "en-US": "Carry the Torch for 20s, 25 times in Relay Race (Public)",
+                    "es-ES": "Lleva el testigo durante 20 segundos 25 veces en Relevos (público)",
+                    "fr-FR": "Porter 25 fois le flambeau pendant 20s en Course de relais [public]",
+                    "it-IT": "Porta la fiaccola per 20 s in Staffetta per 25 volte (Pubblica)",
+                    "ja-JP": "リレーレースで２５回、トーチを２０秒間キープする（パブリック）",
+                    "pl-PL": "25 razy posiadaj pochodnię przez 20 s. w Sztafecie (Publiczna)",
+                    "ru-RU": "Доставить факел за 20 секунд или более 25 раз в режиме \"Эстафета\" (открытая игра)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "20.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "Unerbittlicher Angriff",
+                    "en-US": "Relentless Assault",
+                    "es-ES": "Asalto implacable",
+                    "fr-FR": "Harcèlement",
+                    "it-IT": "Implacabile",
+                    "ja-JP": "容赦ない攻撃",
+                    "pl-PL": "Bezwzględny atak",
+                    "ru-RU": "Штурмовик"
+                },
+                "description": {
+                    "de-DE": "Erreiche 10 Mal das Zentrum der feindlichen Basis im Modus Blitz (öffentlich)",
+                    "en-US": "Successfully attack the base 10 times in Blitz (Public)",
+                    "es-ES": "Ataca 10 veces con éxito la base en Bombardeo (público)",
+                    "fr-FR": "Réussir à attaquer la base 10 fois en Blitz [public]",
+                    "it-IT": "Attacca con successo 10 volte la base in Incursione (Pubblica)",
+                    "ja-JP": "ブリッツで10回、ベースを攻撃する (パブリック)",
+                    "pl-PL": "10 razy zaatakuj z powodzeniem bazę w trybie Najazd (Publiczna)",
+                    "ru-RU": "10 раз успешно напасть на вражескую базу в режиме \"Блиц\" (открытая игра)"
+                },
+                "howto": {
+                    "de-DE": "Erreiche 10 Mal das Zentrum der feindlichen Basis im Modus Blitz (öffentlich)",
+                    "en-US": "Successfully attack the base 10 times in Blitz (Public)\n\n",
+                    "es-ES": "Ataca 10 veces con éxito la base en Bombardeo (público)",
+                    "fr-FR": "Réussir à attaquer la base 10 fois en Blitz [public]",
+                    "it-IT": "Attacca con successo 10 volte la base in Incursione (Pubblica)",
+                    "ja-JP": "ブリッツで10回、ベースを攻撃する (パブリック)",
+                    "pl-PL": "10 razy zaatakuj z powodzeniem bazę w trybie Najazd (Publiczna)",
+                    "ru-RU": "10 раз успешно напасть на вражескую базу в режиме \"Блиц\" (открытая игра)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "21.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "de-DE": "Zack, du bist!",
+                    "en-US": "Tag, You're It!",
+                    "es-ES": "¡Tú la llevas!",
+                    "fr-FR": "C'est toi le chat !",
+                    "it-IT": "Ce l'hai!",
+                    "ja-JP": "タグゲーム",
+                    "pl-PL": "Berek!",
+                    "ru-RU": "Тебе водить!"
+                },
+                "description": {
+                    "de-DE": "Werde 50 Mal mehr als 10 Sekunden Gejagter im Modus Fangen (öffentlich)",
+                    "en-US": "Keep the Tag for 10s, 50 times in Tag (Public)",
+                    "es-ES": "Mantén la marca durante 10 segundos 50 veces en Marca (público)",
+                    "fr-FR": "Garder 50 fois le trophée pendant 10s [public]",
+                    "it-IT": "Tieni il marchio per 10 s a Ce l'hai! per 50 volte (Pubblica)",
+                    "ja-JP": "タグで50回、タグを10秒間キープする (パブリック)",
+                    "pl-PL": "50 razy bądź berkiem przez co najmniej 10 s. w grze sieciowej (Publiczna)",
+                    "ru-RU": "50 раз продержать метку 10 секунд в режиме \"Метка\" (открытая игра)"
+                },
+                "howto": {
+                    "de-DE": "Werde 50 Mal mehr als 10 Sekunden Gejagter im Modus Fangen (öffentlich)",
+                    "en-US": "Keep the Tag for 10s, 50 times in Tag (Public)",
+                    "es-ES": "Mantén la marca durante 10 segundos 50 veces en Marca (público)",
+                    "fr-FR": "Garder 50 fois le trophée pendant 10s [public]",
+                    "it-IT": "Tieni il marchio per 10 s a Ce l'hai! per 50 volte (Pubblica)",
+                    "ja-JP": "タグで50回、タグを10秒間キープする (パブリック)",
+                    "pl-PL": "50 razy bądź berkiem przez co najmniej 10 s. w grze sieciowej (Publiczna)",
+                    "ru-RU": "50 раз продержать метку 10 секунд в режиме \"Метка\" (открытая игра)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "22.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "Nicht erwischen lassen",
+                    "en-US": "Getting Away With It",
+                    "es-ES": "Salte con la tuya",
+                    "fr-FR": "En cavale",
+                    "it-IT": "Fuggitivo",
+                    "ja-JP": "逃走ゲーム",
+                    "pl-PL": "Ucieczka",
+                    "ru-RU": "Прихватить и смыться"
+                },
+                "description": {
+                    "de-DE": "25 Lieferpunkte im Modus Verhaftung erreichen (öffentlich)",
+                    "en-US": "Reach 25 drop-off locations in Takedown (Public)",
+                    "es-ES": "Llega a 25 puntos de entrega en Derribo (público)",
+                    "fr-FR": "Atteindre 25 points de livraison en Élimination [public]",
+                    "it-IT": "Raggiungi 25 punti di consegna in Eliminazione (Pubblica)",
+                    "ja-JP": "テイクダウンで２５ヶ所の引き渡し場所にたどり着く（パブリック）",
+                    "pl-PL": "Dotrzyj do 25 punktów dostawy w trybie Nokaut (Publiczna)",
+                    "ru-RU": "Добраться до 25 ключевых точек в режиме \"Разборка\" (открытая игра)"
+                },
+                "howto": {
+                    "de-DE": "25 Lieferpunkte im Modus Verhaftung erreichen (öffentlich)",
+                    "en-US": "Reach 25 drop-off locations in Takedown (Public)",
+                    "es-ES": "Llega a 25 puntos de entrega en Derribo (público)",
+                    "fr-FR": "Atteindre 25 points de livraison en Élimination [public]",
+                    "it-IT": "Raggiungi 25 punti di consegna in Eliminazione (Pubblica)",
+                    "ja-JP": "テイクダウンで２５ヶ所の引き渡し場所にたどり着く（パブリック）",
+                    "pl-PL": "Dotrzyj do 25 punktów dostawy w trybie Nokaut (Publiczna)",
+                    "ru-RU": "Добраться до 25 ключевых точек в режиме \"Разборка\" (открытая игра)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "23.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "Ich brenne!",
+                    "en-US": "I'm On Fire!",
+                    "es-ES": "¡Estoy ardiendo!",
+                    "fr-FR": "J'ai le feu !",
+                    "it-IT": "Supernova",
+                    "ja-JP": "炎上中！",
+                    "pl-PL": "Jesteś na fali!",
+                    "ru-RU": "Жжёшь!"
+                },
+                "description": {
+                    "de-DE": "30 Sekunden in Spurleger in beiden Spuren fahren (öffentlich)",
+                    "en-US": "Stay in both trails for 30s in Trailblazer (Public)",
+                    "es-ES": "Sigue los 2 rastros durante 30 segundos en Dejando huella (público)",
+                    "fr-FR": "Rester dans le sillage pendant 30s en Pistage [public]",
+                    "it-IT": "Resta in entrambe le scie per 30 s in Scia infuocata (Pubblica)",
+                    "ja-JP": "トレイルブレイザーで2本のライン上を30秒間走る (パブリック)",
+                    "pl-PL": "Jedź dwoma śladami przez 30 s. w trybie Przetarty szlak (Publiczna)",
+                    "ru-RU": "Выйти на два следа одновременно в течение 30 секунд в режиме \"Напролом\" (открытая игра)"
+                },
+                "howto": {
+                    "de-DE": "30 Sekunden in Spurleger in beiden Spuren fahren (öffentlich)",
+                    "en-US": "Stay in both trails for 30s in Trailblazer (Public)",
+                    "es-ES": "Sigue los 2 rastros durante 30 segundos en Dejando huella (público)",
+                    "fr-FR": "Rester dans le sillage pendant 30s en Pistage [public]",
+                    "it-IT": "Resta in entrambe le scie per 30 s in Scia infuocata (Pubblica)",
+                    "ja-JP": "トレイルブレイザーで2本のライン上を30秒間走る (パブリック)",
+                    "pl-PL": "Jedź dwoma śladami przez 30 s. w trybie Przetarty szlak (Publiczna)",
+                    "ru-RU": "Выйти на два следа одновременно в течение 30 секунд в режиме \"Напролом\" (открытая игра)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "24.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Herdentier",
+                    "en-US": "Stay With the Pack",
+                    "es-ES": "Jefe de pelotón",
+                    "fr-FR": "Dans la meute",
+                    "it-IT": "Resta col gruppo",
+                    "ja-JP": "集団の中",
+                    "pl-PL": "Trzymaj się stada",
+                    "ru-RU": "Не отрывайся"
+                },
+                "description": {
+                    "de-DE": "Durchfahre 1.000 Tore in der Kontrollpunkthatz / Teamrausch (online)",
+                    "en-US": "Score 1000 gates in Checkpoint/Team Rush (Online)",
+                    "es-ES": "Cruza 1000 puertas en Carrera p. control/Prueba en equipo (público)",
+                    "fr-FR": "Passer 1000 portes en Course de checkpoints/Checkpoints équipe [en ligne]",
+                    "it-IT": "Passa 1.000 checkpoint in Corsa ai checkpoint/a squadre (Online)",
+                    "ja-JP": "チェックポイントラッシュかチームラッシュで1000ポイント獲得する (パブリック)",
+                    "pl-PL": "Zalicz 1000 bramek w trybie Punkt kontrolny/Pościg uliczny (Publiczna)",
+                    "ru-RU": "Пройти 1000 ворот в режиме \"Опережение\" (игра через Интернет)"
+                },
+                "howto": {
+                    "de-DE": "Durchfahre 1.000 Tore in der Kontrollpunkthatz / Teamrausch (online)",
+                    "en-US": "Score 1000 gates in Checkpoint/Team Rush (Online)",
+                    "es-ES": "Cruza 1000 puertas en Carrera p. control/Prueba en equipo (público)",
+                    "fr-FR": "Passer 1000 portes en Course de checkpoints/Checkpoints équipe [en ligne]",
+                    "it-IT": "Passa 1.000 checkpoint in Corsa ai checkpoint/a squadre (Online)",
+                    "ja-JP": "チェックポイントラッシュかチームラッシュで1000ポイント獲得する (パブリック)",
+                    "pl-PL": "Zalicz 1000 bramek w trybie Punkt kontrolny/Pościg uliczny (Publiczna)",
+                    "ru-RU": "Пройти 1000 ворот в режиме \"Опережение\" (игра через Интернет)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "25.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Herausforderer",
+                    "en-US": "The Challenger",
+                    "es-ES": "Aspirante a título",
+                    "fr-FR": "Challenger",
+                    "it-IT": "Lo sfidante",
+                    "ja-JP": "チャレンジャー",
+                    "pl-PL": "Rzucam wyzwanie",
+                    "ru-RU": "Победитель состязания"
+                },
+                "description": {
+                    "de-DE": "Schlage die Zielzeit/-punktzahl in egal welcher Herausforderung",
+                    "en-US": "Beat the Target Time/Score on any Challenge",
+                    "es-ES": "Bate el tiempo/la puntuación en cualquier desafío",
+                    "fr-FR": "Battre le temps/score cible dans n'importe quel Défi",
+                    "it-IT": "Batti il tempo/punteggio obiettivo in una sfida",
+                    "ja-JP": "チャレンジのどれかで目標タイム/スコアを更新する",
+                    "pl-PL": "Pobij Czas docelowy/Wynik w dowolnym wyzwaniu",
+                    "ru-RU": "Пройти любое состязание, набрав нужное количество очков или успев вовремя"
+                },
+                "howto": {
+                    "de-DE": "Schlage die Zielzeit/-punktzahl in egal welcher Herausforderung",
+                    "en-US": "Beat the Target Time/Score on any Challenge",
+                    "es-ES": "Bate el tiempo/la puntuación en cualquier desafío",
+                    "fr-FR": "Battre le temps/score cible dans n'importe quel Défi",
+                    "it-IT": "Batti il tempo/punteggio obiettivo in una sfida",
+                    "ja-JP": "チャレンジのどれかで目標タイム/スコアを更新する",
+                    "pl-PL": "Pobij Czas docelowy/Wynik w dowolnym wyzwaniu",
+                    "ru-RU": "Пройти любое состязание, набрав нужное количество очков или успев вовремя"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "26.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "Fanservice",
+                    "en-US": "Fan Service",
+                    "es-ES": "Extras",
+                    "fr-FR": "Pour les fans",
+                    "it-IT": "Dedicato ai fan",
+                    "ja-JP": "ファンサービス",
+                    "pl-PL": "Wąchajcie dym, frajerzy",
+                    "ru-RU": "На любителя"
+                },
+                "description": {
+                    "de-DE": "Beende die Herausforderung 'Begegnung mit der Vergangenheit'",
+                    "en-US": "Complete the 'Blast from the Past' Challenge",
+                    "es-ES": "Supera el desafío “Ráfaga del pasado”",
+                    "fr-FR": "Terminer le Défi \"Retour dans le passé\"",
+                    "it-IT": "Supera la sfida \"Dal passato con furore\"",
+                    "ja-JP": "「過去からの突風」チャレンジをクリアする",
+                    "pl-PL": "Ukończ wyzwanie 'Powrót z przeszłości'",
+                    "ru-RU": "Пройти состязание \"Привет из прошлого\""
+                },
+                "howto": {
+                    "de-DE": "Beende die Herausforderung 'Begegnung mit der Vergangenheit'",
+                    "en-US": "Complete the 'Blast from the Past' Challenge",
+                    "es-ES": "Supera el desafío “Ráfaga del pasado”",
+                    "fr-FR": "Terminer le Défi \"Retour dans le passé\"",
+                    "it-IT": "Supera la sfida \"Dal passato con furore\"",
+                    "ja-JP": "「過去からの突風」チャレンジをクリアする",
+                    "pl-PL": "Ukończ wyzwanie 'Powrót z przeszłości'",
+                    "ru-RU": "Пройти состязание \"Привет из прошлого\""
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "27.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "Licht, Kamera, Action!",
+                    "en-US": "Lights, Camera, Action!",
+                    "es-ES": "¡Luces, cámara, acción!",
+                    "fr-FR": "Lumières, caméra, action !",
+                    "it-IT": "Luci, motore, azione!",
+                    "ja-JP": "ライト、カメラ、アクション！",
+                    "pl-PL": "Światła, kamera, akcja!",
+                    "ru-RU": "Свет! Камера! Мотор!"
+                },
+                "description": {
+                    "de-DE": "Schalte eine Filmherausforderung frei",
+                    "en-US": "Unlock a Movie Challenge",
+                    "es-ES": "Desbloquea un desafío de película",
+                    "fr-FR": "Déverrouiller un Défi cinéma",
+                    "it-IT": "Sblocca una sfida da film",
+                    "ja-JP": "ムービーチャレンジを1個解除する",
+                    "pl-PL": "Odblokuj wyzwanie filmowe",
+                    "ru-RU": "Получить доступ к киносостязанию"
+                },
+                "howto": {
+                    "de-DE": "Schalte eine Filmherausforderung frei",
+                    "en-US": "Unlock a Movie Challenge",
+                    "es-ES": "Desbloquea un desafío de película",
+                    "fr-FR": "Déverrouiller un Défi cinéma",
+                    "it-IT": "Sblocca una sfida da film",
+                    "ja-JP": "ムービーチャレンジを1個解除する",
+                    "pl-PL": "Odblokuj wyzwanie filmowe",
+                    "ru-RU": "Получить доступ к киносостязанию"
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "5",
+            "imageId": "28.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "Schnitt! Das war's!",
+                    "en-US": "Cut! Print It!",
+                    "es-ES": "¡Corten!",
+                    "fr-FR": "Coupez ! On la garde !",
+                    "it-IT": "Taglia! Buona la prima!",
+                    "ja-JP": "カット！OK！",
+                    "pl-PL": "Cięcie! To było dobre!",
+                    "ru-RU": "Отличные кадры!"
+                },
+                "description": {
+                    "de-DE": "Schalte 6 Filmherausforderungen frei",
+                    "en-US": "Unlock 6 Movie Challenges",
+                    "es-ES": "Desbloquea 6 desafíos de película",
+                    "fr-FR": "Déverrouiller 6 Défis cinéma",
+                    "it-IT": "Sblocca 6 sfide da film",
+                    "ja-JP": "ムービーチャレンジを6個解除する",
+                    "pl-PL": "Odblokuj 6 wyzwań filmowych",
+                    "ru-RU": "Получить доступ к 6 киносостязаниям"
+                },
+                "howto": {
+                    "de-DE": "Schalte 6 Filmherausforderungen frei",
+                    "en-US": "Unlock 6 Movie Challenges",
+                    "es-ES": "Desbloquea 6 desafíos de película",
+                    "fr-FR": "Déverrouiller 6 Défis cinéma",
+                    "it-IT": "Sblocca 6 sfide da film",
+                    "ja-JP": "ムービーチャレンジを6個解除する",
+                    "pl-PL": "Odblokuj 6 wyzwań filmowych",
+                    "ru-RU": "Получить доступ к 6 киносостязаниям"
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "15",
+            "imageId": "29.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Im Kasten!",
+                    "en-US": "That's a Wrap!",
+                    "es-ES": "¡A moverse!",
+                    "fr-FR": "C'est dans la boîte !",
+                    "it-IT": "Abbiamo finito!",
+                    "ja-JP": "全巻制覇",
+                    "pl-PL": "Mocna rzecz!",
+                    "ru-RU": "Снято!"
+                },
+                "description": {
+                    "de-DE": "Schalte alle 13 Filmherausforderungen frei",
+                    "en-US": "Unlock all 13 Movie Challenges",
+                    "es-ES": "Desbloquea los 13 desafíos de película",
+                    "fr-FR": "Déverrouiller les 13 Défis cinéma",
+                    "it-IT": "Sblocca tutte le 13 sfide da film",
+                    "ja-JP": "ムービーチャレンジを全13個すべて解除する",
+                    "pl-PL": "Odblokuj wszystkie 13 wyzwań filmowych",
+                    "ru-RU": "Получить доступ ко всем 13 киносостязаниям"
+                },
+                "howto": {
+                    "de-DE": "Schalte alle 13 Filmherausforderungen frei",
+                    "en-US": "Unlock all 13 Movie Challenges",
+                    "es-ES": "Desbloquea los 13 desafíos de película",
+                    "fr-FR": "Déverrouiller les 13 Défis cinéma",
+                    "it-IT": "Sblocca tutte le 13 sfide da film",
+                    "ja-JP": "ムービーチャレンジを全13個すべて解除する",
+                    "pl-PL": "Odblokuj wszystkie 13 wyzwań filmowych",
+                    "ru-RU": "Получить доступ ко всем 13 киносостязаниям"
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "30",
+            "imageId": "30.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Aktiv!",
+                    "en-US": "Active!",
+                    "es-ES": "¡Actividad!",
+                    "fr-FR": "Actif !",
+                    "it-IT": "Attivo!",
+                    "ja-JP": "アクティブ！",
+                    "pl-PL": "Aktywność!",
+                    "ru-RU": "Активный"
+                },
+                "description": {
+                    "de-DE": "Beende eine Aktivität",
+                    "en-US": "Complete an Activity",
+                    "es-ES": "Realiza 1 actividad",
+                    "fr-FR": "Terminer une activité",
+                    "it-IT": "Completa un'attività\n\n",
+                    "ja-JP": "アクティビティを1個クリアする",
+                    "pl-PL": "Ukończ akcję",
+                    "ru-RU": "Завершить мероприятие"
+                },
+                "howto": {
+                    "de-DE": "Beende eine Aktivität",
+                    "en-US": "Complete an Activity",
+                    "es-ES": "Realiza 1 actividad",
+                    "fr-FR": "Terminer une activité",
+                    "it-IT": "Completa un'attività\n\n",
+                    "ja-JP": "アクティビティを1個クリアする",
+                    "pl-PL": "Ukończ akcję",
+                    "ru-RU": "Завершить мероприятие"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "31.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Hyperaktiv!",
+                    "en-US": "Hyperactive!",
+                    "es-ES": "¡Hiperactividad!",
+                    "fr-FR": "Hyperactif !",
+                    "it-IT": "Iperattivo!",
+                    "ja-JP": "ハイパーアクティブ！",
+                    "pl-PL": "Hiperaktywność!",
+                    "ru-RU": "Гиперактивный"
+                },
+                "description": {
+                    "de-DE": "Beende 25 Aktivitäten",
+                    "en-US": "Complete 25 Activities",
+                    "es-ES": "Realiza 25 actividades",
+                    "fr-FR": "Terminer 25 activités",
+                    "it-IT": "Completa 25 attività\n\n",
+                    "ja-JP": "アクティビティを25個クリアする",
+                    "pl-PL": "Wykonaj 25 akcji",
+                    "ru-RU": "Завершить 25 мероприятий"
+                },
+                "howto": {
+                    "de-DE": "Beende 25 Aktivitäten",
+                    "en-US": "Complete 25 Activities",
+                    "es-ES": "Realiza 25 actividades",
+                    "fr-FR": "Terminer 25 activités",
+                    "it-IT": "Completa 25 attività\n\n",
+                    "ja-JP": "アクティビティを25個クリアする",
+                    "pl-PL": "Wykonaj 25 akcji",
+                    "ru-RU": "Завершить 25 мероприятий"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "32.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Radioaktiv!",
+                    "en-US": "Radioactive!",
+                    "es-ES": "¡Radiactividad!",
+                    "fr-FR": "Radioactif !",
+                    "it-IT": "Radioattivo!",
+                    "ja-JP": "レディオアクティブ！",
+                    "pl-PL": "Radioaktywność!",
+                    "ru-RU": "Радиоактивный"
+                },
+                "description": {
+                    "de-DE": "Beende 50 Aktivitäten",
+                    "en-US": "Complete 50 Activities",
+                    "es-ES": "Realiza 50 actividades",
+                    "fr-FR": "Terminer 50 activités",
+                    "it-IT": "Completa 50 attività\n\n",
+                    "ja-JP": "アクティビティを50個クリアする",
+                    "pl-PL": "Wykonaj 50 akcji",
+                    "ru-RU": "Завершить 50 мероприятий"
+                },
+                "howto": {
+                    "de-DE": "Beende 50 Aktivitäten",
+                    "en-US": "Complete 50 Activities",
+                    "es-ES": "Realiza 50 actividades",
+                    "fr-FR": "Terminer 50 activités",
+                    "it-IT": "Completa 50 attività\n\n",
+                    "ja-JP": "アクティビティを50個クリアする",
+                    "pl-PL": "Wykonaj 50 akcji",
+                    "ru-RU": "Завершить 50 мероприятий"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "33.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "Wir fordern dich … ",
+                    "en-US": "We Dare You...",
+                    "es-ES": "Te retamos...",
+                    "fr-FR": "Même pas cap !",
+                    "it-IT": "Ti sfidiamo...",
+                    "ja-JP": "度胸があるなら・・・",
+                    "pl-PL": "Próba sił",
+                    "ru-RU": "Слабо?"
+                },
+                "description": {
+                    "de-DE": "Beende eine Mutprobe",
+                    "en-US": "Complete a Dare",
+                    "es-ES": "Supera un reto",
+                    "fr-FR": "Terminer un Exploit",
+                    "it-IT": "Compi un azzardo\n\n",
+                    "ja-JP": "デンジャートライを1個クリアする",
+                    "pl-PL": "Ukończ próbę",
+                    "ru-RU": "Пройти испытание"
+                },
+                "howto": {
+                    "de-DE": "Beende eine Mutprobe",
+                    "en-US": "Complete a Dare",
+                    "es-ES": "Supera un reto",
+                    "fr-FR": "Terminer un Exploit",
+                    "it-IT": "Compi un azzardo\n\n",
+                    "ja-JP": "デンジャートライを1個クリアする",
+                    "pl-PL": "Ukończ próbę",
+                    "ru-RU": "Пройти испытание"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "34.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Wir fordern dich doppelt …",
+                    "en-US": "We Double Dare You...",
+                    "es-ES": "Te retamos doblemente...",
+                    "fr-FR": "Cette fois, même pas cap !",
+                    "it-IT": "Alziamo la posta...",
+                    "ja-JP": "本当に度胸があるなら...",
+                    "pl-PL": "Podwójna próba sił",
+                    "ru-RU": "Кишка не тонка?"
+                },
+                "description": {
+                    "de-DE": "Beende 40 Mutproben",
+                    "en-US": "Complete 40 Dares",
+                    "es-ES": "Supera 40 retos",
+                    "fr-FR": "Terminer 40 Exploits",
+                    "it-IT": "Compi 40 azzardi\n\n",
+                    "ja-JP": "デンジャートライを40個クリアする",
+                    "pl-PL": "Ukończ 40 prób",
+                    "ru-RU": "Пройти 40 испытаний"
+                },
+                "howto": {
+                    "de-DE": "Beende 40 Mutproben",
+                    "en-US": "Complete 40 Dares",
+                    "es-ES": "Supera 40 retos",
+                    "fr-FR": "Terminer 40 Exploits",
+                    "it-IT": "Compi 40 azzardi\n\n",
+                    "ja-JP": "デンジャートライを40個クリアする",
+                    "pl-PL": "Ukończ 40 prób",
+                    "ru-RU": "Пройти 40 испытаний"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "35.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Meisterfahrer",
+                    "en-US": "Master Driver",
+                    "es-ES": "Piloto maestro",
+                    "fr-FR": "Roi du volant",
+                    "it-IT": "Pilota ineguagliabile",
+                    "ja-JP": "マスタードライバー",
+                    "pl-PL": "Mistrz kierownicy",
+                    "ru-RU": "Опытный гонщик"
+                },
+                "description": {
+                    "de-DE": "Beende alle 80 Mutproben",
+                    "en-US": "Complete all 80 Dares",
+                    "es-ES": "Supera los 80 retos",
+                    "fr-FR": "Terminer les 80 Exploits",
+                    "it-IT": "Compi tutti gli 80 azzardi",
+                    "ja-JP": "デンジャートライを全80個すべてクリアする",
+                    "pl-PL": "Ukończ wszystkie 80 prób",
+                    "ru-RU": "Пройти все 80 испытаний"
+                },
+                "howto": {
+                    "de-DE": "Beende alle 80 Mutproben",
+                    "en-US": "Complete all 80 Dares",
+                    "es-ES": "Supera los 80 retos",
+                    "fr-FR": "Terminer les 80 Exploits",
+                    "it-IT": "Compi tutti gli 80 azzardi",
+                    "ja-JP": "デンジャートライを全80個すべてクリアする",
+                    "pl-PL": "Ukończ wszystkie 80 prób",
+                    "ru-RU": "Пройти все 80 испытаний"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "36.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "Bist du versichert?",
+                    "en-US": "Are You Insured?",
+                    "es-ES": "¿Tienes seguro?",
+                    "fr-FR": "Vous êtes assuré ?",
+                    "it-IT": "Sei assicurato?",
+                    "ja-JP": "保険加入済？",
+                    "pl-PL": "Jesteś ubezpieczony?",
+                    "ru-RU": "А как же страховка?"
+                },
+                "description": {
+                    "de-DE": "Kauf dein erstes Fahrzeug",
+                    "en-US": "Buy your first Vehicle",
+                    "es-ES": "Compra tu primer vehículo",
+                    "fr-FR": "Acheter votre premier véhicule",
+                    "it-IT": "Acquista il primo veicolo",
+                    "ja-JP": "最初の車を購入する",
+                    "pl-PL": "Kup swoje pierwsze auto",
+                    "ru-RU": "Купить первую машину"
+                },
+                "howto": {
+                    "de-DE": "Kauf dein erstes Fahrzeug",
+                    "en-US": "Buy your first Vehicle",
+                    "es-ES": "Compra tu primer vehículo",
+                    "fr-FR": "Acheter votre premier véhicule",
+                    "it-IT": "Acquista il primo veicolo",
+                    "ja-JP": "最初の車を購入する",
+                    "pl-PL": "Kup swoje pierwsze auto",
+                    "ru-RU": "Купить первую машину"
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "5",
+            "imageId": "37.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "de-DE": "Autoverrückter",
+                    "en-US": "Car Nut",
+                    "es-ES": "Cocheadicto",
+                    "fr-FR": "Collectionneur",
+                    "it-IT": "Pazzo per le auto",
+                    "ja-JP": "カーマニア",
+                    "pl-PL": "Fan motoryzacji",
+                    "ru-RU": "Скупщик машин"
+                },
+                "description": {
+                    "de-DE": "Kauf 50 Fahrzeuge",
+                    "en-US": "Buy 50 Vehicles",
+                    "es-ES": "Compra 50 vehículos",
+                    "fr-FR": "Acheter 50 véhicules",
+                    "it-IT": "Acquista 50 veicoli",
+                    "ja-JP": "50台車を購入する",
+                    "pl-PL": "Kup 50 pojazdów",
+                    "ru-RU": "Купить более 50 машин"
+                },
+                "howto": {
+                    "de-DE": "Kauf 50 Fahrzeuge",
+                    "en-US": "Buy 50 Vehicles",
+                    "es-ES": "Compra 50 vehículos",
+                    "fr-FR": "Acheter 50 véhicules",
+                    "it-IT": "Acquista 50 veicoli",
+                    "ja-JP": "50台車を購入する",
+                    "pl-PL": "Kup 50 pojazdów",
+                    "ru-RU": "Купить более 50 машин"
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "15",
+            "imageId": "38.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "de-DE": "Benzinbirne",
+                    "en-US": "Petrolhead",
+                    "es-ES": "Súper-cocheadicto",
+                    "fr-FR": "Dingue de voitures",
+                    "it-IT": "Cuore a benzina",
+                    "ja-JP": "ガソリンヘッド",
+                    "pl-PL": "Entuzjasta samochodów",
+                    "ru-RU": "Бензиноголовый"
+                },
+                "description": {
+                    "de-DE": "Kauf alle Fahrzeuge aus der Werkstatt",
+                    "en-US": "Buy all of the Vehicles from the Garage",
+                    "es-ES": "Compra todos los vehículos del taller",
+                    "fr-FR": "Acheter tous les véhicules du garage",
+                    "it-IT": "Acquista tutti i veicoli del garage",
+                    "ja-JP": "ガレージの車を全部購入する",
+                    "pl-PL": "Kup wszystkie pojazdy z garażu",
+                    "ru-RU": "Купить все машины в гараже"
+                },
+                "howto": {
+                    "de-DE": "Kauf alle Fahrzeuge aus der Werkstatt",
+                    "en-US": "Buy all of the Vehicles from the Garage",
+                    "es-ES": "Compra todos los vehículos del taller",
+                    "fr-FR": "Acheter tous les véhicules du garage",
+                    "it-IT": "Acquista tutti i veicoli del garage",
+                    "ja-JP": "ガレージの車を全部購入する",
+                    "pl-PL": "Kup wszystkie pojazdy z garażu",
+                    "ru-RU": "Купить все машины в гараже"
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "30",
+            "imageId": "39.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "Erstkauf",
+                    "en-US": "First Time Buyer",
+                    "es-ES": "Comprador novato",
+                    "fr-FR": "Premier achat",
+                    "it-IT": "Primo acquisto",
+                    "ja-JP": "初回購入",
+                    "pl-PL": "Pierwsze auto",
+                    "ru-RU": "Первый гараж"
+                },
+                "description": {
+                    "de-DE": "Kauf deine erste Werkstatt",
+                    "en-US": "Buy your first Garage",
+                    "es-ES": "Compra tu primer taller",
+                    "fr-FR": "Acheter votre premier garage",
+                    "it-IT": "Acquista il primo garage",
+                    "ja-JP": "初めてガレージを購入する",
+                    "pl-PL": "Kup swój pierwszy garaż",
+                    "ru-RU": "Купить первый гараж"
+                },
+                "howto": {
+                    "de-DE": "Kauf deine erste Werkstatt",
+                    "en-US": "Buy your first Garage",
+                    "es-ES": "Compra tu primer taller",
+                    "fr-FR": "Acheter votre premier garage",
+                    "it-IT": "Acquista il primo garage",
+                    "ja-JP": "初めてガレージを購入する",
+                    "pl-PL": "Kup swój pierwszy garaż",
+                    "ru-RU": "Купить первый гараж"
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "5",
+            "imageId": "40.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "de-DE": "Schlüssel der Stadt",
+                    "en-US": "Keys to the City",
+                    "es-ES": "Llaves de la ciudad",
+                    "fr-FR": "Les clés de la ville",
+                    "it-IT": "Chiavi della città",
+                    "ja-JP": "街へのカギ",
+                    "pl-PL": "Klucze do miasta",
+                    "ru-RU": "Ключи от города"
+                },
+                "description": {
+                    "de-DE": "Kauf alle Werkstätten in der Stadt",
+                    "en-US": "Buy all of the Garages in the City",
+                    "es-ES": "Compra todos los talleres de la ciudad",
+                    "fr-FR": "Acheter tous les garages de la ville",
+                    "it-IT": "Acquista tutti i garage della città",
+                    "ja-JP": "街中のすべてのガレージを購入",
+                    "pl-PL": "Kup wszystkie garaże w mieście",
+                    "ru-RU": "Купить все гаражи в городе"
+                },
+                "howto": {
+                    "de-DE": "Kauf alle Werkstätten in der Stadt",
+                    "en-US": "Buy all of the Garages in the City",
+                    "es-ES": "Compra todos los talleres de la ciudad",
+                    "fr-FR": "Acheter tous les garages de la ville",
+                    "it-IT": "Acquista tutti i garage della città",
+                    "ja-JP": "街中のすべてのガレージを購入",
+                    "pl-PL": "Kup wszystkie garaże w mieście",
+                    "ru-RU": "Купить все гаражи в городе"
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "15",
+            "imageId": "41.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "Ausgetrickst",
+                    "en-US": "Tricked Out",
+                    "es-ES": "Trucos",
+                    "fr-FR": "Gonflé à bloc !",
+                    "it-IT": "Assi nella manica",
+                    "ja-JP": "大改造",
+                    "pl-PL": "Nic mnie nie zaskoczy",
+                    "ru-RU": "Умелец"
+                },
+                "description": {
+                    "de-DE": "Kauf alle Upgrades aus der Werkstatt",
+                    "en-US": "Buy all of the Upgrades from the Garage",
+                    "es-ES": "Compra todas las mejoras del taller",
+                    "fr-FR": "Acheter toutes les améliorations du garage",
+                    "it-IT": "Acquista tutti i potenziamenti dal garage",
+                    "ja-JP": "ガレージですべてのアップグレードを全部購入",
+                    "pl-PL": "Kup wszystkie ulepszenia w garażu",
+                    "ru-RU": "Купить все усовершенствования в гараже"
+                },
+                "howto": {
+                    "de-DE": "Kauf alle Upgrades aus der Werkstatt",
+                    "en-US": "Buy all of the Upgrades from the Garage",
+                    "es-ES": "Compra todas las mejoras del taller",
+                    "fr-FR": "Acheter toutes les améliorations du garage",
+                    "it-IT": "Acquista tutti i potenziamenti dal garage",
+                    "ja-JP": "ガレージですべてのアップグレードを全部購入",
+                    "pl-PL": "Kup wszystkie ulepszenia w garażu",
+                    "ru-RU": "Купить все усовершенствования в гараже"
+                }
+            },
+            "isSecret": "true",
+            "type": "Unlock",
+            "credits": "15",
+            "imageId": "42.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "Spendierhosenträger",
+                    "en-US": "Hey Big Spender!",
+                    "es-ES": "¡Derrochador!",
+                    "fr-FR": "Gros acheteur",
+                    "it-IT": "Ehi, spendaccione!",
+                    "ja-JP": "大浪費家",
+                    "pl-PL": "Milioner",
+                    "ru-RU": "Транжира"
+                },
+                "description": {
+                    "de-DE": "Gib 5.000.000 WK aus",
+                    "en-US": "Spend 5,000,000 WP",
+                    "es-ES": "Gasta 5.000.000 PV",
+                    "fr-FR": "Dépenser 5 000 000 points de volonté",
+                    "it-IT": "Spendi 5.000.000 PD",
+                    "ja-JP": "５,０００,０００ＷＰ使う",
+                    "pl-PL": "Wykorzystaj 5 000 000 punktów SW",
+                    "ru-RU": "Потратить 5000000 ед. силы воли"
+                },
+                "howto": {
+                    "de-DE": "Gib 5.000.000 WK aus",
+                    "en-US": "Spend 5,000,000 WP",
+                    "es-ES": "Gasta 5.000.000 PV",
+                    "fr-FR": "Dépenser 5 000 000 points de volonté",
+                    "it-IT": "Spendi 5.000.000 PD",
+                    "ja-JP": "５,０００,０００ＷＰ使う",
+                    "pl-PL": "Wykorzystaj 5 000 000 punktów SW",
+                    "ru-RU": "Потратить 5000000 ед. силы воли"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "43.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "de-DE": "Das kann nicht wahr sein",
+                    "en-US": "This Can't Be Real",
+                    "es-ES": "Esto no es real",
+                    "fr-FR": "Incroyable",
+                    "it-IT": "Non può essere vero",
+                    "ja-JP": "ありえない話",
+                    "pl-PL": "To nie dzieje się naprawdę",
+                    "ru-RU": "Не может быть"
+                },
+                "description": {
+                    "de-DE": "Beende das Shift-Tutorial",
+                    "en-US": "Complete the Shift Tutorial",
+                    "es-ES": "Haz el tutorial de shift",
+                    "fr-FR": "Terminer le didacticiel de Shift",
+                    "it-IT": "Completa il tutorial Shift",
+                    "ja-JP": "シフト・チュートリアルを完了する",
+                    "pl-PL": "Ukończ samouczek dotyczący Shiftu",
+                    "ru-RU": "Пройти обучение вселению"
+                },
+                "howto": {
+                    "de-DE": "Beende das Shift-Tutorial",
+                    "en-US": "Complete the Shift Tutorial",
+                    "es-ES": "Haz el tutorial de shift",
+                    "fr-FR": "Terminer le didacticiel de Shift",
+                    "it-IT": "Completa il tutorial Shift",
+                    "ja-JP": "シフト・チュートリアルを完了する",
+                    "pl-PL": "Ukończ samouczek dotyczący Shiftu",
+                    "ru-RU": "Пройти обучение вселению"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "44.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "Shift happens",
+                    "en-US": "Shift Happens",
+                    "es-ES": "Shift y más shift",
+                    "fr-FR": "Shiftmania",
+                    "it-IT": "Shifta che ti passa",
+                    "ja-JP": "シフトマニア",
+                    "pl-PL": "Shift rządzi",
+                    "ru-RU": "Вселения случаются"
+                },
+                "description": {
+                    "de-DE": "Shifte 1.000 Mal (Story / online)",
+                    "en-US": "Shift 1000 Times (Story/Online)",
+                    "es-ES": "Haz shift 1.000 veces (historia/online)",
+                    "fr-FR": "Shifter 1000 fois [scénario/en ligne]",
+                    "it-IT": "Shifta 1.000 volte (Storia/Online)",
+                    "ja-JP": "１０００回シフトする（ストーリー／オンライン）",
+                    "pl-PL": "Wykonaj Shift 1000 razy (Rozgrywka/W sieci)",
+                    "ru-RU": "Вселиться 1000 раз (сюжет/сеть)"
+                },
+                "howto": {
+                    "de-DE": "Shifte 1.000 Mal (Story / online)",
+                    "en-US": "Shift 1000 Times (Story/Online)",
+                    "es-ES": "Haz shift 1.000 veces (historia/online)",
+                    "fr-FR": "Shifter 1000 fois [scénario/en ligne]",
+                    "it-IT": "Shifta 1.000 volte (Storia/Online)",
+                    "ja-JP": "１０００回シフトする（ストーリー／オンライン）",
+                    "pl-PL": "Wykonaj Shift 1000 razy (Rozgrywka/W sieci)",
+                    "ru-RU": "Вселиться 1000 раз (сюжет/сеть)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "45.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "Inspektion steht an",
+                    "en-US": "Due for a Service",
+                    "es-ES": "Quemando asfalto",
+                    "fr-FR": "Dévoreur de bitume",
+                    "it-IT": "Mille miglia",
+                    "ja-JP": "車検切れ",
+                    "pl-PL": "Czas na przegląd",
+                    "ru-RU": "Пора на техосмотр"
+                },
+                "description": {
+                    "de-DE": "Fahr über 1.000 Meilen (~1.610 km) (Story / online)",
+                    "en-US": "Drive over 1000 miles (~1610 km) (Story/Online)",
+                    "es-ES": "Haz más de 1000 millas (~1610 km) (historia/online)",
+                    "fr-FR": "Parcourir plus de 1610 km/h [scénario/en ligne]",
+                    "it-IT": "Guida per oltre 1.000 miglia (1.610 km) (Storia/Online)",
+                    "ja-JP": "1000マイル (~1610 km)以上走行する (ストーリー/オンライン)",
+                    "pl-PL": "Przejedź ponad 1000 mil (~1610 km) (Rozgrywka/w sieci)",
+                    "ru-RU": "Проехать более 1000 миль (~1610 км)  (сюжет/сеть)"
+                },
+                "howto": {
+                    "de-DE": "Fahr über 1.000 Meilen (~1.610 km) (Story / online)",
+                    "en-US": "Drive over 1000 miles (~1610 km) (Story/Online)",
+                    "es-ES": "Haz más de 1000 millas (~1610 km) (historia/online)",
+                    "fr-FR": "Parcourir plus de 1610 km [scénario/en ligne]",
+                    "it-IT": "Guida per oltre 1.000 miglia (1.610 km) (Storia/Online)",
+                    "ja-JP": "1000マイル (~1610 km)以上走行する (ストーリー/オンライン)",
+                    "pl-PL": "Przejedź ponad 1000 mil (~1610 km) (Rozgrywka/w sieci)",
+                    "ru-RU": "Проехать более 1000 миль (~1610 км)  (сюжет/сеть)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "46.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "de-DE": "Räuber und Gendarm",
+                    "en-US": "Cops & Robbers",
+                    "es-ES": "Polis y ladrones",
+                    "fr-FR": "Flics et voyous",
+                    "it-IT": "Guardie e ladri",
+                    "ja-JP": "警察と泥棒",
+                    "pl-PL": "Policjanci i złodzieje",
+                    "ru-RU": "Полицейские и воры"
+                },
+                "description": {
+                    "de-DE": "Beende 30 Copverfolgungen in freier Fahrt",
+                    "en-US": "Complete 30 Freedrive Cop Chases",
+                    "es-ES": "Haz 30 persecuciones policiales en Conducción libre",
+                    "fr-FR": "Réaliser 30 poursuites de police en conduite libre",
+                    "it-IT": "Completa 30 inseguimenti con la polizia in Guida libera\n\n",
+                    "ja-JP": "フリードライブのパトカーチェイスを３０回クリアする",
+                    "pl-PL": "Ukończ 30 pościgów policyjnych w trybie przejażdżki",
+                    "ru-RU": "Провести 30 полицейских погонь в режиме беспечной езды"
+                },
+                "howto": {
+                    "de-DE": "Beende 30 Copverfolgungen in freier Fahrt",
+                    "en-US": "Complete 30 Freedrive Cop Chases",
+                    "es-ES": "Haz 30 persecuciones policiales en Conducción libre",
+                    "fr-FR": "Réaliser 30 poursuites de police en conduite libre",
+                    "it-IT": "Completa 30 inseguimenti con la polizia in Guida libera\n\n",
+                    "ja-JP": "フリードライブのパトカーチェイスを３０回クリアする",
+                    "pl-PL": "Ukończ 30 pościgów policyjnych w trybie przejażdżki",
+                    "ru-RU": "Провести 30 полицейских погонь в режиме беспечной езды"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "47.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "de-DE": "Aufgeladen!",
+                    "en-US": "Ramped Up!",
+                    "es-ES": "De subidón",
+                    "fr-FR": "Inarrêtable !",
+                    "it-IT": "Sempre più in alto!",
+                    "ja-JP": "ランプアップ！",
+                    "pl-PL": "Mocarz",
+                    "ru-RU": "Подвези!"
+                },
+                "description": {
+                    "de-DE": "Beende eine Fluchtaktivität in einem Autotransporter",
+                    "en-US": "Complete a Getaway Activity in a Car Transporter",
+                    "es-ES": "Realiza una actividad de fuga en un camión rampa",
+                    "fr-FR": "Réaliser une activité Fugitif dans un transporteur",
+                    "it-IT": "Completa un'attività da fuggitivo in un trasporto auto",
+                    "ja-JP": "キャリアカーで逃走アクティビティをクリアする",
+                    "pl-PL": "Zalicz ucieczkę w lawecie",
+                    "ru-RU": "Уйти от погони на автовозе"
+                },
+                "howto": {
+                    "de-DE": "Beende eine Fluchtaktivität in einem Autotransporter",
+                    "en-US": "Complete a Getaway Activity in a Car Transporter",
+                    "es-ES": "Realiza una actividad de fuga en un camión rampa",
+                    "fr-FR": "Réaliser une activité Fugitif dans un transporteur",
+                    "it-IT": "Completa un'attività da fuggitivo in un trasporto auto",
+                    "ja-JP": "キャリアカーで逃走アクティビティをクリアする",
+                    "pl-PL": "Zalicz ucieczkę w lawecie",
+                    "ru-RU": "Уйти от погони на автовозе"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "48.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "Lombard-Serie",
+                    "en-US": "Lombard Streak",
+                    "es-ES": "En racha",
+                    "fr-FR": "Lombard Streak",
+                    "it-IT": "Strade tortuose",
+                    "ja-JP": "ロンバードの稲妻",
+                    "pl-PL": "Współpraca popłaca",
+                    "ru-RU": "Вдоль по улице"
+                },
+                "description": {
+                    "de-DE": "Fahre die Lombard Street ohne Unfälle mit über 32 km/h herunter (Story)",
+                    "en-US": "Drive down Lombard Street, no collisions, over 20mph (Story)",
+                    "es-ES": "Ve a más de 20 millas por hora (~ 32 km/h) por Lombard Street sin chocar (historia)",
+                    "fr-FR": "Descendre Lombard Street sans collision à plus de 32 km/h [scénario]",
+                    "it-IT": "Guida lungo Lombard Street, senza fare incidenti, a oltre 32 km/h (Storia)",
+                    "ja-JP": "ロンバード通りを衝突なしで20mph (32 km/h)以上で走行する (ストーリー)",
+                    "pl-PL": "Przejedź przez Lombard Street bez kolizji z prędkością ponad 32 km/h (Rozgrywka)",
+                    "ru-RU": "В сюжетном режиме игры проехать по Ломбард стрит без столкновений на скорости выше 32 км/ч (20 м/ч)"
+                },
+                "howto": {
+                    "de-DE": "Fahre die Lombard Street ohne Unfälle mit über 32 km/h herunter (Story)",
+                    "en-US": "Drive down Lombard Street, no collisions, over 20mph (Story)",
+                    "es-ES": "Ve a más de 20 millas por hora (~ 32 km/h) por Lombard Street sin chocar (historia)",
+                    "fr-FR": "Descendre Lombard Street sans collision à plus de 32 km/h [scénario]",
+                    "it-IT": "Guida lungo Lombard Street, senza fare incidenti, a oltre 32 km/h (Storia)",
+                    "ja-JP": "ロンバード通りを衝突なしで20mph (32 km/h)以上で走行する (ストーリー)",
+                    "pl-PL": "Przejedź przez Lombard Street bez kolizji z prędkością ponad 32 km/h (Rozgrywka)",
+                    "ru-RU": "В сюжетном режиме игры проехать по Ломбард стрит без столкновений на скорости выше 32 км/ч (20 м/ч)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "49.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "de-DE": "Angeber!",
+                    "en-US": "Show Off!",
+                    "es-ES": "¡A fardar!",
+                    "fr-FR": "Pour la frime !",
+                    "it-IT": "Sbruffone!",
+                    "ja-JP": "カッコつけ野郎！",
+                    "pl-PL": "Popisz się!",
+                    "ru-RU": "Каскадер"
+                },
+                "description": {
+                    "de-DE": "Mach einen 250 m Drift oder Sprung (Story / online)",
+                    "en-US": "Perform a 250m Drift or Jump (Story/Online)",
+                    "es-ES": "Haz un derrape o salto de 250 m (historia/online)",
+                    "fr-FR": "Faire un saut ou un drift de 250 m [scénario/en ligne]",
+                    "it-IT": "Esegui una derapata o un salto di 250 m (Storia/Online)",
+                    "ja-JP": "250mジャンプまたはドリフトしろ",
+                    "pl-PL": "Wykonaj drift lub skok na 250m (Rozgrywka/w sieci)",
+                    "ru-RU": "Дрифт на 250 м или прыжок (сюжет/сеть)"
+                },
+                "howto": {
+                    "de-DE": "Mach einen 250 m Drift oder Sprung (Story / online)",
+                    "en-US": "Perform a 250m Drift or Jump (Story/Online)",
+                    "es-ES": "Haz un derrape o salto de 250 m (historia/online)",
+                    "fr-FR": "Faire un saut ou un drift de 250 m [scénario/en ligne]",
+                    "it-IT": "Esegui una derapata o un salto di 250 m (Storia/Online)",
+                    "ja-JP": "250mジャンプまたはドリフトしろ",
+                    "pl-PL": "Wykonaj drift lub skok na 250m (Rozgrywka/w sieci)",
+                    "ru-RU": "Дрифт на 250 м или прыжок (сюжет/сеть)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "50.png"
+        }
+    }
+}

@@ -1,0 +1,1339 @@
+{
+    "properties": {
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000041": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000042": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000004A": {
+            "info": "Shots",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000004C": {
+            "info": "Hits",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10000040": {
+            "info": "Total Time",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000045": {
+            "info": "Briefcases",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x1000004B": {
+            "info": "Hostages",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x1000023A": {
+            "info": "BombsPlanted",
+            "method": "sum",
+            "statId": 9
+        },
+        "0x1000004D": {
+            "info": "BombsDefused",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x20000046": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000024A": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000248": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000024C": {
+            "info": "Shots",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000249": {
+            "info": "Hits",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000024D": {
+            "info": "Total Time",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x2000024B": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000250": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000024E": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000252": {
+            "info": "Shots",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x1000024F": {
+            "info": "Hits",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000253": {
+            "info": "Total Time",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x20000251": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000006F": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10000070": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000072": {
+            "info": "Shots",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x10000073": {
+            "info": "Hits",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000071": {
+            "info": "Headshots",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000075": {
+            "info": "Killing Streak",
+            "method": "max",
+            "statId": 5
+        },
+        "0x10000076": {
+            "info": "Death Streak",
+            "method": "max",
+            "statId": 2
+        },
+        "0x10000074": {
+            "info": "PEC Rank",
+            "method": "last",
+            "statId": 7
+        },
+        "0x100001FA": {
+            "info": "Day",
+            "method": "last",
+            "statId": 9
+        },
+        "0x100001FB": {
+            "info": "Month",
+            "method": "last",
+            "statId": 10
+        },
+        "0x100001FC": {
+            "info": "Year",
+            "method": "last",
+            "statId": 11
+        },
+        "0x20000077": {
+            "info": "Ranking",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10000243": {
+            "info": "TeamKills",
+            "method": "sum",
+            "statId": 12
+        },
+        "0x1000025E": {
+            "info": "Oil Kills",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x1000025D": {
+            "info": "Oil Deaths",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x1000025F": {
+            "info": "Oil Time",
+            "method": "sum",
+            "statId": 9
+        },
+        "0x10000261": {
+            "info": "Chinese Kills",
+            "method": "sum",
+            "statId": 10
+        },
+        "0x10000260": {
+            "info": "Chinese Deaths",
+            "method": "sum",
+            "statId": 11
+        },
+        "0x10000278": {
+            "info": "Chinese Time",
+            "method": "sum",
+            "statId": 12
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000258": {
+            "info": "Import Kills",
+            "method": "sum",
+            "statId": 34
+        },
+        "0x10000257": {
+            "info": "Import Deaths",
+            "method": "sum",
+            "statId": 35
+        },
+        "0x10000259": {
+            "info": "Import Time",
+            "method": "sum",
+            "statId": 36
+        },
+        "0x100000EA": {
+            "info": "Dantes Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x100000EB": {
+            "info": "Dantes Deaths",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x1000025B": {
+            "info": "Neon Kills",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000025A": {
+            "info": "Neon Deaths",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000025C": {
+            "info": "Neon Time",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x100000EC": {
+            "info": "Dantes Time",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x1000018C": {
+            "info": "KillHouse Kills",
+            "method": "sum",
+            "statId": 31
+        },
+        "0x1000018B": {
+            "info": "KillHouse Deaths",
+            "method": "sum",
+            "statId": 32
+        },
+        "0x1000018D": {
+            "info": "KillHouse Time",
+            "method": "sum",
+            "statId": 33
+        },
+        "0x20000101": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10000264": {
+            "info": "Trainyard Kills",
+            "method": "sum",
+            "statId": 13
+        },
+        "0x10000263": {
+            "info": "TrainYard Deaths",
+            "method": "sum",
+            "statId": 14
+        },
+        "0x10000265": {
+            "info": "Trainyard Time",
+            "method": "sum",
+            "statId": 15
+        },
+        "0x10000267": {
+            "info": "Penthouse Kills",
+            "method": "sum",
+            "statId": 16
+        },
+        "0x10000266": {
+            "info": "Penthouse Deaths",
+            "method": "sum",
+            "statId": 17
+        },
+        "0x10000268": {
+            "info": "Penthouse Time",
+            "method": "sum",
+            "statId": 18
+        },
+        "0x1000026A": {
+            "info": "Conven Kills",
+            "method": "sum",
+            "statId": 19
+        },
+        "0x10000269": {
+            "info": "Conven Deaths",
+            "method": "sum",
+            "statId": 20
+        },
+        "0x1000026B": {
+            "info": "Conven Time",
+            "method": "sum",
+            "statId": 21
+        },
+        "0x1000026C": {
+            "info": "Murder Town Deaths",
+            "method": "sum",
+            "statId": 23
+        },
+        "0x1000026E": {
+            "info": "Murder Town Time",
+            "method": "sum",
+            "statId": 24
+        },
+        "0x1000026D": {
+            "info": "MurderTown Kills",
+            "method": "sum",
+            "statId": 22
+        },
+        "0x1000026F": {
+            "info": "Training Deaths",
+            "method": "sum",
+            "statId": 26
+        },
+        "0x10000271": {
+            "info": "Training Time",
+            "method": "sum",
+            "statId": 27
+        },
+        "0x10000270": {
+            "info": "Training Kills",
+            "method": "sum",
+            "statId": 25
+        },
+        "0x10000272": {
+            "info": "Presidio Deaths",
+            "method": "sum",
+            "statId": 29
+        },
+        "0x10000274": {
+            "info": "Presidio Time",
+            "method": "sum",
+            "statId": 30
+        },
+        "0x10000273": {
+            "info": "Presidio Kills",
+            "method": "sum",
+            "statId": 28
+        },
+        "0x10000275": {
+            "info": "Comcast Deaths",
+            "method": "sum",
+            "statId": 38
+        },
+        "0x10000277": {
+            "info": "Comcast Time",
+            "method": "sum",
+            "statId": 39
+        },
+        "0x10000276": {
+            "info": "Comcast Kills",
+            "method": "sum",
+            "statId": 37
+        },
+        "0x1000027A": {
+            "info": "Streets Kills",
+            "method": "sum",
+            "statId": 40
+        },
+        "0x10000279": {
+            "info": "Streets Deaths",
+            "method": "sum",
+            "statId": 41
+        },
+        "0x1000027B": {
+            "info": "Streets Time",
+            "method": "sum",
+            "statId": 42
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000007A": {
+            "info": "MK23 Time",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000007E": {
+            "info": "USP40 Time",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000081": {
+            "info": "P92FS Time",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000084": {
+            "info": "Glock Time",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000223": {
+            "info": "P99 Time",
+            "method": "sum",
+            "statId": 34
+        },
+        "0x10000087": {
+            "info": "DE Time",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x1000008A": {
+            "info": "Bull Time",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x1000008E": {
+            "info": "MP5 Time",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x10000091": {
+            "info": "MP7A1 Time",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x10000094": {
+            "info": "UMP45 Time",
+            "method": "sum",
+            "statId": 9
+        },
+        "0x10000097": {
+            "info": "P90 Time",
+            "method": "sum",
+            "statId": 10
+        },
+        "0x1000009B": {
+            "info": "MP9 Time",
+            "method": "sum",
+            "statId": 11
+        },
+        "0x1000009E": {
+            "info": "MAC11 Time",
+            "method": "sum",
+            "statId": 12
+        },
+        "0x10000225": {
+            "info": "AUG Para Time",
+            "method": "sum",
+            "statId": 35
+        },
+        "0x10000227": {
+            "info": "Type 05 JS Time",
+            "method": "sum",
+            "statId": 36
+        },
+        "0x10000229": {
+            "info": "VZ 83 Time",
+            "method": "sum",
+            "statId": 37
+        },
+        "0x100000A2": {
+            "info": "SCAR Time",
+            "method": "sum",
+            "statId": 13
+        },
+        "0x100000A5": {
+            "info": "M8 Time",
+            "method": "sum",
+            "statId": 14
+        },
+        "0x100000A8": {
+            "info": "AUGA3 Time",
+            "method": "sum",
+            "statId": 15
+        },
+        "0x100000AB": {
+            "info": "G3KA4 Time",
+            "method": "sum",
+            "statId": 16
+        },
+        "0x100000AF": {
+            "info": "A552C Time",
+            "method": "sum",
+            "statId": 17
+        },
+        "0x100000B2": {
+            "info": "G36C Time",
+            "method": "sum",
+            "statId": 18
+        },
+        "0x100000B5": {
+            "info": "MTAR32  Time",
+            "method": "sum",
+            "statId": 19
+        },
+        "0x100000B8": {
+            "info": "Famas Time",
+            "method": "sum",
+            "statId": 20
+        },
+        "0x100000BB": {
+            "info": "AK47 Time",
+            "method": "sum",
+            "statId": 21
+        },
+        "0x1000022B": {
+            "info": "FNC Time",
+            "method": "sum",
+            "statId": 38
+        },
+        "0x1000022D": {
+            "info": "L85A2 Time",
+            "method": "sum",
+            "statId": 39
+        },
+        "0x1000022F": {
+            "info": "AKS 74U Time",
+            "method": "sum",
+            "statId": 40
+        },
+        "0x10000231": {
+            "info": "M468 Time",
+            "method": "sum",
+            "statId": 41
+        },
+        "0x100000C2": {
+            "info": "MK46 Time",
+            "method": "sum",
+            "statId": 22
+        },
+        "0x100000C5": {
+            "info": "L21E Time",
+            "method": "sum",
+            "statId": 23
+        },
+        "0x100000C8": {
+            "info": "M249 Time",
+            "method": "sum",
+            "statId": 24
+        },
+        "0x100000CB": {
+            "info": "MG36",
+            "method": "sum",
+            "statId": 25
+        },
+        "0x100000CF": {
+            "info": "M3 Time",
+            "method": "sum",
+            "statId": 26
+        },
+        "0x100000D2": {
+            "info": "SPAS12 Time",
+            "method": "sum",
+            "statId": 27
+        },
+        "0x100000D5": {
+            "info": "S870MCS Time",
+            "method": "sum",
+            "statId": 28
+        },
+        "0x100000D8": {
+            "info": "XM26 Time",
+            "method": "sum",
+            "statId": 29
+        },
+        "0x10000233": {
+            "info": "The 500 Tactical Time",
+            "method": "sum",
+            "statId": 42
+        },
+        "0x100000DD": {
+            "info": "PSG1 Time",
+            "method": "sum",
+            "statId": 30
+        },
+        "0x100000E0": {
+            "info": "M40A1 Time",
+            "method": "sum",
+            "statId": 31
+        },
+        "0x100000E3": {
+            "info": "SV98 Time",
+            "method": "sum",
+            "statId": 32
+        },
+        "0x100000E6": {
+            "info": "Scout Time",
+            "method": "sum",
+            "statId": 33
+        },
+        "0x10000235": {
+            "info": "L96 Artic Warfare Time",
+            "method": "sum",
+            "statId": 43
+        },
+        "0x10000237": {
+            "info": "SR 25 SD Time",
+            "method": "sum",
+            "statId": 44
+        },
+        "0x2000008B": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000078": {
+            "info": "MK23 Kills",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000007C": {
+            "info": "USP40 Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000007F": {
+            "info": "P92FS Kills",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000082": {
+            "info": "Glock Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000222": {
+            "info": "P99 Kills",
+            "method": "sum",
+            "statId": 34
+        },
+        "0x10000085": {
+            "info": "DE Kills",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000088": {
+            "info": "Bull Kills",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x1000008C": {
+            "info": "MP5 Kills",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x1000008F": {
+            "info": "MP7A1 Kills",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x10000092": {
+            "info": "UMP45 Kills",
+            "method": "sum",
+            "statId": 9
+        },
+        "0x10000095": {
+            "info": "P90 Kills",
+            "method": "sum",
+            "statId": 10
+        },
+        "0x10000099": {
+            "info": "MP9 Kills",
+            "method": "sum",
+            "statId": 11
+        },
+        "0x1000009C": {
+            "info": "MAC11 Kills",
+            "method": "sum",
+            "statId": 12
+        },
+        "0x10000224": {
+            "info": "AUG Para Kills",
+            "method": "sum",
+            "statId": 35
+        },
+        "0x10000226": {
+            "info": "Type 05 JS Kills",
+            "method": "sum",
+            "statId": 36
+        },
+        "0x10000228": {
+            "info": "VZ 83 Kills",
+            "method": "sum",
+            "statId": 37
+        },
+        "0x100000A0": {
+            "info": "SCAR Kills",
+            "method": "sum",
+            "statId": 13
+        },
+        "0x100000A3": {
+            "info": "M8 Kills",
+            "method": "sum",
+            "statId": 14
+        },
+        "0x100000A6": {
+            "info": "AUGA3 Kills",
+            "method": "sum",
+            "statId": 15
+        },
+        "0x100000BD": {
+            "info": "G3KA4 Kills",
+            "method": "sum",
+            "statId": 16
+        },
+        "0x100000AD": {
+            "info": "A552C Kills",
+            "method": "sum",
+            "statId": 17
+        },
+        "0x100000B0": {
+            "info": "G36C Kills",
+            "method": "sum",
+            "statId": 18
+        },
+        "0x100000B3": {
+            "info": "MTAR21 Kills",
+            "method": "sum",
+            "statId": 19
+        },
+        "0x100000B6": {
+            "info": "Famas Kills",
+            "method": "sum",
+            "statId": 20
+        },
+        "0x100000B9": {
+            "info": "AK47 Kills",
+            "method": "sum",
+            "statId": 21
+        },
+        "0x1000022A": {
+            "info": "FNC Kills",
+            "method": "sum",
+            "statId": 38
+        },
+        "0x1000022C": {
+            "info": "L85A2",
+            "method": "sum",
+            "statId": 39
+        },
+        "0x1000022E": {
+            "info": "AKS 74U Kills",
+            "method": "sum",
+            "statId": 40
+        },
+        "0x10000230": {
+            "info": "M468 Kills",
+            "method": "sum",
+            "statId": 41
+        },
+        "0x100000C0": {
+            "info": "MK46 Kills",
+            "method": "sum",
+            "statId": 22
+        },
+        "0x100000C3": {
+            "info": "L21E Kills",
+            "method": "sum",
+            "statId": 23
+        },
+        "0x100000C6": {
+            "info": "M249 Kills",
+            "method": "sum",
+            "statId": 24
+        },
+        "0x100000C9": {
+            "info": "MG36 Kills",
+            "method": "sum",
+            "statId": 25
+        },
+        "0x100000CD": {
+            "info": "M3 Kills",
+            "method": "sum",
+            "statId": 26
+        },
+        "0x100000D0": {
+            "info": "SPAS12 Kills",
+            "method": "sum",
+            "statId": 27
+        },
+        "0x100000D3": {
+            "info": "S870 Kills",
+            "method": "sum",
+            "statId": 28
+        },
+        "0x100000D6": {
+            "info": "XM26 Kills",
+            "method": "sum",
+            "statId": 29
+        },
+        "0x10000232": {
+            "info": "The 500 Tactical Kills",
+            "method": "sum",
+            "statId": 42
+        },
+        "0x100000DB": {
+            "info": "PSG1 Kills",
+            "method": "sum",
+            "statId": 30
+        },
+        "0x100000DE": {
+            "info": "M40A1 Kills",
+            "method": "sum",
+            "statId": 31
+        },
+        "0x100000E1": {
+            "info": "SV98 Kills",
+            "method": "sum",
+            "statId": 32
+        },
+        "0x100000E4": {
+            "info": "Scout Kills",
+            "method": "sum",
+            "statId": 33
+        },
+        "0x10000234": {
+            "info": "L96 Artic Warfare Kills",
+            "method": "sum",
+            "statId": 43
+        },
+        "0x10000236": {
+            "info": "SR 25 SD Kills",
+            "method": "sum",
+            "statId": 44
+        },
+        "0x200000D9": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x10000183": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x10000182": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000185": {
+            "info": "Shots",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000186": {
+            "info": "Hits",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000184": {
+            "info": "Total Time",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000187": {
+            "info": "MRI",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x2000018A": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000018F": {
+            "info": "Map01 Kills",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000018E": {
+            "info": "Map01 Deaths",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x10000190": {
+            "info": "Map01 Time",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x10000192": {
+            "info": "Map02 Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000191": {
+            "info": "Map02 Death",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x10000193": {
+            "info": "Map02 Time",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000195": {
+            "info": "Map03 Kills",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x10000194": {
+            "info": "Map03 Deaths",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x10000196": {
+            "info": "Map03 Time",
+            "method": "sum",
+            "statId": 9
+        },
+        "0x10000198": {
+            "info": "Map04 Kills",
+            "method": "sum",
+            "statId": 10
+        },
+        "0x10000197": {
+            "info": "Map04 Deaths",
+            "method": "sum",
+            "statId": 11
+        },
+        "0x10000199": {
+            "info": "Map04 Time",
+            "method": "sum",
+            "statId": 12
+        },
+        "0x1000019B": {
+            "info": "Map05 Kills",
+            "method": "sum",
+            "statId": 13
+        },
+        "0x1000019A": {
+            "info": "Map05 Deaths",
+            "method": "sum",
+            "statId": 14
+        },
+        "0x1000019C": {
+            "info": "Map05 Time",
+            "method": "sum",
+            "statId": 15
+        },
+        "0x1000019E": {
+            "info": "Map06 Kills",
+            "method": "sum",
+            "statId": 16
+        },
+        "0x1000019D": {
+            "info": "Map06 Deaths",
+            "method": "sum",
+            "statId": 17
+        },
+        "0x1000019F": {
+            "info": "Map06 Time",
+            "method": "sum",
+            "statId": 18
+        },
+        "0x100001A1": {
+            "info": "Map07 Kills",
+            "method": "sum",
+            "statId": 19
+        },
+        "0x100001A0": {
+            "info": "Map07 Deaths",
+            "method": "sum",
+            "statId": 20
+        },
+        "0x100001A2": {
+            "info": "Map07 Time",
+            "method": "sum",
+            "statId": 21
+        },
+        "0x100001A4": {
+            "info": "Map08 Kills",
+            "method": "sum",
+            "statId": 22
+        },
+        "0x100001A3": {
+            "info": "Map08 Deaths",
+            "method": "sum",
+            "statId": 23
+        },
+        "0x100001A5": {
+            "info": "Map08 Time",
+            "method": "sum",
+            "statId": 24
+        },
+        "0x100001A7": {
+            "info": "Map09 Kills",
+            "method": "sum",
+            "statId": 25
+        },
+        "0x100001A6": {
+            "info": "Map09 Deaths",
+            "method": "sum",
+            "statId": 26
+        },
+        "0x100001A8": {
+            "info": "Map09 Time",
+            "method": "sum",
+            "statId": 27
+        },
+        "0x100001AA": {
+            "info": "Map10 Kills",
+            "method": "sum",
+            "statId": 28
+        },
+        "0x100001A9": {
+            "info": "Map10 Deaths",
+            "method": "sum",
+            "statId": 29
+        },
+        "0x100001AB": {
+            "info": "Map10 Time",
+            "method": "sum",
+            "statId": 30
+        },
+        "0x100001AD": {
+            "info": "Map11 Kills",
+            "method": "sum",
+            "statId": 31
+        },
+        "0x100001AC": {
+            "info": "Map11 Deaths",
+            "method": "sum",
+            "statId": 32
+        },
+        "0x100001AE": {
+            "info": "Map11 Time",
+            "method": "sum",
+            "statId": 33
+        },
+        "0x200001AF": {
+            "info": "Ranking",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x100001CF": {
+            "info": "Map12 Kills",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x100001C6": {
+            "info": "Map12 Deaths",
+            "method": "sum",
+            "statId": 10
+        },
+        "0x100001D8": {
+            "info": "Map12 Time",
+            "method": "sum",
+            "statId": 19
+        },
+        "0x100001D0": {
+            "info": "Map13 Kills",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x100001C7": {
+            "info": "Map13 Deaths",
+            "method": "sum",
+            "statId": 11
+        },
+        "0x100001D9": {
+            "info": "Map13 Time",
+            "method": "sum",
+            "statId": 20
+        },
+        "0x100001D1": {
+            "info": "Map14 Kills",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x100001C8": {
+            "info": "Map14 Deaths",
+            "method": "sum",
+            "statId": 12
+        },
+        "0x100001DA": {
+            "info": "Map14 Time",
+            "method": "sum",
+            "statId": 21
+        },
+        "0x100001D2": {
+            "info": "Map15 Kills",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x100001C9": {
+            "info": "Map15 Deaths",
+            "method": "sum",
+            "statId": 13
+        },
+        "0x100001DB": {
+            "info": "Map15 Time",
+            "method": "sum",
+            "statId": 22
+        },
+        "0x100001D3": {
+            "info": "Map16 Kills",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x100001CA": {
+            "info": "Map16 Deaths",
+            "method": "sum",
+            "statId": 14
+        },
+        "0x100001DC": {
+            "info": "Map16 Time",
+            "method": "sum",
+            "statId": 23
+        },
+        "0x100001D4": {
+            "info": "Map17 Kills",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x100001CB": {
+            "info": "Map17 Deaths",
+            "method": "sum",
+            "statId": 15
+        },
+        "0x100001DD": {
+            "info": "Map17 Time",
+            "method": "sum",
+            "statId": 24
+        },
+        "0x100001D5": {
+            "info": "Map18 Kills",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x100001CC": {
+            "info": "Map18 Deaths",
+            "method": "sum",
+            "statId": 16
+        },
+        "0x100001DE": {
+            "info": "Map18 Time",
+            "method": "sum",
+            "statId": 25
+        },
+        "0x100001D6": {
+            "info": "Map19 Kills",
+            "method": "sum",
+            "statId": 8
+        },
+        "0x100001CD": {
+            "info": "Map19 Deaths",
+            "method": "sum",
+            "statId": 17
+        },
+        "0x100001E0": {
+            "info": "Map19 Time",
+            "method": "sum",
+            "statId": 26
+        },
+        "0x100001D7": {
+            "info": "Map20 Kills",
+            "method": "sum",
+            "statId": 9
+        },
+        "0x100001CE": {
+            "info": "Map20 Deaths",
+            "method": "sum",
+            "statId": 18
+        },
+        "0x100001DF": {
+            "info": "Map20 Time",
+            "method": "sum",
+            "statId": 27
+        },
+        "0x200001E7": {
+            "info": "Ranking",
+            "method": "last",
+            "statId": 65534
+        },
+        "0x10008001": {
+            "info": "Rank",
+            "method": "last",
+            "statId": 65535
+        },
+        "0x40008002": {
+            "info": "Gamer Name",
+            "method": "last",
+            "statId": 65533
+        },
+        "0x1000023B": {
+            "info": "Kills",
+            "method": "sum",
+            "statId": 1
+        },
+        "0x1000023E": {
+            "info": "Deaths",
+            "method": "sum",
+            "statId": 2
+        },
+        "0x1000023C": {
+            "info": "Shots",
+            "method": "sum",
+            "statId": 3
+        },
+        "0x1000023D": {
+            "info": "Hits",
+            "method": "sum",
+            "statId": 4
+        },
+        "0x10000241": {
+            "info": "LeadersKilled",
+            "method": "sum",
+            "statId": 5
+        },
+        "0x10000244": {
+            "info": "Extractions",
+            "method": "sum",
+            "statId": 7
+        },
+        "0x10000240": {
+            "info": "Total Time",
+            "method": "sum",
+            "statId": 6
+        },
+        "0x2000023F": {
+            "info": "Rating",
+            "method": "last",
+            "statId": 65534
+        }
+    }
+}

@@ -1,0 +1,2892 @@
+{
+    "Achievements": {
+        "120": {
+            "text": {
+                "name": {
+                    "de-DE": "Wieder da",
+                    "en-US": "Back in the Fight",
+                    "es-ES": "De vuelta a la lucha",
+                    "fr-FR": "Nouveau départ",
+                    "it-IT": "Di nuovo sul campo",
+                    "pl-PL": "Powrót do walki",
+                    "ru-RU": "Снова в строю",
+                    "ja-JP": "戦線復帰"
+                },
+                "description": {
+                    "de-DE": "Starten Sie die Einzelspielerkampagne auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Start the Single Player Campaign on any difficulty.",
+                    "es-ES": "Empieza la campaña individual en cualquier dificultad.",
+                    "fr-FR": "Commencer la campagne solo dans n'importe quelle difficulté.",
+                    "it-IT": "Avvia la campagna Giocatore singolo a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Rozpocznij kampanię dla 1 gracza na dowolnym poziomie trudności.",
+                    "ru-RU": "Начните одиночную игру на любом уровне сложности.",
+                    "ja-JP": "難易度にかかわらず、シングルプレイヤーのキャンペーンを開始する。"
+                },
+                "howto": {
+                    "de-DE": "Starten Sie die Einzelspielerkampagne auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Start the Single Player Campaign on any difficulty.",
+                    "es-ES": "Empieza la campaña individual en cualquier dificultad.",
+                    "fr-FR": "Commencer la campagne solo dans n'importe quelle difficulté.",
+                    "it-IT": "Avvia la campagna Giocatore singolo a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Rozpocznij kampanię dla 1 gracza na dowolnym poziomie trudności.",
+                    "ru-RU": "Начните одиночную игру на любом уровне сложности.",
+                    "ja-JP": "難易度にかかわらず、シングルプレイヤーのキャンペーンを開始する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "5",
+            "imageId": "01.png"
+        },
+        "122": {
+            "text": {
+                "name": {
+                    "de-DE": "Zu groß zum Versagen",
+                    "en-US": "Too Big to Fail",
+                    "es-ES": "Demasiado grande para fallar",
+                    "fr-FR": "Plus dure sera la chute",
+                    "it-IT": "Troppo grande per mancarla",
+                    "pl-PL": "Zbyt wielki, żeby zawieść",
+                    "ru-RU": "Без башни",
+                    "ja-JP": "大きすぎて潰せない"
+                },
+                "description": {
+                    "de-DE": "Zerstören Sie den Störturm. Beenden Sie 'Schwarzer Dienstag' auf beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Destroy the Jamming Tower. Complete \"Black Tuesday\" on any difficulty.",
+                    "es-ES": "Destruye la torre de interferencia. Completa \"Martes negro\" en cualquier dificultad.",
+                    "fr-FR": "Démanteler la tour de brouillage. Terminer \"Mardi noir\" dans n'importe quelle difficulté.",
+                    "it-IT": "Distruggi la torre interferenze. Completa \"Martedì nero\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Zniszcz wieżę zakłócającą. Ukończ \"Czarny Wtorek\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Уничтожьте станцию глушения. Пройдите миссию \"Черный вторник\" на любом уровне сложности.",
+                    "ja-JP": "ジャミングタワーを破壊しろ。難易度にかかわらず“BLACK TUESDAY”をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Zerstören Sie den Störturm. Beenden Sie 'Schwarzer Dienstag' auf beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Destroy the Jamming Tower. Complete \"Black Tuesday\" on any difficulty.",
+                    "es-ES": "Destruye la torre de interferencia. Completa \"Martes negro\" en cualquier dificultad.",
+                    "fr-FR": "Démanteler la tour de brouillage. Terminer \"Mardi noir\" dans n'importe quelle difficulté.",
+                    "it-IT": "Distruggi la torre interferenze. Completa \"Martedì nero\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Zniszcz wieżę zakłócającą. Ukończ \"Czarny Wtorek\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Уничтожьте станцию глушения. Пройдите миссию \"Черный вторник\" на любом уровне сложности.",
+                    "ja-JP": "ジャミングタワーを破壊しろ。難易度にかかわらず“BLACK TUESDAY”をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "123": {
+            "text": {
+                "name": {
+                    "de-DE": "Ganz schön nass",
+                    "en-US": "Wet Work",
+                    "es-ES": "Liquidación",
+                    "fr-FR": "Mouillé jusqu'au cou",
+                    "it-IT": "Lavoro bagnato",
+                    "pl-PL": "Mokra robota",
+                    "ru-RU": "Мокрое дело",
+                    "ja-JP": "汚れ仕事"
+                },
+                "description": {
+                    "de-DE": "Erobern Sie den Hafen zurück. Beenden Sie 'Jäger und Gejagte' auf beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Take back New York Harbor. Complete \"Hunter Killer\" on any difficulty.",
+                    "es-ES": "Recupera el puerto de Nueva York. Completa \"Cazador destructor\" en cualquier dificultad.",
+                    "fr-FR": "Reprendre le port de New York. Terminer \"Chasseur chassé\" dans n'importe quelle difficulté.",
+                    "it-IT": "Riconquista il porto di New York. Completa \"Antisommergibile\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Odzyskaj zatokę nowojorską. Ukończ \"Łowcę\" na dowolnym poziomie.",
+                    "ru-RU": "Захватите гавань Нью-Йорка. Пройдите миссию \"Морские охотники\" на любом уровне сложности.",
+                    "ja-JP": "ニューヨーク港を奪回しろ。難易度にかかわらず“HUNTER KILLER”をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Erobern Sie den Hafen zurück. Beenden Sie 'Jäger und Gejagte' auf beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Take back New York Harbor. Complete \"Hunter Killer\" on any difficulty.",
+                    "es-ES": "Recupera el puerto de Nueva York. Completa \"Cazador destructor\" en cualquier dificultad.",
+                    "fr-FR": "Reprendre le port de New York. Terminer \"Chasseur chassé\" dans n'importe quelle difficulté.",
+                    "it-IT": "Riconquista il porto di New York. Completa \"Antisommergibile\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Odzyskaj zatokę nowojorską. Ukończ \"Łowcę\" na dowolnym poziomie.",
+                    "ru-RU": "Захватите гавань Нью-Йорка. Пройдите миссию \"Морские охотники\" на любом уровне сложности.",
+                    "ja-JP": "ニューヨーク港を奪回しろ。難易度にかかわらず“HUNTER KILLER”をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "124": {
+            "text": {
+                "name": {
+                    "de-DE": "Carpe Diem",
+                    "en-US": "Carpe Diem",
+                    "es-ES": "Carpe diem",
+                    "fr-FR": "Carpe diem",
+                    "it-IT": "Carpe diem",
+                    "pl-PL": "Carpe Diem",
+                    "ru-RU": "Лови момент",
+                    "ja-JP": "今を生きろ"
+                },
+                "description": {
+                    "de-DE": "Entkommen Sie aus dem Gebirgsunterschlupf. Beenden Sie 'Persona non grata'.",
+                    "en-US": "Escape the mountain safe house. Complete \"Persona Non Grata\" on any difficulty.",
+                    "es-ES": "Escapa del piso franco de la montaña. Completa \"Persona non grata\" en cualquier dificultad.",
+                    "fr-FR": "Sortir de la planque dans la montagne. Terminer Persona non grata dans n'importe quelle difficulté.",
+                    "it-IT": "Fuggi dal rifugio di montagna. Completa \"Persona Non Grata\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ucieknij z górskiej kryjówki. Ukończ \"Persona Non Grata\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Защитите Соупа. Пройдите миссию \"Персона нон грата\" на любом уровне сложности.",
+                    "ja-JP": "山中のセーフハウスから脱出しろ。難易度にかかわらず“PERSONA NON GRATA”をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Entkommen Sie aus dem Gebirgsunterschlupf. Beenden Sie 'Persona non grata'.",
+                    "en-US": "Escape the mountain safe house. Complete \"Persona Non Grata\" on any difficulty.",
+                    "es-ES": "Escapa del piso franco de la montaña. Completa \"Persona non grata\" en cualquier dificultad.",
+                    "fr-FR": "Sortir de la planque dans la montagne. Terminer Persona non grata dans n'importe quelle difficulté.",
+                    "it-IT": "Fuggi dal rifugio di montagna. Completa \"Persona Non Grata\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ucieknij z górskiej kryjówki. Ukończ \"Persona Non Grata\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Защитите Соупа. Пройдите миссию \"Персона нон грата\" на любом уровне сложности.",
+                    "ja-JP": "山中のセーフハウスから脱出しろ。難易度にかかわらず“PERSONA NON GRATA”をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "125": {
+            "text": {
+                "name": {
+                    "de-DE": "Vielflieger",
+                    "en-US": "Frequent Flyer",
+                    "es-ES": "Volador asiduo",
+                    "fr-FR": "Vol privé",
+                    "it-IT": "Viaggiatore assiduo",
+                    "pl-PL": "Fan lotów",
+                    "ru-RU": "Постоянный пассажир",
+                    "ja-JP": "マイレージ・コレクター"
+                },
+                "description": {
+                    "de-DE": "Verteidigen Sie den Präsidenten. Beenden Sie 'Turbulenzen' auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Defend the Russian President. Complete \"Turbulence\" on any difficulty.",
+                    "es-ES": "Defiende al presidente ruso. Completa \"Turbulencia\" en cualquier dificultad.",
+                    "fr-FR": "Protéger le président russe. Terminer \"Turbulences\" dans n'importe quelle difficulté.",
+                    "it-IT": "Difendi il presidente russo. Completa \"Turbolenza\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ochroń rosyjskiego prezydenta. Ukończ \"Turbulencje\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Защитите русского президента. Пройдите миссию \"Турбулентность\" на любом уровне сложности.",
+                    "ja-JP": "ロシア大統領を守れ。難易度にかかわらず“TURBULENCE”をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Verteidigen Sie den Präsidenten. Beenden Sie 'Turbulenzen' auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Defend the Russian President. Complete \"Turbulence\" on any difficulty.",
+                    "es-ES": "Defiende al presidente ruso. Completa \"Turbulencia\" en cualquier dificultad.",
+                    "fr-FR": "Protéger le président russe. Terminer \"Turbulences\" dans n'importe quelle difficulté.",
+                    "it-IT": "Difendi il presidente russo. Completa \"Turbolenza\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ochroń rosyjskiego prezydenta. Ukończ \"Turbulencje\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Защитите русского президента. Пройдите миссию \"Турбулентность\" на любом уровне сложности.",
+                    "ja-JP": "ロシア大統領を守れ。難易度にかかわらず“TURBULENCE”をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "126": {
+            "text": {
+                "name": {
+                    "de-DE": "Nichts Gutes im Sinn",
+                    "en-US": "Up to No Good",
+                    "es-ES": "No tramas nada bueno",
+                    "fr-FR": "Mauvaises intentions",
+                    "it-IT": "Cattive intenzioni",
+                    "pl-PL": "Na złej drodze",
+                    "ru-RU": "Плохие намерения",
+                    "ja-JP": "悪だくみ"
+                },
+                "description": {
+                    "de-DE": "Infiltrieren Sie das Dorf. Beenden Sie 'Wieder aufgetaucht' auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Infiltrate the village. Complete \"Back on the Grid\" on any difficulty.",
+                    "es-ES": "Infíltrate en el pueblo. Completa \"Regreso a la parrilla\" en cualquier dificultad.",
+                    "fr-FR": "Infiltrer le village. Terminer \"Reprise de service\" dans n'importe quelle difficulté.",
+                    "it-IT": "Infiltrati nel villaggio. Completa \"Di nuovo in azione\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Przedostań się do wioski. Ukończ \"Znowu to samo\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Проникните в деревню. Пройдите миссию \"Снова в игре\" на любом уровне сложности.",
+                    "ja-JP": "村に潜入せよ。難易度にかかわらず“BACK ON THE GRID”をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Infiltrieren Sie das Dorf. Beenden Sie 'Wieder aufgetaucht' auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Infiltrate the village. Complete \"Back on the Grid\" on any difficulty.",
+                    "es-ES": "Infíltrate en el pueblo. Completa \"Regreso a la parrilla\" en cualquier dificultad.",
+                    "fr-FR": "Infiltrer le village. Terminer \"Reprise de service\" dans n'importe quelle difficulté.",
+                    "it-IT": "Infiltrati nel villaggio. Completa \"Di nuovo in azione\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Przedostań się do wioski. Ukończ \"Znowu to samo\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Проникните в деревню. Пройдите миссию \"Снова в игре\" на любом уровне сложности.",
+                    "ja-JP": "村に潜入せよ。難易度にかかわらず“BACK ON THE GRID”をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "06.png"
+        },
+        "127": {
+            "text": {
+                "name": {
+                    "de-DE": "Ohne Rückfahrkarte",
+                    "en-US": "One Way Ticket",
+                    "es-ES": "Billete de ida",
+                    "fr-FR": "Aller simple",
+                    "it-IT": "Biglietto di sola andata",
+                    "pl-PL": "Bilet w jedną stronę",
+                    "ru-RU": "Билет в один конец",
+                    "ja-JP": "片道キップ"
+                },
+                "description": {
+                    "de-DE": "Erreichen Sie Westminster. Beenden Sie 'Bahnsteigkante' auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Make it to Westminster. Complete \"Mind the Gap\" on any difficulty.",
+                    "es-ES": "Llega hasta Westminster. Completa \"Cuidado con el hueco\" en cualquier dificultad.",
+                    "fr-FR": "Rejoindre Westminster. Terminer \"Attention à la marche\" dans n'importe quelle difficulté.",
+                    "it-IT": "Raggiungi Westminster. Completa \"Attenti allo scalino\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Udaj się do Westminster. Ukończ \"Odsunąć się od torów\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Доберитесь до Вестминстера. Пройдите миссию \"Не прислоняться\" на любом уровне сложности.",
+                    "ja-JP": "ウェストミンスターまで辿り着け。難易度にかかわらず“MIND THE GAP”をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie Westminster. Beenden Sie 'Bahnsteigkante' auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Make it to Westminster. Complete \"Mind the Gap\" on any difficulty.",
+                    "es-ES": "Llega hasta Westminster. Completa \"Cuidado con el hueco\" en cualquier dificultad.",
+                    "fr-FR": "Rejoindre Westminster. Terminer \"Attention à la marche\" dans n'importe quelle difficulté.",
+                    "it-IT": "Raggiungi Westminster. Completa \"Attenti allo scalino\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Udaj się do Westminster. Ukończ \"Odsunąć się od torów\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Доберитесь до Вестминстера. Пройдите миссию \"Не прислоняться\" на любом уровне сложности.",
+                    "ja-JP": "ウェストミンスターまで辿り着け。難易度にかかわらず“MIND THE GAP”をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "07.png"
+        },
+        "128": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Dritte Weltkrieg",
+                    "en-US": "Welcome to WW3",
+                    "es-ES": "Esto es la 3ª guerra mundial",
+                    "fr-FR": "Troisième guerre mondiale",
+                    "it-IT": "Buona Terza Guerra Mondiale",
+                    "pl-PL": "Witaj w III WŚ",
+                    "ru-RU": "Третья мировая",
+                    "ja-JP": "第三次大戦にようこそ"
+                },
+                "description": {
+                    "de-DE": "Retten Sie den Vizepräsidenten. Beenden Sie 'Codename 'Goalpost'' auf beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Save the US Vice President. Complete \"Goalpost\" on any difficulty.",
+                    "es-ES": "Salva al vicepresidente de EE. UU. Completa \"Goalpost\" en cualquier dificultad.",
+                    "fr-FR": "Sauver le vice-président des États-Unis. Terminer \"Souris blanche\" dans n'importe quelle difficulté.",
+                    "it-IT": "Salva il vicepresidente degli Stati Uniti. Completa \"Goalpost\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ocal wiceprezydenta Stanów Zjednoczonych. Ukończ \"Goalpost\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Спасите вице-президента США. Пройдите миссию \"Важная персона\" на любом уровне сложности.",
+                    "ja-JP": "アメリカ副大統領を守れ。難易度にかかわらず“GOALPOST”をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Retten Sie den Vizepräsidenten. Beenden Sie 'Codename 'Goalpost'' auf beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Save the US Vice President. Complete \"Goalpost\" on any difficulty.",
+                    "es-ES": "Salva al vicepresidente de EE. UU. Completa \"Goalpost\" en cualquier dificultad.",
+                    "fr-FR": "Sauver le vice-président des États-Unis. Terminer \"Souris blanche\" dans n'importe quelle difficulté.",
+                    "it-IT": "Salva il vicepresidente degli Stati Uniti. Completa \"Goalpost\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ocal wiceprezydenta Stanów Zjednoczonych. Ukończ \"Goalpost\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Спасите вице-президента США. Пройдите миссию \"Важная персона\" на любом уровне сложности.",
+                    "ja-JP": "アメリカ副大統領を守れ。難易度にかかわらず“GOALPOST”をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "08.png"
+        },
+        "129": {
+            "text": {
+                "name": {
+                    "de-DE": "Sandsturm!",
+                    "en-US": "Sandstorm!",
+                    "es-ES": "¡Tormenta de arena!",
+                    "fr-FR": "Tempête de sable",
+                    "it-IT": "Tempesta di sabbia!",
+                    "pl-PL": "Burza piaskowa!",
+                    "ru-RU": "Буря в пустыне",
+                    "ja-JP": "砂嵐！"
+                },
+                "description": {
+                    "de-DE": "Greifen Sie das Frachtunternehmen an. Beenden Sie 'Absender' auf beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Assault the shipping company. Complete \"Return to Sender\" on any difficulty.",
+                    "es-ES": "Asalta la compañía naviera. Completa \"Devolver al remitente\" en cualquier dificultad.",
+                    "fr-FR": "Attaquer la compagnie de transport. Terminer \"Retour à l'envoyeur\" dans n'importe quelle difficulté.",
+                    "it-IT": "Attacca la compagnia di spedizioni. Completa \"Restituire al mittente\" a qualsiasi livello di diff.",
+                    "pl-PL": "Zaatakuj firmę spedycyjną. Ukończ \"Zwrot do nadawcy\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Штурмуйте транспортную компанию. Пройдите миссию \"Вернуть отправителю\" на любом уровне сложности.",
+                    "ja-JP": "運送会社を襲撃する。難易度にかかわらず“RETURN TO SENDER”をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Greifen Sie das Frachtunternehmen an. Beenden Sie 'Absender' auf beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Assault the shipping company. Complete \"Return to Sender\" on any difficulty.",
+                    "es-ES": "Asalta la compañía naviera. Completa \"Devolver al remitente\" en cualquier dificultad.",
+                    "fr-FR": "Attaquer la compagnie de transport. Terminer \"Retour à l'envoyeur\" dans n'importe quelle difficulté.",
+                    "it-IT": "Attacca la compagnia di spedizioni. Completa \"Restituire al mittente\" a qualsiasi livello di diff.",
+                    "pl-PL": "Zaatakuj firmę spedycyjną. Ukończ \"Zwrot do nadawcy\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Штурмуйте транспортную компанию. Пройдите миссию \"Вернуть отправителю\" на любом уровне сложности.",
+                    "ja-JP": "運送会社を襲撃する。難易度にかかわらず“RETURN TO SENDER”をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "130": {
+            "text": {
+                "name": {
+                    "de-DE": "Beifahrer",
+                    "en-US": "Back Seat Driver",
+                    "es-ES": "Conductor de segunda",
+                    "fr-FR": "Passager embarqué",
+                    "it-IT": "Passeggero importuno",
+                    "pl-PL": "Jazda z tyłu",
+                    "ru-RU": "Непрошеный советчик",
+                    "ja-JP": "バックシート・ドライバー"
+                },
+                "description": {
+                    "de-DE": "Spüren Sie Volk auf. Beenden Sie 'Der nasse Sack' auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Track down Volk. Complete \"Bag and Drag\" on any difficulty.",
+                    "es-ES": "Sigue el rastro de Volk. Completa \"Empaquetar\" en cualquier dificultad.",
+                    "fr-FR": "Suivre la piste de Volk. Terminer \"Livraison express\" dans n'importe quelle difficulté.",
+                    "it-IT": "Rintraccia Volk. Completa \"Trasferimento\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Odszukaj Volka. Ukończ \"Gotowy do akcji\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Разыщите Волка. Пройдите миссию \"Особо ценный груз\" на любом уровне сложности.",
+                    "ja-JP": "ヴォルクを追いつめろ。難易度にかかわらず“BAG AND DRAG”をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Spüren Sie Volk auf. Beenden Sie 'Der nasse Sack' auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Track down Volk. Complete \"Bag and Drag\" on any difficulty.",
+                    "es-ES": "Sigue el rastro de Volk. Completa \"Empaquetar\" en cualquier dificultad.",
+                    "fr-FR": "Suivre la piste de Volk. Terminer \"Livraison express\" dans n'importe quelle difficulté.",
+                    "it-IT": "Rintraccia Volk. Completa \"Trasferimento\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Odszukaj Volka. Ukończ \"Gotowy do akcji\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Разыщите Волка. Пройдите миссию \"Особо ценный груз\" на любом уровне сложности.",
+                    "ja-JP": "ヴォルクを追いつめろ。難易度にかかわらず“BAG AND DRAG”をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "10.png"
+        },
+        "131": {
+            "text": {
+                "name": {
+                    "de-DE": "Uns bleibt immer noch Paris",
+                    "en-US": "We'll Always Have Paris",
+                    "es-ES": "Siempre nos quedará París",
+                    "fr-FR": "Nous aurons toujours Paris",
+                    "it-IT": "Ci resterà sempre Parigi",
+                    "pl-PL": "Pozostanie nam Paryż",
+                    "ru-RU": "У нас всегда будет Париж",
+                    "ja-JP": "俺たちにはパリの思い出がある"
+                },
+                "description": {
+                    "de-DE": "Entkommen Sie mit Volk aus Paris. Beenden Sie 'Die eiserne Dame' auf beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Escape Paris with Volk. Complete \"Iron Lady\" on any difficulty.",
+                    "es-ES": "Huye de París con Volk. Completa \"La dama de hierro\" en cualquier dificultad.",
+                    "fr-FR": "S'échapper de Paris avec Volk. Terminer \"La Dame de fer\" dans n'importe quelle difficulté.",
+                    "it-IT": "Fuggi da Parigi con Volk. Completa \"Signora di ferro\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ucieknij z Volkiem z Paryża. Ukończ \"Żelazną damę\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Выберитесь из Парижа с Волком. Пройдите миссию \"Железная леди\" на любом уровне сложности.",
+                    "ja-JP": "ヴォルクと共にパリから脱出しろ。難易度にかかわらず“IRON LADY”をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Entkommen Sie mit Volk aus Paris. Beenden Sie 'Die eiserne Dame' auf beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Escape Paris with Volk. Complete \"Iron Lady\" on any difficulty.",
+                    "es-ES": "Huye de París con Volk. Completa \"La dama de hierro\" en cualquier dificultad.",
+                    "fr-FR": "S'échapper de Paris avec Volk. Terminer \"La Dame de fer\" dans n'importe quelle difficulté.",
+                    "it-IT": "Fuggi da Parigi con Volk. Completa \"Signora di ferro\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ucieknij z Volkiem z Paryża. Ukończ \"Żelazną damę\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Выберитесь из Парижа с Волком. Пройдите миссию \"Железная леди\" на любом уровне сложности.",
+                    "ja-JP": "ヴォルクと共にパリから脱出しろ。難易度にかかわらず“IRON LADY”をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "132": {
+            "text": {
+                "name": {
+                    "de-DE": "Vive la révolution!",
+                    "en-US": "Vive la Révolution!",
+                    "es-ES": "¡Vive la Révolution!",
+                    "fr-FR": "Vive la révolution !",
+                    "it-IT": "Vive la Révolution!",
+                    "pl-PL": "Vive la Révolution!",
+                    "ru-RU": "Да здравствует революция!",
+                    "ja-JP": "革命万歳！"
+                },
+                "description": {
+                    "de-DE": "Erreichen Sie die Kirche. Beenden Sie 'Das Auge des Sturms' auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Reach the church. Complete \"Eye of the Storm\" on any difficulty.",
+                    "es-ES": "Llega hasta la iglesia. Completa \"El ojo de la tormenta\" en cualquier dificultad.",
+                    "fr-FR": "Atteindre l'église. Terminer \"L'oeil du cyclone\" dans n'importe quelle difficulté.",
+                    "it-IT": "Raggiungi la chiesa. Completa \"Nell'occhio del ciclone\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Dotrzyj do kościoła. Ukończ \"Oko burzy\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Доберитесь до церкви. Пройдите миссию \"Глаз бури\" на любом уровне сложности.",
+                    "ja-JP": "教会にたどり着け。難易度にかかわらず“EYE OF THE STORM”をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie die Kirche. Beenden Sie 'Das Auge des Sturms' auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Reach the church. Complete \"Eye of the Storm\" on any difficulty.",
+                    "es-ES": "Llega hasta la iglesia. Completa \"El ojo de la tormenta\" en cualquier dificultad.",
+                    "fr-FR": "Atteindre l'église. Terminer \"L'oeil du cyclone\" dans n'importe quelle difficulté.",
+                    "it-IT": "Raggiungi la chiesa. Completa \"Nell'occhio del ciclone\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Dotrzyj do kościoła. Ukończ \"Oko burzy\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Доберитесь до церкви. Пройдите миссию \"Глаз бури\" на любом уровне сложности.",
+                    "ja-JP": "教会にたどり着け。難易度にかかわらず“EYE OF THE STORM”をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "12.png"
+        },
+        "133": {
+            "text": {
+                "name": {
+                    "de-DE": "Requiem",
+                    "en-US": "Requiem",
+                    "es-ES": "Réquiem",
+                    "fr-FR": "Requiem",
+                    "it-IT": "Requiem",
+                    "pl-PL": "Requiem",
+                    "ru-RU": "Реквием",
+                    "ja-JP": "レクイエム"
+                },
+                "description": {
+                    "de-DE": "Entkommen Sie aus der Stadt. Beenden Sie 'Blutsbrüder' auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Escape the city. Complete \"Blood Brothers\" on any difficulty.",
+                    "es-ES": "Huye de la ciudad. Completa \"Hermanos de sangre\" en cualquier dificultad.",
+                    "fr-FR": "S'échapper de la ville. Terminer \"Frères de sang\" dans n'importe quelle difficulté.",
+                    "it-IT": "Fuggi dalla città. Completa \"Fratelli di sangue\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ucieknij z miasta. Ukończ \"Bracia krwi\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Выберитесь из города. Пройдите миссию \"Братья по крови\" на любом уровне сложности.",
+                    "ja-JP": "街を脱出する。難易度にかかわらず“BLOOD BROTHERS”をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Entkommen Sie aus der Stadt. Beenden Sie 'Blutsbrüder' auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Escape the city. Complete \"Blood Brothers\" on any difficulty.",
+                    "es-ES": "Huye de la ciudad. Completa \"Hermanos de sangre\" en cualquier dificultad.",
+                    "fr-FR": "S'échapper de la ville. Terminer \"Frères de sang\" dans n'importe quelle difficulté.",
+                    "it-IT": "Fuggi dalla città. Completa \"Fratelli di sangue\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ucieknij z miasta. Ukończ \"Bracia krwi\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Выберитесь из города. Пройдите миссию \"Братья по крови\" на любом уровне сложности.",
+                    "ja-JP": "街を脱出する。難易度にかかわらず“BLOOD BROTHERS”をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "13.png"
+        },
+        "134": {
+            "text": {
+                "name": {
+                    "de-DE": "Sturm auf die Burg",
+                    "en-US": "Storm the Castle",
+                    "es-ES": "Asalto al castillo",
+                    "fr-FR": "Château assiégé",
+                    "it-IT": "Irruzione nel castello",
+                    "pl-PL": "Atak na zamek",
+                    "ru-RU": "Штурм замка",
+                    "ja-JP": "城攻め"
+                },
+                "description": {
+                    "de-DE": "Erfahren Sie, was Makarov plant. Beenden Sie 'Die Festung' auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Discover Makarov's next move. Complete \"Stronghold\" on any difficulty.",
+                    "es-ES": "Descubre el próximo movimiento de Makarov. Completa \"Fortaleza\" en cualquier dificultad.",
+                    "fr-FR": "Découvrir les plans de Makarov. Terminer \"La forteresse\" dans n'importe quelle difficulté.",
+                    "it-IT": "Scopri la prossima mossa di Makarov. Completa \"La roccaforte\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Odkryj plan Makarowa. Ukończ misję \"Twierdza\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Узнайте замыслы Макарова. Пройдите миссию \"Крепость\" на любом уровне сложности.",
+                    "ja-JP": "マカロフの次の動きを知る。難易度にかかわらず“STRONGHOLD”をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Erfahren Sie, was Makarov plant. Beenden Sie 'Die Festung' auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Discover Makarov's next move. Complete \"Stronghold\" on any difficulty.",
+                    "es-ES": "Descubre el próximo movimiento de Makarov. Completa \"Fortaleza\" en cualquier dificultad.",
+                    "fr-FR": "Découvrir les plans de Makarov. Terminer \"La forteresse\" dans n'importe quelle difficulté.",
+                    "it-IT": "Scopri la prossima mossa di Makarov. Completa \"La roccaforte\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Odkryj plan Makarowa. Ukończ misję \"Twierdza\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Узнайте замыслы Макарова. Пройдите миссию \"Крепость\" на любом уровне сложности.",
+                    "ja-JP": "マカロフの次の動きを知る。難易度にかかわらず“STRONGHOLD”をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "14.png"
+        },
+        "135": {
+            "text": {
+                "name": {
+                    "de-DE": "Schlechtes erstes Date",
+                    "en-US": "Bad First Date",
+                    "es-ES": "Primera cita",
+                    "fr-FR": "Rencard raté",
+                    "it-IT": "Un pessimo primo appuntamento",
+                    "pl-PL": "Nieudana pierwsza randka",
+                    "ru-RU": "Неудачное свидание",
+                    "ja-JP": "ひどい初デート"
+                },
+                "description": {
+                    "de-DE": "Finden Sie das Mädchen. Beenden Sie 'Verbrannte Erde' auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Find the girl. Complete \"Scorched Earth\" on any difficulty.",
+                    "es-ES": "Encuentra a la chica. Completa \"Tierra calcinada\" en cualquier dificultad.",
+                    "fr-FR": "Trouver la fille. Terminer \"Terre brûlée\" dans n'importe quelle difficulté.",
+                    "it-IT": "Trova la ragazza. Completa \"Terra bruciata\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Odszukaj dziewczynę. Ukończ \"Spalona ziemia\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Найдите девушку. Пройдите миссию \"Выжженная земля\" на любом уровне сложности.",
+                    "ja-JP": "大統領の息女アリョーナ（コードネーム・アテナ）を探せ。難易度にかかわらず“SCORCHED EARTH”をクリア。"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie das Mädchen. Beenden Sie 'Verbrannte Erde' auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Find the girl. Complete \"Scorched Earth\" on any difficulty.",
+                    "es-ES": "Encuentra a la chica. Completa \"Tierra calcinada\" en cualquier dificultad.",
+                    "fr-FR": "Trouver la fille. Terminer \"Terre brûlée\" dans n'importe quelle difficulté.",
+                    "it-IT": "Trova la ragazza. Completa \"Terra bruciata\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Odszukaj dziewczynę. Ukończ \"Spalona ziemia\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Найдите девушку. Пройдите миссию \"Выжженная земля\" на любом уровне сложности.",
+                    "ja-JP": "大統領の息女アリョーナ（コードネーム・アテナ）を探せ。難易度にかかわらず“SCORCHED EARTH”をクリア。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "15.png"
+        },
+        "136": {
+            "text": {
+                "name": {
+                    "de-DE": "Rohdiamant",
+                    "en-US": "Diamond in the Rough",
+                    "es-ES": "Diamante en bruto",
+                    "fr-FR": "Diamant menacé",
+                    "it-IT": "Diamante grezzo",
+                    "pl-PL": "Nieoszlifowany diament",
+                    "ru-RU": "Неограненный алмаз",
+                    "ja-JP": "ダイヤの原石"
+                },
+                "description": {
+                    "de-DE": "Retten Sie den Präsidenten. Beenden Sie 'Die Höhle des Löwen' auf beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Rescue the Russian President. Complete \"Down the Rabbit Hole\" on any difficulty.",
+                    "es-ES": "Rescata al presidente ruso. Completa \"Por la madriguera\" en cualquier dificultad.",
+                    "fr-FR": "Sauver le président russe. Terminer \"Au fond du terrier\" dans n'importe quelle difficulté.",
+                    "it-IT": "Salva il presidente russo. Completa \"Nella tana del Bianconiglio\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Uratuj rosyjskiego prezydenta. Ukończ \"Do króliczej nory\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Спасите русского президента. Пройдите миссию \"В кроличью нору\" на любом уровне сложности.",
+                    "ja-JP": "ロシア大統領を救出する。難易度にかかわらず“DOWN THE RABBIT HOLE”をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Retten Sie den Präsidenten. Beenden Sie 'Die Höhle des Löwen' auf beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Rescue the Russian President. Complete \"Down the Rabbit Hole\" on any difficulty.",
+                    "es-ES": "Rescata al presidente ruso. Completa \"Por la madriguera\" en cualquier dificultad.",
+                    "fr-FR": "Sauver le président russe. Terminer \"Au fond du terrier\" dans n'importe quelle difficulté.",
+                    "it-IT": "Salva il presidente russo. Completa \"Nella tana del Bianconiglio\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Uratuj rosyjskiego prezydenta. Ukończ \"Do króliczej nory\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Спасите русского президента. Пройдите миссию \"В кроличью нору\" на любом уровне сложности.",
+                    "ja-JP": "ロシア大統領を救出する。難易度にかかわらず“DOWN THE RABBIT HOLE”をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "16.png"
+        },
+        "137": {
+            "text": {
+                "name": {
+                    "de-DE": "Big Apple",
+                    "en-US": "The Big Apple",
+                    "es-ES": "La gran manzana",
+                    "fr-FR": "La grosse pomme",
+                    "it-IT": "La grande mela",
+                    "pl-PL": "Big Apple",
+                    "ru-RU": "Большое яблоко",
+                    "ja-JP": "ビッグ・アップル"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie 'Schwarzer Dienstag' und 'Jäger und Gejagte' auf dem Schwierigkeitsgrad Veteran.",
+                    "en-US": "Complete \"Black Tuesday\" and \"Hunter Killer\" on Veteran difficulty.",
+                    "es-ES": "Completa \"Martes negro\" y \"Cazador destructor\" en dificultad veterano.",
+                    "fr-FR": "Terminer les missions \"Mardi noir\" et \"Chasseur chassé\" en difficulté Vétéran.",
+                    "it-IT": "Completa \"Martedì nero\" e \"Antisommergibile\" al livello di difficoltà Veterano.",
+                    "pl-PL": "Ukończ \"Czarny Wtorek\" i \"Łowca\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройдите миссии \"Черный вторник\" и \"Морские охотники\" на уровне сложности Ветеран.",
+                    "ja-JP": "難易度ベテランで“BLACK TUESDAY”および“HUNTER KILLER”をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie 'Schwarzer Dienstag' und 'Jäger und Gejagte' auf dem Schwierigkeitsgrad Veteran.",
+                    "en-US": "Complete \"Black Tuesday\" and \"Hunter Killer\" on Veteran difficulty.",
+                    "es-ES": "Completa \"Martes negro\" y \"Cazador destructor\" en dificultad veterano.",
+                    "fr-FR": "Terminer les missions \"Mardi noir\" et \"Chasseur chassé\" en difficulté Vétéran.",
+                    "it-IT": "Completa \"Martedì nero\" e \"Antisommergibile\" al livello di difficoltà Veterano.",
+                    "pl-PL": "Ukończ \"Czarny Wtorek\" i \"Łowca\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройдите миссии \"Черный вторник\" и \"Морские охотники\" на уровне сложности Ветеран.",
+                    "ja-JP": "難易度ベテランで“BLACK TUESDAY”および“HUNTER KILLER”をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "17.png"
+        },
+        "138": {
+            "text": {
+                "name": {
+                    "de-DE": "Vom Regen ...",
+                    "en-US": "Out of the Frying Pan…",
+                    "es-ES": "De la sartén a las brasas",
+                    "fr-FR": "De Charybde en Scylla",
+                    "it-IT": "Dalla padella...",
+                    "pl-PL": "Z deszczu pod...",
+                    "ru-RU": "У черта на сковороде...",
+                    "ja-JP": "一難去ってもう一難"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie 'Persona non grata', 'Turbulenzen' und 'Wieder aufgetaucht' auf Veteran.",
+                    "en-US": "Complete \"Persona Non Grata\", \"Turbulence\", and \"Back on the Grid\" on Veteran difficulty.",
+                    "es-ES": "Completa \"Persona non grata\", \"Turbulencia\" y \"Regreso a la parrilla\" en dificultad veterano.",
+                    "fr-FR": "Terminer \"Persona non grata\", \"Turbulences\" et \"Reprise de service\" en difficulté Vétéran.",
+                    "it-IT": "Completa \"Persona non grata\", \"Turbolenza\" e \"Di nuovo in azione\" al livello di difficoltà Veterano.",
+                    "pl-PL": "Ukończ \"Persona Non Grata\", \"Turbulencje\" i \"Znowu to samo\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройдите миссии \"Персона нон грата\", \"Турбулентность\" и \"Снова в игре\" на уровне сложности Ветеран.",
+                    "ja-JP": "“PERSONA NON GRATA”、“TURBULENCE”、“BACK ON THE GRID”を難易度ベテランでクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie 'Persona non grata', 'Turbulenzen' und 'Wieder aufgetaucht' auf Veteran.",
+                    "en-US": "Complete \"Persona Non Grata\", \"Turbulence\", and \"Back on the Grid\" on Veteran difficulty.",
+                    "es-ES": "Completa \"Persona non grata\", \"Turbulencia\" y \"Regreso a la parrilla\" en dificultad veterano.",
+                    "fr-FR": "Terminer \"Persona non grata\", \"Turbulences\" et \"Reprise de service\" en difficulté Vétéran.",
+                    "it-IT": "Completa \"Persona non grata\", \"Turbolenza\" e \"Di nuovo in azione\" al livello di difficoltà Veterano.",
+                    "pl-PL": "Ukończ \"Persona Non Grata\", \"Turbulencje\" i \"Znowu to samo\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройдите миссии \"Персона нон грата\", \"Турбулентность\" и \"Снова в игре\" на уровне сложности Ветеран.",
+                    "ja-JP": "“PERSONA NON GRATA”、“TURBULENCE”、“BACK ON THE GRID”を難易度ベテランでクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "18.png"
+        },
+        "139": {
+            "text": {
+                "name": {
+                    "de-DE": "Zahltag",
+                    "en-US": "Payback",
+                    "es-ES": "¡Venganza!",
+                    "fr-FR": "Vengeance",
+                    "it-IT": "Vendetta",
+                    "pl-PL": "Zemsta",
+                    "ru-RU": "Евротур",
+                    "ja-JP": "復讐"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie 'Bahnsteigkante', 'Goalpost' und 'Absender' auf dem Schwierigkeitsgrad Veteran.",
+                    "en-US": "Complete \"Mind the Gap\", \"Goalpost\", and \"Return to Sender\" on Veteran difficulty.",
+                    "es-ES": "Completa \"Cuidado con el hueco\", \"Goalpost\" y \"Devolver al remitente\" en dificultad veterano.",
+                    "fr-FR": "Terminer \"Attention à la marche\", \"Souris blanche\" et \"Retour à l'envoyeur\" en difficulté Vétéran.",
+                    "it-IT": "Completa \"Attenti allo scalino\", \"Goalpost\" e \"Restituire al mittente\" al livello Veterano.",
+                    "pl-PL": "Ukończ \"Odsunąć się od torów\", \"Goalpost\" i \"Zwrot do nadawcy\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройдите \"Не прислоняться\", \"Важная персона\" и \"Вернуть отправителю\" на сложности Ветеран.",
+                    "ja-JP": "“MIND THE GAP”、“GOALPOST”、“RETURN TO SENDER”を難易度ベテランでクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie 'Bahnsteigkante', 'Goalpost' und 'Absender' auf dem Schwierigkeitsgrad Veteran.",
+                    "en-US": "Complete \"Mind the Gap\", \"Goalpost\", and \"Return to Sender\" on Veteran difficulty.",
+                    "es-ES": "Completa \"Cuidado con el hueco\", \"Goalpost\" y \"Devolver al remitente\" en dificultad veterano.",
+                    "fr-FR": "Terminer \"Attention à la marche\", \"Souris blanche\" et \"Retour à l'envoyeur\" en difficulté Vétéran.",
+                    "it-IT": "Completa \"Attenti allo scalino\", \"Goalpost\" e \"Restituire al mittente\" al livello Veterano.",
+                    "pl-PL": "Ukończ \"Odsunąć się od torów\", \"Goalpost\" i \"Zwrot do nadawcy\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройдите \"Не прислоняться\", \"Важная персона\" и \"Вернуть отправителю\" на сложности Ветеран.",
+                    "ja-JP": "“MIND THE GAP”、“GOALPOST”、“RETURN TO SENDER”を難易度ベテランでクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "19.png"
+        },
+        "140": {
+            "text": {
+                "name": {
+                    "de-DE": "Stadt der Lichter",
+                    "en-US": "City of Lights",
+                    "es-ES": "Ciudad de luces",
+                    "fr-FR": "Ville lumière",
+                    "it-IT": "La città delle luci",
+                    "pl-PL": "Miasto Świateł",
+                    "ru-RU": "Огни большого города",
+                    "ja-JP": "光の街"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie 'Der nasse Sack' und 'Die eiserne Dame' auf dem Schwierigkeitsgrad Veteran.",
+                    "en-US": "Complete \"Bag and Drag\" and \"Iron Lady\" on Veteran difficulty.",
+                    "es-ES": "Completa \"Empaquetar\" y \"La dama de hierro\" en dificultad veterano.",
+                    "fr-FR": "Terminer les missions \"Livraison express\" et \"La Dame de fer\" en difficulté Vétéran.",
+                    "it-IT": "Completa \"Trasferimento\" e \"Signora di ferro\" al livello di difficoltà Veterano.",
+                    "pl-PL": "Ukończ \"Gotowy do akcji\" i \"Żelazna dama\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройдите миссии \"Особо ценный груз\" и \"Железная леди\" на уровне сложности Ветеран.",
+                    "ja-JP": "“BAG AND DRAG”および“IRON LADY”をベテランの難易度でクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie 'Der nasse Sack' und 'Die eiserne Dame' auf dem Schwierigkeitsgrad Veteran.",
+                    "en-US": "Complete \"Bag and Drag\" and \"Iron Lady\" on Veteran difficulty.",
+                    "es-ES": "Completa \"Empaquetar\" y \"La dama de hierro\" en dificultad veterano.",
+                    "fr-FR": "Terminer les missions \"Livraison express\" et \"La Dame de fer\" en difficulté Vétéran.",
+                    "it-IT": "Completa \"Trasferimento\" e \"Signora di ferro\" al livello di difficoltà Veterano.",
+                    "pl-PL": "Ukończ \"Gotowy do akcji\" i \"Żelazna dama\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройдите миссии \"Особо ценный груз\" и \"Железная леди\" на уровне сложности Ветеран.",
+                    "ja-JP": "“BAG AND DRAG”および“IRON LADY”をベテランの難易度でクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "20.png"
+        },
+        "141": {
+            "text": {
+                "name": {
+                    "de-DE": "Dunkelste Stunde",
+                    "en-US": "The Darkest Hour",
+                    "es-ES": "La hora aciaga",
+                    "fr-FR": "Heures sombres",
+                    "it-IT": "L'ora più buia",
+                    "pl-PL": "Czarna godzina",
+                    "ru-RU": "Тяжелый час",
+                    "ja-JP": "闇が最も深くなる時間"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie 'Das Auge des Sturms', 'Blutsbrüder' und 'Die Festung' auf Veteran.",
+                    "en-US": "Complete \"Eye of the Storm\", \"Blood Brothers\", and \"Stronghold\" on Veteran difficulty.",
+                    "es-ES": "Completa \"El ojo de la tormenta\", \"Hermanos de sangre\" y \"Fortaleza\" en dificultad veterano.",
+                    "fr-FR": "Terminer \"L'oeil du cyclone\", \"Frères de sang\" et \"La forteresse\" en difficulté Vétéran.",
+                    "it-IT": "Completa \"Nell'occhio del ciclone\", \"Fratelli di sangue\" e \"La roccaforte\" al liv. Veterano.",
+                    "pl-PL": "Ukończ \"Oko burzy\", \"Bracia krwi\" i \"Twierdza\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройдите миссии \"Глаз бури\", \"Братья по крови\" и \"Крепость\" на уровне сложности Ветеран.",
+                    "ja-JP": "難易度ベテランで“EYE OF THE STORM”、“BLOOD BROTHERS”および“STRONGHOLD”をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie 'Das Auge des Sturms', 'Blutsbrüder' und 'Die Festung' auf Veteran.",
+                    "en-US": "Complete \"Eye of the Storm\", \"Blood Brothers\", and \"Stronghold\" on Veteran difficulty.",
+                    "es-ES": "Completa \"El ojo de la tormenta\", \"Hermanos de sangre\" y \"Fortaleza\" en dificultad veterano.",
+                    "fr-FR": "Terminer \"L'oeil du cyclone\", \"Frères de sang\" et \"La forteresse\" en difficulté Vétéran.",
+                    "it-IT": "Completa \"Nell'occhio del ciclone\", \"Fratelli di sangue\" e \"La roccaforte\" al liv. Veterano.",
+                    "pl-PL": "Ukończ \"Oko burzy\", \"Bracia krwi\" i \"Twierdza\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройдите миссии \"Глаз бури\", \"Братья по крови\" и \"Крепость\" на уровне сложности Ветеран.",
+                    "ja-JP": "難易度ベテランで“EYE OF THE STORM”、“BLOOD BROTHERS”および“STRONGHOLD”をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "21.png"
+        },
+        "142": {
+            "text": {
+                "name": {
+                    "de-DE": "Das Ende",
+                    "en-US": "This is the End",
+                    "es-ES": "Este es el fin",
+                    "fr-FR": "C'est la fin",
+                    "it-IT": "È la fine",
+                    "pl-PL": "To koniec",
+                    "ru-RU": "Это конец",
+                    "ja-JP": "これで終わりだ"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie 'Verbrannte Erde', 'Die Höhle des Löwen' und 'Staub zu Staub' auf Veteran.",
+                    "en-US": "Complete \"Scorched Earth\", \"Down the Rabbit Hole\", and \"Dust to Dust\" on Veteran difficulty.",
+                    "es-ES": "Completa \"Tierra calcinada\", \"Por la madriguera\" y \"Polvo al polvo\" en dificultad veterano.",
+                    "fr-FR": "Terminer \"Terre brûlée\", \"Au fond du terrier\" et \"Tu redeviendras poussière\" en difficulté Vétéran.",
+                    "it-IT": "Completa \"Terra bruciata\", \"Nella tana del Bianconiglio\" e \"Polvere alla polvere\" al liv. Veterano.",
+                    "pl-PL": "Ukończ \"Spalona ziemia\", \"Do króliczej nory\" i \"W proch się obrócisz\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройдите миссии \"Выжженная земля\", \"В кроличью нору\" и \"Прах к праху\" на уровне сложности Ветеран.",
+                    "ja-JP": "難易度ベテランで“SCORCHED EARTH”、“DOWN THE RABBIT HOLE”および“DUST TO DUST”をクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie 'Verbrannte Erde', 'Die Höhle des Löwen' und 'Staub zu Staub' auf Veteran.",
+                    "en-US": "Complete \"Scorched Earth\", \"Down the Rabbit Hole\", and \"Dust to Dust\" on Veteran difficulty.",
+                    "es-ES": "Completa \"Tierra calcinada\", \"Por la madriguera\" y \"Polvo al polvo\" en dificultad veterano.",
+                    "fr-FR": "Terminer \"Terre brûlée\", \"Au fond du terrier\" et \"Tu redeviendras poussière\" en difficulté Vétéran.",
+                    "it-IT": "Completa \"Terra bruciata\", \"Nella tana del Bianconiglio\" e \"Polvere alla polvere\" al liv. Veterano.",
+                    "pl-PL": "Ukończ \"Spalona ziemia\", \"Do króliczej nory\" i \"W proch się obrócisz\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройдите миссии \"Выжженная земля\", \"В кроличью нору\" и \"Прах к праху\" на уровне сложности Ветеран.",
+                    "ja-JP": "難易度ベテランで“SCORCHED EARTH”、“DOWN THE RABBIT HOLE”および“DUST TO DUST”をクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "22.png"
+        },
+        "144": {
+            "text": {
+                "name": {
+                    "de-DE": "Wer wagt, gewinnt",
+                    "en-US": "Who Dares Wins",
+                    "es-ES": "Solo los intrépidos ganan",
+                    "fr-FR": "La chance sourit aux audacieux",
+                    "it-IT": "La fortuna aiuta gli audaci",
+                    "pl-PL": "Odważni wygrywają",
+                    "ru-RU": "Удача сопутствует дерзким",
+                    "ja-JP": "挑まずして勝利なし"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Kampagne auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Complete the campaign on any difficulty.",
+                    "es-ES": "Completa la campaña en cualquier dificultad.",
+                    "fr-FR": "Terminer la campagne dans n'importe quelle difficulté. ",
+                    "it-IT": "Completa la campagna a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ukończ kampanię na dowolnym poziomie trudności.",
+                    "ru-RU": "Пройдите кампанию на уровне сложности Новобранец или Рядовой.",
+                    "ja-JP": "難易度にかかわらず、キャンペーンモードをクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Kampagne auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Complete the campaign on any difficulty.",
+                    "es-ES": "Completa la campaña en cualquier dificultad.",
+                    "fr-FR": "Terminer la campagne dans n'importe quelle difficulté. ",
+                    "it-IT": "Completa la campagna a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ukończ kampanię na dowolnym poziomie trudności.",
+                    "ru-RU": "Пройдите кампанию на уровне сложности Новобранец или Рядовой.",
+                    "ja-JP": "難易度にかかわらず、キャンペーンモードをクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "23.png"
+        },
+        "146": {
+            "text": {
+                "name": {
+                    "de-DE": "Bester der Besten",
+                    "en-US": "The Best of the Best",
+                    "es-ES": "Lo mejor de lo mejor",
+                    "fr-FR": "L'élite de l'élite",
+                    "it-IT": "Il migliore",
+                    "pl-PL": "Najlepszy z najlepszych",
+                    "ru-RU": "Лучший из лучших",
+                    "ja-JP": "兵士の中の兵士"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Kampagne auf dem Schwierigkeitsgrad Söldner oder Veteran.",
+                    "en-US": "Complete the campaign on Hardened or Veteran difficulty.",
+                    "es-ES": "Completa la campaña en dificultad curtido o veterano.",
+                    "fr-FR": "Terminer la campagne en difficulté Commando ou Vétéran.",
+                    "it-IT": "Completa la campagna al livello Esperto o Veterano.",
+                    "pl-PL": "Ukończ kampanię na poziomie trudności Doświadczony lub Weteran.",
+                    "ru-RU": "Пройдите кампанию на уровне сложности Закаленный или Ветеран.",
+                    "ja-JP": "難易度ハードまたはベテランにおいて、キャンペーンモードをクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Kampagne auf dem Schwierigkeitsgrad Söldner oder Veteran.",
+                    "en-US": "Complete the campaign on Hardened or Veteran difficulty.",
+                    "es-ES": "Completa la campaña en dificultad curtido o veterano.",
+                    "fr-FR": "Terminer la campagne en difficulté Commando ou Vétéran.",
+                    "it-IT": "Completa la campagna al livello Esperto o Veterano.",
+                    "pl-PL": "Ukończ kampanię na poziomie trudności Doświadczony lub Weteran.",
+                    "ru-RU": "Пройдите кампанию на уровне сложности Закаленный или Ветеран.",
+                    "ja-JP": "難易度ハードまたはベテランにおいて、キャンペーンモードをクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "100",
+            "imageId": "24.png"
+        },
+        "147": {
+            "text": {
+                "name": {
+                    "de-DE": "Das tapfere Kämpferlein!",
+                    "en-US": "Strike!",
+                    "es-ES": "¡Diana!",
+                    "fr-FR": "Strike !",
+                    "it-IT": "Strike!",
+                    "pl-PL": "Trafieni!",
+                    "ru-RU": "Страйк!",
+                    "ja-JP": "ストライク！"
+                },
+                "description": {
+                    "de-DE": "Erledigen Sie im Einzelspieler- oder Spezialeinheit-Modus 5 Gegner mit nur einer Granate.",
+                    "en-US": "Kill 5 enemies with a single grenade in Single Player or Special Ops.",
+                    "es-ES": "Mata a 5 enemigos con una sola granada en Individual o en Operaciones especiales.",
+                    "fr-FR": "Tuer 5 ennemis avec une seule grenade en mode Solo ou Opérations spéciales. ",
+                    "it-IT": "Uccidi 5 nemici con una sola granata nella campagna Giocatore singolo o nelle Operazioni speciali.",
+                    "pl-PL": "Zabij 5 przeciwników za pomocą jednego granatu.",
+                    "ru-RU": "Убейте 5 врагов одной гранатой в одиночной игре или спецоперациях.",
+                    "ja-JP": "シングルプレイヤーまたはスペシャルオプスにおいて、1発のグレネードで5人の敵を倒す。"
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie im Einzelspieler- oder Spezialeinheit-Modus 5 Gegner mit nur einer Granate.",
+                    "en-US": "Kill 5 enemies with a single grenade in Single Player or Special Ops.",
+                    "es-ES": "Mata a 5 enemigos con una sola granada en Individual o en Operaciones especiales.",
+                    "fr-FR": "Tuer 5 ennemis avec une seule grenade en mode Solo ou Opérations spéciales. ",
+                    "it-IT": "Uccidi 5 nemici con una sola granata nella campagna Giocatore singolo o nelle Operazioni speciali.",
+                    "pl-PL": "Zabij 5 przeciwników za pomocą jednego granatu.",
+                    "ru-RU": "Убейте 5 врагов одной гранатой в одиночной игре или спецоперациях.",
+                    "ja-JP": "シングルプレイヤーまたはスペシャルオプスにおいて、1発のグレネードで5人の敵を倒す。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "25.png"
+        },
+        "148": {
+            "text": {
+                "name": {
+                    "de-DE": "Jack the Ripper",
+                    "en-US": "Jack the Ripper",
+                    "es-ES": "Jack el Destripador",
+                    "fr-FR": "Jack l'éventreur",
+                    "it-IT": "Jack lo squartatore",
+                    "pl-PL": "Kuba Rozpruwacz",
+                    "ru-RU": "Джек-потрошитель",
+                    "ja-JP": "ジャック・ザ・リッパー"
+                },
+                "description": {
+                    "de-DE": "Greifen Sie im Einzelspieler- oder Spezialeinheit-Modus 5 Gegner nacheinander im Nahkampf an.",
+                    "en-US": "Melee 5 enemies in a row in Single Player or Special Ops.",
+                    "es-ES": "Ataca cuerpo a cuerpo a 5 enemigos seguidos en Individual o en Operaciones especiales.",
+                    "fr-FR": "Attaquer au corps à corps 5 ennemis à la suite en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Combatti in un corpo a corpo con 5 nemici consecutivi in Giocatore singolo o Operazioni speciali.",
+                    "pl-PL": "Zabij w walce wręcz 5 przeciwników z rzędu.",
+                    "ru-RU": "Убейте врукопашную 5 соперников подряд в одиночной игре или спецоперациях.",
+                    "ja-JP": "シングルプレイヤーまたはスペシャルオプスにおいて、ナイフで5体の敵を連続して倒す。"
+                },
+                "howto": {
+                    "de-DE": "Greifen Sie im Einzelspieler- oder Spezialeinheit-Modus 5 Gegner nacheinander im Nahkampf an.",
+                    "en-US": "Melee 5 enemies in a row in Single Player or Special Ops.",
+                    "es-ES": "Ataca cuerpo a cuerpo a 5 enemigos seguidos en Individual o en Operaciones especiales.",
+                    "fr-FR": "Attaquer au corps à corps 5 ennemis à la suite en mode Solo ou Opérations spéciales.",
+                    "it-IT": "Combatti in un corpo a corpo con 5 nemici consecutivi in Giocatore singolo o Operazioni speciali.",
+                    "pl-PL": "Zabij w walce wręcz 5 przeciwników z rzędu.",
+                    "ru-RU": "Убейте врукопашную 5 соперников подряд в одиночной игре или спецоперациях.",
+                    "ja-JP": "シングルプレイヤーまたはスペシャルオプスにおいて、ナイフで5体の敵を連続して倒す。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "26.png"
+        },
+        "150": {
+            "text": {
+                "name": {
+                    "de-DE": "Informant",
+                    "en-US": "Informant",
+                    "es-ES": "Confidente",
+                    "fr-FR": "Informateur",
+                    "it-IT": "Informatore",
+                    "pl-PL": "Informator",
+                    "ru-RU": "Информатор",
+                    "ja-JP": "情報提供者"
+                },
+                "description": {
+                    "de-DE": "Sammeln Sie 22 Informationen.",
+                    "en-US": "Collect 22 Intel Items.",
+                    "es-ES": "Consigue 22 objetos de información.",
+                    "fr-FR": "Récupérer 22 éléments de renseignements.",
+                    "it-IT": "Raccogli 22 informazioni.",
+                    "pl-PL": "Zbierz 22 dane wywiadu.",
+                    "ru-RU": "Соберите 22 единицы вражеских разведданных.",
+                    "ja-JP": "機密情報を22個集める。"
+                },
+                "howto": {
+                    "de-DE": "Sammeln Sie 22 Informationen.",
+                    "en-US": "Collect 22 Intel Items.",
+                    "es-ES": "Consigue 22 objetos de información.",
+                    "fr-FR": "Récupérer 22 éléments de renseignements.",
+                    "it-IT": "Raccogli 22 informazioni.",
+                    "pl-PL": "Zbierz 22 dane wywiadu.",
+                    "ru-RU": "Соберите 22 единицы вражеских разведданных.",
+                    "ja-JP": "機密情報を22個集める。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "20",
+            "imageId": "27.png"
+        },
+        "151": {
+            "text": {
+                "name": {
+                    "de-DE": "Held der Aufklärung",
+                    "en-US": "Scout Leader",
+                    "es-ES": "Jefe de exploradores",
+                    "fr-FR": "Éclaireur averti",
+                    "it-IT": "Capo esploratore",
+                    "pl-PL": "Doświadczony zwiadowca",
+                    "ru-RU": "Разведчик",
+                    "ja-JP": "スカウトリーダー"
+                },
+                "description": {
+                    "de-DE": "Sammeln Sie 46 Informationen.",
+                    "en-US": "Collect 46 Intel Items.",
+                    "es-ES": "Consigue 46 objetos de información.",
+                    "fr-FR": "Récupérer 46 éléments de renseignements.",
+                    "it-IT": "Raccogli 46 informazioni.",
+                    "pl-PL": "Zbierz 46 danych wywiadu.",
+                    "ru-RU": "Соберите 46 единиц вражеских разведданных.",
+                    "ja-JP": "機密情報を46個集める。"
+                },
+                "howto": {
+                    "de-DE": "Sammeln Sie 46 Informationen.",
+                    "en-US": "Collect 46 Intel Items.",
+                    "es-ES": "Consigue 46 objetos de información.",
+                    "fr-FR": "Récupérer 46 éléments de renseignements.",
+                    "it-IT": "Raccogli 46 informazioni.",
+                    "pl-PL": "Zbierz 46 danych wywiadu.",
+                    "ru-RU": "Соберите 46 единиц вражеских разведданных.",
+                    "ja-JP": "機密情報を46個集める。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Other",
+            "credits": "35",
+            "imageId": "28.png"
+        },
+        "152": {
+            "text": {
+                "name": {
+                    "de-DE": "Meine Wumme und ich",
+                    "en-US": "This Is My Boomstick",
+                    "es-ES": "Este es mi palo de fuego",
+                    "fr-FR": "Ceci est une baguette magique !",
+                    "it-IT": "Il mio manico di scopa",
+                    "pl-PL": "Grzmiący kij",
+                    "ru-RU": "Шайтан-труба",
+                    "ja-JP": "俺の大砲"
+                },
+                "description": {
+                    "de-DE": "Erledigen Sie in 'Schwarzer Dienstag' 30 Gegner mit dem XM25.",
+                    "en-US": "Kill 30 enemies with the XM25 in \"Black Tuesday.\"",
+                    "es-ES": "Mata a 30 enemigos con la XM25 en \"Martes negro\".",
+                    "fr-FR": "Tuer 30 ennemis avec le XM25 dans \"Mardi noir\".",
+                    "it-IT": "Uccidi 30 nemici con l'XM25 in \"Martedì nero\".",
+                    "pl-PL": "Zabij 30 przeciwników w misji \"Czarny Wtorek \" za pomocą XM25.",
+                    "ru-RU": "В ходе миссии \"Черный вторник\" убейте 30 врагов из XM25.",
+                    "ja-JP": "“BLACK TUESDAY”において、XM25で敵を30人倒す。"
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie in 'Schwarzer Dienstag' 30 Gegner mit dem XM25.",
+                    "en-US": "Kill 30 enemies with the XM25 in \"Black Tuesday.\"",
+                    "es-ES": "Mata a 30 enemigos con la XM25 en \"Martes negro\".",
+                    "fr-FR": "Tuer 30 ennemis avec le XM25 dans \"Mardi noir\".",
+                    "it-IT": "Uccidi 30 nemici con l'XM25 in \"Martedì nero\".",
+                    "pl-PL": "Zabij 30 przeciwników w misji \"Czarny Wtorek \" za pomocą XM25.",
+                    "ru-RU": "В ходе миссии \"Черный вторник\" убейте 30 врагов из XM25.",
+                    "ja-JP": "“BLACK TUESDAY”において、XM25で敵を30人倒す。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "29.png"
+        },
+        "165": {
+            "text": {
+                "name": {
+                    "de-DE": "Runter kommen sie alle",
+                    "en-US": "What Goes Up…",
+                    "es-ES": "Todo lo que sube...",
+                    "fr-FR": "Ce qui monte...",
+                    "it-IT": "Più in alto salgono...",
+                    "pl-PL": "Co idzie do góry...",
+                    "ru-RU": "Давид и голиафы",
+                    "ja-JP": "ホワット・ゴーズ・アップ"
+                },
+                "description": {
+                    "de-DE": "Zerstören Sie in 'Persona non grata' alle Helikopter nur mit dem Granatwerfer der Fahrzeugdrohne.",
+                    "en-US": "Destroy all the choppers with only the UGV's grenade launcher in \"Persona Non Grata.\"",
+                    "es-ES": "Destruye todos los helicópteros usando solo el lanzagranadas del UGV en \"Persona non grata\".",
+                    "fr-FR": "Détruire tous les hélicoptères avec le lance-grenades de l'engin téléguidé dans \"Persona non grata\".",
+                    "it-IT": "Distruggi tutti gli elicotteri usando solo il lanciagranate dell'UGV in \"Persona non grata\".",
+                    "pl-PL": "Zniszcz wszystkie śmigłowce w misji \"Persona Non Grata\", korzystając wyłącznie z granatnika BPN.",
+                    "ru-RU": "В ходе миссии \"Персона нон грата\" сбейте все вертолеты, используя только гранатомет робота.",
+                    "ja-JP": "“PERSONA NON GRATA”において、UGVのグレネードランチャーだけを使ってヘリをすべて破壊する。"
+                },
+                "howto": {
+                    "de-DE": "Zerstören Sie in 'Persona non grata' alle Helikopter nur mit dem Granatwerfer der Fahrzeugdrohne.",
+                    "en-US": "Destroy all the choppers with only the UGV's grenade launcher in \"Persona Non Grata.\"",
+                    "es-ES": "Destruye todos los helicópteros usando solo el lanzagranadas del UGV en \"Persona non grata\".",
+                    "fr-FR": "Détruire tous les hélicoptères avec le lance-grenades de l'engin téléguidé dans \"Persona non grata\".",
+                    "it-IT": "Distruggi tutti gli elicotteri usando solo il lanciagranate dell'UGV in \"Persona non grata\".",
+                    "pl-PL": "Zniszcz wszystkie śmigłowce w misji \"Persona Non Grata\", korzystając wyłącznie z granatnika BPN.",
+                    "ru-RU": "В ходе миссии \"Персона нон грата\" сбейте все вертолеты, используя только гранатомет робота.",
+                    "ja-JP": "“PERSONA NON GRATA”において、UGVのグレネードランチャーのみを使ってヘリをすべて破壊する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "30.png"
+        },
+        "166": {
+            "text": {
+                "name": {
+                    "de-DE": "Flugbegleiter",
+                    "en-US": "Flight Attendant ",
+                    "es-ES": "Auxiliar de vuelo",
+                    "fr-FR": "Personnel de bord",
+                    "it-IT": "Assistente di volo",
+                    "pl-PL": "Steward",
+                    "ru-RU": "Стюардесса",
+                    "ja-JP": "フライトアテンダント"
+                },
+                "description": {
+                    "de-DE": "Schalten Sie alle 5 Gegner während der Schwerelos-Sequenz in 'Turbulenzen' aus.",
+                    "en-US": "Kill all 5 enemies during the zero-g sequence in \"Turbulence.\"",
+                    "es-ES": "Mata a los 5 enemigos en la secuencia de gravedad cero de \"Turbulencia\".",
+                    "fr-FR": "Tuer 5 ennemis pendant la séquence en apesanteur dans la mission \"Turbulences\".",
+                    "it-IT": "Uccidi tutti i 5 nemici nella sequenza a gravità zero di \"Turbolenza.\"",
+                    "pl-PL": "Zabij 5 przeciwników podczas etapu nieważkości w trakcie misji \"Turbulencje\".",
+                    "ru-RU": "Убейте пять врагов в невесомости в миссии \"Турбулентность\".",
+                    "ja-JP": "“TURBULENCE”において、ゼロG状態中に5人の敵を倒す。"
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie alle 5 Gegner während der Schwerelos-Sequenz in 'Turbulenzen' aus.",
+                    "en-US": "Kill all 5 enemies during the zero-g sequence in \"Turbulence.\"",
+                    "es-ES": "Mata a los 5 enemigos en la secuencia de gravedad cero de \"Turbulencia\".",
+                    "fr-FR": "Tuer 5 ennemis pendant la séquence en apesanteur dans la mission \"Turbulences\".",
+                    "it-IT": "Uccidi tutti i 5 nemici nella sequenza a gravità zero di \"Turbolenza.\"",
+                    "pl-PL": "Zabij 5 przeciwników podczas etapu nieważkości w trakcie misji \"Turbulencje\".",
+                    "ru-RU": "Убейте пять врагов в невесомости в миссии \"Турбулентность\".",
+                    "ja-JP": "“TURBULENCE”において、ゼロG状態中に5人の敵を倒す。"
+                }
+            },
+            "isSecret": "false",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "31.png"
+        },
+        "167": {
+            "text": {
+                "name": {
+                    "de-DE": "Granatenmäßig",
+                    "en-US": "For Whom the Shell Tolls",
+                    "es-ES": "Por quién doblan las campanas",
+                    "fr-FR": "Pour qui sonne le glas",
+                    "it-IT": "Per chi suona il mortaio",
+                    "pl-PL": "W kogo trafia pocisk",
+                    "ru-RU": "По ком свистит мина",
+                    "ja-JP": "誰がために砲は鳴る"
+                },
+                "description": {
+                    "de-DE": "Zerstören Sie während der Mörser-Sequenz in 'Wieder aufgetaucht' alle Ziele mit nur 4 Granaten.",
+                    "en-US": "Destroy all targets during the mortar sequence with only 4 shells in \"Back on the Grid.\"",
+                    "es-ES": "Destruye todos los blancos con 4 proyectiles en la secuencia de mortero de \"Regreso a la parrilla\".",
+                    "fr-FR": "Détruire toutes les cibles avec 4 obus pendant la séquence du mortier dans \"Reprise de service\".",
+                    "it-IT": "Distruggi tutti i bersagli con soli 4 colpi nella sequenza del mortaio di \"Di nuovo in azione\".",
+                    "pl-PL": "Zniszcz wszystkie cele, strzelając z moździerza, w misji \"Znowu to samo\", używając tylko 4 pocisków.",
+                    "ru-RU": "В миссии \"Снова в игре\" уничтожьте все цели 4 выстрелами из мортиры.",
+                    "ja-JP": "“BACK ON THE GRID”において、迫撃砲使用時に4発の砲弾だけで敵の目標をすべて破壊する。"
+                },
+                "howto": {
+                    "de-DE": "Zerstören Sie während der Mörser-Sequenz in 'Wieder aufgetaucht' alle Ziele mit nur 4 Granaten.",
+                    "en-US": "Destroy all targets during the mortar sequence with only 4 shells in \"Back on the Grid.\"",
+                    "es-ES": "Destruye todos los blancos con 4 proyectiles en la secuencia de mortero de \"Regreso a la parrilla\".",
+                    "fr-FR": "Détruire toutes les cibles avec 4 obus pendant la séquence du mortier dans \"Reprise de service\".",
+                    "it-IT": "Distruggi tutti i bersagli con soli 4 colpi nella sequenza del mortaio di \"Di nuovo in azione\".",
+                    "pl-PL": "Zniszcz wszystkie cele, strzelając z moździerza w misji \"Znowu to samo\", używając tylko 4 pocisków.",
+                    "ru-RU": "В миссии \"Снова в игре\" уничтожьте все цели 4 выстрелами из мортиры.",
+                    "ja-JP": "“BACK ON THE GRID”の迫撃砲使用パートで、4発の砲弾だけで敵の目標をすべて破壊する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "32.png"
+        },
+        "168": {
+            "text": {
+                "name": {
+                    "de-DE": "Vernichtung",
+                    "en-US": "Kill Box",
+                    "es-ES": "La carga de las valquirias",
+                    "fr-FR": "Boîte fatale",
+                    "it-IT": "Occhio di falco",
+                    "pl-PL": "Zabójcza przesyłka",
+                    "ru-RU": "Зона поражения",
+                    "ja-JP": "交戦区域"
+                },
+                "description": {
+                    "de-DE": "Erledigen Sie in 'Zurück zum Absender' 20 Gegner mit dem Helikopterschützen mit nur einem Angriff.",
+                    "en-US": "Kill 20 enemies with the Chopper Gunner in a single run in \"Return to Sender.\"",
+                    "es-ES": "Mata a 20 enemigos de una sola pasada con el artillero de helicóptero en \"Devolver al remitente\".",
+                    "fr-FR": "Tuer 20 ennemis en un seul passage avec l'artilleur d'hélico dans la mission \"Retour à l'envoyeur\".",
+                    "it-IT": "Uccidi 20 nemici in una sola passata con il mitragliere dell'elicottero in \"Restituire al mittente\".",
+                    "pl-PL": "Zabij 20 przeciwników jako strzelec śmigłowca podczas jednego lotu w misji \"Zwrot do nadawcy\".",
+                    "ru-RU": "Убейте 25 врагов с вертолета за один заход в миссии \"Вернуть отправителю\".",
+                    "ja-JP": "“RETURN TO SENDER”において、ヘリガンナーで20人の敵を1回の掃射で倒す。"
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie in 'Zurück zum Absender' 20 Gegner mit dem Helikopterschützen mit nur einem Angriff.",
+                    "en-US": "Kill 20 enemies with the Chopper Gunner in a single run in \"Return to Sender.\"",
+                    "es-ES": "Mata a 20 enemigos de una sola pasada con el artillero de helicóptero en \"Devolver al remitente\".",
+                    "fr-FR": "Tuer 20 ennemis en un seul passage avec l'artilleur d'hélico dans la mission \"Retour à l'envoyeur\".",
+                    "it-IT": "Uccidi 20 nemici in una sola passata con il mitragliere dell'elicottero in \"Restituire al mittente\".",
+                    "pl-PL": "Zabij 20 przeciwników jako strzelec śmigłowca podczas jednego lotu w misji \"Zwrot do nadawcy\".",
+                    "ru-RU": "Убейте 25 врагов с вертолета за один заход в миссии \"Вернуть отправителю\".",
+                    "ja-JP": "“RETURN TO SENDER”において、ヘリガンナーで20人の敵を1回の掃射で倒す。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "33.png"
+        },
+        "169": {
+            "text": {
+                "name": {
+                    "de-DE": "Gefahr ist nah",
+                    "en-US": "Danger Close",
+                    "es-ES": "Peligro cercano",
+                    "fr-FR": "Danger proche",
+                    "it-IT": "Mina vagante",
+                    "pl-PL": "Niebezpiecznie blisko",
+                    "ru-RU": "Взрывная волна",
+                    "ja-JP": "デンジャークロース"
+                },
+                "description": {
+                    "de-DE": "Schalten Sie in 'Der nasse Sack' einen Helikopter mit einer AC-130 Rauchgranate aus.",
+                    "en-US": "Take down a chopper with an AC-130 smoke grenade in \"Bag and Drag.\"",
+                    "es-ES": "Derriba un helicóptero con una granada de humo del AC-130 en \"Empaquetar\".",
+                    "fr-FR": "Abattre un hélicoptère avec la grenade fumigène d'un AC-130 dans la mission \"Livraison express\".",
+                    "it-IT": "Abbatti un elicottero con una granata fumogena AC-130 in \"Trasferimento\".",
+                    "pl-PL": "Zniszcz śmigłowiec za pomocą granatu dymnego z AC-130 w misji \"Gotowy do akcji\".",
+                    "ru-RU": "Сбейте вертолет, бросив дымовую гранату для AC-130 в миссии \"Особо ценный груз\".",
+                    "ja-JP": "“BAG AND DRAG”において、AC-130のスモークグレネードでヘリを撃墜する。"
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie in 'Der nasse Sack' einen Helikopter mit einer AC-130 Rauchgranate aus.",
+                    "en-US": "Take down a chopper with an AC-130 smoke grenade in \"Bag and Drag.\"",
+                    "es-ES": "Derriba un helicóptero con una granada de humo del AC-130 en \"Empaquetar\".",
+                    "fr-FR": "Abattre un hélicoptère avec la grenade fumigène d'un AC-130 dans la mission \"Livraison express\".",
+                    "it-IT": "Abbatti un elicottero con una granata fumogena AC-130 in \"Trasferimento\".",
+                    "pl-PL": "Zniszcz śmigłowiec za pomocą granatu dymnego z AC-130 w misji \"Gotowy do akcji\".",
+                    "ru-RU": "Сбейте вертолет, бросив дымовую гранату для AC-130 в миссии \"Особо ценный груз\".",
+                    "ja-JP": "“BAG AND DRAG”において、AC-130のスモークグレネードでヘリを撃墜する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "34.png"
+        },
+        "171": {
+            "text": {
+                "name": {
+                    "de-DE": "Ménage à Trois",
+                    "en-US": "Ménage à Trois",
+                    "es-ES": "Ménage à trois",
+                    "fr-FR": "Ménage à trois",
+                    "it-IT": "Ménage à trois",
+                    "pl-PL": "Ménage à Trois",
+                    "ru-RU": "На троих",
+                    "ja-JP": "三人婚"
+                },
+                "description": {
+                    "de-DE": "Zerstören Sie in 'Die eiserne Dame' 3 Panzer mit nur einem 105mm-Schuss.",
+                    "en-US": "Destroy 3 tanks with a single 105mm shot in \"Iron Lady.\"",
+                    "es-ES": "Destruye 3 tanques con un solo disparo del 105 mm en \"La dama de hierro\".",
+                    "fr-FR": "Détruire 3 chars avec un seul tir de 105 mm dans la mission \"La Dame de fer\".",
+                    "it-IT": "Distruggi 3 carri con un solo colpo di 105 mm in \"Signora di ferro\".",
+                    "pl-PL": "Zniszcz 3 czołgi jednym strzałem ze 105mm w misji \"Żelazna dama\".",
+                    "ru-RU": "В ходе миссии \"Железная леди\" уничтожьте 3 танка одним 105-мм снарядом.",
+                    "ja-JP": "“IRON LADY”において、1発の105mm弾で3両の戦車を破壊する。"
+                },
+                "howto": {
+                    "de-DE": "Zerstören Sie in 'Die eiserne Dame' 3 Panzer mit nur einem 105mm-Schuss.",
+                    "en-US": "Destroy 3 tanks with a single 105mm shot in \"Iron Lady.\"",
+                    "es-ES": "Destruye 3 tanques con un solo disparo del 105 mm en \"La dama de hierro\".",
+                    "fr-FR": "Détruire 3 chars avec un seul tir de 105 mm dans la mission \"La Dame de fer\".",
+                    "it-IT": "Distruggi 3 carri con un solo colpo di 105 mm in \"Signora di ferro\".",
+                    "pl-PL": "Zniszcz 3 czołgi jednym strzałem ze 105mm w misji \"Żelazna dama\".",
+                    "ru-RU": "В ходе миссии \"Железная леди\" уничтожьте 3 танка одним 105-мм снарядом.",
+                    "ja-JP": "“IRON LADY”において、1発の105mm弾で3両の戦車を破壊する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "35.png"
+        },
+        "173": {
+            "text": {
+                "name": {
+                    "de-DE": "Ganz schön tief",
+                    "en-US": "Nein",
+                    "es-ES": "Nein",
+                    "fr-FR": "Quoi de neuf",
+                    "it-IT": "Nein",
+                    "pl-PL": "Nein",
+                    "ru-RU": "Девятка",
+                    "ja-JP": "ナイン"
+                },
+                "description": {
+                    "de-DE": "Erledigen Sie in 'Verbrannte Erde' 9 Gegner mit A-10-Tieffliegern.",
+                    "en-US": "Kill 9 enemies with A-10 strafing runs in \"Scorched Earth.\"",
+                    "es-ES": "Mata a 9 enemigos con ametrallamientos de A-10 en \"Tierra calcinada\".",
+                    "fr-FR": "Tuer 9 ennemis avec des mitraillages d'A-10 dans la mission \"Terre brûlée\".",
+                    "it-IT": "Uccidi 9 nemici con i mitragliamenti dell'A-10 in \"Terra bruciata\".",
+                    "pl-PL": "Zabij 9 przeciwników podczas ataków A-10 w misji \"Spalona ziemia\".",
+                    "ru-RU": "В ходе миссии \"Выжженная земля\" убейте 9 врагов штурмовиками A-10.",
+                    "ja-JP": "“SCORCHED EARTH”において、A-10の機銃掃射で9人の敵を倒す。"
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie in 'Verbrannte Erde' 9 Gegner mit A-10-Tieffliegern.",
+                    "en-US": "Kill 9 enemies with A-10 strafing runs in \"Scorched Earth.\"",
+                    "es-ES": "Mata a 9 enemigos con ametrallamientos de A-10 en \"Tierra calcinada\".",
+                    "fr-FR": "Tuer 9 ennemis avec des mitraillages d'A-10 dans la mission \"Terre brûlée\".",
+                    "it-IT": "Uccidi 9 nemici con i mitragliamenti dell'A-10 in \"Terra bruciata\".",
+                    "pl-PL": "Zabij 9 przeciwników podczas ataków A-10 w misji \"Spalona ziemia\".",
+                    "ru-RU": "В ходе миссии \"Выжженная земля\" убейте 9 врагов штурмовиками A-10.",
+                    "ja-JP": "“SCORCHED EARTH”において、A-10の機銃掃射で9人の敵を倒す。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "36.png"
+        },
+        "174": {
+            "text": {
+                "name": {
+                    "de-DE": "50:50",
+                    "en-US": "50/50",
+                    "es-ES": "50/50",
+                    "fr-FR": "50/50",
+                    "it-IT": "50/50",
+                    "pl-PL": "Fifty-fifty",
+                    "ru-RU": "50/50",
+                    "ja-JP": "フィフティ・フィフティ"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie eine Mission im Spezialeinheit-Modus mit derselben Anzahl Abschüsse wie Ihr Partner.",
+                    "en-US": "Complete a Special Ops Mission Mode game with the same number of kills as your partner.",
+                    "es-ES": "Completa una misión del modo Operaciones especiales con la misma cantidad de bajas que tu compañero.",
+                    "fr-FR": "Terminer une partie Mission d'Opérations spéciales avec autant d'éliminations que votre partenaire.",
+                    "it-IT": "Completa una partita in mod. Operazioni speciali con lo stesso numero di uccisioni del tuo compagno.",
+                    "pl-PL": "Ukończ misję operacji specjalnych z taką samą liczbą zabitych przeciwników, co twój partner.",
+                    "ru-RU": "Пройдите миссию в спецоперациях с тем же количеством убийств, что и у напарника.",
+                    "ja-JP": "パートナーと同じキル数でスペシャルオプスのミッション・モードをクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie eine Mission im Spezialeinheit-Modus mit derselben Anzahl Abschüsse wie Ihr Partner.",
+                    "en-US": "Complete a Special Ops Mission Mode game with the same number of kills as your partner.",
+                    "es-ES": "Completa una misión del modo Operaciones especiales con la misma cantidad de bajas que tu compañero.",
+                    "fr-FR": "Terminer une partie Mission d'Opérations spéciales avec autant d'éliminations que votre partenaire.",
+                    "it-IT": "Completa una partita in mod. Operazioni speciali con lo stesso numero di uccisioni del tuo compagno.",
+                    "pl-PL": "Ukończ misję operacji specjalnych z taką samą liczbą zabitych przeciwników, co twój partner.",
+                    "ru-RU": "Пройдите миссию в спецоперациях с тем же количеством убийств, что и у напарника.",
+                    "ja-JP": "パートナーと同じキル数でスペシャルオプスのミッション・モードをクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "37.png"
+        },
+        "175": {
+            "text": {
+                "name": {
+                    "de-DE": "Zwei Vögel",
+                    "en-US": "Birdie",
+                    "es-ES": "Pajarito",
+                    "fr-FR": "Petits oiseaux",
+                    "it-IT": "Uccellino",
+                    "pl-PL": "Ptaszek",
+                    "ru-RU": "Птичка",
+                    "ja-JP": "バーディ"
+                },
+                "description": {
+                    "de-DE": "Erledigen Sie in einem Speziale.-Überleben-Spiel 2 feindliche Helikopter, ohne getroffen zu werden.",
+                    "en-US": "Kill 2 enemy helicopters without getting hit in a Special Ops Survival game.",
+                    "es-ES": "Destruye 2 helicópteros sin que te alcancen en una partida de superviv. de Operaciones especiales.\n\n",
+                    "fr-FR": "Abattre 2 hélicoptères ennemis sans se faire toucher dans une partie Survie d'Opérations spéciales.",
+                    "it-IT": "Distruggi 2 elicotteri nemici senza essere colpito in una partita Operazioni speciali Sopravvivenza.",
+                    "pl-PL": "Zniszcz 2 wrogie śmigłowce w trybie Przetrwanie w operacjach specjalnych, samemu unikając trafienia.",
+                    "ru-RU": "В режиме Выживания в спецоперациях сбейте два вертолета, не попав под огонь.",
+                    "ja-JP": "スペシャルオプス・サバイバルにおいて、被弾することなく2機のヘリを撃墜する。"
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie in einem Speziale.-Überleben-Spiel 2 feindliche Helikopter, ohne getroffen zu werden.",
+                    "en-US": "Kill 2 enemy helicopters without getting hit in a Special Ops Survival game.",
+                    "es-ES": "Destruye 2 helicópteros sin que te alcancen en una partida de superviv. de Operaciones especiales.\n\n",
+                    "fr-FR": "Abattre 2 hélicoptères ennemis sans se faire toucher dans une partie Survie d'Opérations spéciales.",
+                    "it-IT": "Distruggi 2 elicotteri nemici senza essere colpito in una partita Operazioni speciali Sopravvivenza.",
+                    "pl-PL": "Zniszcz 2 wrogie śmigłowce w trybie Przetrwanie w operacjach specjalnych, samemu unikając trafienia.",
+                    "ru-RU": "В режиме Выживания в спецоперациях сбейте два вертолета, не попав под огонь.",
+                    "ja-JP": "スペシャルオプス・サバイバルにおいて、被弾することなく2機のヘリを撃墜する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "38.png"
+        },
+        "176": {
+            "text": {
+                "name": {
+                    "de-DE": "Scharfe Kante",
+                    "en-US": "Serrated Edge",
+                    "es-ES": "Filo dentado",
+                    "fr-FR": "Lame fatale",
+                    "it-IT": "Serramanico",
+                    "pl-PL": "Ostre ostrze",
+                    "ru-RU": "Зазубренное лезвие",
+                    "ja-JP": "ノコギリのような刃"
+                },
+                "description": {
+                    "de-DE": "Erledigen Sie einen Juggernaut mit dem Messer in 'Spezialeinheit'.",
+                    "en-US": "Finish a Juggernaut with a knife in Special Ops.",
+                    "es-ES": "Elimina a un Juggernaut con un cuchillo en Operaciones especiales.",
+                    "fr-FR": "Achever un Mastodonte au couteau en mode Opérations spéciales. ",
+                    "it-IT": "Uccidi un Juggernaut con un coltello nelle Operazioni speciali.",
+                    "pl-PL": "Dobij Kolosa za pomocą noża.",
+                    "ru-RU": "Убейте джаггернаута ножом в спецоперациях.",
+                    "ja-JP": "シングルプレイヤーまたはスペシャルオプスにおいて、ジャガーノートにナイフで止めを刺す。"
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie einen Juggernaut mit dem Messer in 'Spezialeinheit'.",
+                    "en-US": "Finish a Juggernaut with a knife in Special Ops.",
+                    "es-ES": "Elimina a un Juggernaut con un cuchillo en Operaciones especiales.",
+                    "fr-FR": "Achever un Mastodonte au couteau en mode Opérations spéciales. ",
+                    "it-IT": "Uccidi un Juggernaut con un coltello nelle Operazioni speciali.",
+                    "pl-PL": "Dobij Kolosa za pomocą noża.",
+                    "ru-RU": "Убейте джаггернаута ножом в спецоперациях.",
+                    "ja-JP": "シングルプレイヤーまたはスペシャルオプスにおいて、ジャガーノートにナイフで止めを刺す。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "39.png"
+        },
+        "177": {
+            "text": {
+                "name": {
+                    "de-DE": "Waffenhändler",
+                    "en-US": "Arms Dealer",
+                    "es-ES": "Traficante de armas",
+                    "fr-FR": "Trafiquant d'armes",
+                    "it-IT": "Mercante d'armi",
+                    "pl-PL": "Handlarz bronią",
+                    "ru-RU": "Торговец оружием",
+                    "ja-JP": "武器商人"
+                },
+                "description": {
+                    "de-DE": "Kaufen Sie alle Objekte aus der Überleben-Waffenkammer.",
+                    "en-US": "Buy all items from the Survival Weapon Armory.",
+                    "es-ES": "Compra todos los objetos del arsenal de supervivencia.",
+                    "fr-FR": "Acheter tous les éléments de l'Armurerie de Survie.",
+                    "it-IT": "Acquista tutti gli oggetti dell'Arsenale armi Sopravvivenza.",
+                    "pl-PL": "Kup wszystkie przedmioty w zbrojowni trybu Przetrwanie.",
+                    "ru-RU": "Купите все предметы из Оружейного арсенала в режиме  Выживание.",
+                    "ja-JP": "サバイバル・モードで、武器アーマリーのアイテムをすべて買う。"
+                },
+                "howto": {
+                    "de-DE": "Kaufen Sie alle Objekte aus der Überleben-Waffenkammer.",
+                    "en-US": "Buy all items from the Survival Weapon Armory.",
+                    "es-ES": "Compra todos los objetos del arsenal de supervivencia.",
+                    "fr-FR": "Acheter tous les éléments de l'Armurerie de Survie.",
+                    "it-IT": "Acquista tutti gli oggetti dell'Arsenale armi Sopravvivenza.",
+                    "pl-PL": "Kup wszystkie przedmioty w zbrojowni trybu Przetrwanie.",
+                    "ru-RU": "Купите все предметы из Оружейного арсенала в режиме  Выживание.",
+                    "ja-JP": "サバイバル・モードで、武器アーマリーのアイテムをすべて買う。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "40.png"
+        },
+        "179": {
+            "text": {
+                "name": {
+                    "de-DE": "Gefahrenzone",
+                    "en-US": "Danger Zone",
+                    "es-ES": "Zona de peligro",
+                    "fr-FR": "Zone rouge",
+                    "it-IT": "Zona pericolo",
+                    "pl-PL": "Niebezpieczna strefa",
+                    "ru-RU": "Опасная зона",
+                    "ja-JP": "デンジャーゾーン"
+                },
+                "description": {
+                    "de-DE": "Kaufen Sie alle Objekte aus der Überleben-Luftunterstützungskammer.",
+                    "en-US": "Buy all items from the Survival Air Support Armory.",
+                    "es-ES": "Compra todos los objetos del arsenal de apoyo aéreo de supervivencia.",
+                    "fr-FR": "Acheter tous les éléments de l'Arsenal soutien aérien de Survie.",
+                    "it-IT": "Acquista tutti gli oggetti dell'Arsenale supporto aereo Sopravvivenza.",
+                    "pl-PL": "Kup wszystkie przedmioty ze zbrojowni wsparcia lotniczego w trybie Przetrwanie.",
+                    "ru-RU": "Купите все предметы из Арсенала воздушной поддержки в режиме Выживание.",
+                    "ja-JP": "サバイバル・モードで、航空支援アーマリーのアイテムをすべて買う。"
+                },
+                "howto": {
+                    "de-DE": "Kaufen Sie alle Objekte aus der Überleben-Luftunterstützungskammer.",
+                    "en-US": "Buy all items from the Survival Air Support Armory.",
+                    "es-ES": "Compra todos los objetos del arsenal de apoyo aéreo de supervivencia.",
+                    "fr-FR": "Acheter tous les éléments de l'Arsenal soutien aérien de Survie.",
+                    "it-IT": "Acquista tutti gli oggetti dell'Arsenale supporto aereo Sopravvivenza.",
+                    "pl-PL": "Kup wszystkie przedmioty ze zbrojowni wsparcia lotniczego w trybie Przetrwanie.",
+                    "ru-RU": "Купите все предметы из Арсенала воздушной поддержки в режиме Выживание.",
+                    "ja-JP": "サバイバル・モードで、航空支援アーマリーのアイテムをすべて買う。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "41.png"
+        },
+        "180": {
+            "text": {
+                "name": {
+                    "de-DE": "Abwehrmaßnahmen",
+                    "en-US": "Defense Spending",
+                    "es-ES": "Gastos defensivos",
+                    "fr-FR": "Dépense stratégique",
+                    "it-IT": "Spese per la difesa",
+                    "pl-PL": "Wydatki na obronę",
+                    "ru-RU": "Расходы на оборону",
+                    "ja-JP": "防衛予算"
+                },
+                "description": {
+                    "de-DE": "Kaufen Sie alle Objekte aus der Überleben-Ausrüstungskammer.",
+                    "en-US": "Buy all items from the Survival Equipment Armory.",
+                    "es-ES": "Compra todos los objetos del arsenal de equipo de supervivencia.",
+                    "fr-FR": "Acheter tous les éléments de l'Arsenal de Survie.",
+                    "it-IT": "Acquista tutti gli oggetti dell'Arsenale equipaggiamento Sopravvivenza.",
+                    "pl-PL": "Kup wszystkie przedmioty ze zbrojowni wyposażenia w trybie Przetrwanie.",
+                    "ru-RU": "Купите все предметы из Арсенала снаряжения в режиме Выживание.",
+                    "ja-JP": "サバイバル・モードで、特殊装備アーマリーのアイテムをすべて買う。"
+                },
+                "howto": {
+                    "de-DE": "Kaufen Sie alle Objekte aus der Überleben-Ausrüstungskammer.",
+                    "en-US": "Buy all items from the Survival Equipment Armory.",
+                    "es-ES": "Compra todos los objetos del arsenal de equipo de supervivencia.",
+                    "fr-FR": "Acheter tous les éléments de l'Arsenal de Survie.",
+                    "it-IT": "Acquista tutti gli oggetti dell'Arsenale equipaggiamento Sopravvivenza.",
+                    "pl-PL": "Kup wszystkie przedmioty ze zbrojowni wyposażenia w trybie Przetrwanie.",
+                    "ru-RU": "Купите все предметы из Арсенала снаряжения в режиме Выживание.",
+                    "ja-JP": "サバイバル・モードで、特殊装備アーマリーのアイテムをすべて買う。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "20",
+            "imageId": "42.png"
+        },
+        "182": {
+            "text": {
+                "name": {
+                    "de-DE": "Lieber tot als arm",
+                    "en-US": "Get Rich or Die Trying",
+                    "es-ES": "Hazte rico o muere en el intento",
+                    "fr-FR": "La bourse ou la vie",
+                    "it-IT": "Diventa ricco o muori provandoci",
+                    "pl-PL": "Zostań bogaczem lub zgiń",
+                    "ru-RU": "Кошелек или жизнь",
+                    "ja-JP": "金持ちか死か"
+                },
+                "description": {
+                    "de-DE": "Erreichen Sie 50.000$ auf dem Konto in einem Spezialeinheit-Überleben-Spiel.",
+                    "en-US": "Have $50,000 current balance in a Special Ops Survival game.",
+                    "es-ES": "Consigue un saldo de 50.000 $ en una partida de supervivencia de Operaciones especiales.",
+                    "fr-FR": "Avoir un solde de 50 000 $ dans une partie en Survie d'Opérations spéciales.",
+                    "it-IT": "Ottieni 50.000 $ in una partita Operazioni speciali Sopravvivenza.",
+                    "pl-PL": "Osiągnij bilans 50000 $ w grze w trybie Przetrwanie operacji specjalnych.",
+                    "ru-RU": "Накопите $50 000 в режиме Выживание в спецоперациях.",
+                    "ja-JP": "スペシャルオプスのサバイバル・モードで、$50000の収支を保つ。"
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie 50.000$ auf dem Konto in einem Spezialeinheit-Überleben-Spiel.",
+                    "en-US": "Have $50,000 current balance in a Special Ops Survival game.",
+                    "es-ES": "Consigue un saldo de 50.000 $ en una partida de supervivencia de Operaciones especiales.",
+                    "fr-FR": "Avoir un solde de 50 000 $ dans une partie en Survie d'Opérations spéciales.",
+                    "it-IT": "Ottieni 50.000 $ in una partita Operazioni speciali Sopravvivenza.",
+                    "pl-PL": "Osiągnij bilans 50000 $ w grze w trybie Przetrwanie operacji specjalnych.",
+                    "ru-RU": "Накопите $50 000 в режиме Выживание в спецоперациях.",
+                    "ja-JP": "スペシャルオプスのサバイバル・モードで、$50000の収支を保つ。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "25",
+            "imageId": "43.png"
+        },
+        "183": {
+            "text": {
+                "name": {
+                    "de-DE": "Ich lebe",
+                    "en-US": "I Live",
+                    "es-ES": "Vivo",
+                    "fr-FR": "Je survivrai",
+                    "it-IT": "Io vivo",
+                    "pl-PL": "Ja żyję",
+                    "ru-RU": "Остаться в живых",
+                    "ja-JP": "生きてる"
+                },
+                "description": {
+                    "de-DE": "Überleben Sie 1 Angriffswelle in einem Spezialeinheit-Überleben-Spiel.",
+                    "en-US": "Survive 1 wave in a Special Ops Survival game.",
+                    "es-ES": "Sobrevive a 1 oleada en una partida de Supervivencia de Operaciones especiales.",
+                    "fr-FR": "Survivre à 1 vague dans une partie en mode Survie d'Opérations spéciales.",
+                    "it-IT": "Sopravvivi a un'ondata in una partita Operazioni speciali Sopravvivenza.",
+                    "pl-PL": "Przetrwaj 1 falę w trybie Przetrwanie operacji specjalnych.",
+                    "ru-RU": "Продержитесь 1 волну в спецоперациях в режиме Выживание.",
+                    "ja-JP": "スペシャルオプスのサバイバル・モードで1ウェーブを耐え抜く。"
+                },
+                "howto": {
+                    "de-DE": "Überleben Sie 1 Angriffswelle in einem Spezialeinheit-Überleben-Spiel.",
+                    "en-US": "Survive 1 wave in a Special Ops Survival game.",
+                    "es-ES": "Sobrevive a 1 oleada en una partida de Supervivencia de Operaciones especiales.",
+                    "fr-FR": "Survivre à 1 vague dans une partie en mode Survie d'Opérations spéciales.",
+                    "it-IT": "Sopravvivi a un'ondata in una partita Operazioni speciali Sopravvivenza.",
+                    "pl-PL": "Przetrwaj 1 falę w trybie Przetrwanie operacji specjalnych.",
+                    "ru-RU": "Продержитесь 1 волну в спецоперациях в режиме Выживание.",
+                    "ja-JP": "スペシャルオプスのサバイバル・モードで1ウェーブを耐え抜く。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "44.png"
+        },
+        "184": {
+            "text": {
+                "name": {
+                    "de-DE": "Überlebender",
+                    "en-US": "Survivor",
+                    "es-ES": "Superviviente",
+                    "fr-FR": "Survivant",
+                    "it-IT": "Sopravvissuto",
+                    "pl-PL": "Ocalały",
+                    "ru-RU": "Выживший",
+                    "ja-JP": "生存者"
+                },
+                "description": {
+                    "de-DE": "Erreichen Sie Angriffswelle 10 in jeder Mission vom Spezialeinheit-Überlebensmodus.",
+                    "en-US": "Reach Wave 10 in each mission of Special Ops Survival mode.",
+                    "es-ES": "Alcanza la oleada 10 en cada misión del modo Supervivencia de Operaciones especiales.",
+                    "fr-FR": "Atteindre la vague 10 dans chaque mission du mode Survie d'Opérations spéciales.",
+                    "it-IT": "Sopravvivi a 10 ondate in ogni missione della modalità Operazioni speciali Sopravvivenza.",
+                    "pl-PL": "Przetrwaj do 10 fali w trybie Przetrwanie operacji specjalnych.",
+                    "ru-RU": "Переживите 10 волн в каждой миссии режима Выживание в спецоперациях.",
+                    "ja-JP": "スペシャルオプスのサバイバル・モードで、各ミッションの第10ウェーブに到達する。"
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie Angriffswelle 10 in jeder Mission vom Spezialeinheit-Überlebensmodus.",
+                    "en-US": "Reach Wave 10 in each mission of Special Ops Survival mode.",
+                    "es-ES": "Alcanza la oleada 10 en cada misión del modo Supervivencia de Operaciones especiales.",
+                    "fr-FR": "Atteindre la vague 10 dans chaque mission du mode Survie d'Opérations spéciales.",
+                    "it-IT": "Sopravvivi a 10 ondate in ogni missione della modalità Operazioni speciali Sopravvivenza.",
+                    "pl-PL": "Przetrwaj do 10 fali w trybie Przetrwanie operacji specjalnych.",
+                    "ru-RU": "Переживите 10 волн в каждой миссии режима Выживание в спецоперациях.",
+                    "ja-JP": "スペシャルオプスのサバイバル・モードで、各ミッションの第10ウェーブに到達する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "45.png"
+        },
+        "185": {
+            "text": {
+                "name": {
+                    "de-DE": "Unaufhaltsam",
+                    "en-US": "Unstoppable",
+                    "es-ES": "Imparable",
+                    "fr-FR": "Imbattable",
+                    "it-IT": "Inarrestabile",
+                    "pl-PL": "Niepowstrzymany",
+                    "ru-RU": "Неудержимый",
+                    "ja-JP": "アンストッパブル"
+                },
+                "description": {
+                    "de-DE": "Erreichen Sie Angriffswelle 15 in jeder Mission vom Spezialeinheit-Überlebensmodus.",
+                    "en-US": "Reach Wave 15 in each mission of Special Ops Survival mode.",
+                    "es-ES": "Alcanza la oleada 15 en cada misión del modo Supervivencia de Operaciones especiales.",
+                    "fr-FR": "Atteindre la vague 15 dans chaque mission du mode Survie d'Opérations spéciales.",
+                    "it-IT": "Sopravvivi a 15 ondate in ogni missione della modalità Operazioni speciali Sopravvivenza.",
+                    "pl-PL": "Przetrwaj do 15 fali w każdej operacji trybie Przetrwanie operacji specjalnych.",
+                    "ru-RU": "Переживите 15 волн в каждой миссии режима Выживание в спецоперациях.",
+                    "ja-JP": "スペシャルオプスのサバイバル・モードで、各ミッションの第15ウェーブに到達する。"
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie Angriffswelle 15 in jeder Mission vom Spezialeinheit-Überlebensmodus.",
+                    "en-US": "Reach Wave 15 in each mission of Special Ops Survival mode.",
+                    "es-ES": "Alcanza la oleada 15 en cada misión del modo Supervivencia de Operaciones especiales.",
+                    "fr-FR": "Atteindre la vague 15 dans chaque mission du mode Survie d'Opérations spéciales.",
+                    "it-IT": "Sopravvivi a 15 ondate in ogni missione della modalità Operazioni speciali Sopravvivenza.",
+                    "pl-PL": "Przetrwaj do 15 fali w każdej operacji trybie Przetrwanie operacji specjalnych.",
+                    "ru-RU": "Переживите 15 волн в каждой миссии режима Выживание в спецоперациях.",
+                    "ja-JP": "スペシャルオプスのサバイバル・モードで、各ミッションの第15ウェーブに到達する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "40",
+            "imageId": "46.png"
+        },
+        "186": {
+            "text": {
+                "name": {
+                    "de-DE": "Keine Hilfe erforderlich",
+                    "en-US": "No Assistance Required",
+                    "es-ES": "No necesitamos ayuda",
+                    "fr-FR": "Pas besoin d'aide",
+                    "it-IT": "Non c'è bisogno d'aiuto",
+                    "pl-PL": "Wsparcie niepotrzebne",
+                    "ru-RU": "Помощи не требуется",
+                    "ja-JP": "1人で十分"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie eine Mission im Spezialeinheit-Modus auf Söldner oder Veteran ohne verletzte Spieler.",
+                    "en-US": "Complete a Special Ops Mission Mode game on Hardened or Veteran with no player getting downed.",
+                    "es-ES": "Completa una misión de Operaciones especiales en curtido o veterano sin que ningún jugador caiga.",
+                    "fr-FR": "Terminer une mission d'Opérations spéciales en Commando ou Vétéran sans qu'aucun joueur ne soit tué.",
+                    "it-IT": "Completa una partita Operazioni speciali a liv. Esperto o Veterano senza che muoia alcun giocatore.",
+                    "pl-PL": "Ukończ misję op. specjal. na poz. trudności Doświadczony lub Weteran. Żaden gracz nie może zginąć.",
+                    "ru-RU": "Пройдите миссию спецопераций на уровне сложности Закаленный или Ветеран без тяжелых ранений.",
+                    "ja-JP": "スペシャルオプスのミッション・モードで、難易度ハードまたはベテランで、1度も死亡せずにクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie eine Mission im Spezialeinheit-Modus auf Söldner oder Veteran ohne verletzte Spieler.",
+                    "en-US": "Complete a Special Ops Mission Mode game on Hardened or Veteran with no player getting downed.",
+                    "es-ES": "Completa una misión de Operaciones especiales en curtido o veterano sin que ningún jugador caiga.",
+                    "fr-FR": "Terminer une mission d'Opérations spéciales en Commando ou Vétéran sans qu'aucun joueur ne soit tué.",
+                    "it-IT": "Completa una partita Operazioni speciali a liv. Esperto o Veterano senza che muoia alcun giocatore.",
+                    "pl-PL": "Ukończ misję op. Spec. na poziomie trudności Doświadczony lub Weteran. Żaden gracz nie może zginąć.",
+                    "ru-RU": "Пройдите миссию спецопераций на уровне сложности Закаленный или Ветеран без тяжелых ранений.",
+                    "ja-JP": "スペシャルオプスのミッション・モードで、難易度ハードまたはベテランで、1度も死亡せずにクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "47.png"
+        },
+        "187": {
+            "text": {
+                "name": {
+                    "de-DE": "Grund zum Stolz",
+                    "en-US": "Brag Rags",
+                    "es-ES": "Alardes justificados",
+                    "fr-FR": "Fanfaron",
+                    "it-IT": "Spacconate",
+                    "pl-PL": "Odznaczony",
+                    "ru-RU": "Побрякушки",
+                    "ja-JP": "従軍記章"
+                },
+                "description": {
+                    "de-DE": "Verdienen Sie 1 Stern in Spezialeinheit-Missionen.",
+                    "en-US": "Earn 1 star in Special Ops Mission Mode.",
+                    "es-ES": "Gana 1 estrella en el modo Misión de Operaciones especiales.",
+                    "fr-FR": "Obtenir 1 étoile dans le mode Mission d'Opérations spéciales.",
+                    "it-IT": "Ottieni 1 stella in modalità Operazioni speciali.",
+                    "pl-PL": "Zdobądź 1 gwiazdę w trybie operacji specjalnych.",
+                    "ru-RU": "Получите 1 звезду в спецоперациях в режиме прохождения миссий. ",
+                    "ja-JP": "スペシャルオプスのミッション・モードで、星を1つ獲得する。"
+                },
+                "howto": {
+                    "de-DE": "Verdienen Sie 1 Stern in Spezialeinheit-Missionen.",
+                    "en-US": "Earn 1 star in Special Ops Mission Mode.",
+                    "es-ES": "Gana 1 estrella en el modo Misión de Operaciones especiales.",
+                    "fr-FR": "Obtenir 1 étoile dans le mode Mission d'Opérations spéciales.",
+                    "it-IT": "Ottieni 1 stella in modalità Operazioni speciali.",
+                    "pl-PL": "Zdobądź 1 gwiazdę w trybie operacji specjalnych.",
+                    "ru-RU": "Получите 1 звезду в спецоперациях в режиме прохождения миссий. ",
+                    "ja-JP": "スペシャルオプスのミッション・モードで、星を1つ獲得する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "48.png"
+        },
+        "189": {
+            "text": {
+                "name": {
+                    "de-DE": "Taktiker",
+                    "en-US": "Tactician",
+                    "es-ES": "Táctico",
+                    "fr-FR": "Tacticien",
+                    "it-IT": "Tattico",
+                    "pl-PL": "Taktyk",
+                    "ru-RU": "Тактик",
+                    "ja-JP": "戦術家"
+                },
+                "description": {
+                    "de-DE": "Verdienen Sie 1 Stern in allen Spezialeinheit-Missionen.",
+                    "en-US": "Earn 1 star in each mission of Special Ops Mission Mode.",
+                    "es-ES": "Gana 1 estrella en cada misión del modo Misión de Operaciones especiales.",
+                    "fr-FR": "Obtenir 1 étoile dans chaque mission du mode Mission d'Opérations spéciales.",
+                    "it-IT": "Ottieni 1 stella in ogni missione della modalità Operazioni speciali.",
+                    "pl-PL": "Zdobądź 1 gwiazdę w każdej operacji w trybie operacji specjalnych.",
+                    "ru-RU": "Получите 1 звезду в каждой миссии режима Выживание в спецоперациях.",
+                    "ja-JP": "スペシャルオプスのミッション・モードで、各ミッションで1つずつ星を獲得する。"
+                },
+                "howto": {
+                    "de-DE": "Verdienen Sie 1 Stern in allen Spezialeinheit-Missionen.",
+                    "en-US": "Earn 1 star in each mission of Special Ops Mission Mode.",
+                    "es-ES": "Gana 1 estrella en cada misión del modo Misión de Operaciones especiales.",
+                    "fr-FR": "Obtenir 1 étoile dans chaque mission du mode Mission d'Opérations spéciales.",
+                    "it-IT": "Ottieni 1 stella in ogni missione della modalità Operazioni speciali.",
+                    "pl-PL": "Zdobądź 1 gwiazdę w każdej operacji w trybie operacji specjalnych.",
+                    "ru-RU": "Получите 1 звезду в каждой миссии режима Выживание в спецоперациях.",
+                    "ja-JP": "スペシャルオプスのミッション・モードで、各ミッションで1つずつ星を獲得する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "49.png"
+        },
+        "191": {
+            "text": {
+                "name": {
+                    "de-DE": "Überflieger",
+                    "en-US": "Overachiever",
+                    "es-ES": "Supercompensación",
+                    "fr-FR": "Gagnant",
+                    "it-IT": "Oltre le aspettative",
+                    "pl-PL": "Mistrzunio",
+                    "ru-RU": "Старательный",
+                    "ja-JP": "やり手"
+                },
+                "description": {
+                    "de-DE": "Verdienen Sie 48 Sterne in Spezialeinheit-Missionen.",
+                    "en-US": "Earn 48 stars in Special Ops Mission Mode.",
+                    "es-ES": "Gana 48 estrellas en el modo Misión de Operaciones especiales.",
+                    "fr-FR": "Obtenir 48 étoiles dans le mode Mission d'Opérations spéciales.",
+                    "it-IT": "Ottieni 48 stelle in modalità Operazioni speciali.",
+                    "pl-PL": "Zdobądź 48 gwiazd w trybie operacji specjalnych.",
+                    "ru-RU": "Получите 48 звезд в спецоперациях в режиме прохождения миссий.",
+                    "ja-JP": "スペシャルオプスのミッション・モードで、星を48個獲得する。"
+                },
+                "howto": {
+                    "de-DE": "Verdienen Sie 48 Sterne in Spezialeinheit-Missionen.",
+                    "en-US": "Earn 48 stars in Special Ops Mission Mode.",
+                    "es-ES": "Gana 48 estrellas en el modo Misión de Operaciones especiales.",
+                    "fr-FR": "Obtenir 48 étoiles dans le mode Mission d'Opérations spéciales.",
+                    "it-IT": "Ottieni 48 stelle in modalità Operazioni speciali.",
+                    "pl-PL": "Zdobądź 48 gwiazd w trybie operacji specjalnych.",
+                    "ru-RU": "Получите 48 звезд в спецоперациях в режиме прохождения миссий.",
+                    "ja-JP": "スペシャルオプスのミッション・モードにおいて、48個の星を獲得する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "50.png"
+        },
+        "192": {
+            "text": {
+                "name": {
+                    "de-DE": "Bleihaltige Argumente",
+                    "en-US": "Shotgun Diplomacy",
+                    "es-ES": "Diplomacia a escopetazos",
+                    "fr-FR": "Diplomatie explosive",
+                    "it-IT": "Diplomazia violenta",
+                    "pl-PL": "Strzelba zamiast dyplomacji",
+                    "ru-RU": "Дипломатия с шотганом",
+                    "ja-JP": "強行突破"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Der Unterhändler\" auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Complete the Special Ops mission \"Negotiator\" on any difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Los negociadores\" en cualquier dificultad.",
+                    "fr-FR": "Terminez la mission \"Les négociateurs\" (Opérations spéciales) dans n'importe quelle difficulté.",
+                    "it-IT": "Completa la missione Operazioni speciali \"I negoziatori\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Negocjatorzy\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Пройти спецоперацию \"Переговорщики\" на любом уровне сложности. ",
+                    "ja-JP": "スペシャルオプス “NEGOTIATOR” ミッションを いずれかの難易度で クリア"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Der Unterhändler\" auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Complete the Special Ops mission \"Negotiator\" on any difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Los negociadores\" en cualquier dificultad.",
+                    "fr-FR": "Terminez la mission \"Les négociateurs\" (Opérations spéciales) dans n'importe quelle difficulté.",
+                    "it-IT": "Completa la missione Operazioni speciali \"I negoziatori\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Negocjatorzy\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Пройти спецоперацию \"Переговорщики\" на любом уровне сложности. ",
+                    "ja-JP": "スペシャルオプス “NEGOTIATOR” ミッションを いずれかの難易度で クリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "51.png"
+        },
+        "193": {
+            "text": {
+                "name": {
+                    "de-DE": "Nur über meine Leiche",
+                    "en-US": "Not on My Watch",
+                    "es-ES": "No pienso permitirlo",
+                    "fr-FR": "Pas sur ma montre",
+                    "it-IT": "Liberi tutti",
+                    "pl-PL": "Nie na mojej warcie",
+                    "ru-RU": "Не в мою смену",
+                    "ja-JP": "俺の目が黒いうちは"
+                },
+                "description": {
+                    "de-DE": "Retten Sie alle Geiseln in der Spezialeinheit-Mission \"Der Unterhändler\".",
+                    "en-US": "Rescue all the hostages in the Special Ops mission \"Negotiator.\"",
+                    "es-ES": "Rescata a todos los rehenes de la misión de Operaciones especiales \"Los negociadores\".",
+                    "fr-FR": "Sauvez tous les otages dans la mission \"Les négociateurs\" (Opérations spéciales).",
+                    "it-IT": "Salva tutti gli ostaggi nella missione Operazioni Speciali \"I negoziatori\".",
+                    "pl-PL": "Uratuj wszystkich zakładników w misji operacji specjalnych \"Negocjatorzy\".",
+                    "ru-RU": "Спасти всех заложников в спецоперации \"Переговорщики\".",
+                    "ja-JP": "スペシャルオプス “NEGOTIATOR” ミッションで すべての 捕虜を 救出する"
+                },
+                "howto": {
+                    "de-DE": "Retten Sie alle Geiseln in der Spezialeinheit-Mission \"Der Unterhändler\".",
+                    "en-US": "Rescue all the hostages in the Special Ops mission \"Negotiator.\"",
+                    "es-ES": "Rescata a todos los rehenes de la misión de Operaciones especiales \"Los negociadores\".",
+                    "fr-FR": "Sauvez tous les otages dans la mission \"Les négociateurs\" (Opérations spéciales).",
+                    "it-IT": "Salva tutti gli ostaggi nella missione Operazioni Speciali \"I negoziatori\".",
+                    "pl-PL": "Uratuj wszystkich zakładników w misji operacji specjalnych \"Negocjatorzy\".",
+                    "ru-RU": "Спасти всех заложников в спецоперации \"Переговорщики\".",
+                    "ja-JP": "スペシャルオプス “NEGOTIATOR” ミッションで すべての 捕虜を 救出する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "35",
+            "imageId": "52.png"
+        },
+        "194": {
+            "text": {
+                "name": {
+                    "de-DE": "Erfahrener Unterhändler",
+                    "en-US": "Skilled Negotiator",
+                    "es-ES": "Negociador habilidoso",
+                    "fr-FR": "Négociateur confirmé",
+                    "it-IT": "Abile negoziatore",
+                    "pl-PL": "Doświadczony negocjator",
+                    "ru-RU": "Опытный переговорщик",
+                    "ja-JP": "優れた交渉人"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Der Unterhändler\" auf Veteran.",
+                    "en-US": "Complete the Special Ops mission \"Negotiator\" on Veteran difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Los negociadores\" en dificultad veterano.",
+                    "fr-FR": "Terminez la mission \"Les négociateurs\" (Opérations spéciales) en Vétéran.",
+                    "it-IT": "Completa la missione Operazioni speciali \"I negoziatori\" a livello Veterano.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Negocjatorzy\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройти спецоперацию \"Переговорщики\" на уровне сложности Ветеран. ",
+                    "ja-JP": "スペシャルオプス “NEGOTIATOR” ミッションを 難易度ベテランで クリア"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Der Unterhändler\" auf Veteran.",
+                    "en-US": "Complete the Special Ops mission \"Negotiator\" on Veteran difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Los negociadores\" en dificultad veterano.",
+                    "fr-FR": "Terminez la mission \"Les négociateurs\" (Opérations spéciales) en Vétéran.",
+                    "it-IT": "Completa la missione Operazioni speciali \"I negoziatori\" a livello Veterano.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Negocjatorzy\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройти спецоперацию \"Переговорщики\" на уровне сложности Ветеран. ",
+                    "ja-JP": "スペシャルオプス “NEGOTIATOR” ミッションを 難易度ベテランで クリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "53.png"
+        },
+        "195": {
+            "text": {
+                "name": {
+                    "de-DE": "Ganz schön rutschig",
+                    "en-US": "Slippery Slope",
+                    "es-ES": "Pendiente resbaladiza",
+                    "fr-FR": "Terrain glissant",
+                    "it-IT": "Ghiaccio secco",
+                    "pl-PL": "Śliska sprawa",
+                    "ru-RU": "Скользкое дело",
+                    "ja-JP": "滑り坂論法"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Glatteis\" auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Complete the \"Black Ice\" Special Ops mission on any difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Hielo negro\" en cualquier dificultad.",
+                    "fr-FR": "Terminez la mission \"Verglas\" (Opérations spéciales) dans n'importe quelle difficulté.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Ghiaccio Nero\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Czarny Lód\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Пройти спецоперацию \"Черный лед\" на любом уровне сложности. ",
+                    "ja-JP": "スペシャルオプス “BLACK ICE” ミッションを いずれかの難易度で クリア"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Glatteis\" auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Complete the \"Black Ice\" Special Ops mission on any difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Hielo negro\" en cualquier dificultad.",
+                    "fr-FR": "Terminez la mission \"Verglas\" (Opérations spéciales) dans n'importe quelle difficulté.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Ghiaccio Nero\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Czarny Lód\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Пройти спецоперацию \"Черный лед\" на любом уровне сложности. ",
+                    "ja-JP": "スペシャルオプス “BLACK ICE” ミッションを いずれかの難易度で クリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "54.png"
+        },
+        "196": {
+            "text": {
+                "name": {
+                    "de-DE": "13 auf einen Streich",
+                    "en-US": "A Baker's Dozen",
+                    "es-ES": "Docena extra",
+                    "fr-FR": "Treize à la douzaine",
+                    "it-IT": "Quella sporca dozzina più uno",
+                    "pl-PL": "Trzynastka",
+                    "ru-RU": "Чертова дюжина",
+                    "ja-JP": "パン屋の1ダース"
+                },
+                "description": {
+                    "de-DE": "Fahren Sie 13 Feinde mit dem Schneemobil in derSpezialeinheit-Mission \"Glatteis\" über den Haufen.",
+                    "en-US": "Run over and kill 13 enemies with the snowmobile in the \"Black Ice\" Special Ops mission.",
+                    "es-ES": "Atropella y mata a 13 enemigos con la moto de nieve en la misión de Op. especiales \"Hielo negro\".",
+                    "fr-FR": "Tuez 13 ennemis en leur roulant dessus en motoneige dans la mission \"Verglas\" Opérations spéciales.",
+                    "it-IT": "Investi e uccidi 13 nemici con la motoslitta nella missione Operazioni speciali \"Ghiaccio nero\".",
+                    "pl-PL": "Zabij 13 wrogów, potrącając ich skuterem śnieżnym w misji operacji specjalnych \"Czarny Lód\".",
+                    "ru-RU": "Задавить насмерть 13 врагов в спецоперации \"Черный лед\".",
+                    "ja-JP": "スペシャルオプス “BLACK ICE” ミッションで スノーモービルで 13人の 敵を 倒す"
+                },
+                "howto": {
+                    "de-DE": "Fahren Sie 13 Feinde mit dem Schneemobil in derSpezialeinheit-Mission \"Glatteis\" über den Haufen.",
+                    "en-US": "Run over and kill 13 enemies with the snowmobile in the \"Black Ice\" Special Ops mission.",
+                    "es-ES": "Atropella y mata a 13 enemigos con la moto de nieve en la misión de Op. especiales \"Hielo negro\".",
+                    "fr-FR": "Tuez 13 ennemis en leur roulant dessus en motoneige dans la mission \"Verglas\" Opérations spéciales.",
+                    "it-IT": "Investi e uccidi 13 nemici con la motoslitta nella missione Operazioni speciali \"Ghiaccio nero\".",
+                    "pl-PL": "Zabij 13 wrogów, potrącając ich skuterem śnieżnym w misji w operacjach specjalnych \"Czarny Lód\".",
+                    "ru-RU": "Задавить насмерть 13 врагов в спецоперации \"Черный лед\".",
+                    "ja-JP": "スペシャルオプス “BLACK ICE” ミッションで スノーモービルで 13人の 敵を 倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "35",
+            "imageId": "55.png"
+        },
+        "197": {
+            "text": {
+                "name": {
+                    "de-DE": "Eiskalt genießen",
+                    "en-US": "Ice in Your Veins",
+                    "es-ES": "Hielo en las venas",
+                    "fr-FR": "Sang-froid",
+                    "it-IT": "Ghiaccio nelle vene",
+                    "pl-PL": "Lód w żyłach",
+                    "ru-RU": "Застывшая кровь",
+                    "ja-JP": "冷徹なる者"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Glatteis\" auf Veteran.",
+                    "en-US": "Complete the \"Black Ice\" Special Ops mission on Veteran difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Hielo negro\" en dificultad veterano.",
+                    "fr-FR": "Terminer la mission \"Verglas\" (Opérations spéciales) en Vétéran.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Ghiaccio Nero\" a livello Veterano.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Czarny Lód\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройти спецоперацию \"Черный лед\" на уровне сложности Ветеран.",
+                    "ja-JP": "スペシャルオプス “BLACK ICE” ミッションを 難易度ベテランで クリア"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Glatteis\" auf Veteran.",
+                    "en-US": "Complete the \"Black Ice\" Special Ops mission on Veteran difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Hielo negro\" en dificultad veterano.",
+                    "fr-FR": "Terminer la mission \"Verglas\" (Opérations spéciales) en Vétéran.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Ghiaccio Nero\" a livello Veterano.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Czarny Lód\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройти спецоперацию \"Черный лед\" на уровне сложности Ветеран.",
+                    "ja-JP": "スペシャルオプス “BLACK ICE” ミッションを 難易度ベテランで クリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "35",
+            "imageId": "56.png"
+        },
+        "198": {
+            "text": {
+                "name": {
+                    "de-DE": "Kein Panzer-Knacker",
+                    "en-US": "Don't Tread on Me",
+                    "es-ES": "No me pases por encima",
+                    "fr-FR": "Ne me marche pas dessus",
+                    "it-IT": "Rispettami",
+                    "pl-PL": "Nie ma to jak gąsienice",
+                    "ru-RU": "Гусеницы",
+                    "ja-JP": "踏みにじるな！"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Der Panzer\" auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Complete the \"Iron Clad\" Special Ops mission on any difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Blindado\" en cualquier dificultad.",
+                    "fr-FR": "Terminez la mission \"Blindé\" (Opérations spéciales) dans n'importe quelle difficulté.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Corazzato\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Pancernik\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Пройти спецоперацию \"Броненосец\" на любом уровне сложности. ",
+                    "ja-JP": " 難易度にかかわらず “IRON CLAD” をクリアする"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Der Panzer\" auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Complete the \"Iron Clad\" Special Ops mission on any difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Blindado\" en cualquier dificultad.",
+                    "fr-FR": "Terminez la mission \"Blindé\" (Opérations spéciales) dans n'importe quelle difficulté.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Corazzato\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Pancernik\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Пройти спецоперацию \"Броненосец\" на любом уровне сложности. ",
+                    "ja-JP": " 難易度にかかわらず “IRON CLAD” をクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "57.png"
+        },
+        "199": {
+            "text": {
+                "name": {
+                    "de-DE": "Glücksspieler",
+                    "en-US": "High Roller",
+                    "es-ES": "Apisonadora",
+                    "fr-FR": "Flambeur",
+                    "it-IT": "Pezzo grosso",
+                    "pl-PL": "Ostra jazda",
+                    "ru-RU": "Железный марш",
+                    "ja-JP": "ハイ・ローラー"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Der Panzer\" auf Veteran.",
+                    "en-US": "Complete the \"Iron Clad\" Special Ops mission on Veteran difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Blindado\" en dificultad veterano.",
+                    "fr-FR": "Terminez la mission \"Blindé\" (Opérations spéciales) en Vétéran.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Corazzato\" a livello Veterano.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Pancernik\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройти спецоперацию \"Броненосец\" на уровне сложности Ветеран. ",
+                    "ja-JP": "スペシャルオプスミッション \"IRON CLAD\" を難易度ベテランでクリアする"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Der Panzer\" auf Veteran.",
+                    "en-US": "Complete the \"Iron Clad\" Special Ops mission on Veteran difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Blindado\" en dificultad veterano.",
+                    "fr-FR": "Terminez la mission \"Blindé\" (Opérations spéciales) en Vétéran.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Corazzato\" a livello Veterano.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Pancernik\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройти спецоперацию \"Броненосец\" на уровне сложности Ветеран. ",
+                    "ja-JP": "スペシャルオプスミッション \"IRON CLAD\" を難易度ベテランでクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "58.png"
+        },
+        "200": {
+            "text": {
+                "name": {
+                    "de-DE": "Nicht ein Kratzer",
+                    "en-US": "Not a Scratch",
+                    "es-ES": "Sin un rasguño",
+                    "fr-FR": "Pas une égratignure",
+                    "it-IT": "Nemmeno un graffio",
+                    "pl-PL": "Bez zadrapania",
+                    "ru-RU": "Как новенький",
+                    "ja-JP": "無傷"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Der Panzer\" mit einem vollkommen intakten Panzer.",
+                    "en-US": "Finish with your tank at full health in the \"Iron Clad\" Special Ops mission.",
+                    "es-ES": "Termina con la salud del tanque al completo en la misión de Operaciones especiales \"Blindado\".",
+                    "fr-FR": "Terminez la mission \"Blindé\" (Opérations spéciales) sans que votre char ne subisse de dégâts.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Corazzato\" con il carro illeso.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Pancernik\" zachowując pełną wytrzymałość czołgu.",
+                    "ru-RU": "Пройти спецоперацию \"Броненосец\" без повреждений вашего танка.",
+                    "ja-JP": "スペシャルオプスミッション \"IRON CLAD\" で、戦車にダメージを与えずにクリアする"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Der Panzer\" mit einem vollkommen intakten Panzer.",
+                    "en-US": "Finish with your tank at full health in the \"Iron Clad\" Special Ops mission.",
+                    "es-ES": "Termina con la salud del tanque al completo en la misión de Operaciones especiales \"Blindado\".",
+                    "fr-FR": "Terminez la mission \"Blindé\" (Opérations spéciales) sans que votre char ne subisse de dégâts.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Corazzato\" con il carro illeso.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Pancernik\" zachowując pełną wytrzymałość czołgu.",
+                    "ru-RU": "Пройти спецоперацию \"Броненосец\" без повреждений вашего танка.",
+                    "ja-JP": "スペシャルオプスミッション \"IRON CLAD\" で、戦車にダメージを与えずにクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "35",
+            "imageId": "59.png"
+        },
+        "201": {
+            "text": {
+                "name": {
+                    "de-DE": "Eins-Vier-Eins",
+                    "en-US": "One-Four-One",
+                    "es-ES": "Uno-Cuatro-Uno",
+                    "fr-FR": "Un-Quatre-Un",
+                    "it-IT": "Spegni la luce",
+                    "pl-PL": "Jeden-Cztery-Jeden",
+                    "ru-RU": "Один-Четыре-Один",
+                    "ja-JP": "ワン・フォー・ワン"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Notaus\" auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Complete the \"Kill Switch\" Special Ops mission on any difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Parada de emergencia\" en cualquier dificultad.",
+                    "fr-FR": "Terminez la mission \"Détonateur\" (Opérations spéciales) dans n'importe quelle difficulté.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Interruttore\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Odstrzał\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Пройти спецоперацию \"Выключатель\" на любом уровне сложности. ",
+                    "ja-JP": " 難易度にかかわらず “KILL SWITCH” をクリアする"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Notaus\" auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Complete the \"Kill Switch\" Special Ops mission on any difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Parada de emergencia\" en cualquier dificultad.",
+                    "fr-FR": "Terminez la mission \"Détonateur\" (Opérations spéciales) dans n'importe quelle difficulté.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Interruttore\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Odstrzał\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Пройти спецоперацию \"Выключатель\" на любом уровне сложности. ",
+                    "ja-JP": " 難易度にかかわらず “KILL SWITCH” をクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "60.png"
+        },
+        "202": {
+            "text": {
+                "name": {
+                    "de-DE": "Helipokalypse",
+                    "en-US": "Helipocalypse",
+                    "es-ES": "Helipocalipsis",
+                    "fr-FR": "Hélipocalypse",
+                    "it-IT": "Elipocalisse",
+                    "pl-PL": "Śmigłowcopokalipsa",
+                    "ru-RU": "Вертолетопокалипсис",
+                    "ja-JP": "ヘリポカリプス"
+                },
+                "description": {
+                    "de-DE": "Zerstören Sie 6 Helikopter in der Spezialeinheit-Mission \"Notaus\".",
+                    "en-US": "Destroy 6 helicopters in the \"Kill Switch\" Special Ops mission.",
+                    "es-ES": "Destruye 6 helicópteros en la misión de Operaciones especiales \"Parada de emergencia\".",
+                    "fr-FR": "Détruisez 6 hélicoptères dans la mission \"Détonateur\" (Opérations spéciales).",
+                    "it-IT": "Distruggi 6 elicotteri nella missione Operazioni speciali \"Interruttore\".",
+                    "pl-PL": "Zniszcz 6 śmigłowców w misji operacji specjalnych \"Odstrzał\".",
+                    "ru-RU": "Уничтожить 6 вертолетов в спецоперации \"Выключатель\".",
+                    "ja-JP": "スペシャルオプスミッション \"KILL SWITCH\" で、ヘリコプターを6機撃墜する"
+                },
+                "howto": {
+                    "de-DE": "Zerstören Sie 6 Helikopter in der Spezialeinheit-Mission \"Notaus\".",
+                    "en-US": "Destroy 6 helicopters in the \"Kill Switch\" Special Ops mission.",
+                    "es-ES": "Destruye 6 helicópteros en la misión de Operaciones especiales \"Parada de emergencia\".",
+                    "fr-FR": "Détruisez 6 hélicoptères dans la mission \"Détonateur\" (Opérations spéciales).",
+                    "it-IT": "Distruggi 6 elicotteri nella missione Operazioni speciali \"Interruttore\".",
+                    "pl-PL": "Zniszcz 6 śmigłowców w misji operacji specjalnych \"Odstrzał\".",
+                    "ru-RU": "Уничтожить 6 вертолетов в спецоперации \"Выключатель\".",
+                    "ja-JP": "スペシャルオプスミッション \"KILL SWITCH\" で、ヘリコプターを6機撃墜する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "61.png"
+        },
+        "203": {
+            "text": {
+                "name": {
+                    "de-DE": "Volles tEMPo",
+                    "en-US": "EMPressive...",
+                    "es-ES": "ImPEMsionante...",
+                    "fr-FR": "IEMpressionnant…",
+                    "it-IT": "EMPressionante...",
+                    "pl-PL": "To był impuls…",
+                    "ru-RU": "Исключительно...",
+                    "ja-JP": "EMPressive(インプレッシブ)"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Notaus\" auf Veteran.",
+                    "en-US": "Complete the \"Kill Switch\" Special Ops mission on Veteran difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Parada de emergencia\" en dificultad veterano.",
+                    "fr-FR": "Terminez la mission \"Détonateur\" (Opérations spéciales) en Vétéran.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Interruttore\" a livello Veterano.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Odstrzał\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройти спецоперацию \"Выключатель\" на уровне сложности Ветеран. ",
+                    "ja-JP": "スペシャルオプスミッション \"KILL SWITCH\" を難易度ベテランでクリアする"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Notaus\" auf Veteran.",
+                    "en-US": "Complete the \"Kill Switch\" Special Ops mission on Veteran difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Parada de emergencia\" en dificultad veterano.",
+                    "fr-FR": "Terminez la mission \"Détonateur\" (Opérations spéciales) en Vétéran.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Interruttore\" a livello Veterano.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Odstrzał\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройти спецоперацию \"Выключатель\" на уровне сложности Ветеран. ",
+                    "ja-JP": "スペシャルオプスミッション \"KILL SWITCH\" を難易度ベテランでクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "62.png"
+        },
+        "204": {
+            "text": {
+                "name": {
+                    "de-DE": "Cool bleiben",
+                    "en-US": "Stay Frosty",
+                    "es-ES": "Quédate helado",
+                    "fr-FR": "Froid polaire",
+                    "it-IT": "Cuore di ghiaccio",
+                    "pl-PL": "Zachowaj zimną krew",
+                    "ru-RU": "Хрустящий мороз",
+                    "ja-JP": "クールにいこう"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Arktisaufklärung\" auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Complete the \"Arctic Recon\" Special Ops mission on any difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Reconocimiento ártico\" en cualquier dificultad.",
+                    "fr-FR": "Terminez la mission \"Mission arctique\" (Opérations spéciales) dans n'importe quelle difficulté.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Ricognizione al polo\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Arktyczny zwiad\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Пройти спецоперацию \"Арктический патруль\" на любом уровне сложности. ",
+                    "ja-JP": "スペシャルオプスミッション \"ARCTIC RECON\" を クリア"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Arktisaufklärung\" auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Complete the \"Arctic Recon\" Special Ops mission on any difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Reconocimiento ártico\" en cualquier dificultad.",
+                    "fr-FR": "Terminez la mission \"Mission arctique\" (Opérations spéciales) dans n'importe quelle difficulté.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Ricognizione al polo\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Arktyczny zwiad\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Пройти спецоперацию \"Арктический патруль\" на любом уровне сложности. ",
+                    "ja-JP": "スペシャルオプスミッション \"ARCTIC RECON\" を クリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "63.png"
+        },
+        "205": {
+            "text": {
+                "name": {
+                    "de-DE": "Unter null",
+                    "en-US": "Sub Zero",
+                    "es-ES": "Bajo cero",
+                    "fr-FR": "Glacé jusqu'aux os",
+                    "it-IT": "Sotto zero",
+                    "pl-PL": "Zero absolutne",
+                    "ru-RU": "Ниже ноля",
+                    "ja-JP": "サブ・ゼロ"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Arktisaufklärung\" auf Veteran.",
+                    "en-US": "Complete the \"Arctic Recon\" Special Ops mission on Veteran difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Reconocimiento ártico\" en dificultad veterano.",
+                    "fr-FR": "Terminez la mission \"Mission arctique\" (Opérations spéciales) en Vétéran.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Ricognizione al polo\" a livello Veterano.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Arktyczny zwiad\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройти спецоперацию \"Арктический патруль\" на уровне сложности Ветеран. ",
+                    "ja-JP": "スペシャルオプスミッション \"ARCTIC RECON\" を 難易度 ベテランで クリア"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Arktisaufklärung\" auf Veteran.",
+                    "en-US": "Complete the \"Arctic Recon\" Special Ops mission on Veteran difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Reconocimiento ártico\" en dificultad veterano.",
+                    "fr-FR": "Terminez la mission \"Mission arctique\" (Opérations spéciales) en Vétéran.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Ricognizione al polo\" a livello Veterano.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Arktyczny zwiad\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройти спецоперацию \"Арктический патруль\" на уровне сложности Ветеран. ",
+                    "ja-JP": "スペシャルオプスミッション \"ARCTIC RECON\" を 難易度 ベテランで クリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "64.png"
+        },
+        "206": {
+            "text": {
+                "name": {
+                    "de-DE": "Eiseskälte",
+                    "en-US": "dr0n3d",
+                    "es-ES": "Droneado",
+                    "fr-FR": "Brise-glace",
+                    "it-IT": "Rompi il ghiaccio",
+                    "pl-PL": "Mrozoodporny",
+                    "ru-RU": "Дронификация",
+                    "ja-JP": "ドローン使い"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Arktisaufklärung\" unter 3:30.",
+                    "en-US": "Complete the \"Arctic Recon\" Special Ops mission in under 3:30.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Reconocimiento ártico\" en menos de 3:30.",
+                    "fr-FR": "Terminez la mission \"Mission arctique\" (Opérations spéciales) en moins de 3:30.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Ricognizione al polo\" in meno di 3:30.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Arktyczny zwiad\" w czasie krótszym niż 3:30.",
+                    "ru-RU": "Пройти спецоперацию \"Арктический патруль\" менее чем за 3:30.",
+                    "ja-JP": "スペシャルオプスミッション \"ARCTIC RECON\" を 3分30秒 以内に クリア"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Arktisaufklärung\" unter 3:30.",
+                    "en-US": "Complete the \"Arctic Recon\" Special Ops mission in under 3:30.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Reconocimiento ártico\" en menos de 3:30.",
+                    "fr-FR": "Terminez la mission \"Mission arctique\" (Opérations spéciales) en moins de 3:30.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Ricognizione al polo\" in meno di 3:30.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Arktyczny zwiad\" w czasie krótszym niż 3:30.",
+                    "ru-RU": "Пройти спецоперацию \"Арктический патруль\" менее чем за 3:30.",
+                    "ja-JP": "スペシャルオプスミッション \"ARCTIC RECON\" を 3分30秒 以内に クリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "35",
+            "imageId": "65.png"
+        },
+        "208": {
+            "text": {
+                "name": {
+                    "de-DE": "Spitze",
+                    "en-US": "Apex",
+                    "es-ES": "Apex",
+                    "fr-FR": "Sommet",
+                    "it-IT": "Apice",
+                    "pl-PL": "Wierzchołek",
+                    "ru-RU": "Апекс",
+                    "ja-JP": "テッペン"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Vertigo\" auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Complete the \"Vertigo\" Special Ops mission on any difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Vértigo\" en cualquier dificultad.",
+                    "fr-FR": "Terminez la mission \"Sueurs froides\" (Opérations spéciales) dans n'importe quelle difficulté.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Vertigine\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Zawrót głowy\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Пройти спецоперацию \"Вертиго\" на любом уровне сложности. ",
+                    "ja-JP": "スペシャルオプスミッション “VERTIGO”を いずれかの難易度で クリア"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Vertigo\" auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Complete the \"Vertigo\" Special Ops mission on any difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Vértigo\" en cualquier dificultad.",
+                    "fr-FR": "Terminez la mission \"Sueurs froides\" (Opérations spéciales) dans n'importe quelle difficulté.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Vertigine\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Zawrót głowy\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Пройти спецоперацию \"Вертиго\" на любом уровне сложности. ",
+                    "ja-JP": "スペシャルオプスミッション “VERTIGO”を いずれかの難易度で クリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "66.png"
+        },
+        "209": {
+            "text": {
+                "name": {
+                    "de-DE": "Höhepunkt",
+                    "en-US": "Pinnacle",
+                    "es-ES": "Cumbre",
+                    "fr-FR": "Apogée",
+                    "it-IT": "Picco",
+                    "pl-PL": "Na szczycie",
+                    "ru-RU": "Вершина",
+                    "ja-JP": "極致"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Vertigo\" auf Veteran.",
+                    "en-US": "Complete the \"Vertigo\" Special Ops mission on Veteran difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Vértigo\" en dificultad veterano.",
+                    "fr-FR": "Terminez la mission \"Sueurs froides\" (Opérations spéciales) en Vétéran.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Vertigine\" a livello Veterano.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Zawrót głowy\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройти спецоперацию \"Вертиго\" на уровне сложности Ветеран. ",
+                    "ja-JP": "スペシャルオプスミッション \"VERTIGO\" を 難易度 ベテランで クリア"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Vertigo\" auf Veteran.",
+                    "en-US": "Complete the \"Vertigo\" Special Ops mission on Veteran difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Vértigo\" en dificultad veterano.",
+                    "fr-FR": "Terminez la mission \"Sueurs froides\" (Opérations spéciales) en Vétéran.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Vertigine\" a livello Veterano.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Zawrót głowy\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройти спецоперацию \"Вертиго\" на уровне сложности Ветеран. ",
+                    "ja-JP": "スペシャルオプスミッション \"VERTIGO\" を 難易度 ベテランで クリア"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "67.png"
+        },
+        "210": {
+            "text": {
+                "name": {
+                    "de-DE": "Fliegenklatsche",
+                    "en-US": "Flyswatter",
+                    "es-ES": "Matamoscas",
+                    "fr-FR": "Tapette à mouches",
+                    "it-IT": "Schiacciamosche",
+                    "pl-PL": "Packa na muchy",
+                    "ru-RU": "Мухобойка",
+                    "ja-JP": "ハエタタキ"
+                },
+                "description": {
+                    "de-DE": "Zerstören Sie alle Helikopter in der Spezialeinheit-Mission \"Vertigo\".",
+                    "en-US": "Destroy all helicopters in the \"Vertigo\" Special Ops mission.",
+                    "es-ES": "Destruye todos los helicópteros en la misión de Operaciones especiales \"Vértigo\".",
+                    "fr-FR": "Détruisez tous les hélicoptères dans la mission \"Sueurs froides\" (Opérations spéciales).",
+                    "it-IT": "Distruggi tutti gli elicotteri nella missione Operazioni speciali \"Vertigine\".",
+                    "pl-PL": "Zniszcz wszystkie śmigłowce w misji operacji specjalnych \"Zawrót głowy\".",
+                    "ru-RU": "Уничтожить все вертолеты в спецоперации \"Вертиго\".",
+                    "ja-JP": "スペシャルオプスミッション \"VERTIGO\"で すべてのヘリを 破壊"
+                },
+                "howto": {
+                    "de-DE": "Zerstören Sie alle Helikopter in der Spezialeinheit-Mission \"Vertigo\".",
+                    "en-US": "Destroy all helicopters in the \"Vertigo\" Special Ops mission.",
+                    "es-ES": "Destruye todos los helicópteros en la misión de Operaciones especiales \"Vértigo\".",
+                    "fr-FR": "Détruisez tous les hélicoptères dans la mission \"Sueurs froides\" (Opérations spéciales).",
+                    "it-IT": "Distruggi tutti gli elicotteri nella missione Operazioni speciali \"Vertigine\".",
+                    "pl-PL": "Zniszcz wszystkie śmigłowce w misji operacji specjalnych \"Zawrót głowy\".",
+                    "ru-RU": "Уничтожить все вертолеты в спецоперации \"Вертиго\".",
+                    "ja-JP": "スペシャルオプスミッション \"VERTIGO\"で すべてのヘリを 破壊"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "68.png"
+        },
+        "211": {
+            "text": {
+                "name": {
+                    "de-DE": "Jugger oder Jugger-nicht",
+                    "en-US": "To Jugger or to Jugger-Naut",
+                    "es-ES": "Juggernaut o no Juggernaut",
+                    "fr-FR": "Histoire de Mastodonte",
+                    "it-IT": "Strage di juggernaut",
+                    "pl-PL": "Jest kolos - nie ma kolosa",
+                    "ru-RU": "Джаггер-нет",
+                    "ja-JP": "JGNハンター"
+                },
+                "description": {
+                    "de-DE": "Schalten Sie alle Juggernauts nach der Landung in d. Spezialeinh.-Mission \"Vertigo\" auf Veteran aus.",
+                    "en-US": "Kill all juggernauts after they land on Veteran difficulty in the \"Vertigo\" Special Ops mission.",
+                    "es-ES": "Mata a todos los Juggernauts tras aterrizar en la misión de Op. esp. \"Vértigo\" en dif. veterano. ",
+                    "fr-FR": "Tuez tous les Mastodontes dans la mission \"Sueurs froides\" (Opérations spéciales) en Vétéran.",
+                    "it-IT": "Uccidi tutti i juggernaut atterrati nella missione Operazioni speciali \"Vertigine\" a liv. Veterano.",
+                    "pl-PL": "Po tym jak wylądują, zniszcz wszystkie kolosy w misji \"Zawrót głowy\" na poziomie Weteran.",
+                    "ru-RU": "Убить всех джаггернаутов после их приземления в операции \"Вертиго\" на сложности Ветеран.",
+                    "ja-JP": "スペシャルオプスミッション \"VERTIGO\"の難易度ベテランで すべての ジャガーノートを 着地後に倒す"
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie alle Juggernauts nach der Landung in d. Spezialeinh.-Mission \"Vertigo\" auf Veteran aus.",
+                    "en-US": "Kill all juggernauts after they land on Veteran difficulty in the \"Vertigo\" Special Ops mission.",
+                    "es-ES": "Mata a todos los Juggernauts tras aterrizar en la misión de Op. esp. \"Vértigo\" en dif. veterano. ",
+                    "fr-FR": "Tuez tous les Mastodontes dans la mission \"Sueurs froides\" (Opérations spéciales) en Vétéran.",
+                    "it-IT": "Uccidi tutti i juggernaut atterrati nella missione Operazioni speciali \"Vertigine\" a liv. Veterano.",
+                    "pl-PL": "Po tym jak wylądują, zniszcz wszystkie kolosy w misji \"Zawrót głowy\" na poziomie Weteran.",
+                    "ru-RU": "Убить всех джаггернаутов после их приземления в операции \"Вертиго\" на сложности Ветеран.",
+                    "ja-JP": "スペシャルオプスミッション \"VERTIGO\"の難易度ベテランで すべての ジャガーノートを 着地後に倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "69.png"
+        },
+        "212": {
+            "text": {
+                "name": {
+                    "de-DE": "Vorsicht, zerbrechlich",
+                    "en-US": "Handle with Care",
+                    "es-ES": "Frágil",
+                    "fr-FR": "Contenu fragile",
+                    "it-IT": "Maneggiare con cura",
+                    "pl-PL": "Ostrożnie",
+                    "ru-RU": "Обращаться осторожно",
+                    "ja-JP": "取扱注意"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Expresslieferung\" auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Complete the \"Special Delivery\" Special Ops mission on any difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Entrega especial\" en cualquier dificultad.",
+                    "fr-FR": "Terminez la mission \"Livraison spéciale\" (Opérations spéciales) dans n'importe quelle difficulté.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Consegna speciale\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Przesyłka specjalna\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Пройти спецоперацию \"Спецпосылка\" на любом уровне сложности.",
+                    "ja-JP": "スペシャルオプスミッション \"SPECIAL DELIVERY\"をいずれかの難易度でクリアする "
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Expresslieferung\" auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Complete the \"Special Delivery\" Special Ops mission on any difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Entrega especial\" en cualquier dificultad.",
+                    "fr-FR": "Terminez la mission \"Livraison spéciale\" (Opérations spéciales) dans n'importe quelle difficulté.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Consegna speciale\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Przesyłka specjalna\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Пройти спецоперацию \"Спецпосылка\" на любом уровне сложности.",
+                    "ja-JP": "スペシャルオプスミッション \"SPECIAL DELIVERY\"をいずれかの難易度でクリアする "
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "70.png"
+        },
+        "213": {
+            "text": {
+                "name": {
+                    "de-DE": "Sie haben Post",
+                    "en-US": "Deliver This",
+                    "es-ES": "Entrega esto",
+                    "fr-FR": "Livraison express",
+                    "it-IT": "Pacco a sorpresa",
+                    "pl-PL": "Dostarcz to",
+                    "ru-RU": "Доставьте это",
+                    "ja-JP": "お届け物ですよ！"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Expresslieferung\" auf Veteran.",
+                    "en-US": "Complete the \"Special Delivery\" Special Ops mission on Veteran difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Entrega especial\" en dificultad veterano.",
+                    "fr-FR": "Terminez la mission \"Livraison spéciale\" (Opérations spéciales) en Vétéran.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Consegna speciale\" a livello Veterano.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Przesyłka specjalna\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройти спецоперацию \"Спецпосылка\" на уровне сложности Ветеран.",
+                    "ja-JP": "スペシャルオプスミッション \"SPECIAL DELIVERY\" を難易度ベテランでクリアする"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Expresslieferung\" auf Veteran.",
+                    "en-US": "Complete the \"Special Delivery\" Special Ops mission on Veteran difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Entrega especial\" en dificultad veterano.",
+                    "fr-FR": "Terminez la mission \"Livraison spéciale\" (Opérations spéciales) en Vétéran.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Consegna speciale\" a livello Veterano.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Przesyłka specjalna\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройти спецоперацию \"Спецпосылка\" на уровне сложности Ветеран.",
+                    "ja-JP": "スペシャルオプスミッション \"SPECIAL DELIVERY\" を難易度ベテランでクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "71.png"
+        },
+        "214": {
+            "text": {
+                "name": {
+                    "de-DE": "Vielseitger Käufer",
+                    "en-US": "Discriminating Buyer",
+                    "es-ES": "Comprador exigente",
+                    "fr-FR": "Consommateur averti",
+                    "it-IT": "Scelta mirata",
+                    "pl-PL": "Wybredny klient",
+                    "ru-RU": "Разборчивый покупатель",
+                    "ja-JP": "違いの分かるお客"
+                },
+                "description": {
+                    "de-DE": "Benutzen Sie sämtliche Vorräte genau einmal in der Spezialeinheit-Mission \"Expresslieferung\".",
+                    "en-US": "Use exactly one of each care package in the \"Special Delivery\" Special Ops mission.",
+                    "es-ES": "Usa exactamente un paquete de ayuda de cada tipo en la misión de Op. especiales \"Entrega especial\".",
+                    "fr-FR": "Utilisez un colis strat. de chaque type dans la mission \"Livraison spéciale\" (Opérations spéciales).",
+                    "it-IT": "Usa ogni approvvigionamento una sola volta nella missione Operazioni speciali \"Consegna speciale\".",
+                    "pl-PL": "Użyj tylko po 1 pakiecie pomocy każdego typu w misji operacji specjalnych \"Przesyłka specjalna\".",
+                    "ru-RU": "Использовать ровно по одному виду каждой посылки в спецоперации \"Спецпосылка\".",
+                    "ja-JP": "スペシャルオプスミッション “SPECIAL DELIVERY” で全ての救援物資をちょうど1回ずつ使用する"
+                },
+                "howto": {
+                    "de-DE": "Benutzen Sie sämtliche Vorräte genau einmal in der Spezialeinheit-Mission \"Expresslieferung\".",
+                    "en-US": "Use exactly one of each care package in the \"Special Delivery\" Special Ops mission.",
+                    "es-ES": "Usa exactamente un paquete de ayuda de cada tipo en la misión de Op. especiales \"Entrega especial\".",
+                    "fr-FR": "Utilisez un colis strat. de chaque type dans la mission \"Livraison spéciale\" (Opérations spéciales).",
+                    "it-IT": "Usa ogni approvvigionamento una sola volta nella missione Operazioni speciali \"Consegna speciale\".",
+                    "pl-PL": "Użyj tylko po 1 pakiecie pomocy każdego typu w misji operacji specjalnych \"Przesyłka specjalna\".",
+                    "ru-RU": "Использовать ровно по одному виду каждой посылки в спецоперации \"Спецпосылка\".",
+                    "ja-JP": "スペシャルオプスミッション “SPECIAL DELIVERY” で全ての救援物資をちょうど1回ずつ使用する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "72.png"
+        },
+        "215": {
+            "text": {
+                "name": {
+                    "de-DE": "Unantastbar",
+                    "en-US": "Untouchable",
+                    "es-ES": "Intocable",
+                    "fr-FR": "Intouchable",
+                    "it-IT": "Intoccabile",
+                    "pl-PL": "Niedotykalny",
+                    "ru-RU": "Неприкасаемый",
+                    "ja-JP": "アンタッチャブル"
+                },
+                "description": {
+                    "de-DE": "Benutzen Sie nur 1 Selbstwiederbelebungs-Vorrat in der Spezialeinheit-Mission \"Expresslieferung\".",
+                    "en-US": "Use only one self revive care package in the \"Special Delivery\" Special Ops mission.",
+                    "es-ES": "Usa solo un paquete Autorreanimar en la misión de Operaciones especiales \"Entrega especial\".",
+                    "fr-FR": "Utilisez une seule auto-résurrection dans la mission \"Livraison spéciale\" (Opérations spéciales).",
+                    "it-IT": "Usa solo un approvv. Autorianimazione nella missione Operazioni speciali \"Consegna speciale\".",
+                    "pl-PL": "W misji operacji specjalnych \"Przesyłka specjalna\" użyj tylko jednego pakietu samouzdrowienia.",
+                    "ru-RU": "Использовать только одно самооживление в спецоперации \"Спецпосылка\".",
+                    "ja-JP": "スペシャルオプスミッション \"SPECIAL DELIVERY\"で リバイブの 救援物資を 1度しか使わない"
+                },
+                "howto": {
+                    "de-DE": "Benutzen Sie nur 1 Selbstwiederbelebungs-Vorrat in der Spezialeinheit-Mission \"Expresslieferung\".",
+                    "en-US": "Use only one self revive care package in the \"Special Delivery\" Special Ops mission.",
+                    "es-ES": "Usa solo un paquete Autorreanimar en la misión de Operaciones especiales \"Entrega especial\".",
+                    "fr-FR": "Utilisez une seule auto-résurrection dans la mission \"Livraison spéciale\" (Opérations spéciales).",
+                    "it-IT": "Usa solo un approvv. Autorianimazione nella missione Operazioni speciali \"Consegna speciale\".",
+                    "pl-PL": "W misji operacji specjalnych \"Przesyłka specjalna\" użyj tylko jednego pakietu samouzdrowienia.",
+                    "ru-RU": "Использовать только одно самооживление в спецоперации \"Спецпосылка\".",
+                    "ja-JP": "スペシャルオプスミッション \"SPECIAL DELIVERY\"で リバイブの 救援物資を 1度しか使わない"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "73.png"
+        },
+        "216": {
+            "text": {
+                "name": {
+                    "de-DE": "Belagerung",
+                    "en-US": "Siege",
+                    "es-ES": "Asedio",
+                    "fr-FR": "Siège",
+                    "it-IT": "Assedio",
+                    "pl-PL": "Oblężenie",
+                    "ru-RU": "Осада",
+                    "ja-JP": "包囲網"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Feuer frei\" auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Complete the \"Light 'Em Up\" Special Ops mission on any difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Luces fuera\" en cualquier dificultad.",
+                    "fr-FR": "Terminez la mission \"Pleins feux\" (Opérations spéciales) dans n'importe quelle difficulté.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Illuminazione\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Podpal ich\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Пройти спецоперацию \"Прижать их!\" на любом уровне сложности.",
+                    "ja-JP": "スペシャルオプスミッション \"LIGHT 'EM UP\" をいずれかの難易度でクリアする "
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Feuer frei\" auf einem beliebigen Schwierigkeitsgrad.",
+                    "en-US": "Complete the \"Light 'Em Up\" Special Ops mission on any difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Luces fuera\" en cualquier dificultad.",
+                    "fr-FR": "Terminez la mission \"Pleins feux\" (Opérations spéciales) dans n'importe quelle difficulté.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Illuminazione\" a qualsiasi livello di difficoltà.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Podpal ich\" na dowolnym poziomie trudności.",
+                    "ru-RU": "Пройти спецоперацию \"Прижать их!\" на любом уровне сложности.",
+                    "ja-JP": "スペシャルオプスミッション \"LIGHT 'EM UP\" をいずれかの難易度でクリアする "
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "74.png"
+        },
+        "217": {
+            "text": {
+                "name": {
+                    "de-DE": "Licht aus",
+                    "en-US": "Lights Out",
+                    "es-ES": "Luces fuera",
+                    "fr-FR": "Couvre-feu",
+                    "it-IT": "Buio improvviso",
+                    "pl-PL": "Wyłączone światła",
+                    "ru-RU": "Туши свет",
+                    "ja-JP": "ライツ・アウト"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Feuer frei\" auf Veteran.",
+                    "en-US": "Complete the \"Light 'Em Up\" Special Ops mission on Veteran difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Luces fuera\" en dificultad veterano.",
+                    "fr-FR": "Terminez la mission \"Pleins feux\" (Opérations spéciales) en Vétéran.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Illuminazione\" a livello Veterano.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Podpal ich\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройти спецоперацию \"Прижать их!\" на уровне сложности Ветеран.",
+                    "ja-JP": "スペシャルオプスミッション \"LIGHT 'EM UP\" を難易度ベテランでクリアする"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die Spezialeinheit-Mission \"Feuer frei\" auf Veteran.",
+                    "en-US": "Complete the \"Light 'Em Up\" Special Ops mission on Veteran difficulty.",
+                    "es-ES": "Completa la misión de Operaciones especiales \"Luces fuera\" en dificultad veterano.",
+                    "fr-FR": "Terminez la mission \"Pleins feux\" (Opérations spéciales) en Vétéran.",
+                    "it-IT": "Completa la missione Operazioni speciali \"Illuminazione\" a livello Veterano.",
+                    "pl-PL": "Ukończ misję operacji specjalnych \"Podpal ich\" na poziomie trudności Weteran.",
+                    "ru-RU": "Пройти спецоперацию \"Прижать их!\" на уровне сложности Ветеран.",
+                    "ja-JP": "スペシャルオプスミッション \"LIGHT 'EM UP\" を難易度ベテランでクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "75.png"
+        },
+        "218": {
+            "text": {
+                "name": {
+                    "de-DE": "Vor der Nase",
+                    "en-US": "Deer in the Headlights",
+                    "es-ES": "Cegados",
+                    "fr-FR": "Sous les projecteurs",
+                    "it-IT": "Occhi sbarrati",
+                    "pl-PL": "Jeleń w świetle reflektorów",
+                    "ru-RU": "Слепой и мертвый",
+                    "ja-JP": "驚く間すら与えず"
+                },
+                "description": {
+                    "de-DE": "Stechen sie fünf betäubte Feinde hintereinander in der Spezialeinheit-Mission \"Feuer frei\" ab.",
+                    "en-US": "Stab five stunned enemies in a row in the \"Light 'Em Up\" Special Ops mission.",
+                    "es-ES": "Apuñala a cinco enemigos aturdidos seguidos en la misión de Operaciones especiales \"Luces fuera\".",
+                    "fr-FR": "Poignardez cinq ennemis étourdis d'affilée dans la mission \"Pleins feux\" (Opérations spéciales).",
+                    "it-IT": "Accoltella cinque nemici storditi di fila nella missione Operazioni speciali \"Illuminazione\".",
+                    "pl-PL": "Zadaj cios nożem pięciu ogłuszonym wrogom z rzędu w misji operacji specjalnych \"Podpal ich\".",
+                    "ru-RU": "Убить ножом пять оглушенных противников подряд в спецоперации \"Прижать их!\".",
+                    "ja-JP": "スペシャルオプスミッション \"LIGHT 'EM UP\" でスタン中の敵を5人連続でナイフキルする"
+                },
+                "howto": {
+                    "de-DE": "Stechen sie fünf betäubte Feinde hintereinander in der Spezialeinheit-Mission \"Feuer frei\" ab.",
+                    "en-US": "Stab five stunned enemies in a row in the \"Light 'Em Up\" Special Ops mission.",
+                    "es-ES": "Apuñala a cinco enemigos aturdidos seguidos en la misión de Operaciones especiales \"Luces fuera\".",
+                    "fr-FR": "Poignardez cinq ennemis étourdis d'affilée dans la mission \"Pleins feux\" (Opérations spéciales).",
+                    "it-IT": "Accoltella cinque nemici storditi di fila nella missione Operazioni speciali \"Illuminazione\".",
+                    "pl-PL": "Zadaj cios nożem pięciu ogłuszonym wrogom z rzędu w misji operacji specjalnych \"Podpal ich\".",
+                    "ru-RU": "Убить ножом пять оглушенных противников подряд в спецоперации \"Прижать их!\".",
+                    "ja-JP": "スペシャルオプスミッション \"LIGHT 'EM UP\" でスタン中の敵を5人連続でナイフキルする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "45",
+            "imageId": "76.png"
+        }
+    }
+}

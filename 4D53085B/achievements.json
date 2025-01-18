@@ -1,0 +1,2423 @@
+{
+    "Achievements": {
+        "64": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein Denkmal für all Ihre Sünden",
+                    "en-US": "A Monument to All Your Sins",
+                    "es-ES": "Monumento a tus pecados",
+                    "fr-FR": "À la gloire de tous vos péchés",
+                    "it-IT": "Un monumento ai tuoi peccati",
+                    "ja-JP": "償いの記念碑",
+                    "ko-KR": "당신들이 지은 죄의 산물",
+                    "pt-PT": "Um Monumento a Seus Pecados",
+                    "zh-CHT": "不朽之作"
+                },
+                "description": {
+                    "de-DE": "Jede Kampagnenmission allein auf 'Legendär' beendet.",
+                    "en-US": "Completed every mission in Halo: Reach alone, on Legendary.",
+                    "es-ES": "Has completado todas las misiones de Campaña en Legendaria en solitario.",
+                    "fr-FR": "Vous avez terminé en solo toutes les missions de Halo: Reach en Légendaire.",
+                    "it-IT": "Hai completato ogni missione di Halo: Reach in giocatore singolo, a difficoltà Leggendaria.",
+                    "ja-JP": "Halo: Reach の全ミッションを難易度レジェンド、シングルプレイでクリア",
+                    "ko-KR": "혼자서 전설 난이도로 모든 Halo: Reach 미션을 완료했습니다.",
+                    "pt-PT": "Concluiu cada missão do Halo: Reach sozinho, em Lendário.",
+                    "zh-CHT": "獨自一人完成 Halo: Reach 每個傳奇難度的任務。 "
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie jede Kampagnenmission allein auf 'Legendär'.",
+                    "en-US": "Complete each Campaign Mission on Legendary - alone.",
+                    "es-ES": "Completa todas las misiones de Campaña en Legendaria en solitario.",
+                    "fr-FR": "Terminez en solo toutes les missions de Campagne en Légendaire.",
+                    "it-IT": "Completa ogni missione della Campagna a difficoltà Leggendaria, in giocatore singolo.",
+                    "ja-JP": "キャンペーンの全ミッションを難易度レジェンド、シングルプレイでクリアする",
+                    "ko-KR": "혼자서 전설 난이도로 모든 Halo: Reach 미션을 완료하십시오.",
+                    "pt-PT": "Conclua cada missão Campanha em Lendário - sozinho.",
+                    "zh-CHT": "獨自一人完成 Halo: Reach 每個傳奇難度的任務。 "
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "150",
+            "imageId": "01.png"
+        },
+        "65": {
+            "text": {
+                "name": {
+                    "de-DE": "Götter sind stark",
+                    "en-US": "Gods Must Be Strong",
+                    "es-ES": "Los dioses deben ser fuertes",
+                    "fr-FR": "Les dieux doivent être forts",
+                    "it-IT": "Impresa sovrumana",
+                    "ja-JP": "全能の神",
+                    "ko-KR": "신은 강해야 한다",
+                    "pt-PT": "Os Deuses Têm Que Ser Fortes",
+                    "zh-CHT": "無敵之神"
+                },
+                "description": {
+                    "de-DE": "Kampagne auf 'Legendär' abgeschlossen.",
+                    "en-US": "Completed the Campaign on Legendary difficulty.",
+                    "es-ES": "Has superado la Campaña en dificultad Legendaria.",
+                    "fr-FR": "Vous avez terminé la Campagne en Légendaire.",
+                    "it-IT": "Hai completato la Campagna a difficoltà Leggendaria.",
+                    "ja-JP": "難易度レジェンドでキャンペーンをクリア",
+                    "ko-KR": "전설 난이도에서 모든 캠페인을 완료했습니다.",
+                    "pt-PT": "Concluiu a Campanha em dificuldade Lendário.",
+                    "zh-CHT": "以傳奇的難度完成戰役。"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie die Kampagne auf 'Legendär' ab.",
+                    "en-US": "Complete the Campaign on Legendary difficulty.",
+                    "es-ES": "Supera la Campaña en dificultad Legendaria.",
+                    "fr-FR": "Terminez la Campagne en Légendaire.",
+                    "it-IT": "Completa la Campagna a difficoltà Leggendaria.",
+                    "ja-JP": "難易度レジェンドでキャンペーンをクリアする",
+                    "ko-KR": "전설 난이도에서 모든 캠페인을 완료하십시오.",
+                    "pt-PT": "Conclua a Campanha em dificuldade Lendário.",
+                    "zh-CHT": "以傳奇的難度完成戰役。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "125",
+            "imageId": "02.png"
+        },
+        "66": {
+            "text": {
+                "name": {
+                    "de-DE": "Kaufen Sie sich was Schönes",
+                    "en-US": "Make it Drizzle",
+                    "es-ES": "Haz que llovizne",
+                    "fr-FR": "Et que ça pulse",
+                    "it-IT": "Fai qualche acquisto",
+                    "ja-JP": "補給庫デビュー",
+                    "ko-KR": "좀생이",
+                    "pt-PT": "Faça Garoar",
+                    "zh-CHT": "飄起小雨了"
+                },
+                "description": {
+                    "de-DE": "Ein Objekt in der Waffenkammer gekauft.",
+                    "en-US": "Purchased an item from the Armory.",
+                    "es-ES": "Has comprado un objeto en el arsenal.",
+                    "fr-FR": "Vous avez acheté un élément à l'Armurerie.",
+                    "it-IT": "Hai acquistato un oggetto nell'Armeria.",
+                    "ja-JP": "補給庫で任意のアイテムを購入",
+                    "ko-KR": "무기고에서 물건을 구입했습니다.",
+                    "pt-PT": "Comprou um item do Arsenal.",
+                    "zh-CHT": "從軍火庫中購買一項物品。"
+                },
+                "howto": {
+                    "de-DE": "Kaufen Sie ein beliebiges Objekt in der Waffenkammer.",
+                    "en-US": "Purchase any item from the Armory.",
+                    "es-ES": "Compra cualquier objeto en el arsenal.",
+                    "fr-FR": "Achetez n'importe quel élément à l'Armurerie.",
+                    "it-IT": "Acquista un oggetto qualsiasi nell'armeria.",
+                    "ja-JP": "補給庫で任意のアイテムを購入する",
+                    "ko-KR": "무기고에서 아무 아이템이나 구입하십시오.",
+                    "pt-PT": "Compre qualquer item do Arsenal.",
+                    "zh-CHT": "在軍火庫裡購買任何物品。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "67": {
+            "text": {
+                "name": {
+                    "de-DE": "Herr Doktor",
+                    "en-US": "Doctor, Doctor",
+                    "es-ES": "Doctor, doctor",
+                    "fr-FR": "Docteur, docteur",
+                    "it-IT": "Un dottore, un dottore",
+                    "ja-JP": "ドクター ドクター",
+                    "ko-KR": "의사 선생님",
+                    "pt-PT": "Doutor, Doutor",
+                    "zh-CHT": "醫生來了"
+                },
+                "description": {
+                    "de-DE": "Mit einem Medipack Leben nach Körperschaden wiederhergestellt.",
+                    "en-US": "Used a Health Pack to replenish life after taking body damage.",
+                    "es-ES": "Has usado un botiquín para recuperarte después de sufrir daños corporales.",
+                    "fr-FR": "Vous avez utilisé une trousse de soins pour récupérer de la vie après avoir subi des dégâts.",
+                    "it-IT": "Hai usato una ricarica di energia per ripristinare la tua salute dopo essere stato ferito.",
+                    "ja-JP": "ダメージを受けた後、ライフパックを使用してライフを回復した",
+                    "ko-KR": "부상을 입었을 때 구급약을 사용하여 생명을 회복했습니다.",
+                    "pt-PT": "Usou um kit de primeiros socorros para se reabastecer de vida depois de receber dano corporal.",
+                    "zh-CHT": "在受傷後使用醫藥包回復生命值。"
+                },
+                "howto": {
+                    "de-DE": "Stellen Sie mit einem Medipack Leben nach Körperschaden wieder her.",
+                    "en-US": "Use a Health Pack to recover life after taking body damage.",
+                    "es-ES": "Usa un botiquín para recuperarte después de sufrir daños corporales.",
+                    "fr-FR": "Utilisez une trousse de soins pour récupérer de la vie après avoir subi des dégâts.",
+                    "it-IT": "Usa una ricarica di energia per ripristinare la tua salute dopo essere stato ferito.",
+                    "ja-JP": "ダメージを受けた後、ライフパックを使用してライフを回復する",
+                    "ko-KR": "부상을 입었을 때 구급약을 사용하여 생명을 회복하십시오.",
+                    "pt-PT": "Use um kit de primeiros socorros para recuperar a vida depois de receber dano corporal.",
+                    "zh-CHT": "在受傷後使用醫藥包回復生命值。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "04.png"
+        },
+        "68": {
+            "text": {
+                "name": {
+                    "de-DE": "Sie bevorzugen wohl 45er",
+                    "en-US": "I See You Favor a .45",
+                    "es-ES": "Veo que te gusta el .45",
+                    "fr-FR": "Je vois que vous préférez le 45",
+                    "it-IT": "Ti devo un favore calibro.45",
+                    "ja-JP": "お気に入り",
+                    "ko-KR": "45 구경이 마음에 드셨군",
+                    "pt-PT": "Vejo Que Prefere um Calibre 45",
+                    "zh-CHT": "最愛 .45 手槍"
+                },
+                "description": {
+                    "de-DE": "10 Gegner in einer Sitzung in der Kampagne oder in Feuergefecht mit der M6G-Pistole ausgeschaltet.",
+                    "en-US": "Killed 10 enemies in a Firefight or Campaign session with the M6G pistol.",
+                    "es-ES": "Has matado a 10 enemigos en una partida de Tiroteo o de Campaña con la pistola M6G.",
+                    "fr-FR": "Vous avez tué 10 ennemis en une session Campagne ou Baptême du feu avec le pistolet M6G.",
+                    "it-IT": "Hai ucciso 10 nemici in una sessione di Sparatoria o Campagna con la pistola M6G.",
+                    "ja-JP": "ファイアファイトまたはキャンペーンで M6G ハンドガンにより 10 キル達成",
+                    "ko-KR": "캠페인 또는 사생결단에서 M6G 피스톨로 적 10명을 죽였습니다.",
+                    "pt-PT": "Matou 10 inimigos em uma sessão Tiroteio ou Campanha com a pistola M6G.",
+                    "zh-CHT": "在槍林彈雨或戰役中，以 M6G 手槍殺死 10 名敵人。"
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie 10 Gegner in einer Sitzung in Feuergefecht oder der Kampagne mit der M6G-Pistole aus.",
+                    "en-US": "Kill 10 Enemies in a Firefight or Campaign session with the M6G pistol.",
+                    "es-ES": "Mata a 10 enemigos en una partida de Tiroteo o de Campaña con la pistola M6G.",
+                    "fr-FR": "Tuez 10 ennemis en une session Campagne ou Baptême du feu avec le pistolet M6G.",
+                    "it-IT": "Uccidi 10 nemici in una sessione di Sparatoria o Campagna con la pistola M6G.",
+                    "ja-JP": "ファイアファイトまたはキャンペーンで M6G ハンドガンにより 10 キルを達成する",
+                    "ko-KR": "캠페인 또는 사생결단에서 M6G 피스톨로 적 10명을 죽이십시오.",
+                    "pt-PT": "Mate 10 inimigos em uma sessão Tiroteio ou Campanha com a pistola M6G.",
+                    "zh-CHT": "在槍林彈雨或戰役中，以 M6G 手槍殺死 10 名敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "69": {
+            "text": {
+                "name": {
+                    "de-DE": "Sie waren schon immer schneller",
+                    "en-US": "They've Always Been Faster",
+                    "es-ES": "Siempre han sido más rápidos",
+                    "fr-FR": "Toujours eux les plus rapides",
+                    "it-IT": "C'è sempre qualcuno più veloce",
+                    "ja-JP": "スピード ラン",
+                    "ko-KR": "놈들은 항상 빨랐지",
+                    "pt-PT": "Eles Sempre Foram Mais Rápidos",
+                    "zh-CHT": "健行者"
+                },
+                "description": {
+                    "de-DE": "Die 2. Mission geschafft, ohne ein Fahrzeug zu betreten.",
+                    "en-US": "Cleared the 2nd mission without setting foot in a drivable vehicle.",
+                    "es-ES": "Has completado la segunda misión sin pisar un vehículo.",
+                    "fr-FR": "Vous avez terminé la 2e mission sans mettre un pied dans un véhicule pilotable.",
+                    "it-IT": "Hai completato la seconda missione senza mettere piede su un veicolo.",
+                    "ja-JP": "一度も乗り物を使用せずに第 2 ミッションをクリア",
+                    "ko-KR": "탈것에 한 번도 탑승하지 않고 두 번째 미션을 완료했습니다.",
+                    "pt-PT": "Terminou a 2a missão sem entrar em um veículo dirigível.",
+                    "zh-CHT": "在未搭乘載具的情況下完成第二個任務。"
+                },
+                "howto": {
+                    "de-DE": "Schaffen Sie die 2. Mission, ohne ein Fahrzeug zu betreten.",
+                    "en-US": "Clear the 2nd mission without setting foot in a drivable vehicle.",
+                    "es-ES": "Completa la segunda misión sin pisar un vehículo.",
+                    "fr-FR": "Terminez la 2e mission sans mettre un pied dans un véhicule pilotable.",
+                    "it-IT": "Completa la seconda missione senza mettere piede su un veicolo.",
+                    "ja-JP": "一度も乗り物を使用せずに第 2 ミッションをクリアする",
+                    "ko-KR": "탈것에 한 번도 탑승하지 않고 두 번째 미션을 완료하십시오.",
+                    "pt-PT": "Termine a 2a missão sem entrar em um veículo dirigível.",
+                    "zh-CHT": "在未搭乘載具的情況下完成第二個任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "06.png"
+        },
+        "70": {
+            "text": {
+                "name": {
+                    "de-DE": "SAUBER BLEIBEN",
+                    "en-US": "KEEP IT CLEAN",
+                    "es-ES": "LIMPIEZA TOTAL",
+                    "fr-FR": "DU BEAU JEU",
+                    "it-IT": "TIENI SEMPRE PULITO",
+                    "ja-JP": "キープ クリーン",
+                    "ko-KR": "청결 제일",
+                    "pt-PT": "LIMPEZA",
+                    "zh-CHT": "橫掃千軍"
+                },
+                "description": {
+                    "de-DE": "7 Moas in der 2. Mission der Kampagne getötet.",
+                    "en-US": "Killed 7 Moa during the 2nd mission of the Campaign.",
+                    "es-ES": "Has matado a 7 Moa durante la segunda misión de la Campaña.",
+                    "fr-FR": "Vous avez tué 7 Moah dans la 2e mission de la Campagne.",
+                    "it-IT": "Hai ucciso 7 Moa durante la seconda missione della Campagna.",
+                    "ja-JP": "キャンペーンの第 2 ミッションでモアを 7 羽しとめた",
+                    "ko-KR": "캠페인 두 번째 미션에서 모아 7마리를 죽였습니다.",
+                    "pt-PT": "Matou 7 Moa durante a 2a missão da Campanha.",
+                    "zh-CHT": "在戰役的第二個任務中殺死 7 個野生動物。"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie 7 Moas in der 2. Mission der Kampagne.",
+                    "en-US": "Kill 7 Moa during the 2nd mission of the Campaign.",
+                    "es-ES": "Mata a 7 Moa durante la segunda misión de la Campaña.",
+                    "fr-FR": "Tuez 7 Moah dans la 2e mission de la Campagne.",
+                    "it-IT": "Uccidi 7 Moa durante la seconda missione della Campagna.",
+                    "ja-JP": "キャンペーンの第 2 ミッションでモアを 7 羽しとめる",
+                    "ko-KR": "캠페인 두 번째 미션에서 모아 7마리를 죽이십시오.",
+                    "pt-PT": "Mate 7 Moa durante a 2a missão da Campanha.",
+                    "zh-CHT": "在戰役的第二個任務中殺死 7 個野生動物。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "07.png"
+        },
+        "71": {
+            "text": {
+                "name": {
+                    "de-DE": "Eine elegante Waffe ...",
+                    "en-US": "An Elegant Weapon...",
+                    "es-ES": "Un arma elegante...",
+                    "fr-FR": "Une arme élégante...",
+                    "it-IT": "Un'arma elegante...",
+                    "ja-JP": "極上の武器",
+                    "ko-KR": "섬세한 무기",
+                    "pt-PT": "Uma Arma Elegante...",
+                    "zh-CHT": "優雅的武器"
+                },
+                "description": {
+                    "de-DE": "Mit dem DMR 10 Gegner in einer Sitzung in der Kampagne oder in Feuergefecht ausgeschaltet.",
+                    "en-US": "Killed 10 enemies in a Firefight or Campaign session with the DMR.",
+                    "es-ES": "Has matado a 10 enemigos en una partida de Tiroteo o de Campaña con el DMR.",
+                    "fr-FR": "Vous avez tué 10 ennemis en Campagne ou Baptême du feu avec le DMR.",
+                    "it-IT": "Hai ucciso 10 nemici in una sessione di Sparatoria o Campagna con il DMR.",
+                    "ja-JP": "ファイアファイトまたはキャンペーンで、DMR で 10 キル達成",
+                    "ko-KR": "캠페인 또는 사생결단에서 DMR로 적 10명을 죽였습니다.",
+                    "pt-PT": "Matou 10 inimigos em uma sessão Tiroteio ou Campanha com o DMR.",
+                    "zh-CHT": "在槍林彈雨或戰役中，以神射手步槍殺死 10 名敵人。"
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie mit dem DMR 10 Gegner in einer Sitzung in der Kampagne oder in Feuergefecht aus.",
+                    "en-US": "Kill 10 enemies in a Firefight or Campaign session with the DMR.",
+                    "es-ES": "Mata a 10 enemigos en una partida de Tiroteo o de Campaña con el DMR.",
+                    "fr-FR": "Tuez 10 ennemis dans une session Campagne ou Baptême du feu avec le DMR.",
+                    "it-IT": "Uccidi 10 nemici in una sessione di Sparatoria o Campagna con il DMR.",
+                    "ja-JP": "キャンペーンまたはファイアファイトで、DMR で 10 キルを達成する",
+                    "ko-KR": "캠페인 또는 사생결단에서 DMR로 적 10명을 죽이십시오.",
+                    "pt-PT": "Mate 10 inimigos em uam sessão Tiroteio ou Campanha com o DMR.",
+                    "zh-CHT": "在槍林彈雨或戰役中，以神射手步槍殺死 10 名敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "08.png"
+        },
+        "72": {
+            "text": {
+                "name": {
+                    "de-DE": "Wir fangen gerade erst an",
+                    "en-US": "We're Just Getting Started",
+                    "es-ES": "Solo es el comienzo",
+                    "fr-FR": "On vient à peine de commencer",
+                    "it-IT": "È solo l'inizio",
+                    "ja-JP": "ファースト ステップ",
+                    "ko-KR": "이제 시작이야",
+                    "pt-PT": "Só Estamos Começando",
+                    "zh-CHT": "熱身賽"
+                },
+                "description": {
+                    "de-DE": "Die 2. Mission auf 'Normal' oder schwerer beendet.",
+                    "en-US": "Completed the 2nd mission on Normal or harder.",
+                    "es-ES": "Has completado la segunda misión en Normal o superior.",
+                    "fr-FR": "Vous avez terminé la 2ème mission en Normal ou supérieur.",
+                    "it-IT": "Hai completato la seconda missione a livello Normale o superiore.",
+                    "ja-JP": "難易度ノーマル以上で第 2 ミッションをクリア",
+                    "ko-KR": "보통 이상의 난이도에서 두 번째 미션을 완료했습니다.",
+                    "pt-PT": "Concluiu a 2a missão em Normal ou mais difícil.",
+                    "zh-CHT": "你已經以正常以上的難度完成第二個任務。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die 2. Mission auf 'Normal' oder schwerer.",
+                    "en-US": "Complete the 2nd mission on Normal or harder.",
+                    "es-ES": "Completa la segunda misión en Normal o superior.",
+                    "fr-FR": "Terminez la 2ème mission en Normal ou supérieur.",
+                    "it-IT": "Completa la seconda missione a livello Normale o superiore.",
+                    "ja-JP": "難易度ノーマル以上で第 2 ミッションをクリアする",
+                    "ko-KR": "보통 이상의 난이도에서 두 번째 미션을 완료하십시오.",
+                    "pt-PT": "Conclua a 2a missão em Normal ou mais difícil.",
+                    "zh-CHT": "以正常以上的難度完成第二個任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "73": {
+            "text": {
+                "name": {
+                    "de-DE": "Zwei Leichen in einem Grab",
+                    "en-US": "Two Corpses in One Grave",
+                    "es-ES": "Dos cuerpos en una tumba",
+                    "fr-FR": "Deux cadavres dans une tombe",
+                    "it-IT": "Due cadaveri in una tomba",
+                    "ja-JP": "2 つの残骸",
+                    "ko-KR": "무덤은 한 개 시체는 두 개",
+                    "pt-PT": "Dois Cadáveres em Uma Tumba",
+                    "zh-CHT": "一箭雙鵰"
+                },
+                "description": {
+                    "de-DE": "In der 3. Mission 2 Fahrzeuge auf einmal mit dem Zielsucher ausgeschaltet.",
+                    "en-US": "Killed 2 vehicles at once with the Target Locator during the 3rd mission.",
+                    "es-ES": "Has destruido dos vehículos a la vez con el localizador de blancos durante la tercera misión.",
+                    "fr-FR": "Vous avez dégommé 2 véhicules en même temps avec le marqueur laser au cours de la 3ème mission.",
+                    "it-IT": "Hai annientato 2 veicoli simultaneamente con il dispositivo di puntamento durante la terza missione.",
+                    "ja-JP": "第 3 ミッション中にターゲットロケーターで 2 台の乗り物を同時に破壊",
+                    "ko-KR": "세 번째 미션에서 목표 조준기로 두 대의 탈것을 한 번에 해치웠습니다.",
+                    "pt-PT": "Destruiu 2 veículos de uma só vez com o Localizador de alvo durante a 3a missão.",
+                    "zh-CHT": "在第三個任務中以目標定位器一次破壞兩部載具。"
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie in der 3. Mission 2 Fahrzeuge auf einmal mit dem Zielsucher aus.",
+                    "en-US": "Kill 2 vehicles at once with the Target Locator during the 3rd mission.",
+                    "es-ES": "Destruye dos vehículos a la vez con el localizador de blancos durante la tercera misión.",
+                    "fr-FR": "Dégommez 2 véhicules en même temps avec le marqueur laser au cours de la 3ème mission.",
+                    "it-IT": "Annienta 2 veicoli simultaneamente con il dispositivo di puntamento durante la terza missione.",
+                    "ja-JP": "第 3 ミッション中にターゲットロケーターで 2 台の乗り物を同時に破壊する",
+                    "ko-KR": "세 번째 미션에서 목표 조준기로 두 대의 탈것을 한 번에 해치우십시오.",
+                    "pt-PT": "Destrua 2 veículos de uma só vez com o Localizador de alvo durante a 3a missão.",
+                    "zh-CHT": "在第三個任務中以目標定位器一次破壞兩部載具。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "10.png"
+        },
+        "74": {
+            "text": {
+                "name": {
+                    "de-DE": "Tauschtreff",
+                    "en-US": "Swap Meet",
+                    "es-ES": "Trueque",
+                    "fr-FR": "Transaction",
+                    "it-IT": "Mercatino",
+                    "ja-JP": "武器交換",
+                    "ko-KR": "화끈한 거래",
+                    "pt-PT": "Reunião de Troca",
+                    "zh-CHT": "各取所需"
+                },
+                "description": {
+                    "de-DE": "Waffen mit einer verbündeten KI in der Kampagne getauscht.",
+                    "en-US": "Traded weapons with an AI ally in Campaign.",
+                    "es-ES": "Has cambiado armas con un aliado de la IA en Campaña.",
+                    "fr-FR": "Armes échangées avec une IA alliée en Campagne.",
+                    "it-IT": "Hai scambiato delle armi con un alleato controllato dall'IA in Campagna.",
+                    "ja-JP": "キャンペーンで味方 AI と武器を交換した",
+                    "ko-KR": "캠페인에서 아군 AI와 무기를 교환했습니다.",
+                    "pt-PT": "Armas negociadas com um aliado IA em Campanha.",
+                    "zh-CHT": "在戰役中，與電腦控制的友軍交換武器。"
+                },
+                "howto": {
+                    "de-DE": "Tauschen Sie die Waffe mit einer verbündeten KI in der Kampagne.",
+                    "en-US": "Trade weapons with an AI ally in Campaign.",
+                    "es-ES": "Cambia armas con un aliado de la IA en Campaña.",
+                    "fr-FR": "Échangez vos armes avec une IA alliée en Campagne.",
+                    "it-IT": "Scambia delle armi con un alleato controllato dall'IA in Campagna.",
+                    "ja-JP": "キャンペーンで味方 AI と武器を交換する",
+                    "ko-KR": "캠페인에서 아군 AI와 무기를 교환하십시오.",
+                    "pt-PT": "Negocie armas com um aliado IA em Campanha.",
+                    "zh-CHT": "在戰役中，與電腦控制的友軍交換武器。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "75": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein Löffel Wummit",
+                    "en-US": "A Spoonful of Blamite",
+                    "es-ES": "Una cucharada de blamita",
+                    "fr-FR": "Chérie, ça va exploser",
+                    "it-IT": "Una dose di Blamite",
+                    "ja-JP": "スーパーコンビネーション",
+                    "ko-KR": "바늘의 저주",
+                    "pt-PT": "Uma Dose de Blamite",
+                    "zh-CHT": "千瘡百孔"
+                },
+                "description": {
+                    "de-DE": "10 Gegner in der Kampagne oder in Feuergefecht mit einer Konzentrationsexplosion ausgeschaltet.",
+                    "en-US": "Killed 10 enemies in Firefight or Campaign with a supercombine explosion.",
+                    "es-ES": "Has matado a 10 enemigos en Tiroteo o Campaña con una explosión supercombinada.",
+                    "fr-FR": "Vous avez tué 10 ennemis en Campagne ou Baptême du feu avec une explosion SuperCombine.",
+                    "it-IT": "Hai ucciso 10 nemici in Sparatoria o Campagna con un'esplosione supercombinata.",
+                    "ja-JP": "ファイアファイトまたはキャンペーンで、スーパーコンバインにより 10 キル達成",
+                    "ko-KR": "캠페인 또는 사생결단에서 합성 폭발로 적 10명을 죽였습니다.",
+                    "pt-PT": "Matou 10 inimigos em Tiroteio ou Campanha com uma explosão supercombinada.",
+                    "zh-CHT": "在槍林彈雨或戰役中，用連射殺死 10 名敵人。"
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie 10 Gegner in der Kampagne oder in Feuergefecht mit einer Konzentrationsexplosion aus.",
+                    "en-US": "Kill 10 enemies in Firefight or Campaign with a supercombine explosion.",
+                    "es-ES": "Mata a 10 enemigos en Tiroteo o Campaña con una explosión supercombinada.",
+                    "fr-FR": "Tuez 10 ennemis en Campagne ou Baptême du feu avec une explosion SuperCombine.",
+                    "it-IT": "Uccidi 10 nemici in Sparatoria o Campagna con un'esplosione supercombinata.",
+                    "ja-JP": "ファイアファイトまたはキャンペーンで、スーパーコンバインにより 10 キルを達成する",
+                    "ko-KR": "캠페인 또는 사생결단에서 합성 폭발로 적 10명을 죽이십시오.",
+                    "pt-PT": "Mate 10 inimigos em Tiroteio ou Campanha com uma explosão supercombinada.",
+                    "zh-CHT": "在槍林彈雨或戰役中，用連射殺死 10 名敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "12.png"
+        },
+        "76": {
+            "text": {
+                "name": {
+                    "de-DE": "Das Protokoll verlangt Aktion",
+                    "en-US": "Protocol Dictates Action",
+                    "es-ES": "El protocolo aconseja actuar",
+                    "fr-FR": "Le protocole régit l'action",
+                    "it-IT": "Segui il protocollo",
+                    "ja-JP": "プロトコルによる反撃",
+                    "ko-KR": "상명하복",
+                    "pt-PT": "O Protocolo Dita a Ação",
+                    "zh-CHT": "協議命令行動"
+                },
+                "description": {
+                    "de-DE": "Die 3. Mission auf 'Normal' oder schwerer beendet.",
+                    "en-US": "Completed the 3rd mission on Normal or harder.",
+                    "es-ES": "Has completado la tercera misión en Normal o superior.",
+                    "fr-FR": "Vous avez terminé la 3ème mission en Normal ou supérieur.",
+                    "it-IT": "Hai completato la terza missione a livello Normale o superiore.",
+                    "ja-JP": "難易度ノーマル以上で第 3 ミッションをクリア",
+                    "ko-KR": "보통 이상의 난이도에서 세 번째 미션을 완료했습니다.",
+                    "pt-PT": "Concluiu a 3a missão em Normal ou mais difícil.",
+                    "zh-CHT": "你已經以正常以上的難度完成第三個任務。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die 3. Mission auf 'Normal' oder schwerer.",
+                    "en-US": "Complete the 3rd mission on Normal or harder.",
+                    "es-ES": "Completa la tercera misión en Normal o superior.",
+                    "fr-FR": "Terminez la 3ème mission en Normal ou supérieur.",
+                    "it-IT": "Completa la terza missione a difficoltà Normale o superiore.",
+                    "ja-JP": "難易度ノーマル以上で第 3 ミッションをクリアする",
+                    "ko-KR": "보통 이상의 난이도에서 세 번째 미션을 완료하십시오.",
+                    "pt-PT": "Conclua a 3a missão em Normal ou mais difícil.",
+                    "zh-CHT": "以正常以上的難度完成第三個任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "13.png"
+        },
+        "77": {
+            "text": {
+                "name": {
+                    "de-DE": "Das ist ein Messer",
+                    "en-US": "That's a Knife",
+                    "es-ES": "Eso es una navaja",
+                    "fr-FR": "C'est un couteau",
+                    "it-IT": "Quello sì che è un coltello",
+                    "ja-JP": "シャープ ナイフ",
+                    "ko-KR": "쓱싹!",
+                    "pt-PT": "Isso É Uma Faca",
+                    "zh-CHT": "單刀直入"
+                },
+                "description": {
+                    "de-DE": "Einen Mordanschlag auf einen Gegner verübt.",
+                    "en-US": "Performed an Assassination on an enemy.",
+                    "es-ES": "Has asesinado a un enemigo.",
+                    "fr-FR": "Vous avez assassiné un ennemi.",
+                    "it-IT": "Hai eseguito un assassinio su un nemico.",
+                    "ja-JP": "敵を暗殺した",
+                    "ko-KR": "적을 암살했습니다.",
+                    "pt-PT": "Efetuou um Assassinato em um inimigo.",
+                    "zh-CHT": "刺殺一名敵人。"
+                },
+                "howto": {
+                    "de-DE": "Verüben Sie einen Mordanschlag auf einen Gegner.",
+                    "en-US": "Perform an Assassination on an enemy.",
+                    "es-ES": "Asesina a un enemigo.",
+                    "fr-FR": "Assassinez un ennemi.",
+                    "it-IT": "Esegui un assassinio su un nemico.",
+                    "ja-JP": "敵を暗殺する",
+                    "ko-KR": "적을 암살하십시오.",
+                    "pt-PT": "Efetue um Assassinato em um inimigo.",
+                    "zh-CHT": "刺殺一名敵人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "14.png"
+        },
+        "78": {
+            "text": {
+                "name": {
+                    "de-DE": "Ich brauche eine Waffe",
+                    "en-US": "I Need a Weapon",
+                    "es-ES": "Necesito un arma",
+                    "fr-FR": "Il me faut une arme",
+                    "it-IT": "Mi serve un'arma",
+                    "ja-JP": "パワフル ウェポン",
+                    "ko-KR": "무기가 필요해",
+                    "pt-PT": "Preciso de Uma Arma",
+                    "zh-CHT": "強力武器"
+                },
+                "description": {
+                    "de-DE": "Die 4. Mission auf 'Normal' oder schwerer beendet.",
+                    "en-US": "Completed the 4th mission on Normal or harder.",
+                    "es-ES": "Has completado la cuarta misión en Normal o superior.",
+                    "fr-FR": "Vous avez terminé la 4ème mission en Normal ou supérieur.",
+                    "it-IT": "Hai completato la quarta missione a livello Normale o superiore.",
+                    "ja-JP": "難易度ノーマル以上で第 4 ミッションをクリア",
+                    "ko-KR": "보통 이상의 난이도에서 네 번째 미션을 완료했습니다.",
+                    "pt-PT": "Concluiu a 4a missão em Normal ou mais difícil.",
+                    "zh-CHT": "你已經以正常以上的難度完成第四個任務。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die 4. Mission auf 'Normal' oder schwerer.",
+                    "en-US": "Complete the 4th mission on Normal or harder.",
+                    "es-ES": "Completa la cuarta misión en Normal o superior.",
+                    "fr-FR": "Terminez la 4ème mission en Normal ou supérieur.",
+                    "it-IT": "Completa la quarta missione a difficoltà Normale o superiore.",
+                    "ja-JP": "難易度ノーマル以上で第 4 ミッションをクリアする",
+                    "ko-KR": "보통 이상의 난이도에서 네 번째 미션을 완료하십시오.",
+                    "pt-PT": "Conclua a 4a missão em Normal ou mais difícil.",
+                    "zh-CHT": "以正常以上的難度完成第四個任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "15.png"
+        },
+        "79": {
+            "text": {
+                "name": {
+                    "de-DE": "Ihre Ketzerei wird Sie verfolgen",
+                    "en-US": "Your Heresy Will Stay Your Feet",
+                    "es-ES": "Tu herejía acabará contigo",
+                    "fr-FR": "Votre hérésie vous coûtera cher",
+                    "it-IT": "Riprenditi la tua eresia",
+                    "ja-JP": "ゼロット キル",
+                    "ko-KR": "두고 보자 이교도",
+                    "pt-PT": "Sua Heresia Paralisará Seus Pés",
+                    "zh-CHT": "消滅狂熱"
+                },
+                "description": {
+                    "de-DE": "In der 5. Mission den Elite-Zeloten ausgeschaltet, bevor er fliehen konnte.",
+                    "en-US": "Killed the Elite Zealot before he escaped during the 5th mission.",
+                    "es-ES": "Has matado al Zealot de élite antes de que escapase durante la quinta misión.",
+                    "fr-FR": "Vous avez tué le Dévot élite avant qu'il ne s'échappe au cours de la 5ème mission.",
+                    "it-IT": "Hai ucciso lo Zealot Elite prima che fuggisse durante la quinta missione.",
+                    "ja-JP": "第 5 ミッション中にエリートゼロットを倒した",
+                    "ko-KR": "다섯 번째 미션에서 엘리트 질럿이 탈출하기 전에 죽였습니다.",
+                    "pt-PT": "Matou o Elite Zealot antes de ele fugir, durante a 5a missão.",
+                    "zh-CHT": "你已經在第五個任務中，趁精英狂戰士逃走之前殺了他。"
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie in der 5. Mission den Elite-Zeloten aus, bevor er fliehen kann.",
+                    "en-US": "Kill the Elite Zealot before he can escape during the 5th mission.",
+                    "es-ES": "Mata al Zealot de élite antes de que escape durante la quinta misión.",
+                    "fr-FR": "Tuez le Dévot élite avant qu'il ne s'échappe au cours de la 5ème mission.",
+                    "it-IT": "Uccidi lo Zealot Elite prima che fugga durante la quinta missione.",
+                    "ja-JP": "第 5 ミッション中にエリートゼロットを倒す",
+                    "ko-KR": "다섯 번째 미션에서 엘리트 질럿이 탈출하기 전에 죽이십시오.",
+                    "pt-PT": "Mate o Elite Zealot antes que ele fuja, durante a 5a missão.",
+                    "zh-CHT": "在第五個任務中，趁精英狂戰士逃走之前殺了他。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "16.png"
+        },
+        "80": {
+            "text": {
+                "name": {
+                    "de-DE": "In den Krieg",
+                    "en-US": "To War",
+                    "es-ES": "A la guerra",
+                    "fr-FR": "C'est la guerre",
+                    "it-IT": "Alla guerra",
+                    "ja-JP": "戦争への突入",
+                    "ko-KR": "전장으로",
+                    "pt-PT": "Para a Guerra",
+                    "zh-CHT": "開戰"
+                },
+                "description": {
+                    "de-DE": "Die 5. Mission auf 'Normal' oder schwerer beendet.",
+                    "en-US": "Completed the 5th mission on Normal or harder.",
+                    "es-ES": "Has completado la quinta misión en Normal o superior.",
+                    "fr-FR": "Vous avez terminé la 5ème mission en Normal ou supérieur.",
+                    "it-IT": "Hai completato la quinta missione a livello Normale o superiore.",
+                    "ja-JP": "難易度ノーマル以上で第 5 ミッションをクリア",
+                    "ko-KR": "보통 이상의 난이도에서 다섯 번째 미션을 완료했습니다.",
+                    "pt-PT": "Concluiu a 5a missão em Normal ou mais difícil.",
+                    "zh-CHT": "你已經以正常以上的難度完成第五個任務。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die 5. Mission auf 'Normal' oder schwerer.",
+                    "en-US": "Complete the 5th mission on Normal or harder.",
+                    "es-ES": "Completa la quinta misión en Normal o superior.",
+                    "fr-FR": "Terminez la 5ème mission en Normal ou supérieur.",
+                    "it-IT": "Completa la quinta missione a difficoltà Normale o superiore.",
+                    "ja-JP": "難易度ノーマル以上で第 5 ミッションをクリアする",
+                    "ko-KR": "보통 이상의 난이도에서 다섯 번째 미션을 완료하십시오.",
+                    "pt-PT": "Conclua a 5a missão em Normal ou mais difícil.",
+                    "zh-CHT": "以正常以上的難度完成第五個任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "17.png"
+        },
+        "81": {
+            "text": {
+                "name": {
+                    "de-DE": "Aufwachen, Liebling",
+                    "en-US": "Wake Up, Buttercup",
+                    "es-ES": "Despierta, dormilón",
+                    "fr-FR": "Debout, joli bouton d'or",
+                    "it-IT": "Sveglia!",
+                    "ja-JP": "電撃作戦",
+                    "ko-KR": "우리 귀염둥이",
+                    "pt-PT": "Acorde, Lindinho",
+                    "zh-CHT": "閃電戰術"
+                },
+                "description": {
+                    "de-DE": "Triebwerke und Corvette-Eskorte in 6. Mission in unter 3 Min. ausgeschaltet (mind. 'Heldenhaft').",
+                    "en-US": "Destroyed the Corvette's engines & escort in under 3 minutes in the 6th mission on Heroic or harder.",
+                    "es-ES": "Has destruido motores y escolta de corbeta en menos de 3 min en la sexta misión, Heroica/superior.",
+                    "fr-FR": "Moteurs Corvette et escorte détruits en moins de 3 min dans la 6e mission en Héroïque ou supérieure.",
+                    "it-IT": "Propulsori della Corvette & scorta distrutti in meno di 3 m in missione 6 a diff. Eroica o sup.",
+                    "ja-JP": "難易度アドバンス以上で、第 6 ミッション中にコルベットのエンジンと護衛機を 3 分以内に破壊した",
+                    "ko-KR": "영웅 이상 난이도 여섯 번째 미션에서 3분 안에 초계함 엔진과 호위를 제거했습니다.",
+                    "pt-PT": "Destruiu: motores da corveta & acompanhante em menos de 3 minutos (6a missão, Heróico/mais difícil).",
+                    "zh-CHT": "在第六個任務中，以英雄以上的難度於 3 分鐘內摧毀 Corvette 引擎及護衛機。"
+                },
+                "howto": {
+                    "de-DE": "Triebwerke und Corvette-Eskorte in 6. Mission in unter 3 Min. ausschalten (mind. 'Heldenhaft').",
+                    "en-US": "Destroy the Corvette's engines & escort in under 3 minutes in the 6th mission on Heroic or harder.",
+                    "es-ES": "Destruye motores y escolta de la corbeta en menos de 3 min en la sexta misión, Heroica/superior.",
+                    "fr-FR": "Détruire moteurs Corvette et escorte en moins de 3 min dans la 6e mission en Héroïque ou supérieure.",
+                    "it-IT": "Distruggi i propulsori Corvette & scorta in meno di 3 m in missione 6 a diff. Eroica o sup..",
+                    "ja-JP": "難易度アドバンス以上で、第 6 ミッション中にコルベットのエンジンと護衛機を 3 分以内に破壊する",
+                    "ko-KR": "영웅 이상 난이도 여섯 번째 미션에서 3분 안에 초계함 엔진과 호위를 제거하십시오.",
+                    "pt-PT": "Destrua: motores da corveta & acompanhante em menos de 3 minutos (6a missão, Heróico/mais difícil).",
+                    "zh-CHT": "在第六個任務中，以英雄以上的難度於 3 分鐘內摧毀 Corvette 引擎及護衛機。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "18.png"
+        },
+        "82": {
+            "text": {
+                "name": {
+                    "de-DE": "Sie fliegen ziemlich gut",
+                    "en-US": "You Flew Pretty Good",
+                    "es-ES": "Has volado muy bien",
+                    "fr-FR": "Vous volez sacrément bien",
+                    "it-IT": "Te la cavi bene in volo",
+                    "ja-JP": "グッド フライト",
+                    "ko-KR": "제법 잘 나는군",
+                    "pt-PT": "Você Voou Bastante Bem",
+                    "zh-CHT": "飛翔好手"
+                },
+                "description": {
+                    "de-DE": "Die 6. Mission auf 'Normal' oder schwerer beendet.",
+                    "en-US": "Completed the 6th mission on Normal or harder.",
+                    "es-ES": "Has completado la sexta misión en Normal o superior.",
+                    "fr-FR": "Vous avez terminé la 6ème mission en Normal ou supérieur.",
+                    "it-IT": "Hai completato la sesta missione a livello Normale o superiore.",
+                    "ja-JP": "難易度ノーマル以上で第 6 ミッションをクリア",
+                    "ko-KR": "보통 이상의 난이도에서 여섯 번째 미션을 완료했습니다.",
+                    "pt-PT": "Concluiu a 6a missão em Normal ou mais difícil.",
+                    "zh-CHT": "你已經以正常以上的難度完成第六個任務。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die 6. Mission auf 'Normal' oder schwerer.",
+                    "en-US": "Complete the 6th mission on Normal or harder.",
+                    "es-ES": "Completa la sexta misión en Normal o superior.",
+                    "fr-FR": "Terminez la 6ème mission en Normal ou supérieur.",
+                    "it-IT": "Completa la sesta missione a livello Normale o superiore.",
+                    "ja-JP": "難易度ノーマル以上で第 6 ミッションをクリアする",
+                    "ko-KR": "보통 이상의 난이도에서 여섯 번째 미션을 완료하십시오.",
+                    "pt-PT": "Conclua a 6a missão em Normal ou mais difícil.",
+                    "zh-CHT": "以正常以上的難度完成第六個任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "19.png"
+        },
+        "83": {
+            "text": {
+                "name": {
+                    "de-DE": "Ich Glückspilz",
+                    "en-US": "Lucky Me",
+                    "es-ES": "Qué suerte tengo",
+                    "fr-FR": "Une sacrée veine",
+                    "it-IT": "Che fortuna",
+                    "ja-JP": "ラッキー ミー",
+                    "ko-KR": "난 운도 좋지",
+                    "pt-PT": "Sorte Minha",
+                    "zh-CHT": "幸運者"
+                },
+                "description": {
+                    "de-DE": "Einen dreifachen Abschuss mit Jetpack in Kampagne, Spielersuche oder Feuergefecht verdient.",
+                    "en-US": "Earned a Triple Kill while Jetpacking in Campaign, Firefight or Matchmaking.",
+                    "es-ES": "Has conseguido un triple abatido desde una mochila cohete en Campaña, Tiroteo o Matchmaking.",
+                    "fr-FR": "Vous avez gagné un triple frag avec le jetpack en Campagne, Baptême du feu ou Matchmaking.",
+                    "it-IT": "Hai ottenuto una Tripla uccisione usando il jetpack nella Campagna, in Sparatoria o Matchmaking.",
+                    "ja-JP": "キャンペーン、ファイアファイト、マッチメイキングのいずれかでジェットパック使用中に Triple Kill を達成",
+                    "ko-KR": "캠페인, 사생결단, 또는 매치메이킹에서 제트팩을 쓰면서 한 번에 세 명 잡음을 달성했습니다.",
+                    "pt-PT": "Ganhou uma morte tripla enquanto usava o jetpack em Campanha, Tiroteio ou Organizar um Jogo.",
+                    "zh-CHT": "在戰役、槍林彈雨或配對裡，在使用噴射推進器時完成三殺。"
+                },
+                "howto": {
+                    "de-DE": "Verdienen Sie einen dreifachen Abschuss mit Jetpack in Kampagne, Spielersuche oder Feuergefecht.",
+                    "en-US": "Earn a Triple Kill while Jetpacking in Campaign, Firefight or Matchmaking.",
+                    "es-ES": "Consigue un triple abatido desde una mochila cohete en Campaña, Tiroteo o Matchmaking.",
+                    "fr-FR": "Gagnez un triple frag avec le jetpack en Campagne, Baptême du feu ou Matchmaking.",
+                    "it-IT": "Ottieni una Tripla uccisione usandoil jetpack nella Campagna, in Sparatoria o Matchmaking.",
+                    "ja-JP": "キャンペーン、ファイアファイト、マッチメイキングのいずれかでジェットパック使用中に Triple Kill を達成する",
+                    "ko-KR": "캠페인, 사생결단, 또는 매치메이킹에서 제트팩을 쓰면서 한 번에 세 명 잡음을 달성하십시오.",
+                    "pt-PT": "Ganhe uma morte tripla enquanto usa o jetpack em Campanha, Tiroteio ou Organizar um Jogo.",
+                    "zh-CHT": "在戰役、槍林彈雨或配對裡，在使用噴射推進器時完成三殺。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "20.png"
+        },
+        "84": {
+            "text": {
+                "name": {
+                    "de-DE": "Reise in die Dunkelheit",
+                    "en-US": "Into the Howling Dark",
+                    "es-ES": "A la aullante oscuridad",
+                    "fr-FR": "Dans les ténèbres hurlants",
+                    "it-IT": "Nell'oscurità",
+                    "ja-JP": "イントゥ ザ ダーク",
+                    "ko-KR": "울부짖는 어둠 속으로",
+                    "pt-PT": "Para Dentro da Escuridão Uivante",
+                    "zh-CHT": "狂嘯之夜"
+                },
+                "description": {
+                    "de-DE": "Die 7. Mission auf 'Normal' oder schwerer beendet.",
+                    "en-US": "Completed the 7th mission on Normal or harder.",
+                    "es-ES": "Has completado la séptima misión en Normal o superior.",
+                    "fr-FR": "Vous avez terminé la 7ème mission en Normal ou supérieur.",
+                    "it-IT": "Hai completato la settima missione a livello Normale o superiore.",
+                    "ja-JP": "難易度ノーマル以上で第 7 ミッションをクリア",
+                    "ko-KR": "보통 이상의 난이도에서 일곱 번째 미션을 완료했습니다.",
+                    "pt-PT": "Concluiu a 7a missão em Normal ou mais difícil.",
+                    "zh-CHT": "你已經以正常以上的難度完成第七個任務。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die 7. Mission auf 'Normal' oder schwerer.",
+                    "en-US": "Complete the 7th mission on Normal or harder.",
+                    "es-ES": "Completa la séptima misión en Normal o superior.",
+                    "fr-FR": "Terminez la 7ème mission en Normal ou supérieur.",
+                    "it-IT": "Completa la settima missione a livello Normale o superiore.",
+                    "ja-JP": "難易度ノーマル以上で第 7 ミッションをクリアする",
+                    "ko-KR": "보통 이상의 난이도에서 일곱 번째 미션을 완료하십시오.",
+                    "pt-PT": "Concluia a 7a missão em Normal ou mais difícil.",
+                    "zh-CHT": "以正常以上的難度完成第七個任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "21.png"
+        },
+        "85": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Anfang ist geschafft",
+                    "en-US": "The Start of Something",
+                    "es-ES": "El principio de algo",
+                    "fr-FR": "Le début de quelque chose",
+                    "it-IT": "Così tutto ha avuto inizio",
+                    "ja-JP": "始まりの予感",
+                    "ko-KR": "뭔가의 시작",
+                    "pt-PT": "O Início de Algo",
+                    "zh-CHT": "成功的開端"
+                },
+                "description": {
+                    "de-DE": "Den Rang Corporal im UNSC erreicht.",
+                    "en-US": "Reached the rank of Corporal in the UNSC.",
+                    "es-ES": "Has alcanzado el rango de cabo en la UNSC.",
+                    "fr-FR": "Vous avez atteint le rang de caporal à l'UNSC.",
+                    "it-IT": "Hai raggiunto il rango di caporale nel CST.",
+                    "ja-JP": "UNSC コーポラル ランクに到達",
+                    "ko-KR": "UNSC군 상병이 되었습니다.",
+                    "pt-PT": "Alcançou o posto de Cabo no UNSC.",
+                    "zh-CHT": "成為 UNSC 裡的下士。"
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie den Rang Corporal im UNSC.",
+                    "en-US": "Reach the rank of Corporal in the UNSC.",
+                    "es-ES": "Alcanza el rango de cabo en la UNSC.",
+                    "fr-FR": "Atteignez le rang de caporal à l'UNSC.",
+                    "it-IT": "Raggiungi il rango di caporale nel CST.",
+                    "ja-JP": "UNSC コーポラル ランクに到達する",
+                    "ko-KR": "UNSC군 상병이 되십시오.",
+                    "pt-PT": "Alcance o posto de Cabo no UNSC.",
+                    "zh-CHT": "成為 UNSC 裡的下士。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "15",
+            "imageId": "22.png"
+        },
+        "86": {
+            "text": {
+                "name": {
+                    "de-DE": "Ich wollte kein Pilot werden",
+                    "en-US": "I Didn't Train to Be a Pilot",
+                    "es-ES": "Nunca aprendí a pilotar",
+                    "fr-FR": "Je maîtrise pas le pilotage",
+                    "it-IT": "Non dovevo fare il pilota",
+                    "ja-JP": "即席パイロット",
+                    "ko-KR": "난 파일럿이 아냐",
+                    "pt-PT": "Eu Não Estudei para Ser Piloto",
+                    "zh-CHT": "我入伍可不是要來當飛行員的"
+                },
+                "description": {
+                    "de-DE": "Drei der Flakbatterien in der 8. Mission ausgeschaltet.",
+                    "en-US": "Killed 3 of the anti-aircraft batteries during the 8th mission.",
+                    "es-ES": "Has destruido 3 baterías antiaéreas durante la octava misión.",
+                    "fr-FR": "Vous avez détruit 3 batteries anti-air dans la 8e mission.",
+                    "it-IT": "Hai annientato 3 batterie antiaeree durante l'ottava missione.",
+                    "ja-JP": "第 8 ミッションで敵のシェイドタレットを 3 基破壊した",
+                    "ko-KR": "여덟 번째 미션에서 3대의 대공포를 제거했습니다.",
+                    "pt-PT": "Destruiu 3 baterias antiaéreas durante a 8a missão.",
+                    "zh-CHT": "在第八個任務中摧毀 3 個高射砲。"
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie drei der Flakbatterien in der 8. Mission aus.",
+                    "en-US": "Kill 3 of the anti-aircraft batteries during the 8th mission.",
+                    "es-ES": "Destruye 3 baterías antiaéreas durante la octava misión.",
+                    "fr-FR": "Détruisez 3 batteries anti-air dans la 8e mission.",
+                    "it-IT": "Annienta 3 batterie antiaeree durante l'ottava missione.",
+                    "ja-JP": "第 8 ミッションで敵のシェイドタレットを 3 基破壊する",
+                    "ko-KR": "여덟 번째 미션에서 3대의 대공포를 제거하십시오.",
+                    "pt-PT": "Destrua 3 baterias antiaéreas durante a 8a missão.",
+                    "zh-CHT": "在第八個任務中摧毀 3 個高射砲。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "23.png"
+        },
+        "87": {
+            "text": {
+                "name": {
+                    "de-DE": "Staub und Echos",
+                    "en-US": "Dust and Echoes",
+                    "es-ES": "Polvo y ecos",
+                    "fr-FR": "Poussière et écho",
+                    "it-IT": "Polvere ed echi",
+                    "ja-JP": "ダスト アンド エコーズ",
+                    "ko-KR": "먼지와 메아리",
+                    "pt-PT": "Poeira e Ecos",
+                    "zh-CHT": "塵土與回音"
+                },
+                "description": {
+                    "de-DE": "Die 8. Mission auf 'Normal' oder schwerer beendet.",
+                    "en-US": "Completed the 8th mission on Normal or harder.",
+                    "es-ES": "Has completado la octava misión en Normal o superior.",
+                    "fr-FR": "Vous avez terminé la 8ème mission en Normal ou supérieur.",
+                    "it-IT": "Hai completato l'ottava missione a livello Normale o superiore.",
+                    "ja-JP": "難易度ノーマル以上で第 8 ミッションをクリア",
+                    "ko-KR": "보통 이상의 난이도에서 여덟 번째 미션을 완료했습니다.",
+                    "pt-PT": "Concluiu a 8a missão em Normal ou mais difícil.",
+                    "zh-CHT": "你已經以正常以上的難度完成第八個任務。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die 8. Mission auf 'Normal' oder schwerer.",
+                    "en-US": "Complete the 8th mission on Normal or harder.",
+                    "es-ES": "Completa la octava misión en Normal o superior.",
+                    "fr-FR": "Terminez la 8ème mission en Normal ou supérieur.",
+                    "it-IT": "Completa l'ottava missione a difficoltà Normale o superiore.",
+                    "ja-JP": "難易度ノーマル以上で第 8 ミッションをクリアする",
+                    "ko-KR": "보통 이상의 난이도에서 여덟 번째 미션을 완료하십시오.",
+                    "pt-PT": "Concluia a 8a missão em Normal ou mais difícil.",
+                    "zh-CHT": "以正常以上的難度完成第八個任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "24.png"
+        },
+        "88": {
+            "text": {
+                "name": {
+                    "de-DE": "Panzer sind das Beste",
+                    "en-US": "Tank Beats Everything",
+                    "es-ES": "El tanque gana",
+                    "fr-FR": "Un char, ça déchire tout",
+                    "it-IT": "I carri vincono sempre",
+                    "ja-JP": "マイティー タンク",
+                    "ko-KR": "탱크가 최고야",
+                    "pt-PT": "Tanque Ganha de Qualquer Coisa",
+                    "zh-CHT": "坦克大獲全勝"
+                },
+                "description": {
+                    "de-DE": "Die 9. Mission auf 'Legendär' beendet, ohne den Scorpion zu beschädigen.",
+                    "en-US": "Finished the 9th mission on Legendary with the Scorpion intact.",
+                    "es-ES": "Has completado la novena misión en Legendaria con el Scorpion intacto.",
+                    "fr-FR": "Vous avez terminé la 9ème mission en Légendaire avec le scorpion intact.",
+                    "it-IT": "Hai completato la nona missione a difficoltà Leggendaria lasciando lo Scorpion intatto.",
+                    "ja-JP": "難易度レジェンドでスコーピオンが無傷のまま第 9 ミッションをクリア",
+                    "ko-KR": "아홉 번째 미션을 전설 난이도로 스콜피온이 무사한 상태에서 완료했습니다.",
+                    "pt-PT": "Terminou a 9a missão em Lendário com o Scorpion intacto.",
+                    "zh-CHT": "以傳奇的難度，在天蠍號完好無損的情況下完成第九個任務。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die 9. Mission auf 'Legendär', ohne den Scorpion zu beschädigen.",
+                    "en-US": "Finish the 9th mission on Legendary with the Scorpion intact.",
+                    "es-ES": "Completa la novena misión en Legendaria con el Scorpion intacto.",
+                    "fr-FR": "Terminez la 9ème mission en Légendaire avec le scorpion intact.",
+                    "it-IT": "Completa la nona missione a difficoltà Leggendaria lasciando lo Scorpion intatto.",
+                    "ja-JP": "難易度レジェンドでスコーピオンが無傷のまま第 9 ミッションをクリアする",
+                    "ko-KR": "아홉 번째 미션을 전설 난이도로 스콜피온이 무사한 상태에서 완료하십시오.",
+                    "pt-PT": "Termine a 9a missão em Lendário com o Scorpion intacto.",
+                    "zh-CHT": "以傳奇的難度，在天蠍號完好無損的情況下完成第九個任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "25.png"
+        },
+        "89": {
+            "text": {
+                "name": {
+                    "de-DE": "Banshees, schnell und tief",
+                    "en-US": "Banshees, Fast and Low",
+                    "es-ES": "Banshee rápidos y a baja altura",
+                    "fr-FR": "Banshees, rapides et furtifs",
+                    "it-IT": "All'arrem-banshee!",
+                    "ja-JP": "ファスト バンシー",
+                    "ko-KR": "빠르고 낮게 나는 밴시",
+                    "pt-PT": "Banshees, Rápido e Baixo",
+                    "zh-CHT": "低空略過的妖姬號"
+                },
+                "description": {
+                    "de-DE": "Einen Banshee in der Reach-Kampagne gekapert.",
+                    "en-US": "Hijacked a Banshee during the Reach Campaign.",
+                    "es-ES": "Has secuestrado un Banshee durante la campaña de Reach.",
+                    "fr-FR": "Vous avez intercepté un banshee au cours de la Campagne Reach.",
+                    "it-IT": "Hai dirottato un Banshee durante la Campagna di Reach.",
+                    "ja-JP": "キャンペーンをプレイ中にバンシーを乗っ取った",
+                    "ko-KR": "Reach 캠페인에서 밴시를 탈취했습니다.",
+                    "pt-PT": "Sequestrou um Banshee durante a Campanha Reach.",
+                    "zh-CHT": "在瑞曲戰役中劫持妖姬號。"
+                },
+                "howto": {
+                    "de-DE": "Kapern Sie einen Banshee in der Reach-Kampagne.",
+                    "en-US": "Hijack a Banshee during the Reach Campaign.",
+                    "es-ES": "Secuestra un Banshee durante la campaña de Reach.",
+                    "fr-FR": "Interceptez un banshee au cours de la Campagne Reach.",
+                    "it-IT": "Dirotta un Banshee durante la Campagna di Reach.",
+                    "ja-JP": "キャンペーンをプレイ中にバンシーを乗っ取る",
+                    "ko-KR": "Reach 캠페인에서 밴시를 탈취하십시오.",
+                    "pt-PT": "Sequestre um Banshee durante a Campanha Reach.",
+                    "zh-CHT": "在瑞曲戰役中劫持妖姬號。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "26.png"
+        },
+        "90": {
+            "text": {
+                "name": {
+                    "de-DE": "Das ist nicht Ihr Grab ...",
+                    "en-US": "This is Not Your Grave...",
+                    "es-ES": "Ésta no es tu tumba...",
+                    "fr-FR": "Ce n'est pas votre tombe...",
+                    "it-IT": "Questa non sarà la tua tomba...",
+                    "ja-JP": "戦いは続く",
+                    "ko-KR": "여긴 네 무덤이 아니야",
+                    "pt-PT": "Esta Não É Sua Cova...",
+                    "zh-CHT": "這不是你的墳墓..."
+                },
+                "description": {
+                    "de-DE": "Die 9. Mission auf 'Normal' oder schwerer beendet.",
+                    "en-US": "Completed the 9th mission on Normal or harder.",
+                    "es-ES": "Has completado la novena misión en Normal o superior.",
+                    "fr-FR": "Vous avez terminé la 9ème mission en Normal ou supérieur.",
+                    "it-IT": "Hai completato la nona missione a livello Normale o superiore.",
+                    "ja-JP": "難易度ノーマル以上で第 9 ミッションをクリア",
+                    "ko-KR": "보통 이상의 난이도에서 아홉 번째 미션을 완료했습니다.",
+                    "pt-PT": "Concluiu a 9a missão em Normal ou mais difícil.",
+                    "zh-CHT": "你已經以正常以上的難度完成第九個任務。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die 9. Mission auf 'Normal' oder schwerer.",
+                    "en-US": "Complete the 9th mission on Normal or harder.",
+                    "es-ES": "Completa la novena misión en Normal o superior.",
+                    "fr-FR": "Terminez la 9ème mission en Normal ou supérieur.",
+                    "it-IT": "Completa la nona missione a livello Normale o superiore.",
+                    "ja-JP": "難易度ノーマル以上で第 9 ミッションをクリアする",
+                    "ko-KR": "보통 이상의 난이도에서 아홉 번째 미션을 완료하십시오.",
+                    "pt-PT": "Concluiua a 9a missão em Normal ou mais difícil.",
+                    "zh-CHT": "以正常以上的難度完成第九個任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "27.png"
+        },
+        "91": {
+            "text": {
+                "name": {
+                    "de-DE": "Ich werde nicht jammern",
+                    "en-US": "If They Came to Hear Me Beg",
+                    "es-ES": "Si escucharan mis ruegos",
+                    "fr-FR": "Ils m'entendront pas supplier",
+                    "it-IT": "Vogliono sentirmi supplicare",
+                    "ja-JP": "想定外",
+                    "ko-KR": "나는 쓰러지지 않아",
+                    "pt-PT": "Se Ele Me Ouvissem Implorar",
+                    "zh-CHT": "出乎預料"
+                },
+                "description": {
+                    "de-DE": "Einen Mordanschlag auf einen Eliten verübt, um einen sonst tödlichen Sturz zu überleben.",
+                    "en-US": "Performed an Assassination against an Elite to survive a fall that would've been fatal.",
+                    "es-ES": "Has ejecutado el asesinato de un élite para sobrevivir a una caída fatal.",
+                    "fr-FR": "Vous avez assassiné une Élite pour survivre à une chute qui vous aurait été fatale.",
+                    "it-IT": "Hai compiuto un assassinio ai danni di un Elite per sopravvivere a una caduta fatale.",
+                    "ja-JP": "エリートを暗殺して墜落死を免れた",
+                    "ko-KR": "엘리트를 암살하고 위험한 추락에서 살아남았습니다.",
+                    "pt-PT": "Efetuou um Assassinato contra um Elite para sobreviver a uma queda que teria sido fatal.",
+                    "zh-CHT": "在致命的墜落中，藉由執行精英刺殺行動存活下來。"
+                },
+                "howto": {
+                    "de-DE": "Verüben Sie einen Mordanschlag auf einen Eliten, um einen sonst tödlichen Sturz zu überleben.",
+                    "en-US": "Perform an Assassination against an Elite to survive a fall that would've been fatal.",
+                    "es-ES": "Ejecuta el asesinato de un élite para sobrevivir a una caída fatal.",
+                    "fr-FR": "Assassiné une Élite pour survivre à une chute qui vous aurait été fatale.",
+                    "it-IT": "Compi un assassinio ai danni di un Elite per sopravvivere a una caduta fatale.",
+                    "ja-JP": "エリートを暗殺して墜落死を免れる",
+                    "ko-KR": "엘리트를 암살하고 위험한 추락에서 살아남으십시오.",
+                    "pt-PT": "Efetue um Assassinato contra um Elite para sobreviver a uma queda que teria sido fatal.",
+                    "zh-CHT": "在致命的墜落中，藉由執行精英刺殺行動存活下來。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "28.png"
+        },
+        "92": {
+            "text": {
+                "name": {
+                    "de-DE": "Auf geht's ... mit Gebrüll",
+                    "en-US": "Send Me Out... with a Bang",
+                    "es-ES": "Acaba conmigo... de un disparo",
+                    "fr-FR": "Partir... avec fracas",
+                    "it-IT": "Partenza col botto...",
+                    "ja-JP": "行かせてくれ 一発で",
+                    "ko-KR": "나를 멀리 보내주오",
+                    "pt-PT": "Expulse-me... com uma Explosão",
+                    "zh-CHT": "戰士不死"
+                },
+                "description": {
+                    "de-DE": "Die 10. Mission auf 'Normal' oder schwerer beendet.",
+                    "en-US": "Completed the 10th mission on Normal or harder.",
+                    "es-ES": "Has completado la décima misión en Normal o superior.",
+                    "fr-FR": "Vous avez terminé la 10ème mission en Normal ou supérieur.",
+                    "it-IT": "Hai completato la decima missione a livello normale o superiore.",
+                    "ja-JP": "難易度ノーマル以上で第 10 ミッションをクリア",
+                    "ko-KR": "보통 이상의 난이도에서 열 번째 미션을 완료했습니다.",
+                    "pt-PT": "Concluiu a 10a missão em Normal ou mais difícil.",
+                    "zh-CHT": "你已經以正常以上的難度完成第十個任務。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie die 10. Mission auf 'Normal' oder schwerer.",
+                    "en-US": "Complete the 10th mission on Normal or harder.",
+                    "es-ES": "Completa la décima misión en Normal o superior.",
+                    "fr-FR": "Terminez la 10ème mission en Normal ou supérieur.",
+                    "it-IT": "Completa la decima missione a livello normale o superiore.",
+                    "ja-JP": "難易度ノーマル以上で第 10 ミッションをクリアする",
+                    "ko-KR": "보통 이상의 난이도에서 열 번째 미션을 완료하십시오.",
+                    "pt-PT": "Conclua a 10a missão em Normal ou mais difícil.",
+                    "zh-CHT": "以正常以上的難度完成第十個任務。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "10",
+            "imageId": "29.png"
+        },
+        "93": {
+            "text": {
+                "name": {
+                    "de-DE": "Helden gesucht ...",
+                    "en-US": "Folks Need Heroes...",
+                    "es-ES": "La gente necesita héroes...",
+                    "fr-FR": "Le peuple a besoin de héros...",
+                    "it-IT": "La gente ha bisogno di eroi...",
+                    "ja-JP": "待望のヒーロー",
+                    "ko-KR": "사람들에겐 영웅이 필요해",
+                    "pt-PT": "O Povo Precisa de Heróis...",
+                    "zh-CHT": "人間英雄"
+                },
+                "description": {
+                    "de-DE": "Kampagne auf 'Heldenhaft' abgeschlossen.",
+                    "en-US": "Completed the Campaign on Heroic difficulty.",
+                    "es-ES": "Has superado la Campaña en dificultad Heroica.",
+                    "fr-FR": "Vous avez terminé la Campagne en Héroïque.",
+                    "it-IT": "Hai completato la Campagna a difficoltà Eroica.",
+                    "ja-JP": "難易度アドバンスでキャンペーンをクリア",
+                    "ko-KR": "영웅 난이도에서 모든 캠페인을 완료했습니다.",
+                    "pt-PT": "Concluiu a Campanha em dificuldade Heróico.",
+                    "zh-CHT": "以英雄的難度完成戰役。"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie die Kampagne auf 'Heldenhaft' ab.",
+                    "en-US": "Complete the Campaign on Heroic difficulty.",
+                    "es-ES": "Supera la Campaña en dificultad Heroica.",
+                    "fr-FR": "Terminez la Campagne en Héroïque.",
+                    "it-IT": "Completa la Campagna a difficoltà Eroica.",
+                    "ja-JP": "難易度アドバンスでキャンペーンをクリアする",
+                    "ko-KR": "영웅 난이도에서 모든 캠페인을 완료하십시오.",
+                    "pt-PT": "Conclua a Campanha em dificuldade Heróico.",
+                    "zh-CHT": "以英雄的難度完成戰役。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "30.png"
+        },
+        "94": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Soldat, der Sie sein mussten",
+                    "en-US": "The Soldier We Needed You To Be",
+                    "es-ES": "El soldado que necesitábamos",
+                    "fr-FR": "Le soldat que vous deviez être",
+                    "it-IT": "Il soldato che dovevi essere",
+                    "ja-JP": "伝説への第一歩",
+                    "ko-KR": "모두가 원하는 병사",
+                    "pt-PT": "O Soldado Que Você Precisava Ser",
+                    "zh-CHT": "軍人的典範"
+                },
+                "description": {
+                    "de-DE": "Kampagne auf 'Normal' abgeschlossen.",
+                    "en-US": "Completed the Campaign on Normal difficulty.",
+                    "es-ES": "Has superado la Campaña en dificultad Normal.",
+                    "fr-FR": "Vous avez terminé la Campagne en Normal.",
+                    "it-IT": "Hai completato la Campagna a difficoltà Normale.",
+                    "ja-JP": "難易度ノーマルでキャンペーンをクリア",
+                    "ko-KR": "보통 난이도에서 모든 캠페인을 완료했습니다.",
+                    "pt-PT": "Concluiu a Campanha em dificuldade Normal.",
+                    "zh-CHT": "以正常的難度完成戰役。"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie die Kampagne auf 'Normal' ab.",
+                    "en-US": "Complete the Campaign on Normal difficulty.",
+                    "es-ES": "Supera la Campaña en dificultad Normal.",
+                    "fr-FR": "Terminez la Campagne en Normal.",
+                    "it-IT": "Completa la Campagna a difficoltà Normale.",
+                    "ja-JP": "難易度ノーマルでキャンペーンをクリアする",
+                    "ko-KR": "보통 난이도에서 모든 캠페인을 완료하십시오.",
+                    "pt-PT": "Conclua a Campanha em dificuldade Normal.",
+                    "zh-CHT": "以正常的難度完成戰役。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "31.png"
+        },
+        "95": {
+            "text": {
+                "name": {
+                    "de-DE": "Was ist ein Massaker?",
+                    "en-US": "What's a Killing Spree?",
+                    "es-ES": "¿Qué es una racha asesina?",
+                    "fr-FR": "Hein, une Folie meurtrière ?",
+                    "it-IT": "Cos'è una Serie massacro?",
+                    "ja-JP": "「Killing Spree」とは?",
+                    "ko-KR": "연속 사살이 뭔가요?",
+                    "pt-PT": "O Que É uma Matança?",
+                    "zh-CHT": "何謂殺人饗宴？"
+                },
+                "description": {
+                    "de-DE": "Eine Massaker-Auszeichnung in der Multiplayer-Spielersuche erhalten.",
+                    "en-US": "Earned a Killing Spree in multiplayer Matchmaking.",
+                    "es-ES": "Has conseguido una racha asesina en una partida multijugador Matchmaking.",
+                    "fr-FR": "Vous avez gagné une Folie meurtrière en Matchmaking multijoueur.",
+                    "it-IT": "Hai ottenuto una Serie massacro in partite Matchmaking multiplayer.",
+                    "ja-JP": "マッチメイキングのマルチプレイヤーで Killing Spree を達成",
+                    "ko-KR": "멀티 플레이 매치메이킹 게임에서 연속 사살을 달성했습니다.",
+                    "pt-PT": "Ganhou uma Matança em Organizar um Jogo multijogador.",
+                    "zh-CHT": "在多人配對遊戲中獲得殺人饗宴。"
+                },
+                "howto": {
+                    "de-DE": "Erhalten Sie eine Massaker-Auszeichnung in der Multiplayer-Spielersuche.",
+                    "en-US": "Earn a Killing Spree in multiplayer Matchmaking.",
+                    "es-ES": "Consigue una racha asesina en una partida multijugador Matchmaking.",
+                    "fr-FR": "Gagnez une Folie meurtrière en Matchmaking multijoueur.",
+                    "it-IT": "Ottieni una Serie massacro in partite Matchmaking multiplayer.",
+                    "ja-JP": "マッチメイキングのマルチプレイヤーで Killing Spree を達成する",
+                    "ko-KR": "멀티 플레이 매치메이킹 게임에서 연속 사살을 달성하십시오.",
+                    "pt-PT": "Ganhe uma Matança em Organizar um Jogo multijogador.",
+                    "zh-CHT": "在多人配對遊戲中獲得殺人饗宴。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "32.png"
+        },
+        "96": {
+            "text": {
+                "name": {
+                    "de-DE": "Als Rückendeckung gern gesehen",
+                    "en-US": "Be My Wingman, Anytime",
+                    "es-ES": "Vuela conmigo cuando quieras",
+                    "fr-FR": "Quand vous voulez",
+                    "it-IT": "Stammi dietro, sempre",
+                    "ja-JP": "ウィングマン",
+                    "ko-KR": "나의 보디가드",
+                    "pt-PT": "Seja Meu Parceiro, Quando Quiser",
+                    "zh-CHT": "歡迎成為我的搭檔"
+                },
+                "description": {
+                    "de-DE": "Einen Teamkameraden in der Invasionsspielersuche 5-mal bei Ihnen spawnen gelassen.",
+                    "en-US": "Let a teammate spawn on you 5 times in an Invasion Matchmaking game.",
+                    "es-ES": "Has dejado que un compañero reaparezca en ti 5 veces en una partida de Invasión en Matchmaking.",
+                    "fr-FR": "Vous avez fait apparaître 5 coéquipiers dans une partie Invasion en Matchmaking.",
+                    "it-IT": "Permetti a un compagno di rigenerarsi nella tua posizione 5 volte in Matchmaking Invasione.",
+                    "ja-JP": "マッチメイキングのプレイリスト INVASION プレイ中にチームメイトを 5回復活させた",
+                    "ko-KR": "Invasion 매치메이킹 게임에서 동료를 플레이어 위치에 5번 부활시켰습니다.",
+                    "pt-PT": "Deixou que um parceiro surgisse perto de você 5 vezes em um jogo tipo Organizar um Jogo Invasão.",
+                    "zh-CHT": "在入侵配對遊戲中讓隊友再生了五次。"
+                },
+                "howto": {
+                    "de-DE": "Lassen Sie einen Teamkameraden in der Invasionsspielersuche 5-mal bei Ihnen spawnen.",
+                    "en-US": "Let a teammate spawn on you 5 times in an Invasion Matchmaking game.",
+                    "es-ES": "Deja que un compañero reaparezca en ti 5 veces en una partida de Invasión en Matchmaking.",
+                    "fr-FR": "Faites apparaître 5 coéquipiers dans une partie Invasion en Matchmaking.",
+                    "it-IT": "Permetti a un compagno di rigenerarsi nella tua posizione per 5 volte in Matchmaking Invasione.",
+                    "ja-JP": "マッチメイキングのプレイリスト INVASION プレイ中にチームメイトを 5回復活させる",
+                    "ko-KR": "Invasion 매치메이킹 게임에서 동료를 플레이어 위치에 5번 부활시키십시오.",
+                    "pt-PT": "Deixe que um parceiro surja perto de você 5 vezes em um jogo tipo Organizar um Jogo Invasão.",
+                    "zh-CHT": "在入侵配對遊戲中讓隊友再生了五次。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "33.png"
+        },
+        "97": {
+            "text": {
+                "name": {
+                    "de-DE": "Erledigt!",
+                    "en-US": "Skunked!",
+                    "es-ES": "¡Derrotado!",
+                    "fr-FR": "Foutus !",
+                    "it-IT": "Stracciati!",
+                    "ja-JP": "完全阻止",
+                    "ko-KR": "망했지!",
+                    "pt-PT": "Derrotado!",
+                    "zh-CHT": "痛宰對手！"
+                },
+                "description": {
+                    "de-DE": "Ein Invasionsspiel in der ersten Phase gewonnen.",
+                    "en-US": "Won a game of Invasion in the 1st phase.",
+                    "es-ES": "Has ganado una partida de Invasión en la primera fase.",
+                    "fr-FR": "Vous avez gagné une partie Invasion en Phase 1.",
+                    "it-IT": "Hai vinto una partita Invasione nella prima fase.",
+                    "ja-JP": "INVASION の第 1 段階で勝利",
+                    "ko-KR": "Invasion 게임 1단계에서 승리했습니다.",
+                    "pt-PT": "Ganhou um jogo de Invasão na 1a fase.",
+                    "zh-CHT": "在第一階段的入侵中獲勝。"
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie ein Invasionsspiel in der ersten Phase.",
+                    "en-US": "Win a game of Invasion in the 1st phase.",
+                    "es-ES": "Gana una partida de Invasión en la primera fase.",
+                    "fr-FR": "Gagnez une partie Invasion en Phase 1.",
+                    "it-IT": "Vinci una partita Invasione nella prima fase.",
+                    "ja-JP": "INVASION の第 1 段階で勝利する",
+                    "ko-KR": "Invasion 게임 1단계에서 승리하십시오.",
+                    "pt-PT": "Ganhe um jogo de Invasão na 1a fase.",
+                    "zh-CHT": "在第一階段的入侵中獲勝。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "34.png"
+        },
+        "98": {
+            "text": {
+                "name": {
+                    "de-DE": "Ja, Sensei",
+                    "en-US": "Yes, Sensei",
+                    "es-ES": "Sí, sensei",
+                    "fr-FR": "Oui, Sensei",
+                    "it-IT": "Sì, Sensei",
+                    "ja-JP": "イエッサー",
+                    "ko-KR": "네, 사부님!",
+                    "pt-PT": "Sim, Sensei",
+                    "zh-CHT": "遵命！"
+                },
+                "description": {
+                    "de-DE": "Eine Erstschlag-Medaille in einem Spielersuche-Spiel erhalten.",
+                    "en-US": "Earned a First Strike Medal in a Matchmaking game.",
+                    "es-ES": "Has conseguido una medalla por primer golpe en Matchmaking.",
+                    "fr-FR": "Vous avez gagné une médaille Premier frag dans une partie Matchmaking.",
+                    "it-IT": "Hai ottenuto una medaglia Primo assalto in una partita Matchmaking.",
+                    "ja-JP": "マッチメイキングで First Strike のメダルを獲得",
+                    "ko-KR": "매치메이킹에서 첫 사살 메달을 획득했습니다.",
+                    "pt-PT": "Ganhou uma medalha de Primeiro golpe em um jogo tipo Organizar um Jogo.",
+                    "zh-CHT": "在配對遊戲中贏得先攻獎章。"
+                },
+                "howto": {
+                    "de-DE": "Erhalten Sie eine Erstschlag-Medaille in einem Spielersuche-Spiel.",
+                    "en-US": "Earn a First Strike Medal in a Matchmaking game.",
+                    "es-ES": "Consigue una medalla por primer golpe en Matchmaking.",
+                    "fr-FR": "Gagnez une médaille Premier frag dans une partie Matchmaking.",
+                    "it-IT": "Ottieni una medaglia Primo assalto in una partita Matchmaking.",
+                    "ja-JP": "マッチメイキングで First Strike のメダルを獲得する",
+                    "ko-KR": "매치메이킹 게임에서 첫 사살 메달을 획득하십시오.",
+                    "pt-PT": "Ganhe uma medalha de Primeiro golpe em um jogo tipo Organizar um Jogo.",
+                    "zh-CHT": "在配對遊戲中獲得先攻獎章。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "35.png"
+        },
+        "99": {
+            "text": {
+                "name": {
+                    "de-DE": "Messer gegen Schießeisen",
+                    "en-US": "Knife to a Gunfight",
+                    "es-ES": "Navaja en un tiroteo",
+                    "fr-FR": "Duel au couteau",
+                    "it-IT": "Dai coltelli alle pistole",
+                    "ja-JP": "ガンファイト",
+                    "ko-KR": "총싸움하는데 칼질",
+                    "pt-PT": "Faca em um Tiroteio",
+                    "zh-CHT": "穿越火網"
+                },
+                "description": {
+                    "de-DE": "Als Elite 5 Spartans in der Spielersuche ausgeschaltet.",
+                    "en-US": "As an Elite, killed 5 Spartan players in Matchmaking.",
+                    "es-ES": "Has matado como élite a 5 jugadores Spartan en Matchmaking.",
+                    "fr-FR": "En tant qu'Élite, vous avez tué 5 joueurs Spartans en Matchmaking.",
+                    "it-IT": "Nei panni di un Elite hai ucciso 5 giocatori Spartan in Matchmaking.",
+                    "ja-JP": "マッチメイキングでエリートとして敵のスパルタンを 5 人倒した",
+                    "ko-KR": "매치메이킹에서 엘리트로 적 스파르탄 5명을 죽였습니다.",
+                    "pt-PT": "Como um Elite, matou 5 jogadores Spartan em Organizar um Jogo.",
+                    "zh-CHT": "在配對遊戲中，以精英身份殺死 5 名超級戰士。"
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie als Elite 5 Spartans in der Spielersuche aus.",
+                    "en-US": "As an Elite, kill 5 Spartan players in Matchmaking.",
+                    "es-ES": "Mata como élite a 5 jugadores Spartan en Matchmaking.",
+                    "fr-FR": "En tant qu'Élite, tuez 5 joueurs Spartans en Matchmaking.",
+                    "it-IT": "Nei panni di un Elite uccidi 5 giocatori Spartan in Matchmaking.",
+                    "ja-JP": "マッチメイキングでエリートとして敵のスパルタンを 5 人倒す",
+                    "ko-KR": "매치메이킹에서 엘리트로 적 스파르탄 5명을 죽이십시오.",
+                    "pt-PT": "Como um Elite, mate 5 jogadores Spartan em Organizar um Jogo. ",
+                    "zh-CHT": "在配對遊戲中，以精英身份殺死 5 名超級戰士。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "36.png"
+        },
+        "100": {
+            "text": {
+                "name": {
+                    "de-DE": "Punktangriff",
+                    "en-US": "Score Attack",
+                    "es-ES": "Ataque de puntos",
+                    "fr-FR": "Attaque de score",
+                    "it-IT": "Attacco a punti",
+                    "ja-JP": "スコア アタック",
+                    "ko-KR": "점수 공략",
+                    "pt-PT": "Ataque do Placar",
+                    "zh-CHT": "得分進攻"
+                },
+                "description": {
+                    "de-DE": "15.000 Punkte im Punktangriff in der Feuergefecht-Spielersuche erzielt.",
+                    "en-US": "Scored 15,000 points in Score Attack Firefight Matchmaking.",
+                    "es-ES": "Has conseguido 15.000 puntos en Tiroteo con ataque de puntos en Matchmaking.",
+                    "fr-FR": "Vous avez marqué 15 000 points en Attaque du score Matchmaking Baptême du feu.",
+                    "it-IT": "Hai segnato 15.000 punti in modalità Attacco a punti Matchmaking Sparatoria.",
+                    "ja-JP": "マッチメイキングのプレイリスト SCORE ATTACK で 15,000 ポイント獲得",
+                    "ko-KR": "사생결단 매치메이킹 점수 공략에서 15,000점을 획득했습니다.",
+                    "pt-PT": "Marcou 15.000 pontos em Organizar um Jogo Tiroteio Ataque do Placar.",
+                    "zh-CHT": "在槍林彈雨攻擊得分配對中獲得了 15,000 分。"
+                },
+                "howto": {
+                    "de-DE": "Erzielen Sie 15.000 Punkte im Punktangriff in der Feuergefecht-Spielersuche.",
+                    "en-US": "Score 15,000 points in Score Attack Firefight Matchmaking.",
+                    "es-ES": "Consigue 15.000 puntos en Tiroteo con ataque de puntos en Matchmaking.",
+                    "fr-FR": "Marquez 15 000 points en Attaque du score Matchmaking Baptême du feu.",
+                    "it-IT": "Segna 15.000 punti in modalità Attacco a punti Matchmaking Sparatoria.",
+                    "ja-JP": "マッチメイキングのプレイリスト SCORE ATTACK で 15,000 ポイント獲得する",
+                    "ko-KR": "사생결단 매치메이킹 점수 공략에서 15,000점을 획득하십시오.",
+                    "pt-PT": "Marque 15.000 pontos em Organizar um Jogo Tiroteio Ataque do Placar.",
+                    "zh-CHT": "在槍林彈雨攻擊得分配對中獲得 15,000 分。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "37.png"
+        },
+        "101": {
+            "text": {
+                "name": {
+                    "de-DE": "Anti-Rudelbildung",
+                    "en-US": "Crowd Control",
+                    "es-ES": "Control de masas",
+                    "fr-FR": "Contrôle de la foule",
+                    "it-IT": "Domare la folla",
+                    "ja-JP": "群集整理",
+                    "ko-KR": "군중 통제",
+                    "pt-PT": "Controle da Multidão",
+                    "zh-CHT": "人口控制"
+                },
+                "description": {
+                    "de-DE": "Eine Killionär-Medaille in Feuergefecht erhalten.",
+                    "en-US": "Earned a Killionaire medal in Firefight.",
+                    "es-ES": "Has conseguido una medalla por lluvia de muertos en Tiroteo.",
+                    "fr-FR": "Vous avez gagné une médaille Fragillionaire en Baptême du feu.",
+                    "it-IT": "Hai ottenuto una medaglia Strage in Sparatoria.",
+                    "ja-JP": "ファイアファイトで Killionaire 達成",
+                    "ko-KR": "사생결단에서 도살장 메달을 획득했습니다.",
+                    "pt-PT": "Ganhou uma medalha Carnificina em Tiroteio.",
+                    "zh-CHT": "在槍林彈雨中獲得十連殺獎章。"
+                },
+                "howto": {
+                    "de-DE": "Erhalten Sie eine Killionär-Medaille in Feuergefecht.",
+                    "en-US": "Earn a Killionaire medal in Firefight.",
+                    "es-ES": "Consigue una medalla por lluvia de muertos en Tiroteo.",
+                    "fr-FR": "Gagnez une médaille Fragillionaire en Baptême du feu.",
+                    "it-IT": "Ottieni una medaglia Strage in Sparatoria.",
+                    "ja-JP": "ファイアファイトで Killionaire を達成する",
+                    "ko-KR": "사생결단에서 도살장 메달을 획득하십시오.",
+                    "pt-PT": "Ganhe uma medalha Carnificina em Tiroteio.",
+                    "zh-CHT": "在槍林彈雨中獲得十連殺獎章。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "38.png"
+        },
+        "102": {
+            "text": {
+                "name": {
+                    "de-DE": "Spiel, Satz und Sieg",
+                    "en-US": "Game, Set, Match",
+                    "es-ES": "Juego, set, partido",
+                    "fr-FR": "Prêt, feu, partie",
+                    "it-IT": "Gioco, set, partita",
+                    "ja-JP": "不死身",
+                    "ko-KR": "전설의 경기",
+                    "pt-PT": "Jogo, Set, Partida",
+                    "zh-CHT": "遊戲、賽局、對決"
+                },
+                "description": {
+                    "de-DE": "Ein Feuergefecht-Set auf 'Legendär' beendet, ohne gestorben zu sein.",
+                    "en-US": "Completed a Firefight set on Legendary without dying.",
+                    "es-ES": "Has completado una tanda de Tiroteo en Legendaria sin morir.",
+                    "fr-FR": "Vous avez terminé un jeu Baptême du feu en Légendaire sans mourir.",
+                    "it-IT": "Hai completato un set Sparatoria a difficoltà Leggendaria senza morire.",
+                    "ja-JP": "一度も倒されずに難易度レジェンドのファイアファイト 1 セットをクリア",
+                    "ko-KR": "사생결단 전설 난이도에서 죽지 않고 한 세트를 완료했습니다.",
+                    "pt-PT": "Concluiu um set Tiroteio em Lendário, sem morrer.",
+                    "zh-CHT": "在傳奇的難度下完成一個槍林彈雨賽局而沒有死亡。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie ein Feuergefecht-Set auf 'Legendär', ohne zu sterben.",
+                    "en-US": "Complete a Firefight set on Legendary without dying.",
+                    "es-ES": "Completa una tanda de Tiroteo en Legendaria sin morir.",
+                    "fr-FR": "Terminez un jeu Baptême du feu en Légendaire sans mourir.",
+                    "it-IT": "Completa un set Sparatoria a difficoltà Leggendaria senza morire.",
+                    "ja-JP": "一度も倒されずに難易度レジェンドのファイアファイト 1 セットをクリアする",
+                    "ko-KR": "사생결단 전설 난이도에서 죽지 않고 한 세트를 완료하십시오.",
+                    "pt-PT": "Conclua um set Tiroteio em Lendário, sem morrer.",
+                    "zh-CHT": "在傳奇的難度下完成一個槍林彈雨賽局而沒有死亡。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "39.png"
+        },
+        "103": {
+            "text": {
+                "name": {
+                    "de-DE": "Feuerteufel",
+                    "en-US": "Firestarter",
+                    "es-ES": "Pirómano",
+                    "fr-FR": "Ignition",
+                    "it-IT": "Sparatutto",
+                    "ja-JP": "ファイアスターター",
+                    "ko-KR": "불씨",
+                    "pt-PT": "Iniciador de Fogo",
+                    "zh-CHT": "開火"
+                },
+                "description": {
+                    "de-DE": "50.000 Punkte in einem Feuergefecht-Spiel erzielt.",
+                    "en-US": "Scored 50,000 points in a Firefight game.",
+                    "es-ES": "Has conseguido 50.000 puntos en una partida de Tiroteo.",
+                    "fr-FR": "Vous avez marqué 50 000 points en une partie Baptême du feu.",
+                    "it-IT": "Hai segnato 50.000 punti in una partita Sparatoria.",
+                    "ja-JP": "ファイアファイトの 1 ゲームで 50,000 ポイント獲得",
+                    "ko-KR": "사생결단에서 50,000점을 획득했습니다.",
+                    "pt-PT": "Marcou 50.000 pontos em um jogo Tiroteio.",
+                    "zh-CHT": "在槍林彈雨中獲得了 50,000 分。"
+                },
+                "howto": {
+                    "de-DE": "Erzielen Sie 50.000 Punkte in Feuergefecht auf einer beliebigen Karte.",
+                    "en-US": "Score 50,000 points in Firefight on any map.",
+                    "es-ES": "Consigue 50.000 puntos en una partida de Tiroteo en cualquier mapa.",
+                    "fr-FR": "Marquez 50 000 points en Baptême du feu sur n'importe quelle carte.",
+                    "it-IT": "Segna 50.000 punti in una partita Sparatoria su una mappa qualsiasi.",
+                    "ja-JP": "ファイアファイトの 1 ゲームで 50,000 ポイント獲得する",
+                    "ko-KR": "사생결단 아무 지도에서나 50,000점을 획득하십시오.",
+                    "pt-PT": "Marque 50.000 pontos em um jogo Tiroteio.",
+                    "zh-CHT": "在槍林彈雨的任一張地圖中獲得 50,000 分。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "10",
+            "imageId": "40.png"
+        },
+        "104": {
+            "text": {
+                "name": {
+                    "de-DE": "Flammender Ruhm",
+                    "en-US": "Blaze of Glory",
+                    "es-ES": "Ha sido glorioso",
+                    "fr-FR": "Les feux de la rampe",
+                    "it-IT": "Il fuoco ardente della gloria",
+                    "ja-JP": "栄光の炎",
+                    "ko-KR": "영광의 불꽃",
+                    "pt-PT": "Fogueira da Glória",
+                    "zh-CHT": "榮耀之光"
+                },
+                "description": {
+                    "de-DE": "200.000 Punkte in einem Feuergefecht-Spiel erzielt.",
+                    "en-US": "Scored 200,000 points in a Firefight game.",
+                    "es-ES": "Has conseguido 200.000 puntos en una partida de Tiroteo.",
+                    "fr-FR": "Vous avez marqué 200 000 points en une partie Baptême du feu.",
+                    "it-IT": "Hai segnato 200.000 punti in una partita Sparatoria.",
+                    "ja-JP": "ファイアファイトの 1 ゲームで 200,000 ポイント獲得",
+                    "ko-KR": "사생결단에서 200,000점을 획득했습니다.",
+                    "pt-PT": "Marcou 200.000 pontos em um jogo Tiroteio.",
+                    "zh-CHT": "在槍林彈雨中獲得了 200,000 分。"
+                },
+                "howto": {
+                    "de-DE": "Erzielen Sie 200.000 Punkte in Feuergefecht auf einer beliebigen Karte.",
+                    "en-US": "Score 200,000 points in Firefight on any map.",
+                    "es-ES": "Consigue 200.000 puntos en una partida de Tiroteo en cualquier mapa.",
+                    "fr-FR": "Marquez 200 000 points en Baptême du feu sur n'importe quelle carte.",
+                    "it-IT": "Segna 200.000 punti in una partita Sparatoria su una mappa qualsiasi.",
+                    "ja-JP": "ファイアファイトの 1 ゲームで 200,000 ポイント獲得する",
+                    "ko-KR": "사생결단 아무 지도에서나 200,000점을 획득하십시오.",
+                    "pt-PT": "Marque 200.000 pontos em um jogo Tiroteio.",
+                    "zh-CHT": "在槍林彈雨的任一張地圖中獲得 200,000 分。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "25",
+            "imageId": "41.png"
+        },
+        "105": {
+            "text": {
+                "name": {
+                    "de-DE": "Es wird heiß im Rohr",
+                    "en-US": "Heat in the Pipe",
+                    "es-ES": "Que me quemo",
+                    "fr-FR": "Chaud devant",
+                    "it-IT": "Fuoco ai cannoni",
+                    "ja-JP": "神の領域",
+                    "ko-KR": "불꽃 군인",
+                    "pt-PT": "Calor no Cano",
+                    "zh-CHT": "戰況激烈"
+                },
+                "description": {
+                    "de-DE": "1.000.000 Punkte in einem Feuergefecht-Spiel erzielt.",
+                    "en-US": "Scored 1,000,000 points in a Firefight game.",
+                    "es-ES": "Has conseguido 1.000.000 de puntos en una partida de Tiroteo.",
+                    "fr-FR": "Vous avez marqué 1 000 000 de points dans une partie Baptême du feu.",
+                    "it-IT": "Hai segnato 1.000.000 punti in una partita Sparatoria.",
+                    "ja-JP": "ファイアファイトの 1 ゲームで 1,000,000 ポイント獲得",
+                    "ko-KR": "사생결단에서 100만 점을 획득했습니다.",
+                    "pt-PT": "Marcou 1.000.000 pontos em um jogo Tiroteio.",
+                    "zh-CHT": "在槍林彈雨中獲得了 1,000,000 分。"
+                },
+                "howto": {
+                    "de-DE": "Erzielen Sie 1.000.000 Punkte in Feuergefecht auf einer beliebigen Karte.",
+                    "en-US": "Score 1,000,000 points in Firefight on any map.",
+                    "es-ES": "Consigue 1.000.000 de puntos en una partida de Tiroteo en cualquier mapa.",
+                    "fr-FR": "Marquez 1 000 000 de points dans une partie Baptême du feu sur n'importe quelle carte.",
+                    "it-IT": "Segna 1.000.000 punti in una partita Sparatoria su una mappa qualsiasi.",
+                    "ja-JP": "ファイアファイトの 1 ゲームで 1,000,000 ポイント獲得する",
+                    "ko-KR": "사생결단 아무 지도에서나 100만 점을 획득하십시오.",
+                    "pt-PT": "Marque 1.000.000 pontos em um jogo Tiroteio.",
+                    "zh-CHT": "在槍林彈雨的任一張地圖中獲得 1,000,000 分。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "75",
+            "imageId": "42.png"
+        },
+        "106": {
+            "text": {
+                "name": {
+                    "de-DE": "Speicherlösung",
+                    "en-US": "A Storage Solution",
+                    "es-ES": "Una solución de almacenamiento",
+                    "fr-FR": "Dispositif de stockage",
+                    "it-IT": "Archivia tutto",
+                    "ja-JP": "ストレージ ソリューション",
+                    "ko-KR": "용량 문제 해결",
+                    "pt-PT": "Uma Solução de Armazenamento",
+                    "zh-CHT": "儲存的辦法"
+                },
+                "description": {
+                    "de-DE": "Mit dem Datei-Browser eine Datei in Ihr Datei-Sharing hochgeladen.",
+                    "en-US": "Used the File Browser to upload a file to your File Share.",
+                    "es-ES": "Has usado el explorador de archivos para cargar un archivo en tus Archivos compartidos.",
+                    "fr-FR": "Vous avez utilisé le navigateur pour charger un fichier sur votre partage.",
+                    "it-IT": "Hai utilizzato la Ricerca file per inviare un file alla Condivisione file.",
+                    "ja-JP": "ファイル ブラウザーを使いファイルシェアにファイルをアップロードした",
+                    "ko-KR": "파일 브라우저를 사용하여 파일 공유에 파일을 업로드했습니다.",
+                    "pt-PT": "Usou o Navegador de Arquivo para carregar um arquivo para seu Arq. Compartilhado.",
+                    "zh-CHT": "使用檔案瀏覽上傳檔案到檔案分享中。"
+                },
+                "howto": {
+                    "de-DE": "Laden Sie mit dem Datei-Browser eine Datei in Ihr Datei-Sharing hoch.",
+                    "en-US": "Using the File Browser upload a file to your File Share.",
+                    "es-ES": "Usa el explorador de archivos para cargar un archivo en tus Archivos compartidos.",
+                    "fr-FR": "Vous utilisez le navigateur pour charger un fichier sur votre partage.",
+                    "it-IT": "Utilizza la Ricerca file per inviare un file alla Condivisione file.",
+                    "ja-JP": "ファイル ブラウザーを使いファイルシェアにファイルをアップロードする",
+                    "ko-KR": "파일 브라우저를 사용하여 파일 공유에 파일을 업로드하십시오.",
+                    "pt-PT": "Usando o Navegador de Arquivo, carregue um arquivo para seu Arq. Compartilhado.",
+                    "zh-CHT": "使用檔案瀏覽上傳檔案到檔案分享中。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "43.png"
+        },
+        "107": {
+            "text": {
+                "name": {
+                    "de-DE": "Einen erledigt, bleiben noch 51",
+                    "en-US": "One Down, 51 to Go",
+                    "es-ES": "Uno menos, quedan 51",
+                    "fr-FR": "Un de moins, plus que 51",
+                    "it-IT": "Uno è sistemato, ne mancano 51",
+                    "ja-JP": "完了 1 残り 51",
+                    "ko-KR": "이제 51주만 더",
+                    "pt-PT": "Um Abatido, Faltando 51",
+                    "zh-CHT": "解決了一個，還有 51 個"
+                },
+                "description": {
+                    "de-DE": "Eine wöchentliche Herausforderung abgeschlossen.",
+                    "en-US": "Completed a Weekly Challenge.",
+                    "es-ES": "Has completado un desafío semanal.",
+                    "fr-FR": "Vous avez terminé un défi hebdomadaire.",
+                    "it-IT": "Hai completato la sfida settimanale.",
+                    "ja-JP": "任意のウィークリーチャレンジをクリア",
+                    "ko-KR": "주간 도전을 완료했습니다.",
+                    "pt-PT": "Concluiu um Desafio semanal.",
+                    "zh-CHT": "完成每週挑戰。"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie eine wöchentliche Herausforderung ab.",
+                    "en-US": "Complete a Weekly Challenge.",
+                    "es-ES": "Completa un desafío semanal.",
+                    "fr-FR": "Terminez un défi hebdomadaire.",
+                    "it-IT": "Completa una sfida settimanale.",
+                    "ja-JP": "任意のウィークリーチャレンジをクリアする",
+                    "ko-KR": "주간 도전을 완료하십시오.",
+                    "pt-PT": "Conclua um Desafio semanal.",
+                    "zh-CHT": "完成每週挑戰。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "44.png"
+        },
+        "108": {
+            "text": {
+                "name": {
+                    "de-DE": "Coole Datei, Kumpel",
+                    "en-US": "Cool File, Bro",
+                    "es-ES": "Buen archivo, colega",
+                    "fr-FR": "Chouette fichier, mon pote",
+                    "it-IT": "Bel file, fratello",
+                    "ja-JP": "クール ファイル",
+                    "ko-KR": "멋진 파일",
+                    "pt-PT": "Arquivo Legal, irmão",
+                    "zh-CHT": "兄弟，這檔案真不錯"
+                },
+                "description": {
+                    "de-DE": "Jemandem eine Datei empfohlen.",
+                    "en-US": "Recommended a file to someone.",
+                    "es-ES": "Has recomendado un archivo a alguien.",
+                    "fr-FR": "Vous avez recommandé un fichier à quelqu'un.",
+                    "it-IT": "Hai consigliato un file a qualcuno.",
+                    "ja-JP": "他のプレイヤーにファイルを推薦した",
+                    "ko-KR": "다른 사람에게 파일을 추천했습니다.",
+                    "pt-PT": "Recomendou um arquivo a alguém.",
+                    "zh-CHT": "向別人推薦檔案。"
+                },
+                "howto": {
+                    "de-DE": "Empfehlen Sie jemandem eine Datei.",
+                    "en-US": "Recommend a file to someone.",
+                    "es-ES": "Recomienda un archivo a alguien.",
+                    "fr-FR": "Recommandez un fichier à quelqu'un.",
+                    "it-IT": "Consiglia un file a qualcuno.",
+                    "ja-JP": "他のプレイヤーにファイルを推薦する",
+                    "ko-KR": "다른 사람에게 파일을 추천하십시오.",
+                    "pt-PT": "Recomende um arquivo a alguém.",
+                    "zh-CHT": "向別人推薦檔案。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "45.png"
+        },
+        "109": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein neuer Herausforderer",
+                    "en-US": "A New Challenger",
+                    "es-ES": "Nuevo contendiente",
+                    "fr-FR": "Un nouveau concurrent",
+                    "it-IT": "Un nuovo sfidante",
+                    "ja-JP": "ニュー チャレンジャー",
+                    "ko-KR": "새로운 도전",
+                    "pt-PT": "Um Novo Desafiante",
+                    "zh-CHT": "新的挑戰者"
+                },
+                "description": {
+                    "de-DE": "Alle täglichen Herausforderungen an einem vorgegebenen Tag beendet.",
+                    "en-US": "Completed all of the Daily Challenges in a given day.",
+                    "es-ES": "Has completado todos los desafíos diarios de un determinado día.",
+                    "fr-FR": "Vous avez terminé tous les défis quotidiens du jour donné.",
+                    "it-IT": "Hai completato tutte le Sfide del giorno di una data giornata.",
+                    "ja-JP": "特定の日に全デイリーチャレンジをクリア",
+                    "ko-KR": "해당 날짜의 도전을 모두 완료했습니다.",
+                    "pt-PT": "Concluiu todos os desafios diários em um dia específico.",
+                    "zh-CHT": "在特定日子裡完成所有每日挑戰的項目。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie alle täglichen Herausforderungen an einem vorgegebenen Tag.",
+                    "en-US": "Complete all of the Daily Challenges in a given day.",
+                    "es-ES": "Completa todos los desafíos diarios de un determinado día.",
+                    "fr-FR": "Terminez tous les défis quotidiens du jour donné.",
+                    "it-IT": "Completa tutte le Sfide del giorno di una data giornata.",
+                    "ja-JP": "特定の日に全デイリーチャレンジをクリアする",
+                    "ko-KR": "모든 도전을 당일 중에 완료하십시오.",
+                    "pt-PT": "Conclua todos os desafios diários em um dia específico.",
+                    "zh-CHT": "完成特定日子中所有的每日挑戰。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "46.png"
+        },
+        "110": {
+            "text": {
+                "name": {
+                    "de-DE": "Eine Ehre, mit Ihnen zu dienen",
+                    "en-US": "An Honor Serving",
+                    "es-ES": "Es un honor",
+                    "fr-FR": "Servir pour l'honneur",
+                    "it-IT": "È stato un onore servirvi",
+                    "ja-JP": "共に戦う名誉",
+                    "ko-KR": "명예로운 복무",
+                    "pt-PT": "É uma Honra Servir",
+                    "zh-CHT": "光榮服役"
+                },
+                "description": {
+                    "de-DE": "Den Rang Captain im UNSC erreicht.",
+                    "en-US": "Reached the rank of Captain in the UNSC.",
+                    "es-ES": "Has alcanzado el rango de capitán en la UNSC.",
+                    "fr-FR": "Vous avez atteint le rang de capitaine à l'UNSC.",
+                    "it-IT": "Hai raggiunto il rango di capitano nel CST.",
+                    "ja-JP": "UNSC キャプテン ランクに到達",
+                    "ko-KR": "UNSC군 대령이 되었습니다.",
+                    "pt-PT": "Alcançou o posto de Capitão no UNSC.",
+                    "zh-CHT": "成為 UNSC 裡的上尉。"
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie den Rang Captain im UNSC.",
+                    "en-US": "Reach the rank of Captain in the UNSC.",
+                    "es-ES": "Alcanza el rango de capitán en la UNSC.",
+                    "fr-FR": "Atteignez le rang de capitaine à l'UNSC.",
+                    "it-IT": "Raggiungi il rango di capitano nel CST.",
+                    "ja-JP": "UNSC キャプテン ランクに到達する",
+                    "ko-KR": "UNSC군 대령이 되십시오.",
+                    "pt-PT": "Alcance o posto de Capitão no UNSC.",
+                    "zh-CHT": "成為 UNSC 裡的上尉。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "25",
+            "imageId": "47.png"
+        },
+        "111": {
+            "text": {
+                "name": {
+                    "de-DE": "Ich helfe Ihnen auf",
+                    "en-US": "Lemme Upgrade Ya",
+                    "es-ES": "Déjame mejorarte",
+                    "fr-FR": "Ça oui, tu vas grimper",
+                    "it-IT": "Fatti promuovere",
+                    "ja-JP": "アップグレード",
+                    "ko-KR": "업그레이드",
+                    "pt-PT": "Deixe-me Subi-lo de Nível",
+                    "zh-CHT": "升級幫手"
+                },
+                "description": {
+                    "de-DE": "Eine Ihrer Belobigungen auf Silberstatus gebracht.",
+                    "en-US": "Advanced a Commendation to a Silver state.",
+                    "es-ES": "Has avanzado una condecoración a Plata.",
+                    "fr-FR": "Vous avez porté une citation au niveau Argent.",
+                    "it-IT": "Hai fatto progredire un encomio a livello Argento.",
+                    "ja-JP": "レーティングでシルバーに昇格",
+                    "ko-KR": "포상에서 은메달을 획득했습니다.",
+                    "pt-PT": "Avançou uma Comenda para um estado Prata.",
+                    "zh-CHT": "將獎賞提升至白銀狀態。"
+                },
+                "howto": {
+                    "de-DE": "Bringen Sie eine Ihrer Belobigungen auf Silberstatus.",
+                    "en-US": "Advance any Commendation to its Silver state.",
+                    "es-ES": "Avanza una condecoración a Plata.",
+                    "fr-FR": "Portez une citation au niveau Argent.",
+                    "it-IT": "Fai progredire un encomio qualsiasi a livello Argento.",
+                    "ja-JP": "レーティングでシルバーに昇格する",
+                    "ko-KR": "아무 포상에서나 은메달을 획득하십시오.",
+                    "pt-PT": "Avance uma Comenda para um estado Prata.",
+                    "zh-CHT": "將獎賞提升至白銀狀態。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "48.png"
+        },
+        "112": {
+            "text": {
+                "name": {
+                    "de-DE": "Gönnen Sie sich was",
+                    "en-US": "Make It Rain",
+                    "es-ES": "Haz que llueva",
+                    "fr-FR": "Et que ça pleuve",
+                    "it-IT": "Mani bucate",
+                    "ja-JP": "弾丸の嵐",
+                    "ko-KR": "죽음의 비를 내려라",
+                    "pt-PT": "Faça Chover",
+                    "zh-CHT": "讓雨下吧"
+                },
+                "description": {
+                    "de-DE": "Ein Objekt in der Waffenkammer gekauft, für das der Rang Lt. Colonel benötigt wird.",
+                    "en-US": "Purchased an item from the Armory that required the rank of Lt. Colonel.",
+                    "es-ES": "Has comprado un objeto en el arsenal que necesita el rango de teniente coronel.",
+                    "fr-FR": "Vous avez acheté à l'Armurerie un élément qui requiert le rang de lieutenant-colonel.",
+                    "it-IT": "Hai acquistato un oggetto nell'Armeria che richiedeva il rango di tenente colonnello.",
+                    "ja-JP": "補給庫でルーテナント カーネル ランクのアイテムを購入",
+                    "ko-KR": "무기고에서 중령 이상만 사용할 수 있는 물건을 구입했습니다.",
+                    "pt-PT": "Comprou um item do Arsenal que exigia o posto de Tenente Coronel.",
+                    "zh-CHT": "從軍火庫中購買一項中校階級才能購買的物品。"
+                },
+                "howto": {
+                    "de-DE": "Kaufen Sie ein Objekt in der Waffenkammer, für das der Rang Lt. Colonel benötigt wird.",
+                    "en-US": "Purchase an item from the Armory that requires the rank of Lt. Colonel.",
+                    "es-ES": "Compra un objeto en el arsenal que necesite el rango de teniente coronel.",
+                    "fr-FR": "Achetez à l'Armurerie un élément qui requiert le rang de lieutenant-colonel.",
+                    "it-IT": "Acquista un oggetto nell'Armeria che richiede il rango di tenente colonnello.",
+                    "ja-JP": "補給庫でルーテナント カーネル ランクのアイテムを購入する",
+                    "ko-KR": "무기고에서 중령 이상만 사용할 수 있는 물건을 구입하십시오.",
+                    "pt-PT": "Compre um item do Arsenal que exija o posto de Tenente Coronel.",
+                    "zh-CHT": "從軍火庫中購買一項中校階級才能購買的物品。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "49.png"
+        },
+        "121": {
+            "text": {
+                "name": {
+                    "de-DE": "Zurück zum Absender",
+                    "en-US": "Return to Sender",
+                    "es-ES": "Devuélvase al remitente",
+                    "fr-FR": "Retour à l'émetteur",
+                    "it-IT": "Ritorna al mittente",
+                    "ja-JP": "フラッグ返送",
+                    "ko-KR": "반송 완료",
+                    "pt-PT": "Retorno ao Expedidor",
+                    "zh-CHT": "送還寄件者"
+                },
+                "description": {
+                    "de-DE": "Defiant: Zwei Flaggen in einem KudF-Spielersuche-Spiel erfolgreich zurückgebracht.",
+                    "en-US": "Defiant: Returned two flags in a matchmade CTF game.",
+                    "es-ES": "Desafiante: has devuelto dos banderas en una partida CLB en Matchmaking.",
+                    "fr-FR": "Bastion : vous avez récupéré deux drapeaux lors d'une partie CDD en Matchmaking.",
+                    "it-IT": "Defiant: hai riportato due bandiere in una partita CLB matchmaking.",
+                    "ja-JP": "ディファイアント: マッチメイキング CTF でフラッグを 2 本奪還",
+                    "ko-KR": "결사적 저항: 매치메이킹 CTF 게임에서 2개의 깃발을 복귀시켰습니다.",
+                    "pt-PT": "Desafio: Conseguiu voltar com 2 bandeiras numa partida organizada de CAB.",
+                    "zh-CHT": "Defiant：在 1 場配對搶旗之王遊戲中，歸還 2 面旗幟。"
+                },
+                "howto": {
+                    "de-DE": "Defiant: Zwei Flaggen in einem KudF-Spielersuche-Spiel erfolgreich zurückbringen.",
+                    "en-US": "Defiant: Successfully return two flags in a matchmade CTF game.",
+                    "es-ES": "Desafiante: devuelve con éxito dos banderas en una partida CLB en Matchmaking.",
+                    "fr-FR": "Bastion : récupérez avec succès 2 drapeaux lors d'une partie CDD en Matchmaking.",
+                    "it-IT": "Defiant: riporta con successo due bandiere in una partita CLB matchmaking.",
+                    "ja-JP": "ディファイアント: マッチメイキング CTF でフラッグを 2 本奪還する",
+                    "ko-KR": "결사적 저항: 매치메이킹 CTF 게임에서 2개의 깃발을 복귀시키십시오.",
+                    "pt-PT": "Desafio: Consiga voltar com 2 bandeiras numa partida organizada de CAB.",
+                    "zh-CHT": "Defiant：在 1 場配對搶旗之王遊戲中，歸還 2 面旗幟。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "50.png"
+        },
+        "122": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Mühe wert",
+                    "en-US": "Totally Worth It",
+                    "es-ES": "Merece la pena",
+                    "fr-FR": "Méritant au possible",
+                    "it-IT": "Ne valeva davvero la pena",
+                    "ja-JP": "雪辱",
+                    "ko-KR": "손해 없는 죽음",
+                    "pt-PT": "Valeu totalmente a pena",
+                    "zh-CHT": "太值得了！"
+                },
+                "description": {
+                    "de-DE": "Noble 1: Doppelten Abschuss aus dem Grab heraus in der Multiplayer-Spielersuche erzielt.",
+                    "en-US": "Noble 1: Earned a Double Kill from the Grave in multiplayer Matchmaking.",
+                    "es-ES": "Noble 1: has conseguido una doble muerte al morir en multijugador Matchmaking.",
+                    "fr-FR": "Noble 1 : a effectué un Double frag d'outre-tombe lors d'un Matchmaking multijoueur.",
+                    "it-IT": "Noble 1: hai ottenuto una Doppia uccisione dopo essere stato ucciso in Matchmaking multiplayer.",
+                    "ja-JP": "ノーブル 1: マッチメイキングのマルチプレイヤーで、倒された後に Double Kill 達成",
+                    "ko-KR": "노블 1: 멀티 플레이 매치메이킹에서 죽은 상태로 두 명 잡음을 달성했습니다.",
+                    "pt-PT": "Noble 1: ganhou uma morte dupla desde a cova, em Organizar um Jogo multijogador.",
+                    "zh-CHT": "Noble 1：在多人配對遊戲中，於墳墓裡獲得 1 次雙殺。"
+                },
+                "howto": {
+                    "de-DE": "Noble 1: Erzielen Sie einen doppelten Abschuss aus dem Grab heraus in der Multiplayer-Spielersuche.",
+                    "en-US": "Noble 1: Earn a Double Kill from the Grave in multiplayer Matchmaking.",
+                    "es-ES": "Noble 1: consigue una doble muerte al morir en multijugador Matchmaking.",
+                    "fr-FR": "Noble 1 : effectuez un Double frag d'outre-tombe lors d'un Matchmaking multijoueur.",
+                    "it-IT": "Noble 1: ottieni una Doppia uccisione dalla tomba in Matchmaking multiplayer.",
+                    "ja-JP": "ノーブル 1: マッチメイキングのマルチプレイヤーで、倒された後に Double Kill を達成する",
+                    "ko-KR": "노블 1: 멀티 플레이 매치메이킹에서 죽은 상태로 두 명 잡음을 달성하십시오.",
+                    "pt-PT": "Noble 1: ganhe uma morte dupla desde a cova, em Organizar um Jogo multijogador.",
+                    "zh-CHT": "Noble 1：在多人配對遊戲中，於墳墓裡獲得 1 次雙殺。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "51.png"
+        },
+        "123": {
+            "text": {
+                "name": {
+                    "de-DE": "Doppelt hält besser",
+                    "en-US": "Both Barrels",
+                    "es-ES": "Ambos cañones",
+                    "fr-FR": "Double canon",
+                    "it-IT": "Violenza",
+                    "ja-JP": "ダブル バレル",
+                    "ko-KR": "두 개의 총신",
+                    "pt-PT": "Com unhas e dentes",
+                    "zh-CHT": "雙槍管"
+                },
+                "description": {
+                    "de-DE": "Noble 1: Doppelten Abschuss mit dem Schrotgewehr in der Multiplayer-Spielersuche erzielt.",
+                    "en-US": "Noble 1: Earned a Double Kill with the shotgun in multiplayer Matchmaking.",
+                    "es-ES": "Noble 1: has conseguido una doble muerte con la escopeta en multijugador Matchmaking.",
+                    "fr-FR": "Noble 1 : a effectué un Double frag avec le fusil à pompe lors d'un Matchmaking multijoueur.",
+                    "it-IT": "Noble 1: hai ottenuto una Doppia uccisione con la doppietta in Matchmaking multiplayer.",
+                    "ja-JP": "ノーブル 1: マッチメイキングのマルチプレイヤーで、ショットガンで Double Kill 達成",
+                    "ko-KR": "노블 1: 멀티 플레이 매치메이킹에서 샷건으로 두 명 잡음을 달성했습니다.",
+                    "pt-PT": "Noble 1: ganhou uma morte dupla com a espingarda, em Organizar um Jogo multijogador.",
+                    "zh-CHT": "Noble 1：在多人配對遊戲中，以霰彈槍獲得 1 次雙殺。"
+                },
+                "howto": {
+                    "de-DE": "Noble 1: Erzielen Sie einen doppelten Abschuss mit dem Schrotgewehr in der Multiplayer-Spielersuche.",
+                    "en-US": "Noble 1: Earn a Double Kill with the shotgun in multiplayer Matchmaking.",
+                    "es-ES": "Noble 1: consigue una doble muerte con la escopeta en multijugador Matchmaking.",
+                    "fr-FR": "Noble 1 : effectuez un Double frag avec le fusil à pompe lors d'un Matchmaking multijoueur.",
+                    "it-IT": "Noble 1: ottieni una Doppia uccisione con la doppietta in Matchmaking multiplayer.",
+                    "ja-JP": "ノーブル 1: マッチメイキングのマルチプレイヤーで、ショットガンで Double Kill を達成する",
+                    "ko-KR": "노블 1: 멀티 플레이 매치메이킹에서 샷건으로 두 명 잡음을 달성하십시오.",
+                    "pt-PT": "Noble 1: ganhe uma morte dupla com a espingarda, em Organizar um Jogo multijogador.",
+                    "zh-CHT": "Noble 1：在多人配對遊戲中，以霰彈槍獲得 1 次雙殺。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "52.png"
+        },
+        "124": {
+            "text": {
+                "name": {
+                    "de-DE": "Schädelbruch",
+                    "en-US": "Crackin' Skulls",
+                    "es-ES": "Calaveras destrozadas",
+                    "fr-FR": "Explosion de crânes",
+                    "it-IT": "Spacca-teschi",
+                    "ja-JP": "砕け散るスカル",
+                    "ko-KR": "박치기왕의 해골",
+                    "pt-PT": "Crânios Esmagados",
+                    "zh-CHT": "擊破骷髏頭"
+                },
+                "description": {
+                    "de-DE": "Defiant: 3 Spieler mit dem Oddball in einem Oddball-Spielersuche-Spiel ausgeschaltet.",
+                    "en-US": "Defiant: Killed 3 players with the Oddball in a matchmade Oddball game.",
+                    "es-ES": "Desafiante: has matado a 3 jugadores con la bola loca en una partida de Bola loca en Matchmaking.",
+                    "fr-FR": "Bastion : vous avez tué 3 joueurs avec le Crâne lors d'une partie Crâne en Matchmaking.",
+                    "it-IT": "Defiant: hai ucciso 3 giocatori con il teschio in una partita Teschio matchmaking.",
+                    "ja-JP": "ディファイアント: マッチメイキング Oddball で、オッドボール キャリアを 3 人倒した",
+                    "ko-KR": "결사적 저항: 매치메이킹 Oddball 게임에서 아드 볼로 3명을 사살했습니다.",
+                    "pt-PT": "Desafio: Matou 3 jogadores numa partida organizada de Bola Maluca.",
+                    "zh-CHT": "Defiant：在 1 場配對保衛之王遊戲中，用聖骸殺死 3 位玩家。"
+                },
+                "howto": {
+                    "de-DE": "Defiant: 3 Spieler mit dem Oddball in einem Oddball-Spielersuche-Spiel ausschalten.",
+                    "en-US": "Defiant: Kill 3 players with the Oddball in a matchmade Oddball game.",
+                    "es-ES": "Desafiante: mata a 3 jugadores con la bola loca en una partida de Bola loca en Matchmaking.",
+                    "fr-FR": "Bastion : tuez 3 joueurs avec le Crâne lors d'une partie Crâne en Matchmaking.",
+                    "it-IT": "Defiant: uccidi 3 giocatori con il teschio in una partita Teschio matchmaking.",
+                    "ja-JP": "ディファイアント: マッチメイキング Oddball で、オッドボール キャリアを 3 人倒す",
+                    "ko-KR": "결사적 저항: 매치메이킹 Oddball 게임에서 아드 볼로 3명을 사살하십시오.",
+                    "pt-PT": "Desafio: Mate 3 jogadores numa partida organizada de Bola Maluca.",
+                    "zh-CHT": "Defiant：在 1 場配對保衛之王遊戲中，用聖骸殺死 3 位玩家。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "45",
+            "imageId": "53.png"
+        },
+        "125": {
+            "text": {
+                "name": {
+                    "de-DE": "Quer durch das Land",
+                    "en-US": "Cross-Mappin'",
+                    "es-ES": "Intermapa",
+                    "fr-FR": "D'un bout à l'autre",
+                    "it-IT": "Inter-mappa",
+                    "ja-JP": "クロスマップ",
+                    "ko-KR": "크로스 맵핑",
+                    "pt-PT": "Duma ponta à outra",
+                    "zh-CHT": "遠方殺人"
+                },
+                "description": {
+                    "de-DE": "Noble 1: Spieler mit DMR bei großer Distanz in einem Spielersuche-Showdown-Spiel ausgeschaltet.",
+                    "en-US": "Noble 1: Killed a player at long range with the DMR in a matchmade Slayer game.",
+                    "es-ES": "Noble 1: has abatido a un jugador a larga distancia con el DMR en Asesino en Matchmaking.",
+                    "fr-FR": "Noble 1 : a tué un joueur à longue distance avec le DMR lors d'une partie d'Assassin en Matchmaking.",
+                    "it-IT": "Noble 1: hai ucciso un giocatore dalla distanza con il DMR in una partita Massacro Matchmaking.",
+                    "ja-JP": "ノーブル 1: マッチメイキング Slayer で、DMR での遠隔攻撃により 1 キル達成",
+                    "ko-KR": "노블 1: 매치메이킹 Slayer 게임에서 DMR로 먼 거리의 플레이어를 사살했습니다.",
+                    "pt-PT": "Noble 1: matou um adversário com o DMR numa partida organizada de jogo Assassino.",
+                    "zh-CHT": "Noble 1：在配對殺戮之王遊戲中，以神射手步槍遠距殺死 1 位玩家。"
+                },
+                "howto": {
+                    "de-DE": "Noble 1: Schalten Sie einen Spieler im Spielersuche-Showdown-Spiel mit der Distanzwaffe DMR aus.",
+                    "en-US": "Noble 1: Kill a player at long range with the DMR in a matchmade Slayer game.",
+                    "es-ES": "Noble 1: abate a un jugador a larga distancia con el DMR en Asesino en Matchmaking.",
+                    "fr-FR": "Noble 1 : tuez un joueur à longue distance avec le DMR lors d'une partie d'Assassin en Matchmaking.",
+                    "it-IT": "Noble 1: uccidi un giocatore dalla distanza con il DMR in una partita Massacro Matchmaking.",
+                    "ja-JP": "ノーブル 1: マッチメイキング Slayer で、DMR での遠隔攻撃により 1 キルを達成する",
+                    "ko-KR": "노블 1: 매치메이킹 Slayer 게임에서 DMR로 먼 거리의 플레이어를 사살하십시오.",
+                    "pt-PT": "Noble 1: mate um adversário com o DMR numa partida organizada de jogo Assassino.",
+                    "zh-CHT": "Noble 1：在配對殺戮之王遊戲中，以神射手步槍遠距殺死 1 位玩家。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "54.png"
+        },
+        "126": {
+            "text": {
+                "name": {
+                    "de-DE": "Siegreiche Eroberung",
+                    "en-US": "You Ate All the Chips",
+                    "es-ES": "Te lo has comido todo",
+                    "fr-FR": "Vous avez tout pris",
+                    "it-IT": "Hai fatto piazza pulita",
+                    "ja-JP": "フラッグ コレクター",
+                    "ko-KR": "싹쓸이",
+                    "pt-PT": "Glutão",
+                    "zh-CHT": "你全吃了！"
+                },
+                "description": {
+                    "de-DE": "Noble 1: Ihr Team hat alle Flaggen in einem Spiel des Spielersuche-Spieltyps Hamstern gesammelt.",
+                    "en-US": "Noble 1: Your team collected all of the flags in a matchmade Stockpile game.",
+                    "es-ES": "Noble 1: tu equipo ha conseguido todas las banderas en Acaparamiento en Matchmaking.",
+                    "fr-FR": "Noble 1 : votre équipe a récupéré tous les drapeaux lors d'une partie Réserves en Matchmaking.",
+                    "it-IT": "Noble 1: la tua squadra ha ottenuto tutte le bandiere in una partita Scorta Matchmaking.",
+                    "ja-JP": "ノーブル 1: マッチメイキング Stockpile で、すべてのフラッグを回収",
+                    "ko-KR": "노블 1: 참가한 팀이 매치메이킹 Stockpile 게임에서 모든 깃발을 획득했습니다.",
+                    "pt-PT": "Noble 1: sua equipe coletou todas as bandeiras numa partida organizada de jogo de Reservas.",
+                    "zh-CHT": "Noble 1：你的團隊在配對收集旗幟遊戲中，收集到所有旗幟。"
+                },
+                "howto": {
+                    "de-DE": "Noble 1: Sammeln Sie alle Flaggen in einem Spiel des Spielersuche-Spieltyps Hamstern.",
+                    "en-US": "Noble 1: Collect all of the flags in a matchmade Stockpile game.",
+                    "es-ES": "Noble 1: consigue todas las banderas en Acaparamiento en Matchmaking.",
+                    "fr-FR": "Noble 1 : récupérez tous les drapeaux lors d'une partie Réserves en Matchmaking.",
+                    "it-IT": "Noble 1: ottieni tutte le bandiere in una partita Scorta Matchmaking.",
+                    "ja-JP": "ノーブル 1: マッチメイキング Stockpile で、すべてのフラッグを回収する",
+                    "ko-KR": "노블 1: 매치메이킹 Stockpile 게임에서 모든 깃발을 획득하십시오.",
+                    "pt-PT": "Noble 1: colete todas as bandeiras numa partida organizada de jogo de Reservas.",
+                    "zh-CHT": "Noble 1：在配對收集旗幟遊戲中，收集所有旗幟。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "42",
+            "imageId": "55.png"
+        },
+        "127": {
+            "text": {
+                "name": {
+                    "de-DE": "Schnullerklau",
+                    "en-US": "Candy from a Baby",
+                    "es-ES": "El caramelo de un niño",
+                    "fr-FR": "Une petite gâterie",
+                    "it-IT": "Rubare le caramelle a un bambino",
+                    "ja-JP": "いともたやすく",
+                    "ko-KR": "아기에게서 사탕 뺏기",
+                    "pt-PT": "Pirulito roubado ao nenê",
+                    "zh-CHT": "輕而易舉"
+                },
+                "description": {
+                    "de-DE": "Defiant: Zwei Flaggen aus Eroberungszone in einem Hamstern-Spielersuche-Spiel erfolgreich erobert.",
+                    "en-US": "Defiant: Captured two flags from an enemy capture zone in a matchmade Stockpile game.",
+                    "es-ES": "Desafiante: dos banderas capturadas de una zona de captura enemiga en Acaparamiento en Matchmaking.",
+                    "fr-FR": "Bastion : vous avez pris 2 drapeaux dans une zone ennemie lors d'une partie Réserves en Matchmaking.",
+                    "it-IT": "Defiant: hai conquistato 2 bandiere da un'area di cattura nemica in una partita Scorta matchmaking.",
+                    "ja-JP": "ディファイアント: マッチメイキング Stockpile で、敵陣からフラッグを 2 本奪った",
+                    "ko-KR": "결사적 저항: 매치메이킹 Stockpile 게임 중에 적의 획득 지역 한 곳에서 2개의 깃발을 빼앗았습니다.",
+                    "pt-PT": "Desafio: Capturou 2 bandeiras duma zona de captura inimiga numa partida organizada de Reservas.",
+                    "zh-CHT": "Defiant：在 1 場配對收集旗幟遊戲中，從敵軍陣地搶到 2 面旗幟。"
+                },
+                "howto": {
+                    "de-DE": "Defiant: Zwei Flaggen aus Eroberungszone in einem Hamstern-Spielersuche-Spiel erfolgreich erobern.",
+                    "en-US": "Defiant: Capture two flags from an enemy capture zone in a matchmade Stockpile game.",
+                    "es-ES": "Desafiante: captura dos banderas de una zona de captura enemiga en Acaparamiento en Matchmaking.",
+                    "fr-FR": "Bastion : capturez deux drapeaux dans une zone ennemie lors d'une partie Réserves en Matchmaking.",
+                    "it-IT": "Defiant: conquista due bandiere da un'area di cattura nemica in una partita Scorta matchmaking.",
+                    "ja-JP": "ディファイアント: マッチメイキング Stockpile で、敵陣からフラッグを 2 本奪う",
+                    "ko-KR": "결사적 저항: 매치메이킹 Stockpile 게임 중에 적의 획득 지역 한 곳에서 2개의 깃발을 빼앗으십시오.",
+                    "pt-PT": "Desafio: Capture 2 bandeiras duma zona de captura inimiga numa partida organizada de Reservas.",
+                    "zh-CHT": "Defiant：在 1 場配對收集旗幟遊戲中，從敵軍陣地搶到 2 面旗幟。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "75",
+            "imageId": "56.png"
+        },
+        "128": {
+            "text": {
+                "name": {
+                    "de-DE": "In die Luft gejagt!",
+                    "en-US": "You Blew It Up!",
+                    "es-ES": "¡Te la has cargado!",
+                    "fr-FR": "Ça a pété !",
+                    "it-IT": "L'hai fatta saltare!",
+                    "ja-JP": "ブローアップ",
+                    "ko-KR": "승리 굳히기",
+                    "pt-PT": "Bem estourado!",
+                    "zh-CHT": "你炸掉那裡了！"
+                },
+                "description": {
+                    "de-DE": "Ihr Team hat die Forschungseinrichtung in 'Haltepunkt' im Spielersuche-Invasionsspiel gesprengt.",
+                    "en-US": "Noble 1: Your team blew up the research facility in a matchmade Invasion game on Breakpoint.",
+                    "es-ES": "Noble 1: tu equipo ha volado la estación de investigación de Breakpoint en Invasión en Matchmaking.",
+                    "fr-FR": "Noble 1 : votre équipe a explosé les labos de Point de rupture lors d'une Invasion en Matchmaking.",
+                    "it-IT": "Noble 1: la tua squadra ha fatto saltare la struttura in Invasione Matchmaking su Punto di rottura.",
+                    "ja-JP": "ノーブル 1: マッチメイキング Invasion のマップ Breakpoint で、味方チームが研究施設を爆破",
+                    "ko-KR": "노블 1: 참가한 팀이 Breakpoint에서 벌어진 매치메이킹 Invasion 게임에서 연구 시설을 파괴했습니다.",
+                    "pt-PT": "Noble 1: explodiu a Estação de pesquisas numa partida organizada de jogo Invasão no Breakpoint.",
+                    "zh-CHT": "Noble 1：你的團隊在 Breakpoint 的配對入侵遊戲中，炸掉研究設施。"
+                },
+                "howto": {
+                    "de-DE": "Noble 1: Sprengen Sie die Forschungseinrichtung in 'Haltepunkt' im Spielersuche-Invasionsspiel.",
+                    "en-US": "Noble 1: Blow up the research facility in a matchmade Invasion game on Breakpoint.",
+                    "es-ES": "Noble 1: vuela la estación de investigación de Breakpoint en Invasión en Matchmaking.",
+                    "fr-FR": "Noble 1 : explose les labos de recherche de Point de rupture lors d'une Invasion en Matchmaking.",
+                    "it-IT": "Noble 1: distruggi la struttura di ricerca in una partita Invasione Matchmaking su Punto di rottura.",
+                    "ja-JP": "ノーブル 1: マッチメイキング Invasion のマップ Breakpoint で、研究施設を爆破する",
+                    "ko-KR": "노블 1: Breakpoint에서 벌어진 매치메이킹 Invasion 게임에서 연구 시설을 파괴하십시오.",
+                    "pt-PT": "Noble 1: expluda a Estação de pesquisas numa partida organizada de jogo Invasão no Breakpoint.",
+                    "zh-CHT": "Noble 1：在 Breakpoint 的配對入侵遊戲中，炸掉研究設施。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "13",
+            "imageId": "57.png"
+        },
+        "129": {
+            "text": {
+                "name": {
+                    "de-DE": "Mit Ach und Krach",
+                    "en-US": "Poppin' & Lockin'",
+                    "es-ES": "Disparo y bloqueo",
+                    "fr-FR": "Verrouillage intempestif",
+                    "it-IT": "Blocco distruttivo",
+                    "ja-JP": "ポップ & ロック",
+                    "ko-KR": "흔들리지 않는 강력함",
+                    "pt-PT": "Travagem brutal",
+                    "zh-CHT": "鎖定法破壞"
+                },
+                "description": {
+                    "de-DE": "Noble 1: Fahrzeug mithilfe des Panzerungsschilds in einem Spielersuche-Spiel zerstört.",
+                    "en-US": "Noble 1: Destroyed a vehicle using Armor Lock in a matchmade game.",
+                    "es-ES": "Noble 1: has destruido un vehículo con bloqueo de armadura en una partida en Matchmaking.",
+                    "fr-FR": "Noble 1 : a détruit un véhicule à l'aide de la Carapace lors d'une partie en Matchmaking.",
+                    "it-IT": "Noble 1: hai distrutto un veicolo usando il Blocco armatura in una partita Matchmaking.",
+                    "ja-JP": "ノーブル 1: マッチメイキングで、アーマーロックを使って乗り物を破壊",
+                    "ko-KR": "노블 1: 매치메이킹 게임에서 부동 방어로 차량을 파괴했습니다.",
+                    "pt-PT": "Noble 1: destruiu um veículo usando o Travamento de armadura numa partida organizada de jogo.",
+                    "zh-CHT": "Noble 1：在配對遊戲中，使用護甲鎖摧毀 1 輛載具。"
+                },
+                "howto": {
+                    "de-DE": "Noble 1: Zerstören Sie ein Fahrzeug mithilfe des Panzerungsschilds in einem Spielersuche-Spiel.",
+                    "en-US": "Noble 1: Destroy a vehicle using Armor Lock in a matchmade game.",
+                    "es-ES": "Noble 1: destruye un vehículo con bloqueo de armadura en una partida en Matchmaking.",
+                    "fr-FR": "Noble 1 : détruisez un véhicule à l'aide de la Carapace lors d'une partie en Matchmaking.",
+                    "it-IT": "Noble 1: distruggi un veicolo usando il Blocco armatura in una partita Matchmaking.",
+                    "ja-JP": "ノーブル 1: マッチメイキングで、アーマーロックを使って乗り物を破壊する",
+                    "ko-KR": "노블 1: 매치메이킹 게임에서 부동 방어로 차량을 파괴하십시오.",
+                    "pt-PT": "Noble 1: destrua um veículo usando o Travamento de armadura numa partida organizada de jogo.",
+                    "zh-CHT": "Noble 1：在配對遊戲中，使用護甲鎖摧毀 1 輛載具。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "58.png"
+        },
+        "130": {
+            "text": {
+                "name": {
+                    "de-DE": "Aggressives Fahrverhalten",
+                    "en-US": "Offensive Driver",
+                    "es-ES": "Piloto ofensivo",
+                    "fr-FR": "Pilote agressif",
+                    "it-IT": "Pilota aggressivo",
+                    "ja-JP": "デンジャラス ドライバー",
+                    "ko-KR": "난폭 운전",
+                    "pt-PT": "Motorista ofensivo",
+                    "zh-CHT": "攻擊型駕駛"
+                },
+                "description": {
+                    "de-DE": "Noble 1: Abschuss in einem Spielersuche-Raketenrennen-Spiel erzielt.",
+                    "en-US": "Noble 1: Earned a kill in a matchmade Rocket Race game.",
+                    "es-ES": "Noble 1: has conseguido una baja en una partida de Carrera cohete en Matchmaking.",
+                    "fr-FR": "Noble 1 : a effectué un frag lors d'une partie Rocket Race en Matchmaking.",
+                    "it-IT": "Noble 1: hai ottenuto un'uccisione in una partita Corsa con lanciarazzi Matchmaking.",
+                    "ja-JP": "ノーブル 1: マッチメイキング Rocket Race で 1 キル達成",
+                    "ko-KR": "노블 1: 매치메이킹 Rocket Race 게임에서 사살 1회를 달성했습니다.",
+                    "pt-PT": "Noble 1: ganhou uma morte numa partida organizada de Corrida de foguetes.",
+                    "zh-CHT": "Noble 1：在配對火箭賽車遊戲中殺人。"
+                },
+                "howto": {
+                    "de-DE": "Noble 1: Erzielen sie einen Abschuss in einem Spielersuche-Raketenrennen-Spiel.",
+                    "en-US": "Noble 1: Earn a kill in a matchmade Rocket Race game.",
+                    "es-ES": "Noble 1: consigue una baja en una partida de Carrera cohete en Matchmaking.",
+                    "fr-FR": "Noble 1 : effectuez un frag lors d'une partie Rocket Race en Matchmaking.",
+                    "it-IT": "Noble 1: ottieni un'uccisione in una partita Corsa con lanciarazzi Matchmaking.",
+                    "ja-JP": "ノーブル 1: マッチメイキング Rocket Race で 1 キルを達成する",
+                    "ko-KR": "노블 1: 매치메이킹 Rocket Race 게임에서 사살 1회를 달성하십시오.",
+                    "pt-PT": "Noble 1: ganhe uma morte numa partida organizada de Corrida de foguetes.",
+                    "zh-CHT": "Noble 1：在配對火箭賽車遊戲中殺人。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "59.png"
+        }
+    }
+}

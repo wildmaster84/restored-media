@@ -1,0 +1,1508 @@
+{
+    "Achievements": {
+        "41": {
+            "text": {
+                "name": {
+                    "de-DE": "Das War Nicht So Schwer",
+                    "en-US": "That Wasn't So Hard",
+                    "es-ES": "No era tan difícil",
+                    "fr-FR": "C'était pas si terrible",
+                    "it-IT": "Niente di che",
+                    "ja-JP": "楽勝！"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie eine Szene als Bishops Teamkamerad Knight im Storymodus Miteinander.",
+                    "en-US": "Complete a scene as Bishop's teammate, Knight, in co-op Story mode at any difficulty.",
+                    "es-ES": "Completar 1 escena como el compañero de Bishop, Knight, en Historia Coop, en cualquier dificultad.",
+                    "fr-FR": "Finir une scène avec Knight, l'équipier de Bishop, dans un Scénario coop de difficulté quelconque.",
+                    "it-IT": "Completare una scena come Knight in modalità Storia cooperativa a qualunque grado di difficoltà.",
+                    "ja-JP": "協力ストーリーモードにおいて、ビショップのチームメイトであるナイトとしてシーンをプレイする。難易度は自由"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie eine Szene als Bishops Teamkamerad Knight im Storymodus Miteinander.",
+                    "en-US": "Complete a scene as Bishop's teammate, Knight, in co-op Story mode at any difficulty.",
+                    "es-ES": "Completar 1 escena como el compañero de Bishop, Knight, en Historia Coop, en cualquier dificultad.",
+                    "fr-FR": "Finir une scène avec Knight, l'équipier de Bishop, dans un Scénario coop de difficulté quelconque.",
+                    "it-IT": "Completare una scena come Knight in modalità Storia cooperativa a qualunque grado di difficoltà.",
+                    "ja-JP": "協力ストーリーモードにおいて、ビショップのチームメイトであるナイトとしてシーンをプレイする。難易度は自由"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "01.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "Pyrenäengipfel beendet",
+                    "en-US": "Completed Pic des Pyrénées",
+                    "es-ES": "Pico de los Pirineos completado",
+                    "fr-FR": "Pic des Pyrénées terminé",
+                    "it-IT": "Completato Pic des Pyrénées",
+                    "ja-JP": "ピク・デュ・ピレネー・クリア"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie Pyrenäengipfel im Storymodus mit beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Complete Pic des Pyrénées in Story Mode at any difficulty.",
+                    "es-ES": "Completar la misión Pico de los Pirineos en modo Historia en cualquier dificultad.",
+                    "fr-FR": "Terminer le Pic des Pyrénées en mode Scénario à un niveau de difficulté quelconque.",
+                    "it-IT": "Hai completato Pic des Pyrénées in modalità Storia a qualunque grado di difficoltà.",
+                    "ja-JP": "ストーリーモードでピク・デュ・ピレネーをクリアする。難易度は自由"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie Pyrenäengipfel im Storymodus mit beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Complete Pic des Pyrénées in Story Mode at any difficulty.",
+                    "es-ES": "Completar la misión Pico de los Pirineos en modo Historia en cualquier dificultad.",
+                    "fr-FR": "Terminer le Pic des Pyrénées en mode Scénario à un niveau de difficulté quelconque.",
+                    "it-IT": "Completare Pic des Pyrénées in modalità Storia a qualunque grado di difficoltà.",
+                    "ja-JP": "ストーリーモードでピク・デュ・ピレネーをクリアする。難易度は自由"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "02.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "Old Vegas beendet",
+                    "en-US": "Completed Old Vegas",
+                    "es-ES": "Vieja Las Vegas completada",
+                    "fr-FR": "Vieux Vegas terminé",
+                    "it-IT": "Completato Old Vegas",
+                    "ja-JP": "オールドベガス・クリア"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie Old Vegas im Storymodus mit beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Complete Old Vegas in Story Mode at any difficulty.",
+                    "es-ES": "Completar la misión Vieja Las Vegas en modo Historia en cualquier dificultad.",
+                    "fr-FR": "Terminer le Vieux Vegas en mode Scénario à un niveau de difficulté quelconque.",
+                    "it-IT": "Hai completato Old Vegas in modalità Storia a qualunque grado di difficoltà.",
+                    "ja-JP": "ストーリーモードでオールドベガスをクリアする。難易度は自由"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie Old Vegas im Storymodus mit beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Complete Old Vegas in Story Mode at any difficulty.",
+                    "es-ES": "Completar la misión Vieja Las Vegas en modo Historia en cualquier dificultad.",
+                    "fr-FR": "Terminer le Vieux Vegas en mode Scénario à un niveau de difficulté quelconque.",
+                    "it-IT": "Completare Old Vegas in modalità Storia a qualunque grado di difficoltà.",
+                    "ja-JP": "ストーリーモードでオールドベガスをクリアする。難易度は自由"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "03.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "de-DE": "Freizeit-Center beendet",
+                    "en-US": "Completed Recreational Center",
+                    "es-ES": "Centro de ocio completado",
+                    "fr-FR": "Complexe de loisirs terminé",
+                    "it-IT": "Completato Centro ricreativo",
+                    "ja-JP": "レクリエーションセンター・クリア"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie Freizeit-Center im Storymodus mit beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Complete Recreational Center in Story Mode at any difficulty.",
+                    "es-ES": "Completar la misión Centro de ocio en modo Historia en cualquier dificultad.",
+                    "fr-FR": "Terminer le Complexe de loisirs en mode Scénario à un niveau de difficulté quelconque.",
+                    "it-IT": "Hai completato Centro ricreativo in modalità Storia a qualunque grado di difficoltà.",
+                    "ja-JP": "ストーリーモードでレクリエーションセンターをクリアする。難易度は自由"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie Freizeit-Center im Storymodus mit beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Complete Recreational Center in Story Mode at any difficulty.",
+                    "es-ES": "Completar la misión Centro de ocio en modo Historia en cualquier dificultad.",
+                    "fr-FR": "Terminer le Complexe de loisirs en mode Scénario à un niveau de difficulté quelconque.",
+                    "it-IT": "Completare Centro ricreativo in modalità Storia a qualunque grado di difficoltà.",
+                    "ja-JP": "ストーリーモードでレクリエーションセンターをクリアする。難易度は自由"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "04.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "Convention-Center beendet",
+                    "en-US": "Completed Convention Center",
+                    "es-ES": "Centro convenciones completado",
+                    "fr-FR": "Palais des congrès terminé",
+                    "it-IT": "Completato Centro congressi",
+                    "ja-JP": "コンベンション・クリア"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie Convention-Center im Storymodus mit beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Complete Convention Center in Story Mode at any difficulty.",
+                    "es-ES": "Completar la misión Centro de convenciones en modo Historia en cualquier dificultad.",
+                    "fr-FR": "Terminer le Palais des congrès en mode Scénario à un niveau de difficulté quelconque.",
+                    "it-IT": "Hai completato Centro congressi in modalità Storia a qualunque grado di difficoltà.",
+                    "ja-JP": "ストーリーモードでコンベンションをクリアする。難易度は自由"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie Convention-Center im Storymodus mit beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Complete Convention Center in Story Mode at any difficulty.",
+                    "es-ES": "Completar la misión Centro de convenciones en modo Historia en cualquier dificultad.",
+                    "fr-FR": "Terminer le Palais des congrès en mode Scénario à un niveau de difficulté quelconque.",
+                    "it-IT": "Completare Centro congressi in modalità Storia a qualunque grado di difficoltà.",
+                    "ja-JP": "ストーリーモードでコンベンションをクリアする。難易度は自由"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "05.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "Freiheit wird triumphieren",
+                    "en-US": "Freedom Shall Prevail",
+                    "es-ES": "Libertad ante todo",
+                    "fr-FR": "La liberté l'emportera",
+                    "it-IT": "Campione della libertà",
+                    "ja-JP": "自由の勝利"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie den Story-Modus im Schwierigkeitsgrad Realistisch.",
+                    "en-US": "Complete the Story Mode on Realistic difficulty.",
+                    "es-ES": "Completar modo Historia en el nivel de dificultad realista.",
+                    "fr-FR": "Terminer le mode Scénario au niveau de difficulté Réaliste.",
+                    "it-IT": "Hai completato la modalità Storia al grado di difficoltà Realistico.",
+                    "ja-JP": "ストーリーモードを難易度リアルでクリアする"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie den Story-Modus im Schwierigkeitsgrad Realistisch.",
+                    "en-US": "Complete the Story Mode on Realistic difficulty.",
+                    "es-ES": "Completar modo Historia en el nivel de dificultad realista.",
+                    "fr-FR": "Terminer le mode Scénario au niveau de difficulté Réaliste.",
+                    "it-IT": "Completare la modalità Storia al grado di difficoltà Realistico.",
+                    "ja-JP": "ストーリーモードを難易度リアルでクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "75",
+            "imageId": "06.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "de-DE": "Ich mag das Geräusch",
+                    "en-US": "I Like the Sound it Makes",
+                    "es-ES": "Me gusta ese sonido",
+                    "fr-FR": "J'aime le bruit qu'il fait",
+                    "it-IT": "Adoro il rumore che fa",
+                    "ja-JP": "ショットガンマニア"
+                },
+                "description": {
+                    "de-DE": "Töten Sie 150 Terroristen mit einer Schrotflinte.",
+                    "en-US": "Kill 150 terrorists with a Shotgun.",
+                    "es-ES": "Matar a 150 terroristas con una escopeta.",
+                    "fr-FR": "Tuer 150 terroristes avec un fusil de chasse.",
+                    "it-IT": "Hai ucciso 150 terroristi con un fucile a pompa.",
+                    "ja-JP": "ショットガンで150人のテロリストを倒す"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie 150 Terroristen mit einer Schrotflinte.",
+                    "en-US": "Kill 150 terrorists with a Shotgun.",
+                    "es-ES": "Matar a 150 terroristas con una escopeta.",
+                    "fr-FR": "Tuer 150 terroristes avec un fusil de chasse.",
+                    "it-IT": "Uccidere 150 terroristi con un fucile a pompa.",
+                    "ja-JP": "ショットガンで150人のテロリストを倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "07.png"
+        },
+        "51": {
+            "text": {
+                "name": {
+                    "de-DE": "Waffensammler",
+                    "en-US": "Weapon Collector",
+                    "es-ES": "Coleccionista de armas",
+                    "fr-FR": "Collectionneur d'armes",
+                    "it-IT": "Collezionista d'armi",
+                    "ja-JP": "武器コレクター"
+                },
+                "description": {
+                    "de-DE": "Schalten Sie alle Waffen im Spiel frei.",
+                    "en-US": "Unlock every weapon in the game.",
+                    "es-ES": "Desbloquear todas las armas del juego.",
+                    "fr-FR": "Débloquer toutes les armes du jeu.",
+                    "it-IT": "Hai sbloccato tutte le armi del gioco.",
+                    "ja-JP": "ゲーム内のすべての武器が使用可能に"
+                },
+                "howto": {
+                    "de-DE": "Schalten Sie alle Waffen im Spiel frei.",
+                    "en-US": "Unlock every weapon in the game.",
+                    "es-ES": "Desbloquear todas las armas del juego.",
+                    "fr-FR": "Débloquer toutes les armes du jeu.",
+                    "it-IT": "Sbloccare tutte le armi del gioco.",
+                    "ja-JP": "ゲーム内のすべての武器が使用可能に"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "08.png"
+        },
+        "52": {
+            "text": {
+                "name": {
+                    "de-DE": "Abseil-König",
+                    "en-US": "Rappel King",
+                    "es-ES": "El rey del rappel",
+                    "fr-FR": "Roi du rappel",
+                    "it-IT": "Scalatore letale",
+                    "ja-JP": "ラペルキング"
+                },
+                "description": {
+                    "de-DE": "Töten Sie 25 Gegner, während Sie an einem Seil hängen.",
+                    "en-US": "Kill 25 enemies while suspended from a rope.",
+                    "es-ES": "Matar a 25 enemigos colgado de una cuerda.",
+                    "fr-FR": "Tuer 25 ennemis en étant suspendu à une corde.",
+                    "it-IT": "Hai ucciso 25 nemici mentre eri appeso a una fune.",
+                    "ja-JP": "ロープにぶら下がったまま、合計25人の敵を倒す"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie 25 Gegner, während Sie an einem Seil hängen.",
+                    "en-US": "Kill 25 enemies while suspended from a rope.",
+                    "es-ES": "Matar a 25 enemigos colgado de una cuerda.",
+                    "fr-FR": "Tuer 25 ennemis en étant suspendu à une corde.",
+                    "it-IT": "Uccidere un totale di 25 nemici mentre si è appesi a una fune.",
+                    "ja-JP": "ロープにぶら下がったまま、合計25人の敵を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "54": {
+            "text": {
+                "name": {
+                    "de-DE": "Mein Name ist Sam",
+                    "en-US": "My Name is Sam",
+                    "es-ES": "Me llamo Sam",
+                    "fr-FR": "Je m'appelle Sam",
+                    "it-IT": "Il mio nome è Sam",
+                    "ja-JP": "俺の名前はサム"
+                },
+                "description": {
+                    "de-DE": "Töten Sie 5 Terroristen hintereinander mit Schalldämpfer per Kopfschuss.",
+                    "en-US": "Neutralize 5 terrorists in a row by performing headshots using a Sound Suppressor.",
+                    "es-ES": "Neutralizar a 5 terroristas seguidos con disparos a la cabeza usando silenciador.",
+                    "fr-FR": "Neutraliser 5 terroristes d'affilée en leur tirant dans la tête et en utilisant un silencieux.",
+                    "it-IT": "Hai neutralizzato 5 terroristi di fila colpendoli alla testa con un'arma silenziata.",
+                    "ja-JP": "サプレッサーを使い、テロリストを5人連続ヘッドショットで倒す"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie 5 Terroristen hintereinander mit Schalldämpfer per Kopfschuss.",
+                    "en-US": "Neutralize 5 terrorists in a row by performing headshots using a Sound Suppressor.",
+                    "es-ES": "Neutralizar a 5 terroristas seguidos con disparos a la cabeza usando silenciador.",
+                    "fr-FR": "Neutraliser 5 terroristes d'affilée en leur tirant dans la tête et en utilisant un silencieux.",
+                    "it-IT": "Neutralizzare 5 terroristi di fila colpendoli alla testa con un'arma silenziata.",
+                    "ja-JP": "サプレッサーを使い、テロリストを5人連続ヘッドショットで倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "10.png"
+        },
+        "56": {
+            "text": {
+                "name": {
+                    "de-DE": "Gib mir 5!",
+                    "en-US": "Gimme a High Five!",
+                    "es-ES": "Choca esos cinco",
+                    "fr-FR": "Allez, tope là !",
+                    "it-IT": "Dammi il cinque!",
+                    "ja-JP": "ハイファイブ！"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie 5 Szenen als Bishops Teamkamerad Knight im Storymodus Miteinander.",
+                    "en-US": "Complete 5 scenes as Bishop's teammate, Knight, in co-op Story mode at any difficulty.",
+                    "es-ES": "Completar 5 escenas como el compañero de Bishop, Knight, en Historia Coop, en cualquier dificultad.",
+                    "fr-FR": "Finir 5 scènes avec Knight, l'équipier de Bishop, dans un Scénario coop de difficulté quelconque.",
+                    "it-IT": "Completare 5 scene come Knight in modalità Storia cooperativa a qualunque grado di difficoltà.",
+                    "ja-JP": "協力ストーリーモードにおいて、ビショップのチームメイトであるナイトとして5回シーンをプレイする"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie 5 Szenen als Bishops Teamkamerad Knight im Storymodus Miteinander.",
+                    "en-US": "Complete 5 scenes as Bishop's teammate, Knight, in co-op Story mode at any difficulty.",
+                    "es-ES": "Completar 5 escenas como el compañero de Bishop, Knight, en Historia Coop, en cualquier dificultad.",
+                    "fr-FR": "Finir 5 scènes avec Knight, l'équipier de Bishop, dans un Scénario coop de difficulté quelconque.",
+                    "it-IT": "Completare 5 scene come Knight in modalità Storia cooperativa a qualunque grado di difficoltà.",
+                    "ja-JP": "協力ストーリーモードにおいて、ビショップのチームメイトであるナイトとして5回シーンをプレイする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "57": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein übler Fünfer!",
+                    "en-US": "Here's for a Wicked Five!",
+                    "es-ES": "¡A ver esos cinco otra vez!",
+                    "fr-FR": "Trop fort !",
+                    "it-IT": "Dammi altri cinque!",
+                    "ja-JP": "最強5人衆参上！"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie 10 Szenen als Bishops Teamkamerad Knight im Storymodus Miteinander.",
+                    "en-US": "Complete 10 scenes as Bishop's teammate, Knight, in co-op Story mode at any difficulty.",
+                    "es-ES": "Completar 10 escenas como el compañero de Bishop, Knight, en Historia Coop, en cualquier dificultad.",
+                    "fr-FR": "Finir 10 scènes avec Knight, l'équipier de Bishop, dans un Scénario coop de difficulté quelconque.",
+                    "it-IT": "Completare 10 scene come Knight in modalità Storia cooperativa a qualunque grado di difficoltà.",
+                    "ja-JP": "協力ストーリーモードにおいて、ビショップのチームメイトであるナイトとして10回シーンをプレイする。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie 10 Szenen als Bishops Teamkamerad Knight im Storymodus Miteinander.",
+                    "en-US": "Complete 10 scenes as Bishop's teammate, Knight, in co-op Story mode at any difficulty.",
+                    "es-ES": "Completar 10 escenas como el compañero de Bishop, Knight, en Historia Coop. en cualquier dificultad.",
+                    "fr-FR": "Finir 10 scènes avec Knight, l'équipier de Bishop, dans un Scénario coop de difficulté quelconque.",
+                    "it-IT": "Completare 10 scene come Knight in modalità Storia cooperativa a qualunque grado di difficoltà.",
+                    "ja-JP": "協力ストーリーモードにおいて、ビショップのチームメイトであるナイトとして10回シーンをプレイする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "12.png"
+        },
+        "58": {
+            "text": {
+                "name": {
+                    "de-DE": "Jagdnovize",
+                    "en-US": "Novice Hunter",
+                    "es-ES": "Cazador novato",
+                    "fr-FR": "Chasseur novice",
+                    "it-IT": "Cacciatore novizio",
+                    "ja-JP": "ビギナーハンター"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie Ihre erste Terroristenjagd mit beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Complete your first Terrorist Hunt mission at any difficulty.",
+                    "es-ES": "Completar la primera misión de Caza del terrorista en cualquier dificultad.",
+                    "fr-FR": "Terminer votre première Chasse aux terroristes à un niveau de difficulté quelconque.",
+                    "it-IT": "Hai compiuto la prima missione di Caccia ai terroristi a qualunque grado di difficoltà.",
+                    "ja-JP": "最初のテロリストハント・ミッションをクリアする。難易度は自由"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie Ihre erste Terroristenjagd mit beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Complete your first Terrorist Hunt mission at any difficulty.",
+                    "es-ES": "Completar la primera misión de Caza del terrorista en cualquier dificultad.",
+                    "fr-FR": "Terminer votre première Chasse aux terroristes à un niveau de difficulté quelconque.",
+                    "it-IT": "Compiere la prima missione di Caccia ai terroristi a qualunque grado di difficoltà.",
+                    "ja-JP": "最初のテロリストハント・ミッションをクリアする。難易度は自由"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "13.png"
+        },
+        "59": {
+            "text": {
+                "name": {
+                    "de-DE": "Jagdveteran",
+                    "en-US": "Veteran Hunter",
+                    "es-ES": "Cazador veterano",
+                    "fr-FR": "Chasseur vétéran",
+                    "it-IT": "Cacciatore veterano",
+                    "ja-JP": "ベテランハンター"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie 5 Terroristenjagd-Missionen mit beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Complete 5 Terrorist Hunt missions at any difficulty.",
+                    "es-ES": "Completar 5 misiones de Caza del terrorista en cualquier dificultad.",
+                    "fr-FR": "Terminer 5 Chasses aux terroristes à un niveau de difficulté quelconque.",
+                    "it-IT": "Hai compiuto 5 missioni di Caccia ai terroristi a qualunque grado di difficoltà.",
+                    "ja-JP": "テロリストハント・ミッションを5回クリアする。難易度は自由"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie 5 Terroristenjagd-Missionen mit beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Complete 5 Terrorist Hunt missions at any difficulty.",
+                    "es-ES": "Completar 5 misiones de Caza del terrorista en cualquier dificultad.",
+                    "fr-FR": "Terminer 5 Chasses aux terroristes à un niveau de difficulté quelconque.",
+                    "it-IT": "Compiere 5 missioni di Caccia ai terroristi a qualunque grado di difficoltà.",
+                    "ja-JP": "テロリストハント・ミッションを5回クリアする。難易度は自由"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "14.png"
+        },
+        "60": {
+            "text": {
+                "name": {
+                    "de-DE": "Geborener Anführer",
+                    "en-US": "Natural Leader",
+                    "es-ES": "Líder nato",
+                    "fr-FR": "Leader-né",
+                    "it-IT": "Leader naturale",
+                    "ja-JP": "ナチュラルボーン・リーダー"
+                },
+                "description": {
+                    "de-DE": "Führen Sie Ihr Team im Modus Team-Anführer 20 Mal mit mindestens 6 anwesenden Spielern zum Sieg.",
+                    "en-US": "Lead your team to Victory 20 times in Team Leader with at least 6 players present.",
+                    "es-ES": "Llevar a tu equipo a la victoria 20 veces en el modo Líder de Equipo con al menos 6 jugadores.",
+                    "fr-FR": "En tant que leader, conduire votre équipe à la victoire 20 fois avec au moins 6 joueurs présents.",
+                    "it-IT": "Guidare la squadra alla vittoria 20 volte in partite di Caposquadra con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するゲームにおいて、チームリーダーとして自分のチームを20回勝利に導く"
+                },
+                "howto": {
+                    "de-DE": "Führen Sie Ihr Team im Modus Team-Anführer 20 Mal mit mindestens 6 anwesenden Spielern zum Sieg.",
+                    "en-US": "Lead your team to Victory 20 times in Team Leader with at least 6 players present.",
+                    "es-ES": "Llevar a tu equipo a la victoria 20 veces en el modo Líder de Equipo con al menos 6 jugadores.",
+                    "fr-FR": "En tant que leader, conduire votre équipe à la victoire 20 fois avec au moins 6 joueurs présents.",
+                    "it-IT": "Guidare la squadra alla vittoria 20 volte in partite di Caposquadra con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するゲームにおいて、チームリーダーとして自分のチームを20回勝利に導く"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "15.png"
+        },
+        "61": {
+            "text": {
+                "name": {
+                    "de-DE": "Superjäger",
+                    "en-US": "Extreme Hunter",
+                    "es-ES": "El gran cazador",
+                    "fr-FR": "Chasseur d'élite",
+                    "it-IT": "Cacciatore estremo",
+                    "ja-JP": "エクストリームハンター"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie alle Terroristenjagd-Missionen im Schwierigkeitsgrad Realistisch.",
+                    "en-US": "Complete all Terrorist Hunt missions on Realistic difficulty.",
+                    "es-ES": "Completar todas las misiones de Caza del terrorista en dificultad realista.",
+                    "fr-FR": "Terminer toutes les Chasses aux terroristes au niveau Réaliste.",
+                    "it-IT": "Hai compiuto tutte le missioni di Caccia ai terroristi al grado di difficoltà Realistico.",
+                    "ja-JP": "最高難易度ですべてのテロリストハント・ミッションをクリアする。"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie alle Terroristenjagd-Missionen im Schwierigkeitsgrad Realistisch.",
+                    "en-US": "Complete all Terrorist Hunt missions on Realistic difficulty.",
+                    "es-ES": "Completar todas las misiones de Caza del terrorista en dificultad realista.",
+                    "fr-FR": "Terminer toutes les Chasses aux terroristes au niveau Réaliste.",
+                    "it-IT": "Compiere tutte le missioni di Caccia ai terroristi al grado di difficoltà Realistico.",
+                    "ja-JP": "最高難易度ですべてのテロリストハント・ミッションをクリアする。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "16.png"
+        },
+        "62": {
+            "text": {
+                "name": {
+                    "de-DE": "Immer ran damit!",
+                    "en-US": "Bring it on!",
+                    "es-ES": "A por ello",
+                    "fr-FR": "À nous !",
+                    "it-IT": "Continua così!",
+                    "ja-JP": "腕利きハンター"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie eine Terroristenjagd-Mission im härtesten Schwierigkeitsgrad.",
+                    "en-US": "Complete a Terrorist Hunt mission at the hardest difficulty.",
+                    "es-ES": "Completar una misión de Caza del terrorista en la dificultad máxima.",
+                    "fr-FR": "Terminer une Chasse aux terroristes au niveau le plus difficile.",
+                    "it-IT": "Hai compiuto una missione di Caccia ai terroristi al grado di difficoltà Realistico.",
+                    "ja-JP": "最高難易度でテロリストハント・ミッションをクリアする"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie eine Terroristenjagd-Mission im härtesten Schwierigkeitsgrad.",
+                    "en-US": "Complete a Terrorist Hunt mission at the hardest difficulty.",
+                    "es-ES": "Completar una misión de Caza del terrorista en la dificultad máxima.",
+                    "fr-FR": "Terminer une Chasse aux terroristes au niveau le plus difficile.",
+                    "it-IT": "Compiere una missione di Caccia ai terroristi al grado di difficoltà Realistico.",
+                    "ja-JP": "最高難易度でテロリストハント・ミッションをクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "17.png"
+        },
+        "63": {
+            "text": {
+                "name": {
+                    "de-DE": "Schützenkönig",
+                    "en-US": "Pointman",
+                    "es-ES": "El hombre del momento",
+                    "fr-FR": "Avant-garde",
+                    "it-IT": "Inesorabile",
+                    "ja-JP": "ポイントマン"
+                },
+                "description": {
+                    "de-DE": "Töten Sie 50 Gegner in Multiplayerspielen Gegeneinander mit mindestens 6 anwesenden Spielern.",
+                    "en-US": "Kill 50 enemies in multiplayer adversarial with at least 6 players present.",
+                    "es-ES": "Matar a 50 enemigos en enfrentamiento multijugador con al menos 6 jugadores.",
+                    "fr-FR": "Faire 50 victimes en mode Affrontement multijoueur avec au moins 6 joueurs présents.",
+                    "it-IT": "Hai ucciso 50 nemici in partite multigiocatore competitive con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するマルチプレイヤー対戦において、倒した敵の数が50人に達する"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie 50 Gegner in Multiplayerspielen Gegeneinander mit mindestens 6 anwesenden Spielern.",
+                    "en-US": "Kill 50 enemies in multiplayer adversarial with at least 6 players present.",
+                    "es-ES": "Matar a 50 enemigos en enfrentamiento multijugador con al menos 6 jugadores.",
+                    "fr-FR": "Faire 50 victimes en mode Affrontement multijoueur avec au moins 6 joueurs présents.",
+                    "it-IT": "Uccidere 50 nemici in partite multigiocatore competitive con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するマルチプレイヤー対戦において、倒した敵の数が50人に達する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "18.png"
+        },
+        "64": {
+            "text": {
+                "name": {
+                    "de-DE": "Abzugsfinger",
+                    "en-US": "Triggerman",
+                    "es-ES": "Gatillo rápido",
+                    "fr-FR": "Tueur à gages",
+                    "it-IT": "Osso duro",
+                    "ja-JP": "トリガーマン"
+                },
+                "description": {
+                    "de-DE": "Töten Sie 150 Gegner in Multiplayerspielen Gegeneinander mit mindestens 6 anwesenden Spielern.",
+                    "en-US": "Kill 150 enemies in multiplayer adversarial with at least 6 players present.\n\n",
+                    "es-ES": "Matar a 150 enemigos en enfrentamiento multijugador con al menos 6 jugadores.",
+                    "fr-FR": "Faire 150 victimes en mode Affrontement multijoueur avec au moins 6 joueurs présents.",
+                    "it-IT": "Hai ucciso 150 nemici in partite multigiocatore competitive con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するマルチプレイヤー対戦において、倒した敵の数が150人に達する"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie 150 Gegner in Multiplayerspielen Gegeneinander mit mindestens 6 anwesenden Spielern.",
+                    "en-US": "Kill 150 enemies in multiplayer adversarial with at least 6 players present.",
+                    "es-ES": "Matar a 150 enemigos en enfrentamiento multijugador con al menos 6 jugadores.",
+                    "fr-FR": "Faire 150 victimes en mode Affrontement multijoueur avec au moins 6 joueurs présents.",
+                    "it-IT": "Uccidere 150 nemici in partite multigiocatore competitive con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するマルチプレイヤー対戦において、倒した敵の数が150人に達する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "19.png"
+        },
+        "65": {
+            "text": {
+                "name": {
+                    "de-DE": "Pistolenheld",
+                    "en-US": "Gun Shark",
+                    "es-ES": "Arma precisa",
+                    "fr-FR": "Fine gâchette",
+                    "it-IT": "Grilletto rovente",
+                    "ja-JP": "ガンシャーク"
+                },
+                "description": {
+                    "de-DE": "Töten Sie 300 Gegner in Multiplayerspielen Gegeneinander mit mindestens 6 anwesenden Spielern.",
+                    "en-US": "Kill 300 enemies in multiplayer adversarial with at least 6 players present.",
+                    "es-ES": "Matar a 300 enemigos en enfrentamiento multijugador con al menos 6 jugadores.",
+                    "fr-FR": "Faire 300 victimes en mode Affrontement multijoueur avec au moins 6 joueurs présents.",
+                    "it-IT": "Hai ucciso 300 nemici in partite multigiocatore competitive con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するマルチプレイヤーにおいて、倒した敵の数が300人に達する"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie 300 Gegner in Multiplayerspielen Gegeneinander mit mindestens 6 anwesenden Spielern.",
+                    "en-US": "Kill 300 enemies in multiplayer adversarial with at least 6 players present.",
+                    "es-ES": "Matar a 300 enemigos en enfrentamiento multijugador con al menos 6 jugadores.",
+                    "fr-FR": "Faire 300 victimes en mode Affrontement multijoueur avec au moins 6 joueurs présents.",
+                    "it-IT": "Uccidere 300 nemici in partite multigiocatore competitive con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するマルチプレイヤーにおいて、倒した敵の数が300人に達する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "20.png"
+        },
+        "66": {
+            "text": {
+                "name": {
+                    "de-DE": "Auge des Snipers",
+                    "en-US": "Eye of the Sniper",
+                    "es-ES": "El ojo del francotirador",
+                    "fr-FR": "Oeil de sniper",
+                    "it-IT": "Occhio da cecchino",
+                    "ja-JP": "狙撃眼"
+                },
+                "description": {
+                    "de-DE": "Töten Sie 500 Gegner in Multiplayerspielen Gegeneinander mit mindestens 6 anwesenden Spielern.",
+                    "en-US": "Kill 500 enemies in multiplayer adversarial with at least 6 players present.",
+                    "es-ES": "Matar a 500 enemigos en enfrentamiento multijugador con al menos 6 jugadores.",
+                    "fr-FR": "Faire 500 victimes en mode Affrontement multijoueur avec au moins 6 joueurs présents.",
+                    "it-IT": "Hai ucciso 500 nemici in partite multigiocatore competitive con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するマルチプレイヤーにおいて、倒した敵の数が500人に達する"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie 500 Gegner in Multiplayerspielen Gegeneinander mit mindestens 6 anwesenden Spielern.",
+                    "en-US": "Kill 500 enemies in multiplayer adversarial with at least 6 players present.",
+                    "es-ES": "Matar a 500 enemigos en enfrentamiento multijugador con al menos 6 jugadores.",
+                    "fr-FR": "Faire 500 victimes en mode Affrontement multijoueur avec au moins 6 joueurs présents.",
+                    "it-IT": "Uccidere 500 nemici in partite multigiocatore competitive con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するマルチプレイヤーにおいて、倒した敵の数が500人に達する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "21.png"
+        },
+        "67": {
+            "text": {
+                "name": {
+                    "de-DE": "Leg dich nicht mit mir an",
+                    "en-US": "Don't Mess With Me",
+                    "es-ES": "No me toques las narices",
+                    "fr-FR": "Faut pas me chercher",
+                    "it-IT": "Chi tocca muore",
+                    "ja-JP": "俺を怒らせるな"
+                },
+                "description": {
+                    "de-DE": "Töten Sie 1000 Gegner in Multiplayerspielen Gegeneinander mit mindestens 6 anwesenden Spielern.",
+                    "en-US": "Kill 1000 enemies in multiplayer adversarial with at least 6 players present.",
+                    "es-ES": "Matar a 1000 enemigos en enfrentamiento multijugador con al menos 6 jugadores.",
+                    "fr-FR": "Faire 1000 victimes en mode Affrontement multijoueur avec au moins 6 joueurs présents.",
+                    "it-IT": "Hai ucciso 1000 nemici in partite multigiocatore competitive con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するマルチプレイヤー対戦において、倒した敵の数が1000人に達する"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie 1000 Gegner in Multiplayerspielen Gegeneinander mit mindestens 6 anwesenden Spielern.",
+                    "en-US": "Kill 1000 enemies in multiplayer adversarial with at least 6 players present.",
+                    "es-ES": "Matar a 1000 enemigos en enfrentamiento multijugador con al menos 6 jugadores.",
+                    "fr-FR": "Faire 1000 victimes en mode Affrontement multijoueur avec au moins 6 joueurs présents.",
+                    "it-IT": "Uccidere 1000 nemici in partite multigiocatore competitive con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するマルチプレイヤー対戦において、倒した敵の数が1000人に達する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "45",
+            "imageId": "22.png"
+        },
+        "68": {
+            "text": {
+                "name": {
+                    "de-DE": "Pik-Ass",
+                    "en-US": "Ace of Spades",
+                    "es-ES": "El as de espadas",
+                    "fr-FR": "As de pique",
+                    "it-IT": "Asso di picche",
+                    "ja-JP": "スペードのエース"
+                },
+                "description": {
+                    "de-DE": "Töten Sie in einem Gegeneinander-Spiel ohne Respawns 5 Gegner hintereinander ohne zu sterben.",
+                    "en-US": "Perform 5 consecutive kills without dying in an adversarial match without respawns",
+                    "es-ES": "Realizar 5 asesinatos seguidos sin morir, en partida de enfrentamiento sin reapariciones.",
+                    "fr-FR": "Dans une partie Affrontement sans résurrections, faire 5 victimes consécutives sans mourir.",
+                    "it-IT": "Hai compiuto 5 uccisioni consecutive senza morire in una partita competitiva senza rientri.",
+                    "ja-JP": "復活不可の対戦マッチで一度も死なず、5人連続で倒す"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie in einem Gegeneinander-Spiel ohne Respawns 5 Gegner hintereinander ohne zu sterben.",
+                    "en-US": "Perform 5 consecutive kills without dying in an adversarial match without respawns",
+                    "es-ES": "Realizar 5 asesinatos seguidos sin morir, en partida de enfrentamiento sin reapariciones.",
+                    "fr-FR": "Dans une partie Affrontement sans résurrections, faire 5 victimes consécutives sans mourir.",
+                    "it-IT": "Compiere 5 uccisioni consecutive senza morire in una partita competitiva senza rientri.",
+                    "ja-JP": "復活不可の対戦マッチで一度も死なず、5人連続で倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "23.png"
+        },
+        "69": {
+            "text": {
+                "name": {
+                    "de-DE": "Das Ass gewinnt immer",
+                    "en-US": "The Ace Always Wins",
+                    "es-ES": "El as siempre gana",
+                    "fr-FR": "As de la gâchette",
+                    "it-IT": "L'asso vince sempre",
+                    "ja-JP": "エースは常に勝つ！"
+                },
+                "description": {
+                    "de-DE": "Gewinnen Sie Ihr erstes Online-Ranglistenspiel.",
+                    "en-US": "Win your first ranked match online.",
+                    "es-ES": "Ganar tu primera partida igualada online.",
+                    "fr-FR": "Remporter votre première partie en ligne avec classement.",
+                    "it-IT": "Hai vinto la prima partita classificata online.",
+                    "ja-JP": "オンラインのランクマッチで初勝利！"
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie Ihr erstes Online-Ranglistenspiel.",
+                    "en-US": "Win your first ranked match online.",
+                    "es-ES": "Ganar tu primera partida igualada online.",
+                    "fr-FR": "Remporter votre première partie en ligne avec classement.",
+                    "it-IT": "Vincere la prima partita classificata online.",
+                    "ja-JP": "オンラインのランクマッチで初勝利！"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "5",
+            "imageId": "24.png"
+        },
+        "70": {
+            "text": {
+                "name": {
+                    "de-DE": "Doppelt oder nichts",
+                    "en-US": "Double or Nothin'",
+                    "es-ES": "Doble o nada",
+                    "fr-FR": "Quitte ou double",
+                    "it-IT": "Lascia o raddoppia",
+                    "ja-JP": "ダブルアップ"
+                },
+                "description": {
+                    "de-DE": "Gewinnen Sie 2 Ranglistenspiele in Folge.",
+                    "en-US": "Win 2 ranked matches in a row.",
+                    "es-ES": "Ganar 2 partidas igualadas seguidas.",
+                    "fr-FR": "Remporter 2 parties avec classement consécutives.",
+                    "it-IT": "Hai vinto 2 partite classificate consecutive.",
+                    "ja-JP": "ランクマッチで連続2回勝利"
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie 2 Ranglistenspiele in Folge.",
+                    "en-US": "Win 2 ranked matches in a row.",
+                    "es-ES": "Ganar 2 partidas igualadas seguidas.",
+                    "fr-FR": "Remporter 2 parties avec classement consécutives.",
+                    "it-IT": "Vincere 2 partite classificate consecutive.",
+                    "ja-JP": "ランクマッチで連続2回勝利"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "25.png"
+        },
+        "71": {
+            "text": {
+                "name": {
+                    "de-DE": "Drilling",
+                    "en-US": "Three of a Kind",
+                    "es-ES": "Un trío",
+                    "fr-FR": "Brelan",
+                    "it-IT": "Tris",
+                    "ja-JP": "スリーカード"
+                },
+                "description": {
+                    "de-DE": "Gewinnen Sie 3 Ranglistenspiele in Folge.",
+                    "en-US": "Win 3 consecutive ranked matches in a row.",
+                    "es-ES": "Ganar 3 partidas igualadas consecutivas.",
+                    "fr-FR": "Remporter 3 parties avec classement consécutives.",
+                    "it-IT": "Hai vinto 3 partite classificate consecutive.",
+                    "ja-JP": "ランクマッチで連続3回勝利"
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie 3 Ranglistenspiele in Folge.",
+                    "en-US": "Win 3 consecutive ranked matches in a row.",
+                    "es-ES": "Ganar 3 partidas igualadas consecutivas.",
+                    "fr-FR": "Remporter 3 parties avec classement consécutives.",
+                    "it-IT": "Vincere 3 partite classificate consecutive.",
+                    "ja-JP": "ランクマッチで連続3回勝利"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "26.png"
+        },
+        "72": {
+            "text": {
+                "name": {
+                    "de-DE": "Royal Flush",
+                    "en-US": "Royal Flush",
+                    "es-ES": "Escalera real",
+                    "fr-FR": "Flush royal",
+                    "it-IT": "Scala reale",
+                    "ja-JP": "ロイヤルフラッシュ"
+                },
+                "description": {
+                    "de-DE": "Gewinnen Sie 100 Spiele Gegeneinander mit mindestens 6 anwesenden Spielern.",
+                    "en-US": "Win 100 adversarial matches with at least 6 players present.",
+                    "es-ES": "Ganar 100 partidas de enfrentamiento con al menos 6 jugadores.",
+                    "fr-FR": "Remporter 100 parties Affrontement avec au moins 6 joueurs présents.",
+                    "it-IT": "Hai vinto 100 partite competitive con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加する対戦マッチで合計100回勝利。"
+                },
+                "howto": {
+                    "de-DE": "Gewinnen Sie 100 Spiele Gegeneinander mit mindestens 6 anwesenden Spielern.",
+                    "en-US": "Win 100 adversarial matches with at least 6 players present.",
+                    "es-ES": "Ganar 100 partidas de enfrentamiento con al menos 6 jugadores.",
+                    "fr-FR": "Remporter 100 parties Affrontement avec au moins 6 joueurs présents.",
+                    "it-IT": "Vincere 100 partite competitive con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加する対戦マッチで合計100回勝利。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "27.png"
+        },
+        "73": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Bank gewinnt immer",
+                    "en-US": "The House Always Wins",
+                    "es-ES": "La banca siempre gana",
+                    "fr-FR": "La banque gagne à tous les coups",
+                    "it-IT": "Il banco vince sempre",
+                    "ja-JP": "ホスト常勝理論"
+                },
+                "description": {
+                    "de-DE": "Erstellen und gewinnen Sie 10 Spiele mit mindestens 6 anwesenden Spielern.",
+                    "en-US": "Host and win 10 matches with at least 6 players present.",
+                    "es-ES": "Ganar como servidor 10 partidas con al menos 6 jugadores.",
+                    "fr-FR": "Héberger et remporter 10 parties avec au moins 6 joueurs présents.",
+                    "it-IT": "Hai ospitato e vinto 10 partite con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するマッチを10回ホストして勝利する"
+                },
+                "howto": {
+                    "de-DE": "Erstellen und gewinnen Sie 10 Spiele mit mindestens 6 anwesenden Spielern.",
+                    "en-US": "Host and win 10 matches with at least 6 players present.",
+                    "es-ES": "Ganar como servidor 10 partidas con al menos 6 jugadores.",
+                    "fr-FR": "Héberger et remporter 10 parties avec au moins 6 joueurs présents.",
+                    "it-IT": "Ospitare e vincere 10 partite con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するマッチを10回ホストして勝利する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "28.png"
+        },
+        "74": {
+            "text": {
+                "name": {
+                    "de-DE": "Mein Held",
+                    "en-US": "My Hero!",
+                    "es-ES": "¡Mi héroe!",
+                    "fr-FR": "Mon héros !",
+                    "it-IT": "Mio eroe!",
+                    "ja-JP": "マイ・ヒーロー！"
+                },
+                "description": {
+                    "de-DE": "Retten Sie 10 Mal beide Geiseln im Modus Angriff & Verteidigung mit mind. 6 Spielern.",
+                    "en-US": "Rescue both Hostages 10 times in Attack & Defend with at least 6 players present.",
+                    "es-ES": "Rescatar a ambos rehenes 10 veces en modo Ataque y Defensa con al menos 6 jugadores",
+                    "fr-FR": "Dans une partie Attaque et défense, sauvez 10 fois les deux otages avec au moins 6 joueurs présents.",
+                    "it-IT": "Salvare ambo ostaggi 10 volte in partite di Attacco e difesa con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加する人質救出で、両方の人質を10回救出する"
+                },
+                "howto": {
+                    "de-DE": "Retten Sie 10 Mal beide Geiseln im Modus Angriff & Verteidigung mit mind. 6 Spielern.",
+                    "en-US": "Rescue both Hostages 10 times in Attack & Defend with at least 6 players present.",
+                    "es-ES": "Rescatar a ambos rehenes 10 veces en modo Ataque y Defensa con al menos 6 jugadores",
+                    "fr-FR": "Dans une partie Attaque et défense, sauvez 10 fois les deux otages avec au moins 6 joueurs présents.",
+                    "it-IT": "Salvare ambo ostaggi 10 volte in partite di Attacco e difesa con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加する人質救出で、両方の人質を10回救出する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "29.png"
+        },
+        "75": {
+            "text": {
+                "name": {
+                    "de-DE": "Kamikaze",
+                    "en-US": "Kamikaze",
+                    "es-ES": "El kamikaze",
+                    "fr-FR": "Kamikaze",
+                    "it-IT": "Kamikaze",
+                    "ja-JP": "カミカゼ"
+                },
+                "description": {
+                    "de-DE": "Platzieren und detonieren Sie 10 Bomben im Modus Angriff & Verteidigung mit mind. 6 Spielern.",
+                    "en-US": "Plant and detonate 10 bombs in Attack & Defend with at least 6 players present.",
+                    "es-ES": "Poner y detonar 10 bombas en Ataque y Defensa con al menos 6 jugadores.",
+                    "fr-FR": "Dans une partie Attaque et défense, faire exploser 10 bombes avec au moins 6 joueurs présents.",
+                    "it-IT": "Piazzare e far detonare 10 bombe in partite di Attacco e difesa con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加する攻撃&防御で10個の爆弾を爆発させる"
+                },
+                "howto": {
+                    "de-DE": "Platzieren und detonieren Sie 10 Bomben im Modus Angriff & Verteidigung mit mind. 6 Spielern.",
+                    "en-US": "Plant and detonate 10 bombs in Attack & Defend with at least 6 players present.",
+                    "es-ES": "Poner y detonar 10 bombas en Ataque y Defensa con al menos 6 jugadores.",
+                    "fr-FR": "Dans une partie Attaque et défense, faire exploser 10 bombes avec au moins 6 joueurs présents.",
+                    "it-IT": "Piazzare e far detonare 10 bombe in partite di Attacco e difesa con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加する攻撃&防御で10個の爆弾を爆発させる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "30.png"
+        },
+        "76": {
+            "text": {
+                "name": {
+                    "de-DE": "Sprengstoffexperte",
+                    "en-US": "Demo Expert",
+                    "es-ES": "Experto demoledor",
+                    "fr-FR": "Expert en démolition",
+                    "it-IT": "Esperto demolitore",
+                    "ja-JP": "爆弾屋"
+                },
+                "description": {
+                    "de-DE": "Entschärfen Sie 10 Bomben im Modus Angriff & Verteidigung mit mindestens 6 anwesenden Spielern.",
+                    "en-US": "Defuse 10 bombs in Attack & Defend with at least 6 players present.",
+                    "es-ES": "Desarmar 10 bombas en Ataque y Defensa con al menos 6 jugadores.",
+                    "fr-FR": "Dans une partie Attaque et défense, désamorcer 10 bombes avec au moins 6 joueurs présents.",
+                    "it-IT": "Hai disinnescato 10 bombe in partite di Attacco e difesa con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加する攻撃&防御において10個の爆弾を解除する"
+                },
+                "howto": {
+                    "de-DE": "Entschärfen Sie 10 Bomben im Modus Angriff & Verteidigung mit mindestens 6 anwesenden Spielern.",
+                    "en-US": "Defuse 10 bombs in Attack & Defend with at least 6 players present.",
+                    "es-ES": "Desarmar 10 bombas en Ataque y Defensa con al menos 6 jugadores.",
+                    "fr-FR": "Dans une partie Attaque et défense, désamorcer 10 bombes avec au moins 6 joueurs présents.",
+                    "it-IT": "Disinnescare 10 bombe in partite di Attacco e difesa con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加する攻撃&防御において10個の爆弾を解除する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "31.png"
+        },
+        "77": {
+            "text": {
+                "name": {
+                    "de-DE": "Covert Ops-Spezialist",
+                    "en-US": "Covert Ops Specialist",
+                    "es-ES": "Experto operaciones secretas",
+                    "fr-FR": "Spécialiste opérations secrètes",
+                    "it-IT": "Agente segreto",
+                    "ja-JP": "潜入捜査官"
+                },
+                "description": {
+                    "de-DE": "Bergen Sie 10 Mal die Aufklärungsdokumente mit mindestens 6 anwesenden Spielern.",
+                    "en-US": "Extract the intel item 10 times with at least 6 players present",
+                    "es-ES": "Extraer la información secreta 10 veces con al menos 6 jugadores.",
+                    "fr-FR": "Extraire la mallette 10 fois avec au moins 6 joueurs présents.",
+                    "it-IT": "Hai recuperato la valigetta con le informazioni 10 volte con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するゲームにおいて10回ブリーフケースを回収する。"
+                },
+                "howto": {
+                    "de-DE": "Bergen Sie 10 Mal die Aufklärungsdokumente mit mindestens 6 anwesenden Spielern.",
+                    "en-US": "Extract the intel item 10 times with at least 6 players present",
+                    "es-ES": "Extraer la información secreta 10 veces con al menos 6 jugadores.",
+                    "fr-FR": "Extraire la mallette 10 fois avec au moins 6 joueurs présents.",
+                    "it-IT": "Recuperare la valigetta con le informazioni 10 volte con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するゲームにおいて10回ブリーフケースを回収する。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "32.png"
+        },
+        "78": {
+            "text": {
+                "name": {
+                    "de-DE": "Streubombe",
+                    "en-US": "Cluster Bomb",
+                    "es-ES": "Bomba de racimo",
+                    "fr-FR": "C'est de la bombe !",
+                    "it-IT": "Bomba a grappolo",
+                    "ja-JP": "クラスター爆弾"
+                },
+                "description": {
+                    "de-DE": "Töten Sie 3 Gegner gleichzeitig mit Sprengstoff, wenn mindestens 6 Spieler anwesend sind.",
+                    "en-US": "Kill 3 enemies at once using explosives with at least 6 players present",
+                    "es-ES": "Matar a 3 enemigos a la vez usando explosivos con al menos 6 jugadores.",
+                    "fr-FR": "Tuer 3 ennemis à la fois en utilisant des explosifs avec au moins 6 joueurs présents.",
+                    "it-IT": "Hai ucciso 3 nemici in una volta usando gli esplosivi con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するゲームにおいて、爆薬を使って敵を3人同時に倒す"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie 3 Gegner gleichzeitig mit Sprengstoff, wenn mindestens 6 Spieler anwesend sind.",
+                    "en-US": "Kill 3 enemies at once using explosives with at least 6 players present",
+                    "es-ES": "Matar a 3 enemigos a la vez usando explosivos con al menos 6 jugadores.",
+                    "fr-FR": "Tuer 3 ennemis à la fois en utilisant des explosifs avec au moins 6 joueurs présents.",
+                    "it-IT": "Uccidere 3 nemici in una volta usando gli esplosivi con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するゲームにおいて、爆薬を使って敵を3人同時に倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "33.png"
+        },
+        "79": {
+            "text": {
+                "name": {
+                    "de-DE": "Waffen-Ekstase",
+                    "en-US": "Sidearm Frenzy",
+                    "es-ES": "Frenesí de armas",
+                    "fr-FR": "Massacre à l'arme de poing",
+                    "it-IT": "Pistolero",
+                    "ja-JP": "サイドアームの鬼"
+                },
+                "description": {
+                    "de-DE": "Töten Sie 100 Gegner mit einer Pistole, wenn mindestens 6 Spieler anwesend sind.",
+                    "en-US": "Kill 100 enemies using a Pistol with at least 6 players present.",
+                    "es-ES": "Matar a 100 enemigos usando una pistola con al menos 6 jugadores.",
+                    "fr-FR": "Tuer 100 ennemis en utilisant un pistolet avec au moins 6 joueurs présents.",
+                    "it-IT": "Hai ucciso 100 nemici usando una pistola con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するゲームにおいて、ピストルで100人を倒す"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie 100 Gegner mit einer Pistole, wenn mindestens 6 Spieler anwesend sind.",
+                    "en-US": "Kill 100 enemies using a Pistol with at least 6 players present.",
+                    "es-ES": "Matar a 100 enemigos usando una pistola con al menos 6 jugadores.",
+                    "fr-FR": "Tuer 100 ennemis en utilisant un pistolet avec au moins 6 joueurs présents.",
+                    "it-IT": "Uccidere 100 nemici usando una pistola con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するゲームにおいて、ピストルで100人を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "25",
+            "imageId": "34.png"
+        },
+        "80": {
+            "text": {
+                "name": {
+                    "de-DE": "Komm näher",
+                    "en-US": "Come Closer",
+                    "es-ES": "Acércate más",
+                    "fr-FR": "Approchez, approchez !",
+                    "it-IT": "Vieni più vicino",
+                    "ja-JP": "もっと近づけ"
+                },
+                "description": {
+                    "de-DE": "Töten Sie 100 Gegner mit einer Schrotflinte, wenn mindestens 6 Spieler anwesend sind.",
+                    "en-US": "Kill 100 enemies using a shotgun with at least 6 players present",
+                    "es-ES": "Matar a 100 enemigos usando una escopeta con al menos 6 jugadores.",
+                    "fr-FR": "Tuer 100 ennemis en utilisant un fusil de chasse avec au moins 6 joueurs présents.",
+                    "it-IT": "Hai ucciso 100 nemici usando un fucile a pompa con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するゲームにおいて、ショットガンで100人を倒す"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie 100 Gegner mit einer Schrotflinte, wenn mindestens 6 Spieler anwesend sind.",
+                    "en-US": "Kill 100 enemies using a shotgun with at least 6 players present",
+                    "es-ES": "Matar a 100 enemigos usando una escopeta con al menos 6 jugadores.",
+                    "fr-FR": "Tuer 100 ennemis en utilisant un fusil de chasse avec au moins 6 joueurs présents.",
+                    "it-IT": "Uccidere 100 nemici usando un fucile a pompa con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するゲームにおいて、ショットガンで100人を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "35.png"
+        },
+        "81": {
+            "text": {
+                "name": {
+                    "de-DE": "Hoffen und Beten",
+                    "en-US": "Spray and Pray",
+                    "es-ES": "A troche y moche",
+                    "fr-FR": "À l'aveuglette",
+                    "it-IT": "Spara e spera",
+                    "ja-JP": "数撃ちゃ当たる"
+                },
+                "description": {
+                    "de-DE": "Töten Sie 100 Gegner mit einer Maschinenpistole, wenn mindestens 6 Spieler anwesend sind.",
+                    "en-US": "Kill 100 enemies using a Sub-Machine Gun with at least 6 players present.",
+                    "es-ES": "Matar a 100 enemigos usando un subfusil con al menos 6 jugadores.",
+                    "fr-FR": "Tuer 100 ennemis en utilisant une mitraillette avec au moins 6 joueurs présents.",
+                    "it-IT": "Hai ucciso 100 nemici usando una mitraglietta con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するゲームにおいて、サブマシンガンで100人を倒す"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie 100 Gegner mit einer Maschinenpistole, wenn mindestens 6 Spieler anwesend sind.",
+                    "en-US": "Kill 100 enemies using a Sub-Machine Gun with at least 6 players present.",
+                    "es-ES": "Matar a 100 enemigos usando un subfusil con al menos 6 jugadores.",
+                    "fr-FR": "Tuer 100 ennemis en utilisant une mitraillette avec au moins 6 joueurs présents.",
+                    "it-IT": "Uccidere 100 nemici usando una mitraglietta con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するゲームにおいて、サブマシンガンで100人を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "36.png"
+        },
+        "82": {
+            "text": {
+                "name": {
+                    "de-DE": "Kurze, kontrollierte Stöße",
+                    "en-US": "Short Controlled Bursts",
+                    "es-ES": "Ráfagas cortas controladas",
+                    "fr-FR": "Brèves rafales maîtrisées",
+                    "it-IT": "Raffiche controllate",
+                    "ja-JP": "小刻み連射"
+                },
+                "description": {
+                    "de-DE": "Töten Sie 100 Gegner mit einem Sturmgewehr, wenn mindestens 6 Spieler anwesend sind.",
+                    "en-US": "Kill 100 enemies using an Assault Rifle with at least 6 players present.",
+                    "es-ES": "Matar a 100 enemigos usando un fusil de asalto con al menos 6 jugadores.",
+                    "fr-FR": "Tuer 100 ennemis en utilisant un fusil d'assaut avec au moins 6 joueurs présents.",
+                    "it-IT": "Hai ucciso 100 nemici usando un fucile d'assalto con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するゲームにおいて、アサルトライフルで100人を倒す"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie 100 Gegner mit einem Sturmgewehr, wenn mindestens 6 Spieler anwesend sind.",
+                    "en-US": "Kill 100 enemies using an Assault Rifle with at least 6 players present.",
+                    "es-ES": "Matar a 100 enemigos usando un fusil de asalto con al menos 6 jugadores.",
+                    "fr-FR": "Tuer 100 ennemis en utilisant un fusil d'assaut avec au moins 6 joueurs présents.",
+                    "it-IT": "Uccidere 100 nemici usando un fucile d'assalto con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するゲームにおいて、アサルトライフルで100人を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "37.png"
+        },
+        "83": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein Schuss, ein Treffer",
+                    "en-US": "One Shot, One Kill",
+                    "es-ES": "Un disparo, un muerto",
+                    "fr-FR": "Un tir, une victime",
+                    "it-IT": "Un colpo, un morto",
+                    "ja-JP": "ワンショット、ワンキル"
+                },
+                "description": {
+                    "de-DE": "Töten Sie 100 Gegner mit einem Scharfschützengewehr, wenn mindestens 6 Spieler anwesend sind.",
+                    "en-US": "Kill 100 enemies using a Sniper Rifle with at least 6 players present.",
+                    "es-ES": "Matar a 100 enemigos usando un rifle de francotirador con al menos 6 jugadores.",
+                    "fr-FR": "Tuer 100 ennemis en utilisant un fusil de sniper avec au moins 6 joueurs présents.",
+                    "it-IT": "Hai ucciso 100 nemici usando un fucile di precisione con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するゲームにおいて、スナイパーライフルで100人を倒す"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie 100 Gegner mit einem Scharfschützengewehr, wenn mindestens 6 Spieler anwesend sind.",
+                    "en-US": "Kill 100 enemies using a Sniper Rifle with at least 6 players present.",
+                    "es-ES": "Matar a 100 enemigos usando un rifle de francotirador con al menos 6 jugadores.",
+                    "fr-FR": "Tuer 100 ennemis en utilisant un fusil de sniper avec au moins 6 joueurs présents.",
+                    "it-IT": "Uccidere 100 nemici usando un fucile di precisione con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するゲームにおいて、スナイパーライフルで100人を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "38.png"
+        },
+        "84": {
+            "text": {
+                "name": {
+                    "de-DE": "MG-Schütze",
+                    "en-US": "Machine Gunner",
+                    "es-ES": "El artillero",
+                    "fr-FR": "Mitrailleur",
+                    "it-IT": "Mitragliere",
+                    "ja-JP": "機関銃兵"
+                },
+                "description": {
+                    "de-DE": "Töten Sie 100 Gegner mit einem leichten Maschinengewehr, wenn mindestens 6 Spieler anwesend sind.",
+                    "en-US": "Kill 100 enemies using a Light Machine Gun with at least 6 players present.",
+                    "es-ES": "Matar a 100 enemigos usando una ametralladora ligera con al menos 6 jugadores.",
+                    "fr-FR": "Tuer 100 ennemis en utilisant un fusil-mitrailleur avec au moins 6 joueurs présents.",
+                    "it-IT": "Hai ucciso 100 nemici usando una mitragliatrice leggera con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するゲームにおいて、軽機関銃で100人を倒す"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie 100 Gegner mit einem leichten Maschinengewehr, wenn mindestens 6 Spieler anwesend sind.",
+                    "en-US": "Kill 100 enemies using a Light Machine Gun with at least 6 players present.",
+                    "es-ES": "Matar a 100 enemigos usando una ametralladora ligera con al menos 6 jugadores.",
+                    "fr-FR": "Tuer 100 ennemis en utilisant un fusil-mitrailleur avec au moins 6 joueurs présents.",
+                    "it-IT": "Uccidere 100 nemici usando una mitragliatrice leggera con almeno 6 giocatori presenti.",
+                    "ja-JP": "6人以上のプレイヤーが参加するゲームにおいて、軽機関銃で100人を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "39.png"
+        },
+        "85": {
+            "text": {
+                "name": {
+                    "de-DE": "Obergefreiter",
+                    "en-US": "Private First Class",
+                    "es-ES": "Soldado de primera",
+                    "fr-FR": "Soldat 1re classe",
+                    "it-IT": "Soldato 1a classe",
+                    "ja-JP": "一等兵"
+                },
+                "description": {
+                    "de-DE": "Erreichen Sie den Rang Obergefreiter.",
+                    "en-US": "Achieve the rank of Private First Class.",
+                    "es-ES": "Conseguir el rango de soldado de primera clase.",
+                    "fr-FR": "Atteindre le grade de Soldat 1re classe.",
+                    "it-IT": "Hai ottenuto il grado di soldato di 1a classe.",
+                    "ja-JP": "一等兵に昇格"
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie den Rang Obergefreiter.",
+                    "en-US": "Achieve the rank of Private First Class.",
+                    "es-ES": "Conseguir el rango de soldado de primera clase.",
+                    "fr-FR": "Atteindre le grade de Soldat 1re classe.",
+                    "it-IT": "Ottenere il grado di soldato di 1a classe.",
+                    "ja-JP": "一等兵に昇格"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "10",
+            "imageId": "40.png"
+        },
+        "86": {
+            "text": {
+                "name": {
+                    "de-DE": "Offizier",
+                    "en-US": "Officer",
+                    "es-ES": "Oficial",
+                    "fr-FR": "Officier",
+                    "it-IT": "Ufficiale",
+                    "ja-JP": "将校"
+                },
+                "description": {
+                    "de-DE": "Erreichen Sie den Rang Offizier.",
+                    "en-US": "Achieve the rank of Officer",
+                    "es-ES": "Conseguir el rango de oficial.",
+                    "fr-FR": "Atteindre le grade d'Officier.",
+                    "it-IT": "Hai ottenuto il grado di ufficiale.",
+                    "ja-JP": "将校に昇格"
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie den Rang Offizier.",
+                    "en-US": "Achieve the rank of Officer",
+                    "es-ES": "Conseguir el rango de oficial.",
+                    "fr-FR": "Atteindre le grade d'Officier.",
+                    "it-IT": "Ottenere il grado di ufficiale.",
+                    "ja-JP": "将校に昇格"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "30",
+            "imageId": "41.png"
+        },
+        "88": {
+            "text": {
+                "name": {
+                    "de-DE": "Elite",
+                    "en-US": "Elite",
+                    "es-ES": "Elite",
+                    "fr-FR": "Élite",
+                    "it-IT": "Élite",
+                    "ja-JP": "エリート"
+                },
+                "description": {
+                    "de-DE": "Den Rang Elite erreichen",
+                    "en-US": "Achieve the rank of Elite",
+                    "es-ES": "Conseguir el rango de Élite.",
+                    "fr-FR": "Atteindre le grade Élite.",
+                    "it-IT": "Hai ottenuto il grado di Élite.",
+                    "ja-JP": "エリートに昇格"
+                },
+                "howto": {
+                    "de-DE": "Den Rang Elite erreichen",
+                    "en-US": "Achieve the rank of Elite",
+                    "es-ES": "Conseguir el rango de Élite.",
+                    "fr-FR": "Atteindre le grade Élite.",
+                    "it-IT": "Ottenere il grado di Élite.",
+                    "ja-JP": "エリートに昇格"
+                }
+            },
+            "isSecret": "true",
+            "type": "Leveling",
+            "credits": "50",
+            "imageId": "42.png"
+        },
+        "89": {
+            "text": {
+                "name": {
+                    "de-DE": "Haute Couture",
+                    "en-US": "Haute Couture",
+                    "es-ES": "Alta costura",
+                    "fr-FR": "Haute couture",
+                    "it-IT": "Fuoriclasse",
+                    "ja-JP": "オートクチュール"
+                },
+                "description": {
+                    "de-DE": "Erstellen Sie eine eigene Tarnung.",
+                    "en-US": "Create your own custom camouflage.",
+                    "es-ES": "Crear tu propio atuendo de camuflaje.",
+                    "fr-FR": "Créer votre propre camouflage personnalisé.",
+                    "it-IT": "Hai creato il tuo motivo mimetico.",
+                    "ja-JP": "オリジナル迷彩を作成"
+                },
+                "howto": {
+                    "de-DE": "Erstellen Sie eine eigene Tarnung.",
+                    "en-US": "Create your own custom camouflage.",
+                    "es-ES": "Crear tu propio atuendo de camuflaje.",
+                    "fr-FR": "Créer votre propre camouflage personnalisé.",
+                    "it-IT": "Creare il tuo motivo mimetico.",
+                    "ja-JP": "オリジナル迷彩を作成"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "43.png"
+        },
+        "90": {
+            "text": {
+                "name": {
+                    "de-DE": "Wahre Identität",
+                    "en-US": "True Identity",
+                    "es-ES": "Identidad verdadera",
+                    "fr-FR": "Identité réelle",
+                    "it-IT": "Vera identità",
+                    "ja-JP": "本人"
+                },
+                "description": {
+                    "de-DE": "Erstellen Sie mit Xbox Live Vision einen Charakter mit Ihrem Erscheinungsbild.",
+                    "en-US": "Use the Xbox Live Vision to create a character with your appearance.",
+                    "es-ES": "Usar la cámara Xbox Live Vision para crear un personaje con tu aspecto.",
+                    "fr-FR": "Utiliser la Xbox Live Vision pour créer un personnage qui vous ressemble.",
+                    "it-IT": "Hai usato Xbox LIVE Vision per creare un personaggio col tuo aspetto.",
+                    "ja-JP": "Xbox Live ビジョン で本人の顔を取り込んでキャラクターを作成"
+                },
+                "howto": {
+                    "de-DE": "Erstellen Sie mit Xbox Live Vision einen Charakter mit Ihrem Erscheinungsbild.",
+                    "en-US": "Use the Xbox Live Vision to create a character with your appearance.",
+                    "es-ES": "Usar la cámara Xbox Live Vision para crear un personaje con tu aspecto.",
+                    "fr-FR": "Utiliser la Xbox Live Vision pour créer un personnage qui vous ressemble.",
+                    "it-IT": "Usare Xbox LIVE Vision per creare un personaggio col tuo aspetto.",
+                    "ja-JP": "Xbox Live ビジョン で本人の顔を取り込んでキャラクターを作成"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "44.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "Theater beendet",
+                    "en-US": "Completed Theater",
+                    "es-ES": "Teatro completado",
+                    "fr-FR": "Théâtre terminé",
+                    "it-IT": "Completato Teatro",
+                    "ja-JP": "シアター・クリア"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie Theater im Storymodus mit beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Complete Theater in Story Mode at any difficulty.",
+                    "es-ES": "Completar la misión Teatro en modo Historia en cualquier dificultad.",
+                    "fr-FR": "Terminer le Théâtre en mode Scénario à un niveau de difficulté quelconque.",
+                    "it-IT": "Hai completato Teatro in modalità Storia a qualunque grado di difficoltà.",
+                    "ja-JP": "ストーリーモードでシアターをクリアする。難易度は自由"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie Theater im Storymodus mit beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Complete Theater in Story Mode at any difficulty.",
+                    "es-ES": "Completar la misión Teatro en modo Historia en cualquier dificultad.",
+                    "fr-FR": "Terminer le Théâtre en mode Scénario à un niveau de difficulté quelconque.",
+                    "it-IT": "Completare Teatro in modalità Storia a qualunque grado di difficoltà.",
+                    "ja-JP": "ストーリーモードでシアターをクリアする。難易度は自由"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "45.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "de-DE": "Wüste von Nevada beendet",
+                    "en-US": "Completed Nevada Desert",
+                    "es-ES": "Desierto de Nevada completado",
+                    "fr-FR": "Désert du Nevada terminé",
+                    "it-IT": "Completato Deserto del Nevada",
+                    "ja-JP": "ネバダ砂漠・クリア"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie Wüste von Nevada im Storymodus mit beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Complete Nevada Desert in Story Mode at any difficulty.",
+                    "es-ES": "Completar la misión Desierto de Nevada en modo Historia en cualquier dificultad.",
+                    "fr-FR": "Terminer le Désert du Nevada en mode Scénario à un niveau de difficulté quelconque.",
+                    "it-IT": "Hai completato Deserto del Nevada in modalità Storia a qualunque grado di difficoltà.",
+                    "ja-JP": "ストーリーモードでネバダ砂漠をクリアする。難易度は自由"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie Wüste von Nevada im Storymodus mit beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Complete Nevada Desert in Story Mode at any difficulty.",
+                    "es-ES": "Completar la misión Desierto de Nevada en modo Historia en cualquier dificultad.",
+                    "fr-FR": "Terminer le Désert du Nevada en mode Scénario à un niveau de difficulté quelconque.",
+                    "it-IT": "Completare Deserto del Nevada in modalità Storia a qualunque grado di difficoltà.",
+                    "ja-JP": "ストーリーモードでネバダ砂漠をクリアする。難易度は自由"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "46.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "de-DE": "Estate beendet",
+                    "en-US": "Completed Estate",
+                    "es-ES": "Propiedad completada",
+                    "fr-FR": "Propriété terminée",
+                    "it-IT": "Completato Tenuta",
+                    "ja-JP": "邸宅・クリア"
+                },
+                "description": {
+                    "de-DE": "Beenden Sie Estate im Storymodus mit beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Complete Estate in Story Mode at any difficulty.",
+                    "es-ES": "Completar la misión Propiedad en modo Historia en cualquier dificultad.",
+                    "fr-FR": "Terminer la Propriété en mode Scénario à un niveau de difficulté quelconque.",
+                    "it-IT": "Hai completato Tenuta in modalità Storia a qualunque grado di difficoltà.",
+                    "ja-JP": "ストーリーモードで邸宅をクリアする。難易度は自由"
+                },
+                "howto": {
+                    "de-DE": "Beenden Sie Estate im Storymodus mit beliebigem Schwierigkeitsgrad.",
+                    "en-US": "Complete Estate in Story Mode at any difficulty.",
+                    "es-ES": "Completar la misión Propiedad en modo Historia en cualquier dificultad.",
+                    "fr-FR": "Terminer la Propriété en mode Scénario à un niveau de difficulté quelconque.",
+                    "it-IT": "Completare Tenuta in modalità Storia a qualunque grado di difficoltà.",
+                    "ja-JP": "ストーリーモードで邸宅をクリアする。難易度は自由"
+                }
+            },
+            "isSecret": "true",
+            "type": "Checkpoint",
+            "credits": "25",
+            "imageId": "47.png"
+        }
+    }
+}

@@ -1,0 +1,1604 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "de-DE": "Verraucht",
+                    "en-US": "Down in Smoke",
+                    "es-ES": "Malos humos",
+                    "fr-FR": "Dans le brouillard",
+                    "it-IT": "Perturbazione",
+                    "ja-JP": "消火器に注意"
+                },
+                "description": {
+                    "de-DE": "Nehmen Sie einem Feind mit Rauch aus einem Feuerlöscher die Sicht",
+                    "en-US": "Disorient an enemy with a cloud of smoke from a fire extinguisher",
+                    "es-ES": "Aturde a un enemigo con la nube de humo de un extintor",
+                    "fr-FR": "Créer un nuage de fumée avec un extincteur pour désorienter un ennemi",
+                    "it-IT": "Disorienta un nemico con la nube di un estintore",
+                    "ja-JP": "消火器の煙で敵の目をくらませる"
+                },
+                "howto": {
+                    "de-DE": "Nehmen Sie einem Feind mit Rauch aus einem Feuerlöscher die Sicht",
+                    "en-US": "Disorient an enemy with a cloud of smoke from a fire extinguisher",
+                    "es-ES": "Aturde a un enemigo con la nube de humo de un extintor",
+                    "fr-FR": "Créer un nuage de fumée avec un extincteur pour désorienter un ennemi",
+                    "it-IT": "Disorienta un nemico con la nube di un estintore",
+                    "ja-JP": "消火器の煙で敵の目をくらませる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "de-DE": "Sexting",
+                    "en-US": "Sexting",
+                    "es-ES": "Marine sin tapujos",
+                    "fr-FR": "Texto sexy",
+                    "it-IT": "Materiale scottante",
+                    "ja-JP": "君、そういう趣味があったんだ・・・"
+                },
+                "description": {
+                    "de-DE": "Schicken Sie Otacon ein Bild des Marines ohne Hose",
+                    "en-US": "Send Otacon a picture of the marine with no pants",
+                    "es-ES": "Envíale a Otacon una foto de un marine sin pantalones",
+                    "fr-FR": "Envoyer une image du Marine sans pantalon à Otacon",
+                    "it-IT": "Invia la foto di un marine svestito a Otacon",
+                    "ja-JP": "オタコンに下着姿の海兵隊員の写真を送る"
+                },
+                "howto": {
+                    "de-DE": "Schicken Sie Otacon ein Bild des Marines ohne Hose",
+                    "en-US": "Send Otacon a picture of the marine with no pants",
+                    "es-ES": "Envíale a Otacon una foto de un marine sin pantalones",
+                    "fr-FR": "Envoyer une image du Marine sans pantalon à Otacon",
+                    "it-IT": "Invia la foto di un marine svestito a Otacon",
+                    "ja-JP": "オタコンに下着姿の海兵隊員の写真を送る"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Umarmung",
+                    "en-US": "I Think You Need a Hug, E",
+                    "es-ES": "Ven aquí, pequeña Emma",
+                    "fr-FR": "Dans mes bras",
+                    "it-IT": "Chi si rivede!",
+                    "ja-JP": "エマ発見"
+                },
+                "description": {
+                    "de-DE": "Finden Sie Emma Emmerich",
+                    "en-US": "Find Emma Emmerich",
+                    "es-ES": "Encuentra a Emma Emmerich",
+                    "fr-FR": "Trouver Emma Emmerich",
+                    "it-IT": "Trova Emma Emmerich",
+                    "ja-JP": "エマ・エメリッヒを見つける"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie Emma Emmerich",
+                    "en-US": "Find Emma Emmerich",
+                    "es-ES": "Encuentra a Emma Emmerich",
+                    "fr-FR": "Trouver Emma Emmerich",
+                    "it-IT": "Trova Emma Emmerich",
+                    "ja-JP": "エマ・エメリッヒを見つける"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "de-DE": "Umwerfend",
+                    "en-US": "Don't Taze Me, Bro",
+                    "es-ES": "No te alteres",
+                    "fr-FR": "Bonne nuit les petits",
+                    "it-IT": "Anestesista",
+                    "ja-JP": "麻酔銃マニア"
+                },
+                "description": {
+                    "de-DE": "Betäuben Sie 100 Feinde",
+                    "en-US": "Tranquilize 100 enemies",
+                    "es-ES": "Dispara tranquilizante a 100 enemigos",
+                    "fr-FR": "Passer 100 ennemis au tranquillisant",
+                    "it-IT": "Anestetizza 100 nemici",
+                    "ja-JP": "麻酔銃で敵を100人眠らせる"
+                },
+                "howto": {
+                    "de-DE": "Betäuben Sie 100 Feinde",
+                    "en-US": "Tranquilize 100 enemies",
+                    "es-ES": "Dispara tranquilizante a 100 enemigos",
+                    "fr-FR": "Passer 100 ennemis au tranquillisant",
+                    "it-IT": "Anestetizza 100 nemici",
+                    "ja-JP": "麻酔銃で敵を100人眠らせる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "de-DE": "Nichts Persönliches",
+                    "en-US": "Nothing Personal",
+                    "es-ES": "No es nada personal",
+                    "fr-FR": "Rien de personnel",
+                    "it-IT": "Niente di personale",
+                    "ja-JP": "締落としマニア"
+                },
+                "description": {
+                    "de-DE": "Brechen Sie 30 Feinden das Genick",
+                    "en-US": "Break the neck of 30 enemies",
+                    "es-ES": "Rómpeles el cuello a 30 enemigos",
+                    "fr-FR": "Briser la nuque de 30 ennemis",
+                    "it-IT": "Spezza il collo di 30 nemici",
+                    "ja-JP": "敵を30人締落とす"
+                },
+                "howto": {
+                    "de-DE": "Brechen Sie 30 Feinden das Genick",
+                    "en-US": "Break the neck of 30 enemies",
+                    "es-ES": "Rómpeles el cuello a 30 enemigos",
+                    "fr-FR": "Briser la nuque de 30 ennemis",
+                    "it-IT": "Spezza il collo di 30 nemici",
+                    "ja-JP": "敵を30人締落とす"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "de-DE": "Mietgeld",
+                    "en-US": "Rent Money",
+                    "es-ES": "Dulces sueños",
+                    "fr-FR": "Volée de coups",
+                    "it-IT": "Sorpresa!",
+                    "ja-JP": "気絶マニア"
+                },
+                "description": {
+                    "de-DE": "Schlagen Sie 30 Feinde bewusstlos",
+                    "en-US": "Beat 30 enemies unconscious",
+                    "es-ES": "Deja inconscientes a 30 enemigos",
+                    "fr-FR": "Mettre 30 ennemis K.-O.",
+                    "it-IT": "Sconfiggi 30 nemici tramortendoli",
+                    "ja-JP": "敵を30人気絶させる"
+                },
+                "howto": {
+                    "de-DE": "Schlagen Sie 30 Feinde bewusstlos",
+                    "en-US": "Beat 30 enemies unconscious",
+                    "es-ES": "Deja inconscientes a 30 enemigos",
+                    "fr-FR": "Mettre 30 ennemis K.-O.",
+                    "it-IT": "Sconfiggi 30 nemici tramortendoli",
+                    "ja-JP": "敵を30人気絶させる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "de-DE": "Kinderspiel",
+                    "en-US": "Piece of Cake",
+                    "es-ES": "Pan comido",
+                    "fr-FR": "Trop facile",
+                    "it-IT": "Una passeggiata",
+                    "ja-JP": "VR訓練・はじめの一歩"
+                },
+                "description": {
+                    "de-DE": "Schließen Sie eine VR- oder Alternative Mission ab",
+                    "en-US": "Complete a VR or Alternative mission",
+                    "es-ES": "Completa una misión RV o alternativa",
+                    "fr-FR": "Achever une mission alternative ou VR",
+                    "it-IT": "Completa una missione in RV o alternativa",
+                    "ja-JP": "VRミッション、もしくはオルタナティブミッションを1種類クリアする"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie eine VR- oder Alternative Mission ab",
+                    "en-US": "Complete a VR or Alternative mission",
+                    "es-ES": "Completa una misión RV o alternativa",
+                    "fr-FR": "Achever une mission alternative ou VR",
+                    "it-IT": "Completa una missione in RV o alternativa",
+                    "ja-JP": "VRミッション、もしくはオルタナティブミッションを1種類クリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "de-DE": "Gute Verdauung",
+                    "en-US": "Johnny on the Spot",
+                    "es-ES": "Me rugen las tripas",
+                    "fr-FR": "Johnny alité",
+                    "it-IT": "Johnny, stai bene?",
+                    "ja-JP": "はっ、腹が・・・"
+                },
+                "description": {
+                    "de-DE": "Hören Sie Johnnys Darmgeräusche an zwei Orten",
+                    "en-US": "Hear Johnny's bowel noises in two locations",
+                    "es-ES": "Escucha el ruido que hacen las tripas de Johnny",
+                    "fr-FR": "Entendre les gargouillements d’estomac de Johnny à deux endroits",
+                    "it-IT": "Senti i \"rumori intestinali\" di Johnny in due ambientazioni",
+                    "ja-JP": "ジョニーのお腹の音を2回聞く"
+                },
+                "howto": {
+                    "de-DE": "Hören Sie Johnnys Darmgeräusche an zwei Orten",
+                    "en-US": "Hear Johnny's bowel noises in two locations",
+                    "es-ES": "Escucha el ruido que hacen las tripas de Johnny",
+                    "fr-FR": "Entendre les gargouillements d’estomac de Johnny à deux endroits",
+                    "it-IT": "Senti i \"rumori intestinali\" di Johnny in due ambientazioni",
+                    "ja-JP": "ジョニーのお腹の音を2回聞く"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "de-DE": "Küsschen",
+                    "en-US": "Kissing Booth",
+                    "es-ES": "¿Me das un beso, cielo?",
+                    "fr-FR": "Boîte à bisous",
+                    "it-IT": "Amore cartaceo",
+                    "ja-JP": "暗闇でキッス"
+                },
+                "description": {
+                    "de-DE": "Küssen Sie ein Poster in einem Spind",
+                    "en-US": "Kiss a poster in a locker",
+                    "es-ES": "Dale un beso uno de los pósters",
+                    "fr-FR": "Embrasser un poster dans un casier",
+                    "it-IT": "Bacia un poster in un armadietto",
+                    "ja-JP": "ロッカーの中でポスターにキスする"
+                },
+                "howto": {
+                    "de-DE": "Küssen Sie ein Poster in einem Spind",
+                    "en-US": "Kiss a poster in a locker",
+                    "es-ES": "Dale un beso uno de los pósters",
+                    "fr-FR": "Embrasser un poster dans un casier",
+                    "it-IT": "Bacia un poster in un armadietto",
+                    "ja-JP": "ロッカーの中でポスターにキスする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "de-DE": "Einäugige Schlange",
+                    "en-US": "Snake Beater",
+                    "es-ES": "Pillado in fraganti",
+                    "fr-FR": "Snake Beater",
+                    "it-IT": "Beccato!",
+                    "ja-JP": "相変わらず元気だね"
+                },
+                "description": {
+                    "de-DE": "Lassen Sie sich von Otacon erwischen, wie Sie sich mit sich selbst vergnügen",
+                    "en-US": "Get caught by Otacon stimulating yourself",
+                    "es-ES": "Haz que Otacon te pille \"estimulándote\" solo",
+                    "fr-FR": "Se faire prendre par Otacon en pleine stimulation",
+                    "it-IT": "Fatti sorprendere da Otacon mentre ti \"rinvigorisci\" da solo",
+                    "ja-JP": "興奮しているところをオタコンに見つかる"
+                },
+                "howto": {
+                    "de-DE": "Lassen Sie sich von Otacon erwischen, wie Sie sich mit sich selbst vergnügen",
+                    "en-US": "Get caught by Otacon stimulating yourself",
+                    "es-ES": "Haz que Otacon te pille \"estimulándote\" solo",
+                    "fr-FR": "Se faire prendre par Otacon en pleine stimulation",
+                    "it-IT": "Fatti sorprendere da Otacon mentre ti \"rinvigorisci\" da solo",
+                    "ja-JP": "興奮しているところをオタコンに見つかる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "de-DE": "Italowestern",
+                    "en-US": "Spaghetti Cinema",
+                    "es-ES": "Duelo de pistolas",
+                    "fr-FR": "Western spaghetti",
+                    "it-IT": "Western all'italiana",
+                    "ja-JP": "久しぶりだな"
+                },
+                "description": {
+                    "de-DE": "Treffen Sie Revolver",
+                    "en-US": "Meet Revolver",
+                    "es-ES": "Enfréntate a Revolver",
+                    "fr-FR": "Rencontrer Revolver",
+                    "it-IT": "Incontra Revolver",
+                    "ja-JP": "リボルバー・オセロットに会う"
+                },
+                "howto": {
+                    "de-DE": "Treffen Sie Revolver",
+                    "en-US": "Meet Revolver",
+                    "es-ES": "Enfréntate a Revolver",
+                    "fr-FR": "Rencontrer Revolver",
+                    "it-IT": "Incontra Revolver",
+                    "ja-JP": "リボルバー・オセロットに会う"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "de-DE": "Stählerner Griff",
+                    "en-US": "Steel Grip",
+                    "es-ES": "Firme y sujeto",
+                    "fr-FR": "Poigne de fer",
+                    "it-IT": "Presa d'acciaio",
+                    "ja-JP": "筋力トレーニング"
+                },
+                "description": {
+                    "de-DE": "Erreichen Sie eine GRIP-Stufe von 3",
+                    "en-US": "Attain grip level 3",
+                    "es-ES": "Consige un nivel 3 de agarre",
+                    "fr-FR": "Atteindre le niveau 3 de Grip",
+                    "it-IT": "Raggiungi il livello 3 della GRIP",
+                    "ja-JP": "握力をレベル3まで上げる"
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie eine GRIP-Stufe von 3",
+                    "en-US": "Attain grip level 3",
+                    "es-ES": "Consige un nivel 3 de agarre",
+                    "fr-FR": "Atteindre le niveau 3 de Grip",
+                    "it-IT": "Raggiungi il livello 3 della GRIP",
+                    "ja-JP": "握力をレベル3まで上げる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "12.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "de-DE": "Licht aus",
+                    "en-US": "Lights Out",
+                    "es-ES": "¡Luces fuera!",
+                    "fr-FR": "On ferme",
+                    "it-IT": "Fine di una storia",
+                    "ja-JP": "さぁ、観光は終わりよ！"
+                },
+                "description": {
+                    "de-DE": "Besiegen Sie Olga Gurlukovich",
+                    "en-US": "Defeat Olga Gurlukovich",
+                    "es-ES": "Derrota a Olga Gurlukovich",
+                    "fr-FR": "Vaincre Olga Gurlukovich",
+                    "it-IT": "Sconfiggi Olga Gurlukovich",
+                    "ja-JP": "オルガ・ゴルルコビッチを倒す"
+                },
+                "howto": {
+                    "de-DE": "Besiegen Sie Olga Gurlukovich",
+                    "en-US": "Defeat Olga Gurlukovich",
+                    "es-ES": "Derrota a Olga Gurlukovich",
+                    "fr-FR": "Vaincre Olga Gurlukovich",
+                    "it-IT": "Sconfiggi Olga Gurlukovich",
+                    "ja-JP": "オルガ・ゴルルコビッチを倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "13.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "de-DE": "Die Party ist vorbei",
+                    "en-US": "Party's Over",
+                    "es-ES": "Se acabó la fiesta",
+                    "fr-FR": "La fête est finie",
+                    "it-IT": "La festa è finita",
+                    "ja-JP": "パーティは終わりだ！"
+                },
+                "description": {
+                    "de-DE": "Besiegen Sie Fatman",
+                    "en-US": "Defeat Fatman",
+                    "es-ES": "Derrota a Fatman",
+                    "fr-FR": "Vaincre Fatman",
+                    "it-IT": "Sconfiggi Fatman",
+                    "ja-JP": "ファットマンを倒す"
+                },
+                "howto": {
+                    "de-DE": "Besiegen Sie Fatman",
+                    "en-US": "Defeat Fatman",
+                    "es-ES": "Derrota a Fatman",
+                    "fr-FR": "Vaincre Fatman",
+                    "it-IT": "Sconfiggi Fatman",
+                    "ja-JP": "ファットマンを倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "14.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "de-DE": "Flugverbotszone",
+                    "en-US": "No-Fly Zone",
+                    "es-ES": "¡Vuela por los aires!",
+                    "fr-FR": "Zone d’exclusion aérienne",
+                    "it-IT": "No-Fly Zone",
+                    "ja-JP": "ハリアー撃墜！"
+                },
+                "description": {
+                    "de-DE": "Zerstören Sie den AV-88 Harrier II",
+                    "en-US": "Destroy the AV-88 Harrier II",
+                    "es-ES": "Destruye el AV-88 Harrier II",
+                    "fr-FR": "Détruire le Harrier II AV-88",
+                    "it-IT": "Distruggi l'AV-8B Harrier II",
+                    "ja-JP": "AV-88ハリアーIIを撃墜する"
+                },
+                "howto": {
+                    "de-DE": "Zerstören Sie den AV-88 Harrier II",
+                    "en-US": "Destroy the AV-88 Harrier II",
+                    "es-ES": "Destruye el AV-88 Harrier II",
+                    "fr-FR": "Détruire le Harrier II AV-88",
+                    "it-IT": "Distruggi l'AV-8B Harrier II",
+                    "ja-JP": "AV-88ハリアーIIを撃墜する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "15.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "de-DE": "Ade, Ray!",
+                    "en-US": "No Ray, José",
+                    "es-ES": "Hojalata nuclear",
+                    "fr-FR": "Mange, machine",
+                    "it-IT": "Addio RAY!",
+                    "ja-JP": "メタルギアRAY破壊"
+                },
+                "description": {
+                    "de-DE": "Besiegen Sie Metal Gear RAY",
+                    "en-US": "Defeat Metal Gear RAY",
+                    "es-ES": "Destruya el Metal Gear RAY",
+                    "fr-FR": "Vaincre Metal Gear RAY",
+                    "it-IT": "Sconfiggi il Metal Gear RAY",
+                    "ja-JP": "メタルギアRAYを破壊する"
+                },
+                "howto": {
+                    "de-DE": "Besiegen Sie Metal Gear RAY",
+                    "en-US": "Defeat Metal Gear RAY",
+                    "es-ES": "Destruya el Metal Gear RAY",
+                    "fr-FR": "Vaincre Metal Gear RAY",
+                    "it-IT": "Sconfiggi il Metal Gear RAY",
+                    "ja-JP": "メタルギアRAYを破壊する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "16.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "de-DE": "Eine Schlange weniger",
+                    "en-US": "Another Snake Bites the Dust",
+                    "es-ES": "Una serpiente menos",
+                    "fr-FR": "Un seul Snake survivra",
+                    "it-IT": "Un serpente in meno",
+                    "ja-JP": "お互い自由になるべきだよな？"
+                },
+                "description": {
+                    "de-DE": "Besiegen Sie Solidus Snake",
+                    "en-US": "Defeat Solidus Snake",
+                    "es-ES": "Derrota a Solidus Snake",
+                    "fr-FR": "Vaincre Solidus Snake",
+                    "it-IT": "Sconfiggi Solidus Snake",
+                    "ja-JP": "ソリダス・スネークを倒す"
+                },
+                "howto": {
+                    "de-DE": "Besiegen Sie Solidus Snake",
+                    "en-US": "Defeat Solidus Snake",
+                    "es-ES": "Derrota a Solidus Snake",
+                    "fr-FR": "Vaincre Solidus Snake",
+                    "it-IT": "Sconfiggi Solidus Snake",
+                    "ja-JP": "ソリダス・スネークを倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "17.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "de-DE": "Vampirjäger",
+                    "en-US": "Vampire Slayer",
+                    "es-ES": "Cazavampiros",
+                    "fr-FR": "Chasse au vampire",
+                    "it-IT": "Ammazzavampiri",
+                    "ja-JP": "ヴァンプ・スレイヤー"
+                },
+                "description": {
+                    "de-DE": "Besiegen Sie Vamp",
+                    "en-US": "Defeat Vamp",
+                    "es-ES": "Derrota a Vamp",
+                    "fr-FR": "Vaincre Vamp",
+                    "it-IT": "Sconfiggi Vamp",
+                    "ja-JP": "ヴァンプを倒す"
+                },
+                "howto": {
+                    "de-DE": "Besiegen Sie Vamp",
+                    "en-US": "Defeat Vamp",
+                    "es-ES": "Derrota a Vamp",
+                    "fr-FR": "Vaincre Vamp",
+                    "it-IT": "Sconfiggi Vamp",
+                    "ja-JP": "ヴァンプを倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "18.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "de-DE": "Geisterjäger",
+                    "en-US": "Who Ya Gonna Call?",
+                    "es-ES": "Fenómeno paranormal",
+                    "fr-FR": "Ghost buster",
+                    "it-IT": "Acchiappafantasmi",
+                    "ja-JP": "船倉の幽霊"
+                },
+                "description": {
+                    "de-DE": "Nehmen Sie ein klares Geisterbild in Frachtraum 2 auf",
+                    "en-US": "Take a clear photograph of the ghost image in Hold No. 2",
+                    "es-ES": "Haz una fotografía clara del fantasma en la bodega número 2",
+                    "fr-FR": "Prenez une photo nette de l'image fantôme dans la cale n°2",
+                    "it-IT": "Scatta una foto nitida al fantasma nella stiva n. 2",
+                    "ja-JP": "第ニ船倉にて心霊写真をはっきりと撮影する"
+                },
+                "howto": {
+                    "de-DE": "Nehmen Sie ein klares Geisterbild in Frachtraum 2 auf",
+                    "en-US": "Take a clear photograph of the ghost image in Hold No. 2",
+                    "es-ES": "Haz una fotografía clara del fantasma en la bodega número 2",
+                    "fr-FR": "Prenez une photo nette de l'image fantôme dans la cale n°2",
+                    "it-IT": "Scatta una foto nitida al fantasma nella stiva n. 2",
+                    "ja-JP": "第ニ船倉にて心霊写真をはっきりと撮影する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "19.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "de-DE": "Wer ist hier der Boss?",
+                    "en-US": "No Boss of Mine",
+                    "es-ES": "¡Sobreviviré!",
+                    "fr-FR": "Ni dieu ni maître",
+                    "it-IT": "Indipendente",
+                    "ja-JP": "ボス・サバイバル・クリア"
+                },
+                "description": {
+                    "de-DE": "Schließen Sie Boss Survival ab",
+                    "en-US": "Complete Boss Survival",
+                    "es-ES": "Completa el modo Boss Survival",
+                    "fr-FR": "Achever Boss Survival",
+                    "it-IT": "Completa la modalità Boss Survival",
+                    "ja-JP": "ボス・サバイバルをクリアする"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie Boss Survival ab",
+                    "en-US": "Complete Boss Survival",
+                    "es-ES": "Completa el modo Boss Survival",
+                    "fr-FR": "Achever Boss Survival",
+                    "it-IT": "Completa la modalità Boss Survival",
+                    "ja-JP": "ボス・サバイバルをクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "20.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "de-DE": "Geschichtenerzähler",
+                    "en-US": "Tell Me a Tale",
+                    "es-ES": "Cuéntame un cuento",
+                    "fr-FR": "Raconte-moi une histoire",
+                    "it-IT": "Cantastorie",
+                    "ja-JP": "スネークテイルズ・クリア"
+                },
+                "description": {
+                    "de-DE": "Schließen Sie alle Snake-Geschichten ab",
+                    "en-US": "Complete all Snake Tales",
+                    "es-ES": "Completa todas las historias de Snake",
+                    "fr-FR": "Achever toutes les Snake Tales",
+                    "it-IT": "Completa tutti i racconti di Snake",
+                    "ja-JP": "スネークテイルズを全てクリアする"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie alle Snake-Geschichten ab",
+                    "en-US": "Complete all Snake Tales",
+                    "es-ES": "Completa todas las historias de Snake",
+                    "fr-FR": "Achever toutes les Snake Tales",
+                    "it-IT": "Completa tutti i racconti di Snake",
+                    "ja-JP": "スネークテイルズを全てクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "21.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "de-DE": "Alles identifiziert",
+                    "en-US": "Great Dane",
+                    "es-ES": "Olfato canino",
+                    "fr-FR": "Danois",
+                    "it-IT": "Collezionista seriale",
+                    "ja-JP": "ドッグタグ・コレクター"
+                },
+                "description": {
+                    "de-DE": "Sammeln Sie alle Identifikationsmarken",
+                    "en-US": "Collect all dog tags",
+                    "es-ES": "Reúne todas las placas de perros",
+                    "fr-FR": "Récupérer toutes les plaques d’identification",
+                    "it-IT": "Ottieni tutte le piastrine di identificazione",
+                    "ja-JP": "ドッグタグを全て手に入れる"
+                },
+                "howto": {
+                    "de-DE": "Sammeln Sie alle Identifikationsmarken",
+                    "en-US": "Collect all dog tags",
+                    "es-ES": "Reúne todas las placas de perros",
+                    "fr-FR": "Récupérer toutes les plaques d’identification",
+                    "it-IT": "Ottieni tutte le piastrine di identificazione",
+                    "ja-JP": "ドッグタグを全て手に入れる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "80",
+            "imageId": "22.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "de-DE": "Geschafft",
+                    "en-US": "A Cut Above",
+                    "es-ES": "Prueba de supremacía",
+                    "fr-FR": "Un cran au dessus",
+                    "it-IT": "Vincitore",
+                    "ja-JP": "後世に遺すもの"
+                },
+                "description": {
+                    "de-DE": "Bewältigen Sie die Tanker- und Anlagen-Kapitel auf einer beliebigen Schwierigkeitsstufe",
+                    "en-US": "Beat the Tanker and Plant chapters on any difficulty",
+                    "es-ES": "Supera los capítulos del carguero y la planta en cualquier dificultad",
+                    "fr-FR": "Réussissez les chapitres Tanker et Plateforme à n'importe quel niveau de difficulté",
+                    "it-IT": "Completa i capitoli Tanker e Installazione a qualsiasi difficoltà",
+                    "ja-JP": "いずれかの難易度でタンカー編とプラント編の両方をクリアする"
+                },
+                "howto": {
+                    "de-DE": "Bewältigen Sie die Tanker- und Anlagen-Kapitel auf einer beliebigen Schwierigkeitsstufe",
+                    "en-US": "Beat the Tanker and Plant chapters on any difficulty",
+                    "es-ES": "Supera los capítulos del carguero y la planta en cualquier dificultad",
+                    "fr-FR": "Réussissez les chapitres Tanker et Plateforme à n'importe quel niveau de difficulté",
+                    "it-IT": "Completa i capitoli Tanker e Installazione a qualsiasi difficoltà",
+                    "ja-JP": "いずれかの難易度でタンカー編とプラント編の両方をクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "23.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "de-DE": "Virtuell unmöglich",
+                    "en-US": "Virtually Impossible",
+                    "es-ES": "Hazaña imposible",
+                    "fr-FR": "Virtuellement impossible",
+                    "it-IT": "Virtualmente impossibile",
+                    "ja-JP": "VR訓練・卒業"
+                },
+                "description": {
+                    "de-DE": "Schließen Sie alle VR- und Alternativen Missionen ab",
+                    "en-US": "Complete all VR and Alternative missions",
+                    "es-ES": "Completa todas las misiones RV y alternativas",
+                    "fr-FR": "Terminer  toutes les missions alternatives ou VR",
+                    "it-IT": "Completa tutte le missioni in RV e alternative",
+                    "ja-JP": "VRミッションおよびオルタナティブミッションを全てクリアする"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie alle VR- und Alternativen Missionen ab",
+                    "en-US": "Complete all VR and Alternative missions",
+                    "es-ES": "Completa todas las misiones RV y alternativas",
+                    "fr-FR": "Terminer  toutes les missions alternatives ou VR",
+                    "it-IT": "Completa tutte le missioni in RV e alternative",
+                    "ja-JP": "VRミッションおよびオルタナティブミッションを全てクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "80",
+            "imageId": "24.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "de-DE": "Halbstarker",
+                    "en-US": "Young Gun",
+                    "es-ES": "Alto el fuego",
+                    "fr-FR": "Débutant",
+                    "it-IT": "Pistolero",
+                    "ja-JP": "いいセンスだ"
+                },
+                "description": {
+                    "de-DE": "Erledigen Sie Ocelot",
+                    "en-US": "Submit Ocelot",
+                    "es-ES": "Vence a Ocelot",
+                    "fr-FR": "Soumettre Ocelot",
+                    "it-IT": "Sconfiggi Ocelot",
+                    "ja-JP": "オセロットを気絶させる。"
+                },
+                "howto": {
+                    "de-DE": "Erledigen Sie Ocelot",
+                    "en-US": "Submit Ocelot",
+                    "es-ES": "Vence a Ocelot",
+                    "fr-FR": "Soumettre Ocelot",
+                    "it-IT": "Sconfiggi Ocelot",
+                    "ja-JP": "オセロットを気絶させる。"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "25.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "de-DE": "Schmerztherapie",
+                    "en-US": "Pain Relief",
+                    "es-ES": "Ya no me duele",
+                    "fr-FR": "Antidouleur",
+                    "it-IT": "Analgesico",
+                    "ja-JP": "至高の痛み"
+                },
+                "description": {
+                    "de-DE": "Besiegen Sie The Pain",
+                    "en-US": "Defeat The Pain",
+                    "es-ES": "Derrota a The Pain",
+                    "fr-FR": "Vaincre The Pain",
+                    "it-IT": "Elimina The Pain",
+                    "ja-JP": "ザ・ペインを倒す"
+                },
+                "howto": {
+                    "de-DE": "Besiegen Sie The Pain",
+                    "en-US": "Defeat The Pain",
+                    "es-ES": "Derrota a The Pain",
+                    "fr-FR": "Vaincre The Pain",
+                    "it-IT": "Elimina The Pain",
+                    "ja-JP": "ザ・ペインを倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "26.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "de-DE": "Wir schaffen das schon",
+                    "en-US": "If It Bleeds, We Can Kill It",
+                    "es-ES": "Valeroso",
+                    "fr-FR": "Si ça saigne, ça peut mourir",
+                    "it-IT": "Coraggioso",
+                    "ja-JP": "至純の恐怖"
+                },
+                "description": {
+                    "de-DE": "Besiegen Sie The Fear",
+                    "en-US": "Defeat The Fear",
+                    "es-ES": "Derrota a The Fear",
+                    "fr-FR": "Vaincre The Fear",
+                    "it-IT": "Elimina The Fear",
+                    "ja-JP": "ザ・フィアーを倒す"
+                },
+                "howto": {
+                    "de-DE": "Besiegen Sie The Fear",
+                    "en-US": "Defeat The Fear",
+                    "es-ES": "Derrota a The Fear",
+                    "fr-FR": "Vaincre The Fear",
+                    "it-IT": "Elimina The Fear",
+                    "ja-JP": "ザ・フィアーを倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "27.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "de-DE": "The End",
+                    "en-US": "The End",
+                    "es-ES": "Este es el fin",
+                    "fr-FR": "The End",
+                    "it-IT": "Fine",
+                    "ja-JP": "真実の終焉"
+                },
+                "description": {
+                    "de-DE": "Besiegen Sie The End",
+                    "en-US": "Defeat The End",
+                    "es-ES": "Derrota a The End",
+                    "fr-FR": "Vaincre The End",
+                    "it-IT": "Elimina The End",
+                    "ja-JP": "ジ・エンドを倒す"
+                },
+                "howto": {
+                    "de-DE": "Besiegen Sie The End",
+                    "en-US": "Defeat The End",
+                    "es-ES": "Derrota a The End",
+                    "fr-FR": "Vaincre The End",
+                    "it-IT": "Elimina The End",
+                    "ja-JP": "ジ・エンドを倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "28.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "de-DE": "Houston, wir HATTEN ein Problem",
+                    "en-US": "Houston, We HAD a Problem",
+                    "es-ES": "¡Houston, teníamos un problema!",
+                    "fr-FR": "Houston, on a eu un problème",
+                    "it-IT": "Houston, abbiamo un problema!",
+                    "ja-JP": "無限の憤怒"
+                },
+                "description": {
+                    "de-DE": "Besiegen Sie The Fury",
+                    "en-US": "Defeat The Fury",
+                    "es-ES": "Derrota a The Fury",
+                    "fr-FR": "Vaincre The Fury",
+                    "it-IT": "Elimina The Fury",
+                    "ja-JP": "ザ・フューリーを倒す"
+                },
+                "howto": {
+                    "de-DE": "Besiegen Sie The Fury",
+                    "en-US": "Defeat The Fury",
+                    "es-ES": "Derrota a The Fury",
+                    "fr-FR": "Vaincre The Fury",
+                    "it-IT": "Elimina The Fury",
+                    "ja-JP": "ザ・フューリーを倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "29.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "de-DE": "Fluss der Schmerzen",
+                    "en-US": "River of Pain",
+                    "es-ES": "Un río de lamentos",
+                    "fr-FR": "Des flots de souffrance",
+                    "it-IT": "Un fiume di dolore",
+                    "ja-JP": "深淵なる悲哀"
+                },
+                "description": {
+                    "de-DE": "Besiegen Sie The Sorrow",
+                    "en-US": "Defeat The Sorrow",
+                    "es-ES": "Derrota a The Sorrow",
+                    "fr-FR": "Vaincre The Sorrow",
+                    "it-IT": "Elimina The Sorrow",
+                    "ja-JP": "ザ・ソローを倒す"
+                },
+                "howto": {
+                    "de-DE": "Besiegen Sie The Sorrow",
+                    "en-US": "Defeat The Sorrow",
+                    "es-ES": "Derrota a The Sorrow",
+                    "fr-FR": "Vaincre The Sorrow",
+                    "it-IT": "Elimina The Sorrow",
+                    "ja-JP": "ザ・ソローを倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "30.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "de-DE": "Shagadelisch",
+                    "en-US": "Shagadelic",
+                    "es-ES": "Tras la tormenta...",
+                    "fr-FR": "Shagodélire",
+                    "it-IT": "Scontro titanico",
+                    "ja-JP": "金属の歯車"
+                },
+                "description": {
+                    "de-DE": "Besiegen Sie Shagohod",
+                    "en-US": "Defeat Shagohod",
+                    "es-ES": "Derrota a Shagohod",
+                    "fr-FR": "Vaincre Shagohod",
+                    "it-IT": "Distruggi lo Shagohod",
+                    "ja-JP": "シャゴホッドを倒す"
+                },
+                "howto": {
+                    "de-DE": "Besiegen Sie Shagohod",
+                    "en-US": "Defeat Shagohod",
+                    "es-ES": "Derrota a Shagohod",
+                    "fr-FR": "Vaincre Shagohod",
+                    "it-IT": "Distruggi lo Shagohod",
+                    "ja-JP": "シャゴホッドを倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "31.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "de-DE": "Auf dem Boden",
+                    "en-US": "Grounded",
+                    "es-ES": "Comandante de acero",
+                    "fr-FR": "Au sol",
+                    "it-IT": "Una volta per tutte",
+                    "ja-JP": "サンダーボルト"
+                },
+                "description": {
+                    "de-DE": "Besiegen Sie Volgin in einem Faustkampf",
+                    "en-US": "Defeat Volgin in a fist fight",
+                    "es-ES": "Derrota a Volgin en una pelea sin armas",
+                    "fr-FR": "Vaincre Volgin en combat à mains nues",
+                    "it-IT": "Sconfiggi Volgin a mani nude",
+                    "ja-JP": "ヴォルギンを格闘で倒す"
+                },
+                "howto": {
+                    "de-DE": "Besiegen Sie Volgin in einem Faustkampf",
+                    "en-US": "Defeat Volgin in a fist fight",
+                    "es-ES": "Derrota a Volgin en una pelea sin armas",
+                    "fr-FR": "Vaincre Volgin en combat à mains nues",
+                    "it-IT": "Sconfiggi Volgin a mani nude",
+                    "ja-JP": "ヴォルギンを格闘で倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "32.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "de-DE": "Der Patriot",
+                    "en-US": "The Patriot",
+                    "es-ES": "El Patriota",
+                    "fr-FR": "Le patriote",
+                    "it-IT": "Patriota",
+                    "ja-JP": "ボスは二人もいらない"
+                },
+                "description": {
+                    "de-DE": "Besiegen Sie The Boss",
+                    "en-US": "Defeat The Boss",
+                    "es-ES": "Derrota a The Sorrow",
+                    "fr-FR": "Vaincre The Boss",
+                    "it-IT": "Elimina The Boss",
+                    "ja-JP": "ザ・ボスを倒す"
+                },
+                "howto": {
+                    "de-DE": "Besiegen Sie The Boss",
+                    "en-US": "Defeat The Boss",
+                    "es-ES": "Derrota a The Sorrow",
+                    "fr-FR": "Vaincre The Boss",
+                    "it-IT": "Elimina The Boss",
+                    "ja-JP": "ザ・ボスを倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "33.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "de-DE": "Gute Nacht",
+                    "en-US": "Mama Said",
+                    "es-ES": "Malote",
+                    "fr-FR": "Fais dodo...",
+                    "it-IT": "Wrestler",
+                    "ja-JP": "一本勝ち"
+                },
+                "description": {
+                    "de-DE": "CQC - Schlagen Sie eine Wache bewusstlos",
+                    "en-US": "CQC Slam a guard and knock him out",
+                    "es-ES": "CQC. Golpea a un guarda y derríbalo",
+                    "fr-FR": "Assommer un garde en CQC",
+                    "it-IT": "Stendi in CQC una guardia e mettila KO",
+                    "ja-JP": "CQCを使って敵を倒す"
+                },
+                "howto": {
+                    "de-DE": "CQC - Schlagen Sie eine Wache bewusstlos",
+                    "en-US": "CQC Slam a guard and knock him out",
+                    "es-ES": "CQC. Golpea a un guarda y derríbalo",
+                    "fr-FR": "Assommer un garde en CQC",
+                    "it-IT": "Stendi in CQC una guardia e mettila KO",
+                    "ja-JP": "CQCを使って敵を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "34.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "de-DE": "Einfach nur so",
+                    "en-US": "Like He Just Doesn't Care",
+                    "es-ES": "Ni se va a enterar",
+                    "fr-FR": "On danse ?",
+                    "it-IT": "Morsa letale",
+                    "ja-JP": "ホールドアップ！"
+                },
+                "description": {
+                    "de-DE": "CQC - Überfallen Sie einen Feind",
+                    "en-US": "CQC Hold up an enemy",
+                    "es-ES": "CQC. Sacude a un enemigo en el suelo",
+                    "fr-FR": "Maîtriser un ennemi en CQC",
+                    "it-IT": "Afferra in una morsa CQC un nemico",
+                    "ja-JP": "CQCを使って敵をホールドアップさせる"
+                },
+                "howto": {
+                    "de-DE": "CQC - Überfallen Sie einen Feind",
+                    "en-US": "CQC Hold up an enemy",
+                    "es-ES": "CQC. Sacude a un enemigo en el suelo",
+                    "fr-FR": "Maîtriser un ennemi en CQC",
+                    "it-IT": "Afferra in una morsa CQC un nemico",
+                    "ja-JP": "CQCを使って敵をホールドアップさせる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "35.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "de-DE": "Glatte Rasur",
+                    "en-US": "Close Shave",
+                    "es-ES": "Un afeitado apurado",
+                    "fr-FR": "Rasage de près",
+                    "it-IT": "Taglio netto",
+                    "ja-JP": "ナイフキラー"
+                },
+                "description": {
+                    "de-DE": "CQC - Schneiden Sie einem Feind die Kehle durch",
+                    "en-US": "CQC Slit an enemy's throat",
+                    "es-ES": "CQC. Córtale el cuello a un enemigo",
+                    "fr-FR": "Trancher la gorge d’un ennemi en CQC",
+                    "it-IT": "Sgozza in CQC un nemico",
+                    "ja-JP": "CQCを使って敵の喉を切り裂く"
+                },
+                "howto": {
+                    "de-DE": "CQC - Schneiden Sie einem Feind die Kehle durch",
+                    "en-US": "CQC Slit an enemy's throat",
+                    "es-ES": "CQC. Córtale el cuello a un enemigo",
+                    "fr-FR": "Trancher la gorge d’un ennemi en CQC",
+                    "it-IT": "Sgozza in CQC un nemico",
+                    "ja-JP": "CQCを使って敵の喉を切り裂く"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "36.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "de-DE": "Scharfblick",
+                    "en-US": "Snake Eyes",
+                    "es-ES": "Ojos de serpiente",
+                    "fr-FR": "Snake Eyes",
+                    "it-IT": "Occhi di serpente",
+                    "ja-JP": "スネーク・アイズ"
+                },
+                "description": {
+                    "de-DE": "Entdecken Sie alle nicht durch das RB-Symbol angezeigten Egoperspektiven",
+                    "en-US": "See all of the first-person views that are not indicated by the RB button icon",
+                    "es-ES": "Contempla todas las vistas en primera persona que no están indicadas con el botón RB",
+                    "fr-FR": "Voir toutes les vues à la 1re personne qui ne sont pas signalées par une icône de touche RB",
+                    "it-IT": "Scopri tutte le visuali Soggettive non indicate dall'icona del pulsante RB",
+                    "ja-JP": "RB ボタンで視点を切り替えられる場面のうち、RB ボタンの指示が出ない場面を全て発見する"
+                },
+                "howto": {
+                    "de-DE": "Entdecken Sie alle nicht durch das RB-Symbol angezeigten Egoperspektiven",
+                    "en-US": "See all of the first-person views that are not indicated by the RB button icon",
+                    "es-ES": "Contempla todas las vistas en primera persona que no están indicadas con el botón RB",
+                    "fr-FR": "Voir toutes les vues à la 1re personne qui ne sont pas signalées par une icône de touche RB",
+                    "it-IT": "Scopri tutte le visuali Soggettive non indicate dall'icona del pulsante RB",
+                    "ja-JP": "RB ボタンで視点を切り替えられる場面のうち、RB ボタンの指示が出ない場面を全て発見する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "37.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "de-DE": "Ruf den Kurt",
+                    "en-US": "Ralph Called",
+                    "es-ES": "Algo en mal estado",
+                    "fr-FR": "Aller-retour",
+                    "it-IT": "Cattiva digestione",
+                    "ja-JP": "嘔吐感"
+                },
+                "description": {
+                    "de-DE": "Bringen Sie Snake dazu, sich zu übergeben",
+                    "en-US": "Make Snake throw up",
+                    "es-ES": "Haz que Snake vomite",
+                    "fr-FR": "Faire vomir Snake",
+                    "it-IT": "Fai vomitare Snake",
+                    "ja-JP": "スネークを嘔吐させる"
+                },
+                "howto": {
+                    "de-DE": "Bringen Sie Snake dazu, sich zu übergeben",
+                    "en-US": "Make Snake throw up",
+                    "es-ES": "Haz que Snake vomite",
+                    "fr-FR": "Faire vomir Snake",
+                    "it-IT": "Fai vomitare Snake",
+                    "ja-JP": "スネークを嘔吐させる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "38.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "de-DE": "Darf ich das behalten?",
+                    "en-US": "Can I Keep It?",
+                    "es-ES": "¿Puedo quedármelo?",
+                    "fr-FR": "Je peux le garder ?",
+                    "it-IT": "Posso tenerlo?",
+                    "ja-JP": "生物保護"
+                },
+                "description": {
+                    "de-DE": "Fangen Sie ein beliebiges lebendes Tier",
+                    "en-US": "Capture any animal alive",
+                    "es-ES": "Captura un animal vivo",
+                    "fr-FR": "Capturer un animal vivant",
+                    "it-IT": "Cattura vivo ogni tipo di animale",
+                    "ja-JP": "動物を生け捕りにする"
+                },
+                "howto": {
+                    "de-DE": "Fangen Sie ein beliebiges lebendes Tier",
+                    "en-US": "Capture any animal alive",
+                    "es-ES": "Captura un animal vivo",
+                    "fr-FR": "Capturer un animal vivant",
+                    "it-IT": "Cattura vivo ogni tipo di animale",
+                    "ja-JP": "動物を生け捕りにする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "39.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "de-DE": "Snake Eater",
+                    "en-US": "Snake Eater",
+                    "es-ES": "Comeserpientes",
+                    "fr-FR": "Snake Eater",
+                    "it-IT": "Snake Eater",
+                    "ja-JP": "スネークイーター"
+                },
+                "description": {
+                    "de-DE": "Essen Sie eine beliebige Art von Schlange",
+                    "en-US": "Eat a snake of any type",
+                    "es-ES": "Cómete una serpiente de cada clase",
+                    "fr-FR": "Manger n'importe quel serpent",
+                    "it-IT": "Mangia ogni tipo di serpente",
+                    "ja-JP": "いずれかの種類のヘビを食べる"
+                },
+                "howto": {
+                    "de-DE": "Essen Sie eine beliebige Art von Schlange",
+                    "en-US": "Eat a snake of any type",
+                    "es-ES": "Cómete una serpiente de cada clase",
+                    "fr-FR": "Manger n'importe quel serpent",
+                    "it-IT": "Mangia ogni tipo di serpente",
+                    "ja-JP": "いずれかの種類のヘビを食べる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "40.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "de-DE": "Schwer zu finden",
+                    "en-US": "A Good Man Is Hard to Find",
+                    "es-ES": "Hombre invisible",
+                    "fr-FR": "Où se cache-t-il ?",
+                    "it-IT": "Mimetismo perfetto",
+                    "ja-JP": "カモフラージュ・マスター"
+                },
+                "description": {
+                    "de-DE": "Erreichen Sie einen Tarnindex von 100 %",
+                    "en-US": "Achieve a camouflage index of 100%",
+                    "es-ES": "Consigue un índice de camuflaje del 100%",
+                    "fr-FR": "Atteindre un index de camouflage de 100 %",
+                    "it-IT": "Ottieni un indice di mimetizzazione del 100%",
+                    "ja-JP": "カモフラージュ率を100%にする"
+                },
+                "howto": {
+                    "de-DE": "Erreichen Sie einen Tarnindex von 100 %",
+                    "en-US": "Achieve a camouflage index of 100%",
+                    "es-ES": "Consigue un índice de camuflaje del 100%",
+                    "fr-FR": "Atteindre un index de camouflage de 100 %",
+                    "it-IT": "Ottieni un indice di mimetizzazione del 100%",
+                    "ja-JP": "カモフラージュ率を100%にする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "41.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "de-DE": "Problem gelöst, Serie vorbei",
+                    "en-US": "Problem Solved, Series Over",
+                    "es-ES": "Se acabó la saga",
+                    "fr-FR": "Problème résolu, série terminée",
+                    "it-IT": "La fine di tutto",
+                    "ja-JP": "タイム・パラドックス"
+                },
+                "description": {
+                    "de-DE": "Erschaffen Sie ein Ocelot-Zeit-Paradoxon",
+                    "en-US": "Create the Ocelot Time Paradox",
+                    "es-ES": "Crea la paradoja temporal de Ocelot",
+                    "fr-FR": "Créer le paradoxe temporel d’Ocelot",
+                    "it-IT": "Crea il paradosso temporale di Ocelot",
+                    "ja-JP": "オセロット・タイム・パラドックスを引き起こす"
+                },
+                "howto": {
+                    "de-DE": "Erschaffen Sie ein Ocelot-Zeit-Paradoxon",
+                    "en-US": "Create the Ocelot Time Paradox",
+                    "es-ES": "Crea la paradoja temporal de Ocelot",
+                    "fr-FR": "Créer le paradoxe temporel d’Ocelot",
+                    "it-IT": "Crea il paradosso temporale di Ocelot",
+                    "ja-JP": "オセロット・タイム・パラドックスを引き起こす"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "10",
+            "imageId": "42.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "de-DE": "Unglaublich, aber wahr",
+                    "en-US": "Believe It or Not",
+                    "es-ES": "Serpiente legendaria",
+                    "fr-FR": "Crois-le ou pas",
+                    "it-IT": "Creatura misteriosa",
+                    "ja-JP": "ＵＭＡ捕獲"
+                },
+                "description": {
+                    "de-DE": "Fangen Sie eine Tsuchinoko (sagenhafte Schlange)",
+                    "en-US": "Catch a Tsuchinoko (mythical serpent)",
+                    "es-ES": "Consigue una serpiente tsuchinoko",
+                    "fr-FR": "Attraper un tsuchinoko (serpent mythique)",
+                    "it-IT": "Cattura un tsuchinoko (serpente mistico)",
+                    "ja-JP": "ツチノコを捕まえる"
+                },
+                "howto": {
+                    "de-DE": "Fangen Sie eine Tsuchinoko (sagenhafte Schlange)",
+                    "en-US": "Catch a Tsuchinoko (mythical serpent)",
+                    "es-ES": "Consigue una serpiente tsuchinoko",
+                    "fr-FR": "Attraper un tsuchinoko (serpent mythique)",
+                    "it-IT": "Cattura un tsuchinoko (serpente mistico)",
+                    "ja-JP": "ツチノコを捕まえる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "43.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "de-DE": "Modeverrückt",
+                    "en-US": "Fashionista",
+                    "es-ES": "Víctima de la moda",
+                    "fr-FR": "Fashionista",
+                    "it-IT": "Maniaco della moda",
+                    "ja-JP": "カモフラージュ・コレクター"
+                },
+                "description": {
+                    "de-DE": "Finden Sie alle Arten von Tarnung",
+                    "en-US": "Find every type of camouflage",
+                    "es-ES": "Encuentra todos los tipos de trajes de camuflaje",
+                    "fr-FR": "Trouver tous les types de camouflage",
+                    "it-IT": "Trova ogni tipo di mimetica",
+                    "ja-JP": "全種類のカモフラージュを発見する"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie alle Arten von Tarnung",
+                    "en-US": "Find every type of camouflage",
+                    "es-ES": "Encuentra todos los tipos de trajes de camuflaje",
+                    "fr-FR": "Trouver tous les types de camouflage",
+                    "it-IT": "Trova ogni tipo di mimetica",
+                    "ja-JP": "全種類のカモフラージュを発見する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "44.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "de-DE": "Visagist",
+                    "en-US": "Only Skin Deep",
+                    "es-ES": "Maquillador profesional",
+                    "fr-FR": "Crème de jour",
+                    "it-IT": "Estetista",
+                    "ja-JP": "フェイスペイント・コレクター"
+                },
+                "description": {
+                    "de-DE": "Finden Sie alle Arten von Gesichtsbemalung",
+                    "en-US": "Find every type of face paint",
+                    "es-ES": "Encuentra todos los tipos de pinturas faciales",
+                    "fr-FR": "Trouver tous les types de peinture de visage",
+                    "it-IT": "Trova ogni tipo di pittura facciale",
+                    "ja-JP": "全種類のフェイスペイントを発見する"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie alle Arten von Gesichtsbemalung",
+                    "en-US": "Find every type of face paint",
+                    "es-ES": "Encuentra todos los tipos de pinturas faciales",
+                    "fr-FR": "Trouver tous les types de peinture de visage",
+                    "it-IT": "Trova ogni tipo di pittura facciale",
+                    "ja-JP": "全種類のフェイスペイントを発見する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "45.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "de-DE": "Ein frühes Ende",
+                    "en-US": "The Early End",
+                    "es-ES": "Un final prematuro",
+                    "fr-FR": "La fin de The End",
+                    "it-IT": "\"Fine\" prematura",
+                    "ja-JP": "早過ぎる死"
+                },
+                "description": {
+                    "de-DE": "Töten Sie The End vor dem Boss-Kampf",
+                    "en-US": "Kill The End before the boss battle",
+                    "es-ES": "Mata a The End antes de que comience el combate real",
+                    "fr-FR": "Tuer The End avant la bataille finale",
+                    "it-IT": "Elimina The End prima dello scontro originale",
+                    "ja-JP": "戦うことなくジ・エンドを倒す"
+                },
+                "howto": {
+                    "de-DE": "Töten Sie The End vor dem Boss-Kampf",
+                    "en-US": "Kill The End before the boss battle",
+                    "es-ES": "Mata a The End antes de que comience el combate real",
+                    "fr-FR": "Tuer The End avant la bataille finale",
+                    "it-IT": "Elimina The End prima dello scontro originale",
+                    "ja-JP": "戦うことなくジ・エンドを倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "20",
+            "imageId": "46.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "de-DE": "König des Dschungels",
+                    "en-US": "King of the Jungle",
+                    "es-ES": "Rey de la selva",
+                    "fr-FR": "Roi de la jungle",
+                    "it-IT": "Re della giungla",
+                    "ja-JP": "ジャングル・マスター"
+                },
+                "description": {
+                    "de-DE": "Erhalten Sie den Titel MARKHOR",
+                    "en-US": "Obtain title of MARKHOR",
+                    "es-ES": "Consigue el título de \"Markhor\"",
+                    "fr-FR": "Obtenir le titre de MARKHOR",
+                    "it-IT": "Ottieni il titolo di MARKHOR",
+                    "ja-JP": "MARKHORの称号を手に入れる"
+                },
+                "howto": {
+                    "de-DE": "Erhalten Sie den Titel MARKHOR",
+                    "en-US": "Obtain title of MARKHOR",
+                    "es-ES": "Consigue el título de \"Markhor\"",
+                    "fr-FR": "Obtenir le titre de MARKHOR",
+                    "it-IT": "Ottieni il titolo di MARKHOR",
+                    "ja-JP": "MARKHORの称号を手に入れる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "80",
+            "imageId": "47.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "de-DE": "Als Frosch hat man's schwer",
+                    "en-US": "It Ain't Easy Being Green",
+                    "es-ES": "Ranas por doquier",
+                    "fr-FR": "C’est pas rose d’être vert",
+                    "it-IT": "Cacciatore di rane",
+                    "ja-JP": "ケロタン・コレクター"
+                },
+                "description": {
+                    "de-DE": "Finden Sie alle 64 Kerotans",
+                    "en-US": "Find all 64 Kerotans",
+                    "es-ES": "Encuentra a los 64 Kerotans",
+                    "fr-FR": "Trouver les 64 Kerotans",
+                    "it-IT": "Trova tutte le 64 Kerotan",
+                    "ja-JP": "64匹のケロタンを全て見つける"
+                },
+                "howto": {
+                    "de-DE": "Finden Sie alle 64 Kerotans",
+                    "en-US": "Find all 64 Kerotans",
+                    "es-ES": "Encuentra a los 64 Kerotans",
+                    "fr-FR": "Trouver les 64 Kerotans",
+                    "it-IT": "Trova tutte le 64 Kerotan",
+                    "ja-JP": "64匹のケロタンを全て見つける"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "80",
+            "imageId": "48.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "de-DE": "Wie ein Boss",
+                    "en-US": "Like a Boss",
+                    "es-ES": "El jefazo",
+                    "fr-FR": "Comme un champion du monde",
+                    "it-IT": "Un vero Boss",
+                    "ja-JP": "ビッグボスの称号"
+                },
+                "description": {
+                    "de-DE": "Schließen Sie das Spiel auf einer beliebigen Schwierigkeitsstufe ab",
+                    "en-US": "Finish the game on any difficulty",
+                    "es-ES": "Completa el juego en todos los niveles de dificultad",
+                    "fr-FR": "Terminer le jeu à n’importe quel niveau de difficulté",
+                    "it-IT": "Completa il gioco a qualsiasi difficoltà",
+                    "ja-JP": "いずれかの難易度でゲームをクリアする"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie das Spiel auf einer beliebigen Schwierigkeitsstufe ab",
+                    "en-US": "Finish the game on any difficulty",
+                    "es-ES": "Completa el juego en todos los niveles de dificultad",
+                    "fr-FR": "Terminer le jeu à n’importe quel niveau de difficulté",
+                    "it-IT": "Completa il gioco a qualsiasi difficoltà",
+                    "ja-JP": "いずれかの難易度でゲームをクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "50",
+            "imageId": "49.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "de-DE": "PEACE WALKER",
+                    "en-US": "PEACE WALKER",
+                    "es-ES": "Paz y amor",
+                    "fr-FR": "PEACE WALKER",
+                    "it-IT": "PEACE WALKER",
+                    "ja-JP": "ノー・キル・クリア"
+                },
+                "description": {
+                    "de-DE": "Schließen Sie das Spiel ab, ohne jemanden zu töten",
+                    "en-US": "Finish game without killing anyone",
+                    "es-ES": "Completa el juego sin matar a nadie",
+                    "fr-FR": "Terminer le jeu sans tuer personne",
+                    "it-IT": "Completa il gioco senza uccisioni",
+                    "ja-JP": "敵を殺さずにクリアする"
+                },
+                "howto": {
+                    "de-DE": "Schließen Sie das Spiel ab, ohne jemanden zu töten",
+                    "en-US": "Finish game without killing anyone",
+                    "es-ES": "Completa el juego sin matar a nadie",
+                    "fr-FR": "Terminer le jeu sans tuer personne",
+                    "it-IT": "Completa il gioco senza uccisioni",
+                    "ja-JP": "敵を殺さずにクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "30",
+            "imageId": "50.png"
+        }
+    }
+}
