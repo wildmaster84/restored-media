@@ -1,0 +1,1684 @@
+{
+    "Achievements": {
+        "79": {
+            "text": {
+                "name": {
+                    "de-DE": "Durch die Bresche",
+                    "en-US": "Unto The Breach",
+                    "es-ES": "Hasta la brecha",
+                    "fr-FR": "Dans la brèche",
+                    "it-IT": "La breccia",
+                    "ru-RU": "Перед Бездной",
+                    "ja-JP": "突破口へ"
+                },
+                "description": {
+                    "de-DE": "Verschaffe dir Zutritt zum Terraformer.",
+                    "en-US": "Gain entry into the Terraformer.",
+                    "es-ES": "Consigue entrar en el terraformador.",
+                    "fr-FR": "Pénétrez dans le terraformeur.",
+                    "it-IT": "Penetra nel Terraformatore.",
+                    "ru-RU": "Проникните в Терраформирователь.",
+                    "ja-JP": "テラフォーマーへ侵入する"
+                },
+                "howto": {
+                    "de-DE": "Verschaffe dir Zutritt zum Terraformer.",
+                    "en-US": "Gain entry into the Terraformer.",
+                    "es-ES": "Consigue entrar en el terraformador.",
+                    "fr-FR": "Pénétrez dans le terraformeur.",
+                    "it-IT": "Penetra nel Terraformatore.",
+                    "ru-RU": "Проникните в Терраформирователь.",
+                    "ja-JP": "テラフォーマーへ侵入する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "01.png"
+        },
+        "80": {
+            "text": {
+                "name": {
+                    "de-DE": "Lange begrabene Geheimnisse",
+                    "en-US": "Secrets Long Buried",
+                    "es-ES": "Secretos enterrados hace tiempo",
+                    "fr-FR": "Secrets enfouis",
+                    "it-IT": "Segreti da tempo sepolti",
+                    "ru-RU": "Тайны погребенных",
+                    "ja-JP": "埋没した秘密"
+                },
+                "description": {
+                    "de-DE": "Entferne das Siegel.",
+                    "en-US": "Remove the Seal.",
+                    "es-ES": "Elimina el sello.",
+                    "fr-FR": "Brisez le scellé.",
+                    "it-IT": "Rimuovi il Sigillo.",
+                    "ru-RU": "Снимите Печать.",
+                    "ja-JP": "封印を破壊する"
+                },
+                "howto": {
+                    "de-DE": "Entferne das Siegel.",
+                    "en-US": "Remove the Seal.",
+                    "es-ES": "Elimina el sello.",
+                    "fr-FR": "Brisez le scellé.",
+                    "it-IT": "Rimuovi il Sigillo.",
+                    "ru-RU": "Снимите Печать.",
+                    "ja-JP": "封印を破壊する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "02.png"
+        },
+        "81": {
+            "text": {
+                "name": {
+                    "de-DE": "Wir sind nicht allein",
+                    "en-US": "We're Not Alone",
+                    "es-ES": "No estamos solos",
+                    "fr-FR": "Nous ne sommes pas seuls",
+                    "it-IT": "Non siamo soli",
+                    "ru-RU": "Они существуют!",
+                    "ja-JP": "我々はひとりじゃない"
+                },
+                "description": {
+                    "de-DE": "Schaffe es zurück zur Zivilisation.",
+                    "en-US": "Make it back to civilization.",
+                    "es-ES": "Consigue volver a la civilización.",
+                    "fr-FR": "Retrouvez la civilisation.",
+                    "it-IT": "Ritorna alla civiltà.",
+                    "ru-RU": "Вернитесь назад в цивилизацию.",
+                    "ja-JP": "文明圏まで戻る"
+                },
+                "howto": {
+                    "de-DE": "Schaffe es zurück zur Zivilisation.",
+                    "en-US": "Make it back to civilization.",
+                    "es-ES": "Consigue volver a la civilización.",
+                    "fr-FR": "Retrouvez la civilisation.",
+                    "it-IT": "Ritorna alla civiltà.",
+                    "ru-RU": "Вернитесь назад в цивилизацию.",
+                    "ja-JP": "文明圏まで戻る"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "03.png"
+        },
+        "83": {
+            "text": {
+                "name": {
+                    "de-DE": "Vorhut",
+                    "en-US": "Vanguard",
+                    "es-ES": "Vanguardia",
+                    "fr-FR": "Avant-garde",
+                    "it-IT": "Avanguardia",
+                    "ru-RU": "Авангард",
+                    "ja-JP": "前衛"
+                },
+                "description": {
+                    "de-DE": "Eskortiere den Konvoi.",
+                    "en-US": "Escort the convoy.",
+                    "es-ES": "Escolta el convoy.",
+                    "fr-FR": "Escortez le convoi.",
+                    "it-IT": "Scorta il convoglio.",
+                    "ru-RU": "Сопроводите конвой.",
+                    "ja-JP": "車列を護衛する"
+                },
+                "howto": {
+                    "de-DE": "Eskortiere den Konvoi.",
+                    "en-US": "Escort the convoy.",
+                    "es-ES": "Escolta el convoy.",
+                    "fr-FR": "Escortez le convoi.",
+                    "it-IT": "Scorta il convoglio.",
+                    "ru-RU": "Сопроводите конвой.",
+                    "ja-JP": "車列を護衛する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "04.png"
+        },
+        "86": {
+            "text": {
+                "name": {
+                    "de-DE": "Dinge zerfallen",
+                    "en-US": "Things Fall Apart",
+                    "es-ES": "Todo se tambalea",
+                    "fr-FR": "Nettoyage",
+                    "it-IT": "Tutto a pezzi",
+                    "ru-RU": "Разрушенный мир",
+                    "ja-JP": "形あるものは壊れる"
+                },
+                "description": {
+                    "de-DE": "Zerstöre die Wasserreinigungsanlage.",
+                    "en-US": "Destroy the Water Filtration Plant.",
+                    "es-ES": "Destruye la planta de filtración de agua.",
+                    "fr-FR": "Détruisez l'usine de purification de l'eau.",
+                    "it-IT": "Distruggi l'impianto di depurazione dell'acqua.",
+                    "ru-RU": "Уничтожьте водоочистительный завод.",
+                    "ja-JP": "水ろ過プラントを破壊する"
+                },
+                "howto": {
+                    "de-DE": "Zerstöre die Wasserreinigungsanlage.",
+                    "en-US": "Destroy the Water Filtration Plant.",
+                    "es-ES": "Destruye la planta de filtración de agua.",
+                    "fr-FR": "Détruisez l'usine de purification de l'eau.",
+                    "it-IT": "Distruggi l'impianto di depurazione dell'acqua.",
+                    "ru-RU": "Уничтожьте водоочистительный завод.",
+                    "ja-JP": "水ろ過プラントを破壊する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "05.png"
+        },
+        "87": {
+            "text": {
+                "name": {
+                    "de-DE": "Überleben des Stärksten",
+                    "en-US": "Survival Of The Fittest",
+                    "es-ES": "La ley del más fuerte",
+                    "fr-FR": "Sélection naturelle",
+                    "it-IT": "La legge del più forte",
+                    "ru-RU": "Предупрежден - вооружен",
+                    "ja-JP": "適者生存"
+                },
+                "description": {
+                    "de-DE": "Schaffe es bis zur Oberfläche.",
+                    "en-US": "Make it to the surface.",
+                    "es-ES": "Llega a la superficie.",
+                    "fr-FR": "Rejoignez la surface.",
+                    "it-IT": "Raggiungi la superficie.",
+                    "ru-RU": "Доберитесь до поверхности.",
+                    "ja-JP": "地表へ脱出する"
+                },
+                "howto": {
+                    "de-DE": "Schaffe es bis zur Oberfläche.",
+                    "en-US": "Make it to the surface.",
+                    "es-ES": "Llega a la superficie.",
+                    "fr-FR": "Rejoignez la surface.",
+                    "it-IT": "Raggiungi la superficie.",
+                    "ru-RU": "Доберитесь до поверхности.",
+                    "ja-JP": "地表へ脱出する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "06.png"
+        },
+        "88": {
+            "text": {
+                "name": {
+                    "de-DE": "Ich bin alles, was du hast",
+                    "en-US": "I'm All You've Got",
+                    "es-ES": "Soy todo lo que tienes",
+                    "fr-FR": "Dernier espoir",
+                    "it-IT": "Resto solo io",
+                    "ru-RU": "Я все, что у вас есть",
+                    "ja-JP": "守護神"
+                },
+                "description": {
+                    "de-DE": "Verteidige die Red Faction.",
+                    "en-US": "Defend the Red Faction.",
+                    "es-ES": "Defiende a la Red Faction.",
+                    "fr-FR": "Défendez la Red Faction.",
+                    "it-IT": "Difendi la Red Faction.",
+                    "ru-RU": "Защитите Красную Фракцию.",
+                    "ja-JP": "レッドファクションを守る"
+                },
+                "howto": {
+                    "de-DE": "Verteidige die Red Faction.",
+                    "en-US": "Defend the Red Faction.",
+                    "es-ES": "Defiende a la Red Faction.",
+                    "fr-FR": "Défendez la Red Faction.",
+                    "it-IT": "Difendi la Red Faction.",
+                    "ru-RU": "Защитите Красную Фракцию.",
+                    "ja-JP": "レッドファクションを守る"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "07.png"
+        },
+        "89": {
+            "text": {
+                "name": {
+                    "de-DE": "Wetter und Sturm",
+                    "en-US": "Weather The Storm",
+                    "es-ES": "Capear el temporal",
+                    "fr-FR": "En pleine tempête",
+                    "it-IT": "Sopravvivere alla tempesta",
+                    "ru-RU": "Борьба с бурей",
+                    "ja-JP": "嵐を越えて"
+                },
+                "description": {
+                    "de-DE": "Zerstöre die Störgeräte.",
+                    "en-US": "Destroy the Jamming Devices.",
+                    "es-ES": "Destruye los dispositivos de interferencia.",
+                    "fr-FR": "Détruisez les dispositifs de brouillage.",
+                    "it-IT": "Distruggi i dispositivi di disturbo.",
+                    "ru-RU": "Уничтожьте глушилки.",
+                    "ja-JP": "ジャミングデバイスを破壊する"
+                },
+                "howto": {
+                    "de-DE": "Zerstöre die Störgeräte.",
+                    "en-US": "Destroy the Jamming Devices.",
+                    "es-ES": "Destruye los dispositivos de interferencia.",
+                    "fr-FR": "Détruisez les dispositifs de brouillage.",
+                    "it-IT": "Distruggi i dispositivi di disturbo.",
+                    "ru-RU": "Уничтожьте глушилки.",
+                    "ja-JP": "ジャミングデバイスを破壊する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "08.png"
+        },
+        "91": {
+            "text": {
+                "name": {
+                    "de-DE": "Familienangelegenheiten",
+                    "en-US": "Family Business",
+                    "es-ES": "El negocio familiar",
+                    "fr-FR": "Affaire de famille",
+                    "it-IT": "Affari di famiglia",
+                    "ru-RU": "Семейное дело",
+                    "ja-JP": "ファミリービジネス"
+                },
+                "description": {
+                    "de-DE": "Besiege die Gottesanbeterin.",
+                    "en-US": "Defeat the Mantis.",
+                    "es-ES": "Derrota a la Mantis.",
+                    "fr-FR": "Neutralisez la Mante.",
+                    "it-IT": "Sconfiggi la Mantide.",
+                    "ru-RU": "Победите Богомола.",
+                    "ja-JP": "マンティスを破壊する"
+                },
+                "howto": {
+                    "de-DE": "Besiege die Gottesanbeterin.",
+                    "en-US": "Defeat the Mantis.",
+                    "es-ES": "Derrota a la Mantis.",
+                    "fr-FR": "Neutralisez la Mante.",
+                    "it-IT": "Sconfiggi la Mantide.",
+                    "ru-RU": "Победите Богомола.",
+                    "ja-JP": "マンティスを破壊する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "92": {
+            "text": {
+                "name": {
+                    "de-DE": "Schneller",
+                    "en-US": "Must Go Faster",
+                    "es-ES": "Más rápido",
+                    "fr-FR": "Plus vite",
+                    "it-IT": "Più veloce",
+                    "ru-RU": "Нет времени",
+                    "ja-JP": "もっと急げ"
+                },
+                "description": {
+                    "de-DE": "Reise zur Heimat der Marauder.",
+                    "en-US": "Travel to the Marauder homelands.",
+                    "es-ES": "Viaja a la tierra de los marauders.",
+                    "fr-FR": "Rejoignez la patrie des Marauders.",
+                    "it-IT": "Raggiungi le terre dei Marauder.",
+                    "ru-RU": "Доберитесь до земель мародеров.",
+                    "ja-JP": "マローダーの故郷へ向かう"
+                },
+                "howto": {
+                    "de-DE": "Reise zur Heimat der Marauder.",
+                    "en-US": "Travel to the Marauder homelands.",
+                    "es-ES": "Viaja a la tierra de los marauders.",
+                    "fr-FR": "Rejoignez la patrie des Marauders.",
+                    "it-IT": "Raggiungi le terre dei Marauder.",
+                    "ru-RU": "Доберитесь до земель мародеров.",
+                    "ja-JP": "マローダーの故郷へ向かう"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "10.png"
+        },
+        "93": {
+            "text": {
+                "name": {
+                    "de-DE": "Alte Freunde, ältere Feinde",
+                    "en-US": "Old Friends, Older Enemies",
+                    "es-ES": "Viejos amigos, enemigos aun más",
+                    "fr-FR": "Vieux amis, vieux ennemis",
+                    "it-IT": "Vecchi amici, vecchissimi nemici",
+                    "ru-RU": "Старые друзья, старые враги",
+                    "ja-JP": "古い友、古い敵"
+                },
+                "description": {
+                    "de-DE": "Eskortiere Winters sicher durch die Tiefen.",
+                    "en-US": "Safely escort Winters through the depths.",
+                    "es-ES": "Escolta a Winters por las profundidades.",
+                    "fr-FR": "Escortez Winters à travers les profondeurs.",
+                    "it-IT": "Scorta Winters nelle profondità.",
+                    "ru-RU": "Проводите Винтерса через пещеры.",
+                    "ja-JP": "ウィンターズを安全にエスコートする"
+                },
+                "howto": {
+                    "de-DE": "Eskortiere Winters sicher durch die Tiefen.",
+                    "en-US": "Safely escort Winters through the depths.",
+                    "es-ES": "Escolta a Winters por las profundidades.",
+                    "fr-FR": "Escortez Winters à travers les profondeurs.",
+                    "it-IT": "Scorta Winters nelle profondità.",
+                    "ru-RU": "Проводите Винтерса через пещеры.",
+                    "ja-JP": "ウィンターズを安全にエスコートする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "11.png"
+        },
+        "94": {
+            "text": {
+                "name": {
+                    "de-DE": "Plan B",
+                    "en-US": "Plan B",
+                    "es-ES": "Plan B",
+                    "fr-FR": "Plan B",
+                    "it-IT": "Piano B",
+                    "ru-RU": "План Б",
+                    "ja-JP": "プランB"
+                },
+                "description": {
+                    "de-DE": "Finde heraus, wie man die Höhle erreichen kann.",
+                    "en-US": "Find out how to reach the lair.",
+                    "es-ES": "Averigua cómo llegar a la guarida.",
+                    "fr-FR": "Trouvez un moyen d'atteindre le repaire.",
+                    "it-IT": "Scopri come raggiungere la tana.",
+                    "ru-RU": "Узнайте, как добраться до логова.",
+                    "ja-JP": "巣への行き方を見つける"
+                },
+                "howto": {
+                    "de-DE": "Finde heraus, wie man die Höhle erreichen kann.",
+                    "en-US": "Find out how to reach the lair.",
+                    "es-ES": "Averigua cómo llegar a la guarida.",
+                    "fr-FR": "Trouvez un moyen d'atteindre le repaire.",
+                    "it-IT": "Scopri come raggiungere la tana.",
+                    "ru-RU": "Узнайте, как добраться до логова.",
+                    "ja-JP": "巣への行き方を見つける"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "12.png"
+        },
+        "95": {
+            "text": {
+                "name": {
+                    "de-DE": "Klopf, klopf",
+                    "en-US": "Knock, Knock",
+                    "es-ES": "Toc, toc",
+                    "fr-FR": "Toc, toc",
+                    "it-IT": "Toc toc",
+                    "ru-RU": "Тук-тук",
+                    "ja-JP": "ノック"
+                },
+                "description": {
+                    "de-DE": "Öffne den geheimen Eingang.",
+                    "en-US": "Open up the secret entrance.",
+                    "es-ES": "Abre la entrada secreta.",
+                    "fr-FR": "Ouvrez l'entrée secrète.",
+                    "it-IT": "Apri l'ingresso segreto.",
+                    "ru-RU": "Откройте тайный проход.",
+                    "ja-JP": "秘密の入り口を開ける"
+                },
+                "howto": {
+                    "de-DE": "Öffne den geheimen Eingang.",
+                    "en-US": "Open up the secret entrance.",
+                    "es-ES": "Abre la entrada secreta.",
+                    "fr-FR": "Ouvrez l'entrée secrète.",
+                    "it-IT": "Apri l'ingresso segreto.",
+                    "ru-RU": "Откройте тайный проход.",
+                    "ja-JP": "秘密の入り口を開ける"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "13.png"
+        },
+        "96": {
+            "text": {
+                "name": {
+                    "de-DE": "Verluste",
+                    "en-US": "Losses",
+                    "es-ES": "Pérdidas",
+                    "fr-FR": "Pertes",
+                    "it-IT": "Perdite",
+                    "ru-RU": "Потери",
+                    "ja-JP": "ロスト"
+                },
+                "description": {
+                    "de-DE": "Schaffe es durch die Höhle.",
+                    "en-US": "Make it through to the lair.",
+                    "es-ES": "Consigue pasar a través de la guarida.",
+                    "fr-FR": "Traversez le repaire.",
+                    "it-IT": "Supera la tana.",
+                    "ru-RU": "Прорвитесь через логово.",
+                    "ja-JP": "巣の中に到達する"
+                },
+                "howto": {
+                    "de-DE": "Schaffe es durch die Höhle.",
+                    "en-US": "Make it through to the lair.",
+                    "es-ES": "Consigue pasar a través de la guarida.",
+                    "fr-FR": "Traversez le repaire.",
+                    "it-IT": "Supera la tana.",
+                    "ru-RU": "Прорвитесь через логово.",
+                    "ja-JP": "巣の中に到達する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "14.png"
+        },
+        "97": {
+            "text": {
+                "name": {
+                    "de-DE": "Eine große, hässliche Mutter ...",
+                    "en-US": "One Big, Ugly Motha…",
+                    "es-ES": "Menudo problemón...",
+                    "fr-FR": "Une mère furieuse...",
+                    "it-IT": "Grossa, brutta e cattiva...",
+                    "ru-RU": "Большая, жуткая мамочка...",
+                    "ja-JP": "大きくて醜いママ…"
+                },
+                "description": {
+                    "de-DE": "Besiege die Quelle allen Übels.",
+                    "en-US": "Defeat the source of it all.",
+                    "es-ES": "Elimina el origen de todo esto.",
+                    "fr-FR": "Éliminez la source de tout.",
+                    "it-IT": "Sconfiggi l'origine di ogni male.",
+                    "ru-RU": "Уничтожьте источник бедствий.",
+                    "ja-JP": "根源を断つ"
+                },
+                "howto": {
+                    "de-DE": "Besiege die Quelle allen Übels.",
+                    "en-US": "Defeat the source of it all.",
+                    "es-ES": "Elimina el origen de todo esto.",
+                    "fr-FR": "Éliminez la source de tout.",
+                    "it-IT": "Sconfiggi l'origine di ogni male.",
+                    "ru-RU": "Уничтожьте источник бедствий.",
+                    "ja-JP": "根源を断つ"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "15.png"
+        },
+        "99": {
+            "text": {
+                "name": {
+                    "de-DE": "Das hätte besser laufen können",
+                    "en-US": "That Coulda Gone Better",
+                    "es-ES": "Podría haber salido mejor",
+                    "fr-FR": "Ça aurait pu être pire",
+                    "it-IT": "Poteva andare meglio",
+                    "ru-RU": "Могло бы быть и лучше",
+                    "ja-JP": "まだまだいけるはず…"
+                },
+                "description": {
+                    "de-DE": "Spiele den Einzelspielermodus im Schwierigkeitsgrad \"Schwierig\" durch.",
+                    "en-US": "Finish the Single Player game on Hard Difficulty.",
+                    "es-ES": "Termina la partida para un jugador en nivel Difícil.",
+                    "fr-FR": "Terminez le mode solo en Difficile.",
+                    "it-IT": "Completa la modalità Giocatore singolo a livello Difficile.",
+                    "ru-RU": "Завершите одиночную игру на сложном уровне сложности.",
+                    "ja-JP": "難易度ハードでシングルプレイヤーをクリアする"
+                },
+                "howto": {
+                    "de-DE": "Spiele den Einzelspielermodus im Schwierigkeitsgrad \"Schwierig\" durch.",
+                    "en-US": "Finish the Single Player game on Hard Difficulty.",
+                    "es-ES": "Termina la partida para un jugador en nivel Difícil.",
+                    "fr-FR": "Terminez le mode solo en Difficile.",
+                    "it-IT": "Completa la modalità Giocatore singolo a livello Difficile.",
+                    "ru-RU": "Завершите одиночную игру на сложном уровне сложности.",
+                    "ja-JP": "難易度ハードでシングルプレイヤーをクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "16.png"
+        },
+        "135": {
+            "text": {
+                "name": {
+                    "de-DE": "Ich brauche ein Nickerchen",
+                    "en-US": "I Need A Nap",
+                    "es-ES": "Necesito una siesta",
+                    "fr-FR": "Besoin de vacances",
+                    "it-IT": "Devo riposare un po'",
+                    "ru-RU": "Неспящие перед экраном",
+                    "ja-JP": "もう限界…"
+                },
+                "description": {
+                    "de-DE": "Spiele den Einzelspielermodus im Schwierigkeitsgrad \"Wahnsinn\" durch.",
+                    "en-US": "Finish the Single Player game on Insane Difficulty.",
+                    "es-ES": "Termina la partida para un jugador en dificultad Extrema.",
+                    "fr-FR": "Terminez le mode solo en Dément.",
+                    "it-IT": "Completa la modalità Giocatore singolo a livello Folle.",
+                    "ru-RU": "Завершите одиночную игру на сумасшедшем уровне сложности.",
+                    "ja-JP": "難易度スーパーハードでシングルプレイヤーをクリアする"
+                },
+                "howto": {
+                    "de-DE": "Spiele den Einzelspielermodus im Schwierigkeitsgrad \"Wahnsinn\" durch.",
+                    "en-US": "Finish the Single Player game on Insane Difficulty.",
+                    "es-ES": "Termina la partida para un jugador en dificultad Extrema.",
+                    "fr-FR": "Terminez le mode solo en Dément.",
+                    "it-IT": "Completa la modalità Giocatore singolo a livello Folle.",
+                    "ru-RU": "Завершите одиночную игру на сумасшедшем уровне сложности.",
+                    "ja-JP": "難易度スーパーハードでシングルプレイヤーをクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "75",
+            "imageId": "17.png"
+        },
+        "98": {
+            "text": {
+                "name": {
+                    "de-DE": "Durchatmen",
+                    "en-US": "Breathe Easy",
+                    "es-ES": "Date un respiro",
+                    "fr-FR": "Bouffée d'air",
+                    "it-IT": "Respira piano",
+                    "ru-RU": "Вздох облегчения",
+                    "ja-JP": "ほっと一息"
+                },
+                "description": {
+                    "de-DE": "Beende die Bedrohung ein für alle Mal.",
+                    "en-US": "Put an end to the threat, once and for all.",
+                    "es-ES": "Acaba con la amenaza de una vez por todas.",
+                    "fr-FR": "Mettez un terme définitif à la menace.",
+                    "it-IT": "Poni fine alla minaccia una volta per tutte.",
+                    "ru-RU": "Положите конец угрозе раз и навсегда.",
+                    "ja-JP": "脅威に終止符を打つ"
+                },
+                "howto": {
+                    "de-DE": "Das ist eine geheime Errungenschaft ",
+                    "en-US": "This is a Secret Achievement.",
+                    "es-ES": "Este es un logro secreto.",
+                    "fr-FR": "Ceci est un succès secret. ",
+                    "it-IT": "Questo è un obiettivo segreto.",
+                    "ru-RU": "Скрытое достижение",
+                    "ja-JP": "秘密の実績です"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "18.png"
+        },
+        "103": {
+            "text": {
+                "name": {
+                    "de-DE": "Kreuzritter",
+                    "en-US": "Crusader",
+                    "es-ES": "Cruzado",
+                    "fr-FR": "Croisé",
+                    "it-IT": "Crociato",
+                    "ru-RU": "Крестоносец",
+                    "ja-JP": "クルセイダー"
+                },
+                "description": {
+                    "de-DE": "Töte 175 Feinde, während du dich im L.E.O. Exoskelett befindest.",
+                    "en-US": "Kill 175 enemies while in the L.E.O. exoskeleton.",
+                    "es-ES": "Mata a 175 enemigos con el exoesqueleto L. E. O. puesto.",
+                    "fr-FR": "Tuez 175 ennemis à bord de l'exosquelette L.E.O.",
+                    "it-IT": "Uccidi 175 nemici con l'esoscheletro L.E.O.",
+                    "ru-RU": "Убейте 175 врагов, будучи в экзоскелете L.E.O.",
+                    "ja-JP": "L.E.O.エクソスケルトンで敵を175体倒す"
+                },
+                "howto": {
+                    "de-DE": "Töte 175 Feinde, während du dich im L.E.O. Exoskelett befindest.",
+                    "en-US": "Kill 175 enemies while in the L.E.O. exoskeleton.",
+                    "es-ES": "Mata a 175 enemigos con el exoesqueleto L. E. O. puesto.",
+                    "fr-FR": "Tuez 175 ennemis à bord de l'exosquelette L.E.O.",
+                    "it-IT": "Uccidi 175 nemici con l'esoscheletro L.E.O.",
+                    "ru-RU": "Убейте 175 врагов, будучи в экзоскелете L.E.O.",
+                    "ja-JP": "L.E.O.エクソスケルトンで敵を175体倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "19.png"
+        },
+        "100": {
+            "text": {
+                "name": {
+                    "de-DE": "Ooooh, ja!",
+                    "en-US": "Ooooh Yeah!",
+                    "es-ES": "¡Ooooh, sí!",
+                    "fr-FR": "Oh ouais !",
+                    "it-IT": "Oooh yeah!",
+                    "ru-RU": "И-и-н-н-на!",
+                    "ja-JP": "イェーイ！"
+                },
+                "description": {
+                    "de-DE": "Töte 5 Feinde mit einem einzelnen L.E.O. Schulterangriff.",
+                    "en-US": "Kill 5 enemies with one L.E.O. shoulder bash.",
+                    "es-ES": "Mata a 5 enemigos con una arremetida L. E. O.",
+                    "fr-FR": "Tuez 5 ennemis avec un seul coup d'épaule du L.E.O.",
+                    "it-IT": "Uccidi 5 nemici con una spallata del L.E.O.",
+                    "ru-RU": "Будучи в L.E.O., убейте 5 врагов одним ударом плечом.",
+                    "ja-JP": "1回のL.E.O.ショルダーアタックで敵を5体倒す"
+                },
+                "howto": {
+                    "de-DE": "Töte 5 Feinde mit einem einzelnen L.E.O. Schulterangriff.",
+                    "en-US": "Kill 5 enemies with one L.E.O. shoulder bash.",
+                    "es-ES": "Mata a 5 enemigos con una arremetida L. E. O.",
+                    "fr-FR": "Tuez 5 ennemis avec un seul coup d'épaule du L.E.O.",
+                    "it-IT": "Uccidi 5 nemici con una spallata del L.E.O.",
+                    "ru-RU": "Будучи в L.E.O., убейте 5 врагов одним ударом плечом.",
+                    "ja-JP": "1回のL.E.O.ショルダーアタックで敵を5体倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "20.png"
+        },
+        "105": {
+            "text": {
+                "name": {
+                    "de-DE": "Marsianischer Todesfahrer",
+                    "en-US": "Martian Drive-By",
+                    "es-ES": "Tiroteo marciano",
+                    "fr-FR": "Fusillade martienne",
+                    "it-IT": "A spasso su Marte",
+                    "ru-RU": "Марсианское сафари",
+                    "ja-JP": "火星のドライブ"
+                },
+                "description": {
+                    "de-DE": "Töte 100 Feinde, während du dich im Marauder Scout-Walker befindest.",
+                    "en-US": "Kill 100 enemies while in the Marauder Scout Walker.",
+                    "es-ES": "Mata a 100 enemigos desde un andador explorador marauder.",
+                    "fr-FR": "Tuez 100 ennemis à bord du Pode éclaireur Marauder.",
+                    "it-IT": "Uccidi 100 nemici a bordo del walker ricognitore Marauder.",
+                    "ru-RU": "Убейте 100 врагов из скаута-шагателя мародеров.",
+                    "ja-JP": "マローダースカウトウォーカーで敵を100体倒す"
+                },
+                "howto": {
+                    "de-DE": "Töte 100 Feinde, während du dich im Marauder Scout-Walker befindest.",
+                    "en-US": "Kill 100 enemies while in the Marauder Scout Walker.",
+                    "es-ES": "Mata a 100 enemigos desde un andador explorador marauder.",
+                    "fr-FR": "Tuez 100 ennemis à bord du Pode éclaireur Marauder.",
+                    "it-IT": "Uccidi 100 nemici a bordo del walker ricognitore Marauder.",
+                    "ru-RU": "Убейте 100 врагов из скаута-шагателя мародеров.",
+                    "ja-JP": "マローダースカウトウォーカーで敵を100体倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "21.png"
+        },
+        "102": {
+            "text": {
+                "name": {
+                    "de-DE": "Zuschlagen und abhauen",
+                    "en-US": "Hit 'N Run",
+                    "es-ES": "Impacta y corre",
+                    "fr-FR": "Délit de fuite",
+                    "it-IT": "Omissione di soccorso",
+                    "ru-RU": "Бей и беги",
+                    "ja-JP": "ヒットエンドラン"
+                },
+                "description": {
+                    "de-DE": "Töte einen Feind, indem du ihn mit dem Inferno GX rammst.",
+                    "en-US": "Kill an enemy by ramming them with the Inferno GX.",
+                    "es-ES": "Mata a un enemigo embistiéndolo con el Inferno GX.",
+                    "fr-FR": "Tuez un ennemi en le chargeant avec l'Inferno GX.",
+                    "it-IT": "Uccidi un nemico investendolo con l'Inferno GX.",
+                    "ru-RU": "Убейте врага, утрамбовав его Inferno GX.",
+                    "ja-JP": "インフェルノGXの激突で敵を倒す"
+                },
+                "howto": {
+                    "de-DE": "Töte einen Feind, indem du ihn mit dem Inferno GX rammst.",
+                    "en-US": "Kill an enemy by ramming them with the Inferno GX.",
+                    "es-ES": "Mata a un enemigo embistiéndolo con el Inferno GX.",
+                    "fr-FR": "Tuez un ennemi en le chargeant avec l'Inferno GX.",
+                    "it-IT": "Uccidi un nemico investendolo con l'Inferno GX.",
+                    "ru-RU": "Убейте врага, утрамбовав его Inferno GX.",
+                    "ja-JP": "インフェルノGXの激突で敵を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "22.png"
+        },
+        "106": {
+            "text": {
+                "name": {
+                    "de-DE": "Exterminator",
+                    "en-US": "Exterminator",
+                    "es-ES": "Exterminador",
+                    "fr-FR": "Exterminateur",
+                    "it-IT": "Sterminatore",
+                    "ru-RU": "Истребитель",
+                    "ja-JP": "害虫駆除業者"
+                },
+                "description": {
+                    "de-DE": "Zerstöre 100 Kapseln, während du die Gottesanbeterin steuerst.",
+                    "en-US": "Destroy 100 Pods while piloting the Mantis.",
+                    "es-ES": "Destruye 100 cápsulas pilotando la Mantis.",
+                    "fr-FR": "Détruisez 100 modules aux commandes de la Mante.",
+                    "it-IT": "Distruggi 100 capsule mentre piloti la Mantide.",
+                    "ru-RU": "Уничтожьте 100 коконов, пилотируя Богомола.",
+                    "ja-JP": "マンティスに乗ってポッドを100個破壊する"
+                },
+                "howto": {
+                    "de-DE": "Zerstöre 100 Kapseln, während du die Gottesanbeterin steuerst.",
+                    "en-US": "Destroy 100 Pods while piloting the Mantis.",
+                    "es-ES": "Destruye 100 cápsulas pilotando la Mantis.",
+                    "fr-FR": "Détruisez 100 modules aux commandes de la Mante.",
+                    "it-IT": "Distruggi 100 capsule mentre piloti la Mantide.",
+                    "ru-RU": "Уничтожьте 100 коконов, пилотируя Богомола.",
+                    "ja-JP": "マンティスに乗ってポッドを100個破壊する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "23.png"
+        },
+        "140": {
+            "text": {
+                "name": {
+                    "de-DE": "Chronist",
+                    "en-US": "Chronicler",
+                    "es-ES": "Cronista",
+                    "fr-FR": "Chroniqueur",
+                    "it-IT": "Cronista",
+                    "ru-RU": "Хроникер",
+                    "ja-JP": "編集者"
+                },
+                "description": {
+                    "de-DE": "Höre dir 40 Audio-Logs an.",
+                    "en-US": "Listen to 40 Audio Logs.",
+                    "es-ES": "Escucha los 40 registros de audio.",
+                    "fr-FR": "Écoutez 40 journaux audio.",
+                    "it-IT": "Ascolta 40 audiolog.",
+                    "ru-RU": "Прослушайте 40 аудиозаписей.",
+                    "ja-JP": "オーディオログを40個聴く"
+                },
+                "howto": {
+                    "de-DE": "Höre dir 40 Audio-Logs an.",
+                    "en-US": "Listen to 40 Audio Logs.",
+                    "es-ES": "Escucha los 40 registros de audio.",
+                    "fr-FR": "Écoutez 40 journaux audio.",
+                    "it-IT": "Ascolta 40 audiolog.",
+                    "ru-RU": "Прослушайте 40 аудиозаписей.",
+                    "ja-JP": "オーディオログを40個聴く"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "24.png"
+        },
+        "104": {
+            "text": {
+                "name": {
+                    "de-DE": "Plünderer",
+                    "en-US": "Salvager",
+                    "es-ES": "Chatarrero",
+                    "fr-FR": "Recyclage",
+                    "it-IT": "Spazzino",
+                    "ru-RU": "Охотник за трофеями",
+                    "ja-JP": "サルベージャー"
+                },
+                "description": {
+                    "de-DE": "Finde 200 Barschrotthaufen.",
+                    "en-US": "Find 200 piles of salvage.",
+                    "es-ES": "Encuentra 200 montones de chatarra.",
+                    "fr-FR": "Récupérez 200 unités de métal.",
+                    "it-IT": "Trova 200 unità di risorse.",
+                    "ru-RU": "Найдите 200 единиц трофеев.",
+                    "ja-JP": "堆積サルベージを200個見つける"
+                },
+                "howto": {
+                    "de-DE": "Finde 200 Barschrotthaufen.",
+                    "en-US": "Find 200 piles of salvage.",
+                    "es-ES": "Encuentra 200 montones de chatarra.",
+                    "fr-FR": "Récupérez 200 unités de métal.",
+                    "it-IT": "Trova 200 unità di risorse.",
+                    "ru-RU": "Найдите 200 единиц трофеев.",
+                    "ja-JP": "堆積サルベージを200個見つける"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "25.png"
+        },
+        "107": {
+            "text": {
+                "name": {
+                    "de-DE": "Nanergie!",
+                    "en-US": "Nanergy!",
+                    "es-ES": "¡Nanoenergía!",
+                    "fr-FR": "Nanoénergie !",
+                    "it-IT": "Nano-energia!",
+                    "ru-RU": "Нанергия!",
+                    "ja-JP": "ナノルギー！"
+                },
+                "description": {
+                    "de-DE": "Sammle insgesamt 25.000 Barschrott ein.",
+                    "en-US": "Gather 25,000 total salvage.",
+                    "es-ES": "Reúne un total de 25.000 de chatarra.",
+                    "fr-FR": "Récupérez un total de 25 000 unités de métal.",
+                    "it-IT": "Raccogli un totale di 25.000 risorse.",
+                    "ru-RU": "Соберите всего 25 000 ед. трофеев.",
+                    "ja-JP": "合計25,000のサルベージを収集する"
+                },
+                "howto": {
+                    "de-DE": "Sammle insgesamt 25.000 Barschrott ein.",
+                    "en-US": "Gather 25,000 total salvage.",
+                    "es-ES": "Reúne un total de 25.000 de chatarra.",
+                    "fr-FR": "Récupérez un total de 25 000 unités de métal.",
+                    "it-IT": "Raccogli un totale di 25.000 risorse.",
+                    "ru-RU": "Соберите всего 25 000 ед. трофеев.",
+                    "ja-JP": "合計25,000のサルベージを収集する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "26.png"
+        },
+        "108": {
+            "text": {
+                "name": {
+                    "de-DE": "Gute Investition",
+                    "en-US": "Money Well Spent",
+                    "es-ES": "Dinero bien empleado",
+                    "fr-FR": "Bon investissement",
+                    "it-IT": "Denaro ben speso",
+                    "ru-RU": "Выгодная покупка",
+                    "ja-JP": "金は天下の回りもの"
+                },
+                "description": {
+                    "de-DE": "Kaufe einen beliebigen Erweiterungsring komplett auf.",
+                    "en-US": "Buy out any one Upgrade ring.",
+                    "es-ES": "Adquiere cualquier anillo de mejora.",
+                    "fr-FR": "Achetez un des anneaux d'amélioration.",
+                    "it-IT": "Acquista qualsiasi anello di potenziamento.",
+                    "ru-RU": "Купите любое кольцо улучшения.",
+                    "ja-JP": "一つのアップグレードリングをすべて購入する"
+                },
+                "howto": {
+                    "de-DE": "Kaufe einen beliebigen Erweiterungsring komplett auf.",
+                    "en-US": "Buy out any one Upgrade ring.",
+                    "es-ES": "Adquiere cualquier anillo de mejora.",
+                    "fr-FR": "Achetez un des anneaux d'amélioration.",
+                    "it-IT": "Acquista qualsiasi anello di potenziamento.",
+                    "ru-RU": "Купите любое кольцо улучшения.",
+                    "ja-JP": "一つのアップグレードリングをすべて購入する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "27.png"
+        },
+        "109": {
+            "text": {
+                "name": {
+                    "de-DE": "Marsianischer Dosenöffner",
+                    "en-US": "Martian Can Opener",
+                    "es-ES": "Abrelatas marciano",
+                    "fr-FR": "Ouvre-boîte martien",
+                    "it-IT": "Tuttofare",
+                    "ru-RU": "Марсианский крутой",
+                    "ja-JP": "火星版十徳ナイフ"
+                },
+                "description": {
+                    "de-DE": "Kaufe jede Erweiterung.",
+                    "en-US": "Buy every Upgrade.",
+                    "es-ES": "Compra todas las mejoras.",
+                    "fr-FR": "Achetez toutes les améliorations.",
+                    "it-IT": "Acquista tutti i potenziamenti.",
+                    "ru-RU": "Купите все улучшения.",
+                    "ja-JP": "アップグレードをすべて購入する"
+                },
+                "howto": {
+                    "de-DE": "Kaufe jede Erweiterung.",
+                    "en-US": "Buy every Upgrade.",
+                    "es-ES": "Compra todas las mejoras.",
+                    "fr-FR": "Achetez toutes les améliorations.",
+                    "it-IT": "Acquista tutti i potenziamenti.",
+                    "ru-RU": "Купите все улучшения.",
+                    "ja-JP": "アップグレードをすべて購入する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "40",
+            "imageId": "28.png"
+        },
+        "136": {
+            "text": {
+                "name": {
+                    "de-DE": "Cheater!",
+                    "en-US": "Cheater!",
+                    "es-ES": "¡Tramposo!",
+                    "fr-FR": "Tricheur !",
+                    "it-IT": "Imbroglione!",
+                    "ru-RU": "Мошенник!",
+                    "ja-JP": "チーター！"
+                },
+                "description": {
+                    "de-DE": "Kaufe einen Cheat.",
+                    "en-US": "Buy a Cheat.",
+                    "es-ES": "Compra un truco.",
+                    "fr-FR": "Achetez un code de triche.",
+                    "it-IT": "Acquista un trucco.",
+                    "ru-RU": "Купите чит-код.",
+                    "ja-JP": "チートを購入する"
+                },
+                "howto": {
+                    "de-DE": "Kaufe einen Cheat.",
+                    "en-US": "Buy a Cheat.",
+                    "es-ES": "Compra un truco.",
+                    "fr-FR": "Achetez un code de triche.",
+                    "it-IT": "Acquista un trucco.",
+                    "ru-RU": "Купите чит-код.",
+                    "ja-JP": "チートを購入する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "29.png"
+        },
+        "113": {
+            "text": {
+                "name": {
+                    "de-DE": "Alles aus dem Handgelenk",
+                    "en-US": "It's All In The Wrist",
+                    "es-ES": "Está todo en la muñeca",
+                    "fr-FR": "Lancer gagnant",
+                    "it-IT": "Gioco di polso",
+                    "ru-RU": "Легкое движение руки",
+                    "ja-JP": "左腕に宿りし力"
+                },
+                "description": {
+                    "de-DE": "Schicke einen Feind mit dem Druckstoß mindestens 30 Meter weit.",
+                    "en-US": "Send an enemy at least 30 meters with Impact.",
+                    "es-ES": "Envía a un enemigo al menos a 30 metros con Impacto.",
+                    "fr-FR": "Projetez un ennemi à 30 mètres minimum avec Impact.",
+                    "it-IT": "Spedisci un nemico ad almeno 30 metri usando Impatto.",
+                    "ru-RU": "С помощью импульса отбросьте врагов минимум на 30 метров.",
+                    "ja-JP": "インパクトで敵を30m飛ばす"
+                },
+                "howto": {
+                    "de-DE": "Schicke einen Feind mit dem Druckstoß mindestens 30 Meter weit.",
+                    "en-US": "Send an enemy at least 30 meters with Impact.",
+                    "es-ES": "Envía a un enemigo al menos a 30 metros con Impacto.",
+                    "fr-FR": "Projetez un ennemi à 30 mètres minimum avec Impact.",
+                    "it-IT": "Spedisci un nemico ad almeno 30 metri usando Impatto.",
+                    "ru-RU": "С помощью импульса отбросьте врагов минимум на 30 метров.",
+                    "ja-JP": "インパクトで敵を30m飛ばす"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "30.png"
+        },
+        "114": {
+            "text": {
+                "name": {
+                    "de-DE": "Schwinger",
+                    "en-US": "Haymaker",
+                    "es-ES": "Sacatajadas",
+                    "fr-FR": "Faucheuse",
+                    "it-IT": "Colpo da KO",
+                    "ru-RU": "Костолом",
+                    "ja-JP": "ハードパンチャー"
+                },
+                "description": {
+                    "de-DE": "Töte 5 Feinde mit einem einzelnen Druckstoß.",
+                    "en-US": "Kill 5 enemies in one shot with Impact.",
+                    "es-ES": "Mata a 5 enemigos de un disparo con Impacto.",
+                    "fr-FR": "Tuez 5 ennemis d'un coup avec Impact.",
+                    "it-IT": "Uccidi 5 nemici in un colpo solo usando Impatto.",
+                    "ru-RU": "С помощью импульса убейте 5 врагов одним выстрелом.",
+                    "ja-JP": "1回のインパクトで敵を5体倒す"
+                },
+                "howto": {
+                    "de-DE": "Töte 5 Feinde mit einem einzelnen Druckstoß.",
+                    "en-US": "Kill 5 enemies in one shot with Impact.",
+                    "es-ES": "Mata a 5 enemigos de un disparo con Impacto.",
+                    "fr-FR": "Tuez 5 ennemis d'un coup avec Impact.",
+                    "it-IT": "Uccidi 5 nemici in un colpo solo usando Impatto.",
+                    "ru-RU": "С помощью импульса убейте 5 врагов одним выстрелом.",
+                    "ja-JP": "1回のインパクトで敵を5体倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "31.png"
+        },
+        "111": {
+            "text": {
+                "name": {
+                    "de-DE": "Null-G-Krieg",
+                    "en-US": "Zero G War",
+                    "es-ES": "Guerra Zero G",
+                    "fr-FR": "Guerre sans gravité",
+                    "it-IT": "Guerra a gravità zero",
+                    "ru-RU": "Наперегонки с гравитацией",
+                    "ja-JP": "無重力戦争"
+                },
+                "description": {
+                    "de-DE": "Töte 50 Feinde, die von der Schockwelle getroffen wurden, bevor sie wieder auf den Boden kommen.",
+                    "en-US": "Kill 50 Shockwaved enemies before they hit the ground.",
+                    "es-ES": "Mata a 50 enemigos afectados por Onda expansiva antes de que caigan al suelo.",
+                    "fr-FR": "Tuez 50 ennemis touchés par Onde de choc avant qu'ils ne touchent le sol.",
+                    "it-IT": "Uccidi 50 nemici colpiti dall'Onda d'urto prima che tocchino terra.",
+                    "ru-RU": "Убейте 50 врагов, оглушенных шоковой волной, прежде чем они рухнут на землю.",
+                    "ja-JP": "ショックウェーブを使用し、敵が地面に着く前に50体倒す"
+                },
+                "howto": {
+                    "de-DE": "Töte 50 Feinde, die von der Schockwelle getroffen wurden, bevor sie wieder auf den Boden kommen.",
+                    "en-US": "Kill 50 Shockwaved enemies before they hit the ground.",
+                    "es-ES": "Mata a 50 enemigos afectados por Onda expansiva antes de que caigan al suelo.",
+                    "fr-FR": "Tuez 50 ennemis touchés par Onde de choc avant qu'ils ne touchent le sol.",
+                    "it-IT": "Uccidi 50 nemici colpiti dall'Onda d'urto prima che tocchino terra.",
+                    "ru-RU": "Убейте 50 врагов, оглушенных шоковой волной, прежде чем они рухнут на землю.",
+                    "ja-JP": "ショックウェーブを使用し、敵が地面に着く前に50体倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "32.png"
+        },
+        "110": {
+            "text": {
+                "name": {
+                    "de-DE": "Stillhalten",
+                    "en-US": "Hold Still",
+                    "es-ES": "Quieto",
+                    "fr-FR": "On ne bouge plus",
+                    "it-IT": "Non ti muovere",
+                    "ru-RU": "Точный расчет",
+                    "ja-JP": "動かざること山のごとし"
+                },
+                "description": {
+                    "de-DE": "Töte 6 Feinde mit einer einzigen Schockwelle.",
+                    "en-US": "Kill 6 enemies in one use of Shockwave.",
+                    "es-ES": "Mata a 6 enemigos con un solo uso de Onda expansiva.",
+                    "fr-FR": "Tuez 6 ennemis avec une seule Onde de choc.",
+                    "it-IT": "Uccidi 6 nemici in un colpo solo usando Onda d'urto.",
+                    "ru-RU": "Убейте 6 врагов одной шоковой волной.",
+                    "ja-JP": "1回のショックウェーブ中に6体の敵を倒す"
+                },
+                "howto": {
+                    "de-DE": "Töte 6 Feinde mit einer einzigen Schockwelle.",
+                    "en-US": "Kill 6 enemies in one use of Shockwave.",
+                    "es-ES": "Mata a 6 enemigos con un solo uso de Onda expansiva.",
+                    "fr-FR": "Tuez 6 ennemis avec une seule Onde de choc.",
+                    "it-IT": "Uccidi 6 nemici in un colpo solo usando Onda d'urto.",
+                    "ru-RU": "Убейте 6 врагов одной шоковой волной.",
+                    "ja-JP": "1回のショックウェーブ中に6体の敵を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "33.png"
+        },
+        "115": {
+            "text": {
+                "name": {
+                    "de-DE": "Geladen und entsichert",
+                    "en-US": "Lock And Load",
+                    "es-ES": "Recarga",
+                    "fr-FR": "Grosse colère",
+                    "it-IT": "Pronto all'azione",
+                    "ru-RU": "Заряжай и стреляй",
+                    "ja-JP": "ロックンロード"
+                },
+                "description": {
+                    "de-DE": "Halte \"Berserker\" für mindestens 21 Sekunden in einer Verwendung aktiv.",
+                    "en-US": "Keep Berserk active for at least 21 seconds in one use.",
+                    "es-ES": "Mantén Frenético activo durante al menos 21 segundos con un solo uso.",
+                    "fr-FR": "Maintenez Furie active pendant au moins 21 secondes de suite.",
+                    "it-IT": "Mantieni Furia attiva per almeno 21 secondi in un unico utilizzo.",
+                    "ru-RU": "Поддерживайте берсерк активным минимум 21 секунду.",
+                    "ja-JP": "1回の使用でバーサークを21秒以上アクティブ状態に保つ"
+                },
+                "howto": {
+                    "de-DE": "Halte \"Berserker\" für mindestens 21 Sekunden in einer Verwendung aktiv.",
+                    "en-US": "Keep Berserk active for at least 21 seconds in one use.",
+                    "es-ES": "Mantén Frenético activo durante al menos 21 segundos con un solo uso.",
+                    "fr-FR": "Maintenez Furie active pendant au moins 21 secondes de suite.",
+                    "it-IT": "Mantieni Furia attiva per almeno 21 secondi in un unico utilizzo.",
+                    "ru-RU": "Поддерживайте берсерк активным минимум 21 секунду.",
+                    "ja-JP": "1回の使用でバーサークを21秒以上アクティブ状態に保つ"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "34.png"
+        },
+        "137": {
+            "text": {
+                "name": {
+                    "de-DE": "Und zurück!",
+                    "en-US": "Back At Ya!",
+                    "es-ES": "¡Que vuelve!",
+                    "fr-FR": "Retour à l'envoyeur !",
+                    "it-IT": "Specchio riflesso!",
+                    "ru-RU": "Ответный удар",
+                    "ja-JP": "しっぺ返し"
+                },
+                "description": {
+                    "de-DE": "Lasse einen Feind sich selbst töten, während er auf deine Schutzhülle schießt.",
+                    "en-US": "Make an enemy kill themselves while shooting at your Shell.",
+                    "es-ES": "Haz que el enemigo se mate disparando a tu Coraza.",
+                    "fr-FR": "Faites en sorte qu'un ennemi se tue tout seul en tirant sur votre Bouclier.",
+                    "it-IT": "Fa' sì che un nemico si uccida da solo sparando al tuo Guscio.",
+                    "ru-RU": "Заставьте врага убить себя, стреляя в вашу сферу.",
+                    "ja-JP": "シェルを使って、敵を自滅させる"
+                },
+                "howto": {
+                    "de-DE": "Lasse einen Feind sich selbst töten, während er auf deine Schutzhülle schießt.",
+                    "en-US": "Make an enemy kill themselves while shooting at your Shell.",
+                    "es-ES": "Haz que el enemigo se mate disparando a tu Coraza.",
+                    "fr-FR": "Faites en sorte qu'un ennemi se tue tout seul en tirant sur votre Bouclier.",
+                    "it-IT": "Fa' sì che un nemico si uccida da solo sparando al tuo Guscio.",
+                    "ru-RU": "Заставьте врага убить себя, стреляя в вашу сферу.",
+                    "ja-JP": "シェルを使って、敵を自滅させる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "35.png"
+        },
+        "121": {
+            "text": {
+                "name": {
+                    "de-DE": "Abgehoben",
+                    "en-US": "Liftoff",
+                    "es-ES": "Despegue",
+                    "fr-FR": "Décollage",
+                    "it-IT": "Decollo",
+                    "ru-RU": "Вертикальный взлет",
+                    "ja-JP": "ドラコン賞"
+                },
+                "description": {
+                    "de-DE": "Schicke einen Feind mit dem Magnetgewehr mindestens 50 Meter weit.",
+                    "en-US": "Send an enemy at least 50 meters with the Magnet Gun.",
+                    "es-ES": "Envía a un enemigo al menos a 50 metros con la pistola magnética.",
+                    "fr-FR": "Projetez un ennemi à 50 mètres minimum avec le fusil magnétique.",
+                    "it-IT": "Spedisci un nemico ad almeno 50 metri di distanza con la pistola magnetica.",
+                    "ru-RU": "С помощью магнитного ружья отбросьте врагов минимум на 50 метров.",
+                    "ja-JP": "マグネットガンで敵を50m飛ばす"
+                },
+                "howto": {
+                    "de-DE": "Schicke einen Feind mit dem Magnetgewehr mindestens 50 Meter weit.",
+                    "en-US": "Send an enemy at least 50 meters with the Magnet Gun.",
+                    "es-ES": "Envía a un enemigo al menos a 50 metros con la pistola magnética.",
+                    "fr-FR": "Projetez un ennemi à 50 mètres minimum avec le fusil magnétique.",
+                    "it-IT": "Spedisci un nemico ad almeno 50 metri di distanza con la pistola magnetica.",
+                    "ru-RU": "С помощью магнитного ружья отбросьте врагов минимум на 50 метров.",
+                    "ja-JP": "マグネットガンで敵を50m飛ばす"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "36.png"
+        },
+        "122": {
+            "text": {
+                "name": {
+                    "de-DE": "Marsianischer Magnet-Meister",
+                    "en-US": "Martian Matchmaker",
+                    "es-ES": "Casamentero marciano",
+                    "fr-FR": "Entremetteur martien",
+                    "it-IT": "Accoppiata marziana",
+                    "ru-RU": "Марсианский сводник",
+                    "ja-JP": "火星のマッチメーカー"
+                },
+                "description": {
+                    "de-DE": "Schieße einen Feind mit dem Magnetgewehr in einen anderen Feind.",
+                    "en-US": "Fire an enemy into another enemy with the Magnet Gun.",
+                    "es-ES": "Lanza a un enemigo contra otro usando la pistola magnética.",
+                    "fr-FR": "Envoyez un ennemi sur un autre ennemi avec le fusil magnétique.",
+                    "it-IT": "Scaglia un nemico contro l'altro usando la pistola magnetica.",
+                    "ru-RU": "С помощью магнитного ружья выстрелите одним врагом в другого.",
+                    "ja-JP": "マグネットガンで敵を別の敵に当てる"
+                },
+                "howto": {
+                    "de-DE": "Schieße einen Feind mit dem Magnetgewehr in einen anderen Feind.",
+                    "en-US": "Fire an enemy into another enemy with the Magnet Gun.",
+                    "es-ES": "Lanza a un enemigo contra otro usando la pistola magnética.",
+                    "fr-FR": "Envoyez un ennemi sur un autre ennemi avec le fusil magnétique.",
+                    "it-IT": "Scaglia un nemico contro l'altro usando la pistola magnetica.",
+                    "ru-RU": "С помощью магнитного ружья выстрелите одним врагом в другого.",
+                    "ja-JP": "マグネットガンで敵を別の敵に当てる"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "37.png"
+        },
+        "117": {
+            "text": {
+                "name": {
+                    "de-DE": "Fang!",
+                    "en-US": "Catch!",
+                    "es-ES": "¡Pilla!",
+                    "fr-FR": "Attrape ça !",
+                    "it-IT": "Questi sono tuoi!",
+                    "ru-RU": "Лови!",
+                    "ja-JP": "キャッチ！"
+                },
+                "description": {
+                    "de-DE": "Benutze das Magnetgewehr, um Trümmer auf einen Tentakel ZURÜCKZUWERFEN.",
+                    "en-US": "Use the Magnet Gun to fling debris BACK at a Tentacle.",
+                    "es-ES": "Usa la pistola magnética para lanzar de vuelta escombros a un tentáculo.",
+                    "fr-FR": "Utilisez le fusil magnétique pour renvoyer les débris sur un Tentacule.",
+                    "it-IT": "Usa la pistola magnetica per RISPEDIRE i detriti contro un Tentacolo.",
+                    "ru-RU": "Используйте магнитное ружье, чтобы кинуть обломки ОБРАТНО в щупальце.",
+                    "ja-JP": "テンタクルが投げてきたガレキをマグネットガンで当て返す"
+                },
+                "howto": {
+                    "de-DE": "Benutze das Magnetgewehr, um Trümmer auf einen Tentakel ZURÜCKZUWERFEN.",
+                    "en-US": "Use the Magnet Gun to fling debris BACK at a Tentacle.",
+                    "es-ES": "Usa la pistola magnética para lanzar de vuelta escombros a un tentáculo.",
+                    "fr-FR": "Utilisez le fusil magnétique pour renvoyer les débris sur un Tentacule.",
+                    "it-IT": "Usa la pistola magnetica per RISPEDIRE i detriti contro un Tentacolo.",
+                    "ru-RU": "Используйте магнитное ружье, чтобы кинуть обломки ОБРАТНО в щупальце.",
+                    "ja-JP": "テンタクルが投げてきたガレキをマグネットガンで当て返す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "38.png"
+        },
+        "118": {
+            "text": {
+                "name": {
+                    "de-DE": "Ins Gesicht!",
+                    "en-US": "In. The. Face!",
+                    "es-ES": "¡En toda la cara!",
+                    "fr-FR": "En pleine poire !",
+                    "it-IT": "In. Pieno. Viso!",
+                    "ru-RU": "Прямо в лицо!",
+                    "ja-JP": "伝統芸能"
+                },
+                "description": {
+                    "de-DE": "Töte von jedem Feindtypen einen mit dem Vorschlaghammer.",
+                    "en-US": "Kill one of each enemy type with the Maul.",
+                    "es-ES": "Mata a un enemigo de cada tipo con el martillo pesado.",
+                    "fr-FR": "Tuez un ennemi de chaque type à l'aide de la masse.",
+                    "it-IT": "Uccidi un nemico di ogni tipo con il maglio.",
+                    "ru-RU": "Убейте одного врага каждого типа с помощью молота.",
+                    "ja-JP": "すべての種類の敵を1体ずつハンマーで倒す"
+                },
+                "howto": {
+                    "de-DE": "Töte von jedem Feindtypen einen mit dem Vorschlaghammer.",
+                    "en-US": "Kill one of each enemy type with the Maul.",
+                    "es-ES": "Mata a un enemigo de cada tipo con el martillo pesado.",
+                    "fr-FR": "Tuez un ennemi de chaque type à l'aide de la masse.",
+                    "it-IT": "Uccidi un nemico di ogni tipo con il maglio.",
+                    "ru-RU": "Убейте одного врага каждого типа с помощью молота.",
+                    "ja-JP": "すべての種類の敵を1体ずつハンマーで倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "39.png"
+        },
+        "124": {
+            "text": {
+                "name": {
+                    "de-DE": "Meisterkämpfer",
+                    "en-US": "What Is Best In Life?",
+                    "es-ES": "¿Hay algo mejor?",
+                    "fr-FR": "Petit plaisir",
+                    "it-IT": "Il massimo della vita",
+                    "ru-RU": "Что лучше всего в жизни?",
+                    "ja-JP": "無手の達人"
+                },
+                "description": {
+                    "de-DE": "Führe bei 25 Kriechern Nahkampf-Abschlussangriffe aus. (nur Einzelspielermodus)",
+                    "en-US": "Perform melee finishers on 25 Creepers (single player only).",
+                    "es-ES": "Realiza golpes de gracia cuerpo a cuerpo en 25 trepadores (únicamente en modo de un jugador).",
+                    "fr-FR": "Effectuez un coup de grâce de mêlée sur 25 Grouilleurs (solo uniquement).",
+                    "it-IT": "Esegui mosse finali in mischia su 25 Persecutori (solo in Giocatore singolo).",
+                    "ru-RU": "Добейте в ближнем бою 25 ополозов (только для одиночной игры).",
+                    "ja-JP": "近接攻撃で、クリーパー25体にとどめを刺す（シングルプレイヤーのみ）"
+                },
+                "howto": {
+                    "de-DE": "Führe bei 25 Kriechern Nahkampf-Abschlussangriffe aus. (nur Einzelspielermodus)",
+                    "en-US": "Perform melee finishers on 25 Creepers (single player only).",
+                    "es-ES": "Realiza golpes de gracia cuerpo a cuerpo en 25 trepadores (únicamente en modo de un jugador).",
+                    "fr-FR": "Effectuez un coup de grâce de mêlée sur 25 Grouilleurs (solo uniquement).",
+                    "it-IT": "Esegui mosse finali in mischia su 25 Persecutori (solo in Giocatore singolo).",
+                    "ru-RU": "Добейте в ближнем бою 25 ополозов (только для одиночной игры).",
+                    "ja-JP": "近接攻撃で、クリーパー25体にとどめを刺す（シングルプレイヤーのみ）"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "40.png"
+        },
+        "126": {
+            "text": {
+                "name": {
+                    "de-DE": "Dynamit macht bumm",
+                    "en-US": "Boom Goes The Dynamite",
+                    "es-ES": "Explosión de dinamita",
+                    "fr-FR": "Et boum !",
+                    "it-IT": "Boom! Tanti saluti...",
+                    "ru-RU": "За динамитом последует взрыв",
+                    "ja-JP": "ダイナマイトフィーバー"
+                },
+                "description": {
+                    "de-DE": "Töte 2 andere Feinde mit einem einzelnen explodierenden Berserker.",
+                    "en-US": "Kill 2 other enemies with a single exploding Berserker.",
+                    "es-ES": "Mata a 2 enemigos haciendo explotar un solo berserker.",
+                    "fr-FR": "Tuez 2 autres ennemis en faisant exploser un Berserker.",
+                    "it-IT": "Uccidi altri 2 nemici con una sola esplosione Berserker.",
+                    "ru-RU": "Убейте 2 других врагов единым взрывом берсеркера.",
+                    "ja-JP": "1体のバーサーカーの爆発で2体の敵を倒す"
+                },
+                "howto": {
+                    "de-DE": "Töte 2 andere Feinde mit einem einzelnen explodierenden Berserker.",
+                    "en-US": "Kill 2 other enemies with a single exploding Berserker.",
+                    "es-ES": "Mata a 2 enemigos haciendo explotar un solo berserker.",
+                    "fr-FR": "Tuez 2 autres ennemis en faisant exploser un Berserker.",
+                    "it-IT": "Uccidi altri 2 nemici con una sola esplosione Berserker.",
+                    "ru-RU": "Убейте 2 других врагов единым взрывом берсеркера.",
+                    "ja-JP": "1体のバーサーカーの爆発で2体の敵を倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "41.png"
+        },
+        "127": {
+            "text": {
+                "name": {
+                    "de-DE": "Volltreffer",
+                    "en-US": "Crack Shot",
+                    "es-ES": "Disparo de primera",
+                    "fr-FR": "Coup de maître",
+                    "it-IT": "Colpo perfetto",
+                    "ru-RU": "Убойный выстрел",
+                    "ja-JP": "射撃の名手"
+                },
+                "description": {
+                    "de-DE": "Töte einen Geist, bevor er sich wieder tarnen kann.",
+                    "en-US": "Kill a Wraith before it re-stealths.",
+                    "es-ES": "Mata a un espectro antes de que vuelva a ser sigiloso.",
+                    "fr-FR": "Tuez un Spectre avant qu'il ne disparaisse.",
+                    "it-IT": "Uccidi uno Spettro prima che riattivi la furtività.",
+                    "ru-RU": "Убейте духа, прежде чем он восполнит здоровье.",
+                    "ja-JP": "レイスがステルス状態になる前に倒す"
+                },
+                "howto": {
+                    "de-DE": "Töte einen Geist, bevor er sich wieder tarnen kann.",
+                    "en-US": "Kill a Wraith before it re-stealths.",
+                    "es-ES": "Mata a un espectro antes de que vuelva a ser sigiloso.",
+                    "fr-FR": "Tuez un Spectre avant qu'il ne disparaisse.",
+                    "it-IT": "Uccidi uno Spettro prima che riattivi la furtività.",
+                    "ru-RU": "Убейте духа, прежде чем он восполнит здоровье.",
+                    "ja-JP": "レイスがステルス状態になる前に倒す"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "10",
+            "imageId": "42.png"
+        },
+        "130": {
+            "text": {
+                "name": {
+                    "de-DE": "Soldat",
+                    "en-US": "Soldier",
+                    "es-ES": "Soldado",
+                    "fr-FR": "Soldat",
+                    "it-IT": "Soldato",
+                    "ru-RU": "Солдат",
+                    "ja-JP": "一等兵"
+                },
+                "description": {
+                    "de-DE": "Erledige die Wellen 1 bis 10 auf einer beliebigen Karte im Heimsuchungs-Modus.",
+                    "en-US": "Finish waves 1 through 10 on any map in Infestation.",
+                    "es-ES": "Completa de la oleada 1 a la 10 en cualquier mapa de Epidemia.",
+                    "fr-FR": "Terminez les vagues 1 à 10 sur n'importe quelle carte dans le mode Invasion.",
+                    "it-IT": "Completa le ondate da 1 a 10 su qualsiasi mappa in Infestazione.",
+                    "ru-RU": "Завершите волны с 1 по 10 на любой карте Заражения.",
+                    "ja-JP": "サバイバルモードの任意のマップでウェーブ1から10までクリアする"
+                },
+                "howto": {
+                    "de-DE": "Erledige die Wellen 1 bis 10 auf einer beliebigen Karte im Heimsuchungs-Modus.",
+                    "en-US": "Finish waves 1 through 10 on any map in Infestation.",
+                    "es-ES": "Completa de la oleada 1 a la 10 en cualquier mapa de Epidemia.",
+                    "fr-FR": "Terminez les vagues 1 à 10 sur n'importe quelle carte dans le mode Invasion.",
+                    "it-IT": "Completa le ondate da 1 a 10 su qualsiasi mappa in Infestazione.",
+                    "ru-RU": "Завершите волны с 1 по 10 на любой карте Заражения.",
+                    "ja-JP": "サバイバルモードの任意のマップでウェーブ1から10までクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "43.png"
+        },
+        "131": {
+            "text": {
+                "name": {
+                    "de-DE": "Kommando",
+                    "en-US": "Commando",
+                    "es-ES": "Comando",
+                    "fr-FR": "Commando",
+                    "it-IT": "Commando",
+                    "ru-RU": "Коммандо",
+                    "ja-JP": "特殊部隊"
+                },
+                "description": {
+                    "de-DE": "Erledige die Wellen 1 bis 20 auf einer beliebigen Karte im Heimsuchungs-Modus.",
+                    "en-US": "Finish waves 1 through 20 on any map in Infestation.",
+                    "es-ES": "Completa de la oleada 1 a la 20 en cualquier mapa de Epidemia.",
+                    "fr-FR": "Terminez les vagues 1 à 20 sur n'importe quelle carte dans le mode Invasion.",
+                    "it-IT": "Completa le ondate da 1 a 20 su qualsiasi mappa in Infestazione.",
+                    "ru-RU": "Завершите волны с 1 по 20 на любой карте Заражения.",
+                    "ja-JP": "サバイバルモードの任意のマップでウェーブ1から20までクリアする"
+                },
+                "howto": {
+                    "de-DE": "Erledige die Wellen 1 bis 20 auf einer beliebigen Karte im Heimsuchungs-Modus.",
+                    "en-US": "Finish waves 1 through 20 on any map in Infestation.",
+                    "es-ES": "Completa de la oleada 1 a la 20 en cualquier mapa de Epidemia.",
+                    "fr-FR": "Terminez les vagues 1 à 20 sur n'importe quelle carte dans le mode Invasion.",
+                    "it-IT": "Completa le ondate da 1 a 20 su qualsiasi mappa in Infestazione.",
+                    "ru-RU": "Завершите волны с 1 по 20 на любой карте Заражения.",
+                    "ja-JP": "サバイバルモードの任意のマップでウェーブ1から20までクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "44.png"
+        },
+        "132": {
+            "text": {
+                "name": {
+                    "de-DE": "Ehren-Mason",
+                    "en-US": "Honorary Mason",
+                    "es-ES": "Mason honorario",
+                    "fr-FR": "Le grand Mason",
+                    "it-IT": "Membro onorario dei Mason",
+                    "ru-RU": "Почетный укладчик",
+                    "ja-JP": "栄光のメイソン"
+                },
+                "description": {
+                    "de-DE": "Erledige die Wellen 1 bis 30 auf einer beliebigen Karte im Heimsuchungs-Modus.",
+                    "en-US": "Finish waves 1 through 30 on any map in Infestation.",
+                    "es-ES": "Completa de la oleada 1 a la 30 en cualquier mapa de Epidemia.",
+                    "fr-FR": "Terminez les vagues 1 à 30 sur n'importe quelle carte dans le mode Invasion.",
+                    "it-IT": "Completa le ondate da 1 a 30 su qualsiasi mappa in Infestazione.",
+                    "ru-RU": "Завершите волны с 1 по 30 на любой карте Заражения.",
+                    "ja-JP": "サバイバルモードの任意のマップでウェーブ1から30までクリアする"
+                },
+                "howto": {
+                    "de-DE": "Erledige die Wellen 1 bis 30 auf einer beliebigen Karte im Heimsuchungs-Modus.",
+                    "en-US": "Finish waves 1 through 30 on any map in Infestation.",
+                    "es-ES": "Completa de la oleada 1 a la 30 en cualquier mapa de Epidemia.",
+                    "fr-FR": "Terminez les vagues 1 à 30 sur n'importe quelle carte dans le mode Invasion.",
+                    "it-IT": "Completa le ondate da 1 a 30 su qualsiasi mappa in Infestazione.",
+                    "ru-RU": "Завершите волны с 1 по 30 на любой карте Заражения.",
+                    "ja-JP": "サバイバルモードの任意のマップでウェーブ1から30までクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "75",
+            "imageId": "45.png"
+        },
+        "116": {
+            "text": {
+                "name": {
+                    "de-DE": "Kriecherjäger",
+                    "en-US": "Bug Hunt",
+                    "es-ES": "A la caza del bicho",
+                    "fr-FR": "Chasse effrénée",
+                    "it-IT": "Caccia all'insetto",
+                    "ru-RU": "Охотник на жуков",
+                    "ja-JP": "バグハント"
+                },
+                "description": {
+                    "de-DE": "Erledige mindestens eine Welle auf jeder Karte im Heimsuchungs-Modus.",
+                    "en-US": "Finish at least one wave on each map in Infestation.",
+                    "es-ES": "Completa al menos una oleada en cada mapa de Epidemia.",
+                    "fr-FR": "Terminez au moins une vague sur chaque carte dans le mode Invasion.",
+                    "it-IT": "Completa almeno un'ondata su qualsiasi mappa in Infestazione.",
+                    "ru-RU": "Завершите минимум одну волну на каждой карте Заражения.",
+                    "ja-JP": "サバイバルモードの各マップのウェーブ1をクリアする"
+                },
+                "howto": {
+                    "de-DE": "Erledige mindestens eine Welle auf jeder Karte im Heimsuchungs-Modus.",
+                    "en-US": "Finish at least one wave on each map in Infestation.",
+                    "es-ES": "Completa al menos una oleada en cada mapa de Epidemia.",
+                    "fr-FR": "Terminez au moins une vague sur chaque carte dans le mode Invasion.",
+                    "it-IT": "Completa almeno un'ondata su qualsiasi mappa in Infestazione.",
+                    "ru-RU": "Завершите минимум одну волну на каждой карте Заражения.",
+                    "ja-JP": "サバイバルモードの各マップのウェーブ1をクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "46.png"
+        },
+        "128": {
+            "text": {
+                "name": {
+                    "de-DE": "Feldchirurg",
+                    "en-US": "Field Surgeon",
+                    "es-ES": "Cirujano de campo",
+                    "fr-FR": "Chirurgien de guerre",
+                    "it-IT": "Medico da campo",
+                    "ru-RU": "Полевой хирург",
+                    "ja-JP": "衛生兵"
+                },
+                "description": {
+                    "de-DE": "Benutze im Heimsuchungs-Modus 25 mal die Wiederbelebung.",
+                    "en-US": "Perform Revival 25 times in Infestation.",
+                    "es-ES": "Realiza Reanimación 25 veces en Epidemia.",
+                    "fr-FR": "Réussissez 25 réanimations dans le mode Invasion.",
+                    "it-IT": "Esegui 25 rianimazioni in Infestazione.",
+                    "ru-RU": "В режиме Заражения выполните Воскрешение 25 раз.",
+                    "ja-JP": "サバイバルモードで25回蘇生する"
+                },
+                "howto": {
+                    "de-DE": "Benutze im Heimsuchungs-Modus 25 mal die Wiederbelebung.",
+                    "en-US": "Perform Revival 25 times in Infestation.",
+                    "es-ES": "Realiza Reanimación 25 veces en Epidemia.",
+                    "fr-FR": "Réussissez 25 réanimations dans le mode Invasion.",
+                    "it-IT": "Esegui 25 rianimazioni in Infestazione.",
+                    "ru-RU": "В режиме Заражения выполните Воскрешение 25 раз.",
+                    "ja-JP": "サバイバルモードで25回蘇生する"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "47.png"
+        },
+        "129": {
+            "text": {
+                "name": {
+                    "de-DE": "Alle für einen, einer für alle",
+                    "en-US": "All For One, One For All",
+                    "es-ES": "Todos para uno y uno para todos",
+                    "fr-FR": "Tous pour un, et un pour tous",
+                    "it-IT": "Uno per tutti, tutti per uno",
+                    "ru-RU": "Один за всех и все за одного",
+                    "ja-JP": "みんなはひとりのために、ひとりはみんなのために"
+                },
+                "description": {
+                    "de-DE": "Spiele ein 4-Spieler-Heimsuchungsspiel bis über Welle 9 hinaus, ohne dass jemand verblutet.",
+                    "en-US": "Finish a 4 player Infestation game beyond wave 9 without anyone bleeding out.",
+                    "es-ES": "Completa más de 9 oleadas en una partida de Epidemia para 4 jugadores sin que nadie se desangre.",
+                    "fr-FR": "Terminez une partie en mode Invasion à 4 après la vague 9 sans que personne ne se vide de son sang.",
+                    "it-IT": "Completa una partita Infestazione a 4 giocatori, oltre l'ondata 9, senza che nessuno perda sangue.",
+                    "ru-RU": "Завершите игру в Заражение для 4 игроков за волной 9 так, чтобы никто не истек кровью.",
+                    "ja-JP": "サバイバルモードの4人プレイで1人も死亡せずに、10ウェーブをクリアする"
+                },
+                "howto": {
+                    "de-DE": "Spiele ein 4-Spieler-Heimsuchungsspiel bis über Welle 9 hinaus, ohne dass jemand verblutet.",
+                    "en-US": "Finish a 4 player Infestation game beyond wave 9 without anyone bleeding out.",
+                    "es-ES": "Completa más de 9 oleadas en una partida de Epidemia para 4 jugadores sin que nadie se desangre.",
+                    "fr-FR": "Terminez une partie en mode Invasion à 4 après la vague 9 sans que personne ne se vide de son sang.",
+                    "it-IT": "Completa una partita Infestazione a 4 giocatori, oltre l'ondata 9, senza che nessuno perda sangue.",
+                    "ru-RU": "Завершите игру в Заражение для 4 игроков за волной 9 так, чтобы никто не истек кровью.",
+                    "ja-JP": "サバイバルモードの4人プレイで1人も死亡せずに、10ウェーブをクリアする"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "25",
+            "imageId": "48.png"
+        }
+    }
+}
