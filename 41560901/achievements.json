@@ -1,0 +1,1754 @@
+{
+    "Achievements": {
+        "1": {
+            "text": {
+                "name": {
+                    "en-US": "Mighty Launch",
+                    "de-DE": "Mächtiger Start",
+                    "fr-FR": "Tout en puissance ",
+                    "it-IT": "Lancio potente",
+                    "es-ES": "Lanzamiento poderoso",
+                    "ru-RU": "Могучий старт",
+                    "pt-PT": "Lançamento Potente"
+                },
+                "description": {
+                    "en-US": "Mighty Falcon Launched (in Single Player Mode)",
+                    "de-DE": "Rasenden Falken gestartet (im Einzelspieler-Modus)",
+                    "fr-FR": "Super faucon lancé (en mode Un joueur). ",
+                    "it-IT": "Mighty Falcon lanciato (giocatore singolo)",
+                    "es-ES": "El Halcón Poderoso lanzado (en Un solo jugador)",
+                    "ru-RU": "Запущен Могучий Сокол (одиночный режим)",
+                    "pt-PT": "Falcon Potente Lançada (no modo Um Jogador)"
+                },
+                "howto": {
+                    "en-US": "Launch a Mighty Falcon (in Single Player Mode)",
+                    "de-DE": "Starte einen Rasenden Falken (im Einzelspieler-Modus)",
+                    "fr-FR": "Lancer un Super faucon (en mode Un joueur).",
+                    "it-IT": "Lancia un Mighty Falcon (giocatore singolo)",
+                    "es-ES": "Lanza un Halcón Poderoso (en Un solo jugador)",
+                    "ru-RU": "Запустите Могучего Сокола (одиночный режим) ",
+                    "pt-PT": "Lance uma Falcon Potente (no modo Um Jogador)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Event",
+            "credits": "15",
+            "imageId": "01.png"
+        },
+        "2": {
+            "text": {
+                "name": {
+                    "en-US": "Falcon Escape",
+                    "de-DE": "Falken-Flucht",
+                    "fr-FR": "Fuite du Faucon ",
+                    "it-IT": "Fuga Falcon",
+                    "es-ES": "Huyendo en el Halcón",
+                    "ru-RU": "Побег Сокола",
+                    "pt-PT": "Fuga Falcon"
+                },
+                "description": {
+                    "en-US": "100% destruction with Falcon (in Single Player Mode)",
+                    "de-DE": "100% Zerstörung mit Falken (im Einzelspieler-Modus)",
+                    "fr-FR": "100% de destruction avec le Faucon (en mode Un joueur). ",
+                    "it-IT": "100% distruzione con il Falcon (giocatore singolo)",
+                    "es-ES": "100% de destrucción con el Halcón (en Un solo jugador)",
+                    "ru-RU": "100% уничтожение Соколом (одиночный режим)",
+                    "pt-PT": "100% destruição com Falcon (no modo Um Jogador)"
+                },
+                "howto": {
+                    "en-US": "Cause 100% destruction with a Mighty Falcon (in Single Player Mode)",
+                    "de-DE": "Verursache 100% Zerstörung mit einem Rasenden Falken (im Einzelspieler-Modus)",
+                    "fr-FR": "Causer 100% de destruction avec un Super faucon (en mode Un joueur). ",
+                    "it-IT": "Causa 100% distruzione con un Mighty Falcon (giocatore singolo)",
+                    "es-ES": "Causa 100% de destrucción con un Halcón Poderoso (en Un solo jugador)",
+                    "ru-RU": "Добейтесь 100% уничтожения Соколом (одиночный режим) ",
+                    "pt-PT": "Cause 100% de destruição com a Falcon Potente (modo Um Jogador)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "02.png"
+        },
+        "3": {
+            "text": {
+                "name": {
+                    "en-US": "Hyperspace",
+                    "de-DE": "Hyperraum",
+                    "fr-FR": "Hyperespace ",
+                    "it-IT": "Iperspazio",
+                    "es-ES": "Hiperespacio",
+                    "ru-RU": "Гиперпространство",
+                    "pt-PT": "Hiperespaço"
+                },
+                "description": {
+                    "en-US": "100% destruction with Falcon 50 times (in Single Player Mode)",
+                    "de-DE": "50-mal 100% Zerstörung mit Falken (im Einzelspieler-Modus)",
+                    "fr-FR": "100% de destruction avec le Faucon 50 fois (en mode Un joueur). ",
+                    "it-IT": "100% distruzione con il Falcon 50 volte (giocatore singolo)",
+                    "es-ES": "100% de destrucción con el Halcón 50 veces (en Un solo jugador)",
+                    "ru-RU": "100% уничтожение Соколом 50 раз (одиночный режим)",
+                    "pt-PT": "100% destruição com Falcon 50 vezes (no modo Um Jogador)"
+                },
+                "howto": {
+                    "en-US": "Cause 100% destruction with a Mighty Falcon 50 times (in Single Player Mode)",
+                    "de-DE": "Verursache 50-mal 100% Zerstörung mit einem Rasenden Falken (im Einzelspieler-Modus)",
+                    "fr-FR": "Causer 100% de destruction avec un Super faucon 50 fois (en mode Un joueur). ",
+                    "it-IT": "Causa 100% distruzione con un Mighty Falcon 50 volte (giocatore singolo)",
+                    "es-ES": "Causa 100% de destrucción con un Halcón Poderoso 50 veces (en Un solo jugador)",
+                    "ru-RU": "Добейтесь 100% уничтожения Соколом 50 раз (одиночный режим) ",
+                    "pt-PT": "Cause 100% de destruição com a Falcon Potente 50 vezes (modo Um Jogador)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "03.png"
+        },
+        "4": {
+            "text": {
+                "name": {
+                    "en-US": "That's No Moon",
+                    "de-DE": "Das ist kein Mond",
+                    "fr-FR": "Ce n'est pas la lune ",
+                    "it-IT": "Non è una luna, quella",
+                    "es-ES": "Eso no es una luna",
+                    "ru-RU": "Это не луна",
+                    "pt-PT": "Aquilo Não É Lua"
+                },
+                "description": {
+                    "en-US": "Tatooine completed",
+                    "de-DE": "Tatooine abgeschlossen",
+                    "fr-FR": "Épisode Tatooine terminé. ",
+                    "it-IT": "Tatooine completato",
+                    "es-ES": "Tatooine completado",
+                    "ru-RU": "Tatooine пройден",
+                    "pt-PT": "Tatooine concluída"
+                },
+                "howto": {
+                    "en-US": "Complete Tatooine",
+                    "de-DE": "Schließe Tatooine ab",
+                    "fr-FR": "Terminer Tatooine.",
+                    "it-IT": "Completa Tatooine",
+                    "es-ES": "Completa Tatooine",
+                    "ru-RU": "Пройдите Tatooine",
+                    "pt-PT": "Complete Tatooine"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "04.png"
+        },
+        "5": {
+            "text": {
+                "name": {
+                    "en-US": "Tatooine – All Stars",
+                    "de-DE": "Tatooine - alle Sterne",
+                    "fr-FR": "Tatooine – Toutes les étoiles",
+                    "it-IT": "Tatooine - Tutte le stelle",
+                    "es-ES": "Tatooine: todas las estrellas",
+                    "ru-RU": "Tatooine - Все звезды",
+                    "pt-PT": "Tatooine - Todas as estrelas"
+                },
+                "description": {
+                    "en-US": "Tatooine: Three stars in all levels",
+                    "de-DE": "Tatooine: Drei Sterne in allen Leveln",
+                    "fr-FR": "Tatooine : trois étoiles dans tous les niveaux. ",
+                    "it-IT": "Tatooine: 3 stelle in ogni livello",
+                    "es-ES": "Tatooine: tres estrellas en todos los niveles",
+                    "ru-RU": "Tatooine: 3 звезды на всех уровнях",
+                    "pt-PT": "Tatooine: Três estrelas em todas as fases"
+                },
+                "howto": {
+                    "en-US": "NA",
+                    "de-DE": "N/V",
+                    "fr-FR": "NA",
+                    "it-IT": "N/D",
+                    "es-ES": "N/D",
+                    "ru-RU": "N/A",
+                    "pt-PT": "N/D"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "05.png"
+        },
+        "6": {
+            "text": {
+                "name": {
+                    "en-US": "Tatooine - The Force",
+                    "de-DE": "Tatooine - die Macht",
+                    "fr-FR": "Tatooine - La Force",
+                    "it-IT": "Tatooine - La Forza",
+                    "es-ES": "Tatooine: la Fuerza",
+                    "ru-RU": "Tatooine - Сила",
+                    "pt-PT": "Tatooine - A Força"
+                },
+                "description": {
+                    "en-US": "Tatooine: Get 2,380,000 points",
+                    "de-DE": "Tatooine: Erlange 2.380.000 Punkte",
+                    "fr-FR": "Tatooine : obtenir 2 380 000 points.",
+                    "it-IT": "Tatooine: Ottieni 2.380.000 punti",
+                    "es-ES": "Tatooine: consigue 2 380 000 puntos",
+                    "ru-RU": "Tatooine: наберите 2380000 очков ",
+                    "pt-PT": "Tatooine: Obtenha 2.380.000 pontos"
+                },
+                "howto": {
+                    "en-US": "Get 2,380,000 points on Tatooine",
+                    "de-DE": "Erlange 2.380.000 Punkte auf Tatooine",
+                    "fr-FR": "Obtenir 2 380 000 points sur Tatooine.",
+                    "it-IT": "Ottieni 2.380.000 punti su Tatooine",
+                    "es-ES": "Consigue 2 380 000 puntos en Tatooine",
+                    "ru-RU": "Tatooine: наберите 2380000 очков",
+                    "pt-PT": "Obtenha 2.380.000 pontos em Tatooine"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "06.png"
+        },
+        "7": {
+            "text": {
+                "name": {
+                    "en-US": "Disturbing Misobedience",
+                    "de-DE": "Verstörender Ungehorsam",
+                    "fr-FR": "Inquiétante désobéissance",
+                    "it-IT": "Disobbedienza inquietante",
+                    "es-ES": "Preocupante desobediencia",
+                    "ru-RU": "Возмутительное неповиновение",
+                    "pt-PT": "Desobediência Perturbadora"
+                },
+                "description": {
+                    "en-US": "Death Star completed",
+                    "de-DE": "Death Star abgeschlossen",
+                    "fr-FR": "Death Star terminé.",
+                    "it-IT": "Death Star completato",
+                    "es-ES": "Death Star completado",
+                    "ru-RU": "Death Star пройдена",
+                    "pt-PT": "Death Star concluída"
+                },
+                "howto": {
+                    "en-US": "Complete Death Star",
+                    "de-DE": "Schließe den Death Star ab",
+                    "fr-FR": "Terminer Death Star.",
+                    "it-IT": "Completa Death Star",
+                    "es-ES": "Completa Death Star ",
+                    "ru-RU": "Пройдите Death Star",
+                    "pt-PT": "Complete Death Star"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "07.png"
+        },
+        "8": {
+            "text": {
+                "name": {
+                    "en-US": "Death Star – All Stars",
+                    "de-DE": "Death Star - alle Sterne",
+                    "fr-FR": "Death Star - Toutes les étoiles",
+                    "it-IT": "Death Star - Tutte le stelle",
+                    "es-ES": "Death Star: todas las estrellas",
+                    "ru-RU": "Death Star - Все звезды",
+                    "pt-PT": "Death Star - Todas as estrelas"
+                },
+                "description": {
+                    "en-US": "Death Star: Three stars in all levels",
+                    "de-DE": "Death Star: Drei Sterne in allen Leveln",
+                    "fr-FR": "Death Star : trois étoiles dans tous les niveaux. ",
+                    "it-IT": "Death Star: 3 stelle in ogni livello",
+                    "es-ES": "Death Star: tres estrellas en todos los niveles",
+                    "ru-RU": "Death Star: 3 звезды на всех уровнях",
+                    "pt-PT": "Death Star: Três estrelas em todas as fases"
+                },
+                "howto": {
+                    "en-US": "N/A",
+                    "de-DE": "N/V",
+                    "fr-FR": "N/A",
+                    "it-IT": "N/D",
+                    "es-ES": "N/D",
+                    "ru-RU": "N/A",
+                    "pt-PT": "N/D"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "08.png"
+        },
+        "9": {
+            "text": {
+                "name": {
+                    "en-US": "Death Star - The Force",
+                    "de-DE": "Death Star - die Macht",
+                    "fr-FR": "Death Star - La Force ",
+                    "it-IT": "Death Star - La Forza",
+                    "es-ES": "Death Star: la Fuerza",
+                    "ru-RU": "Death Star - Сила",
+                    "pt-PT": "Death Star - A Força"
+                },
+                "description": {
+                    "en-US": "Death Star: Get 3,180,000 points",
+                    "de-DE": "Death Star: Erlange 3.180.000 Punkte",
+                    "fr-FR": "Death Star : obtenir 3 180 000 points.",
+                    "it-IT": "Death Star: Ottieni 3.180.000 punti",
+                    "es-ES": "Death Star: consigue 3 180 000 puntos",
+                    "ru-RU": "Death Star: наберите 3180000 очков",
+                    "pt-PT": "Death Star: obtenha 3.180.000 pontos"
+                },
+                "howto": {
+                    "en-US": "Get 3,180,000 points on Death Star",
+                    "de-DE": "Erlange 3.180.000 Punkte auf dem Death Star",
+                    "fr-FR": "Obtenir 3 180 000 points sur Death Star.",
+                    "it-IT": "Ottieni 3.180.000 punti sulla Death Star",
+                    "es-ES": "Consigue 3 180 000 puntos en Death Star",
+                    "ru-RU": "Наберите 3180000 очков на Death Star",
+                    "pt-PT": "Obtenha 3.180.000 pontos na Death Star"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "09.png"
+        },
+        "10": {
+            "text": {
+                "name": {
+                    "en-US": "Jettisoned Jetpacks",
+                    "de-DE": "Abgeworfene Jetpacks",
+                    "fr-FR": "Jet-packs à l'abandon ",
+                    "it-IT": "Jet pack abbandonati",
+                    "es-ES": "Jetpacks propulsados",
+                    "ru-RU": "Реактивные ранцы",
+                    "pt-PT": "Jatos Libertados"
+                },
+                "description": {
+                    "en-US": "Collect all 5 Jetpacks",
+                    "de-DE": "Sammle alle 5 Jetpacks",
+                    "fr-FR": "Obtenir les 5 jet-packs. ",
+                    "it-IT": "Trova tutti e 5 i jet pack",
+                    "es-ES": "Recoge los 5 jetpacks",
+                    "ru-RU": "Соберите все 5 реактивных ранцев",
+                    "pt-PT": "Colete todas as 5 mochilas a jato"
+                },
+                "howto": {
+                    "en-US": "N/A",
+                    "de-DE": "N/V",
+                    "fr-FR": "N/A",
+                    "it-IT": "N/D",
+                    "es-ES": "N/D",
+                    "ru-RU": "N/A",
+                    "pt-PT": "N/D"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "10.png"
+        },
+        "11": {
+            "text": {
+                "name": {
+                    "en-US": "Courage of Jedi",
+                    "de-DE": "Mut eines Jedis",
+                    "fr-FR": "Courage de Jedi ",
+                    "it-IT": "Coraggio dello Jedi",
+                    "es-ES": "Coraje de jedi",
+                    "ru-RU": "Смелость джедая",
+                    "pt-PT": "Coragem do Jedi"
+                },
+                "description": {
+                    "en-US": "Path of the Jedi completed",
+                    "de-DE": "Path of the Jedi abgeschlossen",
+                    "fr-FR": "Path of the Jedi terminé.",
+                    "it-IT": "Path of the Jedi completato",
+                    "es-ES": "Path of the Jedi completado",
+                    "ru-RU": "Пройден Путь джедая",
+                    "pt-PT": "Path of the Jedi concluído"
+                },
+                "howto": {
+                    "en-US": "Complete Path of the Jedi",
+                    "de-DE": "Schließe Path of the Jedi ab",
+                    "fr-FR": "Terminer Path of the Jedi.",
+                    "it-IT": "Completa Path of the Jedi",
+                    "es-ES": "Completa Path of the Jedi",
+                    "ru-RU": "Пройдите Путь Джедая",
+                    "pt-PT": "Complete Path of the Jedi"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "11.png"
+        },
+        "12": {
+            "text": {
+                "name": {
+                    "en-US": "Path of the Jedi – All Stars",
+                    "de-DE": "Path of the Jedi - alle Sterne",
+                    "fr-FR": "Path of the Jedi – Les étoiles",
+                    "it-IT": "Path of the Jedi - Le stelle",
+                    "es-ES": "Path of the Jedi: Las estrellas",
+                    "ru-RU": "Путь джедая - Все звезды",
+                    "pt-PT": "Path of the Jedi – As Estrelas"
+                },
+                "description": {
+                    "en-US": "Path of the Jedi: Three stars in all levels",
+                    "de-DE": "Path of the Jedi: Drei Sterne in allen  Leveln",
+                    "fr-FR": "Path of the Jedi : trois étoiles dans tous les niveaux.",
+                    "it-IT": "Path of the Jedi: 3 stelle in ogni livello",
+                    "es-ES": "Path of the Jedi: tres estrellas en todos los niveles",
+                    "ru-RU": "Путь джедая: 3 звезды на всех уровнях",
+                    "pt-PT": "Path of the Jedi: Três estrelas em todas as fases"
+                },
+                "howto": {
+                    "en-US": "N/A",
+                    "de-DE": "N/V",
+                    "fr-FR": "N/A",
+                    "it-IT": "N/D",
+                    "es-ES": "N/D",
+                    "ru-RU": "N/A",
+                    "pt-PT": "N/D"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "12.png"
+        },
+        "13": {
+            "text": {
+                "name": {
+                    "en-US": "Path of the Jedi – The Force",
+                    "de-DE": "Path of the Jedi - die Macht",
+                    "fr-FR": "Path of the Jedi – La Force",
+                    "it-IT": "Path of the Jedi - La Forza",
+                    "es-ES": "Path of the Jedi: la Fuerza",
+                    "ru-RU": "Путь джедая - Сила",
+                    "pt-PT": "Path of the Jedi – A Força"
+                },
+                "description": {
+                    "en-US": "Path of the Jedi: Get 3,250,000 points",
+                    "de-DE": "Path of the Jedi: Erlange 3.250.000 Punkte",
+                    "fr-FR": "Path of the Jedi : obtenir 3 250 000 points. ",
+                    "it-IT": "Path of the Jedi: Ottieni 3.250.000 punti",
+                    "es-ES": "Path of the Jedi: consigue 3 250 000 puntos",
+                    "ru-RU": "Путь джедая: наберите 3250000 очков",
+                    "pt-PT": "Path of the Jedi: Obtenha 3.250.000 pontos"
+                },
+                "howto": {
+                    "en-US": "Get 3,250,000 points on Path of the Jedi",
+                    "de-DE": "Erlange 3.250.000 Punkte bei Path of the Jedi",
+                    "fr-FR": "Obtenir 3 250 000 points dans Path of the Jedi.",
+                    "it-IT": "Ottieni 3.250.000 punti in Path of the Jedi",
+                    "es-ES": "Consigue 3 250 000 puntos en Path of the Jedi",
+                    "ru-RU": "Путь джедая: наберите 3250000 очков ",
+                    "pt-PT": "Obtenha 3.250.000 pontos em Path of the Jedi"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "13.png"
+        },
+        "14": {
+            "text": {
+                "name": {
+                    "en-US": "Probe Explorer",
+                    "de-DE": "Sondenerforscher",
+                    "fr-FR": "Sonde d'exploration ",
+                    "it-IT": "Sonda esplorativa",
+                    "es-ES": "Droide explorador",
+                    "ru-RU": "Исследователь зондов",
+                    "pt-PT": "Explorador de Sondas"
+                },
+                "description": {
+                    "en-US": "1 droid level found",
+                    "de-DE": "1 Droiden-Level gefunden",
+                    "fr-FR": "1 niveau droïde trouvé. ",
+                    "it-IT": "1 livello droide trovato",
+                    "es-ES": "1 nivel droide encontrado",
+                    "ru-RU": "Найден 1 уровень дроидов",
+                    "pt-PT": "1 fase droide encontrada"
+                },
+                "howto": {
+                    "en-US": "Find one Droid Level",
+                    "de-DE": "Finde einen Droiden-Level",
+                    "fr-FR": "Trouver un niveau droïde.",
+                    "it-IT": "Trova un livello droide",
+                    "es-ES": "Encuentra un nivel droide",
+                    "ru-RU": "Найдите один уровень дроидов",
+                    "pt-PT": "Encontre uma Fase Droide"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "14.png"
+        },
+        "15": {
+            "text": {
+                "name": {
+                    "en-US": "Probe Gatherer",
+                    "de-DE": "Sondensammler",
+                    "fr-FR": "Sonde de récupération ",
+                    "it-IT": "Sonda di raccolta",
+                    "es-ES": "Droide recolector",
+                    "ru-RU": "Собиратель зондов",
+                    "pt-PT": "Colecionador de Sondas"
+                },
+                "description": {
+                    "en-US": "5 droid levels found",
+                    "de-DE": "5 Droiden-Level gefunden",
+                    "fr-FR": "5 niveaux droïdes trouvés.",
+                    "it-IT": "5 livelli droide trovati",
+                    "es-ES": "5 niveles de droides encontrados",
+                    "ru-RU": "Найдено 5 уровней дроидов",
+                    "pt-PT": "5 fases droide encontradas"
+                },
+                "howto": {
+                    "en-US": "Find five Droid Levels",
+                    "de-DE": "Finde 5 Droiden-Level",
+                    "fr-FR": "Trouver cinq niveaux droïdes.",
+                    "it-IT": "Trova 5 livelli droide",
+                    "es-ES": "Encuentra cinco niveles droides",
+                    "ru-RU": "Найдите 5 уровней дроидов ",
+                    "pt-PT": "Encontre cinco Fases Droides"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "15.png"
+        },
+        "16": {
+            "text": {
+                "name": {
+                    "en-US": "Jedi Initiate",
+                    "de-DE": "Jedi-Anwärter",
+                    "fr-FR": "Initié Jedi",
+                    "it-IT": "Iniziato Jedi",
+                    "es-ES": "Iniciado jedi",
+                    "ru-RU": "Падаван",
+                    "pt-PT": "Iniciante Jedi"
+                },
+                "description": {
+                    "en-US": "50 blocks smashed with saber",
+                    "de-DE": "50 Blöcke mit dem Lichtschwert zerschmettert",
+                    "fr-FR": "50 blocs détruits au sabre. ",
+                    "it-IT": "50 blocchi distrutti con la spada",
+                    "es-ES": "50 bloques destrozados con un sable",
+                    "ru-RU": "50 блоков разбито мечом",
+                    "pt-PT": "50 blocos destruídos com sabre"
+                },
+                "howto": {
+                    "en-US": "Use a saber to smash 50 blocks",
+                    "de-DE": "Zerschmettere 50 Blöcke mit dem Lichtschwert",
+                    "fr-FR": "Utiliser un sabre pour détruire 50 blocs.",
+                    "it-IT": "Usa la spada per distruggere 50 blocchi",
+                    "es-ES": "Usa un sable para destrozar 50 bloques",
+                    "ru-RU": "Разбейте 50 блоков световым мечом",
+                    "pt-PT": "Use um sabre para destruir 50 blocos"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "16.png"
+        },
+        "17": {
+            "text": {
+                "name": {
+                    "en-US": "Jedi Knight",
+                    "de-DE": "Jedi-Ritter",
+                    "fr-FR": "Chevalier Jedi ",
+                    "it-IT": "Cavaliere Jedi",
+                    "es-ES": "Caballero jedi",
+                    "ru-RU": "Рыцарь-джедай",
+                    "pt-PT": "Cavaleiro Jedi"
+                },
+                "description": {
+                    "en-US": "500 blocks smashed with saber",
+                    "de-DE": "500 Blöcke mit dem Lichtschwert zerschmettert",
+                    "fr-FR": "500 blocs détruits au sabre. ",
+                    "it-IT": "500 blocchi distrutti con la spada",
+                    "es-ES": "500 bloques destrozados con un sable",
+                    "ru-RU": "500 блоков разбито мечом",
+                    "pt-PT": "500 blocos destruídos com sabre"
+                },
+                "howto": {
+                    "en-US": "Use a saber to smash 500 blocks",
+                    "de-DE": "Zerschmettere 500 Blöcke mit dem Lichtschwert",
+                    "fr-FR": "Utiliser un sabre pour détruire 500 blocs.",
+                    "it-IT": "Usa la spada per distruggere 500 blocchi",
+                    "es-ES": "Usa un sable para destrozar 500 bloques",
+                    "ru-RU": "Разбейте 500 блоков используя меч",
+                    "pt-PT": "Use um sabre para destruir 500 blocos"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "17.png"
+        },
+        "18": {
+            "text": {
+                "name": {
+                    "en-US": "Jedi Master",
+                    "de-DE": "Jedi-Meister",
+                    "fr-FR": "Maître Jedi ",
+                    "it-IT": "Maestro Jedi",
+                    "es-ES": "Maestro jedi",
+                    "ru-RU": "Мастер-джедай",
+                    "pt-PT": "Mestre Jedi"
+                },
+                "description": {
+                    "en-US": "2000 blocks smashed with saber",
+                    "de-DE": "2000 Blöcke mit dem Lichtschwert zerschmettert",
+                    "fr-FR": "2000 blocs détruits au sabre. ",
+                    "it-IT": "2.000 blocchi distrutti con la spada",
+                    "es-ES": "2000 bloques destrozados con un sable",
+                    "ru-RU": "2000 блоков разбито мечом",
+                    "pt-PT": "2000 blocos destruídos com sabre"
+                },
+                "howto": {
+                    "en-US": "Use a saber to smash 2000 blocks",
+                    "de-DE": "Zerschmettere 2000 Blöcke mit dem Lichtschwert",
+                    "fr-FR": "Utiliser un sabre pour détruire 2000 blocs.",
+                    "it-IT": "Usa la spada per distruggere 2.000 blocchi",
+                    "es-ES": "Usa un sable para destrozar 2000 bloques",
+                    "ru-RU": "Разбейте 2000 блоков мечом",
+                    "pt-PT": "Use um sabre para destruir 2000 blocos"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "18.png"
+        },
+        "19": {
+            "text": {
+                "name": {
+                    "en-US": "Force Learner",
+                    "de-DE": "Machtschüler",
+                    "fr-FR": "Apprendre la Force ",
+                    "it-IT": "Apprendista della Forza",
+                    "es-ES": "Aprendiz de la Fuerza",
+                    "ru-RU": "Ученик силы",
+                    "pt-PT": "Aprendiz da Força"
+                },
+                "description": {
+                    "en-US": "2000 blocks thrown with Force",
+                    "de-DE": "2000 Blöcke mit der Macht geworfen",
+                    "fr-FR": "2 000 blocs lancés avec la Force. ",
+                    "it-IT": "2.000 blocchi scagliati con la Forza",
+                    "es-ES": "Lanzaste 2000 bloques con la Fuerza",
+                    "ru-RU": "2000 блоков отброшено при помощи Силы",
+                    "pt-PT": "2000 blocos arremessados com a Força"
+                },
+                "howto": {
+                    "en-US": "Use The Force to throw 2000 blocks",
+                    "de-DE": "Wirf 2000 Blöcke mit der Macht",
+                    "fr-FR": "Utiliser la Force pour lancer 2 000 blocs.",
+                    "it-IT": "Usa la Forza per lanciare 2.000 blocchi",
+                    "es-ES": "Usa la Fuerza para lanzar 2000 bloques",
+                    "ru-RU": "Отбросьте 2000 блоков используя Силу ",
+                    "pt-PT": "Use a Força para arremessar 2000 blocos"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "19.png"
+        },
+        "20": {
+            "text": {
+                "name": {
+                    "en-US": "Ultimate Laser Shooter",
+                    "de-DE": "Ultimativer Laserschütze",
+                    "fr-FR": "Tireur ultime ",
+                    "it-IT": "Tiratore laser per eccellenza",
+                    "es-ES": "Tirador láser definitivo",
+                    "ru-RU": "Снайпер",
+                    "pt-PT": "Atirador Laser Definitivo"
+                },
+                "description": {
+                    "en-US": "1000 blocks smashed with blaster laser",
+                    "de-DE": "1000 Blöcke mit Blasterlaser zerschmettert",
+                    "fr-FR": "1 000 blocs détruits avec le blaster.",
+                    "it-IT": "1.000 blocchi distrutti con il laser del blaster",
+                    "es-ES": "1000 bloques destruidos con el bláster",
+                    "ru-RU": "1000 блоков разбито выстрелом из бластера",
+                    "pt-PT": "1000 blocos destruídos com o laser blaster"
+                },
+                "howto": {
+                    "en-US": "Use the blaster laser to smash 1000 blocks",
+                    "de-DE": "Zerschmettere 1000 Blöcke mit Blasterlaser",
+                    "fr-FR": "Utiliser le blaster pour détruire 1 000 blocs.",
+                    "it-IT": "Usa il blaster per distruggere 1.000 blocchi",
+                    "es-ES": "Usa el láser del bláster para destrozar 1000 bloques",
+                    "ru-RU": "Разбейте 1000 блоков выстрелом из бластера ",
+                    "pt-PT": "Use o laser blaster para destruir 1000 blocos"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "20.png"
+        },
+        "21": {
+            "text": {
+                "name": {
+                    "en-US": "Skilled Pilot",
+                    "de-DE": "Erfahrener Pilot",
+                    "fr-FR": "Pilote expérimenté ",
+                    "it-IT": "Pilota esperto",
+                    "es-ES": "Piloto con talento",
+                    "ru-RU": "Опытный пилот",
+                    "pt-PT": "Piloto Habilidoso"
+                },
+                "description": {
+                    "en-US": "500 blocks smashed with Pilot",
+                    "de-DE": "500 Blöcke mit Piloten zerschmettert",
+                    "fr-FR": "500 blocs écrasés avec le pilote. ",
+                    "it-IT": "500 blocchi distrutti con il pilota",
+                    "es-ES": "500 bloques destrozados con Piloto",
+                    "ru-RU": "500 блоков разбито Пилотом",
+                    "pt-PT": "500 blocos destruídos com Piloto"
+                },
+                "howto": {
+                    "en-US": "Use the Pilot to smash 500 blocks",
+                    "de-DE": "Zerschmettere mit Piloten 500 Blöcke",
+                    "fr-FR": "Écraser 500 blocs avec le pilote. ",
+                    "it-IT": "Usa il pilota per distruggere 500 blocchi",
+                    "es-ES": "Usa al piloto para destrozar 500 bloques",
+                    "ru-RU": "Разбейте 500 блоков Пилотом",
+                    "pt-PT": "Use o Piloto para destruir 500 blocos"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "21.png"
+        },
+        "22": {
+            "text": {
+                "name": {
+                    "en-US": "Magnificent Grumble",
+                    "de-DE": "Grossartiges Grummeln",
+                    "fr-FR": "Magnifique râleur ",
+                    "it-IT": "Grande lamento",
+                    "es-ES": "Refunfuño magnífico",
+                    "ru-RU": "Не надо злить вуки",
+                    "pt-PT": "Resmungo Magnífico"
+                },
+                "description": {
+                    "en-US": "300 blocks smashed with Chewbacca",
+                    "de-DE": "300 Blöcke mit Chewbacca zerschmettert",
+                    "fr-FR": "300 blocs détruits avec Chewbacca. ",
+                    "it-IT": "300 blocchi distrutti con Chewbecca",
+                    "es-ES": "300 bloques destrozados con Chewbacca",
+                    "ru-RU": "300 блоков разбито Чубаккой",
+                    "pt-PT": "300 blocos destruídos com Chewbacca"
+                },
+                "howto": {
+                    "en-US": "Use Chewbacca to smash 300 blocks",
+                    "de-DE": "Zerschmettere mit Chewbacca 300 Blöcke",
+                    "fr-FR": "Utiliser Chewbacca pour détruire 300 blocs. ",
+                    "it-IT": "Usa Chewbecca per distruggere 300 blocchi",
+                    "es-ES": "Usa a Chewbacca para destrozar 300 bloques",
+                    "ru-RU": "Разбейте 300 блоков Чубаккой ",
+                    "pt-PT": "Use Chewbacca para destruir 300 blocos"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "22.png"
+        },
+        "23": {
+            "text": {
+                "name": {
+                    "en-US": "Prominent Jedi",
+                    "de-DE": "Prominenter Jedi",
+                    "fr-FR": "Prestigieux Jedi ",
+                    "it-IT": "Jedi illustre",
+                    "es-ES": "Jedi prominente",
+                    "ru-RU": "Выдающийся джедай",
+                    "pt-PT": "Jedi Proeminente"
+                },
+                "description": {
+                    "en-US": "Three lasers deflected with saber (in Single Player Mode)",
+                    "de-DE": "Drei Laser mit Lichtschwert abgelenkt (im Einzelspieler-Modus)",
+                    "fr-FR": "Trois lasers déviés au sabre (en mode Un joueur). ",
+                    "it-IT": "3 laser respinti con la spada (giocatore singolo)",
+                    "es-ES": "Tres láseres devueltos con el sable (en Un solo jugador)",
+                    "ru-RU": "Три лазера отбито мечом (одиночный режим)",
+                    "pt-PT": "Três lasers defletidos com o sabre (no modo Um Jogador)"
+                },
+                "howto": {
+                    "en-US": "Deflect three lasers with saber (in Single Player Mode)",
+                    "de-DE": "Lenke drei Laser mit dem Lichtschwert ab (im Einzelspieler-Modus)",
+                    "fr-FR": "Dévier trois lasers au sabre (en mode Un joueur). ",
+                    "it-IT": "Respingi 3 laser con la spada (giocatore singolo)",
+                    "es-ES": "Devuelve tres láseres con el sable (en Un solo jugador)",
+                    "ru-RU": "Отбейте три лазера мечом (одиночный режим) ",
+                    "pt-PT": "Deflita três lasers com o sabre (no modo Um Jogador)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "23.png"
+        },
+        "24": {
+            "text": {
+                "name": {
+                    "en-US": "Target Shooter",
+                    "de-DE": "Zielschütze",
+                    "fr-FR": "Tir sur cible ",
+                    "it-IT": "Tiratore",
+                    "es-ES": "Tirador",
+                    "ru-RU": "Меткий стрелок",
+                    "pt-PT": "Tiro ao Alvo"
+                },
+                "description": {
+                    "en-US": "Three pigs shot with a single blaster shot (in Single Player Mode)",
+                    "de-DE": "Drei Schweine mit einem einzigen Blasterschuss getroffen (im Einzelspieler-Modus)",
+                    "fr-FR": "Trois cochons abattus en un seul tir de blaster (en mode Un joueur). ",
+                    "it-IT": "3 maiali colpiti con un solo colpo di blaster (giocatore singolo)",
+                    "es-ES": "Dales a tres cerdos con un solo disparo de bláster (en Un solo jugador)",
+                    "ru-RU": "Три свиньи уничтожено одним выстрелом бластера (одиночный режим)",
+                    "pt-PT": "Três porcos atingidos por um único disparo da blaster (no modo Um Jogador)"
+                },
+                "howto": {
+                    "en-US": "Shoot three pigs with a single blaster shot (in Single Player Mode)",
+                    "de-DE": "Triff drei Schweine mit einem einzigen Blasterschuss (im Einzelspieler-Modus)",
+                    "fr-FR": "Abattre trois cochons en un seul tir de blaster (en mode Un joueur). ",
+                    "it-IT": "Colpisci 3 maiali con un solo colpo di blaster (giocatore singolo)",
+                    "es-ES": "Les diste a tres cerdos con un solo disparo de bláster (en Un solo jugador)",
+                    "ru-RU": "Уничтожьте три свиньи одним выстрелом бластера (одиночный режим) ",
+                    "pt-PT": "Atire em três porcos atingidos por um único disparo da blaster (no modo Um Jogador)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "24.png"
+        },
+        "25": {
+            "text": {
+                "name": {
+                    "en-US": "Star Bird Fan",
+                    "de-DE": "Sternenvogel-Fan",
+                    "fr-FR": "Fan du Star Bird ",
+                    "it-IT": "Fan di Star Bird",
+                    "es-ES": "Aficionado al pájaro estelar",
+                    "ru-RU": "Любитель",
+                    "pt-PT": "Fã de Pássaros Estelares"
+                },
+                "description": {
+                    "en-US": "Angry Birds Star Wars played for 5 hours",
+                    "de-DE": "Angry Birds Star Wars 5 Stunden lang gespielt",
+                    "fr-FR": "5 heures de jeu dans Angry Birds Star Wars. ",
+                    "it-IT": "Hai giocato ad Angry Birds Star Wars per 5 ore",
+                    "es-ES": "Jugaste Angry Birds Star Wars durante 5 horas",
+                    "ru-RU": "В Angry Birds Star Wars сыграно 5 часов",
+                    "pt-PT": "Angry Birds Star Wars foi jogado por 5 horas"
+                },
+                "howto": {
+                    "en-US": "Play Angry Birds Star Wars for 5 hours",
+                    "de-DE": "Spiele Angry Birds Star Wars 5 Stunden lang",
+                    "fr-FR": "5 heures de jeu dans Angry Birds Star Wars. ",
+                    "it-IT": "Gioca ad Angry Birds Star Wars per 5 ore",
+                    "es-ES": "Juega Angry Birds Star Wars durante 5 horas",
+                    "ru-RU": "Играйте в Angry Birds Star Wars 5 часов ",
+                    "pt-PT": "Jogue Angry Birds Star Wars por 5 horas"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "25.png"
+        },
+        "26": {
+            "text": {
+                "name": {
+                    "en-US": "True Star Bird Fan",
+                    "de-DE": "Wahrer Sternenvogel-Fan",
+                    "fr-FR": "Vrai fan du Star Bird ",
+                    "it-IT": "Vero fan di Star Bird",
+                    "es-ES": "Aficionado al pájaro estelar",
+                    "ru-RU": "Фанат",
+                    "pt-PT": "Fã Fiel de Pássaros Estelares"
+                },
+                "description": {
+                    "en-US": "Angry Birds Star Wars played for 15 hours",
+                    "de-DE": "Angry Birds Star Wars 15 Stunden lang gespielt",
+                    "fr-FR": "15 heures de jeu dans Angry Birds Star Wars. ",
+                    "it-IT": "Hai giocato ad Angry Birds Star Wars per 15 ore",
+                    "es-ES": "Jugaste Angry Birds Star Wars durante 15 horas",
+                    "ru-RU": "В Angry Birds Star Wars сыграно 15 часов ",
+                    "pt-PT": "Angry Birds Star Wars foi jogado por 15 horas"
+                },
+                "howto": {
+                    "en-US": "Play Angry Birds Star Wars for 15 hours",
+                    "de-DE": "Spiele Angry Birds Star Wars 15 Stunden lang",
+                    "fr-FR": "Jouer 15 heures à Angry Birds Star Wars. ",
+                    "it-IT": "Gioca ad Angry Birds Star Wars per 15 ore",
+                    "es-ES": "Juega Angry Birds Star Wars durante 15 horas",
+                    "ru-RU": "Играйте в Angry Birds Star Wars 15 часов ",
+                    "pt-PT": "Jogue Angry Birds Star Wars por 15 horas"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "26.png"
+        },
+        "27": {
+            "text": {
+                "name": {
+                    "en-US": "Star Bird Addict",
+                    "de-DE": "Sternenvogel-Süchtiger",
+                    "fr-FR": "Accro au Star Bird ",
+                    "it-IT": "Appassionato di Star Bird",
+                    "es-ES": "Adicto al pájaro estelar",
+                    "ru-RU": "Подлинный фанат",
+                    "pt-PT": "Viciado em Pássaros Estelares"
+                },
+                "description": {
+                    "en-US": "Angry Birds Star Wars played for 30 hours",
+                    "de-DE": "Angry Birds Star Wars 30 Stunden lang gespielt",
+                    "fr-FR": "30 heures de jeu dans Angry Birds Star Wars. ",
+                    "it-IT": "Hai giocato ad Angry Birds Star Wars per 30 ore",
+                    "es-ES": "Jugaste Angry Birds Star Wars durante 30 horas",
+                    "ru-RU": "Angry Birds Star Wars сыграно 30 часов",
+                    "pt-PT": "Angry Birds Star Wars foi jogado por 30 horas"
+                },
+                "howto": {
+                    "en-US": "N/A",
+                    "de-DE": "N/V",
+                    "fr-FR": "N/A",
+                    "it-IT": "N/D",
+                    "es-ES": "N/D",
+                    "ru-RU": "N/A",
+                    "pt-PT": "N/D"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "27.png"
+        },
+        "28": {
+            "text": {
+                "name": {
+                    "en-US": "Fly Bird Fly",
+                    "de-DE": "Flieg, Vogel, flieg",
+                    "fr-FR": "Vole, petit oiseau",
+                    "it-IT": "Vola Angry Bird, vola",
+                    "es-ES": "Vuela, pajarito, vuela",
+                    "ru-RU": "Лети, птичка!",
+                    "pt-PT": "Voe Pássaro, Voe"
+                },
+                "description": {
+                    "en-US": "5000 birds launched",
+                    "de-DE": "5000 Vögel abgefeuert",
+                    "fr-FR": "5 000 oiseaux lancés. ",
+                    "it-IT": "5.000 Angry Bird lanciati",
+                    "es-ES": "Lanzaste 5000 pájaros",
+                    "ru-RU": "Запущено 5000 птиц",
+                    "pt-PT": "5000 pássaros lançados"
+                },
+                "howto": {
+                    "en-US": "Launch a total of 5000 birds",
+                    "de-DE": "Feuere insgesamt 5000 Vögel ab",
+                    "fr-FR": "Lancer un total de 5 000 oiseaux. ",
+                    "it-IT": "Lancia 5.000 Angry Bird",
+                    "es-ES": "Lanza un total de 5000 pájaros",
+                    "ru-RU": "Запустите 5000 птиц",
+                    "pt-PT": "Lance um total de 5000 pássaros"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "28.png"
+        },
+        "29": {
+            "text": {
+                "name": {
+                    "en-US": "There's No-one Here",
+                    "de-DE": "Hier ist niemand",
+                    "fr-FR": "Il n'y a personne ici ",
+                    "it-IT": "Non c'è nessuno qui",
+                    "es-ES": "Aquí no hay nadie",
+                    "ru-RU": "Здесь никого нет",
+                    "pt-PT": "Não Há Ninguém Aqui"
+                },
+                "description": {
+                    "en-US": "Stormtrooper shot another trooper (in Single Player mode)",
+                    "de-DE": "Sturmtruppe hat andere Truppe abgeschossen (im Einzelspieler-Modus)",
+                    "fr-FR": "Un stormtrooper a tiré sur un autre trooper (en mode Un joueur).",
+                    "it-IT": "Un soldato imperiale ha colpito un altro soldato (giocatore singolo)",
+                    "es-ES": "Un soldado imperial le disparó a otro (en Un solo jugador)",
+                    "ru-RU": "Штурмовик уничтожен выстрелом другого штурмовика (одиночный режим)",
+                    "pt-PT": "Um stormtrooper atirou em outro (no modo Um Jogador)"
+                },
+                "howto": {
+                    "en-US": "Cause a Stormtrooper to shoot another trooper (in Single Player mode)",
+                    "de-DE": "Bring eine Sturmtruppe dazu, eine andere Truppe abzuschießen (im Einzelspieler-Modus)",
+                    "fr-FR": "Faire tirer un stormtrooper sur un autre trooper (en mode Un joueur).",
+                    "it-IT": "Induci un soldato imperiale a colpire un altro soldato (in Single Player mode)",
+                    "es-ES": "Haz que un soldado imperial le dispare a otro (en Un solo jugador)",
+                    "ru-RU": "Уничтожьте штурмовика выстрелом другого штурмовика (одиночный режим) ",
+                    "pt-PT": "Faça com que um Stormtrooper atire em outro (no modo Um Jogador)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "29.png"
+        },
+        "30": {
+            "text": {
+                "name": {
+                    "en-US": "Imperial Entanglement",
+                    "de-DE": "Imperiale Verstrickungen",
+                    "fr-FR": "Rets impériaux ",
+                    "it-IT": "Intrigo imperiale",
+                    "es-ES": "Enredo imperial",
+                    "ru-RU": "Имперские контакты",
+                    "pt-PT": "Confusão Imperial"
+                },
+                "description": {
+                    "en-US": "Stormtrooper popped with Tie Fighter's wing (in Single Player mode)",
+                    "de-DE": "Sturmtruppe mit TIE-Fighter-Flügel erledigt (im Einzelspieler-Modus)",
+                    "fr-FR": "Stormtrooper éliminé avec l'aile d'un chasseur TIE (en mode Un joueur). ",
+                    "it-IT": "Soldato imperiale eliminato con l'ala del caccia TIE (giocatore singolo)",
+                    "es-ES": "Un soldado imperial eliminado con un ala de caza TIE (en Un solo jugador)",
+                    "ru-RU": "Штурмовик уничтожен крылом истребителя TIE (одиночный режим)",
+                    "pt-PT": "Stormtrooper esmagado pela asa de um Tie Fighter (no modo Um Jogador)"
+                },
+                "howto": {
+                    "en-US": "Pop a Stormtrooper with the tip of a Tie Fighters wing (in Single Player mode)",
+                    "de-DE": "Erledige eine Sturmtruppe durch Berührung mit einem TIE-Fighter-Flügel (im Einzelspieler-Modus)",
+                    "fr-FR": "Éliminer un Stormtrooper avec l'aile d'un chasseur TIE (en mode Un joueur). ",
+                    "it-IT": "Elimina un soldato imperiale con l'ala del caccia TIE (giocatore singolo)",
+                    "es-ES": "Elimina un soldado imperial con la punta del ala de un caza TIE (en Un solo jugador)",
+                    "ru-RU": "Уничтожьте Штурмовика крылом истребителя TIE (одиночный режим)",
+                    "pt-PT": "Esmague um Stormtrooper com a ponta da asa de um Tie Fighter (no modo Um Jogador)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "30.png"
+        },
+        "31": {
+            "text": {
+                "name": {
+                    "en-US": "Walking Carpet",
+                    "de-DE": "Wandelnder Teppich",
+                    "fr-FR": "Carpette ambulante",
+                    "it-IT": "Tappeto ambulante",
+                    "es-ES": "Alfombra",
+                    "ru-RU": "Ходячий коврик",
+                    "pt-PT": "Carpete Ambulante"
+                },
+                "description": {
+                    "en-US": "Same turret shot Chewbacca 6 times with a direct hit (in Single Player Mode)",
+                    "de-DE": "Chewbacca 6-mal per direktem Treffer vom gleichen Geschütz abgeschossen (im Einzelspieler-Modus)",
+                    "fr-FR": "La même tourelle a abattu 6 fois Chewbacca par un tir direct (en mode Un joueur). ",
+                    "it-IT": "La stessa torretta ha colpito Chewbecca 6 volte con colpi diretti (giocatore singolo)",
+                    "es-ES": "La misma torreta le disparó 6 veces a Chewbacca directamente (en Un solo jugador)",
+                    "ru-RU": "Одна и та же турель попала в Чубакку 6 раз (без рикошетов, одиночный режим)",
+                    "pt-PT": "A mesma torre atirou em Chewbacca 6 vezes com um golpe direto (no modo Um Jogador)"
+                },
+                "howto": {
+                    "en-US": "Get Chewbacca with a direct hit by the same turret 6 times (in Single Player mode)",
+                    "de-DE": "Lass Chewbacca 6-mal vom gleichen Geschütz per direktem Treffer abgeschossen werden (Einzelspieler)",
+                    "fr-FR": "Faire abattre 6 fois Chewbacca par un tir direct de la même tourelle (en mode Un joueur). ",
+                    "it-IT": "Fai in modo che Chewbecca sia colpito direttamente 6 volte dalla stessa torretta (giocatore singolo)",
+                    "es-ES": "Haz que la misma torreta le dispare directamente 6 veces a Chewbacca (en Un solo jugador)",
+                    "ru-RU": "Сделайте так, чтобы одна и та же турель попала в Чубакку 6 раз (без рикошетов, одиночный режим)",
+                    "pt-PT": "Faça com que Chewbacca seja atingido com um golpe direto 6 vezes pela mesma torre (Modo Um Jogador)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "31.png"
+        },
+        "32": {
+            "text": {
+                "name": {
+                    "en-US": "Simple Pigs and Nonsense",
+                    "de-DE": "Simple Schweine und Unsinn",
+                    "fr-FR": "Cochons et absurdités ",
+                    "it-IT": "Solo maiali e nonsenso",
+                    "es-ES": "Cerdos sencillos y tonterías",
+                    "ru-RU": "Свиньи и чепуха",
+                    "pt-PT": "Porcos Simples e Besteiras"
+                },
+                "description": {
+                    "en-US": "300 stormtroopers popped",
+                    "de-DE": "300 Sturmtruppen erledigt",
+                    "fr-FR": "300 stormtroopers détruits. ",
+                    "it-IT": "300 soldati imperiali eliminati",
+                    "es-ES": "300 soldados imperiales eliminados",
+                    "ru-RU": "Уничтожено 300 штурмовиков",
+                    "pt-PT": "300 stormtroopers eliminados"
+                },
+                "howto": {
+                    "en-US": "Pop a total of 300 Stormtroopers",
+                    "de-DE": "Erledige insgesamt 300 Sturmtruppen",
+                    "fr-FR": "Détruire 300 stormtroopers.",
+                    "it-IT": "Elimina 300 soldati imperiali",
+                    "es-ES": "Elimina un total de 300 soldados imperiales",
+                    "ru-RU": "Уничтожьте 300 штурмовиков ",
+                    "pt-PT": "Derrote um total de 300 Stormtroopers"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "32.png"
+        },
+        "33": {
+            "text": {
+                "name": {
+                    "en-US": "The Birds Will Be With You",
+                    "de-DE": "Mögen die Vögel mit dir sein",
+                    "fr-FR": "Les oiseaux seront avec vous ",
+                    "it-IT": "Gli Angry Bird saranno con te",
+                    "es-ES": "Que los pájaros te acompañen",
+                    "ru-RU": "Да пребудут с вами птицы",
+                    "pt-PT": "Os Pássaros Estarão Com Você"
+                },
+                "description": {
+                    "en-US": "10 levels completed with one bird",
+                    "de-DE": "10 Level mit einem Vogel abgeschlossen",
+                    "fr-FR": "10 niveaux terminés avec un oiseau. ",
+                    "it-IT": "10 livelli completati con un Angry Bird",
+                    "es-ES": "10 niveles completados con un pájaro",
+                    "ru-RU": "10 уровней пройдено одной птицей",
+                    "pt-PT": "10 fases concluídas com um pássaro"
+                },
+                "howto": {
+                    "en-US": "Complete 10 levels using one bird each",
+                    "de-DE": "Schließe 10 Level mit einem Vogel ab",
+                    "fr-FR": "Terminer 10 niveaux avec un oiseau. ",
+                    "it-IT": "Completa 10 livelli usando un Angry Bird ciascuno",
+                    "es-ES": "Completa 10 niveles usando un pájaro en cada uno",
+                    "ru-RU": "Пройдите 10 уровней используя только одну птицу",
+                    "pt-PT": "Complete 10 fases usando um pássaro em cada"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "33.png"
+        },
+        "34": {
+            "text": {
+                "name": {
+                    "en-US": "Lack of Faith",
+                    "de-DE": "Fehlender Glaube",
+                    "fr-FR": "Manque de foi ",
+                    "it-IT": "Mancanza di fede",
+                    "es-ES": "Falta de fe",
+                    "ru-RU": "Недостаток веры",
+                    "pt-PT": "Falta de Fé"
+                },
+                "description": {
+                    "en-US": "Level restarted 100 times",
+                    "de-DE": "Level 100-mal neu gestartet",
+                    "fr-FR": "Niveau recommencé 100 fois. ",
+                    "it-IT": "Livello riavviato 100 volte",
+                    "es-ES": "Reiniciaste el nivel 100 veces",
+                    "ru-RU": "100 раз перезапустить уровень",
+                    "pt-PT": "Fase reiniciada 100 vezes"
+                },
+                "howto": {
+                    "en-US": "Restart a level 100 times",
+                    "de-DE": "Starte einen Level 100-mal neu",
+                    "fr-FR": "Recommencer un niveau 100 fois. ",
+                    "it-IT": "Riavvia un livello 100 volte",
+                    "es-ES": "Reinicia un nivel 100 veces",
+                    "ru-RU": "100 раз перезапустить уровень",
+                    "pt-PT": "Reinicie uma fase 100 vezes"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "34.png"
+        },
+        "35": {
+            "text": {
+                "name": {
+                    "en-US": "Pork side of the Force",
+                    "de-DE": "Die Schweineseite der Macht",
+                    "fr-FR": "Le côté porcin de la Force ",
+                    "it-IT": "Il lato suino della Forza",
+                    "es-ES": "El lado cerdo de la Fuerza",
+                    "ru-RU": "Свиная сторона силы",
+                    "pt-PT": "Lado Porco da Força"
+                },
+                "description": {
+                    "en-US": "Fail level 10 times with one pig left",
+                    "de-DE": "Scheitere in einem Level 10-mal mit nur noch einem Schwein übrig",
+                    "fr-FR": "Rater le niveau 10 fois avec un cochon restant.",
+                    "it-IT": "Fallisci un livello 10 volte con un maiale rimasto",
+                    "es-ES": "Fracasa en un nivel 10 veces quedándote un solo cerdo",
+                    "ru-RU": "Не пройдите уровень с одной оставшейся свиньей 10 раз",
+                    "pt-PT": "Fracasse uma fase 10 vezes com um porco restante"
+                },
+                "howto": {
+                    "en-US": "Fail level 10 times with one pig left (in Single Player Mode)",
+                    "de-DE": "Scheitere in einem Level 10-mal mit nur noch einem Schwein übrig (im Einzelspieler-Modus)",
+                    "fr-FR": "Rater le niveau 10 fois avec un cochon restant (en mode Un joueur). ",
+                    "it-IT": "Fallisci un livello 10 volte con un maiale rimasto (giocatore singolo)",
+                    "es-ES": "Fracasa en un nivel 10 veces quedándote un solo cerdo (en Un solo jugador)",
+                    "ru-RU": "Не пройдите уровень с одной оставшейся свиньей 10 раз (одиночный режим)",
+                    "pt-PT": "Fracasse uma fase 10 vezes com um porco restante (no modo Um Jogador)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "5",
+            "imageId": "35.png"
+        },
+        "36": {
+            "text": {
+                "name": {
+                    "en-US": "Fatal Attraction",
+                    "de-DE": "Fatale Anziehungskraft",
+                    "fr-FR": "Attirance mortelle ",
+                    "it-IT": "Attrazione fatale",
+                    "es-ES": "Atracción fatal",
+                    "ru-RU": "Фатальное влечение",
+                    "pt-PT": "Atração Fatal"
+                },
+                "description": {
+                    "en-US": "Lift 500 blocks with gravitational field disruptor",
+                    "de-DE": "Hebe 500 Blöcke mit einem Gravitationsfeld-Disruptor",
+                    "fr-FR": "Soulever 500 blocs avec le disrupteur de champ gravitationnel. ",
+                    "it-IT": "Solleva 500 blocchi con il disturbatore di campo gravitazionale",
+                    "es-ES": "Levanta 500 bloques con disruptores de campo gravitatorio",
+                    "ru-RU": "Поднимите 500 блоков притягивающим лучом",
+                    "pt-PT": "Erga 500 blocos com o desregulador de campo gravitacional"
+                },
+                "howto": {
+                    "en-US": "Use a gravitational field disruptor to lift 500 blocks",
+                    "de-DE": "Setze einen Gravitationsfeld-Disruptor ein, um 500 Blöcke zu heben",
+                    "fr-FR": "Soulever 500 blocs avec le disrupteur de champ gravitationnel. ",
+                    "it-IT": "Usa un disturbatore di campo gravitazionale per sollevare 500 blocchi",
+                    "es-ES": "Usa un disruptor de campo gravitatorio para levantar 500 bloques.",
+                    "ru-RU": "Поднимите 500 блоков притягивающим лучом",
+                    "pt-PT": "Use o desregulador de campo gravitacional para erguer 500 blocos"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "36.png"
+        },
+        "37": {
+            "text": {
+                "name": {
+                    "en-US": "Transport Is Away",
+                    "de-DE": "Transport ist weg",
+                    "fr-FR": "Le transport est loin ",
+                    "it-IT": "Trasporto: partito",
+                    "es-ES": "Transporte en movimiento",
+                    "ru-RU": "Транспорт ушел",
+                    "pt-PT": "O Transporte Partiu"
+                },
+                "description": {
+                    "en-US": "Hoth completed",
+                    "de-DE": "Hoth abgeschlossen",
+                    "fr-FR": "Épisode Hoth terminé. ",
+                    "it-IT": "Hoth completato",
+                    "es-ES": "Hoth completado",
+                    "ru-RU": "Hoth пройден",
+                    "pt-PT": "Hoth concluído"
+                },
+                "howto": {
+                    "en-US": "Complete Hoth",
+                    "de-DE": "Schließe Hoth ab",
+                    "fr-FR": "Terminer Hoth.",
+                    "it-IT": "Completa Hoth",
+                    "es-ES": "Completa Hoth",
+                    "ru-RU": "Пройдите Hoth",
+                    "pt-PT": "Complete Hoth"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "37.png"
+        },
+        "38": {
+            "text": {
+                "name": {
+                    "en-US": "Hoth – All Stars",
+                    "de-DE": "Hoth - alle Sterne",
+                    "fr-FR": "Hoth – Toutes les étoiles",
+                    "it-IT": "Hoth - Tutte le stelle",
+                    "es-ES": "Hoth: todas las estrellas",
+                    "ru-RU": "Hoth - Все звезды",
+                    "pt-PT": "Hoth - Todas as estrelas"
+                },
+                "description": {
+                    "en-US": "Hoth: Three stars in all levels",
+                    "de-DE": "Hoth: Drei Sterne in allen Leveln",
+                    "fr-FR": "Hoth : trois étoiles dans tous les niveaux.",
+                    "it-IT": "Hoth: 3 stelle in ogni livello",
+                    "es-ES": "Hoth: tres estrellas en todos los niveles",
+                    "ru-RU": "Hoth: Получите 3 звезды на всех уровнях",
+                    "pt-PT": "Hoth: Três estrelas em todas as fases"
+                },
+                "howto": {
+                    "en-US": "N/A",
+                    "de-DE": "N/V",
+                    "fr-FR": "N/A",
+                    "it-IT": "N/D",
+                    "es-ES": "N/D",
+                    "ru-RU": "N/A",
+                    "pt-PT": "N/D"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "38.png"
+        },
+        "39": {
+            "text": {
+                "name": {
+                    "en-US": "Hoth - The Force",
+                    "de-DE": "Hoth - die Macht",
+                    "fr-FR": "Hoth - La Force ",
+                    "it-IT": "Hoth - La Forza",
+                    "es-ES": "Hoth: la Fuerza",
+                    "ru-RU": "Hoth - Сила",
+                    "pt-PT": "Hoth - A Força"
+                },
+                "description": {
+                    "en-US": "Hoth: Get 3,450,000 points",
+                    "de-DE": "Hoth: Erlange 3.450.000 Punkte",
+                    "fr-FR": "Hoth : obtenir 3 450 000 points. ",
+                    "it-IT": "Hoth: Ottieni 3.450.000 punti",
+                    "es-ES": "Hoth: consigue 3 450 000 puntos",
+                    "ru-RU": "Hoth: наберите 3450000 очков",
+                    "pt-PT": "Hoth: Obtenha 3.450.000 pontos"
+                },
+                "howto": {
+                    "en-US": "Get 3,450,000 points on Hoth",
+                    "de-DE": "Erlange 3.450.000 Punkte auf Hoth",
+                    "fr-FR": "Obtenir 3 450 000 points sur Hoth.",
+                    "it-IT": "Ottieni 3.450.000 punti su Hoth",
+                    "es-ES": "Consigue 3 450 000 puntos en Hoth",
+                    "ru-RU": "Hoth: наберите 3450000 очков",
+                    "pt-PT": "Obtenha 3.450.000 pontos em Hoth"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "39.png"
+        },
+        "40": {
+            "text": {
+                "name": {
+                    "en-US": "Mynock Tangle",
+                    "de-DE": "Mynock-Verwicklung",
+                    "fr-FR": "Piège de mynock ",
+                    "it-IT": "Groviglio di mynock",
+                    "es-ES": "Enredo mynock",
+                    "ru-RU": "Связка миноков",
+                    "pt-PT": "Laços Mynock"
+                },
+                "description": {
+                    "en-US": "Mynock popped with another mynock in 6 levels (in Single Player Mode)",
+                    "de-DE": "Mynock in 6 Leveln mit einem anderen Mynock erledigt (im Einzelspieler-Modus)",
+                    "fr-FR": "Un mynock éclaté avec un autre mynock dans 6 niveaux (en mode Un joueur). ",
+                    "it-IT": "Mynock eliminato con un altro mynock in 6 livelli (giocatore singolo)",
+                    "es-ES": "Mynock eliminado con otro mynock en 6 niveles (en Un solo jugador)",
+                    "ru-RU": "Минок уничтожен другим миноком на 6 уровнях (одиночный режим)",
+                    "pt-PT": "Mynock esmagado por outro Mynock em 6 fases (no modo Um Jogador)"
+                },
+                "howto": {
+                    "en-US": "Pop a Mynock with another Mynock in 6 levels (in Single Player Mode)",
+                    "de-DE": "Erledige einen Mynock in 6 Leveln mit einem anderen Mynock (im Einzelspieler-Modus)",
+                    "fr-FR": "Éclater un mynock avec un autre mynock dans 6 niveaux (en mode Un joueur). ",
+                    "it-IT": "Elimina un Mynock con un altro mynock in 6 livelli (giocatore singolo)",
+                    "es-ES": "Eliminaste a un mynock con otro mynock en 6 niveles (en Un solo jugador)",
+                    "ru-RU": "Уничтожьте минока другим миноком на 6 уровнях (одиночный режим) ",
+                    "pt-PT": "Esmague um Mynock com outro Mynock em 6 fases (no modo Um Jogador)"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "40.png"
+        },
+        "41": {
+            "text": {
+                "name": {
+                    "en-US": "Block Buster",
+                    "de-DE": "Block-Zerschmetterer",
+                    "fr-FR": "Tueur de blocs",
+                    "it-IT": "Rompiscatole",
+                    "es-ES": "Gran éxito",
+                    "ru-RU": "Блокбастер",
+                    "pt-PT": "Arrasa-quarteirão"
+                },
+                "description": {
+                    "en-US": "Smash 25 blocks with a single flight of Boba",
+                    "de-DE": "Zerstöre 25 Blöcke mit einem einzigen Flug Bobas",
+                    "fr-FR": "Détruire 25 blocs avec un seul vol de Boba.",
+                    "it-IT": "Distruggi 25 blocchi con un solo volo di Boba",
+                    "es-ES": "Destroza 25 bloques con un solo vuelo de Boba",
+                    "ru-RU": "Разбейте 25 блоков одним броском Бобы",
+                    "pt-PT": "Destrua 25 blocos com um único voo de Boba"
+                },
+                "howto": {
+                    "en-US": "Smash 25 blocks with a single flight of Boba",
+                    "de-DE": "Zerstöre 25 Blöcke mit einem einzigen Flug Bobas",
+                    "fr-FR": "Détruire 25 blocs avec un seul vol de Boba.",
+                    "it-IT": "Distruggi 25 blocchi con un solo volo di Boba",
+                    "es-ES": "Destroza 25 bloques con un solo vuelo de Boba",
+                    "ru-RU": "Разбейте 25 блоков одним броском Бобы",
+                    "pt-PT": "Destrua 25 blocos com um único voo de Boba"
+                }
+            },
+            "isSecret": "true",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "41.png"
+        },
+        "42": {
+            "text": {
+                "name": {
+                    "en-US": "There is no try",
+                    "de-DE": "Es gibt kein Versuchen",
+                    "fr-FR": "Il n'y a pas d'essai ",
+                    "it-IT": "Non c'è provare",
+                    "es-ES": "No lo intentes",
+                    "ru-RU": "Не пытайся, делай",
+                    "pt-PT": "Tentativa não há"
+                },
+                "description": {
+                    "en-US": "Play a multiplayer game with a total of four people ",
+                    "de-DE": "Spiele ein Mehrspieler-Spiel mit insgesamt vier Spielern",
+                    "fr-FR": "Jouer une partie en multijoueur avec un total de quatre personnes. ",
+                    "it-IT": "Gioca una partita multigiocatore con un totale di quattro persone ",
+                    "es-ES": "Juega una partida multijugador con un total de cuatro personas ",
+                    "ru-RU": "Сыграйте сетевой матч, в котором участвуют 4 игрока",
+                    "pt-PT": "Jogue uma partida multijogador com quatro pessoas "
+                },
+                "howto": {
+                    "en-US": "N/A",
+                    "de-DE": "N/V",
+                    "fr-FR": "N/A",
+                    "it-IT": "N/D",
+                    "es-ES": "N/D",
+                    "ru-RU": "N/A",
+                    "pt-PT": "N/D"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "42.png"
+        },
+        "43": {
+            "text": {
+                "name": {
+                    "en-US": "The circle is now complete",
+                    "de-DE": "Der Kreis ist jetzt vollständig",
+                    "fr-FR": "La boucle est bouclée ",
+                    "it-IT": "Ora il cerchio è completo",
+                    "es-ES": "El círculo está completo",
+                    "ru-RU": "Круг замкнулся",
+                    "pt-PT": "O círculo agora está completo"
+                },
+                "description": {
+                    "en-US": "Complete the Exclusive Levels",
+                    "de-DE": "Schließe alle Exclusive Levels ab",
+                    "fr-FR": "Terminer Exclusive Levels.",
+                    "it-IT": "Completa gli Exclusive Levels",
+                    "es-ES": "Completa Exclusive Levels",
+                    "ru-RU": "Пройдите все эксклюзивные уровни",
+                    "pt-PT": "Complete Exclusive Levels"
+                },
+                "howto": {
+                    "en-US": "N/A",
+                    "de-DE": "N/V",
+                    "fr-FR": "N/A",
+                    "it-IT": "N/D",
+                    "es-ES": "N/D",
+                    "ru-RU": "N/A",
+                    "pt-PT": "N/D"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "30",
+            "imageId": "43.png"
+        },
+        "44": {
+            "text": {
+                "name": {
+                    "en-US": "All too easy",
+                    "de-DE": "Alles zu einfach",
+                    "fr-FR": "Trop facile",
+                    "it-IT": "Troppo facile",
+                    "es-ES": "Demasiado fácil",
+                    "ru-RU": "Слишком просто",
+                    "pt-PT": "Fácil demais"
+                },
+                "description": {
+                    "en-US": "Exclusive Levels: Three stars in all levels",
+                    "de-DE": "Exclusive Levels: Drei Sterne in allen Leveln",
+                    "fr-FR": "Exclusive Levels : trois étoiles dans chaque niveau.",
+                    "it-IT": "Exclusive Levels: 3 stelle in ogni livello",
+                    "es-ES": "Exclusive Levels: tres estrellas en todos los niveles",
+                    "ru-RU": "Эксклюзивные уровни: 3 звезды на всех уровнях",
+                    "pt-PT": "Exclusive Levels: Três estrelas em todas as fases"
+                },
+                "howto": {
+                    "en-US": "N/A",
+                    "de-DE": "N/V",
+                    "fr-FR": "N/A",
+                    "it-IT": "N/D",
+                    "es-ES": "N/D",
+                    "ru-RU": "N/A",
+                    "pt-PT": "N/D"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "50",
+            "imageId": "44.png"
+        },
+        "45": {
+            "text": {
+                "name": {
+                    "en-US": "Thank the maker!",
+                    "de-DE": "Dank dem Erbauer!",
+                    "fr-FR": "Gloire au créateur ! ",
+                    "it-IT": "Grazie al creatore!",
+                    "es-ES": "¡Da gracias al creador!",
+                    "ru-RU": "Спасибо создателю!",
+                    "pt-PT": "Agradeça ao nosso criador!"
+                },
+                "description": {
+                    "en-US": "Unlock your first secret from the Extras menu",
+                    "de-DE": "Schalte dein erstes Geheimnis im Extras-Menü frei",
+                    "fr-FR": "Débloquer un premier secret dans le menu des suppléments. ",
+                    "it-IT": "Sblocca il tuo primo segreto dal menu Extra",
+                    "es-ES": "Desbloquea tu primer secreto en el menú Extras",
+                    "ru-RU": "Откройте первый секрет в меню Дополнительно",
+                    "pt-PT": "Destrave o primeiro segredo no menu Extras"
+                },
+                "howto": {
+                    "en-US": "N/A",
+                    "de-DE": "N/V",
+                    "fr-FR": "N/A",
+                    "it-IT": "N/D",
+                    "es-ES": "N/D",
+                    "ru-RU": "N/A",
+                    "pt-PT": "N/D"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "45.png"
+        },
+        "46": {
+            "text": {
+                "name": {
+                    "en-US": "Well, look at you!",
+                    "de-DE": "Sieh mal einer an!",
+                    "fr-FR": "Regarde-toi un peu ! ",
+                    "it-IT": "Ehi, guardati!",
+                    "es-ES": "¡Vaya, mírate!",
+                    "ru-RU": "А сам то!",
+                    "pt-PT": "Ora, veja só você!"
+                },
+                "description": {
+                    "en-US": "Earn your first bonus score in a multiplayer match",
+                    "de-DE": "Verdiene deine ersten Bonuspunkte in einem Mehrspieler-Match",
+                    "fr-FR": "Gagner un premier score bonus en partie multijoueur. ",
+                    "it-IT": "Guadagna il tuo primo punteggio bonus in una partita multigiocatore",
+                    "es-ES": "Consigue tu primera bonificación en una partida multijugador",
+                    "ru-RU": "Получите свой первый бонус к счету в многопользовательской игре",
+                    "pt-PT": "Obtenha uma pontuação bônus em uma partida multijogador"
+                },
+                "howto": {
+                    "en-US": "N/A",
+                    "de-DE": "N/V",
+                    "fr-FR": "N/A",
+                    "it-IT": "N/D",
+                    "es-ES": "N/D",
+                    "ru-RU": "N/A",
+                    "pt-PT": "N/D"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "46.png"
+        },
+        "47": {
+            "text": {
+                "name": {
+                    "en-US": "No more training do you require",
+                    "de-DE": "Keine Ausbildung du benötigst",
+                    "fr-FR": "Entraînement terminé ",
+                    "it-IT": "Altro non ti serve ormai",
+                    "es-ES": "No necesitas más entrenamiento",
+                    "ru-RU": "Обучение тебе не нужно",
+                    "pt-PT": "De treino não mais precisa"
+                },
+                "description": {
+                    "en-US": "Unlock 5 different bonus scores within the multiplayer mode",
+                    "de-DE": "Schalte 5 verschiedene Bonuspunktarten im Mehrspieler-Modus frei",
+                    "fr-FR": "Débloquer 5 scores bonus différents en mode multijoueur.",
+                    "it-IT": "Sblocca 5 punteggi bonus diversi in modalità multigiocatore",
+                    "es-ES": "Consigue 5 bonificaciones diferentes en el modo multijugador",
+                    "ru-RU": "Откройте 5 разных бонусов к счету в многопользовательском режиме",
+                    "pt-PT": "Desbloqueie 5 tipos diferentes de pontos bônus no modo multijogador"
+                },
+                "howto": {
+                    "en-US": "N/A",
+                    "de-DE": "N/V",
+                    "fr-FR": "N/A",
+                    "it-IT": "N/D",
+                    "es-ES": "N/D",
+                    "ru-RU": "N/A",
+                    "pt-PT": "N/D"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "47.png"
+        },
+        "48": {
+            "text": {
+                "name": {
+                    "en-US": "The Force is strong",
+                    "de-DE": "Die Macht ist stark",
+                    "fr-FR": "La Force est grande ",
+                    "it-IT": "La Forza è potente",
+                    "es-ES": "La Fuerza es poderosa",
+                    "ru-RU": "Мощь силы",
+                    "pt-PT": "A Força é forte"
+                },
+                "description": {
+                    "en-US": "Unlock all of the bonus scores within the multiplayer mode",
+                    "de-DE": "Schalte alle Bonuspunkte im Mehrspieler-Modus frei",
+                    "fr-FR": "Débloquer tous les scores bonus dans le mode multijoueur. ",
+                    "it-IT": "Sblocca tutti i punteggi bonus diversi in modalità multigiocatore",
+                    "es-ES": "Desbloquea todas las bonificaciones en el modo multijugador",
+                    "ru-RU": "Откройте все бонусы к счету в многопользовательском режиме ",
+                    "pt-PT": "Desbloqueie todos os pontos bônus no modo multijogador"
+                },
+                "howto": {
+                    "en-US": "N/A",
+                    "de-DE": "N/V",
+                    "fr-FR": "N/A",
+                    "it-IT": "N/D",
+                    "es-ES": "N/D",
+                    "ru-RU": "N/A",
+                    "pt-PT": "N/D"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "48.png"
+        },
+        "49": {
+            "text": {
+                "name": {
+                    "en-US": "Impressive",
+                    "de-DE": "Beeindruckend",
+                    "fr-FR": "Impressionnant ",
+                    "it-IT": "Notevole",
+                    "es-ES": "Impresionante",
+                    "ru-RU": "Впечатляюще ",
+                    "pt-PT": "Impressionante"
+                },
+                "description": {
+                    "en-US": "Collect your first character sticker",
+                    "de-DE": "Sammle deinen ersten Charakter-Sticker",
+                    "fr-FR": "Collecter un premier autocollant de personnage. ",
+                    "it-IT": "Ottieni il tuo primo cartellino personaggio",
+                    "es-ES": "Consigue tu primera etiqueta de personaje",
+                    "ru-RU": "Соберите 1 наклейку персонажа",
+                    "pt-PT": "Colete seu primeiro adesivo de personagem"
+                },
+                "howto": {
+                    "en-US": "N/A",
+                    "de-DE": "N/V",
+                    "fr-FR": "N/A",
+                    "it-IT": "N/D",
+                    "es-ES": "N/D",
+                    "ru-RU": "N/A",
+                    "pt-PT": "N/D"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "15",
+            "imageId": "49.png"
+        },
+        "50": {
+            "text": {
+                "name": {
+                    "en-US": "Most Impressive",
+                    "de-DE": "Höchst beeindruckend",
+                    "fr-FR": "Très impressionnant ",
+                    "it-IT": "Davvero notevole",
+                    "es-ES": "Muy impresionante",
+                    "ru-RU": "Очень впечатляюще",
+                    "pt-PT": "Mais Impressionante"
+                },
+                "description": {
+                    "en-US": "Collect 10 character stickers",
+                    "de-DE": "Sammle 10 Charakter-Sticker",
+                    "fr-FR": "Collecter 10 autocollants de personnages. ",
+                    "it-IT": "Ottieni 10 cartellini personaggio",
+                    "es-ES": "Consigue 10 etiquetas de personaje",
+                    "ru-RU": "Соберите 10 наклеек персонажей",
+                    "pt-PT": "Colete 10 adesivos de personagens"
+                },
+                "howto": {
+                    "en-US": "N/A",
+                    "de-DE": "N/V",
+                    "fr-FR": "N/A",
+                    "it-IT": "N/D",
+                    "es-ES": "N/D",
+                    "ru-RU": "N/A",
+                    "pt-PT": "N/D"
+                }
+            },
+            "isSecret": "false",
+            "type": "Completion",
+            "credits": "20",
+            "imageId": "50.png"
+        }
+    }
+}
